@@ -1,4 +1,4 @@
-name: Python Script Execution
+name: Watchertower script execution
 
 on:
   push:
@@ -16,19 +16,19 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Spécifiez la version de Python que vous souhaitez utiliser
+        python-version: '3.x' 
     
     - name: Install Dependencies
       run: |
         pip install -r requirements.txt
     
     - name: Execute Python Script
-      run: python app.py  # Remplacez `your_script.py` par le nom de votre script Python
+      run: python app.py
     
     - name: Commit Results
       run: |
         git config --local user.email "bot@github.com"
         git config --local user.name "GitHub Action"
-        git add data.json
-        git commit -m "Updating output"
+        git add output/data.json
+        git commit -m "Updating JSON file"
         git push
