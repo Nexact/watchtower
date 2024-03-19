@@ -1,9 +1,8 @@
 name: Watchertower script execution
 
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron:  '*/30 * * * *'
 
 jobs:
   build:
@@ -20,10 +19,10 @@ jobs:
     
     - name: Install Dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r backend/requirements.txt
     
     - name: Execute Python Script
-      run: python app.py
+      run: python backend/app.py
     
     - name: Commit Results
       run: |
