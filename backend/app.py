@@ -16,13 +16,6 @@ if __name__ == "__main__":
     radiocanada_data = radiocanada.get_radiocanada()
     netsec_data = netsec.get_netsec()
 
-    #if hackernews_data:
-    #    print(json.dumps(hackernews_data, indent=4))
-    #if lapresse_data:
-    #   print(json.dumps(lapresse_data, indent=4))
-    #if radiocanada_data:
-    #    print(json.dumps(radiocanada_data, indent=4))
-
     # prepare json dump 
     data.append(hackernews_data)
     data.append(lobsters_data)

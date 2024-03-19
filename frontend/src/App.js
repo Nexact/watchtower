@@ -6,9 +6,8 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Fragment } from 'react';
 
-import feeds from './data.json';
-
-import { stripHtml } from "string-strip-html";
+// import feeds from './data.json';
+const feeds = await fetch("https://raw.githubusercontent.com/Nexact/watchtower/main/data.json").then(r => r.json())
 
 function App() {
   return (
@@ -35,7 +34,7 @@ function FeedLinks({ items }) {
     <Fragment>
       <Row>
       <a href={items.href} target="_blank"
-            className="text-wrap fs-6 lh-1 link-opacity-50-hover feedlink">
+            className="text-wrap fs-6 lh-1 link-opacity-50-hover feedlink" rel="noreferrer">
                🔗 {items.title}
           </a>
       </Row>
