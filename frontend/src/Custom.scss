@@ -1,0 +1,31 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Lato&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Font Variables
+$noto-sans: 'Noto Sans', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1;
+
+body, html {
+    font-family: $noto-sans;
+    font-size: $font-size-base;
+}
+
+.feedlink { text-decoration: none; }
+.feedlink:visited { color:#435674 !important; }
+
+.logo {
+    text-shadow:
+        0 0 3px #fff,
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 21px #0fa,
+        0 0 42px #0fa,
+        0 0 52px #0fa,
+        0 0 62px #0fa,
+        0 0 82px #0fa;
+        -webkit-user-select: none; /* Safari */
+        -ms-user-select: none; /* IE 10 and IE 11 */
+        user-select: none; /* Standard syntax */
+        animation: pulsate 0.3s ease-in-out infinite alternate;     
+  }

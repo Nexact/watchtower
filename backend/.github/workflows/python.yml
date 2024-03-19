@@ -1,0 +1,34 @@
+name: Python Script Execution
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Spécifiez la version de Python que vous souhaitez utiliser
+    
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Execute Python Script
+      run: python app.py  # Remplacez `your_script.py` par le nom de votre script Python
+    
+    - name: Commit Results
+      run: |
+        git config --local user.email "bot@github.com"
+        git config --local user.name "GitHub Action"
+        git add data.json
+        git commit -m "Updating output"
+        git push
