@@ -32,5 +32,5 @@ if __name__ == "__main__":
 
     print(json.dumps(data, indent=4))
 
-    with open("data.json", "w") as outfile:
+    with open("output/data.json", "w") as outfile:
         outfile.write(json.dumps(data, indent=4))
