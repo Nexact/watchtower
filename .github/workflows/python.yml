@@ -39,6 +39,6 @@ jobs:
       run: |
         git config --local user.email "bot@github.com"
         git config --local user.name "GitHub Action"
-        git add output/data.json
+        git add data.json
         git commit -m "Updating JSON file"
         git push
