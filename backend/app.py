@@ -1,9 +1,8 @@
 from modules import hackernews 
 from modules import lobsters
-from modules import lapresse
-from modules import radiocanada
 from modules import netsec
 from modules import bleepingcomputer
+from modules import rssfeed
 
 import json
 
@@ -13,10 +12,9 @@ if __name__ == "__main__":
 
     hackernews_data = hackernews.get_hackernews()
     lobsters_data = lobsters.get_lobsters()
-    #lapresse_data = lapresse.get_lapresse()
-    #radiocanada_data = radiocanada.get_radiocanada()
     netsec_data = netsec.get_netsec()
     bleepingcomputer_data = bleepingcomputer.get_bleepingcomputer()
+    zerodayinitiative_data = rssfeed.get_rss("zerodayinitiative", "https://www.zerodayinitiative.com/rss/published/")
 
     # prepare json dump 
     data.append(hackernews_data)
@@ -25,6 +23,7 @@ if __name__ == "__main__":
     #data.append(radiocanada_data)
     data.append(netsec_data)
     data.append(bleepingcomputer_data)
+    data.append(zerodayinitiative_data)
 
     print(json.dumps(data, indent=4))
 

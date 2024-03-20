@@ -1,12 +1,11 @@
 import feedparser
 
-def get_lapresse():
-    url = "https://www.lapresse.ca/manchettes/rss"
+def get_rss(feedname, url):
     feed = feedparser.parse(url)
 
     if feed.status == 200:
         lapresse_data = {
-            "feedname": "lapresse",
+            "feedname": feedname,
             "items": []
         }
         for entry in feed.entries:
@@ -17,5 +16,5 @@ def get_lapresse():
 
         return lapresse_data
     else:
-        print("Failed to retrieve Lapresse page.")
+        print("Failed to retrieve rss feed.")
         return None
