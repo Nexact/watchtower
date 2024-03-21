@@ -15,15 +15,17 @@ if __name__ == "__main__":
         {"feedname": "bleepingcomputer", "url":"https://www.bleepingcomputer.com/feed/"},
         {"feedname": "krebsonsecurity", "url":"https://krebsonsecurity.com/feed/"},
         {"feedname": "slashdot", "url": "http://rss.slashdot.org/Slashdot/slashdot"},
-        {"feedname": "ciscotalos", "url": "https://blog.talosintelligence.com/.rss"}
+        {"feedname": "ciscotalos", "url": "https://blog.talosintelligence.com/rss"}
     ]
 
     # loop rss feeds
     for feed in rss_feed:
         feedname = feed['feedname']
         url = feed['url']
-
-        data.append(rssfeed.get(feedname, url))
+        rss = rssfeed.get(feedname, url)
+        
+        if rss is not None:
+            data.append(rssfeed.get(feedname, url))
 
     # html feed
     data.append(hackernews_data)
