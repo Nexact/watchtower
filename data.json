@@ -15,36 +15,40 @@
                 "href": "http://beyondloom.com/decker/learnlil.html"
             },
             {
-                "title": "devenv 1.0: Rewrite in Rust",
-                "href": "https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/"
-            },
-            {
                 "title": "Intrusive Unit Testing",
                 "href": "https://two-wrongs.com/intrusive-unit-testing"
+            },
+            {
+                "title": "devenv 1.0: Rewrite in Rust",
+                "href": "https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/"
             },
             {
                 "title": "Tiny Undervalued Hardware Companions",
                 "href": "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
             },
             {
-                "title": "Bug hunting in Btrfs",
-                "href": "https://tavianator.com/2024/btrfs_bug.html"
+                "title": "The case for a cli tag",
+                "href": "https://lobste.rs/s/xq3zt9/case_for_cli_tag"
             },
             {
-                "title": "niri: A scrollable-tiling Wayland compositor",
-                "href": "https://github.com/YaLTeR/niri/"
+                "title": "Bug hunting in Btrfs",
+                "href": "https://tavianator.com/2024/btrfs_bug.html"
             },
             {
                 "title": "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol",
                 "href": "https://kvrocks.apache.org/"
             },
             {
+                "title": "niri: A scrollable-tiling Wayland compositor",
+                "href": "https://github.com/YaLTeR/niri/"
+            },
+            {
                 "title": "Linux (desktop) troubleshooting techniques and resources?",
                 "href": "https://lobste.rs/s/g51epk/linux_desktop_troubleshooting"
             },
             {
-                "title": "The case for a cli tag",
-                "href": "https://lobste.rs/s/xq3zt9/case_for_cli_tag"
+                "title": "Cross-referencing code & specs for maintainability",
+                "href": "https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/"
             },
             {
                 "title": "So you think you want to write a deterministic hypervisor?",
@@ -67,12 +71,12 @@
                 "href": "http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/"
             },
             {
-                "title": "C++23: Encoding related changes",
-                "href": "https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes"
-            },
-            {
                 "title": "Introducing GNOME 46, \u201cKathmandu\u201d",
                 "href": "https://release.gnome.org/46/"
+            },
+            {
+                "title": "C++23: Encoding related changes",
+                "href": "https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes"
             },
             {
                 "title": "How to make use of typographic refinement in Pages & other macOS apps",
@@ -97,10 +101,6 @@
             {
                 "title": "Why does an extraneous build step make my Zig app 10x faster?",
                 "href": "https://mtlynch.io/zig-extraneous-build/"
-            },
-            {
-                "title": "Inserting 100k rows 66 times faster",
-                "href": "https://xnacly.me/posts/2024/faster-inserts/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "What the Latest Ransomware Attacks Teach About Defending Networks",
+                "href": "https://www.bleepingcomputer.com/news/security/what-the-latest-ransomware-attacks-teach-about-defending-networks/"
+            },
+            {
                 "title": "Microsoft confirms Windows Server issue behind domain controller crashes",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-issue-behind-domain-controller-crashes/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Misconfigured Firebase instances leaked 19 million plaintext passwords",
                 "href": "https://www.bleepingcomputer.com/news/security/misconfigured-firebase-instances-leaked-19-million-plaintext-passwords/"
-            },
-            {
-                "title": "White House and EPA warn of hackers breaching water systems",
-                "href": "https://www.bleepingcomputer.com/news/security/white-house-and-epa-warn-of-hackers-breaching-water-systems/"
             }
         ]
     },
@@ -380,8 +380,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Show HN: Dropflow, a CSS layout engine for node or <canvas>",
+                "href": "https://github.com/chearon/dropflow"
+            },
+            {
                 "title": "The baffling intelligence of a single cell: The story of E. coli chemotaxis",
                 "href": "https://jsomers.net/e-coli-chemotaxis/"
+            },
+            {
+                "title": "Difftastic, a structural diff tool that understands syntax",
+                "href": "https://difftastic.wilfred.me.uk/"
             },
             {
                 "title": "Research shows plant-based polymers can disappear within seven months",
@@ -392,64 +400,52 @@
                 "href": "https://github.com/00-Evan/shattered-pixel-dungeon"
             },
             {
-                "title": "Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today",
-                "href": "https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/"
-            },
-            {
                 "title": "Crookes Radiometer",
                 "href": "https://en.wikipedia.org/wiki/Crookes_radiometer"
             },
             {
-                "title": "Difftastic, a structural diff tool that understands syntax",
-                "href": "https://difftastic.wilfred.me.uk/"
-            },
-            {
-                "title": "Ludic: New framework for Python with seamless Htmx support",
-                "href": "https://github.com/paveldedik/ludic"
-            },
-            {
-                "title": "Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling",
-                "href": "https://github.com/mercari/tortoise"
+                "title": "Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today",
+                "href": "https://themeisle.com/blog/we-are-open-sourcing-our-ai-site-builder/"
             },
             {
                 "title": "Ask HN: How to onboard yourself to a new product/industry in a new job?",
                 "href": "item?id=39777223"
             },
             {
-                "title": "Trayd (YC S23) Is Growing Hiring Solutions Engineer",
-                "href": "https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer"
+                "title": "The Reddits",
+                "href": "https://www.ycombinator.com/blog/the-reddits"
             },
             {
                 "title": "Ikigai: What We Got Wrong and How to Find Meaning in Life",
                 "href": "https://nesslabs.com/ikigai"
             },
             {
+                "title": "Trayd (YC S23) Is Growing Hiring Solutions Engineer",
+                "href": "https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer"
+            },
+            {
+                "title": "Ludic: New framework for Python with seamless Htmx support",
+                "href": "https://github.com/paveldedik/ludic"
+            },
+            {
                 "title": "Vernor Vinge (1944-2024)",
                 "href": "https://file770.com/vernor-vinge-1944-2024/"
-            },
-            {
-                "title": "Sequential and parallel execution of long-running shell commands",
-                "href": "https://github.com/Nukesor/pueue"
-            },
-            {
-                "title": "Surgeons Transplant Pig Kidney into a Patient",
-                "href": "https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html"
-            },
-            {
-                "title": "Flightradar24's new GPS jamming map",
-                "href": "https://www.flightradar24.com/blog/gps-jamming-map/"
-            },
-            {
-                "title": "The Reddits",
-                "href": "https://www.ycombinator.com/blog/the-reddits"
             },
             {
                 "title": "HiddenVM \u2013 Use any desktop OS without leaving a trace",
                 "href": "https://github.com/aforensics/HiddenVM"
             },
             {
-                "title": "CDC sharply overestimates maternal death rate, new study finds",
-                "href": "https://www.eurekalert.org/news-releases/1037372"
+                "title": "UnitedHealth Group has paid more than $2B to providers following cyberattack",
+                "href": "https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html"
+            },
+            {
+                "title": "Flightradar24's new GPS jamming map",
+                "href": "https://www.flightradar24.com/blog/gps-jamming-map/"
+            },
+            {
+                "title": "Surgeons Transplant Pig Kidney into a Patient",
+                "href": "https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html"
             },
             {
                 "title": "Launch HN: CamelQA (YC W24) \u2013 AI that tests mobile apps",
@@ -458,6 +454,14 @@
             {
                 "title": "Suspicious discontinuities (2020)",
                 "href": "https://danluu.com/discontinuities/"
+            },
+            {
+                "title": "Tortoise: Shell-Shockingly-Good Kubernetes Autoscaling",
+                "href": "https://github.com/mercari/tortoise"
+            },
+            {
+                "title": "Sequential and parallel execution of long-running shell commands",
+                "href": "https://github.com/Nukesor/pueue"
             },
             {
                 "title": "Google Scholar PDF Reader",
@@ -472,12 +476,12 @@
                 "href": "https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html"
             },
             {
-                "title": "Rive Renderer for real-time vector graphics is now open source",
-                "href": "https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms"
-            },
-            {
                 "title": "ExFAT Driver Boasts Much Faster \"Dirsync\" Performance with Linux 6.9",
                 "href": "https://www.phoronix.com/news/Linux-6.9-Faster-exFAT-dirsync"
+            },
+            {
+                "title": "Rive Renderer for real-time vector graphics is now open source",
+                "href": "https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms"
             },
             {
                 "title": "Parrots love playing tablet games. That's helping researchers understand them",
@@ -488,16 +492,12 @@
                 "href": "https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72"
             },
             {
-                "title": "Hyperscript",
-                "href": "https://hyperscript.org/"
+                "title": "CDC sharply overestimates maternal death rate, new study finds",
+                "href": "https://www.eurekalert.org/news-releases/1037372"
             },
             {
                 "title": "Painting by Roman Numerals",
                 "href": "https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting"
-            },
-            {
-                "title": "Why did we wait so long for the bicycle? (2019)",
-                "href": "https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle"
             }
         ]
     }
