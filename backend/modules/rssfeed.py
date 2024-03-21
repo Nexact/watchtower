@@ -1,10 +1,10 @@
 import feedparser
 
-def get_rss(feedname, url):
+def get(feedname, url):
     feed = feedparser.parse(url)
 
     if feed.status == 200:
-        lapresse_data = {
+        data = {
             "feedname": feedname,
             "items": []
         }
@@ -12,9 +12,9 @@ def get_rss(feedname, url):
             title = entry.title
             href = entry.link
 
-            lapresse_data["items"].append({'title': title, 'href': href})
+            data["items"].append({'title': title, 'href': href})
 
-        return lapresse_data
+        return data
     else:
-        print("Failed to retrieve rss feed.")
+        print("Failed to retrieve rss feed: {}".format(feedname))
         return None
