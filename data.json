@@ -43,6 +43,10 @@
                 "href": "https://anchor.dev/blog/introducing-lcl-host"
             },
             {
+                "title": "Go Enums Still Suck",
+                "href": "https://www.zarl.dev/articles/enums-take-two"
+            },
+            {
                 "title": "So you think you want to write a deterministic hypervisor?",
                 "href": "https://antithesis.com/blog/deterministic_hypervisor/"
             },
@@ -51,16 +55,16 @@
                 "href": "https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html"
             },
             {
-                "title": "Go Enums Still Suck",
-                "href": "https://www.zarl.dev/articles/enums-take-two"
-            },
-            {
                 "title": "More thoughts on vulnerabilities and misaligned incentives",
                 "href": "https://blog.yossarian.net/2024/03/20/More-thoughts-on-vulnerabilities-and-misaligned-incentives"
             },
             {
                 "title": "Introducing GNOME 46, \u201cKathmandu\u201d",
                 "href": "https://release.gnome.org/46/"
+            },
+            {
+                "title": "C++23: Encoding related changes",
+                "href": "https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes"
             },
             {
                 "title": "Unison in production at Unison Computing",
@@ -75,12 +79,12 @@
                 "href": "https://mtlynch.io/zig-extraneous-build/"
             },
             {
-                "title": "C++23: Encoding related changes",
-                "href": "https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes"
-            },
-            {
                 "title": "Array Languages: R vs APL",
                 "href": "https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/"
+            },
+            {
+                "title": "Inserting 100k rows 66 times faster",
+                "href": "https://xnacly.me/posts/2024/faster-inserts/"
             },
             {
                 "title": "Practical Railway-Oriented Pipelines in Ruby",
@@ -97,10 +101,6 @@
             {
                 "title": "A Journey from Chaos to Version Control: A Developer's Tale",
                 "href": "https://www.brautaset.org/posts/chaos-to-vcs.html"
-            },
-            {
-                "title": "Inserting 100k rows 66 times faster",
-                "href": "https://xnacly.me/posts/2024/faster-inserts/"
             }
         ]
     },
@@ -384,6 +384,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "The baffling intelligence of a single cell: The story of E. coli chemotaxis",
+                "href": "https://jsomers.net/e-coli-chemotaxis/"
+            },
+            {
                 "title": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler",
                 "href": "https://github.com/00-Evan/shattered-pixel-dungeon"
             },
@@ -396,20 +400,32 @@
                 "href": "https://github.com/mercari/tortoise"
             },
             {
+                "title": "Ask HN: How to onboard yourself to a new product/industry in a new job?",
+                "href": "item?id=39777223"
+            },
+            {
+                "title": "Google: Angular and Wiz Are Merging",
+                "href": "https://twitter.com/sarah_edo/status/1770478763253379488"
+            },
+            {
+                "title": "Trayd (YC S23) Is Growing Hiring Solutions Engineer",
+                "href": "https://www.ycombinator.com/companies/trayd/jobs/diovYI2-solutions-engineer"
+            },
+            {
                 "title": "Vernor Vinge (1944-2024)",
                 "href": "https://file770.com/vernor-vinge-1944-2024/"
             },
             {
-                "title": "Flightradar24's new GPS jamming map",
-                "href": "https://www.flightradar24.com/blog/gps-jamming-map/"
+                "title": "Jim Ward has died",
+                "href": "https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72"
             },
             {
                 "title": "JITX \u2013 The Fastest Way to Design Circuit Boards",
                 "href": "https://www.jitx.com"
             },
             {
-                "title": "Jim Ward has died",
-                "href": "https://www.gamedeveloper.com/business/obituary-jim-ward-dungeons-dragons-designer-died-at-age-72"
+                "title": "Flightradar24's new GPS jamming map",
+                "href": "https://www.flightradar24.com/blog/gps-jamming-map/"
             },
             {
                 "title": "Launch HN: CamelQA (YC W24) \u2013 AI that tests mobile apps",
@@ -420,16 +436,16 @@
                 "href": "https://github.com/getgrit/gritql"
             },
             {
-                "title": "Suspicious discontinuities (2020)",
-                "href": "https://danluu.com/discontinuities/"
+                "title": "Sequential and parallel execution of long-running shell commands",
+                "href": "https://github.com/Nukesor/pueue"
             },
             {
                 "title": "Show HN: Personal Knowledge Base Visualization",
                 "href": "https://github.com/raphaelsty/knowledge"
             },
             {
-                "title": "Micrograd-CUDA: adapting Karpathy's tiny autodiff engine for GPU acceleration",
-                "href": "https://github.com/mlecauchois/micrograd-cuda"
+                "title": "Suspicious discontinuities (2020)",
+                "href": "https://danluu.com/discontinuities/"
             },
             {
                 "title": "Google Scholar PDF Reader",
@@ -440,40 +456,36 @@
                 "href": "https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle"
             },
             {
-                "title": "The Photo Behind the Iconic Columbia Pictures 'Torch Lady' Logo (2022)",
-                "href": "https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/"
-            },
-            {
-                "title": "The Starship or the Canoe: Where will our future adaptations be? (2017)",
-                "href": "https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/"
-            },
-            {
-                "title": "Red Hat to author new Linux driver for Nvidia GPUs in Rust",
-                "href": "https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions"
-            },
-            {
                 "title": "Rive Renderer for real-time vector graphics is now open source",
                 "href": "https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms"
-            },
-            {
-                "title": "Parrots love playing tablet games. That's helping researchers understand them",
-                "href": "https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/"
-            },
-            {
-                "title": "Intel to Receive $8.5B in Grants to Build Chip Plants",
-                "href": "https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html"
             },
             {
                 "title": "5GSimWaveform: Open Source Common Waveform Simulator for 5G Physical Layer",
                 "href": "https://www.qamcom.com/look-into-qamcoms-research-on-5g/"
             },
             {
+                "title": "Parrots love playing tablet games. That's helping researchers understand them",
+                "href": "https://news.northeastern.edu/2024/03/20/parrots-playing-tablet-games/"
+            },
+            {
+                "title": "The Photo Behind the Iconic Columbia Pictures 'Torch Lady' Logo (2022)",
+                "href": "https://petapixel.com/2022/02/20/the-photo-behind-the-iconic-columbia-pictures-torch-lady-logo/"
+            },
+            {
+                "title": "Red Hat to author new Linux driver for Nvidia GPUs in Rust",
+                "href": "https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions"
+            },
+            {
+                "title": "Intel to Receive $8.5B in Grants to Build Chip Plants",
+                "href": "https://www.nytimes.com/2024/03/20/us/politics/chips-act-grant-intel.html"
+            },
+            {
                 "title": "Painting by Roman Numerals",
                 "href": "https://www.archaeology.org/issues/544-2403/digs/12134-dd-italy-roman-painting"
             },
             {
-                "title": "35% of Buildings Affected in Gaza Strip",
-                "href": "https://unitar.org/about/news-stories/press/35-buildings-affected-gaza-strip"
+                "title": "The Starship or the Canoe: Where will our future adaptations be? (2017)",
+                "href": "https://alumni.berkeley.edu/california-magazine/summer-2017-adaptation/starship-or-canoe-where-will-our-future-adaptations-be/"
             },
             {
                 "title": "Valve Built An Orb: The making of the Steam Deck OLED launch trailer",
@@ -484,24 +496,12 @@
                 "href": "https://rubenerd.com/finally-got-my-ultimate-retro-kvm-setup-working/"
             },
             {
+                "title": "GPT-5 might arrive this summer as a \"materially better\" update to ChatGPT",
+                "href": "https://arstechnica.com/information-technology/2024/03/openais-gpt-5-may-launch-this-summer-upgrading-chatgpt-along-the-way/"
+            },
+            {
                 "title": "Michel Talagrand wins Abel Prize for work wrangling randomness",
                 "href": "https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/"
-            },
-            {
-                "title": "Indonesia's e-bike shops are building their own batteries",
-                "href": "https://restofworld.org/2024/homemade-ebike-battery-indonesia/"
-            },
-            {
-                "title": "Bug hunting in Btrfs",
-                "href": "https://tavianator.com/2024/btrfs_bug.html"
-            },
-            {
-                "title": "Hitting the Jackpot: The Birth of the Monte Carlo Method (2023)",
-                "href": "https://discover.lanl.gov/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method/"
-            },
-            {
-                "title": "The Nerfed FPU in PS5's Zen 2 Cores",
-                "href": "https://chipsandcheese.com/2024/03/20/the-nerfed-fpu-in-ps5s-zen-2-cores/"
             }
         ]
     }
