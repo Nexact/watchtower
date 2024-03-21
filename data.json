@@ -3,20 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Redis dropped BSD-3 in favor of a proprietary license",
-                "href": "https://github.com/redis/redis/pull/13157"
-            },
-            {
                 "title": "DuckDB as the New jq",
                 "href": "https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/"
             },
             {
-                "title": "Intrusive Unit Testing",
-                "href": "https://two-wrongs.com/intrusive-unit-testing"
+                "title": "Redis dropped BSD-3 in favor of a proprietary license",
+                "href": "https://github.com/redis/redis/pull/13157"
             },
             {
                 "title": "Zig defer Patterns",
                 "href": "https://matklad.github.io/2024/03/21/defer-patterns.html"
+            },
+            {
+                "title": "Intrusive Unit Testing",
+                "href": "https://two-wrongs.com/intrusive-unit-testing"
             },
             {
                 "title": "The case for a cli tag",
@@ -47,6 +47,10 @@
                 "href": "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
             },
             {
+                "title": "The wrong way to speed up your code with Numba",
+                "href": "https://pythonspeed.com/articles/slow-numba/"
+            },
+            {
                 "title": "GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers",
                 "href": "https://gofetch.fail/"
             },
@@ -57,10 +61,6 @@
             {
                 "title": "Introducing GNOME 46, \u201cKathmandu\u201d",
                 "href": "https://release.gnome.org/46/"
-            },
-            {
-                "title": "The wrong way to speed up your code with Numba",
-                "href": "https://pythonspeed.com/articles/slow-numba/"
             },
             {
                 "title": "devenv 1.0: Rewrite in Rust",
@@ -79,12 +79,12 @@
                 "href": "https://tavianator.com/2024/btrfs_bug.html"
             },
             {
-                "title": "How to make use of typographic refinement in Pages & other macOS apps",
-                "href": "https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html"
-            },
-            {
                 "title": "niri: A scrollable-tiling Wayland compositor",
                 "href": "https://github.com/YaLTeR/niri/"
+            },
+            {
+                "title": "How to make use of typographic refinement in Pages & other macOS apps",
+                "href": "https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html"
             },
             {
                 "title": "refix: fast, debuggable, reproducible builds",
@@ -95,12 +95,12 @@
                 "href": "https://lobste.rs/s/g51epk/linux_desktop_troubleshooting"
             },
             {
-                "title": "So you think you want to write a deterministic hypervisor?",
-                "href": "https://antithesis.com/blog/deterministic_hypervisor/"
+                "title": "Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism",
+                "href": "https://www.cockroachlabs.com/blog/demonic-nondeterminism/"
             },
             {
-                "title": "Go Enums Still Suck",
-                "href": "https://www.zarl.dev/articles/enums-take-two"
+                "title": "Signed but not secure",
+                "href": "https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Windows 11 Notepad finally gets spellcheck and autocorrect",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/"
+            },
+            {
                 "title": "KDE advises extreme caution after theme wipes Linux user's files",
                 "href": "https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "GitHub\u2019s new AI-powered tool auto-fixes vulnerabilities in your code",
                 "href": "https://www.bleepingcomputer.com/news/security/githubs-new-ai-powered-tool-auto-fixes-vulnerabilities-in-your-code/"
-            },
-            {
-                "title": "Ivanti fixes critical Standalone Sentry bug reported by NATO",
-                "href": "https://www.bleepingcomputer.com/news/security/ivanti-fixes-critical-standalone-sentry-bug-reported-by-nato/"
             }
         ]
     },
@@ -404,32 +404,40 @@
                 "href": "https://file770.com/vernor-vinge-1944-2024/"
             },
             {
-                "title": "GoFetch: New side-channel attack using data memory-dependent prefetchers",
-                "href": "https://gofetch.fail"
-            },
-            {
                 "title": "Array Languages: R vs. APL",
                 "href": "https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/"
             },
             {
-                "title": "Disk write buffering and its interactions with write flushes",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
-            },
-            {
-                "title": "Research shows plant-based polymers can disappear within seven months",
-                "href": "https://today.ucsd.edu/story/biodegradable-microplastics"
-            },
-            {
-                "title": "Together (YC S19) interviewing engineers that can solve this algorithm problem",
-                "href": "item?id=39781248"
+                "title": "OpenSplat \u2013 3D gaussian splatting in C++ with CPU and GPU support",
+                "href": "https://github.com/pierotofy/OpenSplat"
             },
             {
                 "title": "Tunnelmole, an ngrok alternative (open source)",
                 "href": "https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/"
             },
             {
-                "title": "Jan: An open source alternative to ChatGPT that runs on the desktop",
-                "href": "https://jan.ai/"
+                "title": "GoFetch: New side-channel attack using data memory-dependent prefetchers",
+                "href": "https://gofetch.fail"
+            },
+            {
+                "title": "Show HN: Memories, FOSS Google Photos alternative built for high performance",
+                "href": "https://memories.gallery/"
+            },
+            {
+                "title": "Together (YC S19) interviewing engineers that can solve this algorithm problem",
+                "href": "item?id=39781248"
+            },
+            {
+                "title": "Research shows plant-based polymers can disappear within seven months",
+                "href": "https://today.ucsd.edu/story/biodegradable-microplastics"
+            },
+            {
+                "title": "Disk write buffering and its interactions with write flushes",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/WriteBufferingAndSyncs"
+            },
+            {
+                "title": "Show HN: Ragas \u2013 Open-source library for evaluating RAG pipelines",
+                "href": "https://github.com/explodinggradients/ragas"
             },
             {
                 "title": "Introducing pgzx: create PostgreSQL extensions using Zig",
@@ -440,8 +448,12 @@
                 "href": "https://www.ycombinator.com/blog/the-reddits"
             },
             {
-                "title": "Show HN: Ragas \u2013 Open-source library for evaluating RAG pipelines",
-                "href": "https://github.com/explodinggradients/ragas"
+                "title": "Jan: An open source alternative to ChatGPT that runs on the desktop",
+                "href": "https://jan.ai/"
+            },
+            {
+                "title": "Ludic: New framework for Python with seamless Htmx support",
+                "href": "https://github.com/paveldedik/ludic"
             },
             {
                 "title": "Three ways to improve parallelized tests",
@@ -450,10 +462,6 @@
             {
                 "title": "Fast Virtual Functions: Hacking the VTable for Fun and Profit",
                 "href": "https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0"
-            },
-            {
-                "title": "Ludic: New framework for Python with seamless Htmx support",
-                "href": "https://github.com/paveldedik/ludic"
             },
             {
                 "title": "Show HN: An AI-Powered WordPress Site Builder That We Are Open-Sourcing Today",
@@ -468,10 +476,6 @@
                 "href": "https://github.com/aforensics/HiddenVM"
             },
             {
-                "title": "SBF repeatedly lied to get out of \"supervillain\" prison term, FTX CEO alleges",
-                "href": "https://arstechnica.com/tech-policy/2024/03/ftx-chief-lays-out-all-the-ways-sbf-sucks-in-detailed-court-filing/"
-            },
-            {
                 "title": "Surgeons transplant pig kidney into a patient",
                 "href": "https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html"
             },
@@ -480,24 +484,20 @@
                 "href": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/"
             },
             {
-                "title": "What is a pig butchering scam? (2023)",
-                "href": "https://www.wired.com/story/what-is-pig-butchering-scam/"
-            },
-            {
                 "title": "Tiny Undervalued Hardware Companions",
                 "href": "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
             },
             {
-                "title": "Ikigai: What We Got Wrong and How to Find Meaning in Life",
-                "href": "https://nesslabs.com/ikigai"
-            },
-            {
-                "title": "Ask HN: How to onboard yourself to a new product/industry in a new job?",
-                "href": "item?id=39777223"
+                "title": "What is a pig butchering scam? (2023)",
+                "href": "https://www.wired.com/story/what-is-pig-butchering-scam/"
             },
             {
                 "title": "Show HN: DaLMatian \u2013 Text2sql that works",
                 "href": "https://www.dalmatian.ai/download"
+            },
+            {
+                "title": "Ikigai: What We Got Wrong and How to Find Meaning in Life",
+                "href": "https://nesslabs.com/ikigai"
             }
         ]
     }
