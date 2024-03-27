@@ -23,16 +23,16 @@
                 "href": "https://blog.dziban.net/essays/explorative-programming"
             },
             {
-                "title": "Fixing a Bug in PyPy's Incremental GC",
-                "href": "https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html"
+                "title": "Garbage Collection for Systems Programmers",
+                "href": "https://bitbashing.io/gc-for-systems-programmers.html"
             },
             {
                 "title": "42.parquet \u2013 A Zip Bomb for the Big Data Age",
                 "href": "https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html"
             },
             {
-                "title": "Garbage Collection for Systems Programmers",
-                "href": "https://bitbashing.io/gc-for-systems-programmers.html"
+                "title": "Fixing a Bug in PyPy's Incremental GC",
+                "href": "https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html"
             },
             {
                 "title": "Optimizing Javascript for fun and for profit",
@@ -51,8 +51,20 @@
                 "href": "https://joshleeb.com/posts/status-update-2024-mar.html"
             },
             {
+                "title": "NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V",
+                "href": "http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html"
+            },
+            {
+                "title": "Finding NetBSD Kernel Bugs through LockDoc",
+                "href": "https://scholz.ruhr/blog/finding-netbsd-locking-bugs/"
+            },
+            {
                 "title": "Preventing Cross-Service UDP Loops in QUIC",
                 "href": "https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic"
+            },
+            {
+                "title": "Erasure Coding versus Tail Latency",
+                "href": "https://brooker.co.za/blog/2023/01/06/erasure.html"
             },
             {
                 "title": "Writing GNOME Apps with Swift",
@@ -69,10 +81,6 @@
             {
                 "title": "Sega Saturn Architecture: A Practical Analysis",
                 "href": "https://www.copetti.org/writings/consoles/sega-saturn/"
-            },
-            {
-                "title": "Erasure Coding versus Tail Latency",
-                "href": "https://brooker.co.za/blog/2023/01/06/erasure.html"
             },
             {
                 "title": "Building WOPR: A 7x4090 AI Server",
@@ -93,14 +101,6 @@
             {
                 "title": "ASCIImoji -  \u0295\u3063\u2022\u1d25\u2022\u0294\u3063",
                 "href": "https://asciimoji.com/"
-            },
-            {
-                "title": "Open Web Advocacy Recommendations re: the Digital Markets Act",
-                "href": "https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/"
-            },
-            {
-                "title": "KGL: A query language for exploring knowledge graphs",
-                "href": "https://github.com/capjamesg/knowledge-graph-language"
             }
         ]
     },
@@ -116,16 +116,16 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1botjwe/flipping_pages_an_analysis_of_a_new_linux/"
             },
             {
+                "title": "31 Round SHA256 Collision Proof of Concept",
+                "href": "https://www.reddit.com/r/netsec/comments/1bp0nbv/31_round_sha256_collision_proof_of_concept/"
+            },
+            {
                 "title": "Malwarebytes adds AI functionality to ThreatDown Security Advisor",
                 "href": "https://www.reddit.com/r/netsec/comments/1bp2u4w/malwarebytes_adds_ai_functionality_to_threatdown/"
             },
             {
                 "title": "Reversing a vulnerability in the Ichitaro Office Suite and Leveraging it into an FP overwrite for Silent Code Execution (RE walkthrough)",
                 "href": "https://www.reddit.com/r/netsec/comments/1bp1k43/reversing_a_vulnerability_in_the_ichitaro_office/"
-            },
-            {
-                "title": "31 Round SHA256 Collision Proof of Concept",
-                "href": "https://www.reddit.com/r/netsec/comments/1bp0nbv/31_round_sha256_collision_proof_of_concept/"
             },
             {
                 "title": "Linux kernel privesc proof of concept CVE-2024-1086, working on ubuntu and debian",
@@ -380,52 +380,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Claude 3 beats GPT-4 on Aider's code editing benchmark",
-                "href": "https://aider.chat/2024/03/08/claude-3.html"
-            },
-            {
                 "title": "Introducing DBRX: A New State-of-the-Art Open LLM by Databricks",
                 "href": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
+            },
+            {
+                "title": "Claude 3 beats GPT-4 on Aider's code editing benchmark",
+                "href": "https://aider.chat/2024/03/08/claude-3.html"
             },
             {
                 "title": "FuryGpu \u2013 Custom PCIe FPGA GPU",
                 "href": "https://www.furygpu.com"
             },
             {
-                "title": "Recent 'MFA Bombing' Attacks Targeting Apple Users",
-                "href": "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/"
-            },
-            {
                 "title": "Fewer U.S. scientists are pursuing postdoc positions, new data show",
                 "href": "https://www.science.org/content/article/fewer-u-s-scientists-are-pursuing-postdoc-positions-new-data-show"
             },
             {
-                "title": "How Radicle Works Under the Hood",
-                "href": "https://radicle.xyz/guides/protocol"
-            },
-            {
-                "title": "Show HN: I made a cheap alternative to college-level math & physics tutoring",
-                "href": "item?id=39836630"
-            },
-            {
-                "title": "Show HN: A static site generator that prettifies the output HTML",
-                "href": "https://github.com/jdeanwallace/jinjabread"
-            },
-            {
-                "title": "Launch HN: Aqua Voice (YC W24) \u2013 Voice-driven text editor",
-                "href": "item?id=39828686"
+                "title": "Recent 'MFA Bombing' Attacks Targeting Apple Users",
+                "href": "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/"
             },
             {
                 "title": "Boeing's Dead Whistleblower Spoke the Truth",
                 "href": "https://www.thefp.com/p/boeings-dead-whistleblower-spoke-the-truth"
             },
             {
-                "title": "Cows in Texas and Kansas test positive for highly pathogenic bird flu",
-                "href": "https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/"
+                "title": "Show HN: I made a cheap alternative to college-level math & physics tutoring",
+                "href": "item?id=39836630"
             },
             {
-                "title": "Two nights of broken sleep can make people feel years older, finds study",
-                "href": "https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study"
+                "title": "How Radicle Works Under the Hood",
+                "href": "https://radicle.xyz/guides/protocol"
+            },
+            {
+                "title": "Launch HN: Aqua Voice (YC W24) \u2013 Voice-driven text editor",
+                "href": "item?id=39828686"
+            },
+            {
+                "title": "Show HN: A static site generator that prettifies the output HTML",
+                "href": "https://github.com/jdeanwallace/jinjabread"
+            },
+            {
+                "title": "Google's AI-powered search results are loaded with spammy, scammy garbage",
+                "href": "https://www.theregister.com/2024/03/25/googles_aipowered_search_results_are/"
             },
             {
                 "title": "The What, Why and How of Containers",
@@ -444,16 +440,20 @@
                 "href": "https://github.com/emilk/egui/releases/tag/0.27.0"
             },
             {
-                "title": "The What, Why and How of Containers",
-                "href": "https://www.annwan.me/computers/what-why-how-containers/"
-            },
-            {
-                "title": "Serious security breach hits EU police agency",
-                "href": "https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/"
+                "title": "Sun Microsystems co-founder charged with insider trading",
+                "href": "https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/"
             },
             {
                 "title": "Laudspeaker hiring senior engineer to build open source customer engagement",
                 "href": "item?id=39836316"
+            },
+            {
+                "title": "Two nights of broken sleep can make people feel years older, finds study",
+                "href": "https://www.theguardian.com/science/2024/mar/27/two-nights-of-broken-sleep-can-make-people-feel-years-older-finds-study"
+            },
+            {
+                "title": "Serious security breach hits EU police agency",
+                "href": "https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/"
             },
             {
                 "title": "Younger Generations Have Larger Brains. Is That Healthier?",
@@ -464,16 +464,20 @@
                 "href": "https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/"
             },
             {
-                "title": "Sun Microsystems co-founder charged with insider trading",
-                "href": "https://www.theregister.com/2024/03/26/sun_microsystems_insider_trading/"
+                "title": "How I would automate monitoring DNS queries in basic Prometheus",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks"
+            },
+            {
+                "title": "Cows in Texas and Kansas test positive for highly pathogenic bird flu",
+                "href": "https://arstechnica.com/science/2024/03/cows-in-texas-and-kansas-test-positive-for-highly-pathogenic-bird-flu/"
             },
             {
                 "title": "Fresno High tracks student bathroom visits with app. Not everyone likes it",
                 "href": "https://www.fresnobee.com/news/local/article286882795.html"
             },
             {
-                "title": "How I would automate monitoring DNS queries in basic Prometheus",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusAutomatingDNSChecks"
+                "title": "Why Elixir (2014)",
+                "href": "https://www.theerlangelist.com/article/why_elixir"
             },
             {
                 "title": "Range Partitioning: Zero to One",
@@ -484,16 +488,12 @@
                 "href": "https://twitter.com/jedisct1/status/1772647350554464448"
             },
             {
-                "title": "Why Elixir (2014)",
-                "href": "https://www.theerlangelist.com/article/why_elixir"
-            },
-            {
-                "title": "The Stoppable March of Time",
-                "href": "https://www.openttd.org/news/2024/03/23/timekeeping"
-            },
-            {
                 "title": "Who killed the network switch? A Hubris Bug Story",
                 "href": "https://cliffle.com/blog/who-killed-the-network-switch/"
+            },
+            {
+                "title": "Launch HN: CommodityAI (YC W24) \u2013 Shipment management for commodity traders",
+                "href": "item?id=39828058"
             },
             {
                 "title": "Happy birthday APFS, 7 years old today",
