@@ -11,12 +11,12 @@
                 "href": "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
             },
             {
-                "title": "Representing State as interfaces in Go",
-                "href": "https://www.emoses.org/posts/resolver-resolved-pattern/"
-            },
-            {
                 "title": "Tech Independence",
                 "href": "https://sive.rs/ti"
+            },
+            {
+                "title": "Representing State as interfaces in Go",
+                "href": "https://www.emoses.org/posts/resolver-resolved-pattern/"
             },
             {
                 "title": "Linux text manipulation",
@@ -35,12 +35,16 @@
                 "href": "https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/"
             },
             {
-                "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer",
-                "href": "https://fission.codes/blog/functions-everywhere-only-once/"
+                "title": "Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights",
+                "href": "https://knock.app/blog/hacking-postgresql-driver"
             },
             {
                 "title": "Why x86 Doesn\u2019t Need to Die",
                 "href": "https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/"
+            },
+            {
+                "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer",
+                "href": "https://fission.codes/blog/functions-everywhere-only-once/"
             },
             {
                 "title": "TDD: You're Probably Doing It Just Fine",
@@ -49,10 +53,6 @@
             {
                 "title": "Finding memory leaks in Postgres C code",
                 "href": "https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code"
-            },
-            {
-                "title": "Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights",
-                "href": "https://knock.app/blog/hacking-postgresql-driver"
             },
             {
                 "title": "Flora.pm \u2013 a meta-index for Haskell packages",
@@ -67,12 +67,12 @@
                 "href": "https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/"
             },
             {
-                "title": "Garbage Collection for Systems Programmers",
-                "href": "https://bitbashing.io/gc-for-systems-programmers.html"
-            },
-            {
                 "title": "ARM64 Boot Camp: ARM64EC and ARM64X Explained",
                 "href": "http://www.emulators.com/docs/abc_arm64ec_explained.htm"
+            },
+            {
+                "title": "Garbage Collection for Systems Programmers",
+                "href": "https://bitbashing.io/gc-for-systems-programmers.html"
             },
             {
                 "title": "Freedom Respecting Technology: the Next Generation of Open Source, Free Software, Open Knowledge, Open Culture, and Technological Freedom",
@@ -393,7 +393,11 @@
             },
             {
                 "title": "Can Xerox's PARC find new life with SRI?",
-                "href": "https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html"
+                "href": "https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html?ugrp=m&unlocked_article_code=1.gE0.gM2G.ilR2kKr-h9Yf&smid=url-share"
+            },
+            {
+                "title": "What Boeing did to all the guys who remember how to build a plane",
+                "href": "https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/"
             },
             {
                 "title": "Sam Bankman-Fried sentenced to 25 years in prison",
@@ -404,20 +408,20 @@
                 "href": "item?id=39854921"
             },
             {
-                "title": "Launch HN: Eggnog (YC W24) \u2013 AI videos with consistent characters",
-                "href": "item?id=39853474"
-            },
-            {
                 "title": "UV-K5 is the most hackable handheld ham radio yet",
                 "href": "https://spectrum.ieee.org/quansheng-uv-k5-hacking"
             },
             {
-                "title": "LLMs use a surprisingly simple mechanism to retrieve some stored knowledge",
-                "href": "https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325"
+                "title": "Launch HN: Eggnog (YC W24) \u2013 AI videos with consistent characters",
+                "href": "item?id=39853474"
             },
             {
                 "title": "Ethereum has blobs. Where do we go from here?",
                 "href": "https://vitalik.eth.limo/general/2024/03/28/blobs.html"
+            },
+            {
+                "title": "LLMs use a surprisingly simple mechanism to retrieve some stored knowledge",
+                "href": "https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325"
             },
             {
                 "title": "Show HN: Spice.ai \u2013 materialize, accelerate, and query SQL data from any source",
@@ -428,8 +432,8 @@
                 "href": "https://remotejobs.org/companies/rankscience-remote-jobs"
             },
             {
-                "title": "Show HN: I made a binary enigma machine for manual encryption",
-                "href": "https://makerworld.com/en/models/247798"
+                "title": "Acetate Revisited: A Key Biomolecule at the Nexus of Metabolism, Epigenetics",
+                "href": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.580171/full"
             },
             {
                 "title": "Show HN: I built a web app to open source travel itineraries",
@@ -444,12 +448,8 @@
                 "href": "https://julep-ai.github.io/"
             },
             {
-                "title": "The Next Big Step in Mojo Open Source",
-                "href": "https://www.modular.com/blog/the-next-big-step-in-mojo-open-source"
-            },
-            {
-                "title": "What Boeing did to all the guys who remember how to build a plane",
-                "href": "https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/"
+                "title": "Show HN: I made a binary enigma machine for manual encryption",
+                "href": "https://makerworld.com/en/models/247798"
             },
             {
                 "title": "Gigantic Aluminium Spiders",
@@ -460,28 +460,36 @@
                 "href": "https://yusuf.fyi/posts/linux-text-manipulation"
             },
             {
-                "title": "Advances in semiconductors are feeding the AI boom",
-                "href": "https://spectrum.ieee.org/trillion-transistor-gpu"
+                "title": "The Next Big Step in Mojo Open Source",
+                "href": "https://www.modular.com/blog/the-next-big-step-in-mojo-open-source"
+            },
+            {
+                "title": "What do you do if a hacker takes control of your ship? (2023)",
+                "href": "https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship"
             },
             {
                 "title": "Endlessh-go: a Golang SSH tarpit that traps bots/scanners",
                 "href": "https://github.com/shizunge/endlessh-go"
             },
             {
+                "title": "Advances in semiconductors are feeding the AI boom",
+                "href": "https://spectrum.ieee.org/trillion-transistor-gpu"
+            },
+            {
+                "title": "How A.I. chatbots become political",
+                "href": "https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html?unlocked_article_code=1.gE0.4mlz.Yf7_amfNGgmx"
+            },
+            {
                 "title": "How does an independent bookstore survive for 90 years?",
                 "href": "https://www.deseret.com/entertainment/2019/8/15/20804020/how-does-an-independent-bookstore-survive-for-90-years-utahs-weller-book-works-found-an-answer/"
             },
             {
-                "title": "What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)",
-                "href": "https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it"
-            },
-            {
-                "title": "Amazon fined in Poland for dark pattern design tricks",
-                "href": "https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/"
-            },
-            {
                 "title": "Erasure Coding versus Tail Latency",
                 "href": "https://brooker.co.za/blog/2023/01/06/erasure.html"
+            },
+            {
+                "title": "What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)",
+                "href": "https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it"
             },
             {
                 "title": "We made a hot dog talk with RF [video]",
@@ -490,14 +498,6 @@
             {
                 "title": "The company building a rotating detonation engine is pushing the tech forward",
                 "href": "https://arstechnica.com/space/2024/03/venus-aerospace-takes-flight-as-it-progresses-with-tests-of-novel-engine/"
-            },
-            {
-                "title": "EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)",
-                "href": "https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel"
-            },
-            {
-                "title": "Memories are made by breaking DNA \u2013 and fixing it",
-                "href": "https://www.nature.com/articles/d41586-024-00930-y"
             }
         ]
     }
