@@ -11,6 +11,10 @@
                 "href": "https://www.andreinc.net/2024/03/28/programming-projects-ideas"
             },
             {
+                "title": "Tech Independence",
+                "href": "https://sive.rs/ti"
+            },
+            {
                 "title": "Who Killed the Network Switch? A Hubris Bug Story",
                 "href": "https://cliffle.com/blog/who-killed-the-network-switch/"
             },
@@ -19,32 +23,24 @@
                 "href": "https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/"
             },
             {
-                "title": "Tech Independence",
-                "href": "https://sive.rs/ti"
+                "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer",
+                "href": "https://fission.codes/blog/functions-everywhere-only-once/"
             },
             {
                 "title": "Finding memory leaks in Postgres C code",
                 "href": "https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code"
             },
             {
-                "title": "Flatpak Permission Survey",
-                "href": "https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/"
-            },
-            {
                 "title": "Kubernetes and back - Why I don't run distributed systems",
                 "href": "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
             },
             {
+                "title": "Flatpak Permission Survey",
+                "href": "https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/"
+            },
+            {
                 "title": "Fledgling Languages List - New and upcoming programming languages",
                 "href": "https://fll.presidentbeef.com/"
-            },
-            {
-                "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer",
-                "href": "https://fission.codes/blog/functions-everywhere-only-once/"
-            },
-            {
-                "title": "Garbage Collection for Systems Programmers",
-                "href": "https://bitbashing.io/gc-for-systems-programmers.html"
             },
             {
                 "title": "Infinite Mac: Turning To The Dark Side",
@@ -55,8 +51,16 @@
                 "href": "https://flora.pm/"
             },
             {
+                "title": "Garbage Collection for Systems Programmers",
+                "href": "https://bitbashing.io/gc-for-systems-programmers.html"
+            },
+            {
                 "title": "TDD: You're Probably Doing It Just Fine",
                 "href": "https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine"
+            },
+            {
+                "title": "ARM64 Boot Camp: ARM64EC and ARM64X Explained",
+                "href": "http://www.emulators.com/docs/abc_arm64ec_explained.htm"
             },
             {
                 "title": "Radicle: Sovereign code forge built on Git hits v1.0",
@@ -65,10 +69,6 @@
             {
                 "title": "Brute force text search optimizations",
                 "href": "https://boyter.org/posts/brute-force-text-search-optimizations/"
-            },
-            {
-                "title": "ARM64 Boot Camp: ARM64EC and ARM64X Explained",
-                "href": "http://www.emulators.com/docs/abc_arm64ec_explained.htm"
             },
             {
                 "title": "Nathanael Huffman (Oxide Computer) talks FPGA",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Cisco warns of password-spraying attacks targeting VPN services",
+                "href": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-password-spraying-attacks-targeting-vpn-services/"
+            },
+            {
                 "title": "How Pentesting-as-a-Service can Reduce Overall Security Costs",
                 "href": "https://www.bleepingcomputer.com/news/security/how-pentesting-as-a-service-can-reduce-overall-security-costs/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Windows 10 KB5035941 update released with lock screen widgets",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5035941-update-released-with-lock-screen-widgets/"
-            },
-            {
-                "title": "Finland confirms APT31 hackers behind 2021 parliament breach",
-                "href": "https://www.bleepingcomputer.com/news/security/finland-confirms-apt31-hackers-behind-2021-parliament-breach/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Pythagoras Was Wrong: There Are No Universal Musical Harmonies, Study Finds",
+                "href": "https://science.slashdot.org/story/24/03/28/1455255/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Sam Bankman-Fried Sentenced To 25 Years in Prison",
                 "href": "https://yro.slashdot.org/story/24/03/28/1552210/sam-bankman-fried-sentenced-to-25-years-in-prison?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Texan Bitcoiners Start Mining In Argentina Using Flared Excess Gas",
                 "href": "https://slashdot.org/story/24/03/27/2030243/texan-bitcoiners-start-mining-in-argentina-using-flared-excess-gas?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "'Operation 404' Results In First Prison Sentence For Pirate IPTV Operator",
-                "href": "https://yro.slashdot.org/story/24/03/27/2023227/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -380,24 +380,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Sam Bankman-Fried sentenced to 25 years in prison",
-                "href": "https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html"
-            },
-            {
-                "title": "Advances in semiconductors are feeding the AI boom",
-                "href": "https://spectrum.ieee.org/trillion-transistor-gpu"
+                "title": "NotepadNext \u2013 a cross-platform, reimplementation of Notepad++",
+                "href": "https://github.com/dail8859/NotepadNext"
             },
             {
                 "title": "LLMs use a surprisingly simple mechanism to retrieve some stored knowledge",
                 "href": "https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325"
             },
             {
-                "title": "What do you do if a hacker takes control of your ship? (2023)",
-                "href": "https://maritime-executive.com/editorials/what-do-you-do-if-a-hacker-takes-control-of-your-ship"
+                "title": "Launch HN: Eggnog (YC W24) \u2013 AI videos with consistent characters",
+                "href": "item?id=39853474"
+            },
+            {
+                "title": "Sam Bankman-Fried sentenced to 25 years in prison",
+                "href": "https://www.cnn.com/business/live-news/sam-bankman-fried-sentencing-03-28-24/index.html"
             },
             {
                 "title": "I scraped all of OpenAI's Community Forum",
                 "href": "https://julep-ai.github.io/"
+            },
+            {
+                "title": "RankScience (YC W17) is hiring to automate SEO for startups",
+                "href": "https://remotejobs.org/companies/rankscience-remote-jobs"
+            },
+            {
+                "title": "Ethereum has blobs. Where do we go from here?",
+                "href": "https://vitalik.eth.limo/general/2024/03/28/blobs.html"
             },
             {
                 "title": "Dioxus 0.5: Web, Desktop, Mobile Apps in Rust",
@@ -408,16 +416,20 @@
                 "href": "https://makerworld.com/en/models/247798"
             },
             {
-                "title": "Gigantic Aluminium Spiders",
-                "href": "https://windspider.com/gigantic-aluminium-spiders/"
+                "title": "Show HN: I built a web app to open source travel itineraries",
+                "href": "https://tripgeeks.app/community"
             },
             {
                 "title": "UV-K5 Is the Most Hackable Handheld Ham Radio Yet",
                 "href": "https://spectrum.ieee.org/quansheng-uv-k5-hacking"
             },
             {
-                "title": "What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)",
-                "href": "https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it"
+                "title": "Advances in semiconductors are feeding the AI boom",
+                "href": "https://spectrum.ieee.org/trillion-transistor-gpu"
+            },
+            {
+                "title": "Gigantic Aluminium Spiders",
+                "href": "https://windspider.com/gigantic-aluminium-spiders/"
             },
             {
                 "title": "Endlessh-go: a Golang SSH tarpit that traps bots/scanners",
@@ -432,24 +444,16 @@
                 "href": "https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel"
             },
             {
-                "title": "Show HN: I built a web app to open source travel itineraries",
-                "href": "https://tripgeeks.app/community"
+                "title": "What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)",
+                "href": "https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it"
             },
             {
                 "title": "Erasure Coding versus Tail Latency",
                 "href": "https://brooker.co.za/blog/2023/01/06/erasure.html"
             },
             {
-                "title": "Linux Text Manipulation",
-                "href": "https://yusuf.fyi/posts/linux-text-manipulation"
-            },
-            {
                 "title": "Memories are made by breaking DNA \u2013 and fixing it",
                 "href": "https://www.nature.com/articles/d41586-024-00930-y"
-            },
-            {
-                "title": "Writing Gnome Apps with Swift",
-                "href": "https://www.swift.org/blog/adwaita-swift/"
             },
             {
                 "title": "Amazon fined in Poland for dark pattern design tricks",
@@ -460,44 +464,40 @@
                 "href": "https://arstechnica.com/space/2024/03/venus-aerospace-takes-flight-as-it-progresses-with-tests-of-novel-engine/"
             },
             {
+                "title": "Writing Gnome Apps with Swift",
+                "href": "https://www.swift.org/blog/adwaita-swift/"
+            },
+            {
                 "title": "Launch HN: PointOne (YC W24) \u2013 Automated time tracking for lawyers",
                 "href": "item?id=39842617"
+            },
+            {
+                "title": "Reading and Writing WAV Files in Python",
+                "href": "https://realpython.com/python-wav-files/"
             },
             {
                 "title": "The last crimes of Caravaggio",
                 "href": "https://www.newstatesman.com/culture/art-design/2024/03/the-last-crimes-of-caravaggio"
             },
             {
-                "title": "Finley (YC W21) is hiring to remake the $1T private credit space",
-                "href": "https://www.finleycms.com/careers/"
+                "title": "The Researcher Who Explores Computation by Conjuring New Worlds",
+                "href": "https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/"
             },
             {
                 "title": "DBRX: A new open LLM",
                 "href": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
             },
             {
-                "title": "The Researcher Who Explores Computation by Conjuring New Worlds",
-                "href": "https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/"
-            },
-            {
-                "title": "Representing State as Interfaces in Go",
-                "href": "https://www.emoses.org/posts/resolver-resolved-pattern/"
-            },
-            {
                 "title": "Launch HN: Patchwork (YC W24) \u2013 Team communication based on feeds, not chat",
                 "href": "item?id=39841956"
             },
             {
-                "title": "Linux Foundation launches an open source fork of Redis",
-                "href": "https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community"
+                "title": "Linux Text Manipulation",
+                "href": "https://yusuf.fyi/posts/linux-text-manipulation"
             },
             {
                 "title": "Peter principle",
                 "href": "https://en.wikipedia.org/wiki/Peter_principle"
-            },
-            {
-                "title": "The Pentagon's Silicon Valley Problem",
-                "href": "https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/"
             }
         ]
     }
