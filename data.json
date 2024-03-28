@@ -15,20 +15,20 @@
                 "href": "https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/"
             },
             {
-                "title": "Finding memory leaks in Postgres C code",
-                "href": "https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code"
-            },
-            {
                 "title": "My list of challenging software projects some programmers should try",
                 "href": "https://www.andreinc.net/2024/03/28/programming-projects-ideas"
             },
             {
-                "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer",
-                "href": "https://fission.codes/blog/functions-everywhere-only-once/"
+                "title": "Finding memory leaks in Postgres C code",
+                "href": "https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code"
             },
             {
                 "title": "Flatpak Permission Survey",
                 "href": "https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/"
+            },
+            {
+                "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer",
+                "href": "https://fission.codes/blog/functions-everywhere-only-once/"
             },
             {
                 "title": "Fledgling Languages List - New and upcoming programming languages",
@@ -45,6 +45,14 @@
             {
                 "title": "Flora.pm \u2013 a meta-index for Haskell packages",
                 "href": "https://flora.pm/"
+            },
+            {
+                "title": "Kubernetes and back - Why I don't run distributed systems",
+                "href": "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
+            },
+            {
+                "title": "Tech Independence | Derek Sivers",
+                "href": "https://sive.rs/ti"
             },
             {
                 "title": "TDD: You're Probably Doing It Just Fine",
@@ -93,14 +101,6 @@
             {
                 "title": "An awk implementation",
                 "href": "https://www.raygard.net/awkdoc/"
-            },
-            {
-                "title": "Fixing a Bug in PyPy's Incremental GC",
-                "href": "https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html"
-            },
-            {
-                "title": "Finding NetBSD Kernel Bugs through LockDoc",
-                "href": "https://scholz.ruhr/blog/finding-netbsd-locking-bugs/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Dashlane To Discontinue Its Authenticator App",
+                "href": "https://it.slashdot.org/story/24/03/28/1448253/dashlane-to-discontinue-its-authenticator-app?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Amazon Bets $150 Billion on Data Centers Required for AI Boom",
                 "href": "https://slashdot.org/story/24/03/28/145242/amazon-bets-150-billion-on-data-centers-required-for-ai-boom?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "US Offers $10 Million Bounty For Info on 'Blackcat' Hackers Who Hit UnitedHealth",
                 "href": "https://news.slashdot.org/story/24/03/27/1633257/us-offers-10-million-bounty-for-info-on-blackcat-hackers-who-hit-unitedhealth?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "SWIFT Planning Launch of New Central Bank Digital Currency Platform in 12-24 Months",
-                "href": "https://it.slashdot.org/story/24/03/27/1642211/swift-planning-launch-of-new-central-bank-digital-currency-platform-in-12-24-months?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -384,44 +384,56 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Show HN: I made a binary enigma machine for manual encryption",
-                "href": "https://makerworld.com/en/models/247798"
+                "title": "Show HN: I scraped all of OpenAI's Community Forum",
+                "href": "https://julep-ai.github.io/"
             },
             {
-                "title": "Dioxus 0.5: Web, Desktop, Mobile Apps in Rust",
-                "href": "https://dioxuslabs.com/blog/release-050/"
-            },
-            {
-                "title": "Gigantic Aluminium Spiders",
-                "href": "https://windspider.com/gigantic-aluminium-spiders/"
-            },
-            {
-                "title": "What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)",
-                "href": "https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it"
-            },
-            {
-                "title": "EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)",
-                "href": "https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel"
+                "title": "How We\u2019ll Reach a 1 Trillion Transistor GPU",
+                "href": "https://spectrum.ieee.org/trillion-transistor-gpu"
             },
             {
                 "title": "LLMs use a surprisingly simple mechanism to retrieve some stored knowledge",
                 "href": "https://news.mit.edu/2024/large-language-models-use-surprisingly-simple-mechanism-retrieve-stored-knowledge-0325"
             },
             {
-                "title": "ST-DOS",
-                "href": "http://sininenankka.dy.fi/~sami/fdshell/doskernel.php"
+                "title": "Dioxus 0.5: Web, Desktop, Mobile Apps in Rust",
+                "href": "https://dioxuslabs.com/blog/release-050/"
+            },
+            {
+                "title": "Show HN: I made a binary enigma machine for manual encryption",
+                "href": "https://makerworld.com/en/models/247798"
+            },
+            {
+                "title": "What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)",
+                "href": "https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it"
+            },
+            {
+                "title": "Gigantic Aluminium Spiders",
+                "href": "https://windspider.com/gigantic-aluminium-spiders/"
+            },
+            {
+                "title": "New open source GPU is free to all",
+                "href": "https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb"
+            },
+            {
+                "title": "EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)",
+                "href": "https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel"
             },
             {
                 "title": "Endlessh-go: a Golang SSH tarpit that traps bots/scanners",
                 "href": "https://github.com/shizunge/endlessh-go"
             },
             {
+                "title": "ST-DOS",
+                "href": "http://sininenankka.dy.fi/~sami/fdshell/doskernel.php"
+            },
+            {
                 "title": "Addressing Visibility Challenges with TLS 1.3 Within the Enterprise",
                 "href": "https://www.nist.gov/news-events/news/2024/01/new-nccoe-guide-helps-major-industries-observe-incoming-data-while-using"
             },
             {
-                "title": "New open source GPU is free to all",
-                "href": "https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb"
+                "title": "Erasure Coding versus Tail Latency",
+                "href": "https://brooker.co.za/blog/2023/01/06/erasure.html"
             },
             {
                 "title": "Memories are made by breaking DNA \u2013 and fixing it",
@@ -432,16 +444,16 @@
                 "href": "https://www.swift.org/blog/adwaita-swift/"
             },
             {
-                "title": "Launch HN: PointOne (YC W24) \u2013 Automated time tracking for lawyers",
-                "href": "item?id=39842617"
-            },
-            {
                 "title": "Amazon fined in Poland for dark pattern design tricks",
                 "href": "https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/"
             },
             {
-                "title": "Erasure Coding versus Tail Latency",
-                "href": "https://brooker.co.za/blog/2023/01/06/erasure.html"
+                "title": "Launch HN: PointOne (YC W24) \u2013 Automated time tracking for lawyers",
+                "href": "item?id=39842617"
+            },
+            {
+                "title": "Ask HN: Should Banks Phish Their Own Customers",
+                "href": "item?id=39851838"
             },
             {
                 "title": "The last crimes of Caravaggio",
@@ -452,16 +464,16 @@
                 "href": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
             },
             {
-                "title": "Astronomers discover a rare eclipsing X-ray binary",
-                "href": "https://phys.org/news/2024-03-astronomers-rare-eclipsing-ray-binary.html"
-            },
-            {
                 "title": "Launch HN: Patchwork (YC W24) \u2013 Team communication based on feeds, not chat",
                 "href": "item?id=39841956"
             },
             {
                 "title": "Finley (YC W21) is hiring to remake the $1T private credit space",
                 "href": "https://www.finleycms.com/careers/"
+            },
+            {
+                "title": "The Researcher Who Explores Computation by Conjuring New Worlds",
+                "href": "https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/"
             },
             {
                 "title": "Peter principle",
@@ -472,24 +484,12 @@
                 "href": "https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/"
             },
             {
-                "title": "The Researcher Who Explores Computation by Conjuring New Worlds",
-                "href": "https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/"
-            },
-            {
                 "title": "The window for great-grandmothers is closing",
                 "href": "https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers"
             },
             {
                 "title": "FuryGpu \u2013 Custom PCIe FPGA GPU",
                 "href": "https://www.furygpu.com"
-            },
-            {
-                "title": "Why Scientists Are Calling for the Moon to Be Better Protected from Development",
-                "href": "https://www.smithsonianmag.com/smart-news/why-scientists-are-calling-for-the-moon-to-be-better-protected-from-development-180984026/"
-            },
-            {
-                "title": "Things I Learned from Ren\u00e9 Girard",
-                "href": "https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard"
             },
             {
                 "title": "A step beyond Rust's pattern matching",
