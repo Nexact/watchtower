@@ -19,6 +19,10 @@
                 "href": "https://bun.sh/blog/bun-v1.1"
             },
             {
+                "title": "NixOS is not reproducible",
+                "href": "https://linderud.dev/blog/nixos-is-not-reproducible/"
+            },
+            {
                 "title": "The Wi-Fi only works when it's raining",
                 "href": "https://predr.ag/blog/wifi-only-works-when-its-raining/"
             },
@@ -43,16 +47,16 @@
                 "href": "https://www.qt.io/blog/qt-6.7-released"
             },
             {
-                "title": "Switching between code variants using comments",
-                "href": "https://linus.schreibt.jetzt/posts/toggle-comments.html"
-            },
-            {
                 "title": "A lazy and flippant classification of programming languages",
                 "href": "https://blog.brycekerley.net/2024/04/01/p-langs.html"
             },
             {
-                "title": "NixOS is not reproducible",
-                "href": "https://linderud.dev/blog/nixos-is-not-reproducible/"
+                "title": "Switching between code variants using comments",
+                "href": "https://linus.schreibt.jetzt/posts/toggle-comments.html"
+            },
+            {
+                "title": "Calling Haskell from Swift",
+                "href": "https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html"
             },
             {
                 "title": "libmui: Classic MacOS & GS/OS widget library for linux (and other?)",
@@ -71,8 +75,16 @@
                 "href": "http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html"
             },
             {
+                "title": "Xz format inadequate for long-term archiving (2016)",
+                "href": "https://www.nongnu.org/lzip/xz_inadequate.html"
+            },
+            {
                 "title": "A simple collision resolution algorithm for 2D action games",
                 "href": "https://c.har.li/e/2024/03/28/implementing-robust-2D-collision-resolution.html"
+            },
+            {
+                "title": "Kobold letters",
+                "href": "https://lutrasecurity.com/en/articles/kobold-letters/"
             },
             {
                 "title": "10 > 64, in QR codes",
@@ -83,24 +95,12 @@
                 "href": "https://corecursive.com/game-programming-with-mick-west/"
             },
             {
-                "title": "Xz format inadequate for long-term archiving (2016)",
-                "href": "https://www.nongnu.org/lzip/xz_inadequate.html"
-            },
-            {
                 "title": "Bringing Python to Workers using Pyodide and WebAssembly",
                 "href": "https://blog.cloudflare.com/python-workers"
             },
             {
                 "title": "Microsoft to separate Teams and Office globally amid antitrust scrutiny",
                 "href": "https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/"
-            },
-            {
-                "title": "Book Review: \"Tidy First?\" by Kent Beck",
-                "href": "https://www.pathsensitive.com/2024/04/book-review-tidy-first.html"
-            },
-            {
-                "title": "Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code",
-                "href": "https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "IBIS hotel check-in terminal keypad-code leakage",
                 "href": "https://www.reddit.com/r/netsec/comments/1btuddj/ibis_hotel_checkin_terminal_keypadcode_leakage/"
+            },
+            {
+                "title": "XZ-actly What You Need (CVE 2024-3094): Detecting Exploitation with Oligo",
+                "href": "https://www.reddit.com/r/netsec/comments/1bu55c1/xzactly_what_you_need_cve_20243094_detecting/"
             },
             {
                 "title": "Xzbot: exploit demo for the xz backdoor (CVE-2024-3094)",
@@ -206,16 +210,16 @@
             {
                 "title": "Abusing MiniFilter Altitude to blind EDR",
                 "href": "https://www.reddit.com/r/netsec/comments/1bor3j1/abusing_minifilter_altitude_to_blind_edr/"
-            },
-            {
-                "title": "Linux kernel privesc proof of concept CVE-2024-1086, working on ubuntu and debian",
-                "href": "https://www.reddit.com/r/netsec/comments/1bo9aap/linux_kernel_privesc_proof_of_concept_cve20241086/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "New Chrome feature aims to stop hackers from using stolen cookies",
+                "href": "https://www.bleepingcomputer.com/news/security/new-chrome-feature-aims-to-stop-hackers-from-using-stolen-cookies/"
+            },
             {
                 "title": "Google agrees to delete Chrome browsing data of 136 million users",
                 "href": "https://www.bleepingcomputer.com/news/legal/google-agrees-to-delete-chrome-browsing-data-of-136-million-users/"
@@ -259,10 +263,6 @@
             {
                 "title": "It's surprisingly difficult for AI to create just a plain white image",
                 "href": "https://www.bleepingcomputer.com/news/technology/its-surprisingly-difficult-for-ai-to-create-just-a-plain-white-image/"
-            },
-            {
-                "title": "AT&T confirms data for 73 million customers leaked on hacker forum",
-                "href": "https://www.bleepingcomputer.com/news/security/atandt-confirms-data-for-73-million-customers-leaked-on-hacker-forum/"
             }
         ]
     },
@@ -380,11 +380,11 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "CityGaussian: Real-Time High-Quality Large-Scale Scene Rendering with Gaussians",
+                "title": "CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians",
                 "href": "https://dekuliutesla.github.io/citygs/"
             },
             {
-                "title": "Recreating a 90s Screen Saver (Flying Toasters) for the Vision Pro",
+                "title": "Recreating the Flying Toasters screen saver for the Vision Pro",
                 "href": "https://abhipray.com/posts/flying_toasters/"
             },
             {
@@ -392,64 +392,92 @@
                 "href": "https://kcall.co.uk/ssd/index.html"
             },
             {
-                "title": "Launch HN: Creo (YC W24) \u2013 Build internal tools with React/NextJS",
-                "href": "item?id=39907073"
-            },
-            {
-                "title": "Developing a Modern Full-Stack Application: Choosing the Right Tech Stack",
-                "href": "https://isultan.bearblog.dev/modern-full-stack-development/"
-            },
-            {
                 "title": "Los Alamos Chess",
                 "href": "https://en.wikipedia.org/wiki/Los_Alamos_chess"
             },
             {
-                "title": "EasyPost (YC S13) Is Hiring",
-                "href": "https://www.easypost.com/careers"
-            },
-            {
-                "title": "'10 > 64, in QR Codes",
-                "href": "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
-            },
-            {
-                "title": "3D + 2D: Testing out my cross-platform graphics engine",
-                "href": "item?id=39907845"
+                "title": "Launch HN: Creo (YC W24) \u2013 Build internal tools with React/NextJS",
+                "href": "item?id=39907073"
             },
             {
                 "title": "Bradford pear trees banned in few states \u2013 More are looking to eradicate them",
                 "href": "https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/"
             },
             {
-                "title": "Canoo spent double its annual revenue on the CEO's private jet",
-                "href": "https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/"
+                "title": "'10 > 64, in QR Codes",
+                "href": "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
+            },
+            {
+                "title": "EasyPost (YC S13) Is Hiring",
+                "href": "https://www.easypost.com/careers"
+            },
+            {
+                "title": "3D + 2D: Testing out my cross-platform graphics engine",
+                "href": "item?id=39907845"
+            },
+            {
+                "title": "Amazon Ditches 'Just Walk Out' Checkouts at Its Grocery Stores",
+                "href": "https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116"
             },
             {
                 "title": "Timeline of the xz open source attack",
                 "href": "https://research.swtch.com/xz-timeline"
             },
             {
-                "title": "Low Cost Robot Arm",
-                "href": "https://github.com/AlexanderKoch-Koch/low_cost_robot"
-            },
-            {
-                "title": "Debugging (2003)",
-                "href": "https://airs.com/ian/essays/debug/debug.html"
+                "title": "The secret world of competitive bass fishing cheaters (2014)",
+                "href": "https://grantland.com/features/bass-fishing-cheaters/"
             },
             {
                 "title": "Show HN: Floro \u2013 Visual Version Control",
                 "href": "item?id=39894823"
             },
             {
+                "title": "How to stream PostgreSQL CDC to Kafka and use Propel to get an instant API",
+                "href": "https://www.propeldata.com/blog/postgresql-cdc-to-kafka"
+            },
+            {
+                "title": "Where Are the Supply Chain Safe Programming Languages?",
+                "href": "http://blog.vmsplice.net/2024/03/where-are-supply-chain-safe-programming.html"
+            },
+            {
+                "title": "Low Cost Robot Arm",
+                "href": "https://github.com/AlexanderKoch-Koch/low_cost_robot"
+            },
+            {
+                "title": "Artificio de Juanelo",
+                "href": "https://en.wikipedia.org/wiki/Artificio_de_Juanelo"
+            },
+            {
+                "title": "Konrad Zuse",
+                "href": "http://www.xn--plankalkl-x9a.de/"
+            },
+            {
+                "title": "\"30.1K BTC of Silk Road funds controlled by US gov is on the move \"",
+                "href": "https://twitter.com/zachxbt/status/1775193016363356238"
+            },
+            {
+                "title": "Canoo spent double its annual revenue on the CEO's private jet",
+                "href": "https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/"
+            },
+            {
                 "title": "DECT NR+: A technical dive into non-cellular 5G",
                 "href": "https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/dect-nr-a-technical-dive-into-non-cellular-5g"
+            },
+            {
+                "title": "Show HN: Personal Blog based on Astro.build and styled by TailwindCSS",
+                "href": "https://github.com/tisonkun/dacapo"
             },
             {
                 "title": "(Free) Sam (Surface to Air Missile System) Simulator (2009)",
                 "href": "https://sites.google.com/site/samsimulator1972/home"
             },
             {
-                "title": "Receive push notifications from your rice cooker",
-                "href": "https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/"
+                "title": "Debugging (2003)",
+                "href": "https://airs.com/ian/essays/debug/debug.html"
+            },
+            {
+                "title": "Drawing Kolam Patterns in Stitches and Code",
+                "href": "https://alpaca.pubpub.org/pub/eljjyi80/release/5"
             },
             {
                 "title": "Python Cloudflare Workers",
@@ -460,44 +488,16 @@
                 "href": "https://github.com/OneUptime/oneuptime"
             },
             {
-                "title": "Debian Git Monorepo",
-                "href": "https://blog.liw.fi/posts/2024/monorepo/"
-            },
-            {
-                "title": "Drawing Kolam Patterns in Stitches and Code",
-                "href": "https://alpaca.pubpub.org/pub/eljjyi80/release/5"
-            },
-            {
-                "title": "Exploring versions of the Postgres logical replication protocol",
-                "href": "https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol"
-            },
-            {
                 "title": "The xz attack shell script",
                 "href": "https://research.swtch.com/xz-script"
             },
             {
-                "title": "Application of Locality Sensitive Hashing to audio fingerprinting",
-                "href": "https://santhoshhari.github.io/Locality-Sensitive-Hashing/"
+                "title": "Receive push notifications from your rice cooker",
+                "href": "https://shkspr.mobi/blog/2024/03/receive-push-notifications-from-your-rice-cooker/"
             },
             {
-                "title": "A Family Tree: Hippolyte Hodeau's Trench Art (Ca. 1917)",
-                "href": "https://publicdomainreview.org/collection/hippolyte-hodeau-trench-art/"
-            },
-            {
-                "title": "AltStore to offer iPhone apps backed by Patreon in the EU",
-                "href": "https://9to5mac.com/2024/04/01/altstore-iphone-apps-patreon-eu/"
-            },
-            {
-                "title": "PaperBack: How to store arbitrary data on A4 sheets of paper (2007)",
-                "href": "https://ollydbg.de/Paperbak/#1"
-            },
-            {
-                "title": "KraftCloud",
-                "href": "https://github.com/unikraft/unikraft"
-            },
-            {
-                "title": "Building a Compiler in 25 Days [video]",
-                "href": "https://www.youtube.com/watch?v=l3AeN4wQirE"
+                "title": "Exploring versions of the Postgres logical replication protocol",
+                "href": "https://blog.peerdb.io/exploring-versions-of-the-postgres-logical-replication-protocol"
             }
         ]
     }
