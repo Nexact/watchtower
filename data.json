@@ -35,6 +35,10 @@
                 "href": "https://rgbcu.be/blog/cosmic-drift/"
             },
             {
+                "title": "Kobold letters",
+                "href": "https://lutrasecurity.com/en/articles/kobold-letters/"
+            },
+            {
                 "title": "Introducing linkblocks, the Federated Bookmark Manager",
                 "href": "https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/"
             },
@@ -43,8 +47,8 @@
                 "href": "https://www.nongnu.org/lzip/xz_inadequate.html"
             },
             {
-                "title": "Kobold letters",
-                "href": "https://lutrasecurity.com/en/articles/kobold-letters/"
+                "title": "IBIS hotel check-in terminal keypad-code leakage",
+                "href": "https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/"
             },
             {
                 "title": "Enforcing conventions in Django projects with introspection",
@@ -53,10 +57,6 @@
             {
                 "title": "I've lost my pg_control again (... yet another data recovery story)",
                 "href": "https://sdomi.pl/weblog/19-yet-another-pg-data-recovery/"
-            },
-            {
-                "title": "IBIS hotel check-in terminal keypad-code leakage",
-                "href": "https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/"
             },
             {
                 "title": "Calling Haskell from Swift",
@@ -73,6 +73,10 @@
             {
                 "title": "Every dunder method in Python",
                 "href": "https://www.pythonmorsels.com/every-dunder-method/"
+            },
+            {
+                "title": "Python Project-Local Virtualenv Management Redux",
+                "href": "https://hynek.me/articles/python-virtualenv-redux/"
             },
             {
                 "title": "termlisp: A lisp dialect based on pattern matching and term rewriting",
@@ -97,10 +101,6 @@
             {
                 "title": "The Wi-Fi only works when it's raining",
                 "href": "https://predr.ag/blog/wifi-only-works-when-its-raining/"
-            },
-            {
-                "title": "Python Project-Local Virtualenv Management Redux",
-                "href": "https://hynek.me/articles/python-virtualenv-redux/"
             }
         ]
     },
@@ -384,32 +384,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "PyTorch Library for Running LLM on Intel CPU and GPU",
-                "href": "https://github.com/intel-analytics/ipex-llm"
-            },
-            {
                 "title": "Every Dunder Method in Python",
                 "href": "https://www.pythonmorsels.com/every-dunder-method/"
+            },
+            {
+                "title": "PyTorch Library for Running LLM on Intel CPU and GPU",
+                "href": "https://github.com/intel-analytics/ipex-llm"
             },
             {
                 "title": "Redict 7.3.0, a copyleft fork of Redis, is now available",
                 "href": "https://redict.io/posts/2024-04-03-redict-7.3.0-released/"
             },
             {
-                "title": "Reflections on Distrusting xz",
-                "href": "https://joeyh.name/blog/entry/reflections_on_distrusting_xz/"
+                "title": "Long-term nuclear waste warning messages",
+                "href": "https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages"
             },
             {
                 "title": "3D + 2D: Testing out my cross-platform WASM graphics engine",
                 "href": "item?id=39907845"
             },
             {
-                "title": "Long-term nuclear waste warning messages",
-                "href": "https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages"
-            },
-            {
-                "title": "Show HN: I made a site to find top YouTube courses, bypassing expensive courses",
-                "href": "https://www.eduhunt.be/"
+                "title": "Reflections on Distrusting xz",
+                "href": "https://joeyh.name/blog/entry/reflections_on_distrusting_xz/"
             },
             {
                 "title": "How the XZ Backdoor Works",
@@ -422,6 +418,10 @@
             {
                 "title": "ReALM: Reference Resolution as Language Modeling",
                 "href": "https://arxiv.org/abs/2403.20329"
+            },
+            {
+                "title": "Founders Salarys",
+                "href": "https://twitter.com/0zne/status/1774889594976338238"
             },
             {
                 "title": "Science fiction and the death of the sun",
@@ -452,16 +452,16 @@
                 "href": "https://arxiv.org/abs/2404.01744"
             },
             {
-                "title": "The xz attack shell script",
-                "href": "https://research.swtch.com/xz-script"
-            },
-            {
-                "title": "Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M",
-                "href": "https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04"
+                "title": "The Rise and Fall of 3M's Floppy Disk",
+                "href": "https://spectrum.ieee.org/3m-floppy"
             },
             {
                 "title": "A Brazilian special-forces unit fighting to save the Amazon",
                 "href": "https://www.newyorker.com/magazine/2024/04/08/the-brazilian-special-forces-unit-fighting-to-save-the-amazon"
+            },
+            {
+                "title": "The xz attack shell script",
+                "href": "https://research.swtch.com/xz-script"
             },
             {
                 "title": "Anonymous public voicemail inbox",
@@ -472,20 +472,24 @@
                 "href": "https://research.swtch.com/xz-timeline"
             },
             {
-                "title": "The Rise and Fall of 3M's Floppy Disk",
-                "href": "https://spectrum.ieee.org/3m-floppy"
+                "title": "Dali owner file petition to cap liability in Baltimore bridge collapse at $43.7M",
+                "href": "https://www.mdd.uscourts.gov/news/matter-petition-grace-ocean-private-limited-et-al-exoneration-or-limitation-liability-2024-04"
             },
             {
                 "title": "Los Alamos Chess",
                 "href": "https://en.wikipedia.org/wiki/Los_Alamos_chess"
             },
             {
-                "title": "A rudimentary simulation of the three-body problem",
-                "href": "https://github.com/achristmascarl/three_body"
-            },
-            {
                 "title": "10 > 64, in QR Codes",
                 "href": "https://huonw.github.io/blog/2024/03/qr-base10-base64/"
+            },
+            {
+                "title": "Roe AI (YC W24) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer"
+            },
+            {
+                "title": "A rudimentary simulation of the three-body problem",
+                "href": "https://github.com/achristmascarl/three_body"
             },
             {
                 "title": "Ross Anderson",
@@ -494,10 +498,6 @@
             {
                 "title": "Bradford pear trees banned in few states \u2013 More are looking to eradicate them",
                 "href": "https://www.usatoday.com/story/news/nation/2024/03/25/bradford-pear-trees-smell-invasive-species-banned/73040722007/"
-            },
-            {
-                "title": "Roe AI (YC W24) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/roe-ai/jobs/NZDmSo9-founding-engineer"
             },
             {
                 "title": "Low Cost Robot Arm",
