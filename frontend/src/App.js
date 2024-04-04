@@ -30,7 +30,7 @@ function FeedTitle({ title }) {
 }
 
 function FeedLinks({ items }) {
-  return items.slice(0,15).map(items =>
+  return items.slice(0,10).map(items =>
     <Fragment>
       <Row className='p-1'>
       <a href={items.href} target="_blank"
