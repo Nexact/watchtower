@@ -30,9 +30,9 @@ function FeedTitle({ title }) {
 }
 
 function FeedLinks({ items }) {
-  return items.map(items =>
+  return items.slice(0,15).map(items =>
     <Fragment>
-      <Row>
+      <Row className='p-1'>
       <a href={items.href} target="_blank"
             className="text-wrap fs-6 lh-1 link-opacity-50-hover feedlink" rel="noreferrer">
                🔗 {items.title}

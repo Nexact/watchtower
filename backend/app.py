@@ -15,7 +15,9 @@ if __name__ == "__main__":
         {"feedname": "bleepingcomputer", "url":"https://www.bleepingcomputer.com/feed/"},
         {"feedname": "krebsonsecurity", "url":"https://krebsonsecurity.com/feed/"},
         {"feedname": "slashdot", "url": "http://rss.slashdot.org/Slashdot/slashdot"},
-        {"feedname": "ciscotalos", "url": "https://blog.talosintelligence.com/rss"}
+        {"feedname": "ciscotalos", "url": "https://blog.talosintelligence.com/rss"},
+        {"feedname": "MSRC", "url": "https://msrc.microsoft.com/blog/feed"},
+        {"feedname": "PacketStorm", "url": "https://rss.packetstormsecurity.com"}
     ]
 
     # loop rss feeds
