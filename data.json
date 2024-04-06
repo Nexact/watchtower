@@ -43,6 +43,10 @@
                 "href": "https://marc.info/?l=openbsd-misc&m=171227941117852&w=2"
             },
             {
+                "title": "A History of Source Control Systems: SCCS and RCS",
+                "href": "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/"
+            },
+            {
                 "title": "Fortran on WebAssembly",
                 "href": "https://gws.phd/posts/fortran_wasm/"
             },
@@ -55,16 +59,16 @@
                 "href": "https://matduggan.com/why-dont-i-like-git-more/"
             },
             {
+                "title": "GNOME Builder abandons XDG_CACHE_DIR",
+                "href": "https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/"
+            },
+            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend"
             },
             {
                 "title": "Go\u2019s Error Handling Is Perfect, Actually",
                 "href": "https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/"
-            },
-            {
-                "title": "GNOME Builder abandons XDG_CACHE_DIR",
-                "href": "https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/"
             },
             {
                 "title": "Why CockroachDB doesn't use EvalPlanQual",
@@ -87,20 +91,16 @@
                 "href": "https://regexide.com/"
             },
             {
-                "title": "Simulating soapy water",
-                "href": "https://blog.tymscar.com/posts/soapsim/"
-            },
-            {
                 "title": "Running Fava on NixOS",
                 "href": "https://pta2002.com/blog/fava-on-nixos/"
             },
             {
-                "title": "BugStalker: A modern debugger",
-                "href": "https://github.com/godzie44/BugStalker"
+                "title": "Simulating soapy water",
+                "href": "https://blog.tymscar.com/posts/soapsim/"
             },
             {
-                "title": "Visualizing the ARM64 Instruction Set",
-                "href": "https://zyedidia.github.io/blog/posts/6-arm64/"
+                "title": "Diving Deeper into AI Package Hallucinations",
+                "href": "https://www.lasso.security/blog/ai-package-hallucinations"
             }
         ]
     },
@@ -2550,10 +2550,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Microsoft blocks even more customization apps in Windows 11 version 24H2",
-                "href": "https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/"
-            },
-            {
                 "title": "SearXNG is a free internet metasearch engine",
                 "href": "https://github.com/searxng/searxng"
             },
@@ -2574,28 +2570,12 @@
                 "href": "https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/"
             },
             {
-                "title": "Interview with a blind developer on how he works (2017)",
-                "href": "https://www.vincit.com/blog/software-development-450-words-per-minute"
-            },
-            {
-                "title": "Fortran on WebAssembly",
-                "href": "https://gws.phd/posts/fortran_wasm/"
-            },
-            {
                 "title": "Autonomous Overhead Powerline Recharging for Uninterrupted Drone Operations [video]",
                 "href": "https://www.youtube.com/watch?v=C-uekD6VTIQ"
             },
             {
                 "title": "65 years ago, America announced the names of its first astronauts",
                 "href": "https://www.theregister.com/2024/04/04/65_years_ago_mercury_7/"
-            },
-            {
-                "title": "SLAC completes construction of the largest digital camera built for astronomy",
-                "href": "https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy"
-            },
-            {
-                "title": "The \"Eisenhower matrix\" productivity hack",
-                "href": "https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/"
             },
             {
                 "title": "Postgres locks explorer",
@@ -2606,68 +2586,88 @@
                 "href": "https://phys.org/news/2024-04-nasa-clock-moon-seconds-faster.html"
             },
             {
-                "title": "The Rise and Fall of Silicon Graphics",
-                "href": "https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics"
-            },
-            {
-                "title": "The Defenestrations of Prague (1419\u20131997)",
-                "href": "https://publicdomainreview.org/essay/windows-onto-history/"
-            },
-            {
-                "title": "Twenty years maintaining the WiX Toolset",
-                "href": "https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/"
-            },
-            {
-                "title": "Emacs bug: describe-key and lambda too poetic",
-                "href": "https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u"
+                "title": "SLAC completes construction of the largest digital camera built for astronomy",
+                "href": "https://www6.slac.stanford.edu/news/2024-04-03-slac-completes-construction-largest-digital-camera-ever-built-astronomy"
             },
             {
                 "title": "Oh No Robot: Comics search",
                 "href": "https://www.ohnorobot.com/"
             },
             {
-                "title": "NASA knows what knocked Voyager 1 offline, but it will take a while to fix",
-                "href": "https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/"
+                "title": "Emacs bug: describe-key and lambda too poetic",
+                "href": "https://yhetil.org/emacs-bugs/874jcgbekr.fsf@gmail.com/T/#u"
             },
             {
-                "title": "What is the Fourth Dimension? (1884)",
-                "href": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F"
+                "title": "The \"Eisenhower matrix\" productivity hack",
+                "href": "https://bigthink.com/the-learning-curve/why-the-eisenhower-matrix-is-a-fantastic-productivity-hack/"
             },
             {
-                "title": "Pragmatic Semiconductor made a flexible version of the 6502 processor (2021)",
-                "href": "https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world"
+                "title": "Interview with a blind developer on how he works (2017)",
+                "href": "https://www.vincit.com/blog/software-development-450-words-per-minute"
+            },
+            {
+                "title": "Twenty years maintaining the WiX Toolset",
+                "href": "https://robmensching.com/blog/posts/2024/04/05/twenty-years-maintaining-the-wix-toolset/"
+            },
+            {
+                "title": "Fortran on WebAssembly",
+                "href": "https://gws.phd/posts/fortran_wasm/"
             },
             {
                 "title": "The Secret Lives of Ernest Beaux",
                 "href": "https://buchananb.substack.com/p/the-secret-lives-of-ernest-beaux"
             },
             {
-                "title": "Scientists may have discovered a flaw in their understanding of dark energy",
-                "href": "https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html"
+                "title": "Microsoft blocks even more customization apps in Windows 11 version 24H2",
+                "href": "https://www.neowin.net/news/microsoft-blocks-even-more-customization-apps-in-windows-11-version-24h2/"
             },
             {
-                "title": "For twenty years, PostSecret has broadcast suburban America\u2019s hidden truths",
-                "href": "https://hazlitt.net/longreads/dark-matter"
+                "title": "NASA knows what knocked Voyager 1 offline, but it will take a while to fix",
+                "href": "https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/"
+            },
+            {
+                "title": "Pragmatic Semiconductor made a flexible version of the 6502 processor (2021)",
+                "href": "https://www.pragmaticsemi.com/newsroom/press-releases/pragmatic-semiconductor-re-invents-the-iconic-processor-that-changed-the-world"
+            },
+            {
+                "title": "Scientists may have discovered a flaw in their understanding of dark energy",
+                "href": "https://www.nytimes.com/2024/04/04/science/space/astronomy-universe-dark-energy.html"
             },
             {
                 "title": "Ask HN: What is the most useless project you have worked on?",
                 "href": "item?id=39942397"
             },
             {
-                "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
-                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
-            },
-            {
                 "title": "Show HN: Kyoo \u2013 Self-hosted media browser (Jellyfin/Plex alternative)",
                 "href": "https://github.com/zoriya/Kyoo"
+            },
+            {
+                "title": "For twenty years, PostSecret has broadcast suburban America\u2019s hidden truths",
+                "href": "https://hazlitt.net/longreads/dark-matter"
+            },
+            {
+                "title": "Working with Qubes OS at the Guardian",
+                "href": "https://www.theguardian.com/info/2024/apr/04/when-security-matters-working-with-qubes-os-at-the-guardian"
+            },
+            {
+                "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
+                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
             },
             {
                 "title": "Philly Typewriter",
                 "href": "https://www.atlasobscura.com/places/philly-typewriter-philadelphia"
             },
             {
-                "title": "St. Louis Brick by Brick (2023)",
-                "href": "https://beltmag.com/st-louis-brick-by-brick/"
+                "title": "Anatomy of a credit card rewards program",
+                "href": "https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/"
+            },
+            {
+                "title": "An IRC client in your motherboard",
+                "href": "https://axleos.com/an-irc-client-in-your-motherboard/"
+            },
+            {
+                "title": "The Rise and Fall of Silicon Graphics",
+                "href": "https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics"
             }
         ]
     }
