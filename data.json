@@ -39,6 +39,10 @@
                 "href": "https://axleos.com/an-irc-client-in-your-motherboard/"
             },
             {
+                "title": "CVE-2023-3741: how we hacked a VoIP telephone",
+                "href": "https://havce.it/posts/cve-2023-3741/"
+            },
+            {
                 "title": "Design choices for post-quantum TLS",
                 "href": "https://educatedguesswork.org/posts/pq-rollout/"
             },
@@ -49,10 +53,6 @@
             {
                 "title": "Chapel 2.0: Scalable and Productive Computing for All",
                 "href": "https://chapel-lang.org/blog/posts/announcing-chapel-2.0/"
-            },
-            {
-                "title": "CVE-2023-3741: how we hacked a VoIP telephone",
-                "href": "https://havce.it/posts/cve-2023-3741/"
             },
             {
                 "title": "\"scrolll\" \u2013 a demo for 32 HTML scrollbars",
@@ -2546,28 +2546,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "ESR's Autodafe: \"freeing your project from the clammy grip of autotools.\"",
-                "href": "https://gitlab.com/esr/autodafe"
-            },
-            {
                 "title": "Is the frequency domain a real place?",
                 "href": "https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place"
             },
             {
-                "title": "Glory is only 11MB/SEC away",
+                "title": "Glory is only 11MB/sec away (2023)",
                 "href": "https://thmsmlr.com/cheap-infra"
+            },
+            {
+                "title": "What makes housing so expensive?",
+                "href": "https://www.construction-physics.com/p/what-makes-housing-so-expensive"
             },
             {
                 "title": "WinBtrfs \u2013 an open-source btrfs driver for Windows",
                 "href": "https://github.com/maharmstone/btrfs"
             },
             {
-                "title": "What Makes Housing So Expensive?",
-                "href": "https://www.construction-physics.com/p/what-makes-housing-so-expensive"
-            },
-            {
                 "title": "Faces.js, a JavaScript library for generating vector-based cartoon faces",
                 "href": "https://zengm.com/facesjs/"
+            },
+            {
+                "title": "Autodafe: Tools for freeing your project from the clammy grip of autotools",
+                "href": "https://gitlab.com/esr/autodafe"
+            },
+            {
+                "title": "Currying",
+                "href": "https://wiki.haskell.org/Currying"
             },
             {
                 "title": "Show HN: Online database diagram editor",
@@ -2578,12 +2582,12 @@
                 "href": "https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions"
             },
             {
-                "title": "Currying",
-                "href": "https://wiki.haskell.org/Currying"
+                "title": "PM2: Production Process Manager with a Built-In Load Balancer",
+                "href": "https://github.com/Unitech/pm2"
             },
             {
-                "title": "Lago, Open-Source Stripe Alternative, banks $22M in funding",
-                "href": "https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/"
+                "title": "Anti-crime humps in medieval Venice",
+                "href": "https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they"
             },
             {
                 "title": "A canonical Hamiltonian formulation of the Navier\u2013Stokes problem",
@@ -2594,8 +2598,24 @@
                 "href": "https://arxiv.org/abs/2402.05120"
             },
             {
+                "title": "Lago, Open-Source Stripe Alternative, banks $22M in funding",
+                "href": "https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/"
+            },
+            {
                 "title": "We Can Slay Giants",
                 "href": "https://www.thehandbasket.co/p/meta-the-handbasket-censorship-slay-giants"
+            },
+            {
+                "title": "Nix \u2013 A One Pager",
+                "href": "https://github.com/tazjin/nix-1p/blob/master/README.md"
+            },
+            {
+                "title": "The xz sshd backdoor rabbithole goes quite a bit deeper",
+                "href": "https://twitter.com/bl4sty/status/1776691497506623562"
+            },
+            {
+                "title": "Exposure therapy for arachnophobia can benefit unrelated fears, study finds",
+                "href": "https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/"
             },
             {
                 "title": "A Theory of Composing Protocols (2023)",
@@ -2606,64 +2626,44 @@
                 "href": "https://blog.google/around-the-globe/google-europe/new-competition-rules-come-with-trade-offs/"
             },
             {
-                "title": "Chisel: A fast TCP/UDP tunnel over HTTP",
-                "href": "https://github.com/jpillora/chisel"
-            },
-            {
-                "title": "The xz sshd backdoor rabbithole goes quite a bit deeper",
-                "href": "https://twitter.com/bl4sty/status/1776691497506623562"
-            },
-            {
-                "title": "Anti-Crime Humps in Medieval Venice",
-                "href": "https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they"
+                "title": "Dot: use of local LLMs and RAG in particular to interact with documents",
+                "href": "https://github.com/alexpinel/Dot"
             },
             {
                 "title": "Choosing a Name for Your Computer (1990)",
                 "href": "https://datatracker.ietf.org/doc/html/rfc1178"
             },
             {
-                "title": "Best Buy Geek Squad employees report mass layoffs",
-                "href": "https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring"
-            },
-            {
-                "title": "Show HN: Brutalist Hacker News \u2013 A HN reader inspired by brutalist web design",
-                "href": "https://brutalisthackernews.com"
+                "title": "Chisel: A fast TCP/UDP tunnel over HTTP",
+                "href": "https://github.com/jpillora/chisel"
             },
             {
                 "title": "Why Were So Many Renaissance Portraits Multisided?",
                 "href": "https://www.smithsonianmag.com/smart-news/why-were-so-many-renaissance-portraits-multisided-180984096/"
             },
             {
-                "title": "ChrysaLisp GUI Demo [video]",
-                "href": "https://www.youtube.com/watch?v=ADvyZOxlBu4"
+                "title": "Show HN: Brutalist Hacker News \u2013 A HN reader inspired by brutalist web design",
+                "href": "https://brutalisthackernews.com"
+            },
+            {
+                "title": "Best Buy Geek Squad employees report mass layoffs",
+                "href": "https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring"
             },
             {
                 "title": "Zep AI (YC W24) is hiring a founding Go engineer",
                 "href": "https://jobs.gem.com/zep/am9icG9zdDre4RbzEeB4wYY7s9TjXwhp"
             },
             {
-                "title": "Blissymbols \u2013 Ideographic Writing System",
-                "href": "https://en.wikipedia.org/wiki/Blissymbols"
-            },
-            {
-                "title": "Tokens, n-grams, and bag-of-words models (2023)",
-                "href": "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
-            },
-            {
-                "title": "Home insurers are dropping customers based on aerial images",
-                "href": "https://www.wsj.com/real-estate/home-insurance-aerial-images-37a18b16"
+                "title": "ChrysaLisp GUI Demo [video]",
+                "href": "https://www.youtube.com/watch?v=ADvyZOxlBu4"
             },
             {
                 "title": "Language models are Super Mario: Absorbing abilities from homologous models",
                 "href": "https://arxiv.org/abs/2311.03099"
             },
             {
-                "title": "New sunflower family tree reveals multiple origins of flower symmetry",
-                "href": "https://phys.org/news/2024-04-sunflower-family-tree-reveals-multiple.html"
-            },
-            {
-                "title": "System/360 \u2013 CHM Revolution",
-                "href": "https://www.computerhistory.org/revolution/mainframe-computers/7/164"
+                "title": "Tokens, n-grams, and bag-of-words models (2023)",
+                "href": "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
             }
         ]
     }
