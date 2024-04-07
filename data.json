@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Do you have any programming \"white whales\"?",
-                "href": "https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales"
-            },
-            {
                 "title": "Glory is only 11MB/sec away",
                 "href": "https://thmsmlr.com/cheap-infra"
+            },
+            {
+                "title": "Do you have any programming \"white whales\"?",
+                "href": "https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales"
             },
             {
                 "title": "OpenTofu may be showing us the wrong way to fork",
@@ -21,6 +21,10 @@
             {
                 "title": "The Assist",
                 "href": "https://qntm.org/assist"
+            },
+            {
+                "title": "My new home server",
+                "href": "https://g7o.today/posts/my_new_home_server/"
             },
             {
                 "title": "The challenges of building modern open source software on PowerPC Mac OS X",
@@ -55,16 +59,20 @@
                 "href": "https://jamesg.blog//2024/03/22/lower-level-programming/"
             },
             {
-                "title": "Photoshop for text (2022)",
-                "href": "https://stephango.com/photoshop-for-text"
-            },
-            {
                 "title": "\"scrolll\" \u2013 a demo for 32 HTML scrollbars",
                 "href": "https://www.youtube.com/watch?v=i-aqB9Ii38Y"
             },
             {
+                "title": "Photoshop for text (2022)",
+                "href": "https://stephango.com/photoshop-for-text"
+            },
+            {
                 "title": "Reversing a Mystery Function",
                 "href": "https://xorvoid.com/reversing_a_mystery_function.html"
+            },
+            {
+                "title": "GNOME Builder abandons XDG_CACHE_DIR",
+                "href": "https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/"
             },
             {
                 "title": "eC Programming Language",
@@ -73,10 +81,6 @@
             {
                 "title": "Ownership in Rust",
                 "href": "https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/"
-            },
-            {
-                "title": "GNOME Builder abandons XDG_CACHE_DIR",
-                "href": "https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/"
             },
             {
                 "title": "Towards Impeccable Rust",
@@ -97,10 +101,6 @@
             {
                 "title": "FreeBSD Zero to Desktop Speedrun Challenge",
                 "href": "https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/"
-            },
-            {
-                "title": "Updated App Store Guidelines Now Allowing \"Retro game console emulator apps\"",
-                "href": "https://developer.apple.com/app-store/review/guidelines/"
             }
         ]
     },
@@ -2562,28 +2562,24 @@
                 "href": "https://zengm.com/facesjs/"
             },
             {
-                "title": "Glory is only 11MB/sec away (2023)",
-                "href": "https://thmsmlr.com/cheap-infra"
-            },
-            {
                 "title": "PM2: Production Process Manager with a Built-In Load Balancer",
                 "href": "https://github.com/Unitech/pm2"
             },
             {
-                "title": "Show HN: Online database diagram editor",
-                "href": "https://github.com/drawdb-io/drawdb"
+                "title": "Glory is only 11MB/sec away (2023)",
+                "href": "https://thmsmlr.com/cheap-infra"
             },
             {
                 "title": "Nix \u2013 A One Pager",
                 "href": "https://github.com/tazjin/nix-1p/blob/master/README.md"
             },
             {
-                "title": "Autodafe: Tools for freeing your project from the clammy grip of autotools",
-                "href": "https://gitlab.com/esr/autodafe"
+                "title": "Show HN: Online database diagram editor",
+                "href": "https://github.com/drawdb-io/drawdb"
             },
             {
-                "title": "What makes housing so expensive?",
-                "href": "https://www.construction-physics.com/p/what-makes-housing-so-expensive"
+                "title": "Autodafe: Tools for freeing your project from the clammy grip of autotools",
+                "href": "https://gitlab.com/esr/autodafe"
             },
             {
                 "title": "Dot: use of local LLMs and RAG in particular to interact with documents",
@@ -2598,12 +2594,12 @@
                 "href": "https://www.thehandbasket.co/p/meta-the-handbasket-censorship-slay-giants"
             },
             {
-                "title": "A canonical Hamiltonian formulation of the Navier\u2013Stokes problem",
-                "href": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6"
-            },
-            {
                 "title": "Anti-crime humps in medieval Venice",
                 "href": "https://www.visitvenezia.eu/en/venetianity/discover-venice/the-venetian-antibandito-humps-or-pissotte-what-exactly-are-they"
+            },
+            {
+                "title": "A canonical Hamiltonian formulation of the Navier\u2013Stokes problem",
+                "href": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6"
             },
             {
                 "title": "More Agents Is All You Need: LLMs performance scales with the number of agents",
@@ -2614,36 +2610,44 @@
                 "href": "https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/"
             },
             {
-                "title": "Google Blog on DMA",
-                "href": "https://blog.google/around-the-globe/google-europe/new-competition-rules-come-with-trade-offs/"
-            },
-            {
                 "title": "Exposure therapy for arachnophobia can benefit unrelated fears, study finds",
                 "href": "https://www.psypost.org/exposure-therapy-for-arachnophobia-can-benefit-unrelated-fears-study-finds/"
-            },
-            {
-                "title": "Choosing a Name for Your Computer (1990)",
-                "href": "https://datatracker.ietf.org/doc/html/rfc1178"
-            },
-            {
-                "title": "The xz sshd backdoor rabbithole goes quite a bit deeper",
-                "href": "https://twitter.com/bl4sty/status/1776691497506623562"
             },
             {
                 "title": "A Theory of Composing Protocols (2023)",
                 "href": "https://programming-journal.org/2023/7/6/"
             },
             {
+                "title": "The xz sshd backdoor rabbithole goes quite a bit deeper",
+                "href": "https://twitter.com/bl4sty/status/1776691497506623562"
+            },
+            {
+                "title": "What makes housing so expensive?",
+                "href": "https://www.construction-physics.com/p/what-makes-housing-so-expensive"
+            },
+            {
                 "title": "Chisel: A fast TCP/UDP tunnel over HTTP",
                 "href": "https://github.com/jpillora/chisel"
+            },
+            {
+                "title": "M4 always was horrible, and I say that as the original author of GNU M4",
+                "href": "https://mastodon.social/@seindal/112205415790637632"
             },
             {
                 "title": "Why Were So Many Renaissance Portraits Multisided?",
                 "href": "https://www.smithsonianmag.com/smart-news/why-were-so-many-renaissance-portraits-multisided-180984096/"
             },
             {
+                "title": "Designing-data-intensive-application-notes.md",
+                "href": "https://gist.github.com/bcherny/b870a60d1650973df7e400c8603ac76d"
+            },
+            {
                 "title": "Show HN: Brutalist Hacker News \u2013 A HN reader inspired by brutalist web design",
                 "href": "https://brutalisthackernews.com"
+            },
+            {
+                "title": "ChrysaLisp GUI Demo [video]",
+                "href": "https://www.youtube.com/watch?v=ADvyZOxlBu4"
             },
             {
                 "title": "Zep AI (YC W24) is hiring a founding Go engineer",
@@ -2654,16 +2658,12 @@
                 "href": "https://wiki.haskell.org/Currying"
             },
             {
-                "title": "Best Buy Geek Squad employees report mass layoffs",
-                "href": "https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring"
-            },
-            {
                 "title": "Tokens, n-grams, and bag-of-words models (2023)",
                 "href": "https://zilliz.com/learn/introduction-to-natural-language-processing-tokens-ngrams-bag-of-words-models"
             },
             {
-                "title": "ChrysaLisp GUI Demo [video]",
-                "href": "https://www.youtube.com/watch?v=ADvyZOxlBu4"
+                "title": "Ask HN: SQLite in Production?",
+                "href": "item?id=39955288"
             }
         ]
     }
