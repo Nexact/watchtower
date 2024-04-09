@@ -27,20 +27,20 @@
                 "href": "https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0"
             },
             {
-                "title": "TSAC: Very Low Bitrate Audio Compression",
-                "href": "https://bellard.org/tsac/"
-            },
-            {
                 "title": "SSSL - Hackless SSL bypass for the Wii U",
                 "href": "https://github.com/PretendoNetwork/SSSL"
             },
             {
-                "title": "The Distribution Problem: what's wrong with internal CAs (and what to do about it)",
-                "href": "https://anchor.dev/blog/the-distribution-problem"
+                "title": "TSAC: Very Low Bitrate Audio Compression",
+                "href": "https://bellard.org/tsac/"
             },
             {
                 "title": "Lambda Screen: Fractals in Pure Lambda Calculus",
                 "href": "https://text.marvinborner.de/2024-03-25-02.html"
+            },
+            {
+                "title": "The Distribution Problem: what's wrong with internal CAs (and what to do about it)",
+                "href": "https://anchor.dev/blog/the-distribution-problem"
             },
             {
                 "title": "BZIP2: Format Specification",
@@ -55,24 +55,28 @@
                 "href": "https://github.com/tidwall/neco"
             },
             {
-                "title": "Ratarmount: Access large archives as a filesystem efficiently",
-                "href": "https://github.com/mxmlnkn/ratarmount"
-            },
-            {
                 "title": "Testing HTML With Modern CSS",
                 "href": "https://heydonworks.com/article/testing-html-with-modern-css/"
-            },
-            {
-                "title": "Async Rust",
-                "href": "https://zed.dev/blog/zed-decoded-async-rust"
             },
             {
                 "title": "YETI programming language",
                 "href": "https://mth.github.io/yeti/"
             },
             {
+                "title": "Ratarmount: Access large archives as a filesystem efficiently",
+                "href": "https://github.com/mxmlnkn/ratarmount"
+            },
+            {
                 "title": "seL4 Device Driver Framework 0.4.0",
                 "href": "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
+            },
+            {
+                "title": "Async Rust",
+                "href": "https://zed.dev/blog/zed-decoded-async-rust"
+            },
+            {
+                "title": "Crystal 1.12.0 is released",
+                "href": "https://crystal-lang.org/2024/04/09/1.12.0-released/"
             },
             {
                 "title": "llm.c: LLM training in simple, raw C/CUDA",
@@ -97,10 +101,6 @@
             {
                 "title": "Who\u2019s Hiring? Q2Y2024",
                 "href": "https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024"
-            },
-            {
-                "title": "Crystal 1.12.0 is released",
-                "href": "https://crystal-lang.org/2024/04/09/1.12.0-released/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Critical Rust flaw enables Windows command injection attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/"
+            },
+            {
                 "title": "Windows 10 KB5036892 update released with 23 new fixes, changes",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/"
             },
@@ -263,16 +267,16 @@
             {
                 "title": "Hackers deploy crypto drainers on thousands of WordPress sites",
                 "href": "https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/"
-            },
-            {
-                "title": "Cyberattack on UK\u2019s CVS Group disrupts veterinary operations",
-                "href": "https://www.bleepingcomputer.com/news/security/cyberattack-on-uks-cvs-group-disrupts-veterinary-operations/"
             }
         ]
     },
     {
         "feedname": "krebsonsecurity",
         "items": [
+            {
+                "title": "April\u2019s Patch Tuesday Brings Record Number of Fixes",
+                "href": "https://krebsonsecurity.com/2024/04/aprils-patch-tuesday-brings-record-number-of-fixes/"
+            },
             {
                 "title": "Fake Lawsuit Threat Exposes Privnote Phishing Sites",
                 "href": "https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/"
@@ -308,10 +312,6 @@
             {
                 "title": "Incognito Darknet Market Mass-Extorts Buyers, Sellers",
                 "href": "https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/"
-            },
-            {
-                "title": "A Close Up Look at the Consumer Data Broker Radaris",
-                "href": "https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/"
             }
         ]
     },
@@ -2550,32 +2550,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "GPT-4 Turbo with Vision Generally Available",
-                "href": "https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4"
-            },
-            {
                 "title": "Intel Gaudi 3 AI Accelerator",
                 "href": "https://www.intel.com/content/www/us/en/newsroom/news/vision-2024-gaudi-3-ai-accelerator.html"
-            },
-            {
-                "title": "PS1 Programming Course with MIPS Assembly and C",
-                "href": "https://pikuma.com/courses/ps1-programming-mips-assembly-language"
-            },
-            {
-                "title": "Cow Magnets",
-                "href": "https://www.stanfordmagnets.com/cow-magnets.html"
             },
             {
                 "title": "A MySQL compatible database engine written in pure Go",
                 "href": "https://github.com/dolthub/go-mysql-server"
             },
             {
-                "title": "Beeper acquired by Automattic",
-                "href": "https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"
+                "title": "Cow Magnets",
+                "href": "https://www.stanfordmagnets.com/cow-magnets.html"
             },
             {
                 "title": "ScreenAI: A visual LLM for UI and visually-situated language understanding",
                 "href": "https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/"
+            },
+            {
+                "title": "Beeper acquired by Automattic",
+                "href": "https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"
             },
             {
                 "title": "Peter Higgs, physicist who discovered Higgs boson, has died",
@@ -2590,8 +2582,16 @@
                 "href": "https://zed.dev/blog/zed-decoded-async-rust"
             },
             {
+                "title": "PS1 Programming Course with MIPS Assembly and C",
+                "href": "https://pikuma.com/courses/ps1-programming-mips-assembly-language"
+            },
+            {
                 "title": "Chronon, Airbnb's ML feature platform, is now open source",
                 "href": "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
+            },
+            {
+                "title": "GPT-4 Turbo with Vision Generally Available",
+                "href": "https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4"
             },
             {
                 "title": "Virtual Colossus",
@@ -2610,48 +2610,48 @@
                 "href": "https://qdiv.dev/posts/eth2/"
             },
             {
-                "title": "Show HN: DualShock calibration in the browser using WebHID",
-                "href": "https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html"
-            },
-            {
-                "title": "Fairbuds: In-ear with replaceable batteries",
-                "href": "https://shop.fairphone.com/fairbuds"
-            },
-            {
                 "title": "Lambda Screen: Fractals in Pure Lambda Calculus",
                 "href": "https://text.marvinborner.de/2024-03-25-02.html"
             },
             {
-                "title": "Google CodeGemma: Open Code Models Based on Gemma [pdf]",
-                "href": "https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf"
-            },
-            {
-                "title": "Anger is eliminated with the disposal of a paper written because of provocation",
-                "href": "https://www.nature.com/articles/s41598-024-57916-z"
+                "title": "Show HN: DualShock calibration in the browser using WebHID",
+                "href": "https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html"
             },
             {
                 "title": "Supreme Commander Graphics Study (2015)",
                 "href": "http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/"
             },
             {
+                "title": "Anger is eliminated with the disposal of a paper written because of provocation",
+                "href": "https://www.nature.com/articles/s41598-024-57916-z"
+            },
+            {
                 "title": "The Lonely Funeral Project in Amsterdam",
                 "href": "https://www.upworthy.com/the-lonely-funeral-project"
             },
             {
-                "title": "Complexity Is the Enemy",
-                "href": "https://neugierig.org/software/blog/2011/04/complexity.html"
+                "title": "Google CodeGemma: Open Code Models Based on Gemma [pdf]",
+                "href": "https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf"
+            },
+            {
+                "title": "Fairbuds: In-ear with replaceable batteries",
+                "href": "https://shop.fairphone.com/fairbuds"
             },
             {
                 "title": "Let's Kerberos",
                 "href": "https://www.imperialviolet.org/2024/04/07/letskerberos.html"
             },
             {
+                "title": "AutoCodeRover: Autonomous Program Improvement",
+                "href": "https://github.com/nus-apr/auto-code-rover"
+            },
+            {
                 "title": "Persistent interaction patterns across social media platforms and over time",
                 "href": "https://www.nature.com/articles/s41586-024-07229-y"
             },
             {
-                "title": "AutoCodeRover: Autonomous Program Improvement",
-                "href": "https://github.com/nus-apr/auto-code-rover"
+                "title": "Evaluating faithfulness and content selection of LLMs in book-length summaries",
+                "href": "https://arxiv.org/abs/2404.01261"
             },
             {
                 "title": "Preview of Explore Logs, a new way to browse your logs without writing LogQL",
@@ -2662,12 +2662,12 @@
                 "href": "https://zipcpu.com/blog/2024/04/01/chasing-resets.html"
             },
             {
-                "title": "Evaluating faithfulness and content selection of LLMs in book-length summaries",
-                "href": "https://arxiv.org/abs/2404.01261"
+                "title": "Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel",
+                "href": "https://github.com/larryboyko/dimityjones"
             },
             {
-                "title": "Social Skill Training with Large Language Models",
-                "href": "https://arxiv.org/abs/2404.04204"
+                "title": "Steven Levitt and John Donohue defend a finding made famous by \"Freakonomics\"",
+                "href": "https://www.economist.com/by-invitation/2024/04/08/steven-levitt-and-john-donohue-defend-a-finding-made-famous-by-freakonomics"
             }
         ]
     }
