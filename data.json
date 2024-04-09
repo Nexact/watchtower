@@ -11,12 +11,12 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
             },
             {
-                "title": "TSAC: Very Low Bitrate Audio Compression",
-                "href": "https://bellard.org/tsac/"
-            },
-            {
                 "title": "How I Tripped Over the Debian Weak Keys Vulnerability",
                 "href": "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
+            },
+            {
+                "title": "TSAC: Very Low Bitrate Audio Compression",
+                "href": "https://bellard.org/tsac/"
             },
             {
                 "title": "500 Mile Email - Absurd Bug Stories",
@@ -39,12 +39,20 @@
                 "href": "https://github.com/tidwall/neco"
             },
             {
-                "title": "exFAT vs. UDF 2.01 cross-platform and performance tests (2018)",
-                "href": "https://www.sami-lehtinen.net/blog/exfat-extended-file-allocation-table-vs-udf-universal-disk-format-file-system-for-flash-drives"
+                "title": "Introducing Google\u2019s new Arm-based CPU",
+                "href": "https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu"
+            },
+            {
+                "title": "seL4 Device Driver Framework 0.4.0",
+                "href": "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
             },
             {
                 "title": "Dtrace for Linux 2.0",
                 "href": "https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u"
+            },
+            {
+                "title": "exFAT vs. UDF 2.01 cross-platform and performance tests (2018)",
+                "href": "https://www.sami-lehtinen.net/blog/exfat-extended-file-allocation-table-vs-udf-universal-disk-format-file-system-for-flash-drives"
             },
             {
                 "title": "WASI 0.2 Launched",
@@ -59,8 +67,8 @@
                 "href": "https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024"
             },
             {
-                "title": "seL4 Device Driver Framework 0.4.0",
-                "href": "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
+                "title": "Ratarmount: Access large archives as a filesystem efficiently",
+                "href": "https://github.com/mxmlnkn/ratarmount"
             },
             {
                 "title": "Building BerkeleyDB",
@@ -71,20 +79,20 @@
                 "href": "https://blog.orhun.dev/open-source-funding-with-ratatui"
             },
             {
-                "title": "Introducing Google\u2019s new Arm-based CPU",
-                "href": "https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu"
-            },
-            {
                 "title": "Just How Much Faster Are the GNOME 46 Terminals?",
                 "href": "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/"
             },
             {
-                "title": "Ratarmount: Access large archives as a filesystem efficiently",
-                "href": "https://github.com/mxmlnkn/ratarmount"
-            },
-            {
                 "title": "Adventures in UPnP with cURL and netcat (2015)",
                 "href": "https://coolaj86.com/articles/adventures-in-upnp-with-curl-and-netcat/"
+            },
+            {
+                "title": "Discrete logic network card",
+                "href": "https://qdiv.dev/posts/eth2/"
+            },
+            {
+                "title": "Lambda Screen: Fractals in Pure Lambda Calculus",
+                "href": "https://text.marvinborner.de/2024-03-25-02.html"
             },
             {
                 "title": "Intro to TLS Certificates",
@@ -93,14 +101,6 @@
             {
                 "title": "Prevent sensitive data from leaking in Go/Golang",
                 "href": "https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/"
-            },
-            {
-                "title": "reverst: Reverse Tunnels in Go over HTTP/3 and QUIC",
-                "href": "https://github.com/flipt-io/reverst/"
-            },
-            {
-                "title": "37 is the median value for the second prime factor of an integer",
-                "href": "https://grossack.site/2023/11/08/37-median.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "EPA Limits Pollution From Chemical Plants",
+                "href": "https://news.slashdot.org/story/24/04/09/1442228/epa-limits-pollution-from-chemical-plants?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Google's Gemini Pro 1.5 Enters Public Preview on Vertex AI",
                 "href": "https://tech.slashdot.org/story/24/04/09/1332218/googles-gemini-pro-15-enters-public-preview-on-vertex-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Xbox Moving 'Full Speed Ahead' on Next Gen Console",
                 "href": "https://games.slashdot.org/story/24/04/08/153243/xbox-moving-full-speed-ahead-on-next-gen-console?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "TSMC Wins $6.6 Billion US Subsidy for Arizona Chip Production",
-                "href": "https://news.slashdot.org/story/24/04/08/1058232/tsmc-wins-66-billion-us-subsidy-for-arizona-chip-production?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -2385,16 +2385,32 @@
         "feedname": "PacketStorm",
         "items": [
             {
+                "title": "CISO Conversations: Nick McKenzie (Bugcrowd) And Chris Evans (HackerOne)",
+                "href": "https://packetstormsecurity.com/news/view/35762/CISO-Conversations-Nick-McKenzie-Bugcrowd-And-Chris-Evans-HackerOne.html"
+            },
+            {
+                "title": "Home Depot Confirms Data Breach Via Third Party Vendor",
+                "href": "https://packetstormsecurity.com/news/view/35759/Home-Depot-Confirms-Data-Breach-Via-Third-Party-Vendor.html"
+            },
+            {
+                "title": "Critical Takeover Vulns In 92,000 D-Link Devices Under Active Exploitation",
+                "href": "https://packetstormsecurity.com/news/view/35760/Critical-Takeover-Vulns-In-92-000-D-Link-Devices-Under-Active-Exploitation.html"
+            },
+            {
+                "title": "US Insurers Use Drone Photos To Deny Home Insurance Policies",
+                "href": "https://packetstormsecurity.com/news/view/35761/US-Insurers-Use-Drone-Photos-To-Deny-Home-Insurance-Policies.html"
+            },
+            {
                 "title": "Company Offering $30 Million For Android, iOS, Browser Zero-Day Exploits",
                 "href": "https://packetstormsecurity.com/news/view/35758/Company-Offering-30-Million-For-Android-iOS-Browser-Zero-Day-Exploits.html"
             },
             {
-                "title": "US Lawmakers Strike Deal On Data Privacy Legislation",
-                "href": "https://packetstormsecurity.com/news/view/35756/US-Lawmakers-Strike-Deal-On-Data-Privacy-Legislation.html"
-            },
-            {
                 "title": "Confidential VMs Hacked Via New Ahoi Attacks",
                 "href": "https://packetstormsecurity.com/news/view/35757/Confidential-VMs-Hacked-Via-New-Ahoi-Attacks.html"
+            },
+            {
+                "title": "US Lawmakers Strike Deal On Data Privacy Legislation",
+                "href": "https://packetstormsecurity.com/news/view/35756/US-Lawmakers-Strike-Deal-On-Data-Privacy-Legislation.html"
             },
             {
                 "title": "Change Healthcare Faces Second Ransomware Dilemma",
@@ -2425,20 +2441,60 @@
                 "href": "https://packetstormsecurity.com/news/view/35749/Latrodectus-Uses-Sandbox-Evasion-Techniques-To-Launch-Malicious-Payloads.html"
             },
             {
-                "title": "Microsoft's Security Chickens Have Come Home To Roost",
-                "href": "https://packetstormsecurity.com/news/view/35748/Microsofts-Security-Chickens-Have-Come-Home-To-Roost.html"
+                "title": "Kernel Live Patch Security Notice LSN-0102-1",
+                "href": "https://packetstormsecurity.com/files/177998/LSN-0102-1.txt"
             },
             {
-                "title": "Omni Hotels Blames Cyberattack For Widespread Tech Outage",
-                "href": "https://packetstormsecurity.com/news/view/35747/Omni-Hotels-Blames-Cyberattack-For-Widespread-Tech-Outage.html"
+                "title": "Ubuntu Security Notice USN-6701-4",
+                "href": "https://packetstormsecurity.com/files/177997/USN-6701-4.txt"
             },
             {
-                "title": "Academics Probe Apple's Privacy Settings And Get Lost And Confused",
-                "href": "https://packetstormsecurity.com/news/view/35746/Academics-Probe-Apples-Privacy-Settings-And-Get-Lost-And-Confused.html"
+                "title": "Ubuntu Security Notice USN-6726-1",
+                "href": "https://packetstormsecurity.com/files/177996/USN-6726-1.txt"
             },
             {
-                "title": "Man Pleads Guilty To Stealing Former Coworker's Identity For 30 Years",
-                "href": "https://packetstormsecurity.com/news/view/35745/Man-Pleads-Guilty-To-Stealing-Former-Coworkers-Identity-For-30-Years.html"
+                "title": "Ubuntu Security Notice USN-6725-1",
+                "href": "https://packetstormsecurity.com/files/177995/USN-6725-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6722-1",
+                "href": "https://packetstormsecurity.com/files/177994/USN-6722-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6724-1",
+                "href": "https://packetstormsecurity.com/files/177993/USN-6724-1.txt"
+            },
+            {
+                "title": "I2P 2.5.0",
+                "href": "https://packetstormsecurity.com/files/178000/i2psource_2.5.0.tar.bz2"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6723-1",
+                "href": "https://packetstormsecurity.com/files/177992/USN-6723-1.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-1706-03",
+                "href": "https://packetstormsecurity.com/files/177991/RHSA-2024-1706-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-1700-03",
+                "href": "https://packetstormsecurity.com/files/177990/RHSA-2024-1700-03.txt"
+            },
+            {
+                "title": "GRAudit Grep Auditing Tool 3.6",
+                "href": "https://packetstormsecurity.com/files/178001/graudit-3.6.tar.gz"
+            },
+            {
+                "title": "Botan C++ Crypto Algorithms Library 3.4.0",
+                "href": "https://packetstormsecurity.com/files/177999/Botan-3.4.0.tar.xz"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-1697-03",
+                "href": "https://packetstormsecurity.com/files/177989/RHSA-2024-1697-03.txt"
+            },
+            {
+                "title": "Flightio.com SQL Injection",
+                "href": "https://packetstormsecurity.com/files/177988/flightio-sql.txt"
             },
             {
                 "title": "WordPress Travelscape Theme 1.0.3 Arbitrary File Upload",
@@ -2483,62 +2539,6 @@
             {
                 "title": "AnyDesk 7.0.15 Unquoted Service Path",
                 "href": "https://packetstormsecurity.com/files/177977/anydesk7015-unquotedpath.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1692-03",
-                "href": "https://packetstormsecurity.com/files/177976/RHSA-2024-1692-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1691-03",
-                "href": "https://packetstormsecurity.com/files/177975/RHSA-2024-1691-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1690-03",
-                "href": "https://packetstormsecurity.com/files/177974/RHSA-2024-1690-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1689-03",
-                "href": "https://packetstormsecurity.com/files/177973/RHSA-2024-1689-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1688-03",
-                "href": "https://packetstormsecurity.com/files/177972/RHSA-2024-1688-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1687-03",
-                "href": "https://packetstormsecurity.com/files/177971/RHSA-2024-1687-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1683-03",
-                "href": "https://packetstormsecurity.com/files/177970/RHSA-2024-1683-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1681-03",
-                "href": "https://packetstormsecurity.com/files/177969/RHSA-2024-1681-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1679-03",
-                "href": "https://packetstormsecurity.com/files/177968/RHSA-2024-1679-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-1668-03",
-                "href": "https://packetstormsecurity.com/files/177967/RHSA-2024-1668-03.txt"
-            },
-            {
-                "title": "PowerVR DevmemIntUnexportCtx Use-After-Free",
-                "href": "https://packetstormsecurity.com/files/177966/GS20240408134333.tgz"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6721-1",
-                "href": "https://packetstormsecurity.com/files/177965/USN-6721-1.txt"
-            },
-            {
-                "title": "Faraday 5.2.2",
-                "href": "https://packetstormsecurity.com/files/177964/faraday-5.2.2.tar.gz"
-            },
-            {
-                "title": "Debian Security Advisory 5655-1",
-                "href": "https://packetstormsecurity.com/files/177963/dsa-5655-1.txt"
             }
         ]
     },
@@ -2550,6 +2550,10 @@
                 "href": "https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/"
             },
             {
+                "title": "Chronon, Airbnb's ML Feature Platform, Is Now Open Source",
+                "href": "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
+            },
+            {
                 "title": "Google CodeGemma: Open Code Models Based on Gemma [pdf]",
                 "href": "https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf"
             },
@@ -2558,96 +2562,92 @@
                 "href": "https://qdiv.dev/posts/eth2/"
             },
             {
-                "title": "Supreme Commander Graphics Study (2015)",
-                "href": "http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/"
-            },
-            {
-                "title": "Chronon, Airbnb's ML Feature Platform, Is Now Open Source",
-                "href": "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8"
-            },
-            {
-                "title": "How I Tripped Over the Debian Weak Keys Vulnerability",
-                "href": "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
-            },
-            {
                 "title": "Show HN: DualShock calibration in the browser using WebHID",
                 "href": "https://blog.the.al/2024/04/09/dualshock-calibration-in-the-browser.html"
             },
             {
-                "title": "SSSL \u2013 Hackless SSL bypass for the Wii U",
-                "href": "https://github.com/PretendoNetwork/SSSL"
+                "title": "Supreme Commander Graphics Study (2015)",
+                "href": "http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/"
             },
             {
-                "title": "Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel",
-                "href": "https://github.com/larryboyko/dimityjones"
+                "title": "Beeper acquired by Automattic (WordPress)",
+                "href": "https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/"
             },
             {
-                "title": "TSAC: Low Bitrate Audio Compression",
-                "href": "https://bellard.org/tsac/"
-            },
-            {
-                "title": "Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada",
-                "href": "https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada"
-            },
-            {
-                "title": "Show HN: I mapped the Hardest Geezer's length of Africa run",
-                "href": "https://whereisruss.vercel.app/"
-            },
-            {
-                "title": "Google Axion Processors \u2013 Arm-based CPUs designed for the data center",
-                "href": "https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/"
-            },
-            {
-                "title": "Llm.c \u2013 LLM training in simple, pure C/CUDA",
-                "href": "https://github.com/karpathy/llm.c"
-            },
-            {
-                "title": "Penpot 2.0 Released",
-                "href": "https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906"
-            },
-            {
-                "title": "India\u2019s electric rickshaws are leaving EVs in the dust",
-                "href": "https://restofworld.org/2024/e-rickshaw-yc-electric-india/"
-            },
-            {
-                "title": "MapSCII \u2013 A Braille and ASCII world map renderer for the console",
-                "href": "https://github.com/rastapasta/mapscii"
-            },
-            {
-                "title": "FCC chair rejects call to impose Universal Service fees on broadband",
-                "href": "https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/"
-            },
-            {
-                "title": "SeL4 Device Driver Framework 0.4.0",
-                "href": "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
+                "title": "The Lonely Funeral Project in Amsterdam",
+                "href": "https://www.upworthy.com/the-lonely-funeral-project"
             },
             {
                 "title": "Anger is eliminated with the disposal of a paper written because of provocation",
                 "href": "https://www.nature.com/articles/s41598-024-57916-z"
             },
             {
-                "title": "Flyweight: A Node.js ORM Specifically for SQLite",
-                "href": "https://github.com/thebinarysearchtree/flyweight"
+                "title": "How I Tripped Over the Debian Weak Keys Vulnerability",
+                "href": "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
             },
             {
-                "title": "After years of trying, the U.S. government may mandate safer table saws",
-                "href": "https://www.npr.org/2024/04/02/1241148577/table-saw-injuries-safety-sawstop-cpsc"
+                "title": "Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel",
+                "href": "https://github.com/larryboyko/dimityjones"
+            },
+            {
+                "title": "SSSL \u2013 Hackless SSL bypass for the Wii U",
+                "href": "https://github.com/PretendoNetwork/SSSL"
+            },
+            {
+                "title": "TSAC: Low Bitrate Audio Compression",
+                "href": "https://bellard.org/tsac/"
+            },
+            {
+                "title": "Llm.c \u2013 LLM training in simple, pure C/CUDA",
+                "href": "https://github.com/karpathy/llm.c"
+            },
+            {
+                "title": "Total eclipse of the Internet: traffic impacts in Mexico, the US, and Canada",
+                "href": "https://blog.cloudflare.com/total-eclipse-internet-traffic-impacts-mexico-us-canada"
+            },
+            {
+                "title": "FCC chair rejects call to impose Universal Service fees on broadband",
+                "href": "https://arstechnica.com/tech-policy/2024/04/fcc-chair-rejects-call-to-impose-universal-service-fees-on-broadband/"
+            },
+            {
+                "title": "Google Axion Processors \u2013 Arm-based CPUs designed for the data center",
+                "href": "https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu/"
+            },
+            {
+                "title": "MapSCII \u2013 A Braille and ASCII world map renderer for the console",
+                "href": "https://github.com/rastapasta/mapscii"
+            },
+            {
+                "title": "The Internet Archive Just Backed Up an Entire Caribbean Island",
+                "href": "https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/"
+            },
+            {
+                "title": "SeL4 Device Driver Framework 0.4.0",
+                "href": "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
+            },
+            {
+                "title": "Magnets are switching up the keyboard game",
+                "href": "https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/"
             },
             {
                 "title": "Hello OLMo: A truly open LLM",
                 "href": "https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222?gi=760105621962"
             },
             {
-                "title": "AutoCodeRover: Autonomous Program Improvement",
-                "href": "https://github.com/nus-apr/auto-code-rover"
-            },
-            {
                 "title": "Quartz Crystals \u2013 Twinning (2016)",
                 "href": "http://www.quartzpage.de/crs_twins.html"
             },
             {
-                "title": "Converting C437 to XNA Spritesheets with Zig and Raylib",
-                "href": "http://blog.jamiejquinn.com/converting-c437-to-raylib"
+                "title": "Flyweight: A Node.js ORM Specifically for SQLite",
+                "href": "https://github.com/thebinarysearchtree/flyweight"
+            },
+            {
+                "title": "Penpot 2.0 Released",
+                "href": "https://community.penpot.app/t/penpot-2-0-a-major-milestone-in-our-journey-is-now-yours-to-explore-and-enjoy/4906"
+            },
+            {
+                "title": "AutoCodeRover: Autonomous Program Improvement",
+                "href": "https://github.com/nus-apr/auto-code-rover"
             },
             {
                 "title": "UpCodes (YC S17) hiring devs to automate construction compliance",
@@ -2662,8 +2662,8 @@
                 "href": "https://www.trains.com/trn/news-reviews/news-wire/bart-to-offer-final-rides-on-original-equipment-on-april-20/"
             },
             {
-                "title": "VSI prunes OpenVMS hobbyist program hard, with no more Alpha or Itanium editions",
-                "href": "https://www.theregister.com/2024/04/09/vsi_prunes_hobbyist_prog/"
+                "title": "Hello World",
+                "href": "https://thecoder08.github.io/hello-world.html"
             }
         ]
     }
