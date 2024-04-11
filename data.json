@@ -31,6 +31,10 @@
                 "href": "https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html"
             },
             {
+                "title": "crystalruby gem: Embed Crystal code directly in Ruby",
+                "href": "https://github.com/wouterken/crystalruby"
+            },
+            {
                 "title": "Notes on git's error messages",
                 "href": "https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/"
             },
@@ -71,6 +75,10 @@
                 "href": "https://zed.dev/blog/zed-decoded-async-rust"
             },
             {
+                "title": "Fixing a bug with C++'s >>= operator",
+                "href": "https://astrid.tech/2024/03/19/1/maybe-monad-cpp/"
+            },
+            {
                 "title": "Don't require people to change 'source code' to configure your programs",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
             },
@@ -93,14 +101,6 @@
             {
                 "title": "Guile Hoot (Scheme->Wasm compiler) 0.4.0 released",
                 "href": "https://spritely.institute/news/guile-hoot-v040-released.html"
-            },
-            {
-                "title": "A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging",
-                "href": "https://www.youtube.com/watch?v=AeKRS6_zxoc"
-            },
-            {
-                "title": "The server chose violence",
-                "href": "https://cliffle.com/blog/hubris-reply-fault/"
             }
         ]
     },
@@ -2554,36 +2554,40 @@
                 "href": "https://sonauto.ai/"
             },
             {
-                "title": "Why can't my mom email me?",
-                "href": "https://matduggan.com/why-cant-my-mom-email-me/"
-            },
-            {
-                "title": "Did grave robbers plunder battlefields?",
-                "href": "https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields"
-            },
-            {
-                "title": "Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files",
-                "href": "https://forge.soutade.fr/soutade/libgourou"
-            },
-            {
                 "title": "Embed Crystal code directly in Ruby",
                 "href": "https://github.com/wouterken/crystalruby"
+            },
+            {
+                "title": "Why can't my mom email me?",
+                "href": "https://matduggan.com/why-cant-my-mom-email-me/"
             },
             {
                 "title": "Oh My Git: An open source game about learning Git",
                 "href": "https://ohmygit.org/"
             },
             {
-                "title": "Implementation of Google's Griffin Architecture \u2013 RNN LLM",
-                "href": "https://github.com/google-deepmind/recurrentgemma"
+                "title": "Libgourou: A Free Implementation of Adobe's Adept DRM on ePub/PDF Files",
+                "href": "https://forge.soutade.fr/soutade/libgourou"
             },
             {
                 "title": "Stolen masterpieces that are still missing",
                 "href": "https://www.thecollector.com/stolen-masterpieces-famous-artworks-missing/"
             },
             {
+                "title": "Implementation of Google's Griffin Architecture \u2013 RNN LLM",
+                "href": "https://github.com/google-deepmind/recurrentgemma"
+            },
+            {
+                "title": "Did grave robbers plunder battlefields?",
+                "href": "https://www.science.org/content/article/now-we-know-where-dead-went-did-grave-robbers-plunder-battlefields"
+            },
+            {
                 "title": "When teaching computer architecture, why are universities using obscure CPUs?",
                 "href": "https://academia.stackexchange.com/questions/209300/when-teaching-computer-architecture-why-are-universities-using-obscure-or-even"
+            },
+            {
+                "title": "Enhance WASM: Back End Agnostic SSR for Web Components",
+                "href": "https://begin.com/blog/posts/2024-04-08-introducing-enhance-wasm"
             },
             {
                 "title": "MixRank (YC S11) is hiring global remote software engineers",
@@ -2594,8 +2598,16 @@
                 "href": "https://blog.val.town/blog/search-notes/"
             },
             {
+                "title": "How does the classic Win32 ListView handle incremental searching?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627"
+            },
+            {
                 "title": "Nimble: A new columnar file format by Meta [video]",
                 "href": "https://www.youtube.com/watch?v=bISBNVtXZ6M"
+            },
+            {
+                "title": "Show HN: Next-token prediction in JavaScript \u2013 build fast LLMs from scratch",
+                "href": "https://github.com/bennyschmidt/next-token-prediction"
             },
             {
                 "title": "Show HN: ADS-B visualizer",
@@ -2606,10 +2618,6 @@
                 "href": "https://celltypes.brain-map.org/data"
             },
             {
-                "title": "2023 ACM Turing Prize awarded to Avi Wigderson",
-                "href": "https://awards.acm.org/about/2023-turing"
-            },
-            {
                 "title": "The Alice and Bob After Dinner Speech (1984)",
                 "href": "https://urbigenous.net/library/alicebob.html"
             },
@@ -2618,16 +2626,20 @@
                 "href": "https://github.com/BernardZhao/lenssort"
             },
             {
-                "title": "How does the classic Win32 ListView handle incremental searching?",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20240408-00/?p=109627"
+                "title": "World's Smallest CSV Parser (C#)",
+                "href": "https://github.com/kjpgit/SmallestCSVParser"
+            },
+            {
+                "title": "Replacing Wires Could Double How Much Electricity the US Grid Can Handle",
+                "href": "https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/"
             },
             {
                 "title": "Amazon owes $525M in cloud-storage patent fight, US jury says",
                 "href": "https://www.reuters.com/legal/amazon-owes-525-mln-cloud-storage-patent-fight-us-jury-says-2024-04-11/"
             },
             {
-                "title": "Replacing Wires Could Double How Much Electricity the US Grid Can Handle",
-                "href": "https://cleantechnica.com/2024/04/10/replacing-wires-could-double-how-much-electricity-the-us-grid-can-handle/"
+                "title": "Naismith's Rule",
+                "href": "https://en.wikipedia.org/wiki/Naismith%27s_rule"
             },
             {
                 "title": "ETag and HTTP Caching",
@@ -2638,32 +2650,20 @@
                 "href": "https://www.reuters.com/business/retail-consumer/alibaba-founder-jack-ma-steps-out-shadows-with-long-internal-post-2024-04-10/"
             },
             {
-                "title": "Ways of Seeing: Nicholson Baker learns to draw",
-                "href": "https://www.bookforum.com/print/3004/nicholson-baker-learns-to-draw-25332"
-            },
-            {
-                "title": "Flattening B\u00e9zier Curves and Arcs",
-                "href": "https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/"
-            },
-            {
-                "title": "Meta MTIA v2 \u2013 Meta Training and Inference Accelerator",
-                "href": "https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/"
+                "title": "2023 ACM Turing Prize awarded to Avi Wigderson",
+                "href": "https://awards.acm.org/about/2023-turing"
             },
             {
                 "title": "Udio: Generate music in your favorite styles with a text prompt",
                 "href": "https://twitter.com/udiomusic/status/1778045322654003448"
             },
             {
-                "title": "New minerals on the moon explaining the mystery of the lunar landscape",
-                "href": "https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape"
-            },
-            {
-                "title": "Kobo announces color e-readers",
-                "href": "https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink"
-            },
-            {
                 "title": "WebAssembly adoption: Is slow and steady winning the race?",
                 "href": "https://thenewstack.io/webassembly-adoption-is-slow-and-steady-winning-the-race/"
+            },
+            {
+                "title": "New minerals on the moon explaining the mystery of the lunar landscape",
+                "href": "https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape"
             }
         ]
     }
