@@ -11,20 +11,24 @@
                 "href": "https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html"
             },
             {
+                "title": "Fast, Declarative, Reproduble and Composable Developer Environments using Nix",
+                "href": "https://devenv.sh/"
+            },
+            {
                 "title": "PEP 744 \u2013 JIT Compilation",
                 "href": "https://peps.python.org/pep-0744/"
             },
             {
-                "title": "Fast, Declarative, Reproduble and Composable Developer Environments using Nix",
-                "href": "https://devenv.sh/"
+                "title": "Qemu IPv6 Slirp",
+                "href": "https://blog.izissise.net/posts/qemuipv6slirp/"
             },
             {
                 "title": "OpenBSD is a Cozy Operating System",
                 "href": "https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/"
             },
             {
-                "title": "Qemu IPv6 Slirp",
-                "href": "https://blog.izissise.net/posts/qemuipv6slirp/"
+                "title": "Unit tests considered harmful? No",
+                "href": "https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no"
             },
             {
                 "title": "The Simple Beauty of XOR Floating Point Compression",
@@ -39,6 +43,10 @@
                 "href": "https://blog.cocl2.com/posts/const-currying-rs/"
             },
             {
+                "title": "Why is there no realloc that takes the number of bytes to copy?",
+                "href": "https://shift.click/blog/missing-alloc-api/"
+            },
+            {
                 "title": "If Inheritance is so bad, why does everyone use it?",
                 "href": "https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/"
             },
@@ -47,32 +55,28 @@
                 "href": "https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/"
             },
             {
-                "title": "Why is there no realloc that takes the number of bytes to copy?",
-                "href": "https://shift.click/blog/missing-alloc-api/"
-            },
-            {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend"
-            },
-            {
                 "title": "Swift for C++ Practitioners",
                 "href": "https://sfba.social/@dgregor79/112253040167641326"
-            },
-            {
-                "title": "Abstract methods and NotImplementedError in Ruby",
-                "href": "https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/"
             },
             {
                 "title": "DOCSIS 3.1 -4.0 Decoded: Unleashing High-Speed Internet for IT Pros",
                 "href": "https://www.youtube.com/watch?v=FQAdGtMSf9U"
             },
             {
-                "title": "A math puzzle and a better algorithm for top-k",
-                "href": "https://quickwit.io/blog/top-k-complexity"
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "Abstract methods and NotImplementedError in Ruby",
+                "href": "https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/"
             },
             {
                 "title": "Ubuntu bug \u201cCIFS stopped working with kernel update...\u201d",
                 "href": "https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2060780"
+            },
+            {
+                "title": "A math puzzle and a better algorithm for top-k",
+                "href": "https://quickwit.io/blog/top-k-complexity"
             },
             {
                 "title": "Browser Security Bugs that Aren\u2019t: JavaScript in PDF",
@@ -97,10 +101,6 @@
             {
                 "title": "Going in circles without a real-time clock",
                 "href": "https://rachelbythebay.com/w/2024/04/10/rtc/"
-            },
-            {
-                "title": "Hermit is a hermetic and reproducible sandbox for running programs",
-                "href": "https://github.com/facebookexperimental/hermit"
             }
         ]
     },
@@ -2554,16 +2554,20 @@
                 "href": "https://github.com/tinygrad/open-gpu-kernel-modules"
             },
             {
+                "title": "I Lost Faith in Kagi",
+                "href": "https://d-shoot.net/kagi.html"
+            },
+            {
                 "title": "Webb \u2013 Space Telescope Live. What Is Webb Observing Now?",
                 "href": "https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1"
             },
             {
-                "title": "Organizing OpenStreetMap Mapping Parties",
-                "href": "https://contrapunctus.codeberg.page/blog/mapping-party-tips.html"
-            },
-            {
                 "title": "Fast, Declarative, Reproduble and Composable Developer Environments Using Nix",
                 "href": "https://devenv.sh/"
+            },
+            {
+                "title": "Organizing OpenStreetMap Mapping Parties",
+                "href": "https://contrapunctus.codeberg.page/blog/mapping-party-tips.html"
             },
             {
                 "title": "Show HN: I made a new sensor out of 3D printer filament for my PhD",
@@ -2586,8 +2590,8 @@
                 "href": "https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/"
             },
             {
-                "title": "\"Here's a puzzle game. I call it Reverse the List of Integers.\"",
-                "href": "https://mathstodon.xyz/@two_star/112242224494626411"
+                "title": "Adobe Is Buying Videos for $3 per Minute to Build AI Model",
+                "href": "https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model"
             },
             {
                 "title": "U.S. imposes first-ever national drinking water limits on PFAS",
@@ -2598,16 +2602,24 @@
                 "href": "https://burakku.com/blog/rye-test-and-python-tools/"
             },
             {
-                "title": "Quantum Algorithms for Lattice Problems",
-                "href": "https://eprint.iacr.org/2024/555"
-            },
-            {
                 "title": "Man creatively sneaks onto Delta flight, but gets caught",
                 "href": "https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/"
             },
             {
+                "title": "Quantum Algorithms for Lattice Problems",
+                "href": "https://eprint.iacr.org/2024/555"
+            },
+            {
                 "title": "I made a thing to help you make a thing out of a keypad",
                 "href": "https://cliffle.com/blog/keypad-go/"
+            },
+            {
+                "title": "Researchers find a new organelle evolving",
+                "href": "https://arstechnica.com/science/2024/04/researchers-find-a-new-organelle-evolving/"
+            },
+            {
+                "title": "An Unusual Prehistoric Monument Made Up of Three Interlocking Circles",
+                "href": "https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/"
             },
             {
                 "title": "Abstract Methods and NotImplementedError in Ruby",
@@ -2622,24 +2634,28 @@
                 "href": "https://shermanonsoftware.com/2024/04/08/fixing-all-the-bugs-wont-solve-all-the-problems-demings-path-of-frustration/"
             },
             {
-                "title": "An Unusual Prehistoric Monument Made Up of Three Interlocking Circles",
-                "href": "https://www.labrujulaverde.com/en/2024/04/an-unusual-prehistoric-monument-made-up-of-three-interlocking-circles-a-typology-never-seen-before-discovered-in-france/"
+                "title": "Unpkg CDN down causing dependent website outages",
+                "href": "https://github.com/mjackson/unpkg/issues/384"
             },
             {
-                "title": "Amazon virtually kills efforts to develop Alexa Skills",
-                "href": "https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/"
+                "title": "\"Here's a puzzle game. I call it Reverse the List of Integers.\"",
+                "href": "https://mathstodon.xyz/@two_star/112242224494626411"
             },
             {
                 "title": "Rooster King: A multimedia zine website collage album memoir thing",
                 "href": "https://roosterking.drewschorno.com/"
             },
             {
-                "title": "Why CISA Is Warning CISOs About a Breach at Sisense",
-                "href": "https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/"
+                "title": "H-1B visa fraud alive and well amid anti-abuse efforts",
+                "href": "https://www.theregister.com/2024/04/09/h1b_visa_fraud/"
             },
             {
                 "title": "Etleap (YC W13) is hiring an account executive in San Francisco",
                 "href": "https://etleap.com/careers/account-executive/"
+            },
+            {
+                "title": "Amazon virtually kills efforts to develop Alexa Skills",
+                "href": "https://arstechnica.com/gadgets/2024/04/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/"
             },
             {
                 "title": "Threads on Mastodon and the bright future of the Fediverse",
@@ -2648,22 +2664,6 @@
             {
                 "title": "Steam Controller reverse engineering and customization project",
                 "href": "https://github.com/greggersaurus/OpenSteamController"
-            },
-            {
-                "title": "Untergunther \u2013 Restoration of the Pantheon clock (2007)",
-                "href": "https://urban-resources.net/untergunther.html"
-            },
-            {
-                "title": "The simple beauty of XOR floating point compression",
-                "href": "https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/"
-            },
-            {
-                "title": "H-1B visa fraud alive and well amid anti-abuse efforts",
-                "href": "https://www.theregister.com/2024/04/09/h1b_visa_fraud/"
-            },
-            {
-                "title": "The World of Instruction Manuals (2018)",
-                "href": "https://www.bbc.com/future/article/20180403-inside-the-world-of-instruction-manuals"
             }
         ]
     }
