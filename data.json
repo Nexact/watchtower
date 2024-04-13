@@ -43,6 +43,10 @@
                 "href": "https://www.youtube.com/watch?v=d0gS5TXarXc"
             },
             {
+                "title": "Go performance from version 1.0 to 1.22",
+                "href": "https://benhoyt.com/writings/go-version-performance-2024/"
+            },
+            {
                 "title": "Qemu IPv6 Slirp",
                 "href": "https://blog.izissise.net/posts/qemuipv6slirp/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Circular Buffer Performance Trick",
                 "href": "https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/"
-            },
-            {
-                "title": "DOCSIS 3.1 -4.0 Decoded: Unleashing High-Speed Internet for IT Pros",
-                "href": "https://www.youtube.com/watch?v=FQAdGtMSf9U"
             }
         ]
     },
@@ -122,6 +122,10 @@
             {
                 "title": "CVE 10.0 vulnerability in PAN-OS",
                 "href": "https://www.reddit.com/r/netsec/comments/1c24uvz/cve_100_vulnerability_in_panos/"
+            },
+            {
+                "title": "Security headers audit tool",
+                "href": "https://www.reddit.com/r/netsec/comments/1c2zdad/security_headers_audit_tool/"
             },
             {
                 "title": "IP.Board 'nexus' Blind SQLi and AdminCP RCE",
@@ -206,10 +210,6 @@
             {
                 "title": "Diving Deeper into AI Package Hallucinations",
                 "href": "https://www.reddit.com/r/netsec/comments/1bwcm8z/diving_deeper_into_ai_package_hallucinations/"
-            },
-            {
-                "title": "Wifi credential dumping",
-                "href": "https://www.reddit.com/r/netsec/comments/1bwdiwv/wifi_credential_dumping/"
             }
         ]
     },
@@ -2550,12 +2550,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Is .NET just miles ahead or am I delusional?",
-                "href": "https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/"
-            },
-            {
                 "title": "XZ backdoor story \u2013 Initial analysis",
                 "href": "https://securelist.com/xz-backdoor-story-part-1/112354/"
+            },
+            {
+                "title": "Is .NET just miles ahead or am I delusional?",
+                "href": "https://old.reddit.com/r/dotnet/comments/18gpl24/is_net_just_miles_ahead_or_am_i_delusional/"
             },
             {
                 "title": "It's far from clear how grub package updates work on Ubuntu",
@@ -2570,16 +2570,20 @@
                 "href": "https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/"
             },
             {
-                "title": "Metaprogramming in Ruby: It's All About the Self (2009)",
-                "href": "https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/"
+                "title": "Backyard Birding (2023)",
+                "href": "https://worldsensorium.com/backyard-birding/"
             },
             {
                 "title": "DES/3DES Algorithm Illustration",
                 "href": "https://hereket.com/tiny/des-algorithm/"
             },
             {
-                "title": "Backyard Birding (2023)",
-                "href": "https://worldsensorium.com/backyard-birding/"
+                "title": "Metaprogramming in Ruby: It's All About the Self (2009)",
+                "href": "https://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/"
+            },
+            {
+                "title": "Running DOS Apps on Windows from 1.0 to 95 (2020)",
+                "href": "https://gekk.info/articles/dosapps.html"
             },
             {
                 "title": "Open Source, Supply Chains, and Bears",
@@ -2594,32 +2598,28 @@
                 "href": "https://www.doscher.com/recovery-kit-version-2/"
             },
             {
-                "title": "Hacked Nvidia 4090 GPU driver to enable P2P",
-                "href": "https://github.com/tinygrad/open-gpu-kernel-modules"
-            },
-            {
                 "title": "Commercial wing in ground effect plane (2018)",
                 "href": "https://www.nextbigfuture.com/2018/09/commercial-wing-in-ground-effect-plane.html"
             },
             {
-                "title": "Running DOS Apps on Windows from 1.0 to 95 (2020)",
-                "href": "https://gekk.info/articles/dosapps.html"
+                "title": "Hacked Nvidia 4090 GPU driver to enable P2P",
+                "href": "https://github.com/tinygrad/open-gpu-kernel-modules"
             },
             {
                 "title": "I continue to no longer attend vintage computer festivals",
                 "href": "http://ascii.textfiles.com/archives/5591"
             },
             {
-                "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-                "href": "item?id=40014087"
-            },
-            {
                 "title": "Show HN: Using Google Sheets as the back end/APIs of your app",
                 "href": "https://www.zerosheets.com/"
             },
             {
-                "title": "Htmx and the Rule of Least Power",
-                "href": "https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/"
+                "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+                "href": "item?id=40014087"
+            },
+            {
+                "title": "Germanwings Flight 9525",
+                "href": "https://en.wikipedia.org/wiki/Germanwings_Flight_9525"
             },
             {
                 "title": "OpenEQA: Embodied Question Answering in the Era of Foundation Models",
@@ -2638,24 +2638,20 @@
                 "href": "https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/"
             },
             {
-                "title": "Ubisoft is stripping people's licences for The Crew weeks after its shutdown",
-                "href": "https://www.pcgamer.com/games/racing/ubisoft-is-stripping-peoples-licences-for-the-crew-weeks-after-its-shutdown-nearly-squandering-hopes-of-private-servers-and-acting-as-a-stark-reminder-of-how-volatile-digital-ownership-is/"
+                "title": "Htmx and the Rule of Least Power",
+                "href": "https://blog.gypsydave5.com/posts/2024/4/12/htmx-and-the-rule-of-least-power/"
             },
             {
                 "title": "Your LLM Is a Capable Regressor When Given In-Context Examples",
                 "href": "https://arxiv.org/abs/2404.07544"
             },
             {
-                "title": "HP 200LX and Related Palmtops",
-                "href": "https://dfarq.homeip.net/hp-200lx-and-related-palmtops/"
-            },
-            {
                 "title": "Quantum Algorithms for Lattice Problems",
                 "href": "https://eprint.iacr.org/2024/555"
             },
             {
-                "title": "Germanwings Flight 9525",
-                "href": "https://en.wikipedia.org/wiki/Germanwings_Flight_9525"
+                "title": "HP 200LX and Related Palmtops",
+                "href": "https://dfarq.homeip.net/hp-200lx-and-related-palmtops/"
             },
             {
                 "title": "What is Webb observing now?",
@@ -2668,6 +2664,10 @@
             {
                 "title": "Show HN: A JavaScript library for data visualization in both SVG and Canvas",
                 "href": "https://github.com/andrewcourtice/ripl"
+            },
+            {
+                "title": "Show HN: ClassroomIO \u2013 an in-browser programming environment for education",
+                "href": "https://www.classroomio.site/"
             }
         ]
     }
