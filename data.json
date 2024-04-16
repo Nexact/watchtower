@@ -11,6 +11,10 @@
                 "href": "https://www.emoses.org/posts/dont-write-2/"
             },
             {
+                "title": "Gleam version v1.1",
+                "href": "https://gleam.run/news/gleam-v1.1/"
+            },
+            {
                 "title": "XZ Utils review notes",
                 "href": "https://tukaani.org/xz-backdoor/review.html"
             },
@@ -31,8 +35,8 @@
                 "href": "https://blog.nightly.mozilla.org/2024/04/15/exploring-improvements-to-the-firefox-sidebar/"
             },
             {
-                "title": "Gleam version v1.1",
-                "href": "https://gleam.run/news/gleam-v1.1/"
+                "title": "Colima k8s nix setup",
+                "href": "https://dev.to/doriancodes/colima-k8s-nix-setup-mpn"
             },
             {
                 "title": "Neverest, a CLI to synchronize, backup and restore emails",
@@ -41,6 +45,10 @@
             {
                 "title": "Building a GPS receiver",
                 "href": "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
+            },
+            {
+                "title": "Calling OCaml from C",
+                "href": "https://transactional.blog/blog/2024-calling-ocaml-from-c"
             },
             {
                 "title": "Story of Etak Navigator",
@@ -53,10 +61,6 @@
             {
                 "title": "PuTTY vulnerability vuln-p521-bias",
                 "href": "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html"
-            },
-            {
-                "title": "Colima k8s nix setup",
-                "href": "https://dev.to/doriancodes/colima-k8s-nix-setup-mpn"
             },
             {
                 "title": "Why No IPv6?",
@@ -79,6 +83,10 @@
                 "href": "https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/"
             },
             {
+                "title": "Effect 3.0",
+                "href": "https://effect.website/blog/effect-3.0"
+            },
+            {
                 "title": "Weird monitor bugs people sent me in the last 5 years",
                 "href": "https://notes.alinpanaitiu.com/Weird-monitor-bugs"
             },
@@ -87,20 +95,12 @@
                 "href": "https://blog.mikeswanson.com/post/747761863530528768/apples-mysterious-fisheye-projection"
             },
             {
-                "title": "Calling OCaml from C",
-                "href": "https://transactional.blog/blog/2024-calling-ocaml-from-c"
-            },
-            {
-                "title": "Effect 3.0 \u2013 Effect Blog",
-                "href": "https://effect.website/blog/effect-3.0"
-            },
-            {
                 "title": "A Feat of Engineering",
                 "href": "https://registerspill.thorstenball.com/p/a-feat-of-engineering"
             },
             {
-                "title": "Beware of base64 encoded strings",
-                "href": "https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings"
+                "title": "Locally Perfect Spatial Hashing",
+                "href": "https://haug.codes/blog/locally-perfect-hashing/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Exploit released for Palo Alto PAN-OS bug used in attacks, patch now",
+                "href": "https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/"
+            },
+            {
                 "title": "Google to crack down on third-party YouTube apps that block ads",
                 "href": "https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Cisco Duo warns third-party data breach exposed SMS MFA logs",
                 "href": "https://www.bleepingcomputer.com/news/security/cisco-duo-warns-third-party-data-breach-exposed-sms-mfa-logs/"
-            },
-            {
-                "title": "Palo Alto Networks fixes zero-day exploited to backdoor firewalls",
-                "href": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Change Healthcare's Ransomware Attack Costs Edge Toward $1 Billion So Far",
+                "href": "https://it.slashdot.org/story/24/04/16/1838246/change-healthcares-ransomware-attack-costs-edge-toward-1-billion-so-far?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Apple Opens Web Distribution Option for iOS Devs Targeting EU",
                 "href": "https://apple.slashdot.org/story/24/04/16/1730229/apple-opens-web-distribution-option-for-ios-devs-targeting-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Adobe Premiere Pro Is Getting Generative AI Video Tools",
                 "href": "https://slashdot.org/story/24/04/15/213235/adobe-premiere-pro-is-getting-generative-ai-video-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The IRS's New Tax Software: Rave Reviews, But Low Turnout",
-                "href": "https://yro.slashdot.org/story/24/04/15/2046205/the-irss-new-tax-software-rave-reviews-but-low-turnout?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -2554,112 +2554,84 @@
                 "href": "https://pudding.cool/2024/03/teenagers/"
             },
             {
-                "title": "Redis is forked",
-                "href": "https://vickiboykis.com/2024/04/16/redis-is-forked/"
+                "title": "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+                "href": "https://arxiv.org/abs/2404.08801"
             },
             {
-                "title": "AT&T Fiber Internet Privacy controls are horribly broken",
-                "href": "https://github.com/sleaze/att-fiber-internet-shameful-broken-dns-hijacking"
-            },
-            {
-                "title": "Refuting Bloomberg's analysis: ChatGPT isn't racist, but it is bad at recruiting",
-                "href": "https://interviewing.io/blog/refuting-bloombergs-analysis-chatgpt-isnt-racist"
+                "title": "David Lynch presents 'A Thinking Room'",
+                "href": "https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024"
             },
             {
                 "title": "Loading a trillion rows of weather data into TimescaleDB",
                 "href": "https://aliramadhan.me/2024/03/31/trillion-rows.html"
             },
             {
-                "title": "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
-                "href": "https://arxiv.org/abs/2404.08801"
-            },
-            {
-                "title": "Descent 3 Source Code",
-                "href": "https://github.com/kevinbentley/Descent3"
-            },
-            {
-                "title": "Distributed Authorization",
-                "href": "https://www.osohq.com/post/distributed-authorization"
-            },
-            {
-                "title": "Apriora (YC W24) is hiring full stack engineers",
-                "href": "https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer"
+                "title": "usbredir: A protocol for sending USB device traffic over a network connection",
+                "href": "https://www.spice-space.org/usbredir.html"
             },
             {
                 "title": "A curious phenomenon called 'Etak'",
                 "href": "https://maphappenings.com/2024/04/11/story-of-etak/"
             },
             {
-                "title": "usbredir: A protocol for sending USB device traffic over a network connection",
-                "href": "https://www.spice-space.org/usbredir.html"
-            },
-            {
                 "title": "Google DeepMind's Aloha Unleashed is pushing the boundaries of robot dexterity",
                 "href": "https://twitter.com/tonyzzhao/status/1780263497584230432"
-            },
-            {
-                "title": "Palo Alto \u2013 Putting the Protecc in GlobalProtect (CVE-2024-3400)",
-                "href": "https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/"
-            },
-            {
-                "title": "David Lynch Presents 'A Thinking Room'",
-                "href": "https://www.wallpaper.com/design-interiors/david-lynch-salone-del-mobile-2024"
-            },
-            {
-                "title": "How to stop losing 17,500 kidneys",
-                "href": "https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys"
             },
             {
                 "title": "Show HN: Term Typer \u2013 Learn a Language by Typing",
                 "href": "https://www.termtyper.com/"
             },
             {
-                "title": "A Visual Guide to Vision Transformers",
-                "href": "https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html"
+                "title": "Distributed Authorization",
+                "href": "https://www.osohq.com/post/distributed-authorization"
             },
             {
-                "title": "NASA tries to jog Voyager 1's memory from 15B miles away",
-                "href": "https://www.theregister.com/2024/04/15/voyager_engineers_prepare_fix/"
+                "title": "Apriora (YC W24) is hiring a founding full-stack engineer",
+                "href": "https://www.ycombinator.com/companies/apriora/jobs/IoC1DU7-full-stack-software-engineer"
+            },
+            {
+                "title": "How to stop losing 17,500 kidneys",
+                "href": "https://www.statecraft.pub/p/how-to-stop-losing-17500-kidneys"
             },
             {
                 "title": "The legal rule that computers are presumed to be operating correctly (2022) [pdf]",
                 "href": "https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf"
             },
             {
-                "title": "Firefox 125",
-                "href": "https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/"
+                "title": "Descent 3 Source Code",
+                "href": "https://github.com/kevinbentley/Descent3"
+            },
+            {
+                "title": "A Visual Guide to Vision Transformers",
+                "href": "https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html"
             },
             {
                 "title": "Show HN: a Rust based CLI tool 'imgcatr' for displaying images",
                 "href": "https://github.com/SilinMeng0510/imgcatr"
             },
             {
-                "title": "A framework to help B2B founders find product-market fit",
-                "href": "https://pmf.firstround.com/levels"
-            },
-            {
                 "title": "Show HN: Search HN for interesting comment sections",
                 "href": "https://www.searchhacker.news"
             },
             {
-                "title": "Time Magazine's Best Inventions of 2023 Award for Humane's AI Pin",
-                "href": "https://daringfireball.net/linked/2024/04/15/claim-chowder-time-humane"
+                "title": "A framework to help B2B founders find product-market fit",
+                "href": "https://pmf.firstround.com/levels"
             },
             {
                 "title": "Trap spaces of Boolean networks are conflict-free siphons of their Petri net [pdf]",
                 "href": "https://amu.hal.science/hal-04167028/file/tcs2023-1.pdf"
             },
             {
-                "title": "Efficient gas boiler with real-time data",
-                "href": "https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026"
+                "title": "Amazon HQ2 was supposed to add jobs last year. It shed them instead",
+                "href": "https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/"
+            },
+            {
+                "title": "Why Sweden abandoned its secret A-bomb project",
+                "href": "https://www.bbc.com/future/article/20240412-the-secret-scandinavian-a-bomb-project"
             },
             {
                 "title": "Thoughts on low latency trading if exchanges went full cloud",
                 "href": "https://blog.abctaylor.com/what-would-happen-to-low-latency-trading-if-exchanges-moved-to-the-cloud/"
-            },
-            {
-                "title": "Amazon HQ2 was supposed to add jobs last year. It shed them instead",
-                "href": "https://www.washingtonpost.com/dc-md-va/2024/04/16/amazon-hq2-jobs-arlington-virginia/"
             },
             {
                 "title": "BTFS: BitTorrent Filesystem",
@@ -2668,6 +2640,34 @@
             {
                 "title": "PuTTY vulnerability vuln-p521-bias",
                 "href": "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html"
+            },
+            {
+                "title": "Efficient gas boiler with real-time data",
+                "href": "https://emoncms.org/app/view?name=MyBoilerIdealLogicH24OpenthermSAT&readkey=1d29c637a4817acdf6e6e271850c9026"
+            },
+            {
+                "title": "AMD unveils Ryzen Pro 8000-series processors",
+                "href": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-ryzen-pro-8040-hawk-point-and-8000-series-phoenix-processors-ai-engines-come-to-the-commercial-market"
+            },
+            {
+                "title": "HonoJS: Small, simple, and ultrafast web framework for the Edges",
+                "href": "https://github.com/honojs/hono"
+            },
+            {
+                "title": "Show HN: Building a GPS receiver",
+                "href": "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
+            },
+            {
+                "title": "Astronomers discover Milky Way\u2019s biggest stellar black hole",
+                "href": "https://www.theguardian.com/science/2024/apr/16/astronomers-discover-milky-way-biggest-stellar-black-hole-bh3-33-times-size-of-sun"
+            },
+            {
+                "title": "Ramanujan's lost notebook",
+                "href": "https://en.wikipedia.org/wiki/Ramanujan%27s_lost_notebook"
+            },
+            {
+                "title": "Knuth\u2013Morris\u2013Pratt illustrated",
+                "href": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4"
             }
         ]
     }
