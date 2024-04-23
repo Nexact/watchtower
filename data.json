@@ -55,6 +55,10 @@
                 "href": "https://cakeml.org/"
             },
             {
+                "title": "Are batch scripts a security vulnerability?",
+                "href": "https://chrisdenton.dev/p/batcmd/"
+            },
+            {
                 "title": "The Two Reasons I Prefer Passing Struct Pointers Around",
                 "href": "https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/"
             },
@@ -79,6 +83,10 @@
                 "href": "https://github.com/coroot/coroot"
             },
             {
+                "title": "Sized, DynSized, and Unsized",
+                "href": "https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/"
+            },
+            {
                 "title": "The Performance Impact of C++'s `final` Keyword",
                 "href": "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
             },
@@ -87,20 +95,12 @@
                 "href": "https://github.com/dickdavis/anthropic-rb"
             },
             {
-                "title": "The only two log levels you need are INFO and ERROR",
-                "href": "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
-            },
-            {
                 "title": "Introducing for-each loops for Hare",
                 "href": "https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/"
             },
             {
-                "title": "Understanding a Trait Selection Bug in Rust Compiler",
-                "href": "https://veera.app/trait_selection_bug.html"
-            },
-            {
-                "title": "ProVerB \u2014 SLEBoK",
-                "href": "https://slebok.github.io/proverb/index.html"
+                "title": "The only two log levels you need are INFO and ERROR",
+                "href": "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
             }
         ]
     },
@@ -120,12 +120,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1cb46oy/dauthi_mdm_authentication_framework/"
             },
             {
-                "title": "CVE-2024-2389: Command Injection Vulnerability In Progress Flowmon",
-                "href": "https://www.reddit.com/r/netsec/comments/1cb7vz5/cve20242389_command_injection_vulnerability_in/"
-            },
-            {
                 "title": "An Analysis of the DHEat DoS Against SSH in Cloud Environments",
                 "href": "https://www.reddit.com/r/netsec/comments/1cb132j/an_analysis_of_the_dheat_dos_against_ssh_in_cloud/"
+            },
+            {
+                "title": "CVE-2024-2389: Command Injection Vulnerability In Progress Flowmon",
+                "href": "https://www.reddit.com/r/netsec/comments/1cb7vz5/cve20242389_command_injection_vulnerability_in/"
             },
             {
                 "title": "AppView 1.0.0 is released! Instrument, Observe, Secure your deployments with no code modification.",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft pulls fix for Outlook bug behind ICS security alerts",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-fix-for-outlook-bug-unexpected-ICS-warnings-after-December-security-updates/"
+            },
+            {
                 "title": "CoralRaider attacks use CDN cache to push info-stealer malware",
                 "href": "https://www.bleepingcomputer.com/news/security/coralraider-attacks-use-cdn-cache-to-push-info-stealer-malware/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Russian Sandworm hackers targeted 20 critical orgs in Ukraine",
                 "href": "https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/"
-            },
-            {
-                "title": "Malware dev lures child exploiters into honeytrap to extort them",
-                "href": "https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "HashiCorp Reportedly Being Acquired By IBM",
+                "href": "https://slashdot.org/story/24/04/23/2041238/hashicorp-reportedly-being-acquired-by-ibm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Ex-Amazon Exec Claims She Was Asked To Ignore Copyright Law in Race To AI",
                 "href": "https://it.slashdot.org/story/24/04/23/2034256/ex-amazon-exec-claims-she-was-asked-to-ignore-copyright-law-in-race-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "NASA Officially Greenlights $3.35 Billion Mission To Saturn's Moon Titan",
                 "href": "https://science.slashdot.org/story/24/04/22/2338219/nasa-officially-greenlights-335-billion-mission-to-saturns-moon-titan?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Voyager 1 Resumes Sending Updates To Earth",
-                "href": "https://science.slashdot.org/story/24/04/22/2343257/voyager-1-resumes-sending-updates-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -2546,12 +2546,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Network visualization of 50k blogs and links",
-                "href": "https://graph.henryn.ca"
+                "title": "Digitized Continuous Magnetic Recordings for the 1859 Carrington Event",
+                "href": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807"
             },
             {
                 "title": "GPU Compute in the Browser at the Speed of Native: WebGPU Marching Cubes",
                 "href": "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes"
+            },
+            {
+                "title": "Network visualization of 50k blogs and links",
+                "href": "https://graph.henryn.ca"
             },
             {
                 "title": "New Foundations is consistent \u2013 a difficult mathematical proof proved using Lean",
@@ -2562,44 +2566,40 @@
                 "href": "https://getada.dev"
             },
             {
-                "title": "Digitized Continuous Magnetic Recordings for the 1859 Carrington Event",
-                "href": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023SW003807"
-            },
-            {
                 "title": "Show HN: Balancing game for the mobile browser with increasing difficulty",
                 "href": "https://www.balanc3dgame.com/"
-            },
-            {
-                "title": "Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation",
-                "href": "https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer"
             },
             {
                 "title": "A Photographer Captured His Spectacular Dream Eclipse Photo",
                 "href": "https://petapixel.com/2024/04/21/how-a-photographer-captured-his-spectacular-dream-eclipse-photo/"
             },
             {
-                "title": "Spritely Goblins v0.13.0: Object persistence and easier IO",
-                "href": "https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html"
-            },
-            {
-                "title": "Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout",
-                "href": "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
+                "title": "Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation",
+                "href": "https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer"
             },
             {
                 "title": "The beautiful dissociation of the Japanese language",
                 "href": "https://aethermug.com/posts/the-beautiful-dissociation-of-the-japanese-language"
             },
             {
-                "title": "Mathematicians marvel at 'crazy' cuts through four dimensions",
-                "href": "https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/"
-            },
-            {
                 "title": "The man who killed Google Search",
                 "href": "https://www.wheresyoured.at/the-men-who-killed-google/"
             },
             {
+                "title": "Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout",
+                "href": "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
+            },
+            {
                 "title": "Ask HN: How to improve PCB prototyping iteration time?",
                 "href": "item?id=40137027"
+            },
+            {
+                "title": "Mathematicians marvel at 'crazy' cuts through four dimensions",
+                "href": "https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/"
+            },
+            {
+                "title": "Spritely Goblins v0.13.0: Object persistence and easier IO",
+                "href": "https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html"
             },
             {
                 "title": "Reverse engineering a software crack",
@@ -2610,20 +2610,16 @@
                 "href": "https://hashquery.dev/"
             },
             {
+                "title": "Krazam OS",
+                "href": "https://www.krazam.tv/"
+            },
+            {
                 "title": "FTC announces rule banning noncompetes",
                 "href": "https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes"
             },
             {
                 "title": "HCL: Toolkit for Structured Configuration Languages",
                 "href": "https://github.com/hashicorp/hcl"
-            },
-            {
-                "title": "Krazam OS",
-                "href": "https://www.krazam.tv/"
-            },
-            {
-                "title": "The Moon brings a wild but precarious fish orgy to California's beaches",
-                "href": "https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run"
             },
             {
                 "title": "EURISKO Lives",
@@ -2638,8 +2634,16 @@
                 "href": "item?id=40131597"
             },
             {
+                "title": "Chemists invent a efficient way to extract lithium from mining sites",
+                "href": "https://phys.org/news/2024-04-chemists-efficient-lithium-sites-oil.html"
+            },
+            {
                 "title": "Rabbit R1 source code [part 1]",
                 "href": "https://github.com/rabbitscam/rabbitr1"
+            },
+            {
+                "title": "Carl Sagan, nuking the moon, and not nuking the moon",
+                "href": "https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/"
             },
             {
                 "title": "The evolution of stupidity (and octopus intelligence)",
@@ -2654,16 +2658,12 @@
                 "href": "https://github.com/alexbatalov/fallout1-ce"
             },
             {
-                "title": "Carl Sagan, nuking the moon, and not nuking the moon",
-                "href": "https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/"
-            },
-            {
                 "title": "The 40-Year-Old Cable Modem (a NABU network modem teardown) [video]",
                 "href": "https://www.youtube.com/watch?v=8IflOWH8fzY"
             },
             {
-                "title": "Generative A.I. arrives in the gene editing world of CRISPR",
-                "href": "https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html"
+                "title": "Thefastest.ai",
+                "href": "https://thefastest.ai"
             }
         ]
     }
