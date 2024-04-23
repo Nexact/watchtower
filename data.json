@@ -23,12 +23,12 @@
                 "href": "https://hirrolot.github.io/posts/announcing-beatrice.html"
             },
             {
-                "title": "coroot: open-source DataDog/NewRelic alternative",
-                "href": "https://github.com/coroot/coroot"
-            },
-            {
                 "title": "Understanding and avoiding visually ambiguous characters in IDs",
                 "href": "https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids"
+            },
+            {
+                "title": "coroot: open-source DataDog/NewRelic alternative",
+                "href": "https://github.com/coroot/coroot"
             },
             {
                 "title": "Help us invent CSS Grid Level 3, aka \u201cMasonry\u201d layout",
@@ -43,12 +43,16 @@
                 "href": "https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/"
             },
             {
+                "title": "Introducing for-each loops for Hare",
+                "href": "https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/"
+            },
+            {
                 "title": "The only two log levels you need are INFO and ERROR",
                 "href": "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
             },
             {
-                "title": "Introducing for-each loops for Hare",
-                "href": "https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/"
+                "title": "Extensible Language Support in Zed",
+                "href": "https://zed.dev/blog/language-extensions-part-1"
             },
             {
                 "title": "Understanding a Trait Selection Bug in Rust Compiler",
@@ -71,6 +75,18 @@
                 "href": "https://simonwillison.net/2024/Apr/22/llama-3/"
             },
             {
+                "title": "vcswatch and git --filter",
+                "href": "https://www.df7cb.de/blog/2024/vcswatch-git-filter.html"
+            },
+            {
+                "title": "Double Edged Sword of Docker: Balancing Benefits and Risks",
+                "href": "https://it-notes.dragas.net/2024/04/22/the-doubled-edge-sword-of-docker/"
+            },
+            {
+                "title": "WireGuard FreeBSD VNET Jail",
+                "href": "https://eldapper.wordpress.com/2024/04/13/wireguard-vnet-jail/"
+            },
+            {
                 "title": "First Come First Served: The Impact of File Position on Code Review (2022)",
                 "href": "https://arxiv.org/abs/2208.04259"
             },
@@ -85,22 +101,6 @@
             {
                 "title": "badkeys tool can detect xz backdoor RSA keys",
                 "href": "https://github.com/badkeys/badkeys/releases/tag/v0.0.7"
-            },
-            {
-                "title": "Announcing py2wasm: A Python to Wasm compiler",
-                "href": "https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler"
-            },
-            {
-                "title": "But what is a GPT? Visual intro to transformers",
-                "href": "https://www.youtube.com/watch?v=wjZofJX0v4M"
-            },
-            {
-                "title": "sdt: Prototype implementation of SDT probes using hot-patching",
-                "href": "https://reviews.freebsd.org/D44483"
-            },
-            {
-                "title": "Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization",
-                "href": "https://microarch.club/episodes/101/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "China's Ageing Tech Workers Hit By 'Curse of 35'",
+                "href": "https://slashdot.org/story/24/04/23/154206/chinas-ageing-tech-workers-hit-by-curse-of-35?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft Launches Phi-3 Mini, a 3.8B-Parameter Model Rivaling GPT-3.5 Capabilities",
                 "href": "https://slashdot.org/story/24/04/23/1433204/microsoft-launches-phi-3-mini-a-38b-parameter-model-rivaling-gpt-35-capabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Study: Alphabetical Order of Surnames May Affect Grading",
                 "href": "https://science.slashdot.org/story/24/04/22/190217/study-alphabetical-order-of-surnames-may-affect-grading?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon Ends California Drone Deliveries",
-                "href": "https://tech.slashdot.org/story/24/04/22/1834249/amazon-ends-california-drone-deliveries?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -2542,76 +2542,80 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "New Foundations is consistent \u2013 a difficult mathematical proof proved using Lean",
-                "href": "https://leanprover-community.github.io/con-nf//"
+                "title": "Show HN: Getada: rustup-like installer for Ada's toolchain/package manager",
+                "href": "https://getada.dev"
             },
             {
-                "title": "Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty",
-                "href": "https://www.balanc3dgame.com/"
+                "title": "New Foundations is consistent \u2013 a difficult mathematical proof proved using Lean",
+                "href": "https://leanprover-community.github.io/con-nf//"
             },
             {
                 "title": "Carl Sagan, nuking the moon, and not nuking the moon",
                 "href": "https://eukaryotewritesblog.com/2024/04/12/nuking-the-moon/"
             },
             {
-                "title": "Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout",
-                "href": "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
+                "title": "Show HN: 10 Level Balancing Game for the Mobile Browser w/ increasing difficulty",
+                "href": "https://www.balanc3dgame.com/"
             },
             {
-                "title": "AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life",
-                "href": "item?id=40131597"
+                "title": "Help us invent CSS Grid Level 3, a.k.a. \"Masonry\" layout",
+                "href": "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
             },
             {
                 "title": "Phi-3 Technical Report",
                 "href": "https://arxiv.org/abs/2404.14219"
             },
             {
-                "title": "Show HN: Getada: rustup-like installer for Ada's toolchain/package manager",
-                "href": "https://getada.dev"
+                "title": "Show HN: 3LC \u2013 Illuminate the ML Black Box",
+                "href": "https://pypi.org/project/3lc/"
             },
             {
                 "title": "The Beautiful Islands of San Serriffe (2016)",
                 "href": "https://realdougwilson.com/writing/san-serriffe"
             },
             {
-                "title": "Show HN: 3LC \u2013 Illuminate the ML Black Box",
-                "href": "https://pypi.org/project/3lc/"
+                "title": "Akaunting is free, open-source online accounting software for small businesses",
+                "href": "https://akaunting.com"
             },
             {
-                "title": "Understanding and avoiding visually ambiguous characters in IDs",
-                "href": "https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids"
+                "title": "AMA: I'm Dave Greene, an Accidental Expert on Conway's Game of Life",
+                "href": "item?id=40131597"
             },
             {
                 "title": "1build (YC W20) Is Hiring a Marketing Lead",
                 "href": "https://www.ycombinator.com/companies/1build/jobs/oW1x2mB-marketing-lead"
             },
             {
+                "title": "Understanding and avoiding visually ambiguous characters in IDs",
+                "href": "https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids"
+            },
+            {
                 "title": "Krazam OS",
                 "href": "https://www.krazam.tv/"
+            },
+            {
+                "title": "Half of Americans say Public K-12 Education is Going In The Wrong Direction",
+                "href": "https://www.pewresearch.org/short-reads/2024/04/04/about-half-of-americans-say-public-k-12-education-is-going-in-the-wrong-direction/"
             },
             {
                 "title": "EURISKO Lives",
                 "href": "https://blog.funcall.org/lisp/2024/03/22/eurisko-lives/"
             },
             {
+                "title": "How Amazon Became the Largest Private EV Charging Operator in the US",
+                "href": "https://www.bloomberg.com/news/articles/2024-04-15/amazon-electric-vans-powered-by-17-000-ev-chargers"
+            },
+            {
                 "title": "The Moon brings a wild but precarious fish orgy to California's beaches",
                 "href": "https://www.bbc.com/future/article/20240419-californias-beaches-are-home-to-wild-fish-orgies-during-the-grunion-run"
-            },
-            {
-                "title": "Why you can't get a restaurant reservation",
-                "href": "https://www.newyorker.com/news/our-local-correspondents/why-you-cant-get-a-restaurant-reservation"
-            },
-            {
-                "title": "Meta Horizon OS",
-                "href": "https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/"
             },
             {
                 "title": "The problem with invariants is that they change over time",
                 "href": "https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/"
             },
             {
-                "title": "Phi-3 Weights Released",
-                "href": "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct"
+                "title": "Meta Horizon OS",
+                "href": "https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/"
             },
             {
                 "title": "Petoi Bittle \u2013 a programmable robot dog",
@@ -2622,10 +2626,6 @@
                 "href": "https://equinox.space/"
             },
             {
-                "title": "College students should study more",
-                "href": "https://www.slowboring.com/p/college-students-should-study-more"
-            },
-            {
                 "title": "Ask HN: How to manage phones and PCs for elderly parents?",
                 "href": "item?id=40127400"
             },
@@ -2634,32 +2634,32 @@
                 "href": "https://www.atlasobscura.com/articles/the-secret-liquor-recipes-of-rajasthans-royals"
             },
             {
-                "title": "Akaunting is free, open-source online accounting software for small businesses",
-                "href": "https://akaunting.com"
+                "title": "Young people benefit from Swiss apprenticeships",
+                "href": "https://www.nature.com/articles/d41586-024-01102-8"
             },
             {
-                "title": "The Copier Wars: Fair Use's Rude Awakening",
-                "href": "https://newart.press/p/the-copier-wars-fair-uses-rude-awakening"
+                "title": "College students should study more",
+                "href": "https://www.slowboring.com/p/college-students-should-study-more"
+            },
+            {
+                "title": "Bloom Filter Indexes in PostgreSQL",
+                "href": "https://www.postgresql.org/docs/current/bloom.html"
             },
             {
                 "title": "The Performance Impact of C++'s `final` Keyword",
                 "href": "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
             },
             {
-                "title": "Carapace: A multi-shell completion library and binary",
-                "href": "https://carapace.sh/"
+                "title": "The Copier Wars: Fair Use's Rude Awakening",
+                "href": "https://newart.press/p/the-copier-wars-fair-uses-rude-awakening"
             },
             {
                 "title": "No one buys books",
                 "href": "https://www.elysian.press/p/no-one-buys-books"
             },
             {
-                "title": "Inside the Super Nintendo cartridges",
-                "href": "https://fabiensanglard.net/snes_carts/index.html"
-            },
-            {
-                "title": "HTML-first, framework-agnostic implementation of shadcn/UI \u2013 franken/UI",
-                "href": "https://www.franken-ui.dev/"
+                "title": "Carapace: A multi-shell completion library and binary",
+                "href": "https://carapace.sh/"
             }
         ]
     }
