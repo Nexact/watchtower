@@ -43,6 +43,14 @@
                 "href": "https://esphome.io/index.html"
             },
             {
+                "title": "Porting a cross-platform GUI application to Rust",
+                "href": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
+            },
+            {
+                "title": "Color and TTYs",
+                "href": "https://eklitzke.org/ansi-color-codes"
+            },
+            {
                 "title": "Extensible Language Support in Zed",
                 "href": "https://zed.dev/blog/language-extensions-part-1"
             },
@@ -51,8 +59,8 @@
                 "href": "https://danielchasehooper.com/posts/good-ideas-in-cs/"
             },
             {
-                "title": "Porting a cross-platform GUI application to Rust",
-                "href": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
+                "title": "Composability: Designing a Visual Programming Language",
+                "href": "https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language"
             },
             {
                 "title": "CakeML",
@@ -63,11 +71,15 @@
                 "href": "https://www.cs.dartmouth.edu/~doug/ChatMath.pdf"
             },
             {
+                "title": "vcswatch and git --filter",
+                "href": "https://www.df7cb.de/blog/2024/vcswatch-git-filter.html"
+            },
+            {
                 "title": "Good essays on application vs library programming?",
                 "href": "https://lobste.rs/s/shksoq/good_essays_on_application_vs_library"
             },
             {
-                "title": "Beckhoff Achieves Smaller (1.5GB vs. 2.0GB) RAM Footprint by Switching from Windows to FreeBSD",
+                "title": "Beckhoff Achieves Smaller (1.5GB vs. 0.2GB) RAM Footprint by Switching from Windows to FreeBSD",
                 "href": "https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/"
             },
             {
@@ -79,28 +91,16 @@
                 "href": "https://www.ruby-lang.org/en/news/2024/04/23/ruby-3-3-1-released/"
             },
             {
-                "title": "vcswatch and git --filter",
-                "href": "https://www.df7cb.de/blog/2024/vcswatch-git-filter.html"
-            },
-            {
                 "title": "Tracking down a UEFI quirk on the Fujitsu LIFEBOOK AH532",
                 "href": "https://blog.timschumi.net/2024/04/23/ah532-bios-workaround.html"
-            },
-            {
-                "title": "Color and TTYs",
-                "href": "https://eklitzke.org/ansi-color-codes"
             },
             {
                 "title": "Sized, DynSized, and Unsized",
                 "href": "https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/"
             },
             {
-                "title": "rust-sel4: Rust support for seL4 userspace",
-                "href": "https://github.com/seL4/rust-sel4"
-            },
-            {
-                "title": "The Two Reasons I Prefer Passing Struct Pointers Around",
-                "href": "https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/"
+                "title": "Any Lobsters in Hanoi?",
+                "href": "https://lobste.rs/s/ohpb76/any_lobsters_hanoi"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "SAP Threat Modeling Tool - Open Source Software",
                 "href": "https://www.reddit.com/r/netsec/comments/1cbqqp1/sap_threat_modeling_tool_open_source_software/"
+            },
+            {
+                "title": "Grafana backend sql injection affected all version",
+                "href": "https://www.reddit.com/r/netsec/comments/1cbrrg8/grafana_backend_sql_injection_affected_all_version/"
             },
             {
                 "title": "BlackBerry MDM Has Some Authentication Flaws",
@@ -206,10 +210,6 @@
             {
                 "title": "Customised CVE Notifier based on keywords",
                 "href": "https://www.reddit.com/r/netsec/comments/1c4mxx3/customised_cve_notifier_based_on_keywords/"
-            },
-            {
-                "title": "Fixing Typos and Breaching Microsoft\u2019s Perimeter",
-                "href": "https://www.reddit.com/r/netsec/comments/1c4vl0q/fixing_typos_and_breaching_microsofts_perimeter/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "US Breaks Ground On Its First-Ever High-Speed Rail",
+                "href": "https://tech.slashdot.org/story/24/04/24/0238217/us-breaks-ground-on-its-first-ever-high-speed-rail?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "US Bans Noncompete Agreements For Nearly All Jobs",
                 "href": "https://news.slashdot.org/story/24/04/24/0436227/us-bans-noncompete-agreements-for-nearly-all-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Apple Cuts Vision Pro Shipments As Demand Falls 'Sharply Beyond Expectations'",
                 "href": "https://apple.slashdot.org/story/24/04/23/1722254/apple-cuts-vision-pro-shipments-as-demand-falls-sharply-beyond-expectations?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "FTC To Vote On Noncompete Ban",
-                "href": "https://news.slashdot.org/story/24/04/23/1657246/ftc-to-vote-on-noncompete-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -2546,7 +2546,7 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Apple releases CoreNet, a library for training deep neural networks",
+                "title": "CoreNet: A library for training deep neural networks",
                 "href": "https://github.com/apple/corenet"
             },
             {
@@ -2568,10 +2568,6 @@
             {
                 "title": "Bottle Plotter",
                 "href": "https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html"
-            },
-            {
-                "title": "Just Launched: GitHub Deployments",
-                "href": "https://wordpress.com/blog/2024/03/18/github-deployments/"
             },
             {
                 "title": "Maxtext: A simple, performant and scalable Jax LLM",
@@ -2606,64 +2602,68 @@
                 "href": "https://graph.henryn.ca"
             },
             {
-                "title": "Apple's risky bet on CarPlay",
-                "href": "https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/"
+                "title": "More than just thumbnails, micro-browsers are everywhere",
+                "href": "https://24ways.org/2019/microbrowsers-are-everywhere/"
             },
             {
-                "title": "Intel Meteor Lake's NPU",
-                "href": "https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/"
+                "title": "Apple's risky bet on CarPlay",
+                "href": "https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/"
             },
             {
                 "title": "The Deuce Editor Architecture (2014)",
                 "href": "https://web.archive.org/web/20210407151341/https://discuss.atom.io/t/the-deuce-editor-architecture/2218"
             },
             {
-                "title": "OpenBSD \u2013 Game of Trees 0.98 released",
-                "href": "https://www.undeadly.org/cgi?action=article;sid=20240424043509"
+                "title": "Intel Meteor Lake's NPU",
+                "href": "https://chipsandcheese.com/2024/04/22/intel-meteor-lakes-npu/"
+            },
+            {
+                "title": "Voyager 1 Is Communicating Well Again",
+                "href": "https://www.scientificamerican.com/article/after-months-of-gibberish-voyager-1-is-communicating-well-again/"
             },
             {
                 "title": "The man who killed Google Search?",
                 "href": "https://www.wheresyoured.at/the-men-who-killed-google/"
             },
             {
-                "title": "Explore a digitized collection of doomed Everest climber's letters home",
-                "href": "https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/"
+                "title": "OpenBSD \u2013 Game of Trees 0.98 released",
+                "href": "https://www.undeadly.org/cgi?action=article;sid=20240424043509"
             },
             {
                 "title": "Opengist: Open-source alternative to GitHub Gists",
                 "href": "https://github.com/thomiceli/opengist"
             },
             {
-                "title": "Show HN: Kaldo \u2013 Cross Shell Aliases",
-                "href": "https://github.com/cpendery/kaldo"
-            },
-            {
-                "title": "Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation",
-                "href": "https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer"
+                "title": "Explore a digitized collection of doomed Everest climber's letters home",
+                "href": "https://arstechnica.com/science/2024/04/everest-mountaineer-george-mallorys-letters-have-been-digitized-for-posterity/"
             },
             {
                 "title": "Ask HN: How does deploying a fine-tuned model work",
                 "href": "item?id=40129225"
             },
             {
-                "title": "Dafny is a verification-aware programming language",
-                "href": "https://github.com/dafny-lang/dafny"
+                "title": "Shortbread (YC W23) is hiring a founding engineer in SF for AI comics creation",
+                "href": "https://www.ycombinator.com/companies/shortbread/jobs/8jV0RY9-founding-engineer"
             },
             {
                 "title": "Apple/OpenELM: Efficient Open-Source Family Language Models",
                 "href": "https://huggingface.co/apple/OpenELM"
             },
             {
-                "title": "GPU compute in the browser at the speed of native: WebGPU marching cubes",
-                "href": "https://www.willusher.io/graphics/2024/04/22/webgpu-marching-cubes"
+                "title": "GitHub Deployments",
+                "href": "https://wordpress.com/blog/2024/03/18/github-deployments/"
             },
             {
-                "title": "Protecting the Darkness in Chile's Atacama Desert",
-                "href": "https://undark.org/2024/04/22/darkness-in-chile-atacama-desert/"
+                "title": "Dafny is a verification-aware programming language",
+                "href": "https://github.com/dafny-lang/dafny"
             },
             {
-                "title": "New Foundations is consistent \u2013 a difficult mathematical proof proved using Lean",
-                "href": "https://leanprover-community.github.io/con-nf//"
+                "title": "Show HN: Kaldo \u2013 Cross Shell Aliases",
+                "href": "https://github.com/cpendery/kaldo"
+            },
+            {
+                "title": "Congress Passed a Bill That Could Ban TikTok. Now Comes the Hard Part",
+                "href": "https://www.nytimes.com/2024/04/23/technology/tiktok-ban-bill-congress.html"
             }
         ]
     }
