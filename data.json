@@ -15,6 +15,10 @@
                 "href": "https://alastairreid.github.io/riscv-spec-issues/"
             },
             {
+                "title": "Finding Trends With Approximate Embedding Clustering",
+                "href": "https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/"
+            },
+            {
                 "title": "jank gets lazy sequences, destructuring, and loop",
                 "href": "https://jank-lang.org/blog/2024-04-27-lazy-sequences/"
             },
@@ -23,8 +27,20 @@
                 "href": "https://loglog.games/blog/leaving-rust-gamedev/"
             },
             {
+                "title": "pcrowDoodle, my \"desirable difficulty\" laptop",
+                "href": "https://biodigitaljazz.net/blog/pcrowdoodle.html"
+            },
+            {
+                "title": "RISC OS 5.30 now available",
+                "href": "https://www.riscosopen.org/news/articles/2024/04/27/risc-os-5-30-now-available"
+            },
+            {
                 "title": "Tasks are the wrong abstraction",
                 "href": "https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/"
+            },
+            {
+                "title": "gf: A GDB frontend for Linux",
+                "href": "https://github.com/nakst/gf"
             },
             {
                 "title": "Practical Vim command workflow",
@@ -35,16 +51,12 @@
                 "href": "https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html"
             },
             {
-                "title": "gf: A GDB frontend for Linux",
-                "href": "https://github.com/nakst/gf"
-            },
-            {
                 "title": "2024-04-26 microsoft at work",
                 "href": "https://computer.rip/2024-04-26-microsoft-at-work.html"
             },
             {
-                "title": "RISC OS 5.30 now available",
-                "href": "https://www.riscosopen.org/news/articles/2024/04/27/risc-os-5-30-now-available"
+                "title": "Talking to memory: Inside the Intel 8088 processor's bus interface state machine",
+                "href": "http://www.righto.com/2024/04/intel-8088-bus-state-machine.html"
             },
             {
                 "title": "Keeping track of directories using pushd and pop",
@@ -89,18 +101,6 @@
             {
                 "title": "jub0bs/cors: a new CORS middleware library",
                 "href": "https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/"
-            },
-            {
-                "title": "Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR",
-                "href": "https://exploits.forsale/24h2-nt-exploit/"
-            },
-            {
-                "title": "bun.report is Bun's new crash reporter",
-                "href": "https://bun.sh/blog/bun-report-is-buns-new-crash-reporter"
-            },
-            {
-                "title": "Reflectively constructing enums at runtime",
-                "href": "https://highlysuspect.agency/posts/enum_reflection/"
             }
         ]
     },
@@ -217,6 +217,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "US Post Office phishing sites get as much traffic as the real one",
+                "href": "https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/"
+            },
+            {
+                "title": "Google Chrome's new post-quantum cryptography may break TLS connections",
+                "href": "https://www.bleepingcomputer.com/news/security/google-chromes-new-post-quantum-cryptography-may-break-tls-connections/"
+            },
+            {
                 "title": "Japanese police create fake support scam payment cards to warn victims",
                 "href": "https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/"
             },
@@ -251,14 +259,6 @@
             {
                 "title": "Reddit down in major outage blocking access to web, mobile apps",
                 "href": "https://www.bleepingcomputer.com/news/technology/reddit-down-in-major-outage-blocking-access-to-web-mobile-apps/"
-            },
-            {
-                "title": "Over 1,400 CrushFTP servers vulnerable to actively exploited bug",
-                "href": "https://www.bleepingcomputer.com/news/security/over-1-400-crushftp-servers-vulnerable-to-actively-exploited-bug/"
-            },
-            {
-                "title": "WP Automatic WordPress plugin hit by millions of SQL injection attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/wp-automatic-wordpress-plugin-hit-by-millions-of-sql-injection-attacks/"
             }
         ]
     },
@@ -310,6 +310,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Behold the World's Largest 3D Printer",
+                "href": "https://hardware.slashdot.org/story/24/04/28/0322238/behold-the-worlds-largest-3d-printer?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Why is South Korea's Military Set To Ban IPhones Over 'Security' Concerns?",
                 "href": "https://apple.slashdot.org/story/24/04/28/0011253/why-is-south-koreas-military-set-to-ban-iphones-over-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "A Windows Vulnerability Reported by the NSA Was Exploited To Install Russian Malware",
                 "href": "https://it.slashdot.org/story/24/04/27/0420253/a-windows-vulnerability-reported-by-the-nsa-was-exploited-to-install-russian-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "EyeEm Will License Users' Photos To Train AI If They Don't Delete Them",
-                "href": "https://yro.slashdot.org/story/24/04/26/2334248/eyeem-will-license-users-photos-to-train-ai-if-they-dont-delete-them?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -2542,68 +2542,84 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "LoRA+: Efficient Low Rank Adaptation of Large Models",
+                "href": "https://arxiv.org/abs/2402.12354"
+            },
+            {
+                "title": "The unstallable plane that stalled",
+                "href": "https://fearoflanding.com/accidents/accident-reports/the-unstallable-plane-that-stalled/"
+            },
+            {
                 "title": "Zilog Z80 CPU \u2013 Modern, free and open source silicon clone",
                 "href": "https://github.com/rejunity/z80-open-silicon"
             },
             {
-                "title": "LoRA+: Efficient Low Rank Adaptation of Large Models",
-                "href": "https://arxiv.org/abs/2402.12354"
+                "title": "Talking to memory: Inside the Intel 8088 processor's bus interface state machine",
+                "href": "http://www.righto.com/2024/04/intel-8088-bus-state-machine.html"
             },
             {
                 "title": "TfL's simple pop-up message led to a significant drop in paper ticket sales",
                 "href": "https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/"
             },
             {
-                "title": "Synth wars: The story of MIDI (2023)",
-                "href": "https://www.musicradar.com/news/the-story-of-midi"
-            },
-            {
                 "title": "Flow Field Pathfinding",
                 "href": "https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/"
+            },
+            {
+                "title": "Synth wars: The story of MIDI (2023)",
+                "href": "https://www.musicradar.com/news/the-story-of-midi"
             },
             {
                 "title": "Fragmented thinking is a bigger threat to flow state than interruptions",
                 "href": "https://blog.stackblitz.com/posts/flow-state/"
             },
             {
-                "title": "The Invention of the Integrated Circuit: Jean Hoerni's Patent Notebook",
-                "href": "https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit"
+                "title": "Watch cars evolve using genetic algorithm",
+                "href": "https://rednuht.org/genetic_cars_2/"
             },
             {
-                "title": "UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance",
-                "href": "https://up.codes/careers?utm_source=HN"
+                "title": "Tales from an Attic",
+                "href": "https://theamericanscholar.org/tales-from-an-attic/"
             },
             {
-                "title": "The Princeton Companion to Applied Mathematics",
-                "href": "https://nhigham.com/the-princeton-companion-to-applied-mathematics/"
-            },
-            {
-                "title": "Implementing Neural Networks on a \"10-cent\" RISC-V MCU",
-                "href": "https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/"
-            },
-            {
-                "title": "From Pomona to Oakland, a skater mapped California block by block from his board",
-                "href": "https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board"
-            },
-            {
-                "title": "Building an IBM 3270 terminal controller",
-                "href": "https://ajk.me/building-an-ibm-3270-terminal-controller"
-            },
-            {
-                "title": "Is it okay to daisy chain a UPS?",
-                "href": "https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html"
-            },
-            {
-                "title": "How to improve the RISC-V specification",
-                "href": "https://alastairreid.github.io/riscv-spec-issues/"
+                "title": "Zed Decoded: Rope and SumTree",
+                "href": "https://zed.dev/blog/zed-decoded-rope-sumtree"
             },
             {
                 "title": "Making a Flute-Controlled Mouse",
                 "href": "https://0110.be/posts/Making_a_flute_controlled_mouse"
             },
             {
-                "title": "The Voyage of Magellan \u2013 Chapter 5: Underway",
-                "href": "https://analog-antiquarian.net/2024/04/26/chapter-5-underway/"
+                "title": "UpCodes (YC S17) Is Hiring SWEs/PMs to Automate Construction Compliance",
+                "href": "https://up.codes/careers?utm_source=HN"
+            },
+            {
+                "title": "The Invention of the Integrated Circuit: Jean Hoerni's Patent Notebook",
+                "href": "https://thechipletter.substack.com/p/the-invention-of-the-integrated-circuit"
+            },
+            {
+                "title": "The Princeton Companion to Applied Mathematics",
+                "href": "https://nhigham.com/the-princeton-companion-to-applied-mathematics/"
+            },
+            {
+                "title": "From Pomona to Oakland, a skater mapped California block by block from his board",
+                "href": "https://www.latimes.com/opinion/story/2024-04-12/from-pomona-to-oakland-how-a-skater-mapped-california-from-atop-his-board"
+            },
+            {
+                "title": "PySheets \u2013 Spreadsheet UI for Python",
+                "href": "https://pysheets.app/"
+            },
+            {
+                "title": "Implementing Neural Networks on a \"10-cent\" RISC-V MCU",
+                "href": "https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/"
+            },
+            {
+                "title": "Is it okay to daisy chain a UPS?",
+                "href": "https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html"
+            },
+            {
+                "title": "Building an IBM 3270 terminal controller",
+                "href": "https://ajk.me/building-an-ibm-3270-terminal-controller"
             },
             {
                 "title": "Wobble Town (Inspired by Tamagotchi)",
@@ -2614,52 +2630,36 @@
                 "href": "https://publicdomainreview.org/collection/tom-seidmann-freud-hare-tales/"
             },
             {
-                "title": "Mise: a polyglot tool version manager",
-                "href": "https://mise.jdx.dev/"
+                "title": "What if null was an Object in Java?",
+                "href": "https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2"
             },
             {
                 "title": "Install Asdf: One Runtime Manager to Rule All Dev Environments",
                 "href": "https://jdsalaro.com/tutorial/asdf-single-package-manager-multiple-dev-environments"
             },
             {
-                "title": "PySheets \u2013 Spreadsheet UI for Python",
-                "href": "https://pysheets.app/"
-            },
-            {
-                "title": "What if null was an Object in Java?",
-                "href": "https://donraab.medium.com/what-if-null-was-an-object-in-java-3f1974954be2"
-            },
-            {
-                "title": "Watch cars evolve using genetic algorithm",
-                "href": "https://rednuht.org/genetic_cars_2/"
-            },
-            {
-                "title": "Zed Decoded: Rope and SumTree",
-                "href": "https://zed.dev/blog/zed-decoded-rope-sumtree"
+                "title": "The Voyage of Magellan \u2013 Chapter 5: Underway",
+                "href": "https://analog-antiquarian.net/2024/04/26/chapter-5-underway/"
             },
             {
                 "title": "Using squeezed wav2vec2 to automatically detect owl calls",
                 "href": "https://www.seangoedecke.com/animal-call-audio-recognition/"
             },
             {
-                "title": "George Stephenson",
-                "href": "https://en.wikipedia.org/wiki/George_Stephenson"
-            },
-            {
-                "title": "Philosophus Autodidactus",
-                "href": "https://en.wikipedia.org/wiki/Hayy_ibn_Yaqdhan"
+                "title": "Mise: a polyglot tool version manager",
+                "href": "https://mise.jdx.dev/"
             },
             {
                 "title": "Adding the \"Move to Trash\" function to System 7.1",
                 "href": "https://blog.gingerbeardman.com/2024/04/12/adding-the-move-to-trash-function-to-system-7/"
             },
             {
-                "title": "How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes",
-                "href": "https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/"
+                "title": "How to improve the RISC-V specification",
+                "href": "https://alastairreid.github.io/riscv-spec-issues/"
             },
             {
-                "title": "Crafting Interpreters: 640 Pages in 15 Months",
-                "href": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/"
+                "title": "How to Use the Grafana Operator: Managing a Grafana Cloud Stack in Kubernetes",
+                "href": "https://grafana.com/blog/2024/04/24/how-to-use-the-grafana-operator-managing-a-grafana-cloud-stack-in-kubernetes/"
             }
         ]
     }
