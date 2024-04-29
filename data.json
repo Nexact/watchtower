@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Functional Semantics in Imperative Clothing",
-                "href": "https://rtfeldman.com/imperative-clothing"
-            },
-            {
                 "title": "No Web Without Women",
                 "href": "https://nowebwithoutwomen.com/"
+            },
+            {
+                "title": "Functional Semantics in Imperative Clothing",
+                "href": "https://rtfeldman.com/imperative-clothing"
             },
             {
                 "title": "No One Should Have That Much Power",
@@ -23,12 +23,16 @@
                 "href": "https://kilo.bytesize.xyz/nix-the-breaking-point"
             },
             {
+                "title": "So, you want to write an unsafe crate",
+                "href": "https://blog.dureuill.net/articles/nolife-0-4/"
+            },
+            {
                 "title": "fend - an arbitrary-precision unit-aware calculator",
                 "href": "https://printfn.github.io/fend/"
             },
             {
-                "title": "So, you want to write an unsafe crate",
-                "href": "https://blog.dureuill.net/articles/nolife-0-4/"
+                "title": "tldr.fail",
+                "href": "https://tldr.fail/"
             },
             {
                 "title": "What are you doing this week?",
@@ -37,10 +41,6 @@
             {
                 "title": "Sanctum \u2013 a privilege separated VPN daemon",
                 "href": "https://sanctorum.se/sanctum/"
-            },
-            {
-                "title": "tldr.fail",
-                "href": "https://tldr.fail/"
             },
             {
                 "title": "Exploring the Enigma of Database Vacuuming",
@@ -61,6 +61,14 @@
             {
                 "title": "Open-Source Development - Strategies for getting involved",
                 "href": "https://garrensmith.com/Opensource/Open-Source+Development+-+Strategies+for+getting+involved"
+            },
+            {
+                "title": "Linux for Itanium releases first official patchset: v6.9-rc6-epic1",
+                "href": "https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1"
+            },
+            {
+                "title": "Understanding Delta Lake's consistency model",
+                "href": "https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model"
             },
             {
                 "title": "Arc4random",
@@ -91,16 +99,8 @@
                 "href": "https://github.com/trimstray/the-book-of-secret-knowledge"
             },
             {
-                "title": "How to improve the RISC-V specification",
-                "href": "https://alastairreid.github.io/riscv-spec-issues/"
-            },
-            {
                 "title": "Practical Vim command workflow",
                 "href": "https://m4xshen.dev/posts/vim-command-workflow/"
-            },
-            {
-                "title": "jf: flatten nested json for easy searchability",
-                "href": "https://github.com/say4n/jf"
             }
         ]
     },
@@ -2542,52 +2542,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "SB-1047 will stifle open-source AI and decrease safety",
-                "href": "https://www.answer.ai/posts/2024-04-29-sb1047.html"
-            },
-            {
                 "title": "Webb captures iconic Horsehead Nebula in unprecedented detail",
                 "href": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail"
-            },
-            {
-                "title": "Answering Legal Questions with LLMs",
-                "href": "https://hugodutka.com/posts/answering-legal-questions-with-llms/"
             },
             {
                 "title": "Project Habbakuk: Britain's Ice \"Bergship\" Aircraft Carrier Project",
                 "href": "https://99percentinvisible.org/article/project-habbakuk-britains-secret-ice-bergship-aircraft-carrier-project/"
             },
             {
-                "title": "Claude \u00c9mile Jean-Baptiste Litre",
-                "href": "https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre"
-            },
-            {
-                "title": "Tiered storage won't fix Kafka",
-                "href": "https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka"
-            },
-            {
-                "title": "Husband and wife outed as GRU spies aiding bombings and poisonings across Europe",
-                "href": "https://theins.ru/en/politics/271205"
+                "title": "Answering Legal Questions with LLMs",
+                "href": "https://hugodutka.com/posts/answering-legal-questions-with-llms/"
             },
             {
                 "title": "Memary: Open-Source Longterm Memory for Autonomous Agents",
                 "href": "https://github.com/kingjulio8238/memary"
             },
             {
+                "title": "Claude \u00c9mile Jean-Baptiste Litre",
+                "href": "https://en.wikipedia.org/wiki/Claude_%C3%89mile_Jean-Baptiste_Litre"
+            },
+            {
+                "title": "Husband and wife outed as GRU spies aiding bombings and poisonings across Europe",
+                "href": "https://theins.ru/en/politics/271205"
+            },
+            {
                 "title": "Atomic nucleus excited with laser: A breakthrough after decades",
                 "href": "https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt"
-            },
-            {
-                "title": "US, other G7 countries to phase out coal by early 2030s",
-                "href": "https://electrek.co/2024/04/29/us-g7-countries-to-phase-out-coal-by-early-2030s/"
-            },
-            {
-                "title": "Collection of publicly available IPTV channels",
-                "href": "https://iptv-org.github.io/"
-            },
-            {
-                "title": "A leadership crisis in the Nix community",
-                "href": "https://lwn.net/SubscriberLink/970824/0d89c6d83efad1e0/"
             },
             {
                 "title": "Cheyenne Super Computer Auction",
@@ -2598,68 +2578,88 @@
                 "href": "https://krasjet.com/voice/pdf.tocgen/"
             },
             {
-                "title": "Unify (YC W23) Is Hiring Contributors to Unify ML",
-                "href": "https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor"
+                "title": "How do you accidentally run for President of Iceland?",
+                "href": "https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e"
             },
             {
                 "title": "Angle-grinder: Slice and dice logs on the command line",
                 "href": "https://github.com/rcoh/angle-grinder"
             },
             {
-                "title": "What's Going on with \u2018Nonplussed\u2019? (2017)",
-                "href": "https://www.merriam-webster.com/grammar/nonplussed"
-            },
-            {
                 "title": "Show HN: Beautiful 3D ISS tracker with live video and near-realtime clouds",
                 "href": "https://iss.matteason.co.uk"
+            },
+            {
+                "title": "What's Going on with \u2018Nonplussed\u2019? (2017)",
+                "href": "https://www.merriam-webster.com/grammar/nonplussed"
             },
             {
                 "title": "Principles for Keyboard Layouts (2022)",
                 "href": "https://anniecherkaev.com/principles-for-keyboard-layouts"
             },
             {
+                "title": "Unify (YC W23) Is Hiring Contributors to Unify ML",
+                "href": "https://www.ycombinator.com/companies/unify/jobs/XoPGc3D-llm-engineer-contributor"
+            },
+            {
                 "title": "Phishing Campaigns Targeting USPS See as Much Web Traffic as the USPS Itself",
                 "href": "https://www.akamai.com/blog/security-research/phishing-usps-malicious-domains-traffic-equal-to-legitimate-traffic"
-            },
-            {
-                "title": "How do you accidentally run for President of Iceland?",
-                "href": "https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e"
-            },
-            {
-                "title": "Xbox Console Sales Are Tanking as Microsoft Brings Games to PS5",
-                "href": "https://kotaku.com/xbox-ps5-sales-exclusivity-starfield-microsoft-1851436748"
-            },
-            {
-                "title": "Phreaking",
-                "href": "https://en.wikipedia.org/wiki/Phreaking"
             },
             {
                 "title": "Mini ponds are 'tiny universes' of biodiversity for gardens and windowsills",
                 "href": "https://www.bbc.com/future/article/20240423-how-to-make-a-mini-wildlife-pond"
             },
             {
+                "title": "GitHub Copilot Workspace: Welcome to the Copilot-native developer environment",
+                "href": "https://github.blog/2024-04-29-github-copilot-workspace/"
+            },
+            {
                 "title": "Tangoing with a Martin Gardner Word Game",
                 "href": "https://pncnmnp.github.io/blogs/martin-gardner-game.html"
-            },
-            {
-                "title": "Ask HN: What's the best charting library for customer-facing dashboards?",
-                "href": "item?id=40196880"
-            },
-            {
-                "title": "Marc Andreessen Is a Maniac",
-                "href": "https://gizmodo.com/marc-andreessen-is-a-maniac-1851433847"
-            },
-            {
-                "title": "Practical Vim command workflow (2023)",
-                "href": "https://m4xshen.dev/posts/vim-command-workflow/"
             },
             {
                 "title": "Three ways of handling user input (2022)",
                 "href": "https://dubroy.com/blog/three-ways-of-handling-user-input/"
             },
             {
+                "title": "Common DB schema change mistakes in Postgres",
+                "href": "https://postgres.ai/blog/20220525-common-db-schema-change-mistakes"
+            },
+            {
                 "title": "US Post Office phishing sites get as much traffic as the real one",
                 "href": "https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/"
+            },
+            {
+                "title": "I found one of my first programs (Java, 2011) on the Wayback Machine and it runs",
+                "href": "https://github.com/khiner/CrosswordFiller"
+            },
+            {
+                "title": "China\u2019s Moon atlas is the most detailed ever made",
+                "href": "https://www.nature.com/articles/d41586-024-01223-0"
+            },
+            {
+                "title": "Practical Vim command workflow (2023)",
+                "href": "https://m4xshen.dev/posts/vim-command-workflow/"
+            },
+            {
+                "title": "Light Waves Brought to a Stop in a Crystal Promises New Ways to Control Photons",
+                "href": "https://www.sciencealert.com/light-waves-brought-to-a-stop-in-a-crystal-promises-new-ways-to-control-photons"
+            },
+            {
+                "title": "Ask HN: What's the best charting library for customer-facing dashboards?",
+                "href": "item?id=40196880"
+            },
+            {
+                "title": "Personal computing paves the way for personal library science",
+                "href": "https://www.bramadams.dev/issue-55/"
+            },
+            {
+                "title": "Doctor at Cigna said bosses pressured her to review patients' cases too quickly",
+                "href": "https://www.propublica.org/article/cigna-medical-director-doctor-patient-preapproval-denials-insurance"
+            },
+            {
+                "title": "The Myth of the Second Chance",
+                "href": "https://ft.pressreader.com/article/282557318242321"
             }
         ]
     }
