@@ -16,8 +16,9 @@ if __name__ == "__main__":
         {"feedname": "krebsonsecurity", "url":"https://krebsonsecurity.com/feed/"},
         {"feedname": "slashdot", "url": "http://rss.slashdot.org/Slashdot/slashdot"},
         {"feedname": "ciscotalos", "url": "https://blog.talosintelligence.com/rss"},
-        {"feedname": "MSRC", "url": "https://msrc.microsoft.com/blog/feed"},
-        {"feedname": "PacketStorm", "url": "https://rss.packetstormsecurity.com"}
+        {"feedname": "cybercentre", "url": "https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en"},
+        {"feedname": "cisa", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+        {"feedname": "packetstorm", "url": "https://rss.packetstormsecurity.com"}
     ]
 
     # loop rss feeds
