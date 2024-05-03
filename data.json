@@ -3,24 +3,24 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "sudon't",
-                "href": "https://dotat.at/@/2024-05-02-sudo.html"
-            },
-            {
                 "title": "mkinitcpio v39",
                 "href": "https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39"
+            },
+            {
+                "title": "sudon't",
+                "href": "https://dotat.at/@/2024-05-02-sudo.html"
             },
             {
                 "title": "Making a 3D Modeler, in C, in a Week",
                 "href": "https://danielchasehooper.com/posts/shapeup/"
             },
             {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend"
-            },
-            {
                 "title": "The Time Linkerd Erased My Load Balancer",
                 "href": "https://matduggan.com/the-time-linkerd-erased-my-load-balancer/"
+            },
+            {
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend"
             },
             {
                 "title": "Proposed Punctuation",
@@ -35,16 +35,20 @@
                 "href": "https://brandur.org/fragments/ruby-typing-2024"
             },
             {
-                "title": "The UX of UUIDs | Unkey",
-                "href": "https://www.unkey.com/blog/uuid-ux"
-            },
-            {
                 "title": "Large Text Compression Benchmark",
                 "href": "http://www.mattmahoney.net/dc/text.html"
             },
             {
+                "title": "The UX of UUIDs | Unkey",
+                "href": "https://www.unkey.com/blog/uuid-ux"
+            },
+            {
                 "title": "ECDH based Oblivious Message Retrieval",
                 "href": "https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr"
+            },
+            {
+                "title": "How are zlib, gzip and zip related?",
+                "href": "https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they"
             },
             {
                 "title": "Unwind considered harmful?",
@@ -65,6 +69,10 @@
             {
                 "title": "Hacking on PostgreSQL is really hard",
                 "href": "https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html"
+            },
+            {
+                "title": "Vector Similarity Search in DuckDB",
+                "href": "https://duckdb.org/2024/05/03/vector-similarity-search-vss.html"
             },
             {
                 "title": "Having a machine room can mean having things in your machine room",
@@ -93,14 +101,6 @@
             {
                 "title": "For Fakes Sake - Testing In Go",
                 "href": "https://www.zarl.dev/articles/for-fake-sake"
-            },
-            {
-                "title": "Secure Randomness in Go 1.22",
-                "href": "https://go.dev/blog/chacha8rand"
-            },
-            {
-                "title": "Shader post-processing in a hurry",
-                "href": "https://30fps.net/pages/post-processing/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Britain's Climate Action Plan Unlawful, High Court Rules",
+                "href": "https://news.slashdot.org/story/24/05/03/1942206/britains-climate-action-plan-unlawful-high-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "China Launches Moon Probe",
                 "href": "https://science.slashdot.org/story/24/05/03/1811253/china-launches-moon-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Nurses Say Hospital Adoption of Half-Cooked 'AI' Is Reckless",
                 "href": "https://science.slashdot.org/story/24/05/02/2111253/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Sony, Apollo Offers To Buy Paramount For $26 Billion",
-                "href": "https://entertainment.slashdot.org/story/24/05/02/2116210/sony-apollo-offers-to-buy-paramount-for-26-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,12 +791,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Show HN: BandMatch \u2013 \"Tinder\" but for finding musicians to create bands/collab",
+                "href": "https://bandmatch.app"
+            },
+            {
                 "title": "DNS traffic can leak outside the VPN tunnel on Android",
                 "href": "https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android"
             },
             {
-                "title": "Show HN: BandMatch \u2013 \"Tinder\" but for finding musicians to create bands/collab",
-                "href": "https://bandmatch.app"
+                "title": "As private equity dominates wheelchair market, users wait months for repairs",
+                "href": "https://www.statnews.com/2024/05/01/wheelchair-repair-delay-numotion-national-seating-mobility/"
             },
             {
                 "title": "Unique volumes of Brothers Grimm fairy tales discovered in Poland",
@@ -809,10 +813,6 @@
             {
                 "title": "Fifty Years of the Personal Computer Operating System",
                 "href": "https://medium.com/chmcore/fifty-years-of-the-personal-computer-operating-system-185b1dc59231"
-            },
-            {
-                "title": "An Oil Price-Fixing Conspiracy Caused 27% of All Inflation in 2021",
-                "href": "https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused"
             },
             {
                 "title": "DrEureka: Language Model Guided SIM-to-Real Transfer",
@@ -831,68 +831,60 @@
                 "href": "https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/"
             },
             {
-                "title": "Legion Health (YC S21) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer"
+                "title": "A portable Common Lisp toolkit for building inspectors",
+                "href": "https://github.com/aartaka/trivial-inspect"
             },
             {
-                "title": "Lowercase \u2013 A simple way to take and share notes",
-                "href": "https://www.lowercase.app/"
+                "title": "Legion Health (YC S21) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer"
             },
             {
                 "title": "A Mathematical Theory of Communication [pdf]",
                 "href": "https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf"
             },
             {
-                "title": "A portable Common Lisp toolkit for building inspectors",
-                "href": "https://github.com/aartaka/trivial-inspect"
-            },
-            {
-                "title": "Blue-Recorder, a Simple Screen Recorder Written in Rust",
-                "href": "https://github.com/xlmnxp/blue-recorder"
-            },
-            {
                 "title": "SATO: Stable Text-to-Motion Framework",
                 "href": "https://sato-team.github.io/Stable-Text-to-Motion-Framework/"
             },
             {
-                "title": "As private equity dominates wheelchair market, users wait months for repairs",
-                "href": "https://www.statnews.com/2024/05/01/wheelchair-repair-delay-numotion-national-seating-mobility/"
+                "title": "TORAX is a differentiable tokamak core transport simulator",
+                "href": "https://github.com/google-deepmind/torax"
+            },
+            {
+                "title": "Lowercase \u2013 A simple way to take and share notes",
+                "href": "https://www.lowercase.app/"
             },
             {
                 "title": "What You Need to Know about Modern CSS (Spring 2024 Edition)",
                 "href": "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/"
             },
             {
+                "title": "Blue-Recorder, a Simple Screen Recorder Written in Rust",
+                "href": "https://github.com/xlmnxp/blue-recorder"
+            },
+            {
                 "title": "Woodworking as an escape from the absurdity of software",
                 "href": "https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/"
             },
             {
-                "title": "Firefox Power User Keeps 7,400 Browser Tabs Open for 2 Years",
-                "href": "https://www.pcmag.com/news/firefox-power-user-keeps-7400-plus-browser-tabs-open-for-2-years"
-            },
-            {
-                "title": "Ontario family doctor says new AI notetaking saved her job",
-                "href": "https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/"
-            },
-            {
-                "title": "Why It's Hard to Get Hired Despite Glowing Jobs Reports",
-                "href": "https://www.wsj.com/lifestyle/careers/us-job-market-white-collar-workers-f453f0b5"
-            },
-            {
-                "title": "Goodyear Inflatoplane",
-                "href": "https://en.wikipedia.org/wiki/Goodyear_Inflatoplane"
-            },
-            {
-                "title": "How to Use JSON Path",
-                "href": "https://bump.sh/blog/how-to-use-json-path"
+                "title": "How hard can generating 1024-bit primes be?",
+                "href": "https://glitchcomet.com/articles/1024-bit-primes/"
             },
             {
                 "title": "Mexico\u2019s Floating Gardens Are an Ancient Wonder of Sustainable Farming",
                 "href": "https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/"
             },
             {
+                "title": "How to Use JSON Path",
+                "href": "https://bump.sh/blog/how-to-use-json-path"
+            },
+            {
                 "title": "A Minimal Model for Biological Evolution and Other Adaptive Processes",
                 "href": "https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/"
+            },
+            {
+                "title": "Evidence of price-fixing in the oil industry?",
+                "href": "https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused"
             },
             {
                 "title": "Fire for Water: A tribe in California is helping to reshape fire management",
@@ -907,8 +899,16 @@
                 "href": "https://boilermate.site/hot"
             },
             {
-                "title": "Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing",
-                "href": "https://www.darpa.mil/news-events/2024-05-01"
+                "title": "CO2 removal 'gap' shows countries 'lack progress' for 1.5C warming limit",
+                "href": "https://www.carbonbrief.org/co2-removal-gap-shows-countries-lack-progress-for-1-5c-warming-limit/"
+            },
+            {
+                "title": "Perimeter \u2013 Open-Source Real-Time Strategy Game",
+                "href": "https://github.com/KD-lab-Open-Source/Perimeter"
+            },
+            {
+                "title": "Ontario family doctor says new AI notetaking saved her job",
+                "href": "https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/"
             }
         ]
     }
