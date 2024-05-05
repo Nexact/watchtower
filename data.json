@@ -15,6 +15,10 @@
                 "href": "https://github.com/verus-lang/verus"
             },
             {
+                "title": "kvql: A SQL-like query language on general Key-Value DB",
+                "href": "https://github.com/c4pt0r/kvql"
+            },
+            {
                 "title": "Unveiling secrets of the ESP32 part 2: reverse engineering RX",
                 "href": "https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/"
             },
@@ -23,12 +27,12 @@
                 "href": "https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the"
             },
             {
-                "title": "kvql: A SQL-like query language on general Key-Value DB",
-                "href": "https://github.com/c4pt0r/kvql"
-            },
-            {
                 "title": "Daily driving KDE Plasma Mobile",
                 "href": "https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/"
+            },
+            {
+                "title": "Timeouts and cancellation for humans",
+                "href": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/"
             },
             {
                 "title": "How to Build a $20 Billion Semiconductor Fab",
@@ -59,16 +63,16 @@
                 "href": "https://rust-lang.github.io/rfcs/3503-frontmatter.html"
             },
             {
-                "title": "Timeouts and cancellation for humans",
-                "href": "https://vorpus.org/blog/timeouts-and-cancellation-for-humans/"
-            },
-            {
-                "title": "Rust for Fsharpers and F# for Rustaceans",
-                "href": "https://github.com/Dhghomon/rust-fsharp/blob/main/README.md"
+                "title": "Toolchain Necromancy: Past Mistakes Haunting ASLR",
+                "href": "https://grsecurity.net/toolchain_necromancy_past_mistakes_haunting_aslr"
             },
             {
                 "title": "Surfraw",
                 "href": "https://gitlab.com/surfraw/Surfraw"
+            },
+            {
+                "title": "Rust for Fsharpers and F# for Rustaceans",
+                "href": "https://github.com/Dhghomon/rust-fsharp/blob/main/README.md"
             },
             {
                 "title": "No, I don\u2019t want to fill out your contact form",
@@ -97,10 +101,6 @@
             {
                 "title": "Keep the logs for retrospective analysis",
                 "href": "https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs"
-            },
-            {
-                "title": "How are zlib, gzip and zip related?",
-                "href": "https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Some San Francisco Tech Workers are Renting Cheap 'Bed Pods'",
+                "href": "https://it.slashdot.org/story/24/05/05/1749244/some-san-francisco-tech-workers-are-renting-cheap-bed-pods?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "AI-Operated F-16 Jet Carries Air Force Official Into 550-MPH Aerial Combat Test",
                 "href": "https://news.slashdot.org/story/24/05/05/1630222/ai-operated-f-16-jet-carries-air-force-official-into-550-mph-aerial-combat-test?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Jack Dorsey's Block Is Investing 10% Of Its Bitcoin Profits Into Monthly Bitcoin Purchases",
                 "href": "https://slashdot.org/story/24/05/04/0356205/jack-dorseys-block-is-investing-10-of-its-bitcoin-profits-into-monthly-bitcoin-purchases?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "When a Politician Sues a Blog to Unmask Its Anonymous Commenter",
-                "href": "https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -787,11 +787,15 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "ESP32-S3 has (a few) SIMD instructions",
+                "title": "Monitoring energy usage with smart plugs, Prometheus and Grafana",
+                "href": "https://ounapuu.ee/posts/2024/05/02/smartplugs/"
+            },
+            {
+                "title": "ESP32-S3 has a few SIMD instructions",
                 "href": "https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html"
             },
             {
-                "title": "Machine unlearning: ML model minus the information to be unlearned",
+                "title": "Machine Unlearning in 2024",
                 "href": "https://ai.stanford.edu/~kzliu/blog/unlearning"
             },
             {
@@ -799,60 +803,96 @@
                 "href": "https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance"
             },
             {
-                "title": "Simplicity is an advantage but sadly complexity sells better (2022)",
-                "href": "https://eugeneyan.com/writing/simplicity/"
+                "title": "Stereogram Tutorial (2020)",
+                "href": "https://www.ime.usp.br/~otuyama/stereogram/basic/index.html"
             },
             {
                 "title": "Small Things",
                 "href": "https://rishad.substack.com/p/small-things"
             },
             {
-                "title": "My Home Server Journey \u2013 From Raspberry Pi to Ryzen",
-                "href": "https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html"
+                "title": "Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens",
+                "href": "https://arxiv.org/abs/2401.17377"
             },
             {
-                "title": "Stereogram Tutorial (2020)",
-                "href": "https://www.ime.usp.br/~otuyama/stereogram/basic/index.html"
+                "title": "Simplicity is an advantage but sadly complexity sells better (2022)",
+                "href": "https://eugeneyan.com/writing/simplicity/"
             },
             {
-                "title": "Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools",
+                "title": "Dick Rutan, co-pilot of historic round-the-world flight, has died",
+                "href": "https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85"
+            },
+            {
+                "title": "Infisical (YC W23) is hiring engineers to build open-source security devtools",
                 "href": "https://infisical.com/careers"
-            },
-            {
-                "title": "Good ideas in computer science",
-                "href": "https://danielchasehooper.com/posts/good-ideas-in-cs/"
-            },
-            {
-                "title": "Time-Based CSS Animations",
-                "href": "https://yuanchuan.dev/time-based-css-animations"
-            },
-            {
-                "title": "Automated integer hash function discovery",
-                "href": "https://github.com/skeeto/hash-prospector"
             },
             {
                 "title": "Turning AirPods into a fitness tracker",
                 "href": "https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/"
             },
             {
+                "title": "The robustness of some fossil leaf venation networks to simulated damage",
+                "href": "https://royalsocietypublishing.org/doi/10.1098/rsos.240086"
+            },
+            {
+                "title": "Map Machine: Python renderer for OpenStreetMap with custom icons",
+                "href": "https://github.com/enzet/map-machine"
+            },
+            {
+                "title": "What makes a translation great?",
+                "href": "https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in"
+            },
+            {
+                "title": "Xmake: A cross-platform build utility based on Lua",
+                "href": "https://github.com/xmake-io/xmake"
+            },
+            {
+                "title": "Befreak is a purely reversible two-dimensional programming language (2003)",
+                "href": "http://tunes.org/~iepos/befreak.html"
+            },
+            {
+                "title": "Data Science at the Command Line, 2nd Edition (2021)",
+                "href": "https://jeroenjanssens.com/dsatcl/"
+            },
+            {
                 "title": "Take a look at traefik, even if you don't use containers",
                 "href": "https://j6b72.de/article/why-you-should-take-a-look-at-traefik/"
             },
             {
-                "title": "Winged lions through time and space",
-                "href": "https://languagelog.ldc.upenn.edu/nll/?p=63820"
+                "title": "Recruiters are going analog to fight the AI application overload",
+                "href": "https://www.wired.com/story/recruiters-ai-application-overload/"
             },
             {
-                "title": "YC\u2019s founder-matching service helped medical records AI startup Hona",
-                "href": "https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/"
+                "title": "Time-Based CSS Animations",
+                "href": "https://yuanchuan.dev/time-based-css-animations"
             },
             {
-                "title": "Speeding up ELF relocations for store-based systems",
-                "href": "https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html"
+                "title": "Let insects eat your plants",
+                "href": "https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants"
+            },
+            {
+                "title": "Automated integer hash function discovery",
+                "href": "https://github.com/skeeto/hash-prospector"
+            },
+            {
+                "title": "Interview with Marian Rejewski, the first person to crack Enigma [video]",
+                "href": "https://www.flyingpenguin.com/?p=56989"
+            },
+            {
+                "title": "Beware of the Turing tar-pit (2004)",
+                "href": "http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html"
+            },
+            {
+                "title": "Deniable Encryption",
+                "href": "https://ayende.com/blog/200993-C/deniable-encryption"
             },
             {
                 "title": "Building a social network from scratch on a whiteboard",
                 "href": "https://xeiaso.net/talks/2024/shashin/"
+            },
+            {
+                "title": "Plotille: Plot in the terminal using Braille dots",
+                "href": "https://github.com/tammoippen/plotille"
             },
             {
                 "title": "The Sisyphean struggle and the new era of data infrastructure",
@@ -863,48 +903,8 @@
                 "href": "https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html"
             },
             {
-                "title": "Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85",
-                "href": "https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85"
-            },
-            {
-                "title": "Cylon: JavaScript framework for robotics, drones, and the Internet of Things",
-                "href": "https://github.com/hybridgroup/cylon"
-            },
-            {
-                "title": "The Runners Who Went So Hard They Were Never the Same",
-                "href": "https://www.outsideonline.com/podcast/overtraining-syndrome-science/"
-            },
-            {
-                "title": "Atari's Mike Jang",
-                "href": "https://arcadeblogger.com/2024/02/13/ataris-mike-jang/"
-            },
-            {
-                "title": "Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network",
-                "href": "https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/"
-            },
-            {
-                "title": "Vera Rubin's primary mirror gets its first reflective coating",
-                "href": "https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/"
-            },
-            {
-                "title": "Xmake: A cross-platform build utility based on Lua",
-                "href": "https://github.com/xmake-io/xmake"
-            },
-            {
-                "title": "Deniable Encryption",
-                "href": "https://ayende.com/blog/200993-C/deniable-encryption"
-            },
-            {
-                "title": "Debian 64-bit-time transition",
-                "href": "https://wiki.debian.org/ReleaseGoals/64bit-time"
-            },
-            {
-                "title": "New scanning electron microscope tech sees magnetic field with 100nm resolution",
-                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984"
-            },
-            {
-                "title": "Show HN: gpudeploy.com \u2013 \"Airbnb\" for GPUs",
-                "href": "https://www.gpudeploy.com"
+                "title": "YC\u2019s founder-matching service helped medical records AI startup Hona",
+                "href": "https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/"
             }
         ]
     }
