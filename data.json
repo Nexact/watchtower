@@ -15,6 +15,10 @@
                 "href": "https://lobste.rs/s/mj48ey/what_are_you_doing_this_week"
             },
             {
+                "title": "Re-implementing the Nix protocol in Rust",
+                "href": "https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/"
+            },
+            {
                 "title": "Pair Your Compilers At The ABI Caf\u00e9",
                 "href": "https://faultlore.com/blah/abi-puns/"
             },
@@ -23,8 +27,12 @@
                 "href": "https://b.tuxes.uk/avoiding-emacs-bankruptcy.html"
             },
             {
-                "title": "Re-implementing the Nix protocol in Rust",
-                "href": "https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/"
+                "title": "Lila: a Lil Interpreter in Awk",
+                "href": "https://beyondloom.com/blog/lila.html"
+            },
+            {
+                "title": "Using age with org-journal",
+                "href": "https://edmundmiller.dev/posts/org-journal-age/"
             },
             {
                 "title": "Heat Death of the Internet",
@@ -43,40 +51,32 @@
                 "href": "https://sammohr.dev/blog/announcing-weaver"
             },
             {
-                "title": "Encore for TypeScript",
-                "href": "https://encore.dev/blog/encore-for-typescript"
-            },
-            {
                 "title": "The C++ Iceberg",
                 "href": "https://fouronnes.github.io/cppiceberg/"
-            },
-            {
-                "title": "Lila: a Lil Interpreter in Awk",
-                "href": "https://beyondloom.com/blog/lila.html"
             },
             {
                 "title": "Exporting YouTube Subscriptions to OPML and Watching via RSS",
                 "href": "https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/"
             },
             {
-                "title": "A history of CLU",
-                "href": "http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf"
+                "title": "Encore for TypeScript",
+                "href": "https://encore.dev/blog/encore-for-typescript"
             },
             {
                 "title": "Modernizing accessibility for desktop Linux",
                 "href": "https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/"
             },
             {
-                "title": "I survived curl up 2024 (conference talks)",
-                "href": "https://daniel.haxx.se/blog/2024/05/06/i-survived-curl-up-2024/"
+                "title": "A history of CLU",
+                "href": "http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf"
             },
             {
                 "title": "How to rewrite a C++ codebase successfully",
                 "href": "https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html"
             },
             {
-                "title": "Using age with org-journal",
-                "href": "https://edmundmiller.dev/posts/org-journal-age/"
+                "title": "I survived curl up 2024 (conference talks)",
+                "href": "https://daniel.haxx.se/blog/2024/05/06/i-survived-curl-up-2024/"
             },
             {
                 "title": "Constraining Go type parameter pointers",
@@ -116,12 +116,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1clima5/llm_pentest_leveraging_agent_integration_for_rce/"
             },
             {
-                "title": "Malware Analysis Blog(Formbook info stealer analysis)",
-                "href": "https://www.reddit.com/r/netsec/comments/1cl7zjt/malware_analysis_blogformbook_info_stealer/"
-            },
-            {
                 "title": "Burpscript - Python3/JavaScript scripting support for Burp",
                 "href": "https://www.reddit.com/r/netsec/comments/1clovgx/burpscript_python3javascript_scripting_support/"
+            },
+            {
+                "title": "Malware Analysis Blog(Formbook info stealer analysis)",
+                "href": "https://www.reddit.com/r/netsec/comments/1cl7zjt/malware_analysis_blogformbook_info_stealer/"
             },
             {
                 "title": "pcap-did-what: Analyze pcaps with Zeek and a Grafana Dashboard",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Google is Changing How You Set Up 2FA",
+                "href": "https://it.slashdot.org/story/24/05/06/1841237/google-is-changing-how-you-set-up-2fa?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "40,000 AI-Narrated Audiobooks Flood Audible",
                 "href": "https://slashdot.org/story/24/05/06/1720210/40000-ai-narrated-audiobooks-flood-audible?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Could Better Data Protections Reduce Big Tech's Polarizing Power?",
                 "href": "https://tech.slashdot.org/story/24/05/05/2016246/could-better-data-protections-reduce-big-techs-polarizing-power?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Some San Francisco Tech Workers are Renting Cheap 'Bed Pods'",
-                "href": "https://it.slashdot.org/story/24/05/05/1749244/some-san-francisco-tech-workers-are-renting-cheap-bed-pods?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,24 +791,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Alternative clouds are booming as companies seek cheaper access to GPUs",
-                "href": "https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/"
-            },
-            {
-                "title": "Results of the Grand C++ Error Explosion Competition",
+                "title": "Results of the Grand C++ Error Explosion Competition (2014)",
                 "href": "https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion"
             },
             {
-                "title": "PiFex: JTAG Hacking with a Raspberry Pi",
-                "href": "https://voidstarsec.com/blog/jtag-pifex"
+                "title": "Alternative clouds are booming as companies seek cheaper access to GPUs",
+                "href": "https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/"
             },
             {
                 "title": "Show HN: A free site to explore and discover 6k plants",
                 "href": "https://www.getanyplant.com/plants"
             },
             {
-                "title": "Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection",
-                "href": "https://www.science.org/doi/10.1126/sciadv.adl2524"
+                "title": "PiFex: JTAG Hacking with a Raspberry Pi",
+                "href": "https://voidstarsec.com/blog/jtag-pifex"
+            },
+            {
+                "title": "New way to have complex discussions",
+                "href": "https://cq2.co/blog/the-best-way-to-have-complex-discussions"
             },
             {
                 "title": "Visiting the annual Braun collectors fair",
@@ -819,8 +819,12 @@
                 "href": "item?id=40276768"
             },
             {
-                "title": "Spending an afternoon in the Sizewell control-room simulator",
-                "href": "https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html"
+                "title": "Volcanoes and Us (2015) [video]",
+                "href": "https://www.youtube.com/watch?v=GlNhaAV5NZ4"
+            },
+            {
+                "title": "Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection",
+                "href": "https://www.science.org/doi/10.1126/sciadv.adl2524"
             },
             {
                 "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
@@ -831,52 +835,44 @@
                 "href": "http://www.os2museum.com/wp/learn-something-old-every-day-part-x-the-vga-attribute-controller-is-weird/"
             },
             {
-                "title": "Volcanoes and Us (2015) [video]",
-                "href": "https://www.youtube.com/watch?v=GlNhaAV5NZ4"
-            },
-            {
-                "title": "Color Concepts 101 (2001) [pdf]",
-                "href": "https://developers.hp.com/system/files/Color_Concepts_101_0.pdf"
-            },
-            {
-                "title": "Ask HN: How to do simple heartbeat monitoring?",
-                "href": "item?id=40276687"
-            },
-            {
-                "title": "Daniel Dennett: 'Where Am I?'",
-                "href": "https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/"
-            },
-            {
-                "title": "German public broadcasters open source their streaming platforms",
-                "href": "https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html"
-            },
-            {
-                "title": "MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]",
-                "href": "https://www.youtube.com/watch?v=dqoEU9Ac3ek"
+                "title": "Spending an afternoon in the Sizewell control-room simulator",
+                "href": "https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html"
             },
             {
                 "title": "Clojure: Managing throughput with virtual threads",
                 "href": "https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html"
             },
             {
-                "title": "Show HN: Touvlo \u2013 Technical Interviewing for Hardware Engineers (By Humans)",
-                "href": "https://touvlo.co"
-            },
-            {
-                "title": "Patagonia's New Study Finds Fleece Jackets Are a Serious Pollutant (2016)",
-                "href": "https://www.outsideonline.com/outdoor-gear/gear-news/patagonias-new-study-finds-fleece-jackets-are-serious-pollutant/"
-            },
-            {
-                "title": "The Art of Using Notepad in App Development",
-                "href": "https://medium.com/@gmobile2022/the-art-of-using-notepad-in-app-development-5d1e163913d4"
-            },
-            {
-                "title": "Show HN: Kubernates in Node.js",
-                "href": "https://github.com/Megapixel99/nodejs-k8s"
+                "title": "Color Concepts 101 (2001) [pdf]",
+                "href": "https://developers.hp.com/system/files/Color_Concepts_101_0.pdf"
             },
             {
                 "title": "Nukefix: Simulating your nuclear weapons program",
                 "href": "http://www.nukefix.org/nukepix.html"
+            },
+            {
+                "title": "German public broadcasters open source their streaming platforms",
+                "href": "https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html"
+            },
+            {
+                "title": "Gas and propane stoves linked to 50k cases of childhood asthma, study finds",
+                "href": "https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241"
+            },
+            {
+                "title": "A useful productivity measure?",
+                "href": "https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure"
+            },
+            {
+                "title": "Project AZORIAN",
+                "href": "https://www.cia.gov/legacy/museum/exhibit/project-azorian/"
+            },
+            {
+                "title": "Show HN: Touvlo \u2013 Technical Interviewing for Hardware Engineers (By Humans)",
+                "href": "https://touvlo.co"
+            },
+            {
+                "title": "World Food Atlas: Discover local dishes and ingredients",
+                "href": "https://www.tasteatlas.com/map"
             },
             {
                 "title": "Remnants of a legendary typeface have been rescued from the Thames",
@@ -887,10 +883,6 @@
                 "href": "https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/"
             },
             {
-                "title": "A useful productivity measure?",
-                "href": "https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure"
-            },
-            {
                 "title": "With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er",
                 "href": "http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html"
             },
@@ -899,16 +891,24 @@
                 "href": "https://github.com/ExistentialAudio/BlackHole"
             },
             {
-                "title": "World Food Atlas: Discover local dishes and ingredients",
-                "href": "https://www.tasteatlas.com/map"
+                "title": "Ask HN: How to do simple heartbeat monitoring?",
+                "href": "item?id=40276687"
             },
             {
-                "title": "Project AZORIAN",
-                "href": "https://www.cia.gov/legacy/museum/exhibit/project-azorian/"
+                "title": "How I think about debt",
+                "href": "https://collabfund.com/blog/how-i-think-about-debt/"
+            },
+            {
+                "title": "A High-Level Technical Overview of Homomorphic Encryption",
+                "href": "https://www.jeremykun.com/2024/05/04/fhe-overview/"
             },
             {
                 "title": "Thorn in a HaizeStack test for evaluating long-context adversarial robustness",
                 "href": "https://github.com/haizelabs/thorn-in-haizestack"
+            },
+            {
+                "title": "Daniel Dennett: 'Where Am I?'",
+                "href": "https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/"
             }
         ]
     }
