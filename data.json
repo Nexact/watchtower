@@ -11,6 +11,10 @@
                 "href": "https://www.youtube.com/watch?v=QGpZl23vXbw"
             },
             {
+                "title": "Using an LLM for text compression",
+                "href": "https://blog.cleverdomain.org/using-an-llm-for-text-compression"
+            },
+            {
                 "title": "Dillo release 3.1.0",
                 "href": "https://dillo-browser.github.io/latest.html"
             },
@@ -23,20 +27,28 @@
                 "href": "https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/"
             },
             {
-                "title": "Unveiling secrets of the ESP32 part 2: reverse engineering RX",
-                "href": "https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/"
+                "title": "Announcing Weaver: An ergonomic CLI parsing library for Roc lang",
+                "href": "https://sammohr.dev/blog/announcing-weaver"
+            },
+            {
+                "title": "Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens",
+                "href": "https://arxiv.org/abs/2401.17377"
             },
             {
                 "title": "verus: Verified Rust for low-level systems code",
                 "href": "https://github.com/verus-lang/verus"
             },
             {
-                "title": "Why Full Text Search is Hard",
-                "href": "https://transactional.blog/blog/2023-why-full-text-search-is-hard"
+                "title": "Unveiling secrets of the ESP32 part 2: reverse engineering RX",
+                "href": "https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/"
             },
             {
-                "title": "Announcing Weaver: An ergonomic CLI parsing library for Roc lang",
-                "href": "https://sammohr.dev/blog/announcing-weaver"
+                "title": "The C++ Iceberg",
+                "href": "https://fouronnes.github.io/cppiceberg/"
+            },
+            {
+                "title": "Why Full Text Search is Hard",
+                "href": "https://transactional.blog/blog/2023-why-full-text-search-is-hard"
             },
             {
                 "title": "X.Org on NetBSD - the state of things",
@@ -47,10 +59,6 @@
                 "href": "https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math"
             },
             {
-                "title": "Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens",
-                "href": "https://arxiv.org/abs/2401.17377"
-            },
-            {
                 "title": "Speeding up ELF relocations for store-based systems",
                 "href": "https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html"
             },
@@ -59,8 +67,12 @@
                 "href": "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor"
             },
             {
-                "title": "The C++ Iceberg",
-                "href": "https://fouronnes.github.io/cppiceberg/"
+                "title": "Decoding UTF8 with Parallel Extract",
+                "href": "https://nrk.neocities.org/articles/utf8-pext"
+            },
+            {
+                "title": "A History of C Compilers, Part 1: Performance, Portability and Freedom",
+                "href": "https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance"
             },
             {
                 "title": "Toolchain Necromancy: Past Mistakes Haunting ASLR",
@@ -89,18 +101,6 @@
             {
                 "title": "Bit-Stealing Made Legal",
                 "href": "https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf"
-            },
-            {
-                "title": "Rust RFC 3503 - frontmatter",
-                "href": "https://rust-lang.github.io/rfcs/3503-frontmatter.html"
-            },
-            {
-                "title": "Supply chain attacks and the many different ways I've backdoored your dependencies",
-                "href": "https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks"
-            },
-            {
-                "title": "Surfraw",
-                "href": "https://gitlab.com/surfraw/Surfraw"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Scientists Find a 'Missing Link' Between Poor Diet and Higher Cancer Risk",
+                "href": "https://science.slashdot.org/story/24/05/05/2333251/scientists-find-a-missing-link-between-poor-diet-and-higher-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft's 'Responsible AI' Chief Worries About the Open Web",
                 "href": "https://slashdot.org/story/24/05/05/0527224/microsofts-responsible-ai-chief-worries-about-the-open-web?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "U.S. Seeks to Build World Pressure on Russia Over Space Nuclear Weapon",
                 "href": "https://science.slashdot.org/story/24/05/04/225252/us-seeks-to-build-world-pressure-on-russia-over-space-nuclear-weapon?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Multinational ISP Offers $206M In Secured Notes Backed By IPv4 Addresses",
-                "href": "https://tech.slashdot.org/story/24/05/04/2122251/multinational-isp-offers-206m-in-secured-notes-backed-by-ipv4-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -787,10 +787,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Bollards: Why and What",
-                "href": "https://josh.works/bollards"
-            },
-            {
                 "title": "Social engineering takeovers of open source projects",
                 "href": "https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/"
             },
@@ -799,20 +795,28 @@
                 "href": "https://github.com/alessiodm/drl-zh"
             },
             {
-                "title": "Monitoring energy usage with smart plugs, Prometheus and Grafana",
-                "href": "https://ounapuu.ee/posts/2024/05/02/smartplugs/"
-            },
-            {
-                "title": "Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)",
-                "href": "https://pomax.github.io/are-we-flying/"
+                "title": "Bollards: Why and What",
+                "href": "https://josh.works/bollards"
             },
             {
                 "title": "X.org on NetBSD \u2013 The State of Things",
                 "href": "https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the"
             },
             {
+                "title": "Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)",
+                "href": "https://pomax.github.io/are-we-flying/"
+            },
+            {
+                "title": "Monitoring energy usage with smart plugs, Prometheus and Grafana",
+                "href": "https://ounapuu.ee/posts/2024/05/02/smartplugs/"
+            },
+            {
                 "title": "Designing furniture using the CSS grid (2023)",
                 "href": "https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html"
+            },
+            {
+                "title": "Drug resistant bacteria found on ISS mutating to become functionally distinct",
+                "href": "https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/"
             },
             {
                 "title": "Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens",
@@ -835,76 +839,72 @@
                 "href": "https://ai.stanford.edu/~kzliu/blog/unlearning"
             },
             {
-                "title": "Microsoft CTO: Thoughts on OpenAI (2019)",
-                "href": "https://twitter.com/techemails/status/1787176471146156193"
+                "title": "A mostly complete guide to React rendering behavior (2020)",
+                "href": "https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/"
             },
             {
                 "title": "Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]",
                 "href": "https://www.flyingpenguin.com/?p=56989"
             },
             {
+                "title": "Microsoft CTO: Thoughts on OpenAI (2019)",
+                "href": "https://twitter.com/techemails/status/1787176471146156193"
+            },
+            {
+                "title": "Plotille: Plot in the terminal using Braille dots",
+                "href": "https://github.com/tammoippen/plotille"
+            },
+            {
                 "title": "Turning AirPods into a fitness tracker",
                 "href": "https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/"
-            },
-            {
-                "title": "A mostly complete guide to React rendering behavior (2020)",
-                "href": "https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/"
-            },
-            {
-                "title": "Map Machine: Python renderer for OpenStreetMap with custom icons",
-                "href": "https://github.com/enzet/map-machine"
-            },
-            {
-                "title": "Identifiers are better off without meaning",
-                "href": "https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html"
             },
             {
                 "title": "MIT abandons requirement of DEI statements for hiring and promotions",
                 "href": "https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/"
             },
             {
-                "title": "A History of C Compilers \u2013 Part 1: Performance, Portability and Freedom",
-                "href": "https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance"
+                "title": "Simplicity is an advantage but sadly complexity sells better (2022)",
+                "href": "https://eugeneyan.com/writing/simplicity/"
+            },
+            {
+                "title": "Take a look at Traefik, even if you don't use containers",
+                "href": "https://j6b72.de/article/why-you-should-take-a-look-at-traefik/"
             },
             {
                 "title": "Infisical (YC W23) is hiring engineers to build open-source security devtools",
                 "href": "https://infisical.com/careers"
             },
             {
-                "title": "Beware of the Turing tar-pit (2004)",
-                "href": "http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html"
+                "title": "Map Machine: Python renderer for OpenStreetMap with custom icons",
+                "href": "https://github.com/enzet/map-machine"
+            },
+            {
+                "title": "A History of C Compilers \u2013 Part 1: Performance, Portability and Freedom",
+                "href": "https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance"
+            },
+            {
+                "title": "Small Things",
+                "href": "https://rishad.substack.com/p/small-things"
             },
             {
                 "title": "Data Science at the Command Line, 2nd Edition (2021)",
                 "href": "https://jeroenjanssens.com/dsatcl/"
             },
             {
-                "title": "The Trouble with Soho",
-                "href": "https://www.edwest.co.uk/p/the-trouble-with-soho"
+                "title": "Beware of the Turing tar-pit (2004)",
+                "href": "http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html"
             },
             {
                 "title": "Decoding UTF8 with parallel extract",
                 "href": "https://nrk.neocities.org/articles/utf8-pext"
             },
             {
-                "title": "What's bad about this habit (2009) [pdf]",
-                "href": "https://www.ehu.eus/aitor/irakas/mes/Reference/mermin.pdf"
-            },
-            {
                 "title": "Israel shuts down local Al Jazeera offices",
                 "href": "https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media"
             },
             {
-                "title": "North Yorkshire Council to phase out apostrophe use on street signs",
-                "href": "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321"
-            },
-            {
-                "title": "Variations on the theme of silence",
-                "href": "https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/"
-            },
-            {
-                "title": "Using a LLM to compress text",
-                "href": "https://o565.com/llm-text-compression/"
+                "title": "The Trouble with Soho",
+                "href": "https://www.edwest.co.uk/p/the-trouble-with-soho"
             }
         ]
     }
