@@ -19,6 +19,10 @@
                 "href": "https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims"
             },
             {
+                "title": "We're moving continuous integration back to developer machines",
+                "href": "https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611"
+            },
+            {
                 "title": "Modernizing accessibility for desktop Linux",
                 "href": "https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/"
             },
@@ -35,12 +39,12 @@
                 "href": "https://edmundmiller.dev/posts/org-journal-age/"
             },
             {
-                "title": "We're moving continuous integration back to developer machines",
-                "href": "https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611"
-            },
-            {
                 "title": "Re-implementing the Nix protocol in Rust",
                 "href": "https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/"
+            },
+            {
+                "title": "Supporting RISC-V Performance Counters for Linux Perf (2021)",
+                "href": "https://arxiv.org/abs/2112.11767"
             },
             {
                 "title": "Running NetBSD on OmniOS using bhyve",
@@ -67,12 +71,12 @@
                 "href": "https://lobste.rs/s/mj48ey/what_are_you_doing_this_week"
             },
             {
-                "title": "Supporting RISC-V Performance Counters for Linux Perf (2021)",
-                "href": "https://arxiv.org/abs/2112.11767"
-            },
-            {
                 "title": "Building a hypervisor, 2: Booting Linux",
                 "href": "https://iovec.net/2024-05-06"
+            },
+            {
+                "title": "Why bother with Scripting? (2021)",
+                "href": "https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1"
             },
             {
                 "title": "Generating VST Plugins With ChatGPT",
@@ -93,10 +97,6 @@
             {
                 "title": "Introducing SecureDrop Protocol",
                 "href": "https://securedrop.org/news/introducing-securedrop-protocol"
-            },
-            {
-                "title": "Why bother with Scripting? (2021)",
-                "href": "https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1"
             },
             {
                 "title": "What is in a Rust Allocator?",
@@ -791,8 +791,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Google Fit APIs get shut down in 2025, might break fitness devices",
-                "href": "https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/"
+                "title": "Caniwebview.com \u2013 Like Caniuse but for Webviews",
+                "href": "https://caniwebview.com/"
+            },
+            {
+                "title": "Pyspread \u2013 The Most Pythonic Spreadsheet",
+                "href": "https://pyspread.gitlab.io/"
             },
             {
                 "title": "Caniemail.com \u2013 like caniuse but for email content",
@@ -803,8 +807,20 @@
                 "href": "https://www.industrialempathy.com/posts/design-docs-at-google/"
             },
             {
+                "title": "Dotfiles: Unofficial Guide to Dotfiles on GitHub",
+                "href": "https://dotfiles.github.io/"
+            },
+            {
                 "title": "Secure Randomness in Go 1.22",
                 "href": "https://go.dev/blog/chacha8rand?hn=1"
+            },
+            {
+                "title": "PermitFlow (YC W22) Is Hiring Software Engineers",
+                "href": "https://jobs.ashbyhq.com/permitflow"
+            },
+            {
+                "title": "What Is in a Rust Allocator?",
+                "href": "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
             },
             {
                 "title": "Attackers can decloak routing-based VPNs",
@@ -815,48 +831,40 @@
                 "href": "https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/"
             },
             {
-                "title": "What Is in a Rust Allocator?",
-                "href": "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
-            },
-            {
-                "title": "How Python asyncio works: recreating it from scratch",
-                "href": "https://jacobpadilla.com/articles/recreating-asyncio"
+                "title": "Novel attack against virtually all VPN apps neuters their entire purpose",
+                "href": "https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/"
             },
             {
                 "title": "A book Stanley Kubrick didn\u2019t want anyone to read is being published",
                 "href": "https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published"
             },
             {
-                "title": "The best way to have complex discussions?",
-                "href": "https://cq2.co/blog/the-best-way-to-have-complex-discussions"
-            },
-            {
-                "title": "Novel attack against virtually all VPN apps neuters their entire purpose",
-                "href": "https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/"
-            },
-            {
-                "title": "CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs",
-                "href": "https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager"
-            },
-            {
-                "title": "Symmetry",
-                "href": "http://theprogrammersparadox.blogspot.com/2024/05/symmetry.html"
+                "title": "How Python asyncio works: recreating it from scratch",
+                "href": "https://jacobpadilla.com/articles/recreating-asyncio"
             },
             {
                 "title": "Decompiling Hyper-V Manager to rebuild it from source",
                 "href": "https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/"
             },
             {
+                "title": "Microsoft Working on 'Far Larger' In-House AI Model",
+                "href": "https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/"
+            },
+            {
+                "title": "Symmetry",
+                "href": "http://theprogrammersparadox.blogspot.com/2024/05/symmetry.html"
+            },
+            {
                 "title": "TOTP Authenticator for PalmOS",
                 "href": "https://www.nkorth.com/palm/apps/#totp-authenticator"
             },
             {
-                "title": "GCC 14.1",
-                "href": "https://gcc.gnu.org/gcc-14/"
+                "title": "The best way to have complex discussions?",
+                "href": "https://cq2.co/blog/the-best-way-to-have-complex-discussions"
             },
             {
-                "title": "An infinite canvas for code exploration",
-                "href": "https://territory.dev"
+                "title": "GCC 14.1",
+                "href": "https://gcc.gnu.org/gcc-14/"
             },
             {
                 "title": "A 100x speedup with unsafe Python",
@@ -867,6 +875,10 @@
                 "href": "https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion"
             },
             {
+                "title": "An infinite canvas for code exploration",
+                "href": "https://territory.dev"
+            },
+            {
                 "title": "Visiting the annual Braun collectors fair",
                 "href": "https://arslan.io/2024/05/05/braun-borse-2024/"
             },
@@ -875,40 +887,28 @@
                 "href": "https://www.tasteatlas.com/map"
             },
             {
-                "title": "Async Channels for Swift Concurrency",
-                "href": "https://github.com/gh123man/Async-Channels"
+                "title": "Array.shift Optimizations in Firefox's JavaScript Engine (2020)",
+                "href": "https://lannonbr.com/blog/2020-01-27-shift-optimizations/"
             },
             {
-                "title": "Faster XML Stream Processing in Go (2019)",
-                "href": "https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/"
+                "title": "Google Fit APIs get shut down in 2025, might break fitness devices",
+                "href": "https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/"
             },
             {
                 "title": "PiFex: JTAG Hacking with a Raspberry Pi",
                 "href": "https://voidstarsec.com/blog/jtag-pifex"
             },
             {
-                "title": "Array.shift Optimizations in Firefox's JavaScript Engine (2020)",
-                "href": "https://lannonbr.com/blog/2020-01-27-shift-optimizations/"
+                "title": "Async Channels for Swift Concurrency",
+                "href": "https://github.com/gh123man/Async-Channels"
             },
             {
                 "title": "Proton Mail discloses user data leading to arrest in Spain",
                 "href": "https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/"
             },
             {
-                "title": "How do birds flock? Research reveals previously unknown aerodynamic phenomenon",
-                "href": "https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html"
-            },
-            {
-                "title": "Nukefix: Simulating your nuclear weapons program",
-                "href": "http://www.nukefix.org/nukepix.html"
-            },
-            {
-                "title": "Utilities for refactoring and upgrading Ruby code based on ASTs",
-                "href": "https://github.com/baweaver/refactor"
-            },
-            {
-                "title": "Show HN: Peerdb Streams \u2013 Simple, native Postgres change data capture",
-                "href": "item?id=40276768"
+                "title": "Faster XML Stream Processing in Go (2019)",
+                "href": "https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/"
             }
         ]
     }
