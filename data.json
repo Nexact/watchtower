@@ -51,28 +51,32 @@
                 "href": "https://www.rfc-editor.org/rfc/rfc9562.html"
             },
             {
-                "title": "Log scales",
-                "href": "https://briefer.cloud/blog/posts/logarithms/"
+                "title": "Rust through the ages",
+                "href": "https://www.ncameron.org/blog/rust-through-the-ages/"
             },
             {
                 "title": "Undue base URL influence",
                 "href": "https://annevankesteren.nl/2024/05/undue-base-url-influence"
             },
             {
-                "title": "Zed Decoded: Linux when?",
-                "href": "https://zed.dev/blog/zed-decoded-linux-when"
+                "title": "Log scales",
+                "href": "https://briefer.cloud/blog/posts/logarithms/"
             },
             {
-                "title": "Rust through the ages",
-                "href": "https://www.ncameron.org/blog/rust-through-the-ages/"
-            },
-            {
-                "title": "Serverless Runtime / Database Co-Design With Asynchronous I/O",
-                "href": "https://penberg.org/papers/penberg-edgesys24.pdf"
+                "title": "Test Failures Should Be Actionable",
+                "href": "https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html"
             },
             {
                 "title": "Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked",
                 "href": "https://www.highlight.io/blog/lw5-clickhouse-performance-optimization"
+            },
+            {
+                "title": "Zed Decoded: Linux when?",
+                "href": "https://zed.dev/blog/zed-decoded-linux-when"
+            },
+            {
+                "title": "Serverless Runtime / Database Co-Design With Asynchronous I/O",
+                "href": "https://penberg.org/papers/penberg-edgesys24.pdf"
             },
             {
                 "title": "FreeBSD Journal - 2024/03-04 - Development Workflow and CI",
@@ -81,6 +85,10 @@
             {
                 "title": "Apple Event for May 7th, 2024",
                 "href": "https://www.apple.com/apple-events/"
+            },
+            {
+                "title": "Getting a scanner to work over iSCSI",
+                "href": "https://sprocketfox.io/xssfox/2024/05/08/jbos/"
             },
             {
                 "title": "The problems with test levels (2022)",
@@ -93,14 +101,6 @@
             {
                 "title": "Needle: A DFA Based Regex Library that Compiles to JVM  ByteCode",
                 "href": "https://justinblank.com/experiments/needle.html"
-            },
-            {
-                "title": "Execa 9: our biggest release",
-                "href": "https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f"
-            },
-            {
-                "title": "Getting a scanner to work over iSCSI",
-                "href": "https://sprocketfox.io/xssfox/2024/05/08/jbos/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "University System of Georgia: 800K exposed in 2023 MOVEit attack",
+                "href": "https://www.bleepingcomputer.com/news/security/university-system-of-georgia-800k-exposed-in-2023-moveit-attack/"
+            },
+            {
                 "title": "Ascension healthcare takes systems offline after cyberattack",
                 "href": "https://www.bleepingcomputer.com/news/security/ascension-healthcare-takes-systems-offline-after-cyberattack/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "New attack leaks VPN traffic using rogue DHCP servers",
                 "href": "https://www.bleepingcomputer.com/news/security/new-tunnelvision-attack-leaks-vpn-traffic-using-rogue-dhcp-servers/"
-            },
-            {
-                "title": "Over 50,000 Tinyproxy servers vulnerable to critical RCE flaw",
-                "href": "https://www.bleepingcomputer.com/news/security/over-50-000-tinyproxy-servers-vulnerable-to-critical-rce-flaw/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "FCC Explicitly Prohibits Fast Lanes, Closing Possible Net Neutrality Loophole",
+                "href": "https://tech.slashdot.org/story/24/05/08/2033216/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Smart Home Startup Brilliant Runs Out of Cash, Which Could Mean Lights Out For Its Light Switches",
                 "href": "https://tech.slashdot.org/story/24/05/08/2019248/smart-home-startup-brilliant-runs-out-of-cash-which-could-mean-lights-out-for-its-light-switches?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Heat Waves In North Pacific May Be Due To China Reducing Aerosols",
                 "href": "https://news.slashdot.org/story/24/05/08/0255242/heat-waves-in-north-pacific-may-be-due-to-china-reducing-aerosols?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Renewable Energy Passes 30% of World's Electricity Supply",
-                "href": "https://hardware.slashdot.org/story/24/05/08/0243217/renewable-energy-passes-30-of-worlds-electricity-supply?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -803,60 +803,72 @@
                 "href": "https://secretnyc.co/the-portal-connecting-nyc-to-dublin/"
             },
             {
+                "title": "English learners can now practice speaking on Google Search",
+                "href": "https://research.google/blog/english-learners-can-now-practice-speaking-on-search/"
+            },
+            {
                 "title": "How to Use the Foreign Function API in Java 22 to Call C Libraries",
                 "href": "https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/"
-            },
-            {
-                "title": "I'm puzzled how anyone trusts ChatGPT for code",
-                "href": "item?id=40302698"
-            },
-            {
-                "title": "Development Notes from xkcd's \"Machine\"",
-                "href": "https://chromakode.com/post/xkcd-machine/"
-            },
-            {
-                "title": "Empirical Health (YC S23) is hiring engineering leads in NYC",
-                "href": "https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead"
-            },
-            {
-                "title": "TimesFM: Time Series Foundation Model for time-series forecasting",
-                "href": "https://github.com/google-research/timesfm"
             },
             {
                 "title": "Show HN: I built a non-linear UI for ChatGPT",
                 "href": "https://www.grafychat.com"
             },
             {
+                "title": "TimesFM: Time Series Foundation Model for time-series forecasting",
+                "href": "https://github.com/google-research/timesfm"
+            },
+            {
+                "title": "Empirical Health (YC S23) is hiring engineering leads in NYC",
+                "href": "https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead"
+            },
+            {
+                "title": "A Scientific Run-Down of Coffee Blooming",
+                "href": "https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133"
+            },
+            {
+                "title": "Development Notes from xkcd's \"Machine\"",
+                "href": "https://chromakode.com/post/xkcd-machine/"
+            },
+            {
                 "title": "Show HN: AI climbing coach \u2013 visualize how to climb any route based on your body",
                 "href": "https://climbing.ai/"
+            },
+            {
+                "title": "Microscopic heart vessels imaged in super-resolution for first time",
+                "href": "https://www.imperial.ac.uk/news/253118/microscopic-heart-vessels-imaged-superresolution-first/"
             },
             {
                 "title": "The Waning Reign of the Muskrat",
                 "href": "https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/"
             },
             {
-                "title": "Using AirPods as a Morse Transmitter",
-                "href": "https://github.com/EtherDream/headphone-morse-transmitter"
+                "title": "Industrial Design Student Work: \"How Long Should Objects Last?\"",
+                "href": "https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last"
             },
             {
-                "title": "Steve Albini has died",
-                "href": "https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/"
+                "title": "Using AirPods as a Morse Transmitter",
+                "href": "https://github.com/EtherDream/headphone-morse-transmitter"
             },
             {
                 "title": "Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression",
                 "href": "https://github.com/google/zimtohrli"
             },
             {
+                "title": "OpenAI: Model Spec",
+                "href": "https://openai.com/index/introducing-the-model-spec"
+            },
+            {
+                "title": "Steve Albini has died",
+                "href": "https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/"
+            },
+            {
                 "title": "Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)",
                 "href": "https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/"
             },
             {
-                "title": "Stack Overflow Upset over Users Deleting Answers After OpenAI Partnership",
-                "href": "https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/"
-            },
-            {
-                "title": "OpenAI: Model Spec",
-                "href": "https://openai.com/index/introducing-the-model-spec"
+                "title": "I'm puzzled how anyone trusts ChatGPT for code",
+                "href": "item?id=40302698"
             },
             {
                 "title": "Ointers: A library for representing pointers where bits have been stolen (2021)",
@@ -871,44 +883,32 @@
                 "href": "https://newatlas.com/marine/seabike-swimming-propeller/"
             },
             {
-                "title": "Just a Bunch of Scanners (JBOS?)",
-                "href": "https://sprocketfox.io/xssfox/2024/05/08/jbos/"
-            },
-            {
-                "title": "Pair Your Compilers at the ABI Caf\u00e9",
-                "href": "https://faultlore.com/blah/abi-puns/"
+                "title": "Barbara van Schewick's initial analysis of the FCC's 2024 open internet order",
+                "href": "https://cyberlaw.stanford.edu/blog/2024/05/initial-analysis-fccs-2024-open-internet-order"
             },
             {
                 "title": "Launch HN: Baselit (YC W23) \u2013 Automatically Reduce Snowflake Costs",
                 "href": "item?id=40299556"
             },
             {
-                "title": "Adumbra: A lightweight Java library for bitmap steganography",
-                "href": "https://github.com/galliumdata/adumbra"
+                "title": "I worked at SpaceX. It was the most efficient company I've ever worked for",
+                "href": "https://www.businessinsider.com/what-its-like-work-at-spacex-elon-musk-2024-4"
             },
             {
-                "title": "Cmkr \u2013 a modern build system based on CMake and TOML",
-                "href": "https://github.com/build-cpp/cmkr"
+                "title": "Pair Your Compilers at the ABI Caf\u00e9",
+                "href": "https://faultlore.com/blah/abi-puns/"
+            },
+            {
+                "title": "Stack Overflow upset over users deleting answers after OpenAI partnership",
+                "href": "https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/"
             },
             {
                 "title": "Largest model railway launches inductive Formula 1 circuit [video]",
                 "href": "https://www.youtube.com/watch?v=1fikd9NfsSA"
             },
             {
-                "title": "The Bloody History of 'Deadline'",
-                "href": "https://www.merriam-webster.com/wordplay/your-deadline-wont-kill-you"
-            },
-            {
-                "title": "Pulley system composition \u2013 a systematic approach (2020)",
-                "href": "https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/"
-            },
-            {
-                "title": "An operating system for the web",
-                "href": "https://jasongullickson.com/an-operating-system-for-the-web.html"
-            },
-            {
-                "title": "Homemade liquid nitrogen generator Joule Thomson throttle (2013)",
-                "href": "http://homemadeliquidnitrogen.com/"
+                "title": "Adumbra: A lightweight Java library for bitmap steganography",
+                "href": "https://github.com/galliumdata/adumbra"
             }
         ]
     }
