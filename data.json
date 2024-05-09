@@ -23,16 +23,16 @@
                 "href": "https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html"
             },
             {
+                "title": "Development notes from xkcd's \"Machine\"",
+                "href": "https://chromakode.com/post/xkcd-machine/"
+            },
+            {
                 "title": "The June Language: The search for easier safe systems programming",
                 "href": "https://www.sophiajt.com/search-for-easier-safe-systems-programming/"
             },
             {
                 "title": "Phoenix LiveView 1.0-rc is here",
                 "href": "https://phoenixframework.org/blog/phoenix-liveview-1.0-released"
-            },
-            {
-                "title": "Development notes from xkcd's \"Machine\"",
-                "href": "https://chromakode.com/post/xkcd-machine/"
             },
             {
                 "title": "Arm's work on GCC-14",
@@ -43,16 +43,20 @@
                 "href": "https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you"
             },
             {
+                "title": "Automerge 2.2: Rich Text",
+                "href": "https://automerge.org/blog/2024/04/06/richtext/"
+            },
+            {
                 "title": "Systemd heads for a big round-number release",
                 "href": "https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/"
             },
             {
-                "title": "Test Failures Should Be Actionable",
-                "href": "https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html"
-            },
-            {
                 "title": "Rust through the ages",
                 "href": "https://www.ncameron.org/blog/rust-through-the-ages/"
+            },
+            {
+                "title": "Test Failures Should Be Actionable",
+                "href": "https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html"
             },
             {
                 "title": "Undue base URL influence",
@@ -63,24 +67,24 @@
                 "href": "https://boredengineer.medium.com/a-first-impression-of-asrock-rack-altrad8ud-1l2t-ampere-altra-2309091839c5"
             },
             {
+                "title": "How to use the Foreign Function API in Java 22 to Call C Libraries",
+                "href": "https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/"
+            },
+            {
                 "title": "Programming mantras are proverbs",
                 "href": "https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/"
+            },
+            {
+                "title": "Memory errors in consumer devices",
+                "href": "https://fosstodon.org/@gabrielesvelto/112407741329145666"
             },
             {
                 "title": "Log scales",
                 "href": "https://briefer.cloud/blog/posts/logarithms/"
             },
             {
-                "title": "How to use the Foreign Function API in Java 22 to Call C Libraries",
-                "href": "https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/"
-            },
-            {
                 "title": "Microkernels Meet Recursive Virtual Machines (2007)",
                 "href": "https://bford.info/pub/os/fluke-rvm.pdf"
-            },
-            {
-                "title": "Automerge 2.2: Rich Text",
-                "href": "https://automerge.org/blog/2024/04/06/richtext/"
             },
             {
                 "title": "RFC 9562: Universally Unique IDentifiers (UUIDs)",
@@ -97,10 +101,6 @@
             {
                 "title": "Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked",
                 "href": "https://www.highlight.io/blog/lw5-clickhouse-performance-optimization"
-            },
-            {
-                "title": "Zed Decoded: Linux when?",
-                "href": "https://zed.dev/blog/zed-decoded-linux-when"
             }
         ]
     },
@@ -112,6 +112,10 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
             },
             {
+                "title": "E2E Security Testing via exploratory Testing",
+                "href": "https://www.reddit.com/r/netsec/comments/1cnq541/e2e_security_testing_via_exploratory_testing/"
+            },
+            {
                 "title": "Everyday Ghidra: Symbols \u2014 Prescription Lenses for Reverse Engineers \u2014 Part 1",
                 "href": "https://www.reddit.com/r/netsec/comments/1cn43rx/everyday_ghidra_symbols_prescription_lenses_for/"
             },
@@ -120,12 +124,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1cn0f9b/over_the_past_couple_of_months_ive_built_more/"
             },
             {
-                "title": "mlcsec/SharpGraphView: Microsoft Graph API post-exploitation toolkit",
-                "href": "https://www.reddit.com/r/netsec/comments/1cnchsv/mlcsecsharpgraphview_microsoft_graph_api/"
-            },
-            {
                 "title": "Systematic VPN Detection",
                 "href": "https://www.reddit.com/r/netsec/comments/1cn6kjl/systematic_vpn_detection/"
+            },
+            {
+                "title": "mlcsec/SharpGraphView: Microsoft Graph API post-exploitation toolkit",
+                "href": "https://www.reddit.com/r/netsec/comments/1cnchsv/mlcsecsharpgraphview_microsoft_graph_api/"
             },
             {
                 "title": "Online DFIR Conference",
@@ -206,10 +210,6 @@
             {
                 "title": "A Basic Guide to AFL QEMU",
                 "href": "https://www.reddit.com/r/netsec/comments/1ch7g5v/a_basic_guide_to_afl_qemu/"
-            },
-            {
-                "title": "Nearly 20% of Docker Hub Repositories were used to spread malware & phishing scams",
-                "href": "https://www.reddit.com/r/netsec/comments/1cgtztj/nearly_20_of_docker_hub_repositories_were_used_to/"
             }
         ]
     },
@@ -803,24 +803,36 @@
                 "href": "https://hao-ai-lab.github.io/blogs/cllm/"
             },
             {
-                "title": "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
-                "href": "https://hereket.com/posts/from-scratch-x11-windowing/"
+                "title": "Temporal Python \u2013 A durable, distributed asyncio event loop (2023)",
+                "href": "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
             },
             {
                 "title": "The Time I Lied to the CTO and Saved the Day",
                 "href": "https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/"
             },
             {
-                "title": "Industrial Design Student Work: \"How Long Should Objects Last?\"",
-                "href": "https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last"
+                "title": "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
+                "href": "https://hereket.com/posts/from-scratch-x11-windowing/"
+            },
+            {
+                "title": "Symbolica Computer Algebra System",
+                "href": "https://symbolica.io/"
             },
             {
                 "title": "Shell sold carbon credits for carbon that was never captured",
                 "href": "https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792"
             },
             {
-                "title": "Temporal Python \u2013 A durable, distributed asyncio event loop (2023)",
-                "href": "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
+                "title": "Industrial Design Student Work: \"How Long Should Objects Last?\"",
+                "href": "https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last"
+            },
+            {
+                "title": "An Unusual Furniture Design Niche: Behind-the-Sofa Consoles",
+                "href": "https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles"
+            },
+            {
+                "title": "Show HN: Tegon: AI-first open source alternative to Jira and Linear",
+                "href": "https://github.com/tegonhq/tegon"
             },
             {
                 "title": "TimesFM: Time Series Foundation Model for time-series forecasting",
@@ -839,36 +851,36 @@
                 "href": "https://climbing.ai/"
             },
             {
-                "title": "Show HN: I built a non-linear UI for ChatGPT",
-                "href": "https://www.grafychat.com"
-            },
-            {
                 "title": "Breathwork supports emergence of altered states of consciousness",
                 "href": "https://www.researchsquare.com/article/rs-3976380/v1"
             },
             {
-                "title": "Radius Full Page Display",
-                "href": "https://32by32.com/radius-full-page-display/"
+                "title": "Show HN: I built a non-linear UI for ChatGPT",
+                "href": "https://www.grafychat.com"
             },
             {
-                "title": "An Unusual Furniture Design Niche: Behind-the-Sofa Consoles",
-                "href": "https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles"
+                "title": "Ask HN: Feels like Search results is weird on Google, You too?",
+                "href": "item?id=40305614"
             },
             {
                 "title": "Securing Git Repositories with Gittuf",
                 "href": "https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/"
             },
             {
-                "title": "Show HN: Tegon: AI-first open source alternative to Jira and Linear",
-                "href": "https://github.com/tegonhq/tegon"
-            },
-            {
                 "title": "Show HN: SimBricks \u2013 Modular Full-System Simulation for HW-SW Systems",
                 "href": "https://simbricks.github.io/"
             },
             {
+                "title": "Radius Full Page Display",
+                "href": "https://32by32.com/radius-full-page-display/"
+            },
+            {
                 "title": "Stack Overflow users deleting answers after OpenAI partnership",
                 "href": "https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/"
+            },
+            {
+                "title": "Bringing psql\u2019s \\d to your web browser",
+                "href": "https://neon.tech/blog/bringing-psqls-d-to-your-web-browser"
             },
             {
                 "title": "The Waning Reign of the Muskrat",
@@ -883,36 +895,24 @@
                 "href": "https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead"
             },
             {
-                "title": "Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)",
-                "href": "https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/"
-            },
-            {
                 "title": "Launch HN: Baselit (YC W23) \u2013 Automatically Reduce Snowflake Costs",
                 "href": "item?id=40299556"
             },
             {
-                "title": "Temporal Fuzzing I: Memory Models (2021)",
-                "href": "https://www.reitzen.com/post/temporal-fuzzing-01/"
+                "title": "Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)",
+                "href": "https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/"
+            },
+            {
+                "title": "Match looks to Hinge as Tinder fails",
+                "href": "https://techcrunch.com/2024/05/08/match-looks-to-hinge-as-tinder-fails-q1-2024/"
             },
             {
                 "title": "Using AirPods as a Morse Transmitter",
                 "href": "https://github.com/EtherDream/headphone-morse-transmitter"
             },
             {
-                "title": "Adumbra: A lightweight Java library for bitmap steganography",
-                "href": "https://github.com/galliumdata/adumbra"
-            },
-            {
-                "title": "'Underwater bicycle' propels swimmers forward at superhuman speed",
-                "href": "https://newatlas.com/marine/seabike-swimming-propeller/"
-            },
-            {
-                "title": "Steve Albini has died",
-                "href": "https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/"
-            },
-            {
-                "title": "OpenAI: Model Spec",
-                "href": "https://openai.com/index/introducing-the-model-spec"
+                "title": "Temporal Fuzzing I: Memory Models (2021)",
+                "href": "https://www.reitzen.com/post/temporal-fuzzing-01/"
             }
         ]
     }
