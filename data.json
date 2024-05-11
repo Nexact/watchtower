@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Nerves Notes",
+                "href": "https://wiki.alopex.li/NervesNotes"
+            },
+            {
                 "title": "Debian's KeePassXC package has removed many features",
                 "href": "https://fosstodon.org/@keepassxc/112417353193348720"
             },
@@ -13,6 +17,10 @@
             {
                 "title": "Use cases for the -i option of sshd",
                 "href": "https://mastodon.social/@ska@treehouse.systems/112417619187918699"
+            },
+            {
+                "title": "Exploring the c4... compiler?",
+                "href": "https://registerspill.thorstenball.com/p/exploring-the-c4-compiler"
             },
             {
                 "title": "Kibibytes are silly and we should all use them",
@@ -35,16 +43,8 @@
                 "href": "https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud"
             },
             {
-                "title": "Nerves Notes",
-                "href": "https://wiki.alopex.li/NervesNotes"
-            },
-            {
                 "title": "Migrating to BIND9 dnssec-policy",
                 "href": "https://dotat.at/@/2024-05-11-dnssec-policy.html"
-            },
-            {
-                "title": "Exploring the c4... compiler?",
-                "href": "https://registerspill.thorstenball.com/p/exploring-the-c4-compiler"
             },
             {
                 "title": "Lessons learned reinventing the Python notebook",
@@ -53,6 +53,10 @@
             {
                 "title": "OpenBSD Desktop",
                 "href": "https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html"
+            },
+            {
+                "title": "Cascading Dependency Rebuilds for Jackson CI",
+                "href": "https://cowtowncoder.medium.com/cascading-dependency-rebuilds-for-jackson-ci-5113d0b71631"
             },
             {
                 "title": "Methods Should Be Object Safe",
@@ -97,10 +101,6 @@
             {
                 "title": "Emoji history: the missing years",
                 "href": "https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/"
-            },
-            {
-                "title": "An unexpected detour into partially symbolic, sparsity-expoiting autodiff; or Lord won\u2019t you buy me a Laplace approximation",
-                "href": "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Could Stem Cells One Day Cure Diabetes?",
+                "href": "https://science.slashdot.org/story/24/05/11/1516229/could-stem-cells-one-day-cure-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Lightweight Dillo Browser Resurrected: TLS But No JavaScript",
                 "href": "https://tech.slashdot.org/story/24/05/11/1348216/lightweight-dillo-browser-resurrected-tls-but-no-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Google Cloud Accidentally Deletes UniSuper's Online Account Due To 'Unprecedented Misconfiguration'",
                 "href": "https://hardware.slashdot.org/story/24/05/10/213221/google-cloud-accidentally-deletes-unisupers-online-account-due-to-unprecedented-misconfiguration?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The Automotive Cold War Is Officially Underway",
-                "href": "https://tech.slashdot.org/story/24/05/10/2050227/the-automotive-cold-war-is-officially-underway?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,16 +795,12 @@
                 "href": "http://immersivemath.com/ila/index.html"
             },
             {
-                "title": "Most of Europe is glowing pink under the aurora",
-                "href": "https://www.foto-webcam.eu/webcam/lucknerhaus/"
+                "title": "PeaZip: Open-source file compression and encryption software",
+                "href": "https://peazip.github.io/"
             },
             {
                 "title": "System Analysis and Programming (1966)",
                 "href": "https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/"
-            },
-            {
-                "title": "PeaZip: Open-source file compression and encryption software",
-                "href": "https://peazip.github.io/"
             },
             {
                 "title": "Vision Transformers Need Registers",
@@ -815,12 +811,24 @@
                 "href": "https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md"
             },
             {
-                "title": "Making Sense of Acquire-Release Semantics",
-                "href": "https://davekilian.com/acquire-release.html"
+                "title": "Fathom (YC W21) is hiring a TPM to prototype new AI features",
+                "href": "https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai"
             },
             {
                 "title": "100k Stars",
                 "href": "https://stars.chromeexperiments.com/"
+            },
+            {
+                "title": "Scotland suddenly has a lot of mosquitoes",
+                "href": "https://www.popsci.com/science/mosquitoes-scotland/"
+            },
+            {
+                "title": "Making Sense of Acquire-Release Semantics",
+                "href": "https://davekilian.com/acquire-release.html"
+            },
+            {
+                "title": "Most of Europe is glowing pink under the aurora",
+                "href": "https://www.foto-webcam.eu/webcam/lucknerhaus/"
             },
             {
                 "title": "Show HN: Wag, MFA and Enrollment for WireGuard",
@@ -835,36 +843,28 @@
                 "href": "https://stevenharman.net/so-we-have-a-memory-leak"
             },
             {
-                "title": "Trellis (YC W24) is hiring Founding Eng to build ETL for unstructured data",
-                "href": "https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time"
-            },
-            {
                 "title": "The Emacs Window Management Almanac",
                 "href": "https://karthinks.com/software/emacs-window-management-almanac/"
-            },
-            {
-                "title": "Mouse Support for Playdate",
-                "href": "https://blog.gingerbeardman.com/2024/05/11/mouse-support-for-playdate/"
-            },
-            {
-                "title": "Why you can hear the temperature of water",
-                "href": "https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html"
             },
             {
                 "title": "Adam Curtis on the dangers of self-expression (2017)",
                 "href": "https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/"
             },
             {
+                "title": "Why you can hear the temperature of water",
+                "href": "https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html"
+            },
+            {
                 "title": "The derivative of a number (2014)",
                 "href": "https://rjlipton.com/2014/08/19/the-derivative-of-a-number/"
             },
             {
-                "title": "SK Logic in Egglog",
-                "href": "http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html"
-            },
-            {
                 "title": "ENIAC Simulator",
                 "href": "http://zuse-z1.zib.de/simulations/eniac/"
+            },
+            {
+                "title": "Mouse Support for Playdate",
+                "href": "https://blog.gingerbeardman.com/2024/05/11/mouse-support-for-playdate/"
             },
             {
                 "title": "The Foundation of a Generic Theorem Prover (1989) [pdf]",
@@ -875,8 +875,8 @@
                 "href": "https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf"
             },
             {
-                "title": "Ask HN: Seeking ideas for preschool/school projects",
-                "href": "item?id=40292537"
+                "title": "SK Logic in Egglog",
+                "href": "http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html"
             },
             {
                 "title": "Unix Viruses 25th Anniversary Edition",
@@ -891,8 +891,16 @@
                 "href": "https://animationobsessive.substack.com/p/selling-ghost-in-the-shell"
             },
             {
+                "title": "Ask HN: Seeking ideas for preschool/school projects",
+                "href": "item?id=40292537"
+            },
+            {
                 "title": "Cubic millimetre of brain mapped at nanoscale resolution",
                 "href": "https://www.nature.com/articles/d41586-024-01387-9"
+            },
+            {
+                "title": "Area Lights: Mathematical Fondations",
+                "href": "https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-lighting/introduction-to-lighting-area-lights-theory.html"
             },
             {
                 "title": "Thread: Tech we can\u2019t use or teach?",
@@ -901,14 +909,6 @@
             {
                 "title": "Radio astronomers bypass Earth's atmosphere with new calibration technique",
                 "href": "https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html"
-            },
-            {
-                "title": "Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years",
-                "href": "item?id=40318542"
-            },
-            {
-                "title": "Metabolism of autism reveals developmental origins",
-                "href": "https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html"
             }
         ]
     }
