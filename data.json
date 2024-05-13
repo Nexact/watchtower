@@ -23,12 +23,20 @@
                 "href": "https://peppe.rs/posts/snip_snap/"
             },
             {
+                "title": "makext: GNU Make as a task runner",
+                "href": "https://github.com/mitjafelicijan/makext"
+            },
+            {
                 "title": "16 years of CVE-2008-0166 - Debian OpenSSL Bug",
                 "href": "https://16years.secvuln.info/"
             },
             {
-                "title": "makext: GNU Make as a task runner",
-                "href": "https://github.com/mitjafelicijan/makext"
+                "title": "IPv6 prefix lengths",
+                "href": "https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html"
+            },
+            {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/dmp0op/what_are_you_doing_this_week"
             },
             {
                 "title": "Meilisearch 1.8",
@@ -37,10 +45,6 @@
             {
                 "title": "GPUs Go Brrr",
                 "href": "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
-            },
-            {
-                "title": "IPv6 prefix lengths",
-                "href": "https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html"
             },
             {
                 "title": "The ultimate guide to Haskell Strings",
@@ -59,20 +63,20 @@
                 "href": "https://www.macrelix.org/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/dmp0op/what_are_you_doing_this_week"
+                "title": "Agda Core: The Dream and the Reality",
+                "href": "https://jesper.cx/posts/agda-core.html"
             },
             {
                 "title": "Reference Counting with Linear Types",
                 "href": "https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes"
             },
             {
-                "title": "LLMs\u2019 Data-Control Path Insecurity",
-                "href": "https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html"
+                "title": "GNU libtextstyle",
+                "href": "https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html"
             },
             {
-                "title": "Agda Core: The Dream and the Reality",
-                "href": "https://jesper.cx/posts/agda-core.html"
+                "title": "LLMs\u2019 Data-Control Path Insecurity",
+                "href": "https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html"
             },
             {
                 "title": "TuneD project (power-profiles-daemon replacement)",
@@ -97,10 +101,6 @@
             {
                 "title": "Readability of optimized Kotlin code",
                 "href": "https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/"
-            },
-            {
-                "title": "Nerves Notes",
-                "href": "https://wiki.alopex.li/NervesNotes"
             }
         ]
     },
@@ -270,10 +270,6 @@
         "feedname": "krebsonsecurity",
         "items": [
             {
-                "title": "How Did Authorities Identify the Alleged Lockbit Boss?",
-                "href": "https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/"
-            },
-            {
                 "title": "U.S. Charges Russian Man as Boss of LockBit Ransomware Group",
                 "href": "https://krebsonsecurity.com/2024/05/u-s-charges-russian-man-as-boss-of-lockbit-ransomware-group/"
             },
@@ -308,6 +304,10 @@
             {
                 "title": "Twitter\u2019s Clumsy Pivot to X.com Is a Gift to Phishers",
                 "href": "https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/"
+            },
+            {
+                "title": "April\u2019s Patch Tuesday Brings Record Number of Fixes",
+                "href": "https://krebsonsecurity.com/2024/04/aprils-patch-tuesday-brings-record-number-of-fixes/"
             }
         ]
     },
@@ -795,20 +795,24 @@
                 "href": "https://stratechery.com/2024/the-great-flattening/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI0L3RoZS1ncmVhdC1mbGF0dGVuaW5nLyJdfSwiZXhwIjoxNzE4MTg4NzMyLCJpYXQiOjE3MTU1OTY3MzIsImlzcyI6Imh0dHBzOi8vYXBpLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIiwic3ViIjoiV3NyTHlycjZxZW1WQWdFR0NqTW0zNCIsInVzZSI6ImFjY2VzcyJ9.NgkSZcz_OwkjW7TH6FNBKp7iHS1K6VPyf-xlU6tk1kEXbTuBZzP7kwYsU4WIEpXM4Ab-1DZxZhIus-1-1OtQ6HMi5DdJZqKYcCoARikBeSSkWFtPNGAVpBeOnWzYan2eSUrpGXeuKVq7g5aXv6zNDHoMqHuScb9jE7gFMIa4E3BdafrvjIQ0020M6tUQrm5jinP31XBSQrLUUU2cY_M6QjTn5Hh0CjLUUfNbrJz2yBuvC-egYBpyVersqGIHphD7ZDetF225mvWhhSMbpjeVPqXunJ__GjyFjB_Azlwy_k1exgM4wT0auYJe3jI7KGxWPu2gYm2ZlT8A5itGD0npgQ"
             },
             {
+                "title": "It's an Age of Marvels",
+                "href": "https://blog.plover.com/tech/its-an-age-of-marvels.html"
+            },
+            {
                 "title": "Telegram has launched a pretty intense campaign to malign Signal as insecure",
                 "href": "https://twitter.com/matthew_d_green/status/1789687898863792453"
             },
             {
-                "title": "Statement on CVE-2024-27322",
-                "href": "https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/index.html"
+                "title": "The Worst Outcome Is a Mediocre Success",
+                "href": "https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success"
             },
             {
                 "title": "GPUs Go Brrr",
                 "href": "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
             },
             {
-                "title": "It's an Age of Marvels",
-                "href": "https://blog.plover.com/tech/its-an-age-of-marvels.html"
+                "title": "Statement on CVE-2024-27322",
+                "href": "https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/index.html"
             },
             {
                 "title": "When children become caregivers, who cares for them?",
@@ -819,6 +823,10 @@
                 "href": "item?id=40342299"
             },
             {
+                "title": "Protecting your email address via SVG instead of JavaScript",
+                "href": "https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/"
+            },
+            {
                 "title": "A Slower Speed of Light (2012)",
                 "href": "http://gamelab.mit.edu/games/a-slower-speed-of-light/"
             },
@@ -827,20 +835,24 @@
                 "href": "https://github.com/buxlabs/boxwood"
             },
             {
-                "title": "Protecting your email address via SVG instead of JavaScript",
-                "href": "https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/"
+                "title": "Outdoor time is good for kids' eyesight",
+                "href": "https://text.npr.org/1250555639"
             },
             {
-                "title": "Temporal \u2013 Good Things Happen",
-                "href": "https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html"
+                "title": "Big Fridge",
+                "href": "https://sherwood.news/business/the-hot-business-of-cold-storage/"
             },
             {
                 "title": "MacRelix \u2013 Unix-like features for classic Mac OS",
                 "href": "https://www.macrelix.org/"
             },
             {
-                "title": "Big Fridge",
-                "href": "https://sherwood.news/business/the-hot-business-of-cold-storage/"
+                "title": "Temporal \u2013 Good Things Happen",
+                "href": "https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html"
+            },
+            {
+                "title": "Show HN: CarCheck \u2013 Car Buying Checklist App",
+                "href": "https://usefulchecklists.com/"
             },
             {
                 "title": "The Alternative Implementation Problem",
@@ -849,10 +861,6 @@
             {
                 "title": "Homoiconic Python",
                 "href": "https://aljamal.substack.com/p/homoiconic-python"
-            },
-            {
-                "title": "Show HN: CarCheck \u2013 Car Buying Checklist App",
-                "href": "https://usefulchecklists.com/"
             },
             {
                 "title": "Show HN: Making GNU Make a better Task Runner",
@@ -867,48 +875,40 @@
                 "href": "https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer"
             },
             {
+                "title": "I built an online PDF management platform using open-source software",
+                "href": "https://www.pdfequips.com/"
+            },
+            {
                 "title": "Page Dewarping (2016)",
                 "href": "https://mzucker.github.io/2016/08/15/page-dewarping.html"
             },
             {
-                "title": "The Death of a Mnemonist",
-                "href": "https://www.historytoday.com/archive/months-past/death-mnemonist"
+                "title": "The USDA's gardening zones shifted, this map shows you what's changed",
+                "href": "https://apps.npr.org/plant-hardiness-garden-map/"
             },
             {
                 "title": "Feynman Symbolic Regression Database",
                 "href": "https://space.mit.edu/home/tegmark/aifeynman.html"
             },
             {
+                "title": "The Death of a Mnemonist",
+                "href": "https://www.historytoday.com/archive/months-past/death-mnemonist"
+            },
+            {
                 "title": "Song Maker",
                 "href": "https://musiclab.chromeexperiments.com/Song-Maker"
-            },
-            {
-                "title": "I built an online PDF management platform using open-source software",
-                "href": "https://www.pdfequips.com/"
-            },
-            {
-                "title": "Dymaxion Car",
-                "href": "https://en.wikipedia.org/wiki/Dymaxion_car"
             },
             {
                 "title": "Why Make Art in the Dark?",
                 "href": "https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves"
             },
             {
+                "title": "Dymaxion Car",
+                "href": "https://en.wikipedia.org/wiki/Dymaxion_car"
+            },
+            {
                 "title": "Show HN: I made an open-source Loom alternative",
                 "href": "https://Cap.so"
-            },
-            {
-                "title": "Styles of Furniture",
-                "href": "https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/"
-            },
-            {
-                "title": "Zero Feet: a proposal for a systems-free Lisp",
-                "href": "https://applied-langua.ge/posts/zero-feet.html"
-            },
-            {
-                "title": "Did GitHub Copilot increase my productivity?",
-                "href": "https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity"
             }
         ]
     }
