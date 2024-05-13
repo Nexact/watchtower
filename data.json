@@ -11,12 +11,16 @@
                 "href": "https://peppe.rs/posts/snip_snap/"
             },
             {
+                "title": "makext: GNU Make as a task runner",
+                "href": "https://github.com/mitjafelicijan/makext"
+            },
+            {
                 "title": "Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel",
                 "href": "https://lkml.org/lkml/2024/5/12/224"
             },
             {
-                "title": "makext: GNU Make as a task runner",
-                "href": "https://github.com/mitjafelicijan/makext"
+                "title": "Unix version control lore: what, ident",
+                "href": "https://dotat.at/@/2024-05-13-what-ident.html"
             },
             {
                 "title": "The alternative implementation problem",
@@ -35,12 +39,12 @@
                 "href": "https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution"
             },
             {
-                "title": "Unix version control lore: what, ident",
-                "href": "https://dotat.at/@/2024-05-13-what-ident.html"
-            },
-            {
                 "title": "Inside the Cult of the Haskell Programmer",
                 "href": "https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/"
+            },
+            {
+                "title": "The ultimate guide to Haskell Strings",
+                "href": "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
             },
             {
                 "title": "16 years of CVE-2008-0166 - Debian OpenSSL Bug",
@@ -81,10 +85,6 @@
             {
                 "title": "TuneD project (power-profiles-daemon replacement)",
                 "href": "https://tuned-project.org/"
-            },
-            {
-                "title": "The ultimate guide to Haskell Strings",
-                "href": "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
             },
             {
                 "title": "Slint 1.6 Released with Design Mode Improvements, Python Packages, and Enhanced Accessibility",
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "OpenAI Launches New Free Model GPT-4o",
+                "href": "https://slashdot.org/story/24/05/13/1724257/openai-launches-new-free-model-gpt-4o?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season",
                 "href": "https://tech.slashdot.org/story/24/05/13/1648202/solar-storm-knocks-out-farmers-tractor-gps-systems-during-peak-planting-season?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Could Atomically Thin Layers Bring A 19x Energy Jump In Battery Capacitors?",
                 "href": "https://hardware.slashdot.org/story/24/05/12/1647232/could-atomically-thin-layers-bring-a-19x-energy-jump-in-battery-capacitors?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Photographer Sets World Record for Fastest Drone Flight at 298 MPH",
-                "href": "https://tech.slashdot.org/story/24/05/12/1513234/photographer-sets-world-record-for-fastest-drone-flight-at-298-mph?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -682,6 +682,74 @@
                 "href": "https://packetstormsecurity.com/news/view/35857/AWS-CloudQuarry-Digging-For-Secrets-In-Public-AMIs.html"
             },
             {
+                "title": "Debian Security Advisory 5688-1",
+                "href": "https://packetstormsecurity.com/files/178556/dsa-5688-1.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5687-1",
+                "href": "https://packetstormsecurity.com/files/178555/dsa-5687-1.txt"
+            },
+            {
+                "title": "Kemp LoadMaster Local sudo Privilege Escalation",
+                "href": "https://packetstormsecurity.com/files/178554/progress_kemp_loadmaster_sudo_privesc_2024.rb.txt"
+            },
+            {
+                "title": "Gentoo Linux Security Advisory 202405-33",
+                "href": "https://packetstormsecurity.com/files/178553/glsa-202405-33.txt"
+            },
+            {
+                "title": "Gentoo Linux Security Advisory 202405-32",
+                "href": "https://packetstormsecurity.com/files/178552/glsa-202405-32.txt"
+            },
+            {
+                "title": "Gentoo Linux Security Advisory 202405-31",
+                "href": "https://packetstormsecurity.com/files/178551/glsa-202405-31.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6771-1",
+                "href": "https://packetstormsecurity.com/files/178549/USN-6771-1.txt"
+            },
+            {
+                "title": "Panel.SmokeLoader MVID-2024-0682 Cross Site Request Forgery / Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/178548/MVID-2024-0682.txt"
+            },
+            {
+                "title": "Panel.SmokeLoader MVID-2024-0681 Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/178547/MVID-2024-0681.txt"
+            },
+            {
+                "title": "Esteghlal F.C. Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/178546/esteghlalfc-xss.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2822-03",
+                "href": "https://packetstormsecurity.com/files/178545/RHSA-2024-2822-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2821-03",
+                "href": "https://packetstormsecurity.com/files/178544/RHSA-2024-2821-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2820-03",
+                "href": "https://packetstormsecurity.com/files/178543/RHSA-2024-2820-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2817-03",
+                "href": "https://packetstormsecurity.com/files/178542/RHSA-2024-2817-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2816-03",
+                "href": "https://packetstormsecurity.com/files/178541/RHSA-2024-2816-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2815-03",
+                "href": "https://packetstormsecurity.com/files/178540/RHSA-2024-2815-03.txt"
+            },
+            {
+                "title": "Arm Mali 5th Gen Dangling ATE",
+                "href": "https://packetstormsecurity.com/files/178539/GS20240513170503.tgz"
+            },
+            {
                 "title": "Ubuntu Security Notice USN-6770-1",
                 "href": "https://packetstormsecurity.com/files/178538/USN-6770-1.txt"
             },
@@ -712,74 +780,6 @@
             {
                 "title": "Red Hat Security Advisory 2024-2669-03",
                 "href": "https://packetstormsecurity.com/files/178531/RHSA-2024-2669-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2668-03",
-                "href": "https://packetstormsecurity.com/files/178530/RHSA-2024-2668-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2667-03",
-                "href": "https://packetstormsecurity.com/files/178529/RHSA-2024-2667-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2666-03",
-                "href": "https://packetstormsecurity.com/files/178528/RHSA-2024-2666-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2664-03",
-                "href": "https://packetstormsecurity.com/files/178527/RHSA-2024-2664-03.txt"
-            },
-            {
-                "title": "Openmediavault Remote Code Execution / Local Privilege Escalation",
-                "href": "https://packetstormsecurity.com/files/178526/openmediavault-execescalate.txt"
-            },
-            {
-                "title": "RIOT 2024.01 Buffer Overflows / Lack Of Size Checks / Out-Of-Bound Access",
-                "href": "https://packetstormsecurity.com/files/178525/HNS-2024-07-riot.txt"
-            },
-            {
-                "title": "I2P 2.5.1",
-                "href": "https://packetstormsecurity.com/files/178524/i2psource_2.5.1.tar.bz2"
-            },
-            {
-                "title": "Zed Attack Proxy 2.15.0 Cross Platform Package",
-                "href": "https://packetstormsecurity.com/files/178523/ZAP_2.15.0_Crossplatform.zip"
-            },
-            {
-                "title": "AIDE 0.18.8",
-                "href": "https://packetstormsecurity.com/files/178522/aide-0.18.8.tar.gz"
-            },
-            {
-                "title": "Microsoft PlayReady Complete Client Identity Compromise",
-                "href": "https://packetstormsecurity.com/files/178521/msplayready-identitydisclose.txt"
-            },
-            {
-                "title": "Panel Amadey.d.c MVID-2024-0680 Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178520/MVID-2024-0680.txt"
-            },
-            {
-                "title": "Clinic Queuing System 1.0 Remote Code Execution",
-                "href": "https://packetstormsecurity.com/files/178519/clinicqs10-exec.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5686-1",
-                "href": "https://packetstormsecurity.com/files/178518/dsa-5686-1.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6768-1",
-                "href": "https://packetstormsecurity.com/files/178517/USN-6768-1.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5684-1",
-                "href": "https://packetstormsecurity.com/files/178516/dsa-5684-1.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5682-2",
-                "href": "https://packetstormsecurity.com/files/178515/dsa-5682-2.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5685-1",
-                "href": "https://packetstormsecurity.com/files/178514/dsa-5685-1.txt"
             }
         ]
     },
@@ -787,64 +787,80 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "GPT-4o",
+                "href": "https://openai.com/index/hello-gpt-4o/"
+            },
+            {
+                "title": "GPT-4o and more tools to ChatGPT free users",
+                "href": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/"
+            },
+            {
                 "title": "Falcon 2",
                 "href": "https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas"
+            },
+            {
+                "title": "OpenAI launches new AI model and desktop version of ChatGPT",
+                "href": "https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html"
             },
             {
                 "title": "GPUs Go Brrr",
                 "href": "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
             },
             {
-                "title": "The USDA's gardening zones shifted, this map shows you what's changed",
-                "href": "https://apps.npr.org/plant-hardiness-garden-map/"
-            },
-            {
-                "title": "AI should replace clueless managers, not workers",
-                "href": "https://www.dedoimedo.com/life/ai-bad-managers.html"
+                "title": "Unix version control lore: what, ident \u2013 Tony Finch",
+                "href": "https://dotat.at/@/2024-05-13-what-ident.html"
             },
             {
                 "title": "Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience",
                 "href": "https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a"
             },
             {
+                "title": "The USDA's gardening zones shifted, this map shows you what's changed",
+                "href": "https://apps.npr.org/plant-hardiness-garden-map/"
+            },
+            {
+                "title": "Spring Update",
+                "href": "https://openai.com/index/spring-update/"
+            },
+            {
                 "title": "The Myth of Loss: Bitboys",
                 "href": "https://hardforum.com/threads/bitboys.1973024/"
+            },
+            {
+                "title": "Good, Kind, Caring People Became the Bad Guys",
+                "href": "https://www.okdoomer.io/thebadguys/"
             },
             {
                 "title": "Protecting your email address via SVG instead of JavaScript",
                 "href": "https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/"
             },
             {
-                "title": "Estimating the disk space needed for a VACUUM FULL on PostgreSQL",
-                "href": "https://ivdl.co.za/2024/05/13/estimating-the-disk-space-needed-for-a-vacuum-full-on-postgresql/"
-            },
-            {
-                "title": "It\u2019s an age of marvels",
-                "href": "https://blog.plover.com/tech/its-an-age-of-marvels.html"
+                "title": "GxHash is a fast and robust non-cryptographic hashing algorithm",
+                "href": "https://github.com/ogxd/gxhash"
             },
             {
                 "title": "A Slower Speed of Light (2012)",
                 "href": "http://gamelab.mit.edu/games/a-slower-speed-of-light/"
             },
             {
-                "title": "One bank's brilliant upgrade was another bank's crash",
-                "href": "https://www.theregister.com/2024/05/13/who_me/"
-            },
-            {
-                "title": "GameStop rockets, as 'Roaring Kitty' returns; shares halted",
-                "href": "https://www.thestreet.com/investing/stocks/gamestop-shares-rocket-pounding-short-sellers-as-roaring-kitty-returns"
+                "title": "It\u2019s an age of marvels",
+                "href": "https://blog.plover.com/tech/its-an-age-of-marvels.html"
             },
             {
                 "title": "Show HN: Boxwood \u2013 simple templating engine for JavaScript, in JavaScript",
                 "href": "https://github.com/buxlabs/boxwood"
             },
             {
+                "title": "MacRelix \u2013 Unix-like features for classic Mac OS",
+                "href": "https://www.macrelix.org/"
+            },
+            {
                 "title": "Squarespace to Go Private in $6.9B All-Cash Transaction with Permira",
                 "href": "https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx"
             },
             {
-                "title": "MacRelix \u2013 Unix-like features for classic Mac OS",
-                "href": "https://www.macrelix.org/"
+                "title": "Overbite Project: Why still use Gopher? What makes Gopher relevant?",
+                "href": "https://gopher.floodgap.com/overbite/relevance.html"
             },
             {
                 "title": "The Alternative Implementation Problem",
@@ -855,14 +871,6 @@
                 "href": "https://aljamal.substack.com/p/homoiconic-python"
             },
             {
-                "title": "The danger of the mediocre success when testing startup hypotheses (2023)",
-                "href": "https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success"
-            },
-            {
-                "title": "Big Fridge",
-                "href": "https://sherwood.news/business/the-hot-business-of-cold-storage/"
-            },
-            {
                 "title": "The Death of a Mnemonist",
                 "href": "https://www.historytoday.com/archive/months-past/death-mnemonist"
             },
@@ -871,16 +879,24 @@
                 "href": "https://mzucker.github.io/2016/08/15/page-dewarping.html"
             },
             {
-                "title": "I built an online PDF management platform using open-source software",
-                "href": "https://www.pdfequips.com/"
+                "title": "The danger of the mediocre success when testing startup hypotheses (2023)",
+                "href": "https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success"
+            },
+            {
+                "title": "Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]",
+                "href": "https://www.youtube.com/watch?v=9ag0fPMmYPQ"
+            },
+            {
+                "title": "Big Fridge",
+                "href": "https://sherwood.news/business/the-hot-business-of-cold-storage/"
             },
             {
                 "title": "Show HN: Making GNU Make a better Task Runner",
                 "href": "https://github.com/mitjafelicijan/makext"
             },
             {
-                "title": "Song Maker",
-                "href": "https://musiclab.chromeexperiments.com/Song-Maker"
+                "title": "I built an online PDF management platform using open-source software",
+                "href": "https://www.pdfequips.com/"
             },
             {
                 "title": "PicoMEM by FreddyV \u2013 All in One 8-Bit ISA Expansion Card",
@@ -889,22 +905,6 @@
             {
                 "title": "Feynman Symbolic Regression Database",
                 "href": "https://space.mit.edu/home/tegmark/aifeynman.html"
-            },
-            {
-                "title": "Venture Capitalists Are Using Podcasts to Lure in Founders",
-                "href": "https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders"
-            },
-            {
-                "title": "Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]",
-                "href": "https://www.youtube.com/watch?v=9ag0fPMmYPQ"
-            },
-            {
-                "title": "Zero Feet: a proposal for a systems-free Lisp",
-                "href": "https://applied-langua.ge/posts/zero-feet.html"
-            },
-            {
-                "title": "Styles of Furniture",
-                "href": "https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/"
             }
         ]
     }
