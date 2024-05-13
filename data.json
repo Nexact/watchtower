@@ -19,12 +19,12 @@
                 "href": "https://lkml.org/lkml/2024/5/12/224"
             },
             {
-                "title": "makext: GNU Make as a task runner",
-                "href": "https://github.com/mitjafelicijan/makext"
-            },
-            {
                 "title": "OpenAI GPT-4o",
                 "href": "https://openai.com/index/hello-gpt-4o/"
+            },
+            {
+                "title": "makext: GNU Make as a task runner",
+                "href": "https://github.com/mitjafelicijan/makext"
             },
             {
                 "title": "The alternative implementation problem",
@@ -33,6 +33,10 @@
             {
                 "title": "WinDbg Time Travelling Debugger is Amazing Magic",
                 "href": "https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/"
+            },
+            {
+                "title": "Recent Docker BuildKit Features You're Missing Out On",
+                "href": "https://martinheinz.dev/blog/111"
             },
             {
                 "title": "What are you excited about?",
@@ -53,10 +57,6 @@
             {
                 "title": "Reconstructing the 3DS Bootstrapping Process at the Factory",
                 "href": "https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory"
-            },
-            {
-                "title": "Recent Docker BuildKit Features You're Missing Out On",
-                "href": "https://martinheinz.dev/blog/111"
             },
             {
                 "title": "The ultimate guide to Haskell Strings",
@@ -217,8 +217,8 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "Botnet sent millions of emails with LockBit Black ransomware payloads",
-                "href": "https://www.bleepingcomputer.com/news/security/botnet-sent-millions-of-emails-with-lockbit-black-ransomware-payloads/"
+                "title": "Botnet sent millions of emails in LockBit Black ransomware campaign",
+                "href": "https://www.bleepingcomputer.com/news/security/botnet-sent-millions-of-emails-in-lockbit-black-ransomware-campaign/"
             },
             {
                 "title": "Hackers use DNS tunneling for network scanning, tracking victims",
@@ -803,12 +803,32 @@
                 "href": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
             },
             {
-                "title": "Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images",
-                "href": "https://chaphlagical.icu/Deblur-GS/"
+                "title": "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
+                "href": "https://github.com/nkasmanoff/pi-card"
             },
             {
                 "title": "Unix version control lore: what, ident \u2013 Tony Finch",
                 "href": "https://dotat.at/@/2024-05-13-what-ident.html"
+            },
+            {
+                "title": "Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images",
+                "href": "https://chaphlagical.icu/Deblur-GS/"
+            },
+            {
+                "title": "Language, OS and GUI -independent windowing API provided as a virtual filesystem",
+                "href": "https://www.fornaxis.org/forge/"
+            },
+            {
+                "title": "Apple and Google deliver support for unwanted tracking alerts in iOS and Android",
+                "href": "https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/"
+            },
+            {
+                "title": "Just Here for the Comments: Lurking as Digital Literacy Practice",
+                "href": "https://newbooksnetwork.com/just-here-for-the-comments"
+            },
+            {
+                "title": "Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience",
+                "href": "https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a"
             },
             {
                 "title": "GxHash is a fast and robust non-cryptographic hashing algorithm",
@@ -819,40 +839,12 @@
                 "href": "https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas"
             },
             {
-                "title": "GPUs Go Brrr",
-                "href": "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
-            },
-            {
-                "title": "Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience",
-                "href": "https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a"
-            },
-            {
-                "title": "Just Here for the Comments: Lurking as Digital Literacy Practice",
-                "href": "https://newbooksnetwork.com/just-here-for-the-comments"
-            },
-            {
                 "title": "Overbite Project: Why still use Gopher? What makes Gopher relevant?",
                 "href": "https://gopher.floodgap.com/overbite/relevance.html"
             },
             {
-                "title": "Discord has been using ML to determine the gender and age of some of its users",
-                "href": "https://twitter.com/DiscordPreviews/status/1790065494432608432"
-            },
-            {
                 "title": "The USDA's gardening zones shifted, this map shows you what's changed",
                 "href": "https://apps.npr.org/plant-hardiness-garden-map/"
-            },
-            {
-                "title": "Language, OS and GUI -independent windowing API provided as a virtual filesystem",
-                "href": "https://www.fornaxis.org/forge/"
-            },
-            {
-                "title": "The Myth of Loss: Bitboys",
-                "href": "https://hardforum.com/threads/bitboys.1973024/"
-            },
-            {
-                "title": "Protecting your email address via SVG instead of JavaScript",
-                "href": "https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/"
             },
             {
                 "title": "Pg_lakehouse: Query Any Data Lake from Postgres",
@@ -863,48 +855,56 @@
                 "href": "https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html"
             },
             {
-                "title": "A Slower Speed of Light (2012)",
-                "href": "http://gamelab.mit.edu/games/a-slower-speed-of-light/"
+                "title": "The Myth of Loss: Bitboys",
+                "href": "https://hardforum.com/threads/bitboys.1973024/"
             },
             {
-                "title": "Pra\u017esk\u00fd Orloj: Prague astronomical clock simulator. (2022)",
-                "href": "https://orloj.org/orloj/"
+                "title": "Protecting your email address via SVG instead of JavaScript",
+                "href": "https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/"
+            },
+            {
+                "title": "A Slower Speed of Light (2012)",
+                "href": "http://gamelab.mit.edu/games/a-slower-speed-of-light/"
             },
             {
                 "title": "Raspberry Pi CM5 seen in the wild",
                 "href": "https://twitter.com/xoseperez/status/1790031351443341357"
             },
             {
-                "title": "Space Junk Removal Is Not Going Smoothly (2021)",
-                "href": "https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/"
+                "title": "GPUs Go Brrr",
+                "href": "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
+            },
+            {
+                "title": "Pra\u017esk\u00fd Orloj: Prague astronomical clock simulator. (2022)",
+                "href": "https://orloj.org/orloj/"
+            },
+            {
+                "title": "Discord has been using ML to determine the gender and age of some of its users",
+                "href": "https://twitter.com/DiscordPreviews/status/1790065494432608432"
             },
             {
                 "title": "MacRelix \u2013 Unix-like features for classic Mac OS",
                 "href": "https://www.macrelix.org/"
             },
             {
-                "title": "It\u2019s an age of marvels",
-                "href": "https://blog.plover.com/tech/its-an-age-of-marvels.html"
-            },
-            {
                 "title": "Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]",
                 "href": "https://www.youtube.com/watch?v=9ag0fPMmYPQ"
             },
             {
-                "title": "The Alternative Implementation Problem",
-                "href": "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/"
+                "title": "Space Junk Removal Is Not Going Smoothly (2021)",
+                "href": "https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/"
             },
             {
-                "title": "Show HN: Boxwood \u2013 simple templating engine for JavaScript, in JavaScript",
-                "href": "https://github.com/buxlabs/boxwood"
+                "title": "It\u2019s an age of marvels",
+                "href": "https://blog.plover.com/tech/its-an-age-of-marvels.html"
             },
             {
                 "title": "Squarespace to Go Private in $6.9B All-Cash Transaction with Permira",
                 "href": "https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx"
             },
             {
-                "title": "Ruby 3.4, No More TypeError with **Nil as It Is Treated as an Empty Hash",
-                "href": "https://blog.saeloun.com/2024/05/13/ruby-3-4-no-more-type-error-with-nil/"
+                "title": "The Death of a Mnemonist",
+                "href": "https://www.historytoday.com/archive/months-past/death-mnemonist"
             }
         ]
     }
