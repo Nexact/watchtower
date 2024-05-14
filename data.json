@@ -7,16 +7,20 @@
                 "href": "https://without.boats/blog/references-are-like-jumps/"
             },
             {
-                "title": "Mixing rayon and tokio for fun and (hair) loss",
-                "href": "https://blog.dureuill.net/articles/dont-mix-rayon-tokio/"
-            },
-            {
                 "title": "Using ARG in a Dockerfile - beware the gotcha",
                 "href": "https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/"
             },
             {
                 "title": "How bad is LLVM really?",
                 "href": "https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really"
+            },
+            {
+                "title": "Mixing rayon and tokio for fun and (hair) loss",
+                "href": "https://blog.dureuill.net/articles/dont-mix-rayon-tokio/"
+            },
+            {
+                "title": "What Factors Explain the Nature of Software?",
+                "href": "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
             },
             {
                 "title": "Static Chess",
@@ -27,20 +31,20 @@
                 "href": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
             },
             {
-                "title": "What Factors Explain the Nature of Software?",
-                "href": "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
+                "title": "OpenAI GPT-4o",
+                "href": "https://openai.com/index/hello-gpt-4o/"
             },
             {
                 "title": "Bye Opam, Hello Nix",
                 "href": "https://priver.dev/blog/ocaml/bye-opam-hello-nix/"
             },
             {
-                "title": "OpenAI GPT-4o",
-                "href": "https://openai.com/index/hello-gpt-4o/"
-            },
-            {
                 "title": "Before you try to change something, make sure you can change nothing",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750"
+            },
+            {
+                "title": "Using Cuelang With Go for extracting structured data from LLMs",
+                "href": "https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/"
             },
             {
                 "title": "SEQUEL: a structured English query language (May 1974)",
@@ -55,12 +59,12 @@
                 "href": "https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses"
             },
             {
-                "title": "Unix version control lore: what, ident",
-                "href": "https://dotat.at/@/2024-05-13-what-ident.html"
-            },
-            {
                 "title": "Snip Snap",
                 "href": "https://peppe.rs/posts/snip_snap/"
+            },
+            {
+                "title": "Unix version control lore: what, ident",
+                "href": "https://dotat.at/@/2024-05-13-what-ident.html"
             },
             {
                 "title": "Hurl - Run and Test HTTP Requests",
@@ -79,28 +83,24 @@
                 "href": "http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql"
             },
             {
-                "title": "Recent Docker BuildKit Features You're Missing Out On",
-                "href": "https://martinheinz.dev/blog/111"
-            },
-            {
-                "title": "Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel",
-                "href": "https://lkml.org/lkml/2024/5/12/224"
-            },
-            {
-                "title": "Snappy UI Optimization with useDeferredValue",
-                "href": "https://www.joshwcomeau.com/react/use-deferred-value/"
+                "title": "Higher RAII, and the Seven Arcane Uses of Linear Types",
+                "href": "https://verdagon.dev/blog/higher-raii-uses-linear-types"
             },
             {
                 "title": "State of HTML 2023",
                 "href": "https://2023.stateofhtml.com/en-US/"
             },
             {
-                "title": "Git Merge 2024, September 19-20, 2024, Berlin",
-                "href": "https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u"
-            },
-            {
                 "title": "dependabot-core is now open source with an MIT license",
                 "href": "https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/"
+            },
+            {
+                "title": "Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel",
+                "href": "https://lkml.org/lkml/2024/5/12/224"
+            },
+            {
+                "title": "Recent Docker BuildKit Features You're Missing Out On",
+                "href": "https://martinheinz.dev/blog/111"
             }
         ]
     },
@@ -217,6 +217,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Apple and Google add alerts for unknown Bluetooth trackers to iOS, Android",
+                "href": "https://www.bleepingcomputer.com/news/security/apple-and-google-add-alerts-for-unknown-bluetooth-trackers-to-ios-android/"
+            },
+            {
+                "title": "VMware fixes three zero-day bugs exploited at Pwn2Own 2024",
+                "href": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-zero-day-bugs-exploited-at-pwn2own-2024/"
+            },
+            {
                 "title": "Google Chrome emergency update fixes 6th zero-day exploited in 2024",
                 "href": "https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-6th-zero-day-exploited-in-2024/"
             },
@@ -255,14 +263,6 @@
             {
                 "title": "The Post Millennial hack leaked data impacting 26 million people",
                 "href": "https://www.bleepingcomputer.com/news/security/the-post-millennial-hack-leaked-data-impacting-26-million-people/"
-            },
-            {
-                "title": "CISA: Black Basta ransomware breached over 500 orgs worldwide",
-                "href": "https://www.bleepingcomputer.com/news/security/cisa-black-basta-ransomware-breached-over-500-orgs-worldwide/"
-            },
-            {
-                "title": "Europol confirms web portal breach, says no operational data stolen",
-                "href": "https://www.bleepingcomputer.com/news/security/europol-confirms-web-portal-breach-says-no-operational-data-stolen/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Tornado Cash Developer Found Guilty of Laundering $1.2 Billion of Crypto",
+                "href": "https://yro.slashdot.org/story/24/05/14/1411258/tornado-cash-developer-found-guilty-of-laundering-12-billion-of-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "AWS CEO To Step Down",
                 "href": "https://slashdot.org/story/24/05/14/1342220/aws-ceo-to-step-down?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "First Person To Receive a Genetically Modified Pig Kidney Transplant Dies",
                 "href": "https://science.slashdot.org/story/24/05/13/208227/first-person-to-receive-a-genetically-modified-pig-kidney-transplant-dies?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microsoft Places Uses AI To Find the Best Time For Your Next Office Day",
-                "href": "https://it.slashdot.org/story/24/05/13/201251/microsoft-places-uses-ai-to-find-the-best-time-for-your-next-office-day?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -589,6 +589,26 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-and-partners-release-guidance-civil-society-organizations-mitigating-cyber-threats-limited"
             },
             {
+                "title": "Johnson Controls Software House C-CURE 9000",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-03"
+            },
+            {
+                "title": "Rockwell Automation FactoryTalk Remote Access",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-01"
+            },
+            {
+                "title": "Mitsubishi Electric Multiple FA Engineering Software Products",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-04"
+            },
+            {
+                "title": "SUBNET PowerSYSTEM Center and Substation Server",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-135-02"
+            },
+            {
+                "title": "CISA Releases Four Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories"
+            },
+            {
                 "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/05/13/cisa-adds-one-known-exploited-vulnerability-catalog"
             },
@@ -603,26 +623,6 @@
             {
                 "title": "Delta Electronics InfraSuite Device Master",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-130-03"
-            },
-            {
-                "title": "Rockwell Automation FactoryTalk Historian SE",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-130-01"
-            },
-            {
-                "title": "CISA Releases Four Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/05/09/cisa-releases-four-industrial-control-systems-advisories"
-            },
-            {
-                "title": "alpitronic Hypercharger EV Charger",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-130-02"
-            },
-            {
-                "title": "ASD\u2019s ACSC, CISA, and Partners Release Secure by Design Guidance on Choosing Secure and Verifiable Technologies",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/05/09/asds-acsc-cisa-and-partners-release-secure-design-guidance-choosing-secure-and-verifiable"
-            },
-            {
-                "title": "CISA Releases Two Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/05/07/cisa-releases-two-industrial-control-systems-advisories"
             }
         ]
     },
@@ -630,60 +630,60 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "Europol Confirms Incident Following Alleged Auction Of Staff Data",
-                "href": "https://packetstormsecurity.com/news/view/35867/Europol-Confirms-Incident-Following-Alleged-Auction-Of-Staff-Data.html"
+                "title": "SAP Patches Critical Vulnerabilities In CX Commerce, NetWeaver",
+                "href": "https://packetstormsecurity.com/news/view/35872/SAP-Patches-Critical-Vulnerabilities-In-CX-Commerce-NetWeaver.html"
             },
             {
-                "title": "Ascension Making Progress After Ransomware Attack",
-                "href": "https://packetstormsecurity.com/news/view/35868/Ascension-Making-Progress-After-Ransomware-Attack.html"
+                "title": "Zscaler Confirms Only Isolated Test Server Was Hacked",
+                "href": "https://packetstormsecurity.com/news/view/35873/Zscaler-Confirms-Only-Isolated-Test-Server-Was-Hacked.html"
             },
             {
-                "title": "Dell Says Info Leaked After Hacker Claims Access To 49M Records",
-                "href": "https://packetstormsecurity.com/news/view/35869/Dell-Says-Info-Leaked-After-Hacker-Claims-Access-To-49M-Records.html"
+                "title": "$2.5 Million Offered Up At Matrix Cup Chinese Hacking Contest",
+                "href": "https://packetstormsecurity.com/news/view/35874/-2.5-Million-Offered-Up-At-Matrix-Cup-Chinese-Hacking-Contest.html"
+            },
+            {
+                "title": "VMware Patches Vulnerabilities Exploited At Pwn2Own 2024",
+                "href": "https://packetstormsecurity.com/news/view/35875/VMware-Patches-Vulnerabilities-Exploited-At-Pwn2Own-2024.html"
+            },
+            {
+                "title": "Malicious PyPi Requests Fork Hides Backdoor In PNG File",
+                "href": "https://packetstormsecurity.com/news/view/35880/Malicious-PyPi-Requests-Fork-Hides-Backdoor-In-PNG-File.html"
+            },
+            {
+                "title": "Christie's Art Auctions Hit By A Cyber Attack",
+                "href": "https://packetstormsecurity.com/news/view/35879/Christies-Art-Auctions-Hit-By-A-Cyber-Attack.html"
+            },
+            {
+                "title": "Black Basta Ransomware Group Is Imperiling Critical Infrastructure",
+                "href": "https://packetstormsecurity.com/news/view/35878/Black-Basta-Ransomware-Group-Is-Imperiling-Critical-Infrastructure.html"
+            },
+            {
+                "title": "NHS Digital Hints At Exploit Sightings Of Arcserve UDP Vulnerabilities",
+                "href": "https://packetstormsecurity.com/news/view/35877/NHS-Digital-Hints-At-Exploit-Sightings-Of-Arcserve-UDP-Vulnerabilities.html"
+            },
+            {
+                "title": "Google, Apple Gear To Raise Tracking Tag Stalker Alarm",
+                "href": "https://packetstormsecurity.com/news/view/35876/Google-Apple-Gear-To-Raise-Tracking-Tag-Stalker-Alarm.html"
+            },
+            {
+                "title": "Telegram CEO Calls Out Rival Signal, Claims It Has Ties With US Government",
+                "href": "https://packetstormsecurity.com/news/view/35871/Telegram-CEO-Calls-Out-Rival-Signal-Claims-It-Has-Ties-With-US-Government.html"
             },
             {
                 "title": "NATO Draws A Cyber Red Line In Tensions With Russia",
                 "href": "https://packetstormsecurity.com/news/view/35870/NATO-Draws-A-Cyber-Red-Line-In-Tensions-With-Russia.html"
             },
             {
-                "title": "500,000 Impacted By Ohio Lottery Ransomware Attack",
-                "href": "https://packetstormsecurity.com/news/view/35866/500-000-Impacted-By-Ohio-Lottery-Ransomware-Attack.html"
+                "title": "Dell Says Info Leaked After Hacker Claims Access To 49M Records",
+                "href": "https://packetstormsecurity.com/news/view/35869/Dell-Says-Info-Leaked-After-Hacker-Claims-Access-To-49M-Records.html"
             },
             {
-                "title": "MoD Contractor Hacked By China Failed To Report Breach For Months",
-                "href": "https://packetstormsecurity.com/news/view/35865/MoD-Contractor-Hacked-By-China-Failed-To-Report-Breach-For-Months.html"
+                "title": "Ascension Making Progress After Ransomware Attack",
+                "href": "https://packetstormsecurity.com/news/view/35868/Ascension-Making-Progress-After-Ransomware-Attack.html"
             },
             {
-                "title": "Ex-White House Election Threat Hunter Weighs In On What To Expect In November",
-                "href": "https://packetstormsecurity.com/news/view/35864/Ex-White-House-Election-Threat-Hunter-Weighs-In-On-What-To-Expect-In-November.html"
-            },
-            {
-                "title": "FBI Working Towards Nabbing Scattered Spider Hackers, Official Says",
-                "href": "https://packetstormsecurity.com/news/view/35863/FBI-Working-Towards-Nabbing-Scattered-Spider-Hackers-Official-Says.html"
-            },
-            {
-                "title": "Leaked FBI Email Stresses Need For Warrantless Surveillance Of Americans",
-                "href": "https://packetstormsecurity.com/news/view/35862/Leaked-FBI-Email-Stresses-Need-For-Warrantless-Surveillance-Of-Americans.html"
-            },
-            {
-                "title": "Exploited Chrome Zero Day Patched By Google",
-                "href": "https://packetstormsecurity.com/news/view/35861/Exploited-Chrome-Zero-Day-Patched-By-Google.html"
-            },
-            {
-                "title": "Cybersecurity Incident Impacts Operations At Ascension Hospitals",
-                "href": "https://packetstormsecurity.com/news/view/35860/Cybersecurity-Incident-Impacts-Operations-At-Ascension-Hospitals.html"
-            },
-            {
-                "title": "World Warned To Prepare For Today's Severe Geomagnetic Storm, First In 20 Years",
-                "href": "https://packetstormsecurity.com/news/view/35859/World-Warned-To-Prepare-For-Todays-Severe-Geomagnetic-Storm-First-In-20-Years.html"
-            },
-            {
-                "title": "GhostStripe Attack Haunts Self-Driving Cars",
-                "href": "https://packetstormsecurity.com/news/view/35858/GhostStripe-Attack-Haunts-Self-Driving-Cars.html"
-            },
-            {
-                "title": "AWS CloudQuarry: Digging For Secrets In Public AMIs",
-                "href": "https://packetstormsecurity.com/news/view/35857/AWS-CloudQuarry-Digging-For-Secrets-In-Public-AMIs.html"
+                "title": "Europol Confirms Incident Following Alleged Auction Of Staff Data",
+                "href": "https://packetstormsecurity.com/news/view/35867/Europol-Confirms-Incident-Following-Alleged-Auction-Of-Staff-Data.html"
             },
             {
                 "title": "Debian Security Advisory 5688-1",
@@ -791,16 +791,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Blazingly Fast Linked Lists",
+                "title": "Blazingly fast linked lists",
                 "href": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
-            },
-            {
-                "title": "GPT-4o",
-                "href": "https://openai.com/index/hello-gpt-4o/"
             },
             {
                 "title": "Disney's Robots Use Rockets to Stick the Landing",
                 "href": "https://spectrum.ieee.org/disney-robot-2668135204"
+            },
+            {
+                "title": "Wasp-193B, a giant planet with a density similar to that of cotton candy",
+                "href": "https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy"
             },
             {
                 "title": "Commodore 64 runs AI to generate images",
@@ -815,6 +815,14 @@
                 "href": "https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929"
             },
             {
+                "title": "New work extends the thermodynamic theory of computation",
+                "href": "https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation"
+            },
+            {
+                "title": "GPT-4o",
+                "href": "https://openai.com/index/hello-gpt-4o/"
+            },
+            {
                 "title": "Timekeeping Before Clocks",
                 "href": "https://worldhistory.substack.com/p/to-cut-and-hack-my-days"
             },
@@ -827,12 +835,12 @@
                 "href": "https://www.val.town/v/maxm/staticChess"
             },
             {
-                "title": "A review on protein language models",
-                "href": "https://www.apoorva-srinivasan.com/plms/"
-            },
-            {
                 "title": "Unriddle (YC S24) Is Hiring a Founding Engineer",
                 "href": "https://www.workatastartup.com/jobs/66506"
+            },
+            {
+                "title": "Firefox to collect anonymized and categorized search data",
+                "href": "https://blog.mozilla.org/en/products/firefox/firefox-search-update/"
             },
             {
                 "title": "A Pattern Language",
@@ -843,36 +851,36 @@
                 "href": "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
             },
             {
-                "title": "Silicon Valley once chafed at dictatorships. Then came a Middle East gold rush",
-                "href": "https://www.washingtonpost.com/technology/2024/05/14/middle-east-ai-tech-companies-saudi-arabia-uae/"
-            },
-            {
-                "title": "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
-                "href": "https://github.com/nkasmanoff/pi-card"
+                "title": "A review on protein language models",
+                "href": "https://www.apoorva-srinivasan.com/plms/"
             },
             {
                 "title": "Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right",
                 "href": "https://www.macstories.net/stories/not-an-ipad-pro-review/"
             },
             {
-                "title": "Unitree G1 Humanoid Agent",
-                "href": "https://www.unitree.com/g1/"
+                "title": "Rice has a methane problem that a startup is promising to fix",
+                "href": "https://www.japantimes.co.jp/environment/2024/05/09/sustainability/rice-methane-problem-startup/"
             },
             {
-                "title": "DOS game \u201dF-15 Strike Eagle II\u201d reverse engineering/reconstruction war stories",
-                "href": "https://neuviemeporte.github.io/category/f15-se2.html"
-            },
-            {
-                "title": "Show HN: An open source framework for voice assistants",
-                "href": "https://github.com/pipecat-ai/pipecat"
+                "title": "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
+                "href": "https://github.com/nkasmanoff/pi-card"
             },
             {
                 "title": "Verilator: Open-Source SystemVerilog simulator and lint system",
                 "href": "https://github.com/verilator/verilator"
             },
             {
-                "title": "First Contact with Emulation",
-                "href": "https://brainbaking.com/post/2024/05/fist-contact-with-emulation/"
+                "title": "DOS game \u201dF-15 Strike Eagle II\u201d reverse engineering/reconstruction war stories",
+                "href": "https://neuviemeporte.github.io/category/f15-se2.html"
+            },
+            {
+                "title": "Unitree G1 Humanoid Agent",
+                "href": "https://www.unitree.com/g1/"
+            },
+            {
+                "title": "Show HN: An open source framework for voice assistants",
+                "href": "https://github.com/pipecat-ai/pipecat"
             },
             {
                 "title": "Intel announces the Aurora supercomputer has broken the exascale barrier",
@@ -883,32 +891,24 @@
                 "href": "https://thefoggiest.dev/2024/05/13/msx-elite"
             },
             {
-                "title": "Deblur-GS: 3D Gaussian splatting from camera motion blurred images",
-                "href": "https://chaphlagical.icu/Deblur-GS/"
-            },
-            {
                 "title": "Truffle ISLISP",
                 "href": "https://arvyy.github.io/islisp-truffle/"
             },
             {
-                "title": "Meteor Lake's E-Cores: Crestmont Makes Incremental Progress",
-                "href": "https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/"
+                "title": "Deblur-GS: 3D Gaussian splatting from camera motion blurred images",
+                "href": "https://chaphlagical.icu/Deblur-GS/"
             },
             {
                 "title": "Memory Consistency Models: A Tutorial",
                 "href": "https://www.cs.utexas.edu/~bornholt/post/memory-models.html"
             },
             {
+                "title": "Meteor Lake's E-Cores: Crestmont Makes Incremental Progress",
+                "href": "https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/"
+            },
+            {
                 "title": "Why Surrealism Matters: Book review",
                 "href": "https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/"
-            },
-            {
-                "title": "Fifteen Fundamental Properties (2022)",
-                "href": "https://camillovisini.com/writing/fifteen-fundamental-properties"
-            },
-            {
-                "title": "Unix version control lore: what, ident",
-                "href": "https://dotat.at/@/2024-05-13-what-ident.html"
             }
         ]
     }
