@@ -7,12 +7,12 @@
                 "href": "https://without.boats/blog/references-are-like-jumps/"
             },
             {
-                "title": "Using ARG in a Dockerfile - beware the gotcha",
-                "href": "https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/"
-            },
-            {
                 "title": "How bad is LLVM really?",
                 "href": "https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really"
+            },
+            {
+                "title": "Using ARG in a Dockerfile - beware the gotcha",
+                "href": "https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/"
             },
             {
                 "title": "What Factors Explain the Nature of Software?",
@@ -27,12 +27,16 @@
                 "href": "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
             },
             {
-                "title": "Static Chess",
-                "href": "https://www.val.town/v/maxm/staticChess"
-            },
-            {
                 "title": "Before you try to change something, make sure you can change nothing",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750"
+            },
+            {
+                "title": "A peek into build provenance for Homebrew",
+                "href": "https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/"
+            },
+            {
+                "title": "Static Chess",
+                "href": "https://www.val.town/v/maxm/staticChess"
             },
             {
                 "title": "Bye Opam, Hello Nix",
@@ -41,10 +45,6 @@
             {
                 "title": "OpenAI GPT-4o",
                 "href": "https://openai.com/index/hello-gpt-4o/"
-            },
-            {
-                "title": "A peek into build provenance for Homebrew",
-                "href": "https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/"
             },
             {
                 "title": "SEQUEL: a structured English query language (May 1974)",
@@ -59,6 +59,10 @@
                 "href": "https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/"
             },
             {
+                "title": "Why Patching Globals Is Harmful",
+                "href": "https://kettanaito.com/blog/why-patching-globals-is-harmful"
+            },
+            {
                 "title": "Snip Snap",
                 "href": "https://peppe.rs/posts/snip_snap/"
             },
@@ -71,16 +75,16 @@
                 "href": "https://dotat.at/@/2024-05-13-what-ident.html"
             },
             {
-                "title": "Why Patching Globals Is Harmful",
-                "href": "https://kettanaito.com/blog/why-patching-globals-is-harmful"
-            },
-            {
                 "title": "Hurl - Run and Test HTTP Requests",
                 "href": "https://hurl.dev/"
             },
             {
                 "title": "ECMAScript modules plugin for MDXEditor",
                 "href": "https://github.com/arihantverma/mdx-editor-plugin-esm"
+            },
+            {
+                "title": "Blazingly Fast Linked Lists",
+                "href": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
             },
             {
                 "title": "State of HTML 2023",
@@ -97,10 +101,6 @@
             {
                 "title": "When to split patches (for PostgreSQL)",
                 "href": "http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql"
-            },
-            {
-                "title": "Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel",
-                "href": "https://lkml.org/lkml/2024/5/12/224"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Google is Experimenting With Running Chrome OS on Android",
+                "href": "https://tech.slashdot.org/story/24/05/14/1723223/google-is-experimenting-with-running-chrome-os-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Threat Actor Scraped Dell Support Tickets, Including Customer Phone Numbers",
                 "href": "https://yro.slashdot.org/story/24/05/14/1654237/threat-actor-scraped-dell-support-tickets-including-customer-phone-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,16 +377,16 @@
             {
                 "title": "Melinda Gates To Resign From Gates Foundation",
                 "href": "https://news.slashdot.org/story/24/05/13/2039214/melinda-gates-to-resign-from-gates-foundation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AI Hitting Labour Forces Like a 'Tsunami', IMF Chief Says",
-                "href": "https://slashdot.org/story/24/05/13/2020203/ai-hitting-labour-forces-like-a-tsunami-imf-chief-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Mozilla security advisory (AV24-264)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-264"
+            },
             {
                 "title": "[Control systems] Siemens security advisory (AV24-263)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-263"
@@ -578,10 +582,6 @@
             {
                 "title": "[Control systems] CISA ICS security advisories (AV24-216)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-216"
-            },
-            {
-                "title": "Ivanti security advisory (AV24-215)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-215"
             }
         ]
     },
@@ -795,48 +795,56 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Sir, there's a cat in your mirror dimension",
-                "href": "https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension"
+                "title": "What happened to 3D midair plasma displays?",
+                "href": "https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch"
             },
             {
                 "title": "The 1871 Samuel Morse Statue (2014)",
                 "href": "http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html"
             },
             {
-                "title": "What happened to 3D midair plasma displays?",
-                "href": "https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch"
-            },
-            {
                 "title": "Show HN: Pico: An open-source Ngrok alternative built for production traffic",
                 "href": "https://github.com/andydunstall/pico"
+            },
+            {
+                "title": "The Economics of a Sweetgreen Salad",
+                "href": "https://sherwood.news/business/the-economics-of-a-usd15-sweetgreen-salad/"
             },
             {
                 "title": "Blazingly fast linked lists",
                 "href": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
             },
             {
-                "title": "Linum (YC W23) is hiring a founding AI engineer to train text-to-video models",
-                "href": "https://www.workatastartup.com/jobs/66397"
-            },
-            {
                 "title": "Disney's Robots Use Rockets to Stick the Landing",
                 "href": "https://spectrum.ieee.org/disney-robot-2668135204"
+            },
+            {
+                "title": "Linum (YC W23) is hiring a founding AI engineer to train text-to-video models",
+                "href": "https://www.workatastartup.com/jobs/66397"
             },
             {
                 "title": "New work extends the thermodynamic theory of computation",
                 "href": "https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation"
             },
             {
+                "title": "VMware Fusion Pro and Workstation Pro now free for all personal use",
+                "href": "https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html"
+            },
+            {
                 "title": "The Notifier Pattern for Applications That Use Postgres",
                 "href": "https://brandur.org/notifier"
+            },
+            {
+                "title": "Timekeeping Before Clocks",
+                "href": "https://worldhistory.substack.com/p/to-cut-and-hack-my-days"
             },
             {
                 "title": "GPT-4o",
                 "href": "https://openai.com/index/hello-gpt-4o/"
             },
             {
-                "title": "Timekeeping Before Clocks",
-                "href": "https://worldhistory.substack.com/p/to-cut-and-hack-my-days"
+                "title": "Frank Ramsey: A Genius by All Tests for Genius (2020)",
+                "href": "https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius"
             },
             {
                 "title": "Pen Plotter Programming: The Basics (2017)",
@@ -851,12 +859,20 @@
                 "href": "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
             },
             {
+                "title": "A Pattern Language",
+                "href": "https://patternlanguage.cc/"
+            },
+            {
                 "title": "Wasp-193B, a giant planet with a density similar to that of cotton candy",
                 "href": "https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy"
             },
             {
-                "title": "A Pattern Language",
-                "href": "https://patternlanguage.cc/"
+                "title": "The First Convolutional-KANs",
+                "href": "https://github.com/AntonioTepsich/Convolutional-KANs"
+            },
+            {
+                "title": "The Guide to Haskell Strings",
+                "href": "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
             },
             {
                 "title": "A review on protein language models",
@@ -867,28 +883,16 @@
                 "href": "https://github.com/verilator/verilator"
             },
             {
-                "title": "Ford trims EV battery orders as losses swell to over $100k per electric car",
-                "href": "https://electrek.co/2024/05/13/ford-trims-battery-orders-losses-swell-over-100000-per-ev/"
-            },
-            {
-                "title": "Using Spent coffee grounds to enhance concrete strength",
-                "href": "https://www.sciencedirect.com/science/article/pii/S0959652623023636"
-            },
-            {
-                "title": "New gel breaks down alcohol in the body",
-                "href": "https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html"
+                "title": "Sir, there's a cat in your mirror dimension",
+                "href": "https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension"
             },
             {
                 "title": "Apple and Google deliver support for unwanted tracking alerts in iOS and Android",
                 "href": "https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/"
             },
             {
-                "title": "Firefox search update",
-                "href": "https://blog.mozilla.org/en/products/firefox/firefox-search-update/"
-            },
-            {
-                "title": "The Guide to Haskell Strings",
-                "href": "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
+                "title": "New gel breaks down alcohol in the body",
+                "href": "https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html"
             },
             {
                 "title": "Static Chess",
@@ -899,20 +903,16 @@
                 "href": "https://arvyy.github.io/islisp-truffle/"
             },
             {
+                "title": "Firefox search update",
+                "href": "https://blog.mozilla.org/en/products/firefox/firefox-search-update/"
+            },
+            {
                 "title": "Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right",
                 "href": "https://www.macstories.net/stories/not-an-ipad-pro-review/"
             },
             {
-                "title": "Kernel 6.9: Enable, test, repeat",
-                "href": "https://www.collabora.com/news-and-blog/news-and-events/kernel-69-enable-test-repeat.html"
-            },
-            {
                 "title": "MSX Elite",
                 "href": "https://thefoggiest.dev/2024/05/13/msx-elite"
-            },
-            {
-                "title": "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
-                "href": "https://github.com/nkasmanoff/pi-card"
             }
         ]
     }
