@@ -15,6 +15,10 @@
                 "href": "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
             },
             {
+                "title": "A Rust + WASM development environment with Nix",
+                "href": "https://jordankaye.dev/posts/rust-wasm-nix/"
+            },
+            {
                 "title": "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
                 "href": "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
             },
@@ -31,16 +35,16 @@
                 "href": "https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github"
             },
             {
-                "title": "A Rust + WASM development environment with Nix",
-                "href": "https://jordankaye.dev/posts/rust-wasm-nix/"
-            },
-            {
                 "title": "procfusion: Very simple process manager written in Rust for your Docker images",
                 "href": "https://github.com/linkdd/procfusion"
             },
             {
                 "title": "Before you try to change something, make sure you can change nothing",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750"
+            },
+            {
+                "title": "VMware Fusion: The Worst Website In The Entire World",
+                "href": "https://matduggan.com/the-worst-website-in-the-entire-world/"
             },
             {
                 "title": "The new APT 3.0 solver",
@@ -51,16 +55,8 @@
                 "href": "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
             },
             {
-                "title": "What went wrong with UniSuper and Google Cloud?",
-                "href": "https://danielcompton.net/google-cloud-unisuper"
-            },
-            {
                 "title": "An Empirical Evaluation of Columnar Storage Formats",
                 "href": "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
-            },
-            {
-                "title": "Using LLM enhanced screen recording to feed AI chat bot",
-                "href": "https://app.snapclip.io/share/Y02N0e"
             },
             {
                 "title": "Using ARG in a Dockerfile - beware the gotcha",
@@ -83,10 +79,6 @@
                 "href": "http://deepsea.inria.fr/chunkedseq/"
             },
             {
-                "title": "VMware Fusion: The Worst Website In The Entire World",
-                "href": "https://matduggan.com/the-worst-website-in-the-entire-world/"
-            },
-            {
                 "title": "An introduction to Shader Art Coding",
                 "href": "https://www.youtube.com/watch?v=f4s1h2YETNY"
             },
@@ -101,6 +93,14 @@
             {
                 "title": "Heroku on two standard dynos?",
                 "href": "https://brandur.org/fragments/heroku-two-dynos"
+            },
+            {
+                "title": "Another Chrome vulnerability - Dissection of yesterday's zero day bug",
+                "href": "https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html"
+            },
+            {
+                "title": "Arch Linux Ports",
+                "href": "https://rfc.archlinux.page/0032-arch-linux-ports/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Boeing May Face Criminal Prosecution Over 737 Max Crashes, US Says",
+                "href": "https://news.slashdot.org/story/24/05/15/149255/boeing-may-face-criminal-prosecution-over-737-max-crashes-us-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Has Section 230 'Outlived Its Usefulness'?",
                 "href": "https://yro.slashdot.org/story/24/05/15/0034249/has-section-230-outlived-its-usefulness?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Unity's Marc Whitten Resigns Amid Runtime Fee Controversy",
                 "href": "https://tech.slashdot.org/story/24/05/14/1852236/unitys-marc-whitten-resigns-amid-runtime-fee-controversy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google's Invisible AI Watermark Will Help Identify Generative Text and Video",
-                "href": "https://tech.slashdot.org/story/24/05/14/1822200/googles-invisible-ai-watermark-will-help-identify-generative-text-and-video?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -690,6 +690,74 @@
                 "href": "https://packetstormsecurity.com/news/view/35874/-2.5-Million-Offered-Up-At-Matrix-Cup-Chinese-Hacking-Contest.html"
             },
             {
+                "title": "Cacti 1.2.26 Remote Code Execution",
+                "href": "https://packetstormsecurity.com/files/178584/KIS-2024-04.txt"
+            },
+            {
+                "title": "SAP Cloud Connector 2.16.1 Missing Validation",
+                "href": "https://packetstormsecurity.com/files/178583/SA-20240513-0.txt"
+            },
+            {
+                "title": "Zope 5.9 Command Injection",
+                "href": "https://packetstormsecurity.com/files/178582/zope59-exec.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-8",
+                "href": "https://packetstormsecurity.com/files/178581/APPLE-SA-05-13-2024-8.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-7",
+                "href": "https://packetstormsecurity.com/files/178580/APPLE-SA-05-13-2024-7.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-6",
+                "href": "https://packetstormsecurity.com/files/178579/APPLE-SA-05-13-2024-6.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-5",
+                "href": "https://packetstormsecurity.com/files/178578/APPLE-SA-05-13-2024-5.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-08-2024-1",
+                "href": "https://packetstormsecurity.com/files/178577/APPLE-SA-05-08-2024-1.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-4",
+                "href": "https://packetstormsecurity.com/files/178576/APPLE-SA-05-13-2024-4.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-3",
+                "href": "https://packetstormsecurity.com/files/178575/APPLE-SA-05-13-2024-3.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-2",
+                "href": "https://packetstormsecurity.com/files/178574/APPLE-SA-05-13-2024-2.txt"
+            },
+            {
+                "title": "Apple Security Advisory 05-13-2024-1",
+                "href": "https://packetstormsecurity.com/files/178573/APPLE-SA-05-13-2024-1.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2846-03",
+                "href": "https://packetstormsecurity.com/files/178572/RHSA-2024-2846-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2845-03",
+                "href": "https://packetstormsecurity.com/files/178571/RHSA-2024-2845-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2843-03",
+                "href": "https://packetstormsecurity.com/files/178570/RHSA-2024-2843-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2842-03",
+                "href": "https://packetstormsecurity.com/files/178569/RHSA-2024-2842-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2839-03",
+                "href": "https://packetstormsecurity.com/files/178568/RHSA-2024-2839-03.txt"
+            },
+            {
                 "title": "Ubuntu Security Notice USN-6767-2",
                 "href": "https://packetstormsecurity.com/files/178567/USN-6767-2.txt"
             },
@@ -720,74 +788,6 @@
             {
                 "title": "Red Hat Security Advisory 2024-2833-03",
                 "href": "https://packetstormsecurity.com/files/178560/RHSA-2024-2833-03.txt"
-            },
-            {
-                "title": "Chyrp 2.5.2 Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178559/chyrp252-xss.txt"
-            },
-            {
-                "title": "Leafpub 1.1.9 Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178558/leafpub119-xss.txt"
-            },
-            {
-                "title": "Prison Management System Using PHP SQL Injection",
-                "href": "https://packetstormsecurity.com/files/178557/pmsup-sql.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5688-1",
-                "href": "https://packetstormsecurity.com/files/178556/dsa-5688-1.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5687-1",
-                "href": "https://packetstormsecurity.com/files/178555/dsa-5687-1.txt"
-            },
-            {
-                "title": "Kemp LoadMaster Local sudo Privilege Escalation",
-                "href": "https://packetstormsecurity.com/files/178554/progress_kemp_loadmaster_sudo_privesc_2024.rb.txt"
-            },
-            {
-                "title": "Gentoo Linux Security Advisory 202405-33",
-                "href": "https://packetstormsecurity.com/files/178553/glsa-202405-33.txt"
-            },
-            {
-                "title": "Gentoo Linux Security Advisory 202405-32",
-                "href": "https://packetstormsecurity.com/files/178552/glsa-202405-32.txt"
-            },
-            {
-                "title": "Gentoo Linux Security Advisory 202405-31",
-                "href": "https://packetstormsecurity.com/files/178551/glsa-202405-31.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6771-1",
-                "href": "https://packetstormsecurity.com/files/178549/USN-6771-1.txt"
-            },
-            {
-                "title": "Panel.SmokeLoader MVID-2024-0682 Cross Site Request Forgery / Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178548/MVID-2024-0682.txt"
-            },
-            {
-                "title": "Panel.SmokeLoader MVID-2024-0681 Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178547/MVID-2024-0681.txt"
-            },
-            {
-                "title": "Esteghlal F.C. Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178546/esteghlalfc-xss.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2822-03",
-                "href": "https://packetstormsecurity.com/files/178545/RHSA-2024-2822-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2821-03",
-                "href": "https://packetstormsecurity.com/files/178544/RHSA-2024-2821-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2820-03",
-                "href": "https://packetstormsecurity.com/files/178543/RHSA-2024-2820-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2817-03",
-                "href": "https://packetstormsecurity.com/files/178542/RHSA-2024-2817-03.txt"
             }
         ]
     },
@@ -799,12 +799,20 @@
                 "href": "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
             },
             {
+                "title": "The Worst Website in the Entire World",
+                "href": "https://matduggan.com/the-worst-website-in-the-entire-world/"
+            },
+            {
                 "title": "How to get 7th graders to smoke",
                 "href": "https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke"
             },
             {
-                "title": "The Worst Website in the Entire World",
-                "href": "https://matduggan.com/the-worst-website-in-the-entire-world/"
+                "title": "What went wrong with UniSuper and Google Cloud?",
+                "href": "https://danielcompton.net/google-cloud-unisuper"
+            },
+            {
+                "title": "Jan Leike Resigns from OpenAI",
+                "href": "https://twitter.com/janleike/status/1790603862132596961"
             },
             {
                 "title": "Translation of the Rust's core and alloc crates to Coq for formal verification",
@@ -815,36 +823,28 @@
                 "href": "https://ha.cking.ch/s8_data_line_locator/"
             },
             {
-                "title": "Fastest rate of natural carbon dioxide rise over the last 50k years",
-                "href": "https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years"
+                "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
+                "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
             },
             {
                 "title": "Show HN: I built a math website the internet loved, I'm back with more features",
                 "href": "https://teachyourselfmath.app/?page=1"
             },
             {
-                "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
-                "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
+                "title": "Fastest rate of natural carbon dioxide rise over the last 50k years",
+                "href": "https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years"
             },
             {
                 "title": "Speculating the entire x86-64 instruction set in seconds (2021)",
                 "href": "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/"
             },
             {
-                "title": "Gaussian Blue Noise (2022)",
-                "href": "https://arxiv.org/abs/2206.07798"
-            },
-            {
-                "title": "Jan Leike Resigns from OpenAI",
-                "href": "https://twitter.com/janleike/status/1790603862132596961"
-            },
-            {
-                "title": "Branded Types for TypeScript",
-                "href": "https://www.carlos-menezes.com/post/branded-types"
-            },
-            {
                 "title": "Nearly all Nintendo 64 games can now be recompiled into native PC ports",
                 "href": "https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more"
+            },
+            {
+                "title": "I Coded Something Dumb and I'm Proud of It",
+                "href": "https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/"
             },
             {
                 "title": "URLhaus: A database of malicious URLs used for malware distribution",
@@ -859,60 +859,60 @@
                 "href": "https://deepmind.google/technologies/veo/"
             },
             {
-                "title": "Abstract Interpretation as a Programming Language",
-                "href": "https://arxiv.org/abs/1309.5133"
-            },
-            {
-                "title": "Great Question (YC W21) Is Hiring Product Engineers (Rails/React)",
-                "href": "https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react"
-            },
-            {
-                "title": "The Volvo VNL, a heavy truck purpose-designed for North American roads",
-                "href": "https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/"
+                "title": "Branded Types for TypeScript",
+                "href": "https://www.carlos-menezes.com/post/branded-types"
             },
             {
                 "title": "Ancient Eastern European mega-sites: a social levelling concept?",
                 "href": "https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679"
             },
             {
+                "title": "Great Question (YC W21) Is Hiring Product Engineers (Rails/React)",
+                "href": "https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react"
+            },
+            {
+                "title": "Abstract Interpretation as a Programming Language",
+                "href": "https://arxiv.org/abs/1309.5133"
+            },
+            {
+                "title": "The Volvo VNL, a heavy truck purpose-designed for North American roads",
+                "href": "https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/"
+            },
+            {
                 "title": "How did authorities identify the alleged LockBit boss?",
                 "href": "https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/"
             },
             {
-                "title": "HBase Deprecation at Pinterest",
-                "href": "https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7"
+                "title": "Gaussian Blue Noise (2022)",
+                "href": "https://arxiv.org/abs/2206.07798"
             },
             {
-                "title": "Ilya Sutskever to leave OpenAI",
-                "href": "https://twitter.com/ilyasut/status/1790517455628198322"
-            },
-            {
-                "title": "SMTP 550-5.7.1 Rejected Because of Virginia Redistricting",
-                "href": "https://www.khanna.law/blog/smtp-550-571-redistricting"
-            },
-            {
-                "title": "Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture",
-                "href": "https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/"
+                "title": "The Flaw of Averages (2020)",
+                "href": "https://causal.app/blog/forecasting-with-uncertainty"
             },
             {
                 "title": "Oracle goes vegan: Dumps Terraform for OpenTofu",
                 "href": "https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/"
             },
             {
+                "title": "SMTP 550-5.7.1 Rejected Because of Virginia Redistricting",
+                "href": "https://www.khanna.law/blog/smtp-550-571-redistricting"
+            },
+            {
+                "title": "Ilya Sutskever to leave OpenAI",
+                "href": "https://twitter.com/ilyasut/status/1790517455628198322"
+            },
+            {
+                "title": "HBase Deprecation at Pinterest",
+                "href": "https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7"
+            },
+            {
+                "title": "Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture",
+                "href": "https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/"
+            },
+            {
                 "title": "Model Explorer: intuitive and hierarchical visualization of model graphs",
                 "href": "https://ai.google.dev/edge/model-explorer"
-            },
-            {
-                "title": "Department of Justice says Boeing may be criminally liable in 737 MAX crashes",
-                "href": "https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/"
-            },
-            {
-                "title": "Downranking won't stop Google's deepfake porn problem, victims say",
-                "href": "https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/"
-            },
-            {
-                "title": "Review: The Variational Principles of Mechanics",
-                "href": "https://www.thepsmiths.com/p/review-the-variational-principles"
             }
         ]
     }
