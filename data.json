@@ -31,6 +31,10 @@
                 "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
+                "title": "crash: user-configurable login shell configured by the SHELLS environment variable",
+                "href": "https://github.com/RGBCube/crash"
+            },
+            {
                 "title": "Going to the cinema is a data visualization problem",
                 "href": "https://tonsky.me/blog/allekinos/"
             },
@@ -59,8 +63,8 @@
                 "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
             },
             {
-                "title": "crash: user-configurable login shell configured by the SHELLS environment variable",
-                "href": "https://github.com/RGBCube/crash"
+                "title": "ValOrDefault",
+                "href": "https://brandur.org/fragments/val-or-default"
             },
             {
                 "title": "How bad is LLVM really?",
@@ -69,10 +73,6 @@
             {
                 "title": "Translation of Rust's core and alloc crates to Coq",
                 "href": "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
-            },
-            {
-                "title": "ValOrDefault",
-                "href": "https://brandur.org/fragments/val-or-default"
             },
             {
                 "title": "An Empirical Evaluation of Columnar Storage Formats",
@@ -91,16 +91,16 @@
                 "href": "https://blog.jak-linux.org/2024/05/14/solver3/"
             },
             {
+                "title": "Understanding misunderstandings in source code",
+                "href": "https://dl.acm.org/doi/pdf/10.1145/3106237.3106264"
+            },
+            {
                 "title": "Haiku Activity & Contract Report, April 2024",
                 "href": "https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/"
             },
             {
                 "title": "Using ARG in a Dockerfile - beware the gotcha",
                 "href": "https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/"
-            },
-            {
-                "title": "Securing Git: Addressing 5 new vulnerabilities",
-                "href": "https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/"
             }
         ]
     },
@@ -795,92 +795,100 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Adobe Photoshop Source Code (2013)",
-                "href": "https://computerhistory.org/blog/adobe-photoshop-source-code/"
-            },
-            {
                 "title": "PaliGemma: Open-Source Multimodal Model by Google",
                 "href": "https://blog.roboflow.com/paligemma-multimodal-vision/"
             },
             {
-                "title": "Show HN: Tarsier \u2013 Vision utilities for web interaction agents",
-                "href": "https://github.com/reworkd/tarsier"
-            },
-            {
-                "title": "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
-                "href": "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
-            },
-            {
-                "title": "Project Gameface Launches on Android",
-                "href": "https://developers.googleblog.com/en/project-gameface-launches-on-android/"
-            },
-            {
-                "title": "Google Blog: Android's theft protection features keep your device and data safe",
-                "href": "https://blog.google/products/android/android-theft-protection/"
-            },
-            {
-                "title": "Show HN: Open-source BI and analytics for engineers",
-                "href": "https://github.com/quarylabs/quary"
-            },
-            {
-                "title": "Raspberry Pi Ltd is considering an IPO",
-                "href": "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
-            },
-            {
-                "title": "An Empirical Evaluation of Columnar Storage Formats [pdf]",
-                "href": "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
-            },
-            {
-                "title": "Jepsen: Datomic Pro 1.0.7075",
-                "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
-            },
-            {
-                "title": "Three of the oldest stars in the universe found circling the Milky Way",
-                "href": "https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514"
+                "title": "Adobe Photoshop Source Code (2013)",
+                "href": "https://computerhistory.org/blog/adobe-photoshop-source-code/"
             },
             {
                 "title": "Haiku Activity and Contract Report, April 2024",
                 "href": "https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/"
             },
             {
-                "title": "Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching",
-                "href": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
+                "title": "Show HN: Tarsier \u2013 Vision utilities for web interaction agents",
+                "href": "https://github.com/reworkd/tarsier"
             },
             {
-                "title": "Show HN: I made a Chrome extension to clean up your Gmail inbox locally",
-                "href": "https://www.inboxpurge.com/"
+                "title": "Project Gameface Launches on Android",
+                "href": "https://developers.googleblog.com/en/project-gameface-launches-on-android/"
+            },
+            {
+                "title": "A 'plague' comes before the fall: lessons from Roman history",
+                "href": "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
+            },
+            {
+                "title": "Google Blog: Android's theft protection features keep your device and data safe",
+                "href": "https://blog.google/products/android/android-theft-protection/"
+            },
+            {
+                "title": "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
+                "href": "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
             },
             {
                 "title": "Apple announces new accessibility features, including Eye Tracking",
                 "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
+                "title": "Show HN: Open-source BI and analytics for engineers",
+                "href": "https://github.com/quarylabs/quary"
+            },
+            {
+                "title": "Jepsen: Datomic Pro 1.0.7075",
+                "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
+            },
+            {
+                "title": "An Empirical Evaluation of Columnar Storage Formats [pdf]",
+                "href": "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
+            },
+            {
+                "title": "Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching",
+                "href": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
+            },
+            {
+                "title": "Raspberry Pi Ltd is considering an IPO",
+                "href": "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
+            },
+            {
+                "title": "Three of the oldest stars in the universe found circling the Milky Way",
+                "href": "https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514"
+            },
+            {
+                "title": "Show HN: I made a Chrome extension to clean up your Gmail inbox locally",
+                "href": "https://www.inboxpurge.com/"
+            },
+            {
                 "title": "Translation of Rust's core and alloc crates to Coq for formal verification",
                 "href": "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
             },
             {
-                "title": "A Tale of Two Sieves (1996) [pdf]",
-                "href": "https://www.ams.org/notices/199612/pomerance.pdf"
+                "title": "In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy?",
+                "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
             },
             {
                 "title": "A low budget consumer hardware espionage implant (2018)",
                 "href": "https://ha.cking.ch/s8_data_line_locator/"
             },
             {
-                "title": "Show HN: I wrote a symmetry game with a daily puzzle",
-                "href": "https://www.hidden-mirrors.com"
-            },
-            {
                 "title": "Brain biopsies on 'vulnerable' patients at Mt Sinai set off alarm bells at FDA",
                 "href": "https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/"
             },
             {
-                "title": "Branded types for TypeScript",
-                "href": "https://www.carlos-menezes.com/post/branded-types"
+                "title": "A Tale of Two Sieves (1996) [pdf]",
+                "href": "https://www.ams.org/notices/199612/pomerance.pdf"
+            },
+            {
+                "title": "Show HN: I wrote a symmetry game with a daily puzzle",
+                "href": "https://www.hidden-mirrors.com"
             },
             {
                 "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
                 "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
+            },
+            {
+                "title": "Branded types for TypeScript",
+                "href": "https://www.carlos-menezes.com/post/branded-types"
             },
             {
                 "title": "Speculating the entire x86-64 instruction set in seconds (2021)",
@@ -905,14 +913,6 @@
             {
                 "title": "The Flaw of Averages (2020)",
                 "href": "https://causal.app/blog/forecasting-with-uncertainty"
-            },
-            {
-                "title": "Ancient Eastern European mega-sites: a social levelling concept?",
-                "href": "https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679"
-            },
-            {
-                "title": "Oracle dumps Terraform for OpenTofu",
-                "href": "https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/"
             }
         ]
     }
