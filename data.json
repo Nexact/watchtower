@@ -47,6 +47,10 @@
                 "href": "https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/"
             },
             {
+                "title": "Google Uses IRC for Incident Response",
+                "href": "https://sre.google/sre-book/managing-incidents/"
+            },
+            {
                 "title": "VMware Fusion: The Worst Website In The Entire World",
                 "href": "https://matduggan.com/the-worst-website-in-the-entire-world/"
             },
@@ -59,6 +63,10 @@
                 "href": "https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/"
             },
             {
+                "title": "D3 in Depth: Create With Data",
+                "href": "https://www.d3indepth.com/"
+            },
+            {
                 "title": "That time PostgreSQL said \"no thanks, I don't need your index\"",
                 "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
             },
@@ -67,16 +75,16 @@
                 "href": "https://a.exozy.me/posts/bad-apple-animated-qr-code/"
             },
             {
-                "title": "Google Uses IRC for Incident Response",
-                "href": "https://sre.google/sre-book/managing-incidents/"
-            },
-            {
                 "title": "Geographically distributed Postgres for multi-tenant applications",
                 "href": "https://xata.io/blog/geo-distributed-postgres"
             },
             {
                 "title": "Avi Wigderson Named 2023 ACM Turing Award Winner",
                 "href": "https://awards.acm.org/about/2023-turing"
+            },
+            {
+                "title": "You probably don't need to validate UTF-8 strings",
+                "href": "https://viralinstruction.com/posts/utf8/"
             },
             {
                 "title": "A Rust + WASM development environment with Nix",
@@ -93,14 +101,6 @@
             {
                 "title": "Heroku on two standard dynos?",
                 "href": "https://brandur.org/fragments/heroku-two-dynos"
-            },
-            {
-                "title": "Upstreaming Linux kernel support for the Snapdragon X Elite",
-                "href": "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
-            },
-            {
-                "title": "Apple announces new accessibility features, including Eye Tracking",
-                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             }
         ]
     },
@@ -122,10 +122,6 @@
             {
                 "title": "Sasori: A dynamic web crawler built on top of Puppeteer",
                 "href": "https://www.reddit.com/r/netsec/comments/1ctisqu/sasori_a_dynamic_web_crawler_built_on_top_of/"
-            },
-            {
-                "title": "SecOps best practices for alert tuning",
-                "href": "https://www.reddit.com/r/netsec/comments/1ctkfzi/secops_best_practices_for_alert_tuning/"
             },
             {
                 "title": "Threat actors misusing Quick Assist in social engineering attacks leading to ransomware",
@@ -210,6 +206,10 @@
             {
                 "title": "Systematic VPN Detection",
                 "href": "https://www.reddit.com/r/netsec/comments/1cn6kjl/systematic_vpn_detection/"
+            },
+            {
+                "title": "Online DFIR Conference",
+                "href": "https://www.reddit.com/r/netsec/comments/1cn4iz4/online_dfir_conference/"
             }
         ]
     },
@@ -791,12 +791,36 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "JEP Draft: Support HTTP/3 in the HttpClient",
+                "href": "https://openjdk.org/jeps/8291976"
+            },
+            {
+                "title": "Egypt's pyramids may have been built on a long-lost branch of the Nile",
+                "href": "https://www.nature.com/articles/d41586-024-01449-y"
+            },
+            {
                 "title": "Llama3.np: pure NumPy implementation of Llama3",
                 "href": "https://github.com/likejazz/llama3.np"
             },
             {
                 "title": "Build WebGPU Apps Today with PlayCanvas",
                 "href": "https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/"
+            },
+            {
+                "title": "The most confusing emojis in every US state in 2024",
+                "href": "https://preply.com/en/blog/most-confusing-emojis-2024/"
+            },
+            {
+                "title": "Crypto brothers front-ran the front-runners",
+                "href": "https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners"
+            },
+            {
+                "title": "The Tragic Downfall of the Internet's Art Gallery",
+                "href": "https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html"
+            },
+            {
+                "title": "Google Gemini: Context Caching",
+                "href": "https://ai.google.dev/gemini-api/docs/caching"
             },
             {
                 "title": "ChatGPT-4o vs. Math",
@@ -807,14 +831,6 @@
                 "href": "https://www.d3indepth.com/"
             },
             {
-                "title": "The most confusing emojis in every US state in 2024",
-                "href": "https://preply.com/en/blog/most-confusing-emojis-2024/"
-            },
-            {
-                "title": "Google Gemini: Context Caching",
-                "href": "https://ai.google.dev/gemini-api/docs/caching"
-            },
-            {
                 "title": "F* \u2013 A Proof-Oriented Programming Language",
                 "href": "https://www.fstar-lang.org/"
             },
@@ -823,32 +839,36 @@
                 "href": "https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/"
             },
             {
-                "title": "The Tragic Downfall of the Internet's Art Gallery",
-                "href": "https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html"
+                "title": "Reflex (YC W23) Is Hiring Software Engineers",
+                "href": "https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer"
             },
             {
                 "title": "Raspberry Pi prepares for London listing",
                 "href": "https://www.ft.com/content/6d846a93-030a-4106-b045-d74a216493b0"
             },
             {
-                "title": "JEP Draft: Draft: Support HTTP/3 in the HttpClient",
-                "href": "https://openjdk.org/jeps/8291976"
+                "title": "High-Quality Software Engineering (2007)",
+                "href": "https://www.lurklurk.org/hqse/hqse.html"
             },
             {
-                "title": "Reflex (YC W23) Is Hiring Software Engineers",
-                "href": "https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer"
-            },
-            {
-                "title": "Crypto Brothers Front-Ran the Front-Runners",
-                "href": "https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners"
+                "title": "A long list of (advanced) JavaScript questions, and their explanations",
+                "href": "https://github.com/lydiahallie/javascript-questions"
             },
             {
                 "title": "Some notes on Rust, mutable aliasing and formal verification",
                 "href": "https://graydon2.dreamwidth.org/312681.html"
             },
             {
-                "title": "The spy who flunked it: Kurt G\u00f6del's forgotten part in the atom-bomb story",
-                "href": "https://www.nature.com/articles/d41586-024-00644-1"
+                "title": "\u0160tar: an iteration construct for Common Lisp",
+                "href": "https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/"
+            },
+            {
+                "title": "You probably don't need to validate UTF-8 strings",
+                "href": "https://viralinstruction.com/posts/utf8/"
+            },
+            {
+                "title": "Germany's Sovereign Tech Fund Now Supporting FFmpeg",
+                "href": "https://www.phoronix.com/news/Germany-STF-For-FFmpeg"
             },
             {
                 "title": "Why do CPUs have multiple cache levels? (2016)",
@@ -859,56 +879,36 @@
                 "href": "https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine"
             },
             {
-                "title": "High-Quality Software Engineering (2007)",
-                "href": "https://www.lurklurk.org/hqse/hqse.html"
-            },
-            {
-                "title": "Egypt's pyramids may have been built on a long-lost branch of the Nile",
-                "href": "https://www.nature.com/articles/s43247-024-01379-7"
+                "title": "The spy who flunked it: Kurt G\u00f6del's forgotten part in the atom-bomb story",
+                "href": "https://www.nature.com/articles/d41586-024-00644-1"
             },
             {
                 "title": "Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.",
                 "href": "https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/"
             },
             {
-                "title": "You probably don't need to validate UTF-8 strings",
-                "href": "https://viralinstruction.com/posts/utf8/"
+                "title": "Taboos and Self-Censorship Among U.S. Psychology Professors",
+                "href": "https://journals.sagepub.com/doi/full/10.1177/17456916241252085"
             },
             {
-                "title": "I Don't Want to Spend My One Precious Life Dealing with Google's AI Search",
-                "href": "https://aftermath.site/google-ai-search-god-no-why"
-            },
-            {
-                "title": "Forgotten APL Influences (2016) [pdf]",
-                "href": "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
+                "title": "Pmarca Guide to Personal Productivity (2007)",
+                "href": "https://pmarchive.com/guide_to_personal_productivity.html"
             },
             {
                 "title": "Companies need AI services revenues, not cost savings",
                 "href": "https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962"
             },
             {
+                "title": "Forgotten APL Influences (2016) [pdf]",
+                "href": "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
+            },
+            {
+                "title": "Smart Pointers in (GNU) C",
+                "href": "https://snai.pe/posts/c-smart-pointers"
+            },
+            {
                 "title": "New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy",
                 "href": "https://github.com/ggerganov/llama.cpp/pull/7154"
-            },
-            {
-                "title": "Localization in .NET console and desktop apps",
-                "href": "https://blog.axantum.com/2024/05/localizing-net-console-or-desktop.html"
-            },
-            {
-                "title": "PHYS771 Lecture 17: Fun with the Anthropic Principle (2006)",
-                "href": "https://www.scottaaronson.com/democritus/lec17.html"
-            },
-            {
-                "title": "My Sony HB-F1XV",
-                "href": "https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv"
-            },
-            {
-                "title": "What\u2019s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
-                "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
-            },
-            {
-                "title": "Marc Andreessen: Guide to Personal Productivity (2007)",
-                "href": "https://pmarchive.com/guide_to_personal_productivity.html"
             }
         ]
     }
