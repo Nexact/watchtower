@@ -11,6 +11,10 @@
                 "href": "https://matduggan.com/the-worst-website-in-the-entire-world/"
             },
             {
+                "title": "Rebuilding my homelab: Suffering as a service",
+                "href": "https://xeiaso.net/blog/2024/homelab-v2/"
+            },
+            {
                 "title": "A Rust + WASM development environment with Nix",
                 "href": "https://jordankaye.dev/posts/rust-wasm-nix/"
             },
@@ -27,12 +31,28 @@
                 "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
+                "title": "procfusion: Very simple process manager written in Rust for your Docker images",
+                "href": "https://github.com/linkdd/procfusion"
+            },
+            {
                 "title": "ok Considered Harmful",
                 "href": "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
             },
             {
                 "title": "That time PostgreSQL said \"no thanks, I don't need your index\"",
                 "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
+            },
+            {
+                "title": "crash: user-configurable login shell configured by the SHELLS environment variable",
+                "href": "https://github.com/RGBCube/crash"
+            },
+            {
+                "title": "Upstreaming Linux kernel support for the Snapdragon X Elite",
+                "href": "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
+            },
+            {
+                "title": "Going to the cinema is a data visualization problem",
+                "href": "https://tonsky.me/blog/allekinos/"
             },
             {
                 "title": "Discovering Small GitHub Projects for Contributing to FOSS",
@@ -45,6 +65,10 @@
             {
                 "title": "Make a game with Hoot for the Lisp Game Jam",
                 "href": "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
+            },
+            {
+                "title": "Inside a low budget consumer hardware espionage implant",
+                "href": "https://ha.cking.ch/s8_data_line_locator/"
             },
             {
                 "title": "Haiku Activity & Contract Report, April 2024",
@@ -77,30 +101,6 @@
             {
                 "title": "Before you try to change something, make sure you can change nothing",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750"
-            },
-            {
-                "title": "Blockly Glockenspiel",
-                "href": "https://neil.fraser.name/news/2023/08/31/"
-            },
-            {
-                "title": "Understanding misunderstandings in source code",
-                "href": "https://dl.acm.org/doi/pdf/10.1145/3106237.3106264"
-            },
-            {
-                "title": "What Factors Explain the Nature of Software?",
-                "href": "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
-            },
-            {
-                "title": "Virtual Boy: The bizarre rise and quick fall of Nintendo\u2019s enigmatic red console",
-                "href": "https://arstechnica.com/gaming/2024/05/virtual-boy-the-bizarre-rise-and-quick-fall-of-nintendos-enigmatic-red-console/"
-            },
-            {
-                "title": "References are like jumps",
-                "href": "https://without.boats/blog/references-are-like-jumps/"
-            },
-            {
-                "title": "Theory and practice of chunked sequences",
-                "href": "http://deepsea.inria.fr/chunkedseq/"
             }
         ]
     },
@@ -815,12 +815,16 @@
                 "href": "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
             },
             {
+                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
+                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
+            },
+            {
                 "title": "Show HN: Open-source BI and analytics for engineers",
                 "href": "https://github.com/quarylabs/quary"
             },
             {
-                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
-                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
+                "title": "Apple announces new accessibility features, including eye tracking",
+                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
                 "title": "Jepsen: Datomic Pro 1.0.7075",
@@ -835,36 +839,24 @@
                 "href": "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
             },
             {
-                "title": "Apple announces new accessibility features, including eye tracking",
-                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
-            },
-            {
                 "title": "Big Companies vs. Startups (2015)",
                 "href": "https://danluu.com/startup-tradeoffs/"
-            },
-            {
-                "title": "Show HN: Tarsier \u2013 Vision utilities for web interaction agents",
-                "href": "https://github.com/reworkd/tarsier"
             },
             {
                 "title": "Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments",
                 "href": "https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/"
             },
             {
+                "title": "Show HN: Tarsier \u2013 Vision utilities for web interaction agents",
+                "href": "https://github.com/reworkd/tarsier"
+            },
+            {
                 "title": "Show HN: I made a Mac app to search my images and videos locally with ML",
                 "href": "https://desktopdocs.com"
             },
             {
-                "title": "It's 2024 and drought is optional",
-                "href": "https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional"
-            },
-            {
                 "title": "Making a Postgres query 1k times faster",
                 "href": "https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/"
-            },
-            {
-                "title": "Google Blog: Android's theft protection features keep your device and data safe",
-                "href": "https://blog.google/products/android/android-theft-protection/"
             },
             {
                 "title": "Qualcomm's Oryon LLVM Patches",
@@ -875,16 +867,24 @@
                 "href": "https://www.hidden-mirrors.com"
             },
             {
-                "title": "Prototypal Inheritance (2008)",
-                "href": "https://crockford.com/javascript/prototypal.html"
+                "title": "Google Blog: Android's theft protection features keep your device and data safe",
+                "href": "https://blog.google/products/android/android-theft-protection/"
+            },
+            {
+                "title": "Merging Remix and React Router",
+                "href": "https://remix.run/blog/merging-remix-and-react-router"
             },
             {
                 "title": "When to Split Patches (For PostgreSQL)",
                 "href": "http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql"
             },
             {
-                "title": "Merging Remix and React Router",
-                "href": "https://remix.run/blog/merging-remix-and-react-router"
+                "title": "Prototypal Inheritance (2008)",
+                "href": "https://crockford.com/javascript/prototypal.html"
+            },
+            {
+                "title": "An Empirical Evaluation of Columnar Storage Formats [pdf]",
+                "href": "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
             },
             {
                 "title": "Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching",
@@ -895,16 +895,8 @@
                 "href": "https://www.ams.org/notices/199612/pomerance.pdf"
             },
             {
-                "title": "An Empirical Evaluation of Columnar Storage Formats [pdf]",
-                "href": "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
-            },
-            {
                 "title": "Raspberry Pi Ltd is considering an IPO",
                 "href": "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
-            },
-            {
-                "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
-                "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
             },
             {
                 "title": "Prague Astronomical Clock Simulator (2022)",
@@ -913,6 +905,14 @@
             {
                 "title": "Veo",
                 "href": "https://deepmind.google/technologies/veo/"
+            },
+            {
+                "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
+                "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
+            },
+            {
+                "title": "Branded types for TypeScript",
+                "href": "https://www.carlos-menezes.com/post/branded-types"
             }
         ]
     }
