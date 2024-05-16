@@ -15,12 +15,12 @@
                 "href": "https://jordankaye.dev/posts/rust-wasm-nix/"
             },
             {
-                "title": "Heroku on two standard dynos?",
-                "href": "https://brandur.org/fragments/heroku-two-dynos"
-            },
-            {
                 "title": "Sir, there's a cat in your mirror dimension",
                 "href": "https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension"
+            },
+            {
+                "title": "Heroku on two standard dynos?",
+                "href": "https://brandur.org/fragments/heroku-two-dynos"
             },
             {
                 "title": "Apple announces new accessibility features, including Eye Tracking",
@@ -47,6 +47,10 @@
                 "href": "https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github"
             },
             {
+                "title": "Rebuilding my homelab: Suffering as a service",
+                "href": "https://xeiaso.net/blog/2024/homelab-v2/"
+            },
+            {
                 "title": "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
                 "href": "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
             },
@@ -71,24 +75,24 @@
                 "href": "https://brandur.org/fragments/val-or-default"
             },
             {
-                "title": "Translation of Rust's core and alloc crates to Coq",
-                "href": "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
+                "title": "Upstreaming Linux kernel support for the Snapdragon X Elite",
+                "href": "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
             },
             {
-                "title": "How bad is LLVM really?",
-                "href": "https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really"
+                "title": "Translation of Rust's core and alloc crates to Coq",
+                "href": "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
             },
             {
                 "title": "An Empirical Evaluation of Columnar Storage Formats",
                 "href": "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
             },
             {
-                "title": "Haiku Activity & Contract Report, April 2024",
-                "href": "https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/"
+                "title": "How bad is LLVM really?",
+                "href": "https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really"
             },
             {
-                "title": "Upstreaming Linux kernel support for the Snapdragon X Elite",
-                "href": "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
+                "title": "Haiku Activity & Contract Report, April 2024",
+                "href": "https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/"
             },
             {
                 "title": "Before you try to change something, make sure you can change nothing",
@@ -97,10 +101,6 @@
             {
                 "title": "The new APT 3.0 solver",
                 "href": "https://blog.jak-linux.org/2024/05/14/solver3/"
-            },
-            {
-                "title": "Blockly Glockenspiel",
-                "href": "https://neil.fraser.name/news/2023/08/31/"
             }
         ]
     },
@@ -315,6 +315,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "US Regulators Approve Rule That Could Speed Renewables",
+                "href": "https://hardware.slashdot.org/story/24/05/15/2052245/us-regulators-approve-rule-that-could-speed-renewables?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "UK Police Could Get Ghostbusters-style Backpack Devices To Halt Ebike Getaways",
+                "href": "https://tech.slashdot.org/story/24/05/15/2154222/uk-police-could-get-ghostbusters-style-backpack-devices-to-halt-ebike-getaways?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Arizona Accuses Amazon of Unfair, Deceptive Business Practices",
                 "href": "https://yro.slashdot.org/story/24/05/15/2148244/arizona-accuses-amazon-of-unfair-deceptive-business-practices?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,14 +373,6 @@
             {
                 "title": "Boeing May Face Criminal Prosecution Over 737 Max Crashes, US Says",
                 "href": "https://news.slashdot.org/story/24/05/15/149255/boeing-may-face-criminal-prosecution-over-737-max-crashes-us-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Has Section 230 'Outlived Its Usefulness'?",
-                "href": "https://yro.slashdot.org/story/24/05/15/0034249/has-section-230-outlived-its-usefulness?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google Will Use Gemini To Detect Scams During Calls",
-                "href": "https://tech.slashdot.org/story/24/05/15/0051206/google-will-use-gemini-to-detect-scams-during-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,16 +791,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Hysata electrolyzers produce cheapest hydrogen at 95% efficiency",
-                "href": "https://hysata.com/news/hysata-announces-111m-usd-series-b-investment-round/"
-            },
-            {
-                "title": "Making a Postgres query 1k times faster",
-                "href": "https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/"
-            },
-            {
                 "title": "New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy",
                 "href": "https://github.com/ggerganov/llama.cpp/pull/7154"
+            },
+            {
+                "title": "LLMs are not suitable for brainstorming",
+                "href": "https://piaoyang0.wordpress.com/2024/05/15/llms-are-not-suitable-for-brainstorming/"
             },
             {
                 "title": "Adobe Photoshop Source Code (2013)",
@@ -811,16 +807,20 @@
                 "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
             },
             {
-                "title": "Project Gameface Launches on Android",
+                "title": "Project Gameface launches on Android",
                 "href": "https://developers.googleblog.com/en/project-gameface-launches-on-android/"
-            },
-            {
-                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
-                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
             },
             {
                 "title": "Jepsen: Datomic Pro 1.0.7075",
                 "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
+            },
+            {
+                "title": "A 'plague' comes before the fall: lessons from Roman history",
+                "href": "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
+            },
+            {
+                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
+                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
             },
             {
                 "title": "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
@@ -831,12 +831,32 @@
                 "href": "https://github.com/quarylabs/quary"
             },
             {
+                "title": "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
+                "href": "https://nondeterministic.computer/@martin/112444389342113780"
+            },
+            {
+                "title": "Apple announces new accessibility features, including eye tracking",
+                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
+            },
+            {
                 "title": "Show HN: Tarsier \u2013 Vision utilities for web interaction agents",
                 "href": "https://github.com/reworkd/tarsier"
             },
             {
-                "title": "Apple announces new accessibility features, including Eye Tracking",
-                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
+                "title": "Show HN: I made a Mac app to search my images and videos locally with ML",
+                "href": "https://desktopdocs.com"
+            },
+            {
+                "title": "Prototypal Inheritance (2008)",
+                "href": "https://crockford.com/javascript/prototypal.html"
+            },
+            {
+                "title": "It's 2024 and drought is optional",
+                "href": "https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional"
+            },
+            {
+                "title": "Making a Postgres query 1k times faster",
+                "href": "https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/"
             },
             {
                 "title": "An Empirical Evaluation of Columnar Storage Formats [pdf]",
@@ -851,10 +871,6 @@
                 "href": "https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/"
             },
             {
-                "title": "Show HN: I made a Mac app to search my images and videos locally with ML",
-                "href": "https://desktopdocs.com"
-            },
-            {
                 "title": "Google Blog: Android's theft protection features keep your device and data safe",
                 "href": "https://blog.google/products/android/android-theft-protection/"
             },
@@ -863,52 +879,36 @@
                 "href": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
             },
             {
+                "title": "Show HN: I wrote a symmetry game with a daily puzzle",
+                "href": "https://www.hidden-mirrors.com"
+            },
+            {
+                "title": "Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments",
+                "href": "https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/"
+            },
+            {
                 "title": "A Tale of Two Sieves (1996) [pdf]",
                 "href": "https://www.ams.org/notices/199612/pomerance.pdf"
             },
             {
-                "title": "Raspberry Pi Ltd is considering an IPO",
-                "href": "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
+                "title": "Weekly 1:1s are a staple of management. I hated it and found it useless",
+                "href": "https://twitter.com/adityaag/status/1790798947617013836"
             },
             {
-                "title": "Three of the oldest stars in the universe found circling the Milky Way",
-                "href": "https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514"
-            },
-            {
-                "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
-                "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
-            },
-            {
-                "title": "Doctor cancer free after novel glioblastoma self-treatment",
-                "href": "https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/"
-            },
-            {
-                "title": "It's 2024 and drought is optional",
-                "href": "https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional"
+                "title": "Prague Astronomical Clock Simulator (2022)",
+                "href": "https://github.com/kshetline/prague-clock"
             },
             {
                 "title": "Merging Remix and React Router",
                 "href": "https://remix.run/blog/merging-remix-and-react-router"
             },
             {
-                "title": "Branded types for TypeScript",
-                "href": "https://www.carlos-menezes.com/post/branded-types"
+                "title": "Raspberry Pi Ltd is considering an IPO",
+                "href": "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
             },
             {
-                "title": "Speculating the entire x86-64 instruction set in seconds (2021)",
-                "href": "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/"
-            },
-            {
-                "title": "Prolog and Natural-Language Analysis (1987) [pdf]",
-                "href": "http://www.mtome.com/Publications/PNLA/prolog-digital.pdf"
-            },
-            {
-                "title": "Veo",
-                "href": "https://deepmind.google/technologies/veo/"
-            },
-            {
-                "title": "Nearly all Nintendo 64 games can now be recompiled into native PC ports",
-                "href": "https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more"
+                "title": "Proteins in blood could provide early cancer warning 'by more than seven years'",
+                "href": "https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study"
             }
         ]
     }
