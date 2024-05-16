@@ -15,16 +15,16 @@
                 "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
             },
             {
+                "title": "Go's concurrency in a dynamic language Rye",
+                "href": "https://ryelang.org/blog/posts/rye-concurrency-go/"
+            },
+            {
                 "title": "Rebuilding my homelab: Suffering as a service",
                 "href": "https://xeiaso.net/blog/2024/homelab-v2/"
             },
             {
                 "title": "Some notes on Rust, mutable aliasing and formal verification",
                 "href": "https://graydon2.dreamwidth.org/312681.html"
-            },
-            {
-                "title": "Go's concurrency in a dynamic language Rye",
-                "href": "https://ryelang.org/blog/posts/rye-concurrency-go/"
             },
             {
                 "title": "Release 0.4.0 \u00b7 buzz-language/buzz",
@@ -47,12 +47,20 @@
                 "href": "https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/"
             },
             {
-                "title": "That time PostgreSQL said \"no thanks, I don't need your index\"",
-                "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
+                "title": "Geographically distributed Postgres for multi-tenant applications",
+                "href": "https://xata.io/blog/geo-distributed-postgres"
             },
             {
                 "title": "Bad Apple, But It's An Animated QR Code of Bad Apple",
                 "href": "https://a.exozy.me/posts/bad-apple-animated-qr-code/"
+            },
+            {
+                "title": "That time PostgreSQL said \"no thanks, I don't need your index\"",
+                "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
+            },
+            {
+                "title": "Cyber Security: A Pre-War Reality Check",
+                "href": "https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/"
             },
             {
                 "title": "Odin programming language now supports NetBSD",
@@ -87,16 +95,8 @@
                 "href": "https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension"
             },
             {
-                "title": "Cyber Security: A Pre-War Reality Check",
-                "href": "https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/"
-            },
-            {
                 "title": "Ebury is alive but unseen: 400k Linux servers compromised for cryptotheft and financial gain",
                 "href": "https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/"
-            },
-            {
-                "title": "Proxmox VE Helper-Scripts",
-                "href": "https://helper-scripts.com/"
             },
             {
                 "title": "crash: user-configurable login shell configured by the SHELLS environment variable",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "MediSecure e-script firm hit by \u2018large-scale\u2019 ransomware data breach",
+                "href": "https://www.bleepingcomputer.com/news/security/medisecure-e-script-firm-hit-by-large-scale-ransomware-data-breach/"
+            },
+            {
                 "title": "Russian hackers use new Lunar malware to breach a European govt's agencies",
                 "href": "https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-lunar-malware-to-breach-a-european-govts-agencies/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Banco Santander warns of a data breach exposing customer info",
                 "href": "https://www.bleepingcomputer.com/news/security/banco-santander-warns-of-a-data-breach-exposing-customer-info/"
-            },
-            {
-                "title": "Tornado Cash cryptomixer dev gets 64 months for laundering $2 billion",
-                "href": "https://www.bleepingcomputer.com/news/legal/tornado-cash-cryptomixer-dev-gets-64-months-for-laundering-2-billion/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "US House of Representatives Passes TICKET Act To Create Transparency in Pricing",
+                "href": "https://news.slashdot.org/story/24/05/16/1355258/us-house-of-representatives-passes-ticket-act-to-create-transparency-in-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Toshiba To Cut 4,000 Jobs in Restructuring Drive",
                 "href": "https://it.slashdot.org/story/24/05/16/1349201/toshiba-to-cut-4000-jobs-in-restructuring-drive?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Arizona Accuses Amazon of Unfair, Deceptive Business Practices",
                 "href": "https://yro.slashdot.org/story/24/05/15/2148244/arizona-accuses-amazon-of-unfair-deceptive-business-practices?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Quantum Internet Draws Near Thanks To Entangled Memory Breakthroughs",
-                "href": "https://tech.slashdot.org/story/24/05/15/2032244/quantum-internet-draws-near-thanks-to-entangled-memory-breakthroughs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -803,28 +803,36 @@
                 "href": "https://github.com/likejazz/llama3.np"
             },
             {
-                "title": "F* \u2013 A Proof-Oriented Programming Language",
-                "href": "https://www.fstar-lang.org/"
-            },
-            {
                 "title": "Build WebGPU Apps Today with PlayCanvas",
                 "href": "https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/"
+            },
+            {
+                "title": "F* \u2013 A Proof-Oriented Programming Language",
+                "href": "https://www.fstar-lang.org/"
             },
             {
                 "title": "D3 in Depth",
                 "href": "https://www.d3indepth.com/"
             },
             {
+                "title": "Reflex (YC W23) Is Hiring Software Engineers",
+                "href": "https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer"
+            },
+            {
                 "title": "The spy who flunked it: Kurt G\u00f6del's forgotten part in the atom-bomb story",
                 "href": "https://www.nature.com/articles/d41586-024-00644-1"
             },
             {
-                "title": "Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.",
-                "href": "https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/"
+                "title": "ChatGPT-4o vs. Math",
+                "href": "https://www.sabrina.dev/p/chatgpt4o-vs-math"
             },
             {
-                "title": "What's New in Neovim 0.10",
-                "href": "https://gpanders.com/blog/whats-new-in-neovim-0.10/"
+                "title": "Using Llamafiles for Embeddings in Local RAG Applications",
+                "href": "https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/"
+            },
+            {
+                "title": "Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.",
+                "href": "https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/"
             },
             {
                 "title": "Some notes on Rust, mutable aliasing and formal verification",
@@ -835,28 +843,12 @@
                 "href": "https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine"
             },
             {
-                "title": "Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer",
-                "href": "https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert"
-            },
-            {
-                "title": "Port 666 is officially registered to Doom",
-                "href": "https://www.ibiblio.org/shadow/docs/port_numbers"
-            },
-            {
-                "title": "Deactivating Facebook for just a few weeks reduces belief in fake news",
-                "href": "https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html"
-            },
-            {
-                "title": "Forgotten APL Influences (2016) [pdf]",
-                "href": "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
-            },
-            {
                 "title": "Measuring the impact of zoning on housing in a city",
                 "href": "https://www.blog.jonathannolan.net/p/how-to-measure-the-impact-of-zoning"
             },
             {
-                "title": "ChatGPT-4o vs. Math",
-                "href": "https://www.sabrina.dev/p/chatgpt4o-vs-math"
+                "title": "Forgotten APL Influences (2016) [pdf]",
+                "href": "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
             },
             {
                 "title": "Why do CPUs have multiple cache levels? (2016)",
@@ -867,8 +859,8 @@
                 "href": "https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app"
             },
             {
-                "title": "Adobe Photoshop Source Code (2013)",
-                "href": "https://computerhistory.org/blog/adobe-photoshop-source-code/"
+                "title": "Show HN: I'm 17 and wrote a guide on how to build your own programming language",
+                "href": "https://easel.hackclub.com/orpheus-finds-easel"
             },
             {
                 "title": "New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy",
@@ -883,36 +875,44 @@
                 "href": "https://www.scottaaronson.com/democritus/lec17.html"
             },
             {
-                "title": "You thought OpenStreetMap uses WGS84? No it doesn't",
-                "href": "https://www.openstreetmap.org/user/StephaneP/diary/390290"
+                "title": "Raspberry Pi prepares for London listing",
+                "href": "https://www.ft.com/content/6d846a93-030a-4106-b045-d74a216493b0"
             },
             {
-                "title": "Earth rotation limits in-body image stabilization to 6.3 stops (2020)",
-                "href": "https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/"
+                "title": "I Don't Want to Spend My One Precious Life Dealing with Google's AI Search",
+                "href": "https://aftermath.site/google-ai-search-god-no-why"
             },
             {
-                "title": "What\u2019s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
-                "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
+                "title": "Mummy Brown",
+                "href": "https://en.wikipedia.org/wiki/Mummy_brown"
             },
             {
                 "title": "My Sony HB-F1XV",
                 "href": "https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv"
             },
             {
-                "title": "Jepsen: Datomic Pro 1.0.7075",
-                "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
+                "title": "Earth rotation limits in-body image stabilization to 6.3 stops (2020)",
+                "href": "https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/"
             },
             {
-                "title": "Show HN: Open-source BI and analytics for engineers",
-                "href": "https://github.com/quarylabs/quary"
+                "title": "Nevada parents wrongfully accused of child abuse file lawsuit against hospital",
+                "href": "https://mynews4.com/news/local/nevada-parents-accused-of-abuse-file-civil-lawsuit-against-texas-hospital-take-care-of-maya-trending-netflix-documentary-wrongfully-accused-shaken-baby-syndrome"
+            },
+            {
+                "title": "You thought OpenStreetMap uses WGS84? No it doesn't (2019)",
+                "href": "https://www.openstreetmap.org/user/StephaneP/diary/390290"
+            },
+            {
+                "title": "What\u2019s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
+                "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
             },
             {
                 "title": "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
                 "href": "https://nondeterministic.computer/@martin/112444389342113780"
             },
             {
-                "title": "Mummy Brown",
-                "href": "https://en.wikipedia.org/wiki/Mummy_brown"
+                "title": "Jepsen: Datomic Pro 1.0.7075",
+                "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
             }
         ]
     }
