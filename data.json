@@ -91,16 +91,16 @@
                 "href": "https://github.com/odin-lang/Odin/pull/3439"
             },
             {
-                "title": "NetBSD bans use of Copilot-generated code",
-                "href": "https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/"
-            },
-            {
                 "title": "UPBGE: game engine forked from the Blender Game Engine",
                 "href": "https://upbge.org/"
             },
             {
                 "title": "Ebury is alive but unseen: 400k Linux servers compromised for cryptotheft and financial gain",
                 "href": "https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/"
+            },
+            {
+                "title": "ok Considered Harmful",
+                "href": "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
             }
         ]
     },
@@ -217,8 +217,12 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "Kimsuky hackers deploy new Linux backdoor via trojanized installers",
-                "href": "https://www.bleepingcomputer.com/news/security/kimsuky-hackers-deploy-new-linux-backdoor-via-trojanized-installers/"
+                "title": "Microsoft: Windows Server 2019 updates fail with 0x800f0982 errors",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2019-updates-fail-with-0x800f0982-errors/"
+            },
+            {
+                "title": "Kimsuky hackers deploy new Linux backdoor in attacks on South Korea",
+                "href": "https://www.bleepingcomputer.com/news/security/kimsuky-hackers-deploy-new-linux-backdoor-in-attacks-on-south-korea/"
             },
             {
                 "title": "Google fixes third actively exploited Chrome zero-day in a week",
@@ -259,10 +263,6 @@
             {
                 "title": "Tornado Cash cryptomixer dev gets 64 months for laundering $2 billion",
                 "href": "https://www.bleepingcomputer.com/news/legal/tornado-cash-cryptomixer-dev-gets-64-months-for-laundering-2-billion/"
-            },
-            {
-                "title": "PoC exploit released for RCE zero-day in D-Link EXO AX4800 routers",
-                "href": "https://www.bleepingcomputer.com/news/security/poc-exploit-released-for-rce-zero-day-in-d-link-exo-ax4800-routers/"
             }
         ]
     },
@@ -585,6 +585,10 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "Cisco Releases Security Updates for Multiple Products",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/05/16/cisco-releases-security-updates-multiple-products"
+            },
+            {
                 "title": "Adobe Releases Security Updates for Multiple Products",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/05/15/adobe-releases-security-updates-multiple-products"
             },
@@ -619,10 +623,6 @@
             {
                 "title": "CISA Releases Four Industrial Control Systems Advisories",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/05/14/cisa-releases-four-industrial-control-systems-advisories"
-            },
-            {
-                "title": "Microsoft Releases May 2024 Security Updates",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/05/14/microsoft-releases-may-2024-security-updates"
             }
         ]
     },
@@ -686,6 +686,54 @@
                 "href": "https://packetstormsecurity.com/news/view/35881/400-000-Linux-Servers-Hit-By-Ebury-Botnet.html"
             },
             {
+                "title": "Wireshark Analyzer 4.2.5",
+                "href": "https://packetstormsecurity.com/files/178596/wireshark-4.2.5.tar.xz"
+            },
+            {
+                "title": "Packet Fence 13.2.0",
+                "href": "https://packetstormsecurity.com/files/178595/packetfence-13.2.0.tar.gz"
+            },
+            {
+                "title": "SIPPTS 4.0",
+                "href": "https://packetstormsecurity.com/files/178594/sippts-4.0.tar.gz"
+            },
+            {
+                "title": "Debian Security Advisory 5692-1",
+                "href": "https://packetstormsecurity.com/files/178593/dsa-5692-1.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5691-1",
+                "href": "https://packetstormsecurity.com/files/178592/dsa-5691-1.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5689-1",
+                "href": "https://packetstormsecurity.com/files/178591/dsa-5689-1.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5690-1",
+                "href": "https://packetstormsecurity.com/files/178590/dsa-5690-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6766-2",
+                "href": "https://packetstormsecurity.com/files/178589/USN-6766-2.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2852-03",
+                "href": "https://packetstormsecurity.com/files/178588/RHSA-2024-2852-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2853-03",
+                "href": "https://packetstormsecurity.com/files/178587/RHSA-2024-2853-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2776-03",
+                "href": "https://packetstormsecurity.com/files/178586/RHSA-2024-2776-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-2773-03",
+                "href": "https://packetstormsecurity.com/files/178585/RHSA-2024-2773-03.txt"
+            },
+            {
                 "title": "Cacti 1.2.26 Remote Code Execution",
                 "href": "https://packetstormsecurity.com/files/178584/KIS-2024-04.txt"
             },
@@ -736,54 +784,6 @@
             {
                 "title": "Red Hat Security Advisory 2024-2846-03",
                 "href": "https://packetstormsecurity.com/files/178572/RHSA-2024-2846-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2845-03",
-                "href": "https://packetstormsecurity.com/files/178571/RHSA-2024-2845-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2843-03",
-                "href": "https://packetstormsecurity.com/files/178570/RHSA-2024-2843-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2842-03",
-                "href": "https://packetstormsecurity.com/files/178569/RHSA-2024-2842-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2839-03",
-                "href": "https://packetstormsecurity.com/files/178568/RHSA-2024-2839-03.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6767-2",
-                "href": "https://packetstormsecurity.com/files/178567/USN-6767-2.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6772-1",
-                "href": "https://packetstormsecurity.com/files/178566/USN-6772-1.txt"
-            },
-            {
-                "title": "CrushFTP Directory Traversal",
-                "href": "https://packetstormsecurity.com/files/178565/crushftp-traversal.txt"
-            },
-            {
-                "title": "TrojanSpy.Win64.EMOTET.A MVID-2024-0684 Code Execution",
-                "href": "https://packetstormsecurity.com/files/178564/MVID-2024-0684.txt"
-            },
-            {
-                "title": "Plantronics Hub 3.25.1 Arbitrary File Read",
-                "href": "https://packetstormsecurity.com/files/178563/plantronicshub3251-fileread.txt"
-            },
-            {
-                "title": "Backdoor.Win32.AsyncRat MVID-2024-0683 Code Execution",
-                "href": "https://packetstormsecurity.com/files/178562/MVID-2024-0683.txt"
-            },
-            {
-                "title": "Apache mod_proxy_cluster Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/178561/apachempc-xss.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-2833-03",
-                "href": "https://packetstormsecurity.com/files/178560/RHSA-2024-2833-03.txt"
             }
         ]
     },
@@ -795,14 +795,6 @@
                 "href": "https://www.fstar-lang.org/"
             },
             {
-                "title": "Some notes on Rust, mutable aliasing and formal verification",
-                "href": "https://graydon2.dreamwidth.org/312681.html"
-            },
-            {
-                "title": "Things I won't work with: the higher states of bromine (2019)",
-                "href": "https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine"
-            },
-            {
                 "title": "State of the Terminal",
                 "href": "https://gpanders.com/blog/state-of-the-terminal/"
             },
@@ -811,12 +803,28 @@
                 "href": "https://gpanders.com/blog/whats-new-in-neovim-0.10/"
             },
             {
+                "title": "Some notes on Rust, mutable aliasing and formal verification",
+                "href": "https://graydon2.dreamwidth.org/312681.html"
+            },
+            {
+                "title": "Things I won't work with: the higher states of bromine (2019)",
+                "href": "https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine"
+            },
+            {
+                "title": "Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer",
+                "href": "https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert"
+            },
+            {
+                "title": "Music vs. Lyrics",
+                "href": "https://dirt.fyi/article/2024/05/music-versus-lyrics"
+            },
+            {
                 "title": "PHYS771 Lecture 17: Fun with the Anthropic Principle (2006)",
                 "href": "https://www.scottaaronson.com/democritus/lec17.html"
             },
             {
-                "title": "Elicit: The AI Research Assistant",
-                "href": "https://elicit.com/"
+                "title": "Forgotten APL Influences (2016) [pdf]",
+                "href": "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
             },
             {
                 "title": "Adobe Photoshop Source Code (2013)",
@@ -831,10 +839,6 @@
                 "href": "https://github.com/ggerganov/llama.cpp/pull/7154"
             },
             {
-                "title": "Forgotten APL Influences (2016) [pdf]",
-                "href": "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
-            },
-            {
                 "title": "Earth rotation limits in-body image stabilization to 6.3 stops (2020)",
                 "href": "https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/"
             },
@@ -843,20 +847,16 @@
                 "href": "https://github.com/javierguerragiraldez/parseback"
             },
             {
-                "title": "VCs aren\u2019t your friends",
-                "href": "https://www.openvc.app/blog/vcs-arent-your-friends"
-            },
-            {
                 "title": "What\u2019s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
                 "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
             },
             {
-                "title": "My Sony HB-F1XV",
-                "href": "https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv"
+                "title": "VCs aren\u2019t your friends",
+                "href": "https://www.openvc.app/blog/vcs-arent-your-friends"
             },
             {
-                "title": "Typewise (YC S22) is hiring Product Designer for AI writing assistant",
-                "href": "https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x"
+                "title": "My Sony HB-F1XV",
+                "href": "https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv"
             },
             {
                 "title": "Show HN: Open-source BI and analytics for engineers",
@@ -867,48 +867,48 @@
                 "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
             },
             {
-                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
-                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
-            },
-            {
-                "title": "Music vs. Lyrics",
-                "href": "https://dirt.fyi/article/2024/05/music-versus-lyrics"
-            },
-            {
-                "title": "Swift sucks at web serving or does it?",
-                "href": "https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/"
+                "title": "Apple announces new accessibility features, including eye tracking",
+                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
                 "title": "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
                 "href": "https://nondeterministic.computer/@martin/112444389342113780"
             },
             {
-                "title": "Apple announces new accessibility features, including eye tracking",
-                "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
-            },
-            {
-                "title": "Students invent quieter leaf blower",
-                "href": "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/"
-            },
-            {
                 "title": "A \u2018plague\u2019 comes before the fall: lessons from Roman history",
                 "href": "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
+            },
+            {
+                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
+                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
             },
             {
                 "title": "Project Gameface launches on Android",
                 "href": "https://developers.googleblog.com/en/project-gameface-launches-on-android/"
             },
             {
+                "title": "Swift sucks at web serving or does it?",
+                "href": "https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/"
+            },
+            {
                 "title": "Show HN: I made a Mac app to search my images and videos locally with ML",
                 "href": "https://desktopdocs.com"
             },
             {
-                "title": "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
-                "href": "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
+                "title": "You thought OpenStreetMap uses WGS84? No it doesn't",
+                "href": "https://www.openstreetmap.org/user/StephaneP/diary/390290"
             },
             {
-                "title": "Bossware is a big legal risk",
-                "href": "https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble"
+                "title": "Students invent quieter leaf blower",
+                "href": "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/"
+            },
+            {
+                "title": "Elicit: The AI Research Assistant",
+                "href": "https://elicit.com/"
+            },
+            {
+                "title": "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
+                "href": "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
             }
         ]
     }
