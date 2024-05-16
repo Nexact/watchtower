@@ -15,16 +15,16 @@
                 "href": "https://xeiaso.net/blog/2024/homelab-v2/"
             },
             {
-                "title": "A Rust + WASM development environment with Nix",
-                "href": "https://jordankaye.dev/posts/rust-wasm-nix/"
-            },
-            {
                 "title": "Some notes on Rust, mutable aliasing and formal verification",
                 "href": "https://graydon2.dreamwidth.org/312681.html"
             },
             {
-                "title": "That time PostgreSQL said \"no thanks, I don't need your index\"",
-                "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
+                "title": "A Rust + WASM development environment with Nix",
+                "href": "https://jordankaye.dev/posts/rust-wasm-nix/"
+            },
+            {
+                "title": "Critique of the TechCrunch Article on Google's Call-Scanning AI",
+                "href": "https://nadim.computer/posts/2024-05-16-googlellm.html"
             },
             {
                 "title": "Heroku on two standard dynos?",
@@ -39,16 +39,32 @@
                 "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
+                "title": "That time PostgreSQL said \"no thanks, I don't need your index\"",
+                "href": "https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index"
+            },
+            {
+                "title": "What I've learned building interactive embedding visualizations",
+                "href": "https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/"
+            },
+            {
                 "title": "procfusion: Very simple process manager written in Rust for your Docker images",
                 "href": "https://github.com/linkdd/procfusion"
+            },
+            {
+                "title": "Upstreaming Linux kernel support for the Snapdragon X Elite",
+                "href": "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
             },
             {
                 "title": "crash: user-configurable login shell configured by the SHELLS environment variable",
                 "href": "https://github.com/RGBCube/crash"
             },
             {
-                "title": "Upstreaming Linux kernel support for the Snapdragon X Elite",
-                "href": "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
+                "title": "Introducing new DNS Diagnostics Tooling",
+                "href": "https://blog.nlnetlabs.nl/newsletter-may/"
+            },
+            {
+                "title": "Make a game with Hoot for the Lisp Game Jam",
+                "href": "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
             },
             {
                 "title": "Bad Apple, But It's An Animated QR Code of Bad Apple",
@@ -59,12 +75,16 @@
                 "href": "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
             },
             {
-                "title": "Make a game with Hoot for the Lisp Game Jam",
-                "href": "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
+                "title": "Firefox Nightly Now Available for Linux on ARM64",
+                "href": "https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/"
             },
             {
                 "title": "UPBGE: game engine forked from the Blender Game Engine",
                 "href": "https://upbge.org/"
+            },
+            {
+                "title": "NetBSD bans all commits of AI-generated code",
+                "href": "https://mastodon.sdf.org/@netbsd/112446618914747900"
             },
             {
                 "title": "Haiku Activity & Contract Report, April 2024",
@@ -79,28 +99,8 @@
                 "href": "https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github"
             },
             {
-                "title": "Introducing new DNS Diagnostics Tooling",
-                "href": "https://blog.nlnetlabs.nl/newsletter-may/"
-            },
-            {
-                "title": "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
-                "href": "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
-            },
-            {
-                "title": "ValOrDefault",
-                "href": "https://brandur.org/fragments/val-or-default"
-            },
-            {
                 "title": "Inside a low budget consumer hardware espionage implant",
                 "href": "https://ha.cking.ch/s8_data_line_locator/"
-            },
-            {
-                "title": "Firefox Nightly Now Available for Linux on ARM64",
-                "href": "https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/"
-            },
-            {
-                "title": "How To PyCon",
-                "href": "https://blog.glyph.im/2024/05/how-to-pycon.html"
             }
         ]
     },
@@ -815,48 +815,60 @@
                 "href": "https://computerhistory.org/blog/adobe-photoshop-source-code/"
             },
             {
-                "title": "Swift sucks at web serving or does it?",
-                "href": "https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/"
+                "title": "Typewise (YC S22) is hiring Product Designer for AI writing assistant",
+                "href": "https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x"
             },
             {
-                "title": "What\u2019s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
-                "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
+                "title": "MKUltra",
+                "href": "https://en.wikipedia.org/wiki/MKUltra"
+            },
+            {
+                "title": "Swift sucks at web serving or does it?",
+                "href": "https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/"
             },
             {
                 "title": "Enhancing R: The Vision and Impact of Jan Vitek's MaintainR Initiative",
                 "href": "https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative"
             },
             {
-                "title": "Learning from the Object Oriented Mania",
-                "href": "https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/"
-            },
-            {
-                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
-                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
+                "title": "What\u2019s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
+                "href": "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
             },
             {
                 "title": "Jepsen: Datomic Pro 1.0.7075",
                 "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
             },
             {
+                "title": "SSD death, tricky read-only filesystems, and systemd magic?",
+                "href": "https://rachelbythebay.com/w/2024/05/15/ro/"
+            },
+            {
                 "title": "Show HN: Open-source BI and analytics for engineers",
                 "href": "https://github.com/quarylabs/quary"
             },
             {
-                "title": "A 'plague' comes before the fall: lessons from Roman history",
+                "title": "A \u2018plague\u2019 comes before the fall: lessons from Roman history",
                 "href": "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
-            },
-            {
-                "title": "Project Gameface launches on Android",
-                "href": "https://developers.googleblog.com/en/project-gameface-launches-on-android/"
             },
             {
                 "title": "Apple announces new accessibility features, including eye tracking",
                 "href": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"
             },
             {
+                "title": "Learning from the Object Oriented Mania",
+                "href": "https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/"
+            },
+            {
+                "title": "Project Gameface launches on Android",
+                "href": "https://developers.googleblog.com/en/project-gameface-launches-on-android/"
+            },
+            {
                 "title": "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
                 "href": "https://nondeterministic.computer/@martin/112444389342113780"
+            },
+            {
+                "title": "Earth rotation limits in-body image stabilization to 6.3 stops (2020)",
+                "href": "https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/"
             },
             {
                 "title": "Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments",
@@ -867,20 +879,28 @@
                 "href": "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
             },
             {
-                "title": "Fast Tokenizers with StringScanner (2023)",
-                "href": "https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html"
-            },
-            {
-                "title": "Earth rotation limits in-body image stabilization to 6.3 stops (2020)",
-                "href": "https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/"
-            },
-            {
                 "title": "Show HN: I made a Mac app to search my images and videos locally with ML",
                 "href": "https://desktopdocs.com"
             },
             {
+                "title": "Fast Tokenizers with StringScanner (2023)",
+                "href": "https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html"
+            },
+            {
+                "title": "Piece Chains (2006)",
+                "href": "https://www.catch22.net/tuts/neatpad/piece-chains/"
+            },
+            {
                 "title": "Some lithium could come from wastewater",
                 "href": "https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium"
+            },
+            {
+                "title": "Bossware is a big legal risk",
+                "href": "https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble"
+            },
+            {
+                "title": "Kernel.org servers infected with backdoors for two years from 2009",
+                "href": "https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/"
             },
             {
                 "title": "Show HN: Tarsier \u2013 Vision utilities for web interaction agents",
@@ -893,26 +913,6 @@
             {
                 "title": "Show HN: I wrote a symmetry game with a daily puzzle",
                 "href": "https://www.hidden-mirrors.com"
-            },
-            {
-                "title": "Qualcomm's Oryon LLVM Patches",
-                "href": "https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/"
-            },
-            {
-                "title": "Android's theft protection features",
-                "href": "https://blog.google/products/android/android-theft-protection/"
-            },
-            {
-                "title": "SSH backdoors infects Linux maintainers computers for 2 years",
-                "href": "https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/"
-            },
-            {
-                "title": "A Tale of Two Sieves (1996) [pdf]",
-                "href": "https://www.ams.org/notices/199612/pomerance.pdf"
-            },
-            {
-                "title": "Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching",
-                "href": "https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
             }
         ]
     }
