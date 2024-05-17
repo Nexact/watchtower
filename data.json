@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "What's New in Neovim 0.10",
-                "href": "https://gpanders.com/blog/whats-new-in-neovim-0.10/"
-            },
-            {
                 "title": "Golang is evil on shitty networks (2022)",
                 "href": "https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/"
+            },
+            {
+                "title": "What's New in Neovim 0.10",
+                "href": "https://gpanders.com/blog/whats-new-in-neovim-0.10/"
             },
             {
                 "title": "Don\u2019t return err in Go",
@@ -21,6 +21,10 @@
             {
                 "title": "NetBSD bans all commits of AI-generated code",
                 "href": "https://mastodon.sdf.org/@netbsd/112446618914747900"
+            },
+            {
+                "title": "Firefox bookmark keywords for faster navigation",
+                "href": "https://blog.meain.io/2024/firefox-bookmark-keywords"
             },
             {
                 "title": "The Rainbow Hats Puzzle",
@@ -43,24 +47,36 @@
                 "href": "https://wingolog.org/archives/2024/05/16/on-hoot-on-boot"
             },
             {
-                "title": "Implementing MVCC and major SQL transaction isolation levels",
-                "href": "https://notes.eatonphil.com/2024-05-16-mvcc.html"
-            },
-            {
-                "title": "Firefox bookmark keywords for faster navigation",
-                "href": "https://blog.meain.io/2024/firefox-bookmark-keywords"
-            },
-            {
                 "title": "curl, Tor, dot onion and SOCKS",
                 "href": "https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/"
+            },
+            {
+                "title": "Implementing MVCC and major SQL transaction isolation levels",
+                "href": "https://notes.eatonphil.com/2024-05-16-mvcc.html"
             },
             {
                 "title": "You probably don't need to validate UTF-8 strings",
                 "href": "https://viralinstruction.com/posts/utf8/"
             },
             {
+                "title": "BIMI and DMARC can't save you: the overlooked DKIM exploit",
+                "href": "https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/"
+            },
+            {
+                "title": "Non-Euclidean Doom: what happens to a game when pi is not 3.14159\u2026",
+                "href": "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324"
+            },
+            {
                 "title": "Cyber Security: A Pre-War Reality Check",
                 "href": "https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/"
+            },
+            {
+                "title": "Google Uses IRC for Incident Response",
+                "href": "https://sre.google/sre-book/managing-incidents/"
+            },
+            {
+                "title": "Faster linking times on nightly on Linux using \"rust-lld\"",
+                "href": "https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html"
             },
             {
                 "title": "Rebuilding my homelab: Suffering as a service",
@@ -71,36 +87,20 @@
                 "href": "https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend"
             },
             {
-                "title": "Google Uses IRC for Incident Response",
-                "href": "https://sre.google/sre-book/managing-incidents/"
+                "title": "Simplifying JOIN syntax",
+                "href": "https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3)"
             },
             {
                 "title": "Visualizing algorithms for rate limiting",
                 "href": "https://smudge.ai/blog/ratelimit-algorithms"
             },
             {
-                "title": "Some notes on Rust, mutable aliasing and formal verification",
-                "href": "https://graydon2.dreamwidth.org/312681.html"
-            },
-            {
-                "title": "A Transport Protocol's View of Starlink",
-                "href": "https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html"
-            },
-            {
-                "title": "Jepsen: Datomic Pro 1.0.7075",
-                "href": "https://jepsen.io/analyses/datomic-pro-1.0.7075"
-            },
-            {
                 "title": "[RFC] Mitigating unexpected arithmetic overflow",
                 "href": "https://lore.kernel.org/all/202404291502.612E0A10@keescook/"
             },
             {
-                "title": "Faster linking times on nightly on Linux using \"rust-lld\"",
-                "href": "https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html"
-            },
-            {
-                "title": "Static Wordle",
-                "href": "https://www.val.town/v/stevekrouse/staticWordle"
+                "title": "Some notes on Rust, mutable aliasing and formal verification",
+                "href": "https://graydon2.dreamwidth.org/312681.html"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "WebTPA data breach impacts 2.4 million insurance policyholders",
+                "href": "https://www.bleepingcomputer.com/news/security/webtpa-data-breach-impacts-24-million-insurance-policyholders/"
+            },
+            {
                 "title": "Five charged for cyber schemes to benefit North Korea's weapons program",
                 "href": "https://www.bleepingcomputer.com/news/security/five-Arizona-Ukrain-charged-for-cyber-schemes-infiltrating-over-300-companies-to-benefit-north-koreas-weapons-program-/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Nissan North America data breach impacts over 53,000 employees",
                 "href": "https://www.bleepingcomputer.com/news/security/nissan-north-america-data-breach-impacts-over-53-000-employees/"
-            },
-            {
-                "title": "Brothers arrested for $25 million theft in Ethereum blockchain attack",
-                "href": "https://www.bleepingcomputer.com/news/security/brothers-arrested-for-25-million-theft-in-ethereum-blockchain-attack/"
             }
         ]
     },
@@ -315,70 +315,22 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Hopes For Sustainable Jet Fuel Not Realistic, Report Finds",
+                "href": "https://science.slashdot.org/story/24/05/17/1320208/hopes-for-sustainable-jet-fuel-not-realistic-report-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft Plans Boldest Games Bet Since Activision Deal, Changing How 'Call of Duty' Is Sold",
                 "href": "https://slashdot.org/story/24/05/17/1350210/microsoft-plans-boldest-games-bet-since-activision-deal-changing-how-call-of-duty-is-sold?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Arizona Woman Accused of Helping North Koreans Get Remote IT Jobs At 300 Companies",
-                "href": "https://yro.slashdot.org/story/24/05/17/0042215/arizona-woman-accused-of-helping-north-koreans-get-remote-it-jobs-at-300-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Companies Are So Desperate For Data Centers They're Leasing Them Before They're Even Built",
-                "href": "https://slashdot.org/story/24/05/16/218238/companies-are-so-desperate-for-data-centers-theyre-leasing-them-before-theyre-even-built?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Germany's Sovereign Tech Fund Now Supporting FFmpeg",
-                "href": "https://news.slashdot.org/story/24/05/17/0032210/germanys-sovereign-tech-fund-now-supporting-ffmpeg?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Archie, the Internet's First Search Engine, Is Rescued and Running",
-                "href": "https://tech.slashdot.org/story/24/05/17/0015201/archie-the-internets-first-search-engine-is-rescued-and-running?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "NetBSD Bans AI-Generated Code",
-                "href": "https://tech.slashdot.org/story/24/05/17/007240/netbsd-bans-ai-generated-code?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "In a Milestone, the US Exceeds 5 Million Solar Installations",
-                "href": "https://hardware.slashdot.org/story/24/05/16/215200/in-a-milestone-the-us-exceeds-5-million-solar-installations?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Winamp Is 'Opening Up' Its Source Code",
-                "href": "https://news.slashdot.org/story/24/05/17/0022219/winamp-is-opening-up-its-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Sony Lays Down the Gauntlet on AI",
-                "href": "https://tech.slashdot.org/story/24/05/16/2057243/sony-lays-down-the-gauntlet-on-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Reddit Reintroduces Its Awards System",
-                "href": "https://tech.slashdot.org/story/24/05/16/2056246/reddit-reintroduces-its-awards-system?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "GTA 6 Release Date Narrowed To Fall 2025 Amid Questions about Delays",
-                "href": "https://games.slashdot.org/story/24/05/16/2043208/gta-6-release-date-narrowed-to-fall-2025-amid-questions-about-delays?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Another Billionaire Pushes a Bid For TikTok, But To Decentralize It",
-                "href": "https://tech.slashdot.org/story/24/05/16/2037229/another-billionaire-pushes-a-bid-for-tiktok-but-to-decentralize-it?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Hugging Face Is Sharing $10 Million Worth of Compute To Help Beat the Big AI Companies",
-                "href": "https://hardware.slashdot.org/story/24/05/16/2023222/hugging-face-is-sharing-10-million-worth-of-compute-to-help-beat-the-big-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Palo Alto Networks Is Buying Security Assets From IBM",
-                "href": "https://it.slashdot.org/story/24/05/16/2011226/palo-alto-networks-is-buying-security-assets-from-ibm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "EU Opens Child Safety Probes of Facebook and Instagram, Citing Addictive Design Concerns",
-                "href": "https://meta.slashdot.org/story/24/05/16/204229/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Microsoft Edge security advisory (AV24-276)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-276"
+            },
             {
                 "title": "Drupal security advisory (AV24-275)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-275"
@@ -574,10 +526,6 @@
             {
                 "title": "Ubuntu security advisory (AV24-227)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-227"
-            },
-            {
-                "title": "Mitel security advisory (AV24-226)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-226"
             }
         ]
     },
@@ -799,12 +747,20 @@
                 "href": "https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop"
             },
             {
+                "title": "BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit",
+                "href": "https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/"
+            },
+            {
                 "title": "Ideas and Creativity (2019)",
                 "href": "https://bastian.rieck.me/blog/2019/ideas/"
             },
             {
-                "title": "BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit",
-                "href": "https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/"
+                "title": "Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]",
+                "href": "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-"
+            },
+            {
+                "title": "How to recover lost Python source code if it's still resident in a running inter",
+                "href": "https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12"
             },
             {
                 "title": "Demystifying the protobuf wire format",
@@ -815,16 +771,12 @@
                 "href": "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
             },
             {
-                "title": "Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]",
-                "href": "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-"
-            },
-            {
-                "title": "Ambitious but at Peace",
+                "title": "Ambitious but at peace",
                 "href": "https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html"
             },
             {
-                "title": "Confronting Another Axis? History, Humility, and Wishful Thinking",
-                "href": "https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/"
+                "title": "LoRA Learns Less and Forgets Less",
+                "href": "https://arxiv.org/abs/2405.09673"
             },
             {
                 "title": "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
@@ -835,20 +787,32 @@
                 "href": "https://onesignal.com/careers/4360841006"
             },
             {
-                "title": "How to read C type declarations (2003)",
-                "href": "http://www.unixwiz.net/techtips/reading-cdecl.html"
+                "title": "Confronting Another Axis? History, Humility, and Wishful Thinking",
+                "href": "https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/"
+            },
+            {
+                "title": "Multics Emacs: the history, design, and implementation",
+                "href": "https://www.multicians.org/mepap.html"
+            },
+            {
+                "title": "Sakuga-42M Dataset: Scaling Up Cartoon Research",
+                "href": "https://arxiv.org/abs/2405.07425"
             },
             {
                 "title": "A forged Apple employee badge",
                 "href": "https://cabel.com/2024/05/16/the-forged-apple-employee-badge/"
             },
             {
-                "title": "LoRA Learns Less and Forgets Less",
-                "href": "https://arxiv.org/abs/2405.09673"
+                "title": "How to read C type declarations (2003)",
+                "href": "http://www.unixwiz.net/techtips/reading-cdecl.html"
             },
             {
                 "title": "Thunderbird.net Has a New Look",
                 "href": "https://blog.thunderbird.net/2024/05/the-new-thunderbird-website-has-hatched/"
+            },
+            {
+                "title": "HMT: Hierarchical Memory Transformer for Long Context Language Processing",
+                "href": "https://arxiv.org/abs/2405.06067"
             },
             {
                 "title": "\"The financial costs of healthcare costs, or, is keeping me alive worth it?\"",
@@ -859,56 +823,40 @@
                 "href": "https://paulbourke.net/fractals/lyapunov/"
             },
             {
-                "title": "Students invent quieter leaf blower",
-                "href": "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/"
-            },
-            {
                 "title": "It's official: ADSL works over wet string (2017)",
                 "href": "https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html"
-            },
-            {
-                "title": "Sakuga-42M Dataset: Scaling Up Cartoon Research",
-                "href": "https://arxiv.org/abs/2405.07425"
-            },
-            {
-                "title": "HMT: Hierarchical Memory Transformer for Long Context Language Processing",
-                "href": "https://arxiv.org/abs/2405.06067"
-            },
-            {
-                "title": "RAL Color Standard",
-                "href": "https://en.wikipedia.org/wiki/RAL_colour_standard"
             },
             {
                 "title": "Visualizing algorithms for rate limiting",
                 "href": "https://smudge.ai/blog/ratelimit-algorithms"
             },
             {
-                "title": "Make a game with Hoot for the Lisp Game Jam",
-                "href": "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
-            },
-            {
-                "title": "Jike: The obscure social media app beloved by China's tech scene",
-                "href": "https://restofworld.org/2023/china-tech-workers-investors-founders-app/"
+                "title": "RAL Color Standard",
+                "href": "https://en.wikipedia.org/wiki/RAL_colour_standard"
             },
             {
                 "title": "A Ruby, Middleman and TailwindCSS blog template",
                 "href": "https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog"
             },
             {
+                "title": "Students invent quieter leaf blower",
+                "href": "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/"
+            },
+            {
                 "title": "But Why a Penguin?",
                 "href": "https://daily.jstor.org/but-why-a-penguin/"
             },
             {
+                "title": "Jike: The obscure social media app beloved by China's tech scene",
+                "href": "https://restofworld.org/2023/china-tech-workers-investors-founders-app/"
+            },
+            {
+                "title": "Make a game with Hoot for the Lisp Game Jam",
+                "href": "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
+            },
+            {
                 "title": "Deutsche Bahn introduces \"MetaWindow\"",
                 "href": "https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html"
-            },
-            {
-                "title": "Growing sodium chloride crystals at home",
-                "href": "https://crystalverse.com/sodium-chloride-crystals/"
-            },
-            {
-                "title": "Arch Linux RISC-V",
-                "href": "https://archriscv.felixc.at/"
             }
         ]
     }
