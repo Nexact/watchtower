@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Fixing the iterative damping interpolation in video games",
+                "href": "https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html"
+            },
+            {
+                "title": "Decoding US Government Plans to Shift the Software Security Burden",
+                "href": "https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/"
+            },
+            {
                 "title": "Cat9 Microdosing: Stash and List",
                 "href": "https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/"
             },
             {
                 "title": "sshd(8) split into multiple binaries",
                 "href": "https://undeadly.org/cgi?action=article;sid=20240517092416"
-            },
-            {
-                "title": "Fixing the iterative damping interpolation in video games",
-                "href": "https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html"
             },
             {
                 "title": "Write choose your own adventure stories and get a PDF: Yarn Spinner for Books",
@@ -31,6 +35,10 @@
                 "href": "https://github.com/orhun/flawz"
             },
             {
+                "title": "Haddock now lives in the GHC repository",
+                "href": "https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576"
+            },
+            {
                 "title": "Don\u2019t return err in Go",
                 "href": "https://akavel.com/go-errors"
             },
@@ -47,24 +55,24 @@
                 "href": "https://lucaspickering.me/posts/slumber"
             },
             {
-                "title": "FShade: first-class shaders for F#",
-                "href": "https://fshade.org/"
-            },
-            {
                 "title": "The Forged Apple Employee Badge",
                 "href": "https://cabel.com/2024/05/16/the-forged-apple-employee-badge/"
             },
             {
-                "title": "Haddock now lives in the GHC repository",
-                "href": "https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576"
-            },
-            {
-                "title": "Decoding US Government Plans to Shift the Software Security Burden",
-                "href": "https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/"
+                "title": "FShade: first-class shaders for F#",
+                "href": "https://fshade.org/"
             },
             {
                 "title": "Anvil - Acme inspired text editor written in Go",
                 "href": "http://anvil-editor.net"
+            },
+            {
+                "title": "TCP Performance and the Mathis Equation",
+                "href": "https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/"
+            },
+            {
+                "title": "Computer Scientists Invent an Efficient New Way to Count",
+                "href": "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
             },
             {
                 "title": "Faster linking times on nightly on Linux using \"rust-lld\"",
@@ -79,14 +87,6 @@
                 "href": "https://about.winamp.com/press/article/winamp-open-source-code"
             },
             {
-                "title": "TCP Performance and the Mathis Equation",
-                "href": "https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/"
-            },
-            {
-                "title": "Computer Scientists Invent an Efficient New Way to Count",
-                "href": "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
-            },
-            {
                 "title": "butano: Modern C++ high level GBA engine",
                 "href": "https://github.com/GValiente/butano"
             },
@@ -99,8 +99,8 @@
                 "href": "https://sergey.kamardin.org/articles/generic-concurrency-in-go/"
             },
             {
-                "title": "Why Writing Correct Software Is Hard (2016)",
-                "href": "https://pron.github.io/posts/correctness-and-complexity"
+                "title": "Practical third-party library sandboxing with RLBox",
+                "href": "https://rlbox.dev/"
             }
         ]
     },
@@ -795,36 +795,16 @@
                 "href": "https://gioui.org/"
             },
             {
-                "title": "If you\u2019re seeing this, I\u2019m in jail [video]",
-                "href": "https://www.youtube.com/watch?v=VrFs2_uhz-o"
-            },
-            {
                 "title": "OpenAI departures: Why can\u2019t former employees talk?",
                 "href": "https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release"
-            },
-            {
-                "title": "38% of webpages that existed in 2013 are no longer accessible a decade later",
-                "href": "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/"
             },
             {
                 "title": "Bend: a high-level language that runs on GPUs (via HVM2)",
                 "href": "https://github.com/HigherOrderCO/Bend"
             },
             {
-                "title": "Rebuilding my homelab: Suffering as a service",
-                "href": "https://xeiaso.net/blog/2024/homelab-v2/"
-            },
-            {
-                "title": "Six charts help to explain 2024's freakish temperatures",
-                "href": "https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures"
-            },
-            {
                 "title": "Malleable software in the age of LLMs (2023)",
                 "href": "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html"
-            },
-            {
-                "title": "Tegelwippen",
-                "href": "https://www.nk-tegelwippen.nl/"
             },
             {
                 "title": "Cyber Security: A Pre-War Reality Check",
@@ -847,52 +827,56 @@
                 "href": "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-"
             },
             {
-                "title": "Toon3D: Seeing cartoons from a new perspective",
-                "href": "https://toon3d.studio/"
-            },
-            {
-                "title": "Thinking out loud about 2nd-gen email",
-                "href": "https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/"
-            },
-            {
                 "title": "Mercedes EQXX Record Drive: Riyadh to Dubai Single Charge 1000+ km Range [video]",
                 "href": "https://www.youtube.com/watch?v=7bP-WnL9RXM"
+            },
+            {
+                "title": "Tegelwippen",
+                "href": "https://www.nk-tegelwippen.nl/"
+            },
+            {
+                "title": "Toon3D: Seeing cartoons from a new perspective",
+                "href": "https://toon3d.studio/"
             },
             {
                 "title": "A Man with an Impossible Memory",
                 "href": "https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory"
             },
             {
-                "title": "Truemetrics (YC S23) is hiring a back end engineer",
-                "href": "https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills"
+                "title": "Thinking out loud about 2nd-gen email",
+                "href": "https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/"
             },
             {
                 "title": "Ilya Sutskever: \u201cIf you learn all of these, you\u2019ll know 90% of what matters\u201d",
                 "href": "https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/"
             },
             {
-                "title": "Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)",
-                "href": "https://dolphin-emu.org/blog/2017/07/30/ubershaders/"
+                "title": "The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS",
+                "href": "https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/"
             },
             {
-                "title": "Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain",
-                "href": "https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html"
+                "title": "Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)",
+                "href": "https://dolphin-emu.org/blog/2017/07/30/ubershaders/"
             },
             {
                 "title": "LLM-generated code must not be committed without prior written approval by core",
                 "href": "https://www.netbsd.org/developers/commit-guidelines.html"
             },
             {
-                "title": "The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS",
-                "href": "https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/"
+                "title": "Truemetrics (YC S23) is hiring a back end engineer",
+                "href": "https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills"
             },
             {
-                "title": "Show HN: I built a website to create financial models for any stock online",
-                "href": "https://www.useequityval.com/"
+                "title": "Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain",
+                "href": "https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html"
             },
             {
                 "title": "Multi AI agent systems using OpenAI's assistants API",
                 "href": "https://github.com/metaskills/experts"
+            },
+            {
+                "title": "Show HN: I built a website to create financial models for any stock online",
+                "href": "https://www.useequityval.com/"
             },
             {
                 "title": "Exact binary vector search for RAG in 100 lines of Julia",
@@ -903,12 +887,28 @@
                 "href": "https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/"
             },
             {
+                "title": "wxHexEditor \u2014 a Free Hex Editor / Disk Editor for Huge Files or Devices",
+                "href": "http://www.wxhexeditor.org/"
+            },
+            {
                 "title": "ADSL works over wet string (2017)",
                 "href": "https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html"
             },
             {
-                "title": "wxHexEditor \u2014 a Free Hex Editor / Disk Editor for Huge Files or Devices",
-                "href": "http://www.wxhexeditor.org/"
+                "title": "Working with jumbo/unity builds in C/C++",
+                "href": "https://austinmorlan.com/posts/unity_jumbo_build/"
+            },
+            {
+                "title": "LoRA Learns Less and Forgets Less",
+                "href": "https://arxiv.org/abs/2405.09673"
+            },
+            {
+                "title": "Computer scientists invent an efficient new way to count",
+                "href": "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
+            },
+            {
+                "title": "The Beauty of Concrete",
+                "href": "https://worksinprogress.co/issue/the-beauty-of-concrete/"
             }
         ]
     }
