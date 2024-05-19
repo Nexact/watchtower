@@ -15,6 +15,10 @@
                 "href": "https://browser.dineshgowda.com/"
             },
             {
+                "title": "Fast groq-hosted LLMs vs browser jank",
+                "href": "https://taras.glek.net/post/groq-vs-html-reflows/"
+            },
+            {
                 "title": "Haddock now lives in the GHC repository",
                 "href": "https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576"
             },
@@ -51,12 +55,12 @@
                 "href": "https://blog.meain.io/2024/firefox-bookmark-keywords"
             },
             {
-                "title": "TCP Performance and the Mathis Equation",
-                "href": "https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/"
-            },
-            {
                 "title": "Slumber: A TUI HTTP Client",
                 "href": "https://lucaspickering.me/posts/slumber"
+            },
+            {
+                "title": "TCP Performance and the Mathis Equation",
+                "href": "https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/"
             },
             {
                 "title": "ILGPU: A Modern GPU Compiler for .Net Programs",
@@ -97,10 +101,6 @@
             {
                 "title": "Non-Euclidean Doom: what happens to a game when pi is not 3.14159\u2026",
                 "href": "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324"
-            },
-            {
-                "title": "Faster linking times on nightly on Linux using \"rust-lld\"",
-                "href": "https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html"
             }
         ]
     },
@@ -799,12 +799,16 @@
                 "href": "https://www.filfre.net/2024/05/riven/"
             },
             {
-                "title": "Show HN: Open-source GeForce NOW alternative with Stadia's social features",
-                "href": "https://github.com/netrisdotme/netris"
-            },
-            {
                 "title": "Katy \u2013 68000 Linux on a Solderless Breadboard",
                 "href": "https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/"
+            },
+            {
+                "title": "Transforming a QLC SSD into an SLC SSD",
+                "href": "https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en"
+            },
+            {
+                "title": "Show HN: Open-source GeForce NOW alternative with Stadia's social features",
+                "href": "https://github.com/netrisdotme/netris"
             },
             {
                 "title": "Calculus with Julia",
@@ -815,8 +819,24 @@
                 "href": "https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/"
             },
             {
+                "title": "I Might've Been a Rocket Scientist (Like My Dad), but I Was a Girl",
+                "href": "https://exponentii.org/blog/i-mightve-been-a-rocket-scientist-like-my-dad-but-i-was-a-girl/"
+            },
+            {
                 "title": "Floor796",
                 "href": "https://floor796.com/"
+            },
+            {
+                "title": "Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion",
+                "href": "https://www.emergetools.com/careers"
+            },
+            {
+                "title": "Show HN: Interactive Graph by LLM (GPT-4o)",
+                "href": "https://columns.ai/chatgpt"
+            },
+            {
+                "title": "Is artificial consciousness achievable? Lessons from the human brain",
+                "href": "https://arxiv.org/abs/2405.04540"
             },
             {
                 "title": "Men's Shirts Button on the Right. Why Do Women's Button on the Left?",
@@ -827,88 +847,68 @@
                 "href": "https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/"
             },
             {
-                "title": "Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion",
-                "href": "https://www.emergetools.com/careers"
+                "title": "RISC vs. CISC by John R. Mashey (1995)",
+                "href": "https://yarchive.net/comp/risc_definition.html"
             },
             {
-                "title": "Is artificial consciousness achievable? Lessons from the human brain",
-                "href": "https://arxiv.org/abs/2405.04540"
-            },
-            {
-                "title": "I Might've Been a Rocket Scientist (Like My Dad), but I Was a Girl",
-                "href": "https://exponentii.org/blog/i-mightve-been-a-rocket-scientist-like-my-dad-but-i-was-a-girl/"
+                "title": "Microwaves Not Made in China",
+                "href": "https://www.aintfromchina.com/kitchen/microwaves.html"
             },
             {
                 "title": "New blood test for stroke combines blood-based biomarkers with a clinical score",
                 "href": "https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html"
             },
             {
-                "title": "Michelle's List: A free, anonymous landlord review site",
-                "href": "https://www.michelleslist.com/"
-            },
-            {
                 "title": "The Iberian lynx doubles its population in just three years",
                 "href": "https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html"
+            },
+            {
+                "title": "Michelle's List: A free, anonymous landlord review site",
+                "href": "https://www.michelleslist.com/"
             },
             {
                 "title": "Mathematicians and the Selection Task (2004)",
                 "href": "https://eric.ed.gov/?id=ED489556"
             },
             {
-                "title": "500-year-old maths problem turns out to apply to coffee and clocks",
-                "href": "https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/"
-            },
-            {
-                "title": "Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)",
-                "href": "https://lupyuen.codeberg.page/articles/sg2000.html"
-            },
-            {
-                "title": "RISC vs. CISC by John R. Mashey (1995)",
-                "href": "https://yarchive.net/comp/risc_definition.html"
-            },
-            {
-                "title": "Intel undercut a standards body to give us the PCI connector",
-                "href": "https://spectrum.ieee.org/intel-pci-history"
-            },
-            {
                 "title": "Mortgages Are a Manufactured Product",
                 "href": "https://www.bitsaboutmoney.com/archive/mortgages-are-a-manufactured-product/"
+            },
+            {
+                "title": "500-year-old maths problem turns out to apply to coffee and clocks",
+                "href": "https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/"
             },
             {
                 "title": "Retrospex: Convert images to fit Commodore 64 graphic modes",
                 "href": "https://github.com/micheldebree/retrospex"
             },
             {
+                "title": "Intel undercut a standards body to give us the PCI connector",
+                "href": "https://spectrum.ieee.org/intel-pci-history"
+            },
+            {
+                "title": "Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)",
+                "href": "https://lupyuen.codeberg.page/articles/sg2000.html"
+            },
+            {
+                "title": "Ken Silverman's Official Home Page",
+                "href": "http://advsys.net/ken/"
+            },
+            {
                 "title": "Sam and Greg's response to OpenAI Safety researcher claims",
                 "href": "https://twitter.com/gdb/status/1791869138132218351"
-            },
-            {
-                "title": "Show HN: A Golang CP/M emulator",
-                "href": "https://github.com/skx/cpmulator"
-            },
-            {
-                "title": "Getting Materials Out of the Lab",
-                "href": "https://worksinprogress.co/issue/getting-materials-out-of-the-lab/"
-            },
-            {
-                "title": "I organized a 20-acre game of Capture the Flag",
-                "href": "https://www.ntnbr.com/61/"
-            },
-            {
-                "title": "On hoot, on boot",
-                "href": "https://wingolog.org/archives/2024/05/16/on-hoot-on-boot"
-            },
-            {
-                "title": "Hashing Modulo Theories",
-                "href": "https://www.philipzucker.com/hashing-modulo/"
             },
             {
                 "title": "\"No Mow May\" Won't Fix Our Biodiversity Problems",
                 "href": "https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/"
             },
             {
-                "title": "Show HN: Peanut Butter Spinner",
-                "href": "https://cdaringe.com/peanut-butter-spinner/"
+                "title": "Show HN: A Golang CP/M emulator",
+                "href": "https://github.com/skx/cpmulator"
+            },
+            {
+                "title": "I organized a 20-acre game of Capture the Flag",
+                "href": "https://www.ntnbr.com/61/"
             }
         ]
     }
