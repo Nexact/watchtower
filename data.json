@@ -7,20 +7,28 @@
                 "href": "https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog"
             },
             {
+                "title": "vu128: Efficient variable-length integers",
+                "href": "https://john-millikin.com/vu128-efficient-variable-length-integers"
+            },
+            {
                 "title": "Getting OCaml Through the Eye of a Needle",
                 "href": "https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle"
             },
             {
-                "title": "vu128: Efficient variable-length integers",
-                "href": "https://john-millikin.com/vu128-efficient-variable-length-integers"
+                "title": "Functional TypeScript #1: Algebraic Data Types",
+                "href": "https://injuly.in/blog/ts-adt/"
+            },
+            {
+                "title": "7 OCaml Gotchas",
+                "href": "https://dev.to/chshersh/7-ocaml-gotchas-207e"
             },
             {
                 "title": "Clone arbitrary single Git commit",
                 "href": "https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/"
             },
             {
-                "title": "7 OCaml Gotchas",
-                "href": "https://dev.to/chshersh/7-ocaml-gotchas-207e"
+                "title": "lvm thin send/recv",
+                "href": "https://abbbi.github.io/lvm/"
             },
             {
                 "title": "Racket - the Language-Oriented Programming Language - version 8.13 is now available",
@@ -35,14 +43,6 @@
                 "href": "https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak"
             },
             {
-                "title": "lvm thin send/recv",
-                "href": "https://abbbi.github.io/lvm/"
-            },
-            {
-                "title": "Functional TypeScript #1: Algebraic Data Types",
-                "href": "https://injuly.in/blog/ts-adt/"
-            },
-            {
                 "title": "Erlang/OTP 27.0 Release",
                 "href": "https://www.erlang.org/news/170"
             },
@@ -55,20 +55,20 @@
                 "href": "https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server"
             },
             {
-                "title": "YARA is dead, long live Yara-X",
-                "href": "https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/"
-            },
-            {
-                "title": "Raymarching explained interactively",
-                "href": "https://imadr.me/raymarching-explained-interactively/"
-            },
-            {
                 "title": "Common Lisp for Shell Scripting",
                 "href": "https://simonsafar.com/2021/lisp_scripting/"
             },
             {
+                "title": "YARA is dead, long live Yara-X",
+                "href": "https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/"
+            },
+            {
                 "title": "C23 implications for C libraries",
                 "href": "https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html"
+            },
+            {
+                "title": "Raymarching explained interactively",
+                "href": "https://imadr.me/raymarching-explained-interactively/"
             },
             {
                 "title": "CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js",
@@ -114,6 +114,10 @@
             {
                 "title": "Hacking MS Entra Connect: Connect Sync vs Cloud Sync from a hacker\u2019s perspective",
                 "href": "https://www.reddit.com/r/netsec/comments/1cwxh5i/hacking_ms_entra_connect_connect_sync_vs_cloud/"
+            },
+            {
+                "title": "Abusing url handling in iTerm2 and Hyper for code execution",
+                "href": "https://www.reddit.com/r/netsec/comments/1cx7n0x/abusing_url_handling_in_iterm2_and_hyper_for_code/"
             },
             {
                 "title": "Honeywell Patches Multiple Vulnerabilities in its Virtual Controllers",
@@ -206,10 +210,6 @@
             {
                 "title": "Unmasking Adversary Cloud Defense Evasion Strategies: Modify Cloud Compute Infrastructure Part 1",
                 "href": "https://www.reddit.com/r/netsec/comments/1cosb1j/unmasking_adversary_cloud_defense_evasion/"
-            },
-            {
-                "title": "SSL/TLS, part 3: Toy TLS 1.2 client in ~1600 SLOC of Python.",
-                "href": "https://www.reddit.com/r/netsec/comments/1con78h/ssltls_part_3_toy_tls_12_client_in_1600_sloc_of/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Google Cuts Mystery Check To US In Bid To Sidestep Jury Trial",
+                "href": "https://tech.slashdot.org/story/24/05/21/0426229/google-cuts-mystery-check-to-us-in-bid-to-sidestep-jury-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Warm Water Melts 'Doomsday Glacier' Half a Mile Each Year, Finds Study",
                 "href": "https://news.slashdot.org/story/24/05/21/0418222/warm-water-melts-doomsday-glacier-half-a-mile-each-year-finds-study?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Another Online Pharmacy Bypasses the FDA To Offer Cut-Rate Weight Loss Drugs",
                 "href": "https://science.slashdot.org/story/24/05/20/1728215/another-online-pharmacy-bypasses-the-fda-to-offer-cut-rate-weight-loss-drugs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microplastics Found in Every Human Testicle in Study",
-                "href": "https://science.slashdot.org/story/24/05/20/1639201/microplastics-found-in-every-human-testicle-in-study?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,48 +791,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Going Dark: The war on encryption is on the rise",
-                "href": "https://mullvad.net/en/why-privacy-matters/going-dark"
-            },
-            {
-                "title": "'Satoshi' impersonation 'a serious abuse of court's process' judge concludes",
-                "href": "https://www.lawgazette.co.uk/news/satoshi-impersonation-a-serious-abuse-of-courts-process-judge-concludes/5119771.article"
-            },
-            {
-                "title": "Google announces Firebase Genkit with Ollama support",
-                "href": "https://ollama.com/blog/firebase-genkit"
-            },
-            {
-                "title": "Trying out the Panel-of-Experts prompting strategy for LLMs",
-                "href": "https://sourcery.ai/blog/panel-of-experts/"
+                "title": "We created the first open source implementation of Meta's TestGen\u2013LLM",
+                "href": "https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/"
             },
             {
                 "title": "Shipbreaking",
                 "href": "https://www.edwardburtynsky.com/projects/photographs/shipbreaking"
             },
             {
-                "title": "Erlang/OTP 27 Highlights",
-                "href": "https://www.erlang.org/blog/highlights-otp-27/"
-            },
-            {
-                "title": "We created the first open source implementation of Meta's TestGen\u2013LLM",
-                "href": "https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/"
-            },
-            {
-                "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-                "href": "https://jobs.lever.co/buildzoom"
-            },
-            {
-                "title": "An Ode to Deluxe Paint (2023)",
-                "href": "https://www.datagubbe.se/dpaint/"
-            },
-            {
                 "title": "Gifski: Optimized GIF Encoder",
                 "href": "https://github.com/ImageOptim/gifski"
             },
             {
-                "title": "NoTunes is a macOS application that will prevent Apple Music from launching",
-                "href": "https://github.com/tombonez/noTunes"
+                "title": "Building an AI game studio: what we've learned so far",
+                "href": "https://braindump.me/blog-posts/building-an-ai-game-studio"
+            },
+            {
+                "title": "An Ode to Deluxe Paint (2023)",
+                "href": "https://www.datagubbe.se/dpaint/"
             },
             {
                 "title": "Reversing Choplifter",
@@ -843,6 +819,10 @@
                 "href": "https://andymatuschak.org/hmwl/"
             },
             {
+                "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+                "href": "https://jobs.lever.co/buildzoom"
+            },
+            {
                 "title": "Waxolotl \u2013 A small language that compiles to WebAssembly text format",
                 "href": "https://github.com/eliot-akira/waxolotl"
             },
@@ -851,8 +831,12 @@
                 "href": "https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63"
             },
             {
-                "title": "Building an AI game studio: what we've learned so far",
-                "href": "https://braindump.me/blog-posts/building-an-ai-game-studio"
+                "title": "NoTunes is a macOS application that will prevent Apple Music from launching",
+                "href": "https://github.com/tombonez/noTunes"
+            },
+            {
+                "title": "Show HN: Oracolo \u2013 A minimalist Nostr blog in a single HTML file",
+                "href": "https://github.com/dtonon/oracolo"
             },
             {
                 "title": "Falling in love again with disposable cameras",
@@ -867,48 +851,64 @@
                 "href": "https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/"
             },
             {
-                "title": "Show HN: Oracolo \u2013 A minimalist Nostr blog in a single HTML file",
-                "href": "https://github.com/dtonon/oracolo"
-            },
-            {
                 "title": "The Vietnamese Computer Scientist Who Made Toy Story Possible",
                 "href": "https://time.com/6974656/toy-story-vietnam-war/"
-            },
-            {
-                "title": "One dead as London-Singapore flight hit by turbulence",
-                "href": "https://www.bbc.com/news/articles/c8889d7x8j4o"
             },
             {
                 "title": "Chameleon: Meta's New Multi-Modal LLM",
                 "href": "https://arxiv.org/abs/2405.09818"
             },
             {
-                "title": "Modos Paper Monitor Pre-Launch on Crowd Supply",
-                "href": "https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply"
-            },
-            {
                 "title": "How terminal works. Part 1: Xterm, user input (2021)",
                 "href": "https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html"
+            },
+            {
+                "title": "Modos Paper Monitor Pre-Launch on Crowd Supply",
+                "href": "https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply"
             },
             {
                 "title": "pg_timeseries: Open-source time-series extension for PostgreSQL",
                 "href": "https://tembo.io/blog/pg-timeseries"
             },
             {
+                "title": "Regular expression matching can be simple and fast (2007)",
+                "href": "https://swtch.com/%7Ersc/regexp/regexp1.html"
+            },
+            {
                 "title": "When you're driving you're re-enacting an ancient space combat SIM",
                 "href": "https://interconnected.org/home/2024/05/17/arrow"
+            },
+            {
+                "title": "Apple changed a lot inside the iPad Pro to get it so thin",
+                "href": "https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch"
             },
             {
                 "title": "Sierra was captured, then killed, by an accounting fraud (2020)",
                 "href": "https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud"
             },
             {
-                "title": "Regular expression matching can be simple and fast (2007)",
-                "href": "https://swtch.com/%7Ersc/regexp/regexp1.html"
-            },
-            {
                 "title": "The Reign of Alexander III of Macedon, the Great?",
                 "href": "https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/"
+            },
+            {
+                "title": "Rethinking Text Resizing on Web",
+                "href": "https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881"
+            },
+            {
+                "title": "Formatted spreadsheets can still work in R",
+                "href": "https://luisdva.github.io/rstats/problematic-spreadsheets/"
+            },
+            {
+                "title": "Eudyptula Challenge (2014)",
+                "href": "https://lwn.net/Articles/599231/"
+            },
+            {
+                "title": "Grothendieck\u2019s use of equality",
+                "href": "https://arxiv.org/abs/2405.10387"
+            },
+            {
+                "title": "Going Dark: The war on encryption is on the rise",
+                "href": "https://mullvad.net/en/why-privacy-matters/going-dark"
             }
         ]
     }
