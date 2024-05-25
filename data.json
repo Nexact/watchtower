@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Go 1.23 and go:linkname changes",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem"
+            },
+            {
                 "title": "Exploring Seamless Rust Interop for Newer Languages, Part 1",
                 "href": "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1"
             },
@@ -19,16 +23,16 @@
                 "href": "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
             },
             {
-                "title": "Go 1.23 and go:linkname changes",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem"
-            },
-            {
                 "title": "ssh authentication via Yubikeys",
                 "href": "https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/"
             },
             {
                 "title": "Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies",
                 "href": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c"
+            },
+            {
+                "title": "If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe",
+                "href": "https://frappe.io/blog/engineering/if-you-wish-to-truly-understand-frappes-scheduler-you-must-first-invent-the-universe"
             },
             {
                 "title": "Statically Typed Functional Programming with Python 3.12",
@@ -51,6 +55,14 @@
                 "href": "https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit"
             },
             {
+                "title": "Linux as the new developer default at 37signals",
+                "href": "https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7"
+            },
+            {
+                "title": "Using Jai's Unique and Powerful Compiler for Typesafe Units",
+                "href": "https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/"
+            },
+            {
                 "title": "Consensus in Internet Standards",
                 "href": "https://www.mnot.net/blog/2024/05/24/consensus"
             },
@@ -67,10 +79,6 @@
                 "href": "https://lwn.net/1999/features/BitKeeper.php3"
             },
             {
-                "title": "Linux as the new developer default at 37signals",
-                "href": "https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7"
-            },
-            {
                 "title": "Don't Microservice, Do Module",
                 "href": "https://yekta.dev/posts/dont-microservice-do-module/"
             },
@@ -83,10 +91,6 @@
                 "href": "https://quickwit.io/blog/performance-investigation"
             },
             {
-                "title": "Using Jai's Unique and Powerful Compiler for Typesafe Units",
-                "href": "https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/"
-            },
-            {
                 "title": "Privacy, human rights, and Tornado Cash",
                 "href": "https://www.citationneeded.news/tornado-cash/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows",
                 "href": "https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/"
-            },
-            {
-                "title": "Willow Sideloading Protocol",
-                "href": "https://willowprotocol.org/specs/sideloading"
             }
         ]
     },
@@ -815,16 +815,16 @@
                 "href": "https://blog.jonasbengtson.se/cisco-7609-beer-tap"
             },
             {
-                "title": "A simple core.async job system in Clojure",
-                "href": "https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/"
-            },
-            {
                 "title": "Mp3tag \u2013 Universal Tag Editor",
                 "href": "https://www.mp3tag.de/en/"
             },
             {
                 "title": "Show HN: We open sourced our entire text-to-SQL product",
                 "href": "https://github.com/Dataherald/dataherald"
+            },
+            {
+                "title": "A simple core.async job system in Clojure",
+                "href": "https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/"
             },
             {
                 "title": "Show HN: Spot \u2013 Simple, cross-platform, reactive desktop GUI toolkit for Go",
@@ -859,28 +859,24 @@
                 "href": "https://icq.com/desktop/en#windows"
             },
             {
-                "title": "LZW and GIF explained",
-                "href": "https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html"
-            },
-            {
-                "title": "Male birth control breakthrough safely switches off fit sperm for a while",
-                "href": "https://newatlas.com/medical/male-birth-control-stk333/"
-            },
-            {
-                "title": "World in a Box",
-                "href": "https://placesjournal.org/article/social-history-of-the-cardboard-box/"
+                "title": "Recursion, continuations and trampolines (2017)",
+                "href": "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
             },
             {
                 "title": "Don Knuth's MIP, 64 years later",
                 "href": "https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/"
             },
             {
-                "title": "Recursion, continuations and trampolines (2017)",
-                "href": "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
+                "title": "LZW and GIF explained",
+                "href": "https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html"
             },
             {
                 "title": "Sharing details on a recent incident impacting one of our customers",
                 "href": "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
+            },
+            {
+                "title": "World in a Box",
+                "href": "https://placesjournal.org/article/social-history-of-the-cardboard-box/"
             },
             {
                 "title": "Blue field entoptic phenomenon",
@@ -891,28 +887,32 @@
                 "href": "http://durealeyes.com/planimeter.html"
             },
             {
-                "title": "Signalfd Is Useless (2015)",
-                "href": "https://ldpreload.com/blog/signalfd-is-useless"
-            },
-            {
                 "title": "Slow Bros crafted a video game universe by hand",
                 "href": "https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game"
+            },
+            {
+                "title": "Signalfd Is Useless (2015)",
+                "href": "https://ldpreload.com/blog/signalfd-is-useless"
             },
             {
                 "title": ".NET for NES Game Console on 6502 Microprocessors",
                 "href": "https://github.com/jonathanpeppers/dotnes"
             },
             {
-                "title": "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
-                "href": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
-            },
-            {
                 "title": "Peeking underground with giant flying antennas",
                 "href": "https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/"
             },
             {
-                "title": "Test Functions for Global Optimization",
-                "href": "https://www.sfu.ca/~ssurjano/optimization.html"
+                "title": "Voxel Displacement Renderer \u2013 Modernizing the Retro 3D Aesthetic",
+                "href": "https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/"
+            },
+            {
+                "title": "Imperceptible sensors can be printed directly on human skin",
+                "href": "https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin"
+            },
+            {
+                "title": "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
+                "href": "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
             }
         ]
     }
