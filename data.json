@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "How Python Compares Floats and Ints: When Equals Isn\u2019t Really Equal",
-                "href": "https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints"
-            },
-            {
                 "title": "Go 1.23 and go:linkname changes",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem"
+            },
+            {
+                "title": "How Python Compares Floats and Ints: When Equals Isn\u2019t Really Equal",
+                "href": "https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints"
             },
             {
                 "title": "If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe",
@@ -27,6 +27,10 @@
                 "href": "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
             },
             {
+                "title": "A new way to bring garbage collected programming languages efficiently to WebAssembly",
+                "href": "https://v8.dev/blog/wasm-gc-porting"
+            },
+            {
                 "title": "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
                 "href": "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
             },
@@ -35,12 +39,16 @@
                 "href": "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1"
             },
             {
-                "title": "A new way to bring garbage collected programming languages efficiently to WebAssembly",
-                "href": "https://v8.dev/blog/wasm-gc-porting"
+                "title": "Abusing Go's infrastructure",
+                "href": "https://reverse.put.as/2024/05/24/abusing-go-infrastructure/"
             },
             {
                 "title": "ssh authentication via Yubikeys",
                 "href": "https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/"
+            },
+            {
+                "title": "Using Jai's Unique and Powerful Compiler for Typesafe Units",
+                "href": "https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/"
             },
             {
                 "title": "Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies",
@@ -51,16 +59,8 @@
                 "href": "https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/"
             },
             {
-                "title": "Using Jai's Unique and Powerful Compiler for Typesafe Units",
-                "href": "https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/"
-            },
-            {
                 "title": "Don't Microservice, Do Module",
                 "href": "https://yekta.dev/posts/dont-microservice-do-module/"
-            },
-            {
-                "title": "Abusing Go's infrastructure",
-                "href": "https://reverse.put.as/2024/05/24/abusing-go-infrastructure/"
             },
             {
                 "title": "russh: Rust SSH client & server library",
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q2 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
+            },
+            {
+                "title": "iGoat iOS Application - Challenge Solves Blog Post",
+                "href": "https://www.reddit.com/r/netsec/comments/1d0f2j0/igoat_ios_application_challenge_solves_blog_post/"
             },
             {
                 "title": "Entra ID service principals in business email compromise schemes",
@@ -206,10 +210,6 @@
             {
                 "title": "Memory Corruption Vulnerability in Fluent Bit (CVE-2024-4323)",
                 "href": "https://www.reddit.com/r/netsec/comments/1cwks49/memory_corruption_vulnerability_in_fluent_bit/"
-            },
-            {
-                "title": "The WAF Swiss-Knife",
-                "href": "https://www.reddit.com/r/netsec/comments/1cvz4sw/the_waf_swissknife/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "OpenAI Didn't Copy Scarlett Johansson's Voice for ChatGPT, Records Show",
+                "href": "https://slashdot.org/story/24/05/25/0529216/openai-didnt-copy-scarlett-johanssons-voice-for-chatgpt-records-show?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Meta, Activision Sued By Parents of Children Killed in Last Year's School Shooting",
                 "href": "https://tech.slashdot.org/story/24/05/25/0323239/meta-activision-sued-by-parents-of-children-killed-in-last-years-school-shooting?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "After You Die, Your Steam Games Will Be Stuck in Legal Limbo",
                 "href": "https://games.slashdot.org/story/24/05/24/1846221/after-you-die-your-steam-games-will-be-stuck-in-legal-limbo?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple Built a Tetris Clone For the iPod But Never Released It",
-                "href": "https://apple.slashdot.org/story/24/05/24/1840213/apple-built-a-tetris-clone-for-the-ipod-but-never-released-it?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,40 +799,44 @@
                 "href": "https://leafo.net/lapis/"
             },
             {
-                "title": "When Open Source turns sour: A brush with mistaken identity",
-                "href": "https://opensource.net/when-open-source-mistaken-identity-scandal/"
-            },
-            {
                 "title": "The Cognitive Design of Tools of Thought (2014) [pdf]",
                 "href": "http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf"
-            },
-            {
-                "title": "Kombucha-associated microbes alter host metabolism & suppress lipid accumulation",
-                "href": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011003"
-            },
-            {
-                "title": "The Prophet Who Failed \u2013 After the apocalypse that wasn't",
-                "href": "https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/"
-            },
-            {
-                "title": "Financial Statement Analysis with Large Language Models",
-                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311"
-            },
-            {
-                "title": "LuaRT: Lua programming environment for console, desktop applications for Windows",
-                "href": "https://luart.org/index.html"
             },
             {
                 "title": "Goodix Fingerprint Drivers for Linux (Or at Least Debian)",
                 "href": "https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell"
             },
             {
-                "title": "The Case for Japan's Clothes-Drying Bathrooms",
-                "href": "https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology"
+                "title": "The Prophet Who Failed \u2013 After the apocalypse that wasn't",
+                "href": "https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/"
+            },
+            {
+                "title": "100BASE-T4 over barbed wire (2001)",
+                "href": "https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm"
             },
             {
                 "title": "A shrinking life: Why some Asian youth withdraw from the world",
                 "href": "https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/"
+            },
+            {
+                "title": "Google scrambles to manually remove weird AI answers in search",
+                "href": "https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai"
+            },
+            {
+                "title": "Financial Statement Analysis with Large Language Models",
+                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311"
+            },
+            {
+                "title": "The Case for Japan's Clothes-Drying Bathrooms",
+                "href": "https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology"
+            },
+            {
+                "title": "LuaRT: Lua programming environment for console, desktop applications for Windows",
+                "href": "https://luart.org/index.html"
+            },
+            {
+                "title": "Single atom defect in 2D material can hold quantum information at room temp",
+                "href": "https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp"
             },
             {
                 "title": "A simple core.async job system in Clojure",
@@ -851,64 +855,60 @@
                 "href": "https://www.mp3tag.de/en/"
             },
             {
-                "title": "Show HN: Spot \u2013 Simple, cross-platform, reactive desktop GUI toolkit for Go",
-                "href": "https://github.com/roblillack/spot"
-            },
-            {
-                "title": "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
-                "href": "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
-            },
-            {
-                "title": "Single atom defect in 2D material can hold quantum information at room temp",
-                "href": "https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp"
-            },
-            {
-                "title": "100BASE-T4 over barbed wire (2001)",
-                "href": "https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm"
-            },
-            {
-                "title": "Don Knuth's MIP, 64 years later",
-                "href": "https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/"
-            },
-            {
-                "title": "Samsung WB850F Firmware Reverse Engineering",
-                "href": "https://op-co.de/blog/posts/samsung_wb850f_firmware/"
-            },
-            {
-                "title": "Thermodynamic Natural Gradient Descent",
-                "href": "https://arxiv.org/abs/2405.13817"
-            },
-            {
                 "title": "Lessons from the Trenches on Reproducible Evaluation of Language Models",
                 "href": "https://arxiv.org/abs/2405.14782"
             },
             {
-                "title": "Optimizing your talking points (2018)",
-                "href": "https://rachelbythebay.com/w/2018/04/28/meta/"
+                "title": "Show HN: Spot \u2013 Simple, cross-platform, reactive desktop GUI toolkit for Go",
+                "href": "https://github.com/roblillack/spot"
             },
             {
                 "title": "The new visa fees for foreign artists are out. This is not good",
                 "href": "https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/"
             },
             {
-                "title": "Guys what is wrong with ACATS",
-                "href": "https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/"
+                "title": "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
+                "href": "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
+            },
+            {
+                "title": "Don Knuth's MIP, 64 years later",
+                "href": "https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/"
+            },
+            {
+                "title": "Optimizing your talking points (2018)",
+                "href": "https://rachelbythebay.com/w/2018/04/28/meta/"
+            },
+            {
+                "title": "Samsung WB850F Firmware Reverse Engineering",
+                "href": "https://op-co.de/blog/posts/samsung_wb850f_firmware/"
             },
             {
                 "title": "Sharing details on a recent incident impacting one of our customers",
                 "href": "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
             },
             {
+                "title": "Thermodynamic Natural Gradient Descent",
+                "href": "https://arxiv.org/abs/2405.13817"
+            },
+            {
+                "title": "Guys what is wrong with ACATS",
+                "href": "https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/"
+            },
+            {
                 "title": "Agenda: a personal information manager (1990) [pdf]",
                 "href": "https://dl.acm.org/doi/pdf/10.1145/79204.79212"
+            },
+            {
+                "title": "Coke can planimeter",
+                "href": "http://durealeyes.com/planimeter.html"
             },
             {
                 "title": "ICQ will stop working from June 26",
                 "href": "https://icq.com/desktop/en#windows"
             },
             {
-                "title": "Coke can planimeter",
-                "href": "http://durealeyes.com/planimeter.html"
+                "title": "Recursion, continuations and trampolines (2017)",
+                "href": "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
             }
         ]
     }
