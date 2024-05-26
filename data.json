@@ -63,12 +63,20 @@
                 "href": "https://blog.jonasbengtson.se/cisco-7609-beer-tap"
             },
             {
+                "title": "Hurl, the Exceptional language",
+                "href": "https://hurl.wtf/"
+            },
+            {
                 "title": "Don't Microservice, Do Module",
                 "href": "https://yekta.dev/posts/dont-microservice-do-module/"
             },
             {
                 "title": "Documenting my DNS records",
                 "href": "https://alexwlchan.net/2024/documenting-my-dns/"
+            },
+            {
+                "title": "TPM Performance :(",
+                "href": "https://stiankri.substack.com/p/tpm-performance"
             },
             {
                 "title": "Details of Google Cloud GCVE incident (UniSuper deletion)",
@@ -83,16 +91,8 @@
                 "href": "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1"
             },
             {
-                "title": "Hurl, the Exceptional language",
-                "href": "https://hurl.wtf/"
-            },
-            {
                 "title": "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
                 "href": "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
-            },
-            {
-                "title": "TPM Performance :(",
-                "href": "https://stiankri.substack.com/p/tpm-performance"
             },
             {
                 "title": "Mathematical Foundations for a Compositional Distributional Model of Meaning (2010)",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "A Startup's Faster-Than-E-Ink Android Tablet Challenges Apple's IPad",
+                "href": "https://mobile.slashdot.org/story/24/05/26/018234/a-startups-faster-than-e-ink-android-tablet-challenges-apples-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Trump Promises He'd Commute the Life Sentence of 'Silk Road' Founder Ross Ulbricht",
                 "href": "https://politics.slashdot.org/story/24/05/26/0240239/trump-promises-hed-commute-the-life-sentence-of-silk-road-founder-ross-ulbricht?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Eagles Changed Migration Route To Avoid Ukraine War",
                 "href": "https://news.slashdot.org/story/24/05/24/239201/eagles-changed-migration-route-to-avoid-ukraine-war?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Best Buy and Geek Squad Were Most Impersonated Orgs By Scammers In 2023",
-                "href": "https://news.slashdot.org/story/24/05/24/235201/best-buy-and-geek-squad-were-most-impersonated-orgs-by-scammers-in-2023?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,60 +795,84 @@
                 "href": "https://hurl.wtf/"
             },
             {
-                "title": "Helen Keller on her life before self-consciousness",
-                "href": "http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html"
-            },
-            {
                 "title": "Braid: Synchronization for HTTP",
                 "href": "https://braid.org/"
+            },
+            {
+                "title": "How Home Assistant is being used to protect from missile and drone attacks",
+                "href": "https://denysdovhan.com/home-assistant-config/config/war/"
+            },
+            {
+                "title": "Helen Keller on her life before self-consciousness",
+                "href": "http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html"
             },
             {
                 "title": "Diffusion Models",
                 "href": "https://andrewkchan.dev/posts/diffusion.html"
             },
             {
-                "title": "GRC SpinRite",
-                "href": "https://computer.rip/2024-05-25-grc-spinrite.html"
-            },
-            {
                 "title": "Majorana, the search for the most elusive neutrino of all",
                 "href": "https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/"
             },
             {
-                "title": "Why is x & -x equal to the largest power of 2 that divides x?",
-                "href": "https://arunmani.in/articles/highest-two-power-to-divide-a-number/"
+                "title": "The Algorithm Behind Jim Simons's Success",
+                "href": "https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss"
             },
             {
                 "title": "Abusing Go's Infrastructure",
                 "href": "https://reverse.put.as/2024/05/24/abusing-go-infrastructure/"
             },
             {
-                "title": "How to monitor steel alloys with Grafana",
-                "href": "https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/"
+                "title": "Simplicity \u2013 Google SRE Handbook",
+                "href": "https://sre.google/sre-book/simplicity/"
+            },
+            {
+                "title": "Why is x & -x equal to the largest power of 2 that divides x?",
+                "href": "https://arunmani.in/articles/highest-two-power-to-divide-a-number/"
+            },
+            {
+                "title": "Call to Action: Fediverse Media Server",
+                "href": "https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/"
+            },
+            {
+                "title": "Show HN: I made a state machine framework for guided conversations with LLMs",
+                "href": "https://github.com/adlumal/GoalChain"
             },
             {
                 "title": "How do layer 2s differ from execution sharding?",
                 "href": "https://vitalik.eth.limo/general/2024/05/23/l2exec.html"
             },
             {
-                "title": "Simplicity \u2013 Google SRE Handbook",
-                "href": "https://sre.google/sre-book/simplicity/"
+                "title": "How to monitor steel alloys with Grafana",
+                "href": "https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/"
+            },
+            {
+                "title": "'I was misidentified as shoplifter by facial recognition tech'",
+                "href": "https://www.bbc.co.uk/news/technology-69055945"
             },
             {
                 "title": "I was at Woodstock '99 and it destroyed my innocence (2022)",
                 "href": "https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence"
             },
             {
-                "title": "Medieval Bologna was full of tall towers",
-                "href": "https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html"
-            },
-            {
                 "title": "Voxel Displacement Renderer \u2013 Modernizing the Retro 3D Aesthetic",
                 "href": "https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/"
             },
             {
-                "title": "The Algorithm Behind Jim Simons's Success",
-                "href": "https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss"
+                "title": "Medieval Bologna was full of tall towers",
+                "href": "https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html"
+            },
+            {
+                "title": "Hacking phones is too easy. Time to make it harder",
+                "href": "https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder"
+            },
+            {
+                "title": "Roman Emperors' Outrageously Lavish Dinner Parties",
+                "href": "https://www.atlasobscura.com/articles/ancient-rome-feast-party"
+            },
+            {
+                "title": "Animating Ptolemy's Equant with Python, SVG, and CSS",
+                "href": "https://rhodesmill.org/brandon/2019/animating-the-equant/"
             },
             {
                 "title": "So good, it works on barbed wire (2001)",
@@ -859,28 +883,20 @@
                 "href": "https://mandeepbhutani.com/blog"
             },
             {
-                "title": "The Cognitive Design of Tools of Thought (2014) [pdf]",
-                "href": "http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf"
-            },
-            {
-                "title": "Animating Ptolemy's Equant with Python, SVG, and CSS",
-                "href": "https://rhodesmill.org/brandon/2019/animating-the-equant/"
-            },
-            {
-                "title": "How Home Assistant is being used to protect from missile and drone attacks",
-                "href": "https://denysdovhan.com/home-assistant-config/config/war/"
-            },
-            {
                 "title": "Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)",
                 "href": "https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote"
+            },
+            {
+                "title": "The Cognitive Design of Tools of Thought (2014) [pdf]",
+                "href": "http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf"
             },
             {
                 "title": "Taming floating-point sums",
                 "href": "https://orlp.net/blog/taming-float-sums/"
             },
             {
-                "title": "Mersenne Twister PRNG for JavaScript",
-                "href": "https://github.com/jawj/mtwist"
+                "title": "GRC SpinRite",
+                "href": "https://computer.rip/2024-05-25-grc-spinrite.html"
             },
             {
                 "title": "Show HN: I built an Obsidian plugin to create notes from BibTeX",
@@ -893,22 +909,6 @@
             {
                 "title": "Ask HN: What is your ChatGPT customization prompt?",
                 "href": "item?id=40474716"
-            },
-            {
-                "title": "Startup is about to install bladeless rooftop wind turbines on box buildings",
-                "href": "https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/"
-            },
-            {
-                "title": "Ian Clarke explains the next generation of Freenet [video] (2023)",
-                "href": "https://www.youtube.com/watch?v=yBtyNIqZios"
-            },
-            {
-                "title": "Single atom defect in 2D material can hold quantum information at room temp",
-                "href": "https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp"
-            },
-            {
-                "title": "Talos \u2013 An Immutable OS for Kubernetes",
-                "href": "https://a-cup-of.coffee/blog/talos/"
             }
         ]
     }
