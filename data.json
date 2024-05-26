@@ -7,12 +7,20 @@
                 "href": "https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/"
             },
             {
-                "title": "GRC SpinRite",
-                "href": "https://computer.rip/2024-05-25-grc-spinrite.html"
+                "title": "Linux Performance Analysis in 60,000 Milliseconds (2015)",
+                "href": "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
             },
             {
                 "title": "Extend your battery life with scx_rustland",
                 "href": "https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html"
+            },
+            {
+                "title": "GRC SpinRite",
+                "href": "https://computer.rip/2024-05-25-grc-spinrite.html"
+            },
+            {
+                "title": "Exploiting V8 at openECSC",
+                "href": "https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/"
             },
             {
                 "title": "How Python Compares Floats and Ints: When Equals Isn\u2019t Really Equal",
@@ -23,20 +31,16 @@
                 "href": "https://andrewkchan.dev/posts/diffusion.html"
             },
             {
-                "title": "Linux Performance Analysis in 60,000 Milliseconds (2015)",
-                "href": "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
-            },
-            {
                 "title": "Hurl, the Exceptional language",
                 "href": "https://hurl.wtf/"
             },
             {
-                "title": "Exploiting V8 at openECSC",
-                "href": "https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/"
-            },
-            {
                 "title": "Feed and Blogrolls Discovery",
                 "href": "https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html"
+            },
+            {
+                "title": "Seeing Like a Data Structure",
+                "href": "https://www.belfercenter.org/publication/seeing-data-structure"
             },
             {
                 "title": "JQuickTake: Java-based app to manage vintage Apple QuickTake 100/150 cameras",
@@ -49,10 +53,6 @@
             {
                 "title": "Taming Floating-Point Sums",
                 "href": "https://orlp.net/blog/taming-float-sums/"
-            },
-            {
-                "title": "Seeing Like a Data Structure",
-                "href": "https://www.belfercenter.org/publication/seeing-data-structure"
             },
             {
                 "title": "Abusing Go's infrastructure",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Could Sea Explosions Finally Locate the 2014 Crash Site of Flight MH370?",
+                "href": "https://tech.slashdot.org/story/24/05/26/193242/could-sea-explosions-finally-locate-the-2014-crash-site-of-flight-mh370?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Netflix's Sci-Fi Movie 'Atlas': AI Apocalypse Blockbuster Gets 'Shocking' Reviews",
                 "href": "https://entertainment.slashdot.org/story/24/05/26/1635251/netflixs-sci-fi-movie-atlas-ai-apocalypse-blockbuster-gets-shocking-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Robotaxis Face 'Heightened Scrutiny' While the Industry Plans Expansion",
                 "href": "https://tech.slashdot.org/story/24/05/25/0359251/robotaxis-face-heightened-scrutiny-while-the-industry-plans-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Satya Nadella Says Microsoft's AI-Focused Copilot+ Laptops Will Outperform Apple's MacBooks",
-                "href": "https://tech.slashdot.org/story/24/05/25/071210/satya-nadella-says-microsofts-ai-focused-copilot-laptops-will-outperform-apples-macbooks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,92 +791,104 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad",
-                "href": "https://github.com/DiscoGrad/DiscoGrad"
-            },
-            {
                 "title": "The Evolution of Lisp (1993) [pdf]",
                 "href": "https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf"
+            },
+            {
+                "title": "Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad",
+                "href": "https://github.com/DiscoGrad/DiscoGrad"
             },
             {
                 "title": "LO \u2013 simple WASM native language",
                 "href": "https://github.com/glebbash/LO"
             },
             {
-                "title": "Periodic Table of the Elements, in Pictures and Words",
-                "href": "https://elements.wlonk.com/"
-            },
-            {
                 "title": "Amiga Minimig Ported to Tang Nano 20k FPGA",
                 "href": "https://github.com/harbaum/NanoMig"
             },
             {
-                "title": "Mediocre Engineer's Guide to HTTPS",
-                "href": "https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https"
-            },
-            {
-                "title": "Hurl, the Exceptional Language",
-                "href": "https://hurl.wtf/"
-            },
-            {
-                "title": "Google Meet rolls out multi-device adaptive audio merging",
-                "href": "https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html"
-            },
-            {
-                "title": "Psyche-C: automatic compilation of partially-available C programs",
-                "href": "http://cuda.dcc.ufmg.br/psyche-c/"
+                "title": "Periodic Table of the Elements, in Pictures and Words",
+                "href": "https://elements.wlonk.com/"
             },
             {
                 "title": "How to enhance generative AI's problem-solving capabilities, boost productivity",
                 "href": "https://blogs.lse.ac.uk/businessreview/2024/05/24/how-to-enhance-generative-ais-problem-solving-capabilities-and-boost-workplace-productivity/"
             },
             {
-                "title": "Helen Keller on her life before self-consciousness (1908)",
-                "href": "http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html"
+                "title": "The CompCert C Compiler",
+                "href": "https://compcert.org/compcert-C.html"
             },
             {
-                "title": "Braid: Synchronization for HTTP",
-                "href": "https://braid.org/"
+                "title": "Hurl, the Exceptional Language",
+                "href": "https://hurl.wtf/"
+            },
+            {
+                "title": "Mediocre Engineer's Guide to HTTPS",
+                "href": "https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https"
+            },
+            {
+                "title": "Psyche-C: automatic compilation of partially-available C programs",
+                "href": "http://cuda.dcc.ufmg.br/psyche-c/"
+            },
+            {
+                "title": "Helen Keller on her life before self-consciousness (1908)",
+                "href": "http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html"
             },
             {
                 "title": "Kernel dev writes a USB driver from scratch in 3h [video]",
                 "href": "https://www.youtube.com/watch?v=IXBC85SGC0Q"
             },
             {
+                "title": "Braid: Synchronization for HTTP",
+                "href": "https://braid.org/"
+            },
+            {
+                "title": "To the brain, reading computer code is not the same as reading language (2020)",
+                "href": "https://news.mit.edu/2020/brain-reading-computer-code-1215"
+            },
+            {
                 "title": "World in a Box",
                 "href": "https://placesjournal.org/article/social-history-of-the-cardboard-box/"
             },
             {
-                "title": "Diffusion Models",
-                "href": "https://andrewkchan.dev/posts/diffusion.html"
+                "title": "Google Meet rolls out multi-device adaptive audio merging",
+                "href": "https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html"
             },
             {
                 "title": "UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance",
                 "href": "https://up.codes/careers?utm_source=HN"
             },
             {
-                "title": "A Journey to the Medical Netherworld (2016)",
-                "href": "https://hazlitt.net/longreads/journey-medical-netherworld"
+                "title": "Launch from inside an Apollo capsule (restored in 4K/30 FPS) [video]",
+                "href": "https://www.youtube.com/watch?v=v1SGDbpeFFg"
+            },
+            {
+                "title": "Diffusion Models",
+                "href": "https://andrewkchan.dev/posts/diffusion.html"
             },
             {
                 "title": "Simplicity \u2013 Google SRE Handbook (2017)",
                 "href": "https://sre.google/sre-book/simplicity/"
             },
             {
-                "title": "Show HN: Affordable text-to-speech for long-form content",
-                "href": "https://www.audiowaveai.com/"
+                "title": "Long distance sound localization with the Raspberry Pi",
+                "href": "https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa"
             },
             {
-                "title": "Looking Glass launches new 3D displays",
-                "href": "https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/"
+                "title": "Why is x & -x equal to the largest power of 2 that divides x?",
+                "href": "https://arunmani.in/articles/highest-two-power-to-divide-a-number/"
             },
             {
                 "title": "GRC SpinRite",
                 "href": "https://computer.rip/2024-05-25-grc-spinrite.html"
             },
             {
-                "title": "Why is x & -x equal to the largest power of 2 that divides x?",
-                "href": "https://arunmani.in/articles/highest-two-power-to-divide-a-number/"
+                "title": "A Journey to the Medical Netherworld (2016)",
+                "href": "https://hazlitt.net/longreads/journey-medical-netherworld"
+            },
+            {
+                "title": "Young women fall out of love with dating apps",
+                "href": "https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000"
             },
             {
                 "title": "The Route of a Text Message (2019)",
@@ -887,8 +899,8 @@
                 "href": "https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/"
             },
             {
-                "title": "Feynman's Garden",
-                "href": "https://www.marginalia.nu/log/a_108_feynman_revisited/"
+                "title": "Looking Glass launches new 3D displays",
+                "href": "https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/"
             },
             {
                 "title": "Show HN: Offline sketch to image geneartor in a whiteboard",
@@ -897,18 +909,6 @@
             {
                 "title": "Medieval Bologna was full of tall towers",
                 "href": "https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html"
-            },
-            {
-                "title": "LuaX \u2013 Lua interpreter, REPL, and useful packages",
-                "href": "https://github.com/CDSoft/luax"
-            },
-            {
-                "title": "Voxel Displacement Renderer \u2013 Modernizing the Retro 3D Aesthetic",
-                "href": "https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/"
-            },
-            {
-                "title": "So good, it works on barbed wire (2001)",
-                "href": "https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm"
             }
         ]
     }
