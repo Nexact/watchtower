@@ -35,6 +35,10 @@
                 "href": "https://github.com/jasonjmcghee/trackpad_haptic"
             },
             {
+                "title": "Why is Snapshot Isolation not enough?",
+                "href": "https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
+            },
+            {
                 "title": "Paged Out! Issue 4",
                 "href": "https://pagedout.institute/?page=issues.php"
             },
@@ -49,10 +53,6 @@
             {
                 "title": "Engineering for Slow Internet",
                 "href": "https://brr.fyi/posts/engineering-for-slow-internet"
-            },
-            {
-                "title": "Why is Snapshot Isolation not enough?",
-                "href": "https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
             },
             {
                 "title": "Qt Property Macro (Q_PROPERTY with 95% less code)",
@@ -95,12 +95,12 @@
                 "href": "https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction"
             },
             {
-                "title": "Why, after 6 years, I\u2019m over GraphQL",
-                "href": "https://bessey.dev/blog/2024/05/24/why-im-over-graphql/"
+                "title": "X is justifiably slow",
+                "href": "https://zeux.io/2024/05/31/justifiably-slow/"
             },
             {
-                "title": "P3292R0R0: Provenance and Concurrency",
-                "href": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html"
+                "title": "Why, after 6 years, I\u2019m over GraphQL",
+                "href": "https://bessey.dev/blog/2024/05/24/why-im-over-graphql/"
             }
         ]
     },
@@ -827,24 +827,24 @@
                 "href": "https://chinamediaproject.org/2024/05/27/goldfish-memories/"
             },
             {
-                "title": "The big lie about sleep",
-                "href": "https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5"
-            },
-            {
                 "title": "How to copy a file from a 30-year-old laptop",
                 "href": "https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop"
+            },
+            {
+                "title": "Predictably Bad Investments: Evidence from Venture Capitalists",
+                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861"
+            },
+            {
+                "title": "Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland",
+                "href": "https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/"
             },
             {
                 "title": "Space secrets leak disclosure",
                 "href": "https://huggingface.co/blog/space-secrets-disclosure"
             },
             {
-                "title": "Nginx Unit: open-source, lightweight and versatile application runtime",
-                "href": "https://unit.nginx.org/"
-            },
-            {
-                "title": "Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland",
-                "href": "https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/"
+                "title": "The big lie about sleep",
+                "href": "https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5"
             },
             {
                 "title": "How some good corporate engineering blogs are written",
@@ -855,24 +855,36 @@
                 "href": "https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/"
             },
             {
+                "title": "Nginx Unit: open-source, lightweight and versatile application runtime",
+                "href": "https://unit.nginx.org/"
+            },
+            {
                 "title": "60 kHz (2022)",
                 "href": "https://ben.page/wwvb"
             },
             {
-                "title": "Heroku Postgres is now based on AWS Aurora",
-                "href": "https://blog.heroku.com/heroku-postgres-essential-launch"
+                "title": "in Rust, methods should be object safe",
+                "href": "https://nora.codes/post/methods-should-be-object-safe/"
+            },
+            {
+                "title": "Boeing and NASA call off Starliner crew launch minutes before liftoff",
+                "href": "https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html"
             },
             {
                 "title": "Debian KDE: Right Linux distribution for professional digital painting in 2024",
                 "href": "https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide"
             },
             {
-                "title": "Physicists Puzzle over Emergence of Electron Aggregates",
-                "href": "https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/"
+                "title": "Heroku Postgres is now based on AWS Aurora",
+                "href": "https://blog.heroku.com/heroku-postgres-essential-launch"
             },
             {
                 "title": "Dioxus S23 is hiring a cracked founding engineer (Rust)",
                 "href": "https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust"
+            },
+            {
+                "title": "Physicists Puzzle over Emergence of Electron Aggregates",
+                "href": "https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/"
             },
             {
                 "title": "Recall: Stealing everything you've ever typed or viewed on your own Windows PC",
@@ -883,6 +895,10 @@
                 "href": "https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force"
             },
             {
+                "title": "String Comparison Timing Attacks",
+                "href": "https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/"
+            },
+            {
                 "title": "Show HN: Every mountain, building and tree shadow mapped for any date and time",
                 "href": "https://shademap.app"
             },
@@ -891,28 +907,12 @@
                 "href": "https://brr.fyi/posts/engineering-for-slow-internet"
             },
             {
-                "title": "Snowflake breach: Hacker confirms access through infostealer infection",
-                "href": "https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection"
-            },
-            {
-                "title": "String Comparison Timing Attacks",
-                "href": "https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/"
-            },
-            {
                 "title": "Go: Sentinel errors and errors.Is() slow your code down by 3000%",
                 "href": "https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/"
             },
             {
                 "title": "Windrecorder \u2013 Personal Memory Search Engine",
                 "href": "https://github.com/yuka-friends/Windrecorder"
-            },
-            {
-                "title": "EV startup Fisker's collapse: how the company crumbled",
-                "href": "https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/"
-            },
-            {
-                "title": "DataFusion Comet: Apache Spark Accelerator",
-                "href": "https://github.com/apache/datafusion-comet"
             }
         ]
     }
