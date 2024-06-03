@@ -23,16 +23,16 @@
                 "href": "https://84-24.org/"
             },
             {
+                "title": "An overview of the Starlark language",
+                "href": "https://laurent.le-brun.eu/blog/an-overview-of-starlark"
+            },
+            {
                 "title": "Message authentication codes for safer distributed transactions",
                 "href": "https://mazzo.li/posts/mac-distributed-tx.html"
             },
             {
                 "title": "Lisp: Icing or Cake?",
                 "href": "https://dthompson.us/posts/lisp-icing-or-cake.html"
-            },
-            {
-                "title": "An overview of the Starlark language",
-                "href": "https://laurent.le-brun.eu/blog/an-overview-of-starlark"
             },
             {
                 "title": "This is why you should never use parser combinators and PEG",
@@ -114,6 +114,10 @@
             {
                 "title": "Hacking Millions of Modems (and Investigating Who Hacked My Modem)",
                 "href": "https://www.reddit.com/r/netsec/comments/1d6x51k/hacking_millions_of_modems_and_investigating_who/"
+            },
+            {
+                "title": "Hackers use GitHub profiles to pose as 1Password",
+                "href": "https://www.reddit.com/r/netsec/comments/1d7a6ty/hackers_use_github_profiles_to_pose_as_1password/"
             },
             {
                 "title": "Encryption At Rest: Whose Threat Model Is It Anyway?",
@@ -206,10 +210,6 @@
             {
                 "title": "ANSI Escape Injection Vulnerability in WinRAR (CVE-2024\u201333899, CVE-2024\u201336052)",
                 "href": "https://www.reddit.com/r/netsec/comments/1cy1lq5/ansi_escape_injection_vulnerability_in_winrar/"
-            },
-            {
-                "title": "RF Swift: A swifty RF toolbox for your needs, and it's multi-platform!",
-                "href": "https://www.reddit.com/r/netsec/comments/1cy126h/rf_swift_a_swifty_rf_toolbox_for_your_needs_and/"
             }
         ]
     },
@@ -795,10 +795,6 @@
                 "href": "item?id=40563283"
             },
             {
-                "title": "Posthog \u2013 open-source analytics and UX research tool",
-                "href": "https://github.com/PostHog/posthog"
-            },
-            {
                 "title": "Mamba-2 \u2013 State Space Duality",
                 "href": "https://tridao.me/blog/2024/mamba2-part1-model/"
             },
@@ -807,76 +803,84 @@
                 "href": "https://ogma.framer.website/"
             },
             {
-                "title": "Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI",
-                "href": "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+                "title": "Posthog \u2013 open-source analytics and UX research tool",
+                "href": "https://github.com/PostHog/posthog"
             },
             {
                 "title": "Making USB devices \u2013 end to end guide to your first gadget",
                 "href": "https://popovicu.com/posts/making-usb-devices/"
             },
             {
-                "title": "Show HN: 10 Years to Build a Free SQL Editor",
-                "href": "https://www.timestored.com/qstudio/release-version-3"
+                "title": "Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI",
+                "href": "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
             },
             {
-                "title": "Ask HN: Who wants to be hired? (June 2024)",
-                "href": "item?id=40563280"
-            },
-            {
-                "title": "The Rise and Fall of a 17th-Century Status Symbol (2015)",
-                "href": "https://www.atlasobscura.com/articles/dovecotes"
-            },
-            {
-                "title": "Learn CSS Grid with a virtual garden game",
-                "href": "https://cssgridgarden.com/"
-            },
-            {
-                "title": "FBI Raids Big Corporate Landlord over Nationwide Rent Hikes",
-                "href": "https://www.thebignewsletter.com/p/monopoly-round-up-fbi-raids-big-corporate"
-            },
-            {
-                "title": "An intuitive guide to Maxwell's equations (2020)",
-                "href": "https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations"
-            },
-            {
-                "title": "Show HN: Tunnelling TCP through a file",
-                "href": "https://github.com/fiddyschmitt/File-Tunnel"
-            },
-            {
-                "title": "Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)",
-                "href": "https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/"
-            },
-            {
-                "title": "The Impossibility of Translating Franz Kafka (1999)",
-                "href": "https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka"
+                "title": "The Alaska Supreme Court takes aerial surveillance's threat to privacy seriously",
+                "href": "https://www.eff.org/deeplinks/2024/05/alaska-supreme-court-takes-aerial-surveillances-threat-privacy-seriously-other"
             },
             {
                 "title": "Consumer Electronics Control",
                 "href": "https://computer.rip/2024-06-02-consumer-electronics-control.html"
             },
             {
+                "title": "The Rise and Fall of a 17th-Century Status Symbol (2015)",
+                "href": "https://www.atlasobscura.com/articles/dovecotes"
+            },
+            {
+                "title": "Ask HN: Who wants to be hired? (June 2024)",
+                "href": "item?id=40563280"
+            },
+            {
+                "title": "Learn CSS Grid with a virtual garden game",
+                "href": "https://cssgridgarden.com/"
+            },
+            {
+                "title": "Show HN: 10 Years to Build a Free SQL Editor",
+                "href": "https://www.timestored.com/qstudio/release-version-3"
+            },
+            {
+                "title": "Show HN: Tunnelling TCP through a file",
+                "href": "https://github.com/fiddyschmitt/File-Tunnel"
+            },
+            {
+                "title": "An intuitive guide to Maxwell's equations (2020)",
+                "href": "https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations"
+            },
+            {
+                "title": "Hermann Grassmann and the nature of abstractions",
+                "href": "https://github.com/Dicklesworthstone/grassman_article"
+            },
+            {
+                "title": "The Impossibility of Translating Franz Kafka (1999)",
+                "href": "https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka"
+            },
+            {
+                "title": "Paged Out: Issue 4 [pdf]",
+                "href": "https://pagedout.institute/download/PagedOut_004_beta1.pdf"
+            },
+            {
+                "title": "FBI Raids Big Corporate Landlord over Nationwide Rent Hikes",
+                "href": "https://www.thebignewsletter.com/p/monopoly-round-up-fbi-raids-big-corporate"
+            },
+            {
                 "title": "Qimgv \u2013 Fast, simple image viewer",
                 "href": "https://github.com/easymodo/qimgv"
+            },
+            {
+                "title": "Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)",
+                "href": "https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/"
             },
             {
                 "title": "The Sword of Kumdor",
                 "href": "https://lynn.github.io/kumdor/"
             },
             {
-                "title": "Just Live",
-                "href": "https://drb.ie/articles/just-live/"
-            },
-            {
-                "title": "What if they gave an Industrial Revolution and nobody came? (2023)",
-                "href": "https://rootsofprogress.org/robert-allen-british-industrial-revolution"
-            },
-            {
                 "title": "Everything I know about the fast inverse square root algorithm",
                 "href": "https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md"
             },
             {
-                "title": "Hermann Grassmann and the nature of abstractions",
-                "href": "https://github.com/Dicklesworthstone/grassman_article"
+                "title": "Just Live",
+                "href": "https://drb.ie/articles/just-live/"
             },
             {
                 "title": "Modern CSS Layouts: You Might Not Need a Framework for That",
@@ -897,10 +901,6 @@
             {
                 "title": "HN-text: an easy-to-use, text-first Hacker News terminal client",
                 "href": "https://github.com/piqoni/hn-text"
-            },
-            {
-                "title": "Auto-brewery syndrome in a 50-year-old woman",
-                "href": "https://www.cmaj.ca/content/196/21/E724#msdynttrid"
             },
             {
                 "title": "Formlabs Form 4 Teardown",
