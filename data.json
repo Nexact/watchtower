@@ -3,16 +3,24 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Attacking NIST SP 800-108",
-                "href": "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
-            },
-            {
                 "title": "On Dependency Usage in Rust",
                 "href": "https://landaire.net/on-dependency-usage-in-rust/"
             },
             {
+                "title": "Attacking NIST SP 800-108",
+                "href": "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
+            },
+            {
+                "title": "268% Higher Failure Rates for Agile Software Projects, Study Finds",
+                "href": "https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds"
+            },
+            {
                 "title": "Not Just Scale",
                 "href": "https://brooker.co.za/blog/2024/06/04/scale.html"
+            },
+            {
+                "title": "Time to Say Goodbye to Google Fonts: Cache Performance (2020)",
+                "href": "https://wicki.io/posts/2020-11-goodbye-google-fonts/"
             },
             {
                 "title": "Don\u2019t fix it just because it\u2019s technical debt",
@@ -21,14 +29,6 @@
             {
                 "title": "Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal",
                 "href": "https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/"
-            },
-            {
-                "title": "Time to Say Goodbye to Google Fonts: Cache Performance (2020)",
-                "href": "https://wicki.io/posts/2020-11-goodbye-google-fonts/"
-            },
-            {
-                "title": "268% Higher Failure Rates for Agile Software Projects, Study Finds",
-                "href": "https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds"
             },
             {
                 "title": "Vulkan1.3 on the M1 in 1 month",
@@ -114,6 +114,10 @@
             {
                 "title": "Analysis of CVE-2024-2738 Apache HugeGraph",
                 "href": "https://www.reddit.com/r/netsec/comments/1d8qilm/analysis_of_cve20242738_apache_hugegraph/"
+            },
+            {
+                "title": "Frida 16.3 is out with CoreDevice/RemoteXPC support, new Service API, and many other improvements",
+                "href": "https://www.reddit.com/r/netsec/comments/1d8u9b0/frida_163_is_out_with_coredeviceremotexpc_support/"
             },
             {
                 "title": "In-memory sleeping technique using threads created in suspended state and timers that work with the ResumeThread function after context is set for execution. Each workers has its own stack and no need to modify the list of valid indirect call targets in CFG. Use case: Swappala with Reflective DLL",
@@ -206,10 +210,6 @@
             {
                 "title": "Exploiting V8 at openECSC: A beginner-friendly journey from a memory corruption to a browser pwn",
                 "href": "https://www.reddit.com/r/netsec/comments/1d1x4sw/exploiting_v8_at_openecsc_a_beginnerfriendly/"
-            },
-            {
-                "title": "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 1)",
-                "href": "https://www.reddit.com/r/netsec/comments/1d1n5e4/iconv_set_the_charset_to_rce_exploiting_the_glibc/"
             }
         ]
     },
@@ -791,40 +791,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Squatting in Spain: Understanding Spain's \"okupas\" problem",
-                "href": "https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem"
-            },
-            {
-                "title": "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs",
-                "href": "https://arxiv.org/abs/2406.02061"
+                "title": "Vulkan1.3 on the M1 in 1 Month",
+                "href": "https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html"
             },
             {
                 "title": "Foosbar: The (unverifiably but plausibly) Best Foosball Robot",
                 "href": "https://github.com/misprit7/foosbar"
             },
             {
+                "title": "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs",
+                "href": "https://arxiv.org/abs/2406.02061"
+            },
+            {
+                "title": "Managing my motivation as a solo dev",
+                "href": "https://mbuffett.com/posts/maintaining-motivation/"
+            },
+            {
                 "title": "XLSTM code release by NX-AI",
                 "href": "https://github.com/NX-AI/xlstm"
+            },
+            {
+                "title": "History of the Paper Clip",
+                "href": "http://www.officemuseum.com/paper_clips.htm"
             },
             {
                 "title": "Boeing Starliner launches first crewed mission",
                 "href": "https://www.bbc.co.uk/news/live/world-us-canada-69094213"
             },
             {
-                "title": "Vulkan1.3 on the M1 in 1 Month",
-                "href": "https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html"
+                "title": "Show HN: Laudspeaker \u2013 Open-source mobile push, SMS and email automation",
+                "href": "https://github.com/laudspeaker/laudspeaker"
             },
             {
                 "title": "An animated introduction to Fourier series",
                 "href": "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles"
             },
             {
-                "title": "You'll regret using natural keys",
-                "href": "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/"
-            },
-            {
                 "title": "GitHub now provides Arm-based runners",
                 "href": "https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/"
+            },
+            {
+                "title": "You'll regret using natural keys",
+                "href": "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/"
             },
             {
                 "title": "Shuttle (YC S20) Is Hiring",
@@ -835,12 +843,24 @@
                 "href": "https://www.nature.com/articles/d41586-024-01677-2"
             },
             {
+                "title": "Squatting in Spain: Understanding Spain's \"okupas\" problem",
+                "href": "https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem"
+            },
+            {
                 "title": "Why do electronic components have such odd values? (2021)",
                 "href": "https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/"
             },
             {
+                "title": "Medium's decade-long journey to find its own identity",
+                "href": "https://www.fastcompany.com/91134093/medium-growth-under-tony-stubblebine"
+            },
+            {
                 "title": "The Long-Lost Tarzan Atari Game, Preserved",
                 "href": "https://gamehistory.org/atari-2600-tarzan/"
+            },
+            {
+                "title": "Israel reportedly used fake social accounts to garner support from US lawmakers",
+                "href": "https://www.forbes.com/sites/siladityaray/2024/06/05/israel-reportedly-used-fake-social-media-accounts-to-garner-support-from-us-lawmakers-on-gaza-war/"
             },
             {
                 "title": "Show HN: zfind \u2013 CLI like find but using SQL syntax and also does tar/zip",
@@ -849,6 +869,10 @@
             {
                 "title": "Sphere Rendering: Flat Planets",
                 "href": "https://emildziewanowski.com/flat-planets/"
+            },
+            {
+                "title": "To Believe or Not Believe Your LLM",
+                "href": "https://arxiv.org/abs/2406.02543"
             },
             {
                 "title": "The state of the art in copter drones and flight control systems",
@@ -863,32 +887,16 @@
                 "href": "https://github.com/jstrieb/poker-chipper"
             },
             {
-                "title": "Denmark's Genius Housing Fix",
-                "href": "https://www.businessinsider.com/denmark-mortgage-rates-lock-in-effect-home-buying-selling-easier-2024-5"
-            },
-            {
-                "title": "Air Force security team can breach an 'impenetrable' SCIF in one minute",
-                "href": "https://taskandpurpose.com/news/this-air-force-security-team-can-breach-an-impenetrable-scif-in-one-minute/"
+                "title": "Atash Behram \u2013 Types of Fire",
+                "href": "https://en.wikipedia.org/wiki/Atash_Behram"
             },
             {
                 "title": "Don't be terrified of Pale Fire",
                 "href": "https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/"
             },
             {
-                "title": "Atash Behram \u2013 Types of Fire",
-                "href": "https://en.wikipedia.org/wiki/Atash_Behram"
-            },
-            {
-                "title": "Show HN: PlayBooks \u2013 Jupyter Notebooks style on-call investigation documents",
-                "href": "https://github.com/DrDroidLab/PlayBooks"
-            },
-            {
-                "title": "How to chop off bytes of an UTF-8 string to fit into a small slot and look nice",
-                "href": "https://domm.plix.at/perl/2024_06_chopping_utf8.html"
-            },
-            {
-                "title": "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
-                "href": "https://github.com/EwenQuim/entropy"
+                "title": "Microsoft has gone radio silent on Windows Recall",
+                "href": "https://twitter.com/zacbowden/status/1798221879741931847"
             },
             {
                 "title": "Particle accelerators for the microchip era",
@@ -899,16 +907,8 @@
                 "href": "https://alexwlchan.net/2024/creating-a-safari-webarchive/"
             },
             {
-                "title": "Jury finds Boeing stole technology from electric airplane startup Zunum",
-                "href": "https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/"
-            },
-            {
-                "title": "A breakthrough towards the Riemann hypothesis",
-                "href": "https://mathstodon.xyz/@tao/112557248794707738"
-            },
-            {
-                "title": "Some notes on influenceering",
-                "href": "https://lcamtuf.substack.com/p/some-notes-on-influenceering"
+                "title": "Show HN: PlayBooks \u2013 Jupyter Notebooks style on-call investigation documents",
+                "href": "https://github.com/DrDroidLab/PlayBooks"
             }
         ]
     }
