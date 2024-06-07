@@ -11,6 +11,10 @@
                 "href": "https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution"
             },
             {
+                "title": "let rand = main as usize",
+                "href": "https://codeandbitters.com/main-as-usize/"
+            },
+            {
                 "title": "Accidental prompt injection against RAG applications",
                 "href": "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/"
             },
@@ -19,16 +23,16 @@
                 "href": "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
             },
             {
-                "title": "let rand = main as usize",
-                "href": "https://codeandbitters.com/main-as-usize/"
-            },
-            {
                 "title": "In Memory of Mike Karels",
                 "href": "https://freebsdfoundation.org/mike_karels/"
             },
             {
                 "title": "omakub: Opinionated Ubuntu Setup",
                 "href": "https://github.com/basecamp/omakub"
+            },
+            {
+                "title": "Moving Beyond Type Systems",
+                "href": "https://vhyrro.github.io/posts/effect-systems/"
             },
             {
                 "title": "lelwel: Resilient LL(1) parser generator for Rust",
@@ -47,24 +51,32 @@
                 "href": "https://effect.website/"
             },
             {
-                "title": "JavaScript UI library with reactive atomic updates",
-                "href": "https://github.com/bloomca/veles"
+                "title": "Speeding up rustc by being lazy",
+                "href": "https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html"
             },
             {
-                "title": "Building the Zed Text Editor",
-                "href": "https://youtu.be/fV4aPy1bmY0"
+                "title": "JavaScript UI library with reactive atomic updates",
+                "href": "https://github.com/bloomca/veles"
             },
             {
                 "title": "Swift at 10",
                 "href": "https://mjtsai.com/blog/2024/06/04/swift-at-10/"
             },
             {
+                "title": "Building the Zed Text Editor",
+                "href": "https://youtu.be/fV4aPy1bmY0"
+            },
+            {
                 "title": "End-to-end types: full-stack Web apps with Gleam",
                 "href": "https://www.youtube.com/watch?v=eVtkYQva0Ic"
             },
             {
-                "title": "Moving Beyond Type Systems",
-                "href": "https://vhyrro.github.io/posts/effect-systems/"
+                "title": "The size-change principle for program termination (2001)",
+                "href": "https://dl.acm.org/doi/abs/10.1145/360204.360210"
+            },
+            {
+                "title": "JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)",
+                "href": "https://openjdk.org/jeps/455"
             },
             {
                 "title": "benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement",
@@ -75,10 +87,6 @@
                 "href": "https://github.com/sosy-lab/cpu-energy-meter"
             },
             {
-                "title": "Speeding up rustc by being lazy",
-                "href": "https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html"
-            },
-            {
                 "title": "Flaky Tests Overhaul at Uber",
                 "href": "https://www.uber.com/blog/flaky-tests-overhaul/"
             },
@@ -87,20 +95,12 @@
                 "href": "https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About"
             },
             {
-                "title": "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models",
-                "href": "https://arxiv.org/abs/2406.02061"
-            },
-            {
-                "title": "JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)",
-                "href": "https://openjdk.org/jeps/455"
-            },
-            {
                 "title": "Cryptographic protocol verification with hax",
                 "href": "https://cryspen.com/post/hax-pv/"
             },
             {
-                "title": "How Mojo gets a 35,000x speedup over Python \u2013 Part 1 (2023)",
-                "href": "https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-1"
+                "title": "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models",
+                "href": "https://arxiv.org/abs/2406.02061"
             }
         ]
     },
@@ -795,8 +795,8 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Make your program slower with threads",
-                "href": "https://brooker.co.za/blog/2014/12/06/random.html"
+                "title": "CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs",
+                "href": "https://github.com/sosy-lab/cpu-energy-meter"
             },
             {
                 "title": "Roman Roads (2017)",
@@ -807,40 +807,36 @@
                 "href": "https://edw.is/learning-vulkan/"
             },
             {
-                "title": "The problem with lying is keeping track of all the lies",
-                "href": "https://materialize.com/blog/engineering/keeping-track-lies/"
-            },
-            {
                 "title": "Extracting concepts from GPT-4",
                 "href": "https://openai.com/index/extracting-concepts-from-gpt-4/"
-            },
-            {
-                "title": "Show HN: 2d web paddle game",
-                "href": "https://raould.github.io/pn0gstr0m/"
             },
             {
                 "title": "AeroSpace is an i3-like tiling window manager for macOS",
                 "href": "https://github.com/nikitabobko/AeroSpace"
             },
             {
-                "title": "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
-                "href": "item?id=40604246"
-            },
-            {
-                "title": "AI in software engineering at Google: Progress and the path ahead",
-                "href": "https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/"
-            },
-            {
-                "title": "lsix: Like \"ls\", but for images",
-                "href": "https://github.com/hackerb9/lsix"
+                "title": "Show HN: 2d web paddle game",
+                "href": "https://raould.github.io/pn0gstr0m/"
             },
             {
                 "title": "Let rand = main as usize (2022)",
                 "href": "https://codeandbitters.com/main-as-usize/"
             },
             {
+                "title": "lsix: Like \"ls\", but for images",
+                "href": "https://github.com/hackerb9/lsix"
+            },
+            {
+                "title": "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
+                "href": "item?id=40604246"
+            },
+            {
                 "title": "Saint Michael Sword: Are the cathedrals really on a straight line?",
                 "href": "https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/"
+            },
+            {
+                "title": "AI in software engineering at Google: Progress and the path ahead",
+                "href": "https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/"
             },
             {
                 "title": "Don Estridge: A misfit who built the IBM PC",
@@ -851,6 +847,10 @@
                 "href": "https://twitter.com/SpaceX/status/1798701489097183286"
             },
             {
+                "title": "Make your program slower with threads (2014)",
+                "href": "https://brooker.co.za/blog/2014/12/06/random.html"
+            },
+            {
                 "title": "Brain overgrowth dictates autism severity, new research suggests",
                 "href": "https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html"
             },
@@ -859,7 +859,7 @@
                 "href": "https://xpipe.io"
             },
             {
-                "title": "Shu Ha Ri",
+                "title": "Shu Ha Ri (2014)",
                 "href": "https://www.martinfowler.com/bliki/ShuHaRi.html"
             },
             {
@@ -867,28 +867,24 @@
                 "href": "https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system"
             },
             {
-                "title": "Reading awc",
-                "href": "https://akamayu-ouo.srht.site/2024-06-01-ksimple"
+                "title": "Martha Gellhorn, the only woman to report on the D-Day landings from the ground",
+                "href": "https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/"
             },
             {
-                "title": "Wallace and Gromit return to face penguin nemesis",
-                "href": "https://www.bbc.com/news/articles/cd11kj0d97jo"
+                "title": "Reading awc",
+                "href": "https://akamayu-ouo.srht.site/2024-06-01-ksimple"
             },
             {
                 "title": "Dragonfly: A large vision-language model with multi-resolution zoom",
                 "href": "https://www.together.ai/blog/dragonfly-v1"
             },
             {
-                "title": "Martha Gellhorn, the only woman to report on the D-Day landings from the ground",
-                "href": "https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/"
+                "title": "Understanding QEMU Devices (2018)",
+                "href": "https://www.qemu.org/2018/02/09/understanding-qemu-devices/"
             },
             {
                 "title": "Hybrid Bonding: 3D Chip Tech to Save Moore's Law",
                 "href": "https://spectrum.ieee.org/hybrid-bonding"
-            },
-            {
-                "title": "Understanding QEMU Devices (2018)",
-                "href": "https://www.qemu.org/2018/02/09/understanding-qemu-devices/"
             },
             {
                 "title": "Qwen2 LLM Released",
@@ -907,12 +903,16 @@
                 "href": "https://github.com/potamides/DeTikZify"
             },
             {
-                "title": "Telegram Stars: Pay for Digital Goods and More",
-                "href": "https://telegram.org/blog/telegram-stars"
+                "title": "The problem with lying is keeping track of all the lies",
+                "href": "https://materialize.com/blog/engineering/keeping-track-lies/"
             },
             {
                 "title": "Architectures for Central Server Collaboration",
                 "href": "https://mattweidner.com/2024/06/04/server-architectures.html"
+            },
+            {
+                "title": "Telegram Stars: Pay for Digital Goods and More",
+                "href": "https://telegram.org/blog/telegram-stars"
             }
         ]
     }
