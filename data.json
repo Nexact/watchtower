@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Zig 0.13.0 Release Notes",
+                "href": "https://ziglang.org/download/0.13.0/release-notes.html"
+            },
+            {
                 "title": "evading the wifi router ban",
                 "href": "https://devnonsense.com/posts/evading-the-wifi-router-ban/"
             },
@@ -11,20 +15,20 @@
                 "href": "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
             },
             {
-                "title": "Zig 0.13.0 Release Notes",
-                "href": "https://ziglang.org/download/0.13.0/release-notes.html"
+                "title": "Async Ruby on Rails",
+                "href": "https://thoughtbot.com/blog/async-ruby-on-rails"
             },
             {
                 "title": "Leveraging Zig's Allocators",
                 "href": "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
             },
             {
-                "title": "C++ programmer\u2032s guide to undefined behavior: part 1 of 11",
-                "href": "https://pvs-studio.com/en/blog/posts/cpp/1129/"
-            },
-            {
                 "title": "let rand = main as usize",
                 "href": "https://codeandbitters.com/main-as-usize/"
+            },
+            {
+                "title": "C++ programmer\u2032s guide to undefined behavior: part 1 of 11",
+                "href": "https://pvs-studio.com/en/blog/posts/cpp/1129/"
             },
             {
                 "title": "Can INI files be Unicode? Yes, they can, but it has to be your idea",
@@ -41,6 +45,10 @@
             {
                 "title": "Moving Beyond Type Systems",
                 "href": "https://vhyrro.github.io/posts/effect-systems/"
+            },
+            {
+                "title": "OpenSSH introduces options to penalize undesirable behavior",
+                "href": "https://undeadly.org/cgi?action=article;sid=20240607042157"
             },
             {
                 "title": "Announcing TypeScript 5.5 RC",
@@ -93,14 +101,6 @@
             {
                 "title": "IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)",
                 "href": "https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About"
-            },
-            {
-                "title": "The size-change principle for program termination (2001)",
-                "href": "https://dl.acm.org/doi/abs/10.1145/360204.360210"
-            },
-            {
-                "title": "cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs",
-                "href": "https://github.com/sosy-lab/cpu-energy-meter"
             }
         ]
     },
@@ -791,24 +791,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "LedgerStore Supports Trillions of Indexes at Uber",
-                "href": "https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb"
+                "title": "ASCII Silhouettify",
+                "href": "https://meatfighter.com/ascii-silhouettify/"
+            },
+            {
+                "title": "OpenSSH introduces options to penalize undesirable behavior",
+                "href": "https://undeadly.org/cgi?action=article;sid=20240607042157"
             },
             {
                 "title": "Writing memory safe JIT compilers",
                 "href": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
             },
             {
+                "title": "LedgerStore Supports Trillions of Indexes at Uber",
+                "href": "https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb"
+            },
+            {
+                "title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+                "href": "https://www.wired.com/story/microsoft-recall-off-default-security-concerns/"
+            },
+            {
                 "title": "Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)",
                 "href": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf"
             },
             {
-                "title": "Secret Hand Gestures in Paintings (2019)",
-                "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
+                "title": "Zany ideas to slow polar melting are gathering momentum",
+                "href": "https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum"
             },
             {
                 "title": "\u03a3-GPTs: A New Approach to Autoregressive Models",
                 "href": "https://arxiv.org/abs/2404.09562"
+            },
+            {
+                "title": "How the Creation of the Bahai House of Worship Changed Architecture (2023)",
+                "href": "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/"
+            },
+            {
+                "title": "Secret Hand Gestures in Paintings (2019)",
+                "href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
             },
             {
                 "title": "Ice - open source bar manager for macOS",
@@ -827,48 +847,44 @@
                 "href": "https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/"
             },
             {
-                "title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
-                "href": "https://www.wired.com/story/microsoft-recall-off-default-security-concerns/"
-            },
-            {
-                "title": "Zany ideas to slow polar melting are gathering momentum",
-                "href": "https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum"
+                "title": "Turn On, Tune In, Write Code",
+                "href": "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code"
             },
             {
                 "title": "Attacking NIST SP 800-108 (Loss of Key Control Security)",
                 "href": "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
             },
             {
-                "title": "Show HN: E-Paper 7-color display showing the current weather",
-                "href": "https://github.com/blixt/sol-mate-eink"
-            },
-            {
-                "title": "We Are Made of Waves",
-                "href": "https://nautil.us/we-are-made-of-waves-640732/"
-            },
-            {
                 "title": "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
                 "href": "https://deepnote.com/join-us"
-            },
-            {
-                "title": "The illusion of state in state-space models",
-                "href": "https://arxiv.org/abs/2404.08819"
             },
             {
                 "title": "Tom 7: Badness 0 (Three ways)",
                 "href": "http://tom7.org/bovex/"
             },
             {
-                "title": "How the Creation of the Bahai House of Worship Changed Architecture (2023)",
-                "href": "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/"
+                "title": "Motile Living Biobots Self-Construct from Human Somatic Progenitor Seed Cells",
+                "href": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202303575"
             },
             {
-                "title": "Towards Federated Key Transparency",
-                "href": "https://soatok.blog/2024/06/06/towards-federated-key-transparency/"
+                "title": "We Are Made of Waves",
+                "href": "https://nautil.us/we-are-made-of-waves-640732/"
+            },
+            {
+                "title": "The illusion of state in state-space models",
+                "href": "https://arxiv.org/abs/2404.08819"
+            },
+            {
+                "title": "Show HN: E-Paper 7-color display showing the current weather",
+                "href": "https://github.com/blixt/sol-mate-eink"
             },
             {
                 "title": "Cracking the Scheduling Code in Hay Day",
                 "href": "https://thinhcorner.com/blog/hayday-game-schedule"
+            },
+            {
+                "title": "Towards Federated Key Transparency",
+                "href": "https://soatok.blog/2024/06/06/towards-federated-key-transparency/"
             },
             {
                 "title": "CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs",
@@ -887,28 +903,12 @@
                 "href": "https://github.com/danvergara/dblab"
             },
             {
-                "title": "We migrated from AWS to GCP with minimal downtime",
-                "href": "https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime"
-            },
-            {
                 "title": "AeroSpace is an i3-like tiling window manager for macOS",
                 "href": "https://github.com/nikitabobko/AeroSpace"
             },
             {
                 "title": "Extracting concepts from GPT-4",
                 "href": "https://openai.com/index/extracting-concepts-from-gpt-4/"
-            },
-            {
-                "title": "Saint Michael Sword: Are the cathedrals really on a straight line?",
-                "href": "https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/"
-            },
-            {
-                "title": "lsix: Like \"ls\", but for images",
-                "href": "https://github.com/hackerb9/lsix"
-            },
-            {
-                "title": "Brain overgrowth dictates autism severity, new research suggests",
-                "href": "https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html"
             }
         ]
     }
