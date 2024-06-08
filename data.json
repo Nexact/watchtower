@@ -19,6 +19,10 @@
                 "href": "https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/"
             },
             {
+                "title": "A migration script for moving or mirroring repositories to a Forgejo instance",
+                "href": "https://github.com/RGBCube/GitHub2Forgejo"
+            },
+            {
                 "title": "Why even a little plaintext matters",
                 "href": "https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html"
             },
@@ -35,10 +39,6 @@
                 "href": "https://www.phoronix.com/news/Autodafe-1.0-Released"
             },
             {
-                "title": "A migration script for moving or mirroring repositories to a Forgejo instance",
-                "href": "https://github.com/RGBCube/GitHub2Forgejo"
-            },
-            {
                 "title": "OpenSSH introduces options to penalize undesirable behavior",
                 "href": "https://undeadly.org/cgi?action=article;sid=20240607042157"
             },
@@ -47,12 +47,12 @@
                 "href": "https://ziglang.org/download/0.13.0/release-notes.html"
             },
             {
-                "title": "Async Ruby on Rails",
-                "href": "https://thoughtbot.com/blog/async-ruby-on-rails"
-            },
-            {
                 "title": "Diff modulo base",
                 "href": "https://git.sr.ht/~nhaehnle/diff-modulo-base"
+            },
+            {
+                "title": "Async Ruby on Rails",
+                "href": "https://thoughtbot.com/blog/async-ruby-on-rails"
             },
             {
                 "title": "Scan HTML faster with SIMD instructions: Chrome edition",
@@ -63,12 +63,12 @@
                 "href": "https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust.html"
             },
             {
-                "title": "Baets by Der - Beware Bogus Headphones",
-                "href": "https://redballoonsecurity.com/baets/"
-            },
-            {
                 "title": "How to Save the Princess in 8 Programming Languages [Comic]",
                 "href": "https://toggl.com/blog/save-princess-8-programming-languages"
+            },
+            {
+                "title": "Baets by Der - Beware Bogus Headphones",
+                "href": "https://redballoonsecurity.com/baets/"
             },
             {
                 "title": "Spotify Car Thing hacking community could keep the gadget useful after Spotify ends support",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Is Nuclear Power in America Reviving - or Flailing?",
+                "href": "https://news.slashdot.org/story/24/06/08/0512257/is-nuclear-power-in-america-reviving---or-flailing?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "New Linux Version of Ransomware Targets VMware ESXi",
                 "href": "https://linux.slashdot.org/story/24/06/08/1936257/new-linux-version-of-ransomware-targets-vmware-esxi?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Boeing Passenger Jet Nearly Crashes Due To Software Glitch",
                 "href": "https://tech.slashdot.org/story/24/06/07/2032214/boeing-passenger-jet-nearly-crashes-due-to-software-glitch?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Tokyo's Government Is Building Its Own Dating App To Combat Falling Birthrates",
-                "href": "https://slashdot.org/story/24/06/07/2023245/tokyos-government-is-building-its-own-dating-app-to-combat-falling-birthrates?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -819,20 +819,12 @@
                 "href": "https://www.historytoday.com/history-matters/womens-march-rome"
             },
             {
-                "title": "Evaluation of Machine Learning Primitives on a Digital Signal Processor",
-                "href": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740"
-            },
-            {
-                "title": "Chat TUI for Ollama",
-                "href": "https://github.com/ggozad/oterm"
+                "title": "LSP-AI: open-source language server serving as back end for AI code assistance",
+                "href": "https://github.com/SilasMarvin/lsp-ai"
             },
             {
                 "title": "BES \u2013 OSS Windows software to control per-process CPU usage",
                 "href": "https://mion.yosei.fi/BES/"
-            },
-            {
-                "title": "LSP-AI: open-source language server serving as back end for AI code assistance",
-                "href": "https://github.com/SilasMarvin/lsp-ai"
             },
             {
                 "title": "Creating a matchmaker for your multiplayer game",
@@ -847,8 +839,8 @@
                 "href": "https://ieeexplore.ieee.org/document/9520328"
             },
             {
-                "title": "In highly connected networks, there's always a loop",
-                "href": "https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/"
+                "title": "Evaluation of Machine Learning Primitives on a Digital Signal Processor",
+                "href": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740"
             },
             {
                 "title": "K-D Tree Art Generator",
@@ -859,6 +851,10 @@
                 "href": "https://www.wired.com/story/water-pump-without-electricity/"
             },
             {
+                "title": "In highly connected networks, there's always a loop",
+                "href": "https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/"
+            },
+            {
                 "title": "Morphing Arbitrary Paths in SVG",
                 "href": "https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/"
             },
@@ -867,32 +863,40 @@
                 "href": "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
             },
             {
-                "title": "Real VT102 emulation with MAME (2020)",
-                "href": "https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html"
+                "title": "Ask HN: Compiler speed-up or Build Caching tool. Hard to find?",
+                "href": "item?id=40601562"
             },
             {
                 "title": "My lunches with the queen of cookbooks",
                 "href": "https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/"
             },
             {
-                "title": "Ask HN: Compiler speed-up or Build Caching tool. Hard to find?",
-                "href": "item?id=40601562"
-            },
-            {
-                "title": "Breaking up is hard to do: Chunking in RAG applications",
-                "href": "https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/"
-            },
-            {
-                "title": "Bali's stone sarcophagi included global goods",
-                "href": "https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts"
+                "title": "Real VT102 emulation with MAME (2020)",
+                "href": "https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html"
             },
             {
                 "title": "Embedding with America's top hostage negotiator",
                 "href": "https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive"
             },
             {
+                "title": "Chat TUI for Ollama",
+                "href": "https://github.com/ggozad/oterm"
+            },
+            {
+                "title": "By harnessing wind power, high-tech sails can help cut marine pollution",
+                "href": "https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins"
+            },
+            {
+                "title": "Bali's stone sarcophagi included global goods",
+                "href": "https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts"
+            },
+            {
                 "title": "Edo-period teens tackling math's toughest problems",
                 "href": "https://www.nippon.com/en/japan-topics/c12802/"
+            },
+            {
+                "title": "Breaking up is hard to do: Chunking in RAG applications",
+                "href": "https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/"
             },
             {
                 "title": "South Pole Water Infrastructure",
@@ -901,10 +905,6 @@
             {
                 "title": "Untrusted \u2013 a meta-JavaScript adventure game",
                 "href": "https://alexnisnevich.github.io/untrusted/"
-            },
-            {
-                "title": "By harnessing wind power, high-tech sails can help cut marine pollution",
-                "href": "https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins"
             },
             {
                 "title": "CodeAid: A classroom deployment of an LLM-based coding assistant",
