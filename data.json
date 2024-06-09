@@ -19,6 +19,10 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls"
             },
             {
+                "title": "The Skew Programming Language",
+                "href": "https://andrewkchan.dev/posts/skew.html"
+            },
+            {
                 "title": "Stupid Slow: The Perceived Speed of Computers",
                 "href": "https://www.datagubbe.se/stupidslow/"
             },
@@ -27,20 +31,20 @@
                 "href": "https://clang.llvm.org/docs/ClangRepl.html"
             },
             {
-                "title": "The Skew Programming Language",
-                "href": "https://andrewkchan.dev/posts/skew.html"
-            },
-            {
                 "title": "Fixing a knockoff Altera USB Blaster that never worked",
                 "href": "https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/"
             },
             {
-                "title": "Detecting a PS2 emulator: When 1*X does not equal X",
-                "href": "https://fobes.dev/ps2/detecting-emu-vu-floats"
+                "title": "Overengineering this blog's preview site with Kubernetes",
+                "href": "https://xeiaso.net/blog/2024/overengineering-preview-site/"
             },
             {
                 "title": "dmv.org",
                 "href": "https://computer.rip/2024-06-08-dmv.org.html"
+            },
+            {
+                "title": "Detecting a PS2 emulator: When 1*X does not equal X",
+                "href": "https://fobes.dev/ps2/detecting-emu-vu-floats"
             },
             {
                 "title": "DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)",
@@ -75,20 +79,20 @@
                 "href": "http://msinilo.pl/blog2/post/compilers-are-too-smart/"
             },
             {
-                "title": "Optimizing the UI\u2019s CPU bound frame rate in Call of Duty",
-                "href": "https://www.youtube.com/watch?v=iDhBz_PovwU"
+                "title": "Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)",
+                "href": "https://dl.acm.org/doi/pdf/10.1145/3527320"
             },
             {
-                "title": "A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM",
-                "href": "https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/"
+                "title": "Optimizing the UI\u2019s CPU bound frame rate in Call of Duty",
+                "href": "https://www.youtube.com/watch?v=iDhBz_PovwU"
             },
             {
                 "title": "Why even a little plaintext matters",
                 "href": "https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html"
             },
             {
-                "title": "Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)",
-                "href": "https://dl.acm.org/doi/pdf/10.1145/3527320"
+                "title": "A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM",
+                "href": "https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/"
             },
             {
                 "title": "A migration script for moving or mirroring repositories to a Forgejo instance",
@@ -97,10 +101,6 @@
             {
                 "title": "What is PID 0?",
                 "href": "https://blog.dave.tf/post/linux-pid0/"
-            },
-            {
-                "title": "The unbearable lightness of a simple photoblog",
-                "href": "https://dostoynikov.bearblog.dev/simple-photoblog/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Researcher Finds Side-Channel Vulnerability in Post-Quantum Key Encapsulation Mechanism",
+                "href": "https://it.slashdot.org/story/24/06/09/1831244/researcher-finds-side-channel-vulnerability-in-post-quantum-key-encapsulation-mechanism?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Bill Gates Taking Pre-Orders For 'Source Code', a Memoir of His Early Years",
                 "href": "https://news.slashdot.org/story/24/06/09/1742202/bill-gates-taking-pre-orders-for-source-code-a-memoir-of-his-early-years?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Lansweeper Finds 26% of Its Users On CentOS, Facing May 1st End-of-life",
                 "href": "https://linux.slashdot.org/story/24/06/08/0549228/lansweeper-finds-26-of-its-users-on-centos-facing-may-1st-end-of-life?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Artificial Sweetener Xylitol May Also Be Linked To Heart Attack and Stroke, Study Finds",
-                "href": "https://science.slashdot.org/story/24/06/08/0245254/artificial-sweetener-xylitol-may-also-be-linked-to-heart-attack-and-stroke-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,10 +791,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Why no one should use the AT&T syntax ever, for any reason (2021)",
-                "href": "https://outerproduct.net/2021-02-13_att-asm.html"
-            },
-            {
                 "title": "Ultrasonic Investigations in Shopping Centres",
                 "href": "https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html"
             },
@@ -803,36 +799,44 @@
                 "href": "https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/"
             },
             {
+                "title": "A look at search engines with their own indexes",
+                "href": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/"
+            },
+            {
                 "title": "Piku: Allows git push deployments to your own servers",
                 "href": "https://github.com/piku/piku"
             },
             {
-                "title": "A look at search engines with their own indexes",
-                "href": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/"
+                "title": "Why no one should use the AT&T syntax ever, for any reason (2021)",
+                "href": "https://outerproduct.net/2021-02-13_att-asm.html"
+            },
+            {
+                "title": "A Revolution in Biology",
+                "href": "https://www.bitsofwonder.co/p/a-revolution-in-biology"
             },
             {
                 "title": "Show HN: I made a web game that makes practicing basic arithmetic fun",
                 "href": "https://www.worchle.com/mathic/"
             },
             {
-                "title": "The Weird Nerd comes with trade-offs",
-                "href": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs"
-            },
-            {
                 "title": "Gene therapy restores hearing to children with inherited deafness",
                 "href": "https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/"
-            },
-            {
-                "title": "Show HN: We've open-sourced our LLM attention visualization library",
-                "href": "https://github.com/labmlai/inspectus"
             },
             {
                 "title": "The Backrooms of the Internet Archive",
                 "href": "https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/"
             },
             {
-                "title": "How a Cable Changed Finance",
-                "href": "https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/"
+                "title": "Show HN: We've open-sourced our LLM attention visualization library",
+                "href": "https://github.com/labmlai/inspectus"
+            },
+            {
+                "title": "SVT-AV1 Encoder and Decoder",
+                "href": "https://gitlab.com/AOMediaCodec/SVT-AV1"
+            },
+            {
+                "title": "The Weird Nerd comes with trade-offs",
+                "href": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs"
             },
             {
                 "title": "Betula \u2013 federated bookmarking software for the independent web",
@@ -843,28 +847,28 @@
                 "href": "https://up.codes/careers?utm_source=HN"
             },
             {
-                "title": "Scalable MatMul-Free Language Modeling",
-                "href": "https://arxiv.org/abs/2406.02528"
+                "title": "Is there a BNF grammar of the TeX language? (2010)",
+                "href": "https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language"
             },
             {
                 "title": "Draw an iceberg and see how it will float",
                 "href": "https://joshdata.me/iceberger.html"
             },
             {
-                "title": "Is there a BNF grammar of the TeX language? (2010)",
-                "href": "https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language"
-            },
-            {
-                "title": "SVT-AV1 Encoder and Decoder",
-                "href": "https://gitlab.com/AOMediaCodec/SVT-AV1"
-            },
-            {
-                "title": "Situational Awareness [pdf]",
-                "href": "https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf"
+                "title": "Scalable MatMul-Free Language Modeling",
+                "href": "https://arxiv.org/abs/2406.02528"
             },
             {
                 "title": "KickC is a C-compiler for 6502-based platforms creating readable assembler code",
                 "href": "https://gitlab.com/camelot/kickc"
+            },
+            {
+                "title": "Unboxer.tf",
+                "href": "https://unboxer.tf/"
+            },
+            {
+                "title": "Is KDB a sane choice for a datalake in 2024?",
+                "href": "item?id=40625800"
             },
             {
                 "title": "Fixing a knockoff Altera USB Blaster that never worked",
@@ -875,12 +879,8 @@
                 "href": "https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals"
             },
             {
-                "title": "Is KDB a sane choice for a datalake in 2024?",
-                "href": "item?id=40625800"
-            },
-            {
-                "title": "It's all unraveling at OpenAI (again)",
-                "href": "https://www.businessinsider.com/openai-mess-concerns-over-nda-safety-sam-altman-2024-6"
+                "title": "How a Cable Changed Finance",
+                "href": "https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/"
             },
             {
                 "title": "Detecting a PS2 Emulator: When 1*X does not equal X",
@@ -907,8 +907,8 @@
                 "href": "https://www.youtube.com/watch?v=qJEWOTZnFeg"
             },
             {
-                "title": "Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse",
-                "href": "https://github.com/carlos-menezes/libg203lightsync"
+                "title": "LSP-AI: open-source language server serving as back end for AI code assistance",
+                "href": "https://github.com/SilasMarvin/lsp-ai"
             }
         ]
     }
