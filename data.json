@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "XScreenSaver: Google Store Privacy Policy",
-                "href": "https://www.jwz.org/xscreensaver/google.html"
-            },
-            {
                 "title": "So You Want To Build A Browser Engine",
                 "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
             },
             {
                 "title": "A (Draft) Taxonomy of SIMD Usage",
                 "href": "https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/"
+            },
+            {
+                "title": "XScreenSaver: Google Store Privacy Policy",
+                "href": "https://www.jwz.org/xscreensaver/google.html"
             },
             {
                 "title": "The Skew Programming Language",
@@ -29,6 +29,10 @@
             {
                 "title": "Clang-Repl",
                 "href": "https://clang.llvm.org/docs/ClangRepl.html"
+            },
+            {
+                "title": "isolate: Sandbox for securely executing untrusted programs",
+                "href": "https://github.com/ioi/isolate"
             },
             {
                 "title": "Stupid Slow: The Perceived Speed of Computers",
@@ -53,10 +57,6 @@
             {
                 "title": "dmv.org",
                 "href": "https://computer.rip/2024-06-08-dmv.org.html"
-            },
-            {
-                "title": "isolate: Sandbox for securely executing untrusted programs",
-                "href": "https://github.com/ioi/isolate"
             },
             {
                 "title": "Autodafe 1.0 Released For Freeing Projects Of Autotools",
@@ -114,10 +114,6 @@
             {
                 "title": "Create your own C# Obfuscator to evade Static Analysis - Blog",
                 "href": "https://www.reddit.com/r/netsec/comments/1dbucmh/create_your_own_c_obfuscator_to_evade_static/"
-            },
-            {
-                "title": "Thinking in states to handle information security complexities",
-                "href": "https://www.reddit.com/r/netsec/comments/1dbzg16/thinking_in_states_to_handle_information_security/"
             },
             {
                 "title": "No Way, PHP Strikes Again! (CVE-2024-4577) - watchTowr Labs",
@@ -210,6 +206,10 @@
             {
                 "title": "Non-Production Endpoints as an Attack Surface in AWS | Datadog Security Labs",
                 "href": "https://www.reddit.com/r/netsec/comments/1d2ltbm/nonproduction_endpoints_as_an_attack_surface_in/"
+            },
+            {
+                "title": "Everyday Ghidra: Symbols \u2014 Automatic Symbol Acquisition with Ghidra \u2014 Part 2",
+                "href": "https://www.reddit.com/r/netsec/comments/1d2ivpe/everyday_ghidra_symbols_automatic_symbol/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Virgin Galactic Completes Final 'Space Tourists and Research' Flight Before Two-Year Pause",
+                "href": "https://science.slashdot.org/story/24/06/09/2240234/virgin-galactic-completes-final-space-tourists-and-research-flight-before-two-year-pause?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Big Copyright Win in Canada:  Court Rules Fair Use Beats Digital Locks",
                 "href": "https://news.slashdot.org/story/24/06/09/2111258/big-copyright-win-in-canada-court-rules-fair-use-beats-digital-locks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "New Linux Version of Ransomware Targets VMware ESXi",
                 "href": "https://linux.slashdot.org/story/24/06/08/1936257/new-linux-version-of-ransomware-targets-vmware-esxi?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Louisiana Becomes 10th US State to Make CS a High School Graduation Requirement",
-                "href": "https://news.slashdot.org/story/24/06/08/1841210/louisiana-becomes-10th-us-state-to-make-cs-a-high-school-graduation-requirement?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -803,24 +803,24 @@
                 "href": "https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html"
             },
             {
-                "title": "The Functional Programming Hiring Problem",
-                "href": "https://blog.janissary.xyz/posts/hiring-functional-programming"
-            },
-            {
                 "title": "A Revolution in Biology?",
                 "href": "https://www.bitsofwonder.co/p/a-revolution-in-biology"
+            },
+            {
+                "title": "On being brought up by libertarian economists",
+                "href": "https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian"
+            },
+            {
+                "title": "WARC-GPT: An open-source tool for exploring web archives using AI",
+                "href": "https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/"
             },
             {
                 "title": "Piku: Allows git push deployments to your own servers",
                 "href": "https://github.com/piku/piku"
             },
             {
-                "title": "British Nuclear Warning System",
-                "href": "http://www.ringbell.co.uk/ukwmo/Page211.htm"
-            },
-            {
-                "title": "WARC-GPT: An open-source tool for exploring web archives using AI",
-                "href": "https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/"
+                "title": "The Functional Programming Hiring Problem",
+                "href": "https://blog.janissary.xyz/posts/hiring-functional-programming"
             },
             {
                 "title": "Woman set up a table to share her collection of washers. Nothing was for sale",
@@ -831,12 +831,20 @@
                 "href": "https://www.anthropic.com/research/claude-character"
             },
             {
-                "title": "Finding out where syscalls are called from: Stack traces with strace",
-                "href": "https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/"
+                "title": "Heretical thoughts about science and society",
+                "href": "https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society"
             },
             {
-                "title": "Show HN: We've open-sourced our LLM attention visualization library",
-                "href": "https://github.com/labmlai/inspectus"
+                "title": "A DSL for Implementing Math Functions",
+                "href": "https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/"
+            },
+            {
+                "title": "British Nuclear Warning System",
+                "href": "http://www.ringbell.co.uk/ukwmo/Page211.htm"
+            },
+            {
+                "title": "Finding out where syscalls are called from: Stack traces with strace",
+                "href": "https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/"
             },
             {
                 "title": "Experiments with Calculo Analog Computer Kit (1959) [pdf]",
@@ -847,56 +855,52 @@
                 "href": "https://phys.org/news/2024-06-gravity-mass-mitigating-hypothetical-dark.html"
             },
             {
-                "title": "How the transatlantic telegraph cable changed finance (2019)",
-                "href": "https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/"
+                "title": "Show HN: We've open-sourced our LLM attention visualization library",
+                "href": "https://github.com/labmlai/inspectus"
             },
             {
                 "title": "Records of Pompeii's survivors have been found",
                 "href": "https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641"
             },
             {
+                "title": "So you want to build a browser engine",
+                "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
+            },
+            {
+                "title": "How the transatlantic telegraph cable changed finance (2019)",
+                "href": "https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/"
+            },
+            {
+                "title": "Spreadsheet Is All You Need",
+                "href": "https://github.com/dabochen/spreadsheet-is-all-you-need"
+            },
+            {
                 "title": "Western Pennsylvania dirt is used in the infields of most MLB stadiums (2017)",
                 "href": "https://www.post-gazette.com/sports/pirates/2017/08/31/baseball-infield-dirt-mix-prices-duraedge-pnc-park-wrigley-field-duraedge-slippery-rock-soil-pennsylvania/stories/201708310111"
-            },
-            {
-                "title": "Show HN: I made a web game that makes practicing basic arithmetic fun",
-                "href": "https://www.worchle.com/mathic/"
-            },
-            {
-                "title": "A DSL for Implementing Math Functions",
-                "href": "https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/"
             },
             {
                 "title": "Orwell on the Isle of Jura",
                 "href": "https://www.bbc.com/news/articles/cyrrylklzjdo"
             },
             {
-                "title": "So you want to build a browser engine",
-                "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
-            },
-            {
-                "title": "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper",
-                "href": "https://up.codes/careers?utm_source=HN"
-            },
-            {
                 "title": "Betula \u2013 federated bookmarking software for the independent web",
                 "href": "https://betula.mycorrhiza.wiki/"
-            },
-            {
-                "title": "When does knowledge sharing lead to knowledge production?",
-                "href": "https://www.hbs.edu/faculty/Pages/item.aspx?num=57216"
             },
             {
                 "title": "Economic Termites: Monopolies not noticeable enough for most of us",
                 "href": "https://www.thebignewsletter.com/p/economic-termites-are-everywhere"
             },
             {
-                "title": "The Weird Nerd comes with trade-offs",
-                "href": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs"
+                "title": "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper",
+                "href": "https://up.codes/careers?utm_source=HN"
             },
             {
-                "title": "A look at search engines with their own indexes (2021)",
-                "href": "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/"
+                "title": "When does knowledge sharing lead to knowledge production?",
+                "href": "https://www.hbs.edu/faculty/Pages/item.aspx?num=57216"
+            },
+            {
+                "title": "The Weird Nerd comes with trade-offs",
+                "href": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs"
             },
             {
                 "title": "Evidence of earth's first rains found trapped within primordial crystals",
@@ -905,10 +909,6 @@
             {
                 "title": "Fixing a knockoff Altera USB Blaster that never worked",
                 "href": "https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/"
-            },
-            {
-                "title": "Spreadsheet Is All You Need",
-                "href": "https://github.com/dabochen/spreadsheet-is-all-you-need"
             }
         ]
     }
