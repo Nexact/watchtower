@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week"
+            },
+            {
                 "title": "Putting Go's Context package into context",
                 "href": "https://blog.meain.io/2024/golang-context/"
             },
@@ -11,20 +15,16 @@
                 "href": "https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week"
-            },
-            {
                 "title": "Ultrasonic investigations in shopping centres",
                 "href": "https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1"
             },
             {
-                "title": "So You Want To Build A Browser Engine",
-                "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
-            },
-            {
                 "title": "piku: The tiniest PaaS you've ever seen",
                 "href": "https://github.com/piku/piku"
+            },
+            {
+                "title": "So You Want To Build A Browser Engine",
+                "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
             },
             {
                 "title": "CardStock: A Python WYSIWYG GUI Builder",
@@ -120,8 +120,8 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1dcd0ge/unsecure_timebased_secret_and_sandwich_attack/"
             },
             {
-                "title": "Create your own VPN Service with Cableguard VPN and NEAR Protocol",
-                "href": "https://www.reddit.com/r/netsec/comments/1dcj6m7/create_your_own_vpn_service_with_cableguard_vpn/"
+                "title": "Bypassing Veeam Authentication CVE-2024-29849",
+                "href": "https://www.reddit.com/r/netsec/comments/1dck0qj/bypassing_veeam_authentication_cve202429849/"
             },
             {
                 "title": "Detection as Code",
@@ -130,6 +130,10 @@
             {
                 "title": "How to prevent domain verification bypasses of your server certificate",
                 "href": "https://www.reddit.com/r/netsec/comments/1dci4q7/how_to_prevent_domain_verification_bypasses_of/"
+            },
+            {
+                "title": "Create your own VPN Service with Cableguard VPN and NEAR Protocol",
+                "href": "https://www.reddit.com/r/netsec/comments/1dcj6m7/create_your_own_vpn_service_with_cableguard_vpn/"
             },
             {
                 "title": "Create your own C# Obfuscator to evade Static Analysis - Blog",
@@ -206,10 +210,6 @@
             {
                 "title": "CVE-2024-22058 Ivanti Landesk LPE - Mantodea Security",
                 "href": "https://www.reddit.com/r/netsec/comments/1d3cfsv/cve202422058_ivanti_landesk_lpe_mantodea_security/"
-            },
-            {
-                "title": "HardwareBreakPoint + Ekko ROP modified to hold stack arguments + Kernel Objects Enumeration for some honest hiding in memory.",
-                "href": "https://www.reddit.com/r/netsec/comments/1d34tbb/hardwarebreakpoint_ekko_rop_modified_to_hold/"
             }
         ]
     },
@@ -795,40 +795,48 @@
                 "href": "https://spectrum.ieee.org/the-mythical-non-roboticist"
             },
             {
-                "title": "WebKit fix: Quirk news.ycombinator to skip TextAutoSizing",
-                "href": "https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3"
-            },
-            {
-                "title": "Germany trials the four-day workweek: \"Free time is invaluable\"",
-                "href": "https://www.welcometothejungle.com/en/articles/germany-trials-four-day-workweek"
+                "title": "\"How people fall apart\": The Neuroscience of Burnout",
+                "href": "https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/"
             },
             {
                 "title": "Designing a Lego orrery",
                 "href": "https://marian42.de/article/orrery/"
             },
             {
+                "title": "Senior employees, ordered back to the office, are jumping ship",
+                "href": "https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html"
+            },
+            {
                 "title": "The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]",
                 "href": "https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf"
-            },
-            {
-                "title": "Libtree: Ldd as a tree saying why a library is found or not",
-                "href": "https://github.com/haampie/libtree"
-            },
-            {
-                "title": "An Introduction to ARM64 Assembly on Apple Silicon Macs",
-                "href": "https://github.com/below/HelloSilicon"
             },
             {
                 "title": "Scratchapixel 4.0, Learn Computer Graphics Programming",
                 "href": "https://www.scratchapixel.com/index.html"
             },
             {
-                "title": "Dmv.org",
-                "href": "https://computer.rip/2024-06-08-dmv.org.html"
+                "title": "Meticulous (YC S21) is hiring to eliminate UI E2E tests",
+                "href": "item?id=40632641"
             },
             {
                 "title": "Fingerprinting VPNs with Custom Router Firmware [pdf]",
                 "href": "https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf"
+            },
+            {
+                "title": "Libtree: Ldd as a tree saying why a library is found or not",
+                "href": "https://github.com/haampie/libtree"
+            },
+            {
+                "title": "WebKit fix: Quirk news.ycombinator to skip TextAutoSizing",
+                "href": "https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3"
+            },
+            {
+                "title": "An Introduction to ARM64 Assembly on Apple Silicon Macs",
+                "href": "https://github.com/below/HelloSilicon"
+            },
+            {
+                "title": "Dmv.org",
+                "href": "https://computer.rip/2024-06-08-dmv.org.html"
             },
             {
                 "title": "Ultrasonic investigations in shopping centres",
@@ -839,16 +847,8 @@
                 "href": "https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html"
             },
             {
-                "title": "\"How people fall apart\": The Neuroscience of Burnout",
-                "href": "https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/"
-            },
-            {
                 "title": "WARC-GPT: An open-source tool for exploring web archives using AI",
                 "href": "https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/"
-            },
-            {
-                "title": "Interactive Theorem Proving, Guest Lecture \u2013 Introduction to HOL [video]",
-                "href": "https://www.youtube.com/watch?v=uvMjgKcZDec"
             },
             {
                 "title": "A Revolution in Biology?",
@@ -859,20 +859,20 @@
                 "href": "https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/"
             },
             {
-                "title": "Claude's Character",
-                "href": "https://www.anthropic.com/research/claude-character"
+                "title": "PiDP-10 \u2013 a modern replica of the PDP-10",
+                "href": "https://obsolescence.dev/pidp10.html"
             },
             {
-                "title": "Monumental snake engravings of the Orinoco River",
-                "href": "https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766"
+                "title": "Claude's Character",
+                "href": "https://www.anthropic.com/research/claude-character"
             },
             {
                 "title": "So you want to build a browser engine",
                 "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
             },
             {
-                "title": "Paleontologists Are Fuming over AI Depictions of Prehistoric Animals",
-                "href": "https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634"
+                "title": "First detection of negative ions on the Moon",
+                "href": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon"
             },
             {
                 "title": "Finding out where syscalls are called from: Stack traces with strace",
@@ -887,28 +887,28 @@
                 "href": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs"
             },
             {
-                "title": "First detection of negative ions on the Moon",
-                "href": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon"
+                "title": "Records of Pompeii's survivors have been found",
+                "href": "https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641"
+            },
+            {
+                "title": "Monumental snake engravings of the Orinoco River",
+                "href": "https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766"
             },
             {
                 "title": "How many High Streets are there in London?",
                 "href": "https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html"
             },
             {
-                "title": "Elsevier embeds a hash in the PDF metadata that is unique for each download (2022)",
-                "href": "https://social.coop/@jonny/107685726645817029"
+                "title": "Bali's stone sarcophagi included global goods",
+                "href": "https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts"
             },
             {
                 "title": "Piku: Allows git push deployments to your own servers",
                 "href": "https://github.com/piku/piku"
             },
             {
-                "title": "Records of Pompeii's survivors have been found",
-                "href": "https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641"
-            },
-            {
-                "title": "Bali's stone sarcophagi included global goods",
-                "href": "https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts"
+                "title": "Elsevier embeds a hash in the PDF metadata that is unique for each download (2022)",
+                "href": "https://social.coop/@jonny/107685726645817029"
             }
         ]
     }
