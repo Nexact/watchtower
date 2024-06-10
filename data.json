@@ -11,12 +11,12 @@
                 "href": "https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week"
             },
             {
-                "title": "Proxmox vs FreeBSD: Which Virtualization Host Performs Better?",
-                "href": "https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/"
-            },
-            {
                 "title": "piku: The tiniest PaaS you've ever seen",
                 "href": "https://github.com/piku/piku"
+            },
+            {
+                "title": "Proxmox vs FreeBSD: Which Virtualization Host Performs Better?",
+                "href": "https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/"
             },
             {
                 "title": "Ultrasonic investigations in shopping centres",
@@ -51,12 +51,16 @@
                 "href": "https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s"
             },
             {
-                "title": "XScreenSaver: Google Store Privacy Policy",
-                "href": "https://www.jwz.org/xscreensaver/google.html"
-            },
-            {
                 "title": "The Skew Programming Language",
                 "href": "https://andrewkchan.dev/posts/skew.html"
+            },
+            {
+                "title": "Google Mesop: Build web apps in Python",
+                "href": "https://github.com/google/mesop"
+            },
+            {
+                "title": "XScreenSaver: Google Store Privacy Policy",
+                "href": "https://www.jwz.org/xscreensaver/google.html"
             },
             {
                 "title": "isolate: Sandbox for securely executing untrusted programs",
@@ -65,10 +69,6 @@
             {
                 "title": "Escape from the ivory tower: the Haskell journey (2017)",
                 "href": "https://www.youtube.com/watch?v=re96UgMk6GQ"
-            },
-            {
-                "title": "Google Mesop: Build web apps in Python",
-                "href": "https://github.com/google/mesop"
             },
             {
                 "title": "HTTP/3 needs us (and other people) to make firewall changes (2021)",
@@ -380,6 +380,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "CISA ICS security advisories (AV24-319)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/cisa-ics-security-advisories-av24-319"
+            },
+            {
                 "title": "SolarWinds security advisory (AV24-318)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av24-318"
             },
@@ -574,10 +578,6 @@
             {
                 "title": "HPE security advisory (AV24-271)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-271"
-            },
-            {
-                "title": "Microsoft Edge security advisory (AV24-270)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-270"
             }
         ]
     },
@@ -686,6 +686,54 @@
                 "href": "https://packetstormsecurity.com/news/view/35967/Security-Industry-Has-RaaS-Model-Wrong-Says-Expert.html"
             },
             {
+                "title": "American Fuzzy Lop plus plus 4.21c",
+                "href": "https://packetstormsecurity.com/files/179003/AFLplusplus-4.21c.tar.gz"
+            },
+            {
+                "title": "Kiuwan Local Analyzer / SAST / SaaS XML Injection / XSS / IDOR",
+                "href": "https://packetstormsecurity.com/files/179002/SA-20240606-0.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6821-1",
+                "href": "https://packetstormsecurity.com/files/179001/USN-6821-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6820-1",
+                "href": "https://packetstormsecurity.com/files/179000/USN-6820-1.txt"
+            },
+            {
+                "title": "SEH utnserver Pro/ProMAX / INU-100 20.1.22 XSS / DoS / File Disclosure",
+                "href": "https://packetstormsecurity.com/files/178999/CDSR-20240605-0.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6819-1",
+                "href": "https://packetstormsecurity.com/files/178998/USN-6819-1.txt"
+            },
+            {
+                "title": "Hardwear.io NL 2024 Call For Papers",
+                "href": "https://packetstormsecurity.com/files/178997/hardweario2024nl-cfp.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6818-1",
+                "href": "https://packetstormsecurity.com/files/178996/USN-6818-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6817-1",
+                "href": "https://packetstormsecurity.com/files/178995/USN-6817-1.txt"
+            },
+            {
+                "title": "FengOffice 3.11.1.2 SQL Injection",
+                "href": "https://packetstormsecurity.com/files/178994/fengoffice31112-sql.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6816-1",
+                "href": "https://packetstormsecurity.com/files/178993/USN-6816-1.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-3741-03",
+                "href": "https://packetstormsecurity.com/files/178992/RHSA-2024-3741-03.txt"
+            },
+            {
                 "title": "TOR Virtual Network Tunneling Tool 0.4.8.12",
                 "href": "https://packetstormsecurity.com/files/178991/tor-0.4.8.12.tar.gz"
             },
@@ -736,54 +784,6 @@
             {
                 "title": "Boelter Blue System Management 1.3 SQL Injection",
                 "href": "https://packetstormsecurity.com/files/178978/bbsm13-sql.txt"
-            },
-            {
-                "title": "OpenSSL Toolkit 3.0.14",
-                "href": "https://packetstormsecurity.com/files/178979/openssl-3.0.14.tar.gz"
-            },
-            {
-                "title": "Debian Security Advisory 5705-1",
-                "href": "https://packetstormsecurity.com/files/178977/dsa-5705-1.txt"
-            },
-            {
-                "title": "Trojan.Win32.DarkGateLoader MVID-2024-0685 Code Execution",
-                "href": "https://packetstormsecurity.com/files/178976/MVID-2024-0685.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6567-2",
-                "href": "https://packetstormsecurity.com/files/178975/USN-6567-2.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-3701-03",
-                "href": "https://packetstormsecurity.com/files/178974/RHSA-2024-3701-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-3685-03",
-                "href": "https://packetstormsecurity.com/files/178973/RHSA-2024-3685-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-3683-03",
-                "href": "https://packetstormsecurity.com/files/178972/RHSA-2024-3683-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-3680-03",
-                "href": "https://packetstormsecurity.com/files/178971/RHSA-2024-3680-03.txt"
-            },
-            {
-                "title": "Debian Security Advisory 5704-1",
-                "href": "https://packetstormsecurity.com/files/178970/dsa-5704-1.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6809-1",
-                "href": "https://packetstormsecurity.com/files/178969/USN-6809-1.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6812-1",
-                "href": "https://packetstormsecurity.com/files/178968/USN-6812-1.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-6811-1",
-                "href": "https://packetstormsecurity.com/files/178967/USN-6811-1.txt"
             }
         ]
     },
@@ -791,20 +791,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Tuxedo on ARM Is Coming",
-                "href": "https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo"
-            },
-            {
                 "title": "Show HN: Markdown HN profiles at {user}.at.hn",
                 "href": "https://at.hn"
             },
             {
                 "title": "The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?",
                 "href": "https://spectrum.ieee.org/the-mythical-non-roboticist"
-            },
-            {
-                "title": "The Meaning of Bitcoin",
-                "href": "https://maraoz.com/2024/06/10/bitcoin/"
             },
             {
                 "title": "Designing a Lego orrery",
@@ -823,8 +815,16 @@
                 "href": "https://www.scratchapixel.com/index.html"
             },
             {
+                "title": "PiDP-10 \u2013 a modern replica of the PDP-10",
+                "href": "https://obsolescence.dev/pidp10.html"
+            },
+            {
                 "title": "Meticulous (YC S21) is hiring to eliminate UI E2E tests",
                 "href": "item?id=40632641"
+            },
+            {
+                "title": "TTFB",
+                "href": "https://web.dev/articles/ttfb"
             },
             {
                 "title": "Libtree: Ldd as a tree saying why a library is found or not",
@@ -833,10 +833,6 @@
             {
                 "title": "Fingerprinting VPNs with Custom Router Firmware [pdf]",
                 "href": "https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf"
-            },
-            {
-                "title": "PiDP-10 \u2013 a modern replica of the PDP-10",
-                "href": "https://obsolescence.dev/pidp10.html"
             },
             {
                 "title": "An Introduction to ARM64 Assembly on Apple Silicon Macs",
@@ -863,10 +859,6 @@
                 "href": "https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/"
             },
             {
-                "title": "Senior employees, ordered back to the office, are jumping ship",
-                "href": "https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html"
-            },
-            {
                 "title": "A Revolution in Biology?",
                 "href": "https://www.bitsofwonder.co/p/a-revolution-in-biology"
             },
@@ -879,24 +871,32 @@
                 "href": "https://robert.ocallahan.org/2024/06/browser-engine.html"
             },
             {
-                "title": "My lunches with the queen of cookbooks",
-                "href": "https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/"
-            },
-            {
                 "title": "Finding out where syscalls are called from: Stack traces with strace",
                 "href": "https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/"
             },
             {
-                "title": "Show HN: We've open-sourced our LLM attention visualization library",
-                "href": "https://github.com/labmlai/inspectus"
+                "title": "My lunches with the queen of cookbooks",
+                "href": "https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/"
+            },
+            {
+                "title": "Senior employees, ordered back to the office, are jumping ship",
+                "href": "https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html"
             },
             {
                 "title": "First detection of negative ions on the Moon",
                 "href": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon"
             },
             {
+                "title": "Show HN: We've open-sourced our LLM attention visualization library",
+                "href": "https://github.com/labmlai/inspectus"
+            },
+            {
                 "title": "Records of Pompeii's survivors have been found",
                 "href": "https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641"
+            },
+            {
+                "title": "Discussions: Flat or Threaded? (2006)",
+                "href": "https://blog.codinghorror.com/discussions-flat-or-threaded/"
             },
             {
                 "title": "The Weird Nerd comes with trade-offs",
