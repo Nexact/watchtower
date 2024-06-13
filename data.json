@@ -19,12 +19,12 @@
                 "href": "https://zed.dev/blog/zed-decoded-vim"
             },
             {
-                "title": "How a single ChatGPT mistake cost us $10,000+",
-                "href": "https://archive.is/2yxws"
-            },
-            {
                 "title": "Announcing Rust 1.79.0",
                 "href": "https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html"
+            },
+            {
+                "title": "How a single ChatGPT mistake cost us $10,000+",
+                "href": "https://archive.is/2yxws"
             },
             {
                 "title": "Chaos in the medium: watercolour plotting",
@@ -51,12 +51,16 @@
                 "href": "https://iterm2.com/ai-plugin.html"
             },
             {
+                "title": "C3 reaches the 0.6 milestone",
+                "href": "https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521"
+            },
+            {
                 "title": "Virtual keyboard for Android",
                 "href": "https://software-lab.de/StenoBoard/README"
             },
             {
-                "title": "C3 reaches the 0.6 milestone",
-                "href": "https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521"
+                "title": "Why Swift's type checker is slow",
+                "href": "https://danielchasehooper.com/posts/why-swift-is-slow/"
             },
             {
                 "title": "Development Environments with devenv.sh",
@@ -67,8 +71,8 @@
                 "href": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
             },
             {
-                "title": "Why Swift's type checker is slow",
-                "href": "https://danielchasehooper.com/posts/why-swift-is-slow/"
+                "title": "Font PJW",
+                "href": "https://about.cubictype.com/pjw/portfolio.html"
             },
             {
                 "title": "Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support",
@@ -79,16 +83,16 @@
                 "href": "https://github.com/robertdavidgraham/wc2"
             },
             {
-                "title": "Font PJW",
-                "href": "https://about.cubictype.com/pjw/portfolio.html"
-            },
-            {
-                "title": "Justified SMT 1: The Minikanren inside Z3",
-                "href": "https://www.philipzucker.com/minikanren_inside_z3/"
+                "title": "libnix fixPath",
+                "href": "https://lastlog.de/blog/libnix_fixPath.html"
             },
             {
                 "title": "Ruby 3.3.3 Released",
                 "href": "https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/"
+            },
+            {
+                "title": "Justified SMT 1: The Minikanren inside Z3",
+                "href": "https://www.philipzucker.com/minikanren_inside_z3/"
             },
             {
                 "title": "Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence",
@@ -97,10 +101,6 @@
             {
                 "title": "Cognate: Readable and concise concatenative programming",
                 "href": "https://cognate-lang.github.io/learn.html"
-            },
-            {
-                "title": "Programming is (should be) fun",
-                "href": "https://www.youtube.com/watch?v=2MYzvQ1v8Ww"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "New York Times warns freelancers of GitHub repo data breach",
+                "href": "https://www.bleepingcomputer.com/news/security/new-york-times-warns-freelancers-of-github-repo-data-breach/"
+            },
+            {
                 "title": "Toronto District School Board hit by a ransomware attack",
                 "href": "https://www.bleepingcomputer.com/news/security/toronto-district-school-board-hit-by-a-ransomware-attack/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Microsoft deprecates Windows DirectAccess, recommends Always On VPN",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-directaccess-recommends-always-on-vpn/"
-            },
-            {
-                "title": "Police arrest Conti and LockBit ransomware crypter specialist",
-                "href": "https://www.bleepingcomputer.com/news/security/police-arrest-conti-and-lockbit-ransomware-crypter-specialist/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Congress Seeks Answers From Microsoft Boss After a 'Cascade' of Security Errors",
+                "href": "https://it.slashdot.org/story/24/06/13/1946242/congress-seeks-answers-from-microsoft-boss-after-a-cascade-of-security-errors?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Mars Got Cooked by a Recent Solar Storm",
                 "href": "https://science.slashdot.org/story/24/06/13/1922257/mars-got-cooked-by-a-recent-solar-storm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Japan Enacts Law Forcing Third-Party App Stores On Apple and Google",
                 "href": "https://apple.slashdot.org/story/24/06/12/2149219/japan-enacts-law-forcing-third-party-app-stores-on-apple-and-google?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Intel Is Trucking a 916,000-Pound 'Super Load' Across Ohio To Its New Fab",
-                "href": "https://news.slashdot.org/story/24/06/12/2112246/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,40 +791,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "MLow: Meta's low bitrate audio codec",
-                "href": "https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/"
-            },
-            {
                 "title": "Ted Chiang has won the PEN/Faulkner Foundation's short story prize",
                 "href": "https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/"
+            },
+            {
+                "title": "MLow: Meta's low bitrate audio codec",
+                "href": "https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/"
             },
             {
                 "title": "How Google is helping create a new model for clean energy",
                 "href": "https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/"
             },
             {
-                "title": "Group chats rule the world",
-                "href": "https://sriramk.com/group-chats-rule-the-world"
+                "title": "Mouth-based touchpad enables people living with paralysis to use computers",
+                "href": "https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605"
             },
             {
                 "title": "Show HN: Shpool, a Lightweight Tmux Alternative",
                 "href": "https://github.com/shell-pool/shpool"
             },
             {
-                "title": "Progressive Web Apps (PWAs) Phishing",
-                "href": "https://mrd0x.com/progressive-web-apps-pwa-phishing/"
+                "title": "50 year old petrodollar pact between Saudi Arabia and US expires",
+                "href": "https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years"
             },
             {
-                "title": "Textile-based electrochemical sensors",
-                "href": "https://medhir.com/blog/textile-based-electrochemical-sensors"
+                "title": "Progressive Web Apps (PWAs) Phishing",
+                "href": "https://mrd0x.com/progressive-web-apps-pwa-phishing/"
             },
             {
                 "title": "Scan HTML faster with SIMD instructions \u2013 Chrome edition",
                 "href": "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
             },
             {
-                "title": "Indian startup 3D prints rocket engine in 72 hours",
-                "href": "https://spectrum.ieee.org/3d-printed-rocket"
+                "title": "Group chats rule the world",
+                "href": "https://sriramk.com/group-chats-rule-the-world"
+            },
+            {
+                "title": "Textile-based electrochemical sensors",
+                "href": "https://medhir.com/blog/textile-based-electrochemical-sensors"
             },
             {
                 "title": "AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor",
@@ -835,14 +839,6 @@
                 "href": "https://www.tesorio.com/careers#job-openings"
             },
             {
-                "title": "Chinese Yuan becomes Russia's main foreign currency, replacing Dollar and Euro",
-                "href": "https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro"
-            },
-            {
-                "title": "Designing a website without 404s",
-                "href": "https://pillser.com/engineering/2024-06-10-website-without-404s"
-            },
-            {
                 "title": "Drawing Machines",
                 "href": "https://drawingmachines.org/"
             },
@@ -851,44 +847,36 @@
                 "href": "https://aethermug.com/posts/borges-on-chaos-theory"
             },
             {
-                "title": "Mouth-based touchpad enables people living with paralysis to use computers",
-                "href": "https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605"
+                "title": "Solving Probabilistic Tic-Tac-Toe",
+                "href": "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe"
             },
             {
-                "title": "Please maintain eye contact for the duration of the ad",
-                "href": "https://twitter.com/soren_iverson/status/1801253187602788424"
+                "title": "Indian startup 3D prints rocket engine in 72 hours",
+                "href": "https://spectrum.ieee.org/3d-printed-rocket"
             },
             {
                 "title": "Potential ozone depletion from satellite demise during atmospheric reentry",
                 "href": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280"
             },
             {
-                "title": "Solving Probabilistic Tic-Tac-Toe",
-                "href": "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe"
-            },
-            {
-                "title": "SSH agent extensions as an arbitrary RPC mechanism",
-                "href": "https://mjg59.dreamwidth.org/69646.html"
-            },
-            {
-                "title": "Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome",
-                "href": "https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/"
+                "title": "How to Untangle Phone Numbers",
+                "href": "https://factbranch.com/blog/2024/normalize-phone-numbers/"
             },
             {
                 "title": "Microsoft Chose Profit over Security, Whistleblower Says",
                 "href": "https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers"
             },
             {
-                "title": "Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default",
-                "href": "https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html"
+                "title": "SSH agent extensions as an arbitrary RPC mechanism",
+                "href": "https://mjg59.dreamwidth.org/69646.html"
+            },
+            {
+                "title": "Designing a website without 404s",
+                "href": "https://pillser.com/engineering/2024-06-10-website-without-404s"
             },
             {
                 "title": "IntelliJ GitHub Plugin leaking credentials",
                 "href": "https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/"
-            },
-            {
-                "title": "Ask HN: Widespread Apathy?",
-                "href": "item?id=40673039"
             },
             {
                 "title": "Bibliography keys: It's as easy as [1], [2], [3]",
@@ -897,6 +885,10 @@
             {
                 "title": "Gerald Sussman: Programming is (should be) fun (2022) [video]",
                 "href": "https://www.youtube.com/watch?v=2MYzvQ1v8Ww"
+            },
+            {
+                "title": "Please maintain eye contact for the duration of the ad",
+                "href": "https://twitter.com/soren_iverson/status/1801253187602788424"
             },
             {
                 "title": "Perspective-Correct Interpolation",
@@ -909,6 +901,14 @@
             {
                 "title": "The GJK Algorithm: A weird and beautiful way to do a simple thing",
                 "href": "https://computerwebsite.net/writing/gjk"
+            },
+            {
+                "title": "Luma AI Dream Machine",
+                "href": "https://lumalabs.ai/dream-machine"
+            },
+            {
+                "title": "Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default",
+                "href": "https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html"
             }
         ]
     }
