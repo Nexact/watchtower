@@ -43,20 +43,28 @@
                 "href": "https://rachelbythebay.com/w/2024/06/12/timing/"
             },
             {
+                "title": "Why not just embed Neovim in Zed?",
+                "href": "https://zed.dev/blog/zed-decoded-vim"
+            },
+            {
+                "title": "Nix as a WebAssembly build tool",
+                "href": "https://determinate.systems/posts/nix-wasm/"
+            },
+            {
                 "title": "C3 reaches the 0.6 milestone",
                 "href": "https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521"
             },
             {
-                "title": "wc2: Investigates optimizing 'wc', the Unix word count program",
-                "href": "https://github.com/robertdavidgraham/wc2"
+                "title": "Development Environments with devenv.sh",
+                "href": "https://www.youtube.com/watch?v=unW1zk8terk&t=7s"
             },
             {
                 "title": "Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support",
                 "href": "https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/"
             },
             {
-                "title": "Why not just embed Neovim in Zed?",
-                "href": "https://zed.dev/blog/zed-decoded-vim"
+                "title": "wc2: Investigates optimizing 'wc', the Unix word count program",
+                "href": "https://github.com/robertdavidgraham/wc2"
             },
             {
                 "title": "Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence",
@@ -75,6 +83,10 @@
                 "href": "https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/"
             },
             {
+                "title": "Announcing Rust 1.79.0",
+                "href": "https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html"
+            },
+            {
                 "title": "Virtual keyboard for Android",
                 "href": "https://software-lab.de/StenoBoard/README"
             },
@@ -89,18 +101,6 @@
             {
                 "title": "Long-term maintenance of PCRE2",
                 "href": "https://github.com/PCRE2Project/pcre2/issues/426"
-            },
-            {
-                "title": "How things get done on the Go Team",
-                "href": "https://changelog.com/gotime/318"
-            },
-            {
-                "title": "You might need a portable monitor",
-                "href": "https://blog.alexellis.io/you-might-need-a-portable-monitor/"
-            },
-            {
-                "title": "the Gilbert\u2013Johnson\u2013Keerthi algorithm explained as simply as possibly",
-                "href": "https://computerwebsite.net/writing/gjk"
             }
         ]
     },
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q2 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
+            },
+            {
+                "title": "CVE-2024\u20134956 -Unauthenticated Path Traversal",
+                "href": "https://www.reddit.com/r/netsec/comments/1df1t08/cve20244956_unauthenticated_path_traversal/"
             },
             {
                 "title": "CVE-2024-29824 Deep Dive: Ivanti EPM SQL Injection Remote Code Execution Vulnerability, IOCs, and POC",
@@ -206,10 +210,6 @@
             {
                 "title": "How to achieve passive persistence - part 2: outliving the krbtgt reset",
                 "href": "https://www.reddit.com/r/netsec/comments/1d3z0t7/how_to_achieve_passive_persistence_part_2/"
-            },
-            {
-                "title": "Check Point - Wrong Check Point (CVE-2024-24919) - watchTowr Labs",
-                "href": "https://www.reddit.com/r/netsec/comments/1d3t1sk/check_point_wrong_check_point_cve202424919/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "How Amazon Blew Alexa's Shot To Dominate AI",
+                "href": "https://slashdot.org/story/24/06/13/1356217/how-amazon-blew-alexas-shot-to-dominate-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Wells Fargo Fires Employees for Faking Work By Simulating Keyboard Activity",
                 "href": "https://it.slashdot.org/story/24/06/13/1442205/wells-fargo-fires-employees-for-faking-work-by-simulating-keyboard-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "One of Two Major Data Brokers Shuts Down Product Related To Driver Behavior Patterns",
                 "href": "https://tech.slashdot.org/story/24/06/12/1958229/one-of-two-major-data-brokers-shuts-down-product-related-to-driver-behavior-patterns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google's Abuse of Fitbit Continues With Web App Shutdown",
-                "href": "https://tech.slashdot.org/story/24/06/12/1939226/googles-abuse-of-fitbit-continues-with-web-app-shutdown?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -585,44 +585,44 @@
         "feedname": "cisa",
         "items": [
             {
-                "title": "Siemens SIMATIC S7-200 SMART Devices",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-02"
-            },
-            {
-                "title": "Siemens TIA Administrator",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-03"
+                "title": "Motorola Solutions Vigilant License Plate Readers",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19"
             },
             {
                 "title": "Siemens Mendix Applications",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-01"
             },
             {
-                "title": "Phone Scammers Impersonating CISA Employees",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees"
+                "title": "Siemens ST7 ScadaConnect",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-04"
             },
             {
-                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/06/12/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+                "title": "Siemens PowerSys",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-07"
             },
             {
-                "title": "AVEVA PI Asset Framework Client",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-03"
+                "title": "Siemens SIMATIC and SIPLUS",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-10"
             },
             {
-                "title": "CISA Releases Six Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/06/11/cisa-releases-six-industrial-control-systems-advisories"
+                "title": "Siemens SINEC Traffic Analyzer",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-13"
             },
             {
-                "title": "Microsoft Releases June 2024 Security Updates",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/06/11/microsoft-releases-june-2024-security-updates"
+                "title": "Rockwell Automation FactoryTalk View SE",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-17"
             },
             {
-                "title": "Rockwell Automation ControlLogix, GuardLogix, and CompactLogix",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-01"
+                "title": "CISA Releases Twenty Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/06/13/cisa-releases-twenty-industrial-control-systems-advisories"
             },
             {
-                "title": "Intrado 911 Emergency Gateway",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-163-04"
+                "title": "Siemens SIMATIC S7-200 SMART Devices",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-02"
+            },
+            {
+                "title": "Siemens SITOP UPS1600",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-05"
             }
         ]
     },
@@ -791,12 +791,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Indian Startup 3D Prints Rocket Engine in Just 72 Hours",
-                "href": "https://spectrum.ieee.org/3d-printed-rocket"
-            },
-            {
                 "title": "Show HN: Shpool, a Lightweight Tmux Alternative",
                 "href": "https://github.com/shell-pool/shpool"
+            },
+            {
+                "title": "MLow: Meta's low bitrate audio codec",
+                "href": "https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/"
+            },
+            {
+                "title": "Indian Startup 3D Prints Rocket Engine in Just 72 Hours",
+                "href": "https://spectrum.ieee.org/3d-printed-rocket"
             },
             {
                 "title": "Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry",
@@ -805,6 +809,10 @@
             {
                 "title": "The GJK Algorithm: A weird and beautiful way to do a simple thing",
                 "href": "https://computerwebsite.net/writing/gjk"
+            },
+            {
+                "title": "US Supreme Court backs Starbucks over fired pro-union workers",
+                "href": "https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/"
             },
             {
                 "title": "Is the Future of Moore's Law in a Particle Accelerator?",
@@ -823,6 +831,14 @@
                 "href": "https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer"
             },
             {
+                "title": "Drawing Machines",
+                "href": "https://drawingmachines.org/"
+            },
+            {
+                "title": "Nvidia Conquers Latest AI Tests",
+                "href": "https://spectrum.ieee.org/mlperf-nvidia-conquers"
+            },
+            {
                 "title": "ChromeOS will soon be developed on large portions of the Android stack",
                 "href": "https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html"
             },
@@ -831,16 +847,16 @@
                 "href": "https://huggingface.co/blog/mlabonne/abliteration"
             },
             {
-                "title": "Diffractive Chocolate",
-                "href": "https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/"
-            },
-            {
                 "title": "What If We Recaption Billions of Web Images with LLaMA-3?",
                 "href": "https://arxiv.org/abs/2406.08478"
             },
             {
-                "title": "Drawing Machines",
-                "href": "https://drawingmachines.org/"
+                "title": "Diffractive Chocolate",
+                "href": "https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/"
+            },
+            {
+                "title": "Wells Fargo Fires Over a Dozen for 'Simulation of Keyboard Activity'",
+                "href": "https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity"
             },
             {
                 "title": "Serious Sam handled massive amounts of enemies on 56k modem connections",
@@ -859,20 +875,28 @@
                 "href": "https://twenty.com"
             },
             {
-                "title": "How Meta trains large language models at scale",
-                "href": "https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/"
+                "title": "Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'",
+                "href": "https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html"
             },
             {
-                "title": "Centuries of Childhood",
-                "href": "https://resobscura.substack.com/p/centuries-of-childhood"
+                "title": "How Meta trains large language models at scale",
+                "href": "https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/"
             },
             {
                 "title": "Lexbor \u2013 An open source HTML Renderer library",
                 "href": "https://github.com/lexbor/lexbor"
             },
             {
+                "title": "Centuries of Childhood",
+                "href": "https://resobscura.substack.com/p/centuries-of-childhood"
+            },
+            {
                 "title": "Medieval game pieces emerge from the ruins of a German castle",
                 "href": "https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815"
+            },
+            {
+                "title": "Iridescence in Meat Caused by Surface Gratings",
+                "href": "https://www.mdpi.com/2304-8158/2/4/499"
             },
             {
                 "title": "Designing the avocado of uncertainty visualization",
@@ -883,32 +907,8 @@
                 "href": "https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette"
             },
             {
-                "title": "Mushroom Hunters Can't Stop Finding Mysterious Fungi",
-                "href": "https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html"
-            },
-            {
                 "title": "Arm says it wants all Snapdragon X Elite laptops destroyed",
                 "href": "https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/"
-            },
-            {
-                "title": "Author Clock: a novel way to tell time",
-                "href": "https://www.authorclock.com/"
-            },
-            {
-                "title": "Faxes From the Far Side (2015)",
-                "href": "https://www.damninteresting.com/faxes-from-the-far-side/"
-            },
-            {
-                "title": "AMD's MI300X Outperforms Nvidia's H100 for LLM Inference",
-                "href": "https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/"
-            },
-            {
-                "title": "Metaflora",
-                "href": "https://flora.metazooa.com"
-            },
-            {
-                "title": "Whose CIDR is it anyway?",
-                "href": "https://www.netmeister.org/blog/cidr-allocations.html"
             }
         ]
     }
