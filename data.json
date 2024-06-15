@@ -19,12 +19,12 @@
                 "href": "https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060"
             },
             {
-                "title": "Address Sanitizer Internals",
-                "href": "https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/"
-            },
-            {
                 "title": "What Git Forge Would You Choose for Work?",
                 "href": "https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work"
+            },
+            {
+                "title": "Address Sanitizer Internals",
+                "href": "https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/"
             },
             {
                 "title": "The Problem with OpenTelemetry",
@@ -47,6 +47,14 @@
                 "href": "https://blog.darknedgy.net/technology/2020/05/02/0/"
             },
             {
+                "title": "Spending too much time optimizing for loops",
+                "href": "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
+            },
+            {
+                "title": "When To Write a Simulator",
+                "href": "https://sirupsen.com/napkin/problem-16-simulation"
+            },
+            {
                 "title": "Reverse Engineering a Restaurant Pager system",
                 "href": "https://k3xec.com/td158/"
             },
@@ -59,8 +67,8 @@
                 "href": "https://www.youtube.com/watch?v=o_AIw9bGogo"
             },
             {
-                "title": "When To Write a Simulator",
-                "href": "https://sirupsen.com/napkin/problem-16-simulation"
+                "title": "Zero draft \u00b7 Applied Cartography",
+                "href": "https://jmduke.com/posts/microblog/zero-draft/"
             },
             {
                 "title": "Never, Sometimes, Always",
@@ -79,10 +87,6 @@
                 "href": "https://www.youtube.com/watch?v=4hl8LpDKRMw"
             },
             {
-                "title": "Spending too much time optimizing for loops",
-                "href": "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
-            },
-            {
                 "title": "Entity Component System (ECS) - Definition and Simple Implementation",
                 "href": "https://www.youtube.com/watch?v=s6TMa33niJo"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Nextflow Emacs workflow",
                 "href": "https://edmundmiller.dev/posts/emacs-nextflow/"
-            },
-            {
-                "title": "One Line Fuzzy Find for Git Worktree",
-                "href": "https://www.olafalders.com/2024/06/14/one-line-fuzzy-find-for-git-worktree/"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "An AI-Generated Candidate Wants to Run For Mayor in Wyoming",
+                "href": "https://politics.slashdot.org/story/24/06/15/0433244/an-ai-generated-candidate-wants-to-run-for-mayor-in-wyoming?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Python 'Language Summit' 2024:  Security Workflows, Calendar Versioning, Transforms and Lightning Talks",
                 "href": "https://developers.slashdot.org/story/24/06/15/0642232/python-language-summit-2024-security-workflows-calendar-versioning-transforms-and-lightning-talks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Mozilla Defies Kremlin, Restores Banned Firefox Add-ons in Russia",
                 "href": "https://tech.slashdot.org/story/24/06/14/1958203/mozilla-defies-kremlin-restores-banned-firefox-add-ons-in-russia?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "How the Recycling Symbol Lost Its Meaning",
-                "href": "https://news.slashdot.org/story/24/06/14/1933247/how-the-recycling-symbol-lost-its-meaning?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -803,16 +803,28 @@
                 "href": "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
             },
             {
+                "title": "Data-Fueled Neurotargeting Could Kill Democracy",
+                "href": "https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/"
+            },
+            {
                 "title": "Threescaper: A website for loading Townscaper models into Three.js",
                 "href": "https://github.com/meliharvey/threescaper"
             },
             {
-                "title": "DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems",
-                "href": "https://www.darpa.mil/news-events/2024-05-22"
+                "title": "A most profound video game: a good cognitive aid for research",
+                "href": "https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/"
+            },
+            {
+                "title": "Exhaustive Survey of Rickrolling in Academic Literature [pdf]",
+                "href": "https://arxiv.org/abs/2204.06826"
             },
             {
                 "title": "Address Sanitizer Internals",
                 "href": "https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/"
+            },
+            {
+                "title": "DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems",
+                "href": "https://www.darpa.mil/news-events/2024-05-22"
             },
             {
                 "title": "Survival Situation: The debate over evolution and its discoverer",
@@ -823,36 +835,28 @@
                 "href": "https://www.space.com/voyager-1-fully-operational"
             },
             {
-                "title": "Exhaustive Survey of Rickrolling in Academic Literature [pdf]",
-                "href": "https://arxiv.org/abs/2204.06826"
-            },
-            {
-                "title": "Diagnosing video signal loss on Wii and GBS-Control",
-                "href": "https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/"
+                "title": "Can Language Models Serve as Text-Based World Simulators?",
+                "href": "https://arxiv.org/abs/2406.06485"
             },
             {
                 "title": "The Four Kinds of Research-and-Development Teams",
                 "href": "http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html"
             },
             {
-                "title": "A most profound video game: a good cognitive aid for research",
-                "href": "https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/"
-            },
-            {
-                "title": "What About libjpeg v9? (2013)",
-                "href": "https://libjpeg-turbo.org/About/Jpeg-9"
-            },
-            {
                 "title": "Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)",
                 "href": "https://www.nango.dev/jobs"
+            },
+            {
+                "title": "Diagnosing video signal loss on Wii and GBS-Control",
+                "href": "https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/"
             },
             {
                 "title": "Radioactive drugs strike cancer with precision",
                 "href": "https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off"
             },
             {
-                "title": "Can Language Models Serve as Text-Based World Simulators?",
-                "href": "https://arxiv.org/abs/2406.06485"
+                "title": "What About libjpeg v9? (2013)",
+                "href": "https://libjpeg-turbo.org/About/Jpeg-9"
             },
             {
                 "title": "Eden Abhez: The strangest hit songwriter",
@@ -863,28 +867,28 @@
                 "href": "https://syzygyfpga.io/"
             },
             {
-                "title": "True Defamation [pdf]",
-                "href": "https://www.journaloffreespeechlaw.org/helmreich.pdf"
+                "title": "How to Raise a Tribal Army in Pre-Roman Europe, Part II",
+                "href": "https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/"
             },
             {
-                "title": "What, Me Worry? Or Should We Fear Intelligent Machines? \u2013 Gerald Jay Sussman [video]",
-                "href": "https://www.youtube.com/watch?v=skvP2tlVPVA"
+                "title": "True Defamation [pdf]",
+                "href": "https://www.journaloffreespeechlaw.org/helmreich.pdf"
             },
             {
                 "title": "Exponentially Better Rotations (2022)",
                 "href": "http://thenumb.at/Exponential-Rotations/"
             },
             {
+                "title": "Introduction to the Odin Programming Language",
+                "href": "https://zylinski.se/posts/introduction-to-odin/"
+            },
+            {
                 "title": "The sun's magnetic field is about to flip",
                 "href": "https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024"
             },
             {
-                "title": "How to Raise a Tribal Army in Pre-Roman Europe, Part II",
-                "href": "https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/"
-            },
-            {
-                "title": "Introduction to the Odin Programming Language",
-                "href": "https://zylinski.se/posts/introduction-to-odin/"
+                "title": "Face of ancient Australian 'giga-goose' revealed after fossil skull found",
+                "href": "https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html"
             },
             {
                 "title": "Chaos in the medium: Watercolour plotting",
@@ -895,28 +899,24 @@
                 "href": "https://github.com/ventoy/Ventoy/issues/2795"
             },
             {
-                "title": "America Is Losing the Shoe Race with China",
-                "href": "https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china"
-            },
-            {
-                "title": "Useful and Overlooked Skills",
-                "href": "https://collabfund.com/blog/useful-and-overlooked-skills/"
-            },
-            {
-                "title": "Scientists develop fatigue-free ferroelectric material",
-                "href": "https://phys.org/news/2024-06-scientists-fatigue-free-ferroelectric-material.html"
+                "title": "The Impossibility of Supersized Machines (2017)",
+                "href": "https://arxiv.org/abs/1703.10987"
             },
             {
                 "title": "AI Search: The Bitter-Er Lesson",
                 "href": "https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d"
             },
             {
-                "title": "New algorithm discovers language just by watching videos",
-                "href": "https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos"
+                "title": "Useful and Overlooked Skills",
+                "href": "https://collabfund.com/blog/useful-and-overlooked-skills/"
             },
             {
                 "title": "Study finds juvenile dolphins who play together are more successful as adults",
                 "href": "https://phys.org/news/2024-06-juvenile-dolphins-play-successful-adults.html"
+            },
+            {
+                "title": "Nondeterminism in Formal Specification",
+                "href": "https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"
             }
         ]
     }
