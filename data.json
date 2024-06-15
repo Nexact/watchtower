@@ -59,8 +59,20 @@
                 "href": "https://www.youtube.com/watch?v=o_AIw9bGogo"
             },
             {
+                "title": "When To Write a Simulator",
+                "href": "https://sirupsen.com/napkin/problem-16-simulation"
+            },
+            {
                 "title": "Never, Sometimes, Always",
                 "href": "https://lukeplant.me.uk/blog/posts/never-sometimes-always/"
+            },
+            {
+                "title": "Django SQLite Production Config",
+                "href": "https://blog.pecar.me/sqlite-django-config"
+            },
+            {
+                "title": "Joining Strings in Python: A \"Huh\" Moment",
+                "href": "https://berglyd.net/blog/2024/06/joining-strings-in-python/"
             },
             {
                 "title": "Semantic search with Django, PostgreSQL, & pgvector",
@@ -69,10 +81,6 @@
             {
                 "title": "Spending too much time optimizing for loops",
                 "href": "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
-            },
-            {
-                "title": "When To Write a Simulator",
-                "href": "https://sirupsen.com/napkin/problem-16-simulation"
             },
             {
                 "title": "Entity Component System (ECS) - Definition and Simple Implementation",
@@ -87,20 +95,12 @@
                 "href": "https://zverok.space/blog/2024-06-14-method-evolution.html"
             },
             {
-                "title": "Django SQLite Production Config",
-                "href": "https://blog.pecar.me/sqlite-django-config"
-            },
-            {
                 "title": "Nextflow Emacs workflow",
                 "href": "https://edmundmiller.dev/posts/emacs-nextflow/"
             },
             {
                 "title": "One Line Fuzzy Find for Git Worktree",
                 "href": "https://www.olafalders.com/2024/06/14/one-line-fuzzy-find-for-git-worktree/"
-            },
-            {
-                "title": "Finding a 55 year old bug in the first Lunar Lander game",
-                "href": "https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/"
             }
         ]
     },
@@ -803,10 +803,6 @@
                 "href": "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
             },
             {
-                "title": "Good code is rarely read",
-                "href": "https://www.alexmolas.com/2024/06/06/good-code.html"
-            },
-            {
                 "title": "Threescaper: A website for loading Townscaper models into Three.js",
                 "href": "https://github.com/meliharvey/threescaper"
             },
@@ -819,104 +815,108 @@
                 "href": "https://www.space.com/voyager-1-fully-operational"
             },
             {
-                "title": "Eden Abhez: The strangest hit songwriter",
-                "href": "https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history"
+                "title": "What About libjpeg v9? (2013)",
+                "href": "https://libjpeg-turbo.org/About/Jpeg-9"
             },
             {
                 "title": "The Four Kinds of Research-and-Development Teams",
                 "href": "http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html"
             },
             {
-                "title": "True Defamation [pdf]",
-                "href": "https://www.journaloffreespeechlaw.org/helmreich.pdf"
-            },
-            {
-                "title": "Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)",
-                "href": "https://www.nango.dev/jobs"
-            },
-            {
-                "title": "Syzygy: An open standard for low cost, compact and high-performance peripherals",
-                "href": "https://syzygyfpga.io/"
-            },
-            {
-                "title": "Exponentially Better Rotations (2022)",
-                "href": "http://thenumb.at/Exponential-Rotations/"
-            },
-            {
-                "title": "What About libjpeg v9?",
-                "href": "https://libjpeg-turbo.org/About/Jpeg-9"
-            },
-            {
-                "title": "The sun's magnetic field is about to flip",
-                "href": "https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024"
-            },
-            {
-                "title": "Can Language Models Serve as Text-Based World Simulators?",
-                "href": "https://arxiv.org/abs/2406.06485"
+                "title": "Exhaustive Survey of Rickrolling in Academic Literature [pdf]",
+                "href": "https://arxiv.org/abs/2204.06826"
             },
             {
                 "title": "Diagnosing video signal loss on Wii and GBS-Control",
                 "href": "https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/"
             },
             {
-                "title": "Chaos in the medium: Watercolour plotting",
-                "href": "https://www.amygoodchild.com/blog/watercolour-plots"
+                "title": "Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)",
+                "href": "https://www.nango.dev/jobs"
+            },
+            {
+                "title": "Eden Abhez: The strangest hit songwriter",
+                "href": "https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history"
+            },
+            {
+                "title": "Syzygy: An open standard for low cost, compact and high-performance peripherals",
+                "href": "https://syzygyfpga.io/"
+            },
+            {
+                "title": "True Defamation [pdf]",
+                "href": "https://www.journaloffreespeechlaw.org/helmreich.pdf"
+            },
+            {
+                "title": "Can Language Models Serve as Text-Based World Simulators?",
+                "href": "https://arxiv.org/abs/2406.06485"
+            },
+            {
+                "title": "Exponentially Better Rotations (2022)",
+                "href": "http://thenumb.at/Exponential-Rotations/"
+            },
+            {
+                "title": "The sun's magnetic field is about to flip",
+                "href": "https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024"
             },
             {
                 "title": "The Impossibility of Supersized Machines (2017)",
                 "href": "https://arxiv.org/abs/1703.10987"
             },
             {
-                "title": "AI Search: The Bitter-Er Lesson",
-                "href": "https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d"
+                "title": "We Are Starting to Enjoy Hatred",
+                "href": "https://www.wsj.com/articles/we-are-starting-to-enjoy-hatred-c3005b05"
             },
             {
-                "title": "H.264 Is Magic (2016)",
-                "href": "https://sidbala.com/h-264-is-magic/"
+                "title": "Introduction to the Odin Programming Language",
+                "href": "https://zylinski.se/posts/introduction-to-odin/"
+            },
+            {
+                "title": "Chaos in the medium: Watercolour plotting",
+                "href": "https://www.amygoodchild.com/blog/watercolour-plots"
             },
             {
                 "title": "How to Raise a Tribal Army in Pre-Roman Europe, Part II",
                 "href": "https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/"
             },
             {
+                "title": "H.264 Is Magic (2016)",
+                "href": "https://sidbala.com/h-264-is-magic/"
+            },
+            {
+                "title": "AI Search: The Bitter-Er Lesson",
+                "href": "https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d"
+            },
+            {
+                "title": "Ventoy: Remove BLOBs from the Source Tree",
+                "href": "https://github.com/ventoy/Ventoy/issues/2795"
+            },
+            {
                 "title": "New algorithm discovers language just by watching videos",
                 "href": "https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos"
-            },
-            {
-                "title": "From grep to SPLADE: a journey through semantic search",
-                "href": "https://blog.elicit.com/semantic-search/"
-            },
-            {
-                "title": "Nondeterminism in Formal Specification",
-                "href": "https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"
-            },
-            {
-                "title": "The borrow checker within",
-                "href": "https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/"
             },
             {
                 "title": "Study finds juvenile dolphins who play together are more successful as adults",
                 "href": "https://phys.org/news/2024-06-juvenile-dolphins-play-successful-adults.html"
             },
             {
-                "title": "Kizhi Pogost",
-                "href": "https://whc.unesco.org/en/list/544/"
+                "title": "Nondeterminism in Formal Specification",
+                "href": "https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"
             },
             {
-                "title": "Overcoming pitfalls of Postgres logical decoding",
-                "href": "https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding"
+                "title": "From grep to SPLADE: a journey through semantic search",
+                "href": "https://blog.elicit.com/semantic-search/"
             },
             {
                 "title": "Face of ancient Australian 'giga-goose' revealed after fossil skull found",
                 "href": "https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html"
             },
             {
-                "title": "Spaced repetition for teaching two-year olds how to read",
-                "href": "https://chrislakin.blog/p/spaced-repetition-for-teaching-two"
+                "title": "Overcoming pitfalls of Postgres logical decoding",
+                "href": "https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding"
             },
             {
-                "title": "Nvidia Warp: A Python framework for high performance GPU simulation and graphics",
-                "href": "https://github.com/NVIDIA/warp"
+                "title": "The borrow checker within",
+                "href": "https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/"
             }
         ]
     }
