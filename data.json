@@ -15,6 +15,10 @@
                 "href": "https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing"
             },
             {
+                "title": "Replace FxHasher with faster and better finalized hash",
+                "href": "https://github.com/rust-lang/rustc-hash/pull/37"
+            },
+            {
                 "title": "Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser",
                 "href": "https://www.phoronix.com/news/ReiserFS-README-Linux-6.10"
             },
@@ -25,10 +29,6 @@
             {
                 "title": "Basic Python project setup",
                 "href": "https://peateasea.de/basic-python-project-setup/"
-            },
-            {
-                "title": "Replace FxHasher with faster and better finalized hash",
-                "href": "https://github.com/rust-lang/rustc-hash/pull/37"
             },
             {
                 "title": "Make Python DevEx",
@@ -55,20 +55,24 @@
                 "href": "https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/"
             },
             {
-                "title": "Go package for calculating the sunrise and sunset times for a given location",
-                "href": "https://github.com/nathan-osman/go-sunrise"
-            },
-            {
                 "title": "SSH as a sudo replacement",
                 "href": "https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/"
+            },
+            {
+                "title": "Update on Newton, the Wayland-native accessibility project",
+                "href": "https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/"
+            },
+            {
+                "title": "Go package for calculating the sunrise and sunset times for a given location",
+                "href": "https://github.com/nathan-osman/go-sunrise"
             },
             {
                 "title": "IPC in Rust - a Ping Pong Comparison",
                 "href": "https://3tilley.github.io/posts/simple-ipc-ping-pong/"
             },
             {
-                "title": "Update on Newton, the Wayland-native accessibility project",
-                "href": "https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/"
+                "title": "The Pitfalls of Comparing BigDecimals in Java",
+                "href": "https://igorstechnoclub.com/java-bigdecimal/"
             },
             {
                 "title": "Versioning FreeCAD files with git",
@@ -79,12 +83,16 @@
                 "href": "https://arxiv.org/pdf/2402.01894"
             },
             {
+                "title": "Regular JSON",
+                "href": "https://neilmadden.blog/2023/05/31/regular-json/"
+            },
+            {
                 "title": "NumPy 2.0: an evolutionary milestone",
                 "href": "https://blog.scientific-python.org/numpy/numpy2/"
             },
             {
-                "title": "The Pitfalls of Comparing BigDecimals in Java",
-                "href": "https://igorstechnoclub.com/java-bigdecimal/"
+                "title": "The past, present, and future of local-first",
+                "href": "https://youtu.be/NMq0vncHJvU"
             },
             {
                 "title": "A Note on Essential Complexity",
@@ -93,14 +101,6 @@
             {
                 "title": "Troubles In Solving Uno",
                 "href": "https://two-wrongs.com/troubles-in-solving-uno.html"
-            },
-            {
-                "title": "Why People are Angry over Go 1.23 Iterators",
-                "href": "https://www.gingerbill.org/article/2024/06/17/go-iterator-design/"
-            },
-            {
-                "title": "Linux Kernel Development - Automatic Cleanup 2/2",
-                "href": "https://javiercarrascocruz.github.io/kernel-auto-cleanup-1"
             }
         ]
     },
@@ -315,6 +315,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Ukraine Turning To AI To Prioritize 700 Years of Landmine Removal",
+                "href": "https://tech.slashdot.org/story/24/06/18/2128214/ukraine-turning-to-ai-to-prioritize-700-years-of-landmine-removal?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "AMD Is Investigating Claims That Company Data Was Stolen In Hack",
+                "href": "https://yro.slashdot.org/story/24/06/18/2121256/amd-is-investigating-claims-that-company-data-was-stolen-in-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Asda IT Staff Shuffled Off To TCS Amid Messy Tech Divorce From Walmart",
                 "href": "https://it.slashdot.org/story/24/06/18/2112216/asda-it-staff-shuffled-off-to-tcs-amid-messy-tech-divorce-from-walmart?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,14 +373,6 @@
             {
                 "title": "AI Images in Google Search Results Have Opened a Portal To Hell",
                 "href": "https://tech.slashdot.org/story/24/06/18/1636216/ai-images-in-google-search-results-have-opened-a-portal-to-hell?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Los Angeles Schools To Consider Ban on Smartphones",
-                "href": "https://news.slashdot.org/story/24/06/18/164200/los-angeles-schools-to-consider-ban-on-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple Suspends Work on Next High-End Headset",
-                "href": "https://apple.slashdot.org/story/24/06/18/1529239/apple-suspends-work-on-next-high-end-headset?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,8 +791,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Serialization for C# Games",
-                "href": "https://chickensoft.games/blog/serialization-for-csharp-games/"
+                "title": "KidPix",
+                "href": "https://kidpix.app"
+            },
+            {
+                "title": "Off-path TCP hijacking in NAT-enabled Wi-Fi networks",
+                "href": "https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/"
             },
             {
                 "title": "IPC in Rust \u2013 A Ping Pong Comparison",
@@ -807,32 +811,20 @@
                 "href": "https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/"
             },
             {
-                "title": "Donating clothes is contributing to Africa's 'mitumba' problem",
-                "href": "https://www.washingtonpost.com/opinions/2024/05/22/clothes-donations-africa-kenya-waste/"
-            },
-            {
-                "title": "KidPix",
-                "href": "https://kidpix.app"
+                "title": "Serialization for C# Games",
+                "href": "https://chickensoft.games/blog/serialization-for-csharp-games/"
             },
             {
                 "title": "3D Gaussian Splatting as Markov Chain Monte Carlo",
                 "href": "https://ubc-vision.github.io/3dgs-mcmc/"
             },
             {
+                "title": "Open Source Python ETL",
+                "href": "https://amphi.ai/"
+            },
+            {
                 "title": "Advanced Shell Scripting Techniques: Automating Complex Tasks with Bash",
                 "href": "https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/"
-            },
-            {
-                "title": "Off-path TCP hijacking in NAT-enabled Wi-Fi networks",
-                "href": "https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/"
-            },
-            {
-                "title": "Ask HN: Why do message queue-based architectures seem less popular now?",
-                "href": "item?id=40723302"
-            },
-            {
-                "title": "Amazon fined $5.9M for breaking labor law in California",
-                "href": "https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/"
             },
             {
                 "title": "Does anybody know this fractal? (2012)",
@@ -843,28 +835,32 @@
                 "href": "https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody"
             },
             {
-                "title": "Hadrius (YC W23) is hiring engineers looking to grow into future founders",
-                "href": "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
+                "title": "Willie Mays, SF Giants legend and MLB all-time great, is dead",
+                "href": "https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php"
+            },
+            {
+                "title": "Amazon fined $5.9M for breaking labor law in California",
+                "href": "https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/"
             },
             {
                 "title": "Refusal in Language Models Is Mediated by a Single Direction",
                 "href": "https://arxiv.org/abs/2406.11717"
             },
             {
+                "title": "Show HN: I made an open source and local translation app",
+                "href": "https://github.com/niedev/RTranslator"
+            },
+            {
+                "title": "Hadrius (YC W23) is hiring engineers looking to grow into future founders",
+                "href": "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
+            },
+            {
                 "title": "Nature retracts paper that claimed adult stem cell could become any type of cell",
                 "href": "https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/"
             },
             {
-                "title": "Reports: Apple is halting its next high-end Vision in favor of something cheaper",
-                "href": "https://arstechnica.com/gadgets/2024/06/apple-is-reportedly-shifting-its-next-vision-headset-to-a-cheaper-model/"
-            },
-            {
                 "title": "Tiny beauty: how I make scientific art from behind the microscope",
                 "href": "https://www.nature.com/immersive/d41586-024-02011-6/index.html"
-            },
-            {
-                "title": "Sharing new research, models, and datasets from Meta FAIR",
-                "href": "https://ai.meta.com/blog/meta-fair-research-new-releases/"
             },
             {
                 "title": "Sculpting the moon in R: Subdivision surfaces and displacement mapping",
@@ -875,40 +871,44 @@
                 "href": "https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing"
             },
             {
-                "title": "Cyber Scarecrow",
-                "href": "https://www.cyberscarecrow.com/"
+                "title": "California Moves to Modify Law Letting Workers Sue Employers",
+                "href": "https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html"
             },
             {
-                "title": "TikTag: Breaking ARM's memory tagging extension with speculative execution",
-                "href": "https://arxiv.org/abs/2406.08719"
+                "title": "Sharing new research, models, and datasets from Meta FAIR",
+                "href": "https://ai.meta.com/blog/meta-fair-research-new-releases/"
             },
             {
                 "title": "'Glowing' plants could help scientists predict flash drought",
                 "href": "https://www.jpl.nasa.gov/news/ow-glowing-plants-could-help-scientists-predict-flash-drought"
             },
             {
-                "title": "Versioning FreeCAD Files with Git (2021)",
-                "href": "https://blog.lambda.cx/posts/freecad-and-git/"
-            },
-            {
-                "title": "A Sense of Rebellion \u2014 A Podcast Series by Evgeny Morozov",
-                "href": "https://www.sense-of-rebellion.com/"
-            },
-            {
-                "title": "Mimicking an Elephant Trunk",
-                "href": "https://physics.aps.org/articles/v17/98"
+                "title": "Reed\u2013Solomon Codes for Coders",
+                "href": "https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders"
             },
             {
                 "title": "Erica Synths DIY Prototyping Breadboard",
                 "href": "https://cdm.link/2024/06/labor-diy/"
             },
             {
-                "title": "California Moves to Modify Law Letting Workers Sue Employers",
-                "href": "https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html"
+                "title": "A Sense of Rebellion \u2014 A Podcast Series by Evgeny Morozov",
+                "href": "https://www.sense-of-rebellion.com/"
             },
             {
-                "title": "Revolutionizing solar plant prospection with automated viewshed analysis",
-                "href": "https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis"
+                "title": "Large language model data pipelines and Common Crawl",
+                "href": "https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/"
+            },
+            {
+                "title": "Versioning FreeCAD Files with Git (2021)",
+                "href": "https://blog.lambda.cx/posts/freecad-and-git/"
+            },
+            {
+                "title": "Article about Agrippa (A Book of the Dead)",
+                "href": "https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/"
+            },
+            {
+                "title": "Spur \u2013 RISC IV: The Lisp Multiprocessor Workstation",
+                "href": "https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor"
             }
         ]
     }
