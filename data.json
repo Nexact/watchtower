@@ -35,16 +35,24 @@
                 "href": "https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00"
             },
             {
+                "title": "Running Rails System Tests with Playwright instead of Selenium",
+                "href": "https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/"
+            },
+            {
                 "title": "From Infocom to 80 Days: An oral history of text games and interactive fiction",
                 "href": "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/"
             },
             {
-                "title": "How free software hijacked Philip Hazel's life",
-                "href": "https://lwn.net/SubscriberLink/978463/be23210c163a2107/"
-            },
-            {
                 "title": "Firefox 127.0.1",
                 "href": "https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/"
+            },
+            {
+                "title": "An Exploration of Cuis Smalltalk  (with Juan Vuletich)",
+                "href": "https://youtu.be/sokb6zZC-ZE"
+            },
+            {
+                "title": "How free software hijacked Philip Hazel's life",
+                "href": "https://lwn.net/SubscriberLink/978463/be23210c163a2107/"
             },
             {
                 "title": "Rewrites outside location blocks in Nginx are bad",
@@ -63,14 +71,6 @@
                 "href": "https://bernsteinbear.com/blog/tcc-attribute/"
             },
             {
-                "title": "Demystifying Rust's ? Operator",
-                "href": "https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/"
-            },
-            {
-                "title": "Announcing Phoenix Playground",
-                "href": "https://dashbit.co/blog/announcing-phoenix-playground"
-            },
-            {
                 "title": "MRTG The Multi Router Traffic Grapher (1998)",
                 "href": "https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf"
             },
@@ -79,12 +79,16 @@
                 "href": "https://blog.cessen.com/post/2022_07_09_major_version_numbers_may_not_be_sacred"
             },
             {
-                "title": "The Mythical Non-Roboticist",
-                "href": "https://generalrobots.substack.com/p/the-mythical-non-roboticist"
+                "title": "Demystifying Rust's ? Operator",
+                "href": "https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/"
             },
             {
-                "title": "Running Rails System Tests with Playwright instead of Selenium",
-                "href": "https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/"
+                "title": "Announcing Phoenix Playground",
+                "href": "https://dashbit.co/blog/announcing-phoenix-playground"
+            },
+            {
+                "title": "The Mythical Non-Roboticist",
+                "href": "https://generalrobots.substack.com/p/the-mythical-non-roboticist"
             },
             {
                 "title": "Go's 'range over functions' iterators and avoiding iteration errors",
@@ -97,10 +101,6 @@
             {
                 "title": "I\u2019ve Stopped Using Box Plots. Should You?",
                 "href": "https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/"
-            },
-            {
-                "title": "build2 0.17.0 released",
-                "href": "https://build2.org/release/0.17.0.xhtml"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "SolarWinds Serv-U path-traversal flaw actively exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/solarwinds-serv-u-path-traversal-flaw-actively-exploited-in-attacks/"
+            },
+            {
                 "title": "CDK Global hacked again while recovering from first cyberattack",
                 "href": "https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/"
             },
@@ -255,10 +259,6 @@
             {
                 "title": "VMware fixes critical vCenter RCE vulnerability, patch now",
                 "href": "https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-vcenter-rce-vulnerability-patch-now/"
-            },
-            {
-                "title": "Scathing report on Medibank cyberattack highlights unenforced MFA",
-                "href": "https://www.bleepingcomputer.com/news/security/scathing-report-on-medibank-cyberattack-highlights-unenforced-mfa/"
             }
         ]
     },
@@ -310,6 +310,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "World's Largest Music Company Is Helping Musicians Make Their Own AI Voice Clones",
+                "href": "https://entertainment.slashdot.org/story/24/06/20/160216/worlds-largest-music-company-is-helping-musicians-make-their-own-ai-voice-clones?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "EU Delays Decision Over Scanning Encrypted Messages For CSAM",
                 "href": "https://it.slashdot.org/story/24/06/20/1530210/eu-delays-decision-over-scanning-encrypted-messages-for-csam?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "Officials Query if Any Deaths Directly Linked To UK Hospital Hack",
                 "href": "https://news.slashdot.org/story/24/06/19/1625240/officials-query-if-any-deaths-directly-linked-to-uk-hospital-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Britain's Universities in Existential Crisis?",
-                "href": "https://news.slashdot.org/story/24/06/19/116219/britains-universities-in-existential-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,20 +791,24 @@
                 "href": "https://erikdemaine.org/fonts/tetris/"
             },
             {
-                "title": "Wc2: Investigates optimizing 'wc', the Unix word count program",
-                "href": "https://github.com/robertdavidgraham/wc2"
+                "title": "Atkinson Dithering",
+                "href": "https://beyondloom.com/blog/dither.html"
             },
             {
-                "title": "NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro",
-                "href": "https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/"
+                "title": "Wc2: Investigates optimizing 'wc', the Unix word count program",
+                "href": "https://github.com/robertdavidgraham/wc2"
             },
             {
                 "title": "Free software hijacked Philip Hazel's life",
                 "href": "https://lwn.net/SubscriberLink/978463/608c876c1153fd31/"
             },
             {
-                "title": "Ask HN: Could AI be a dot com sized bubble?",
-                "href": "item?id=40739431"
+                "title": "NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro",
+                "href": "https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/"
+            },
+            {
+                "title": "Show HN: I made a puzzle game & it gently introduces my favorite math mysteries",
+                "href": "https://www.rahulilango.com/coloring/"
             },
             {
                 "title": "EU Council has withdrawn the vote on Chat Control",
@@ -823,68 +827,72 @@
                 "href": "https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html"
             },
             {
-                "title": "Agricultural drones are transforming rice farming in the Mekong River delta",
-                "href": "https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/"
-            },
-            {
-                "title": "Lessons Learned from Scaling to Multi-Terabyte Datasets",
-                "href": "https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/"
-            },
-            {
-                "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-                "href": "https://jobs.lever.co/buildzoom"
-            },
-            {
-                "title": "Two ways to use an LED as a light sensor with Arduino",
-                "href": "https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html"
-            },
-            {
-                "title": "Show HN: Midday \u2013 Run your business smarter (open-source)",
-                "href": "https://midday.ai"
-            },
-            {
-                "title": "Oracle Java license teams set to begin targeting unknowing Oracle users",
-                "href": "https://www.theregister.com/2024/06/20/oracle_java_licence_teams/"
-            },
-            {
-                "title": "Satellites Spotting Ships",
-                "href": "https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html"
-            },
-            {
-                "title": "Claude 3.5 Sonnet",
-                "href": "https://www.anthropic.com/news/claude-3-5-sonnet"
-            },
-            {
-                "title": "1/25-scale Cray C90 wristwatch",
-                "href": "http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/"
-            },
-            {
-                "title": "AdonisJS",
-                "href": "https://adonisjs.com/"
-            },
-            {
-                "title": "EasyOS: An experimental Linux distribution",
-                "href": "https://easyos.org/"
-            },
-            {
-                "title": "Hypermedia Systems",
-                "href": "https://hypermedia.systems/"
-            },
-            {
-                "title": "What happens to our breath when we type, tap, scroll",
-                "href": "https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing"
+                "title": "RAR-B: Reasoning as Retrieval Benchmark",
+                "href": "https://arxiv.org/abs/2404.06347"
             },
             {
                 "title": "Ask HN: What happens when I click \"Request for quote\" on your SaaS?",
                 "href": "item?id=40726735"
             },
             {
-                "title": "OSRD: Open-Source Railway Designer",
-                "href": "https://osrd.fr/en/"
+                "title": "Roblox has ported the entire front end JavaScript stack to Lua",
+                "href": "https://twitter.com/zack_overflow/status/1803612884196532432"
+            },
+            {
+                "title": "Two ways to use an LED as a light sensor with Arduino",
+                "href": "https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html"
+            },
+            {
+                "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+                "href": "https://jobs.lever.co/buildzoom"
+            },
+            {
+                "title": "AdonisJS",
+                "href": "https://adonisjs.com/"
+            },
+            {
+                "title": "Lessons Learned from Scaling to Multi-Terabyte Datasets",
+                "href": "https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/"
+            },
+            {
+                "title": "Agricultural drones are transforming rice farming in the Mekong River delta",
+                "href": "https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/"
+            },
+            {
+                "title": "Author Finds Another's Name on an Elsevier Book Chapter She Wrote",
+                "href": "https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/"
+            },
+            {
+                "title": "Claude 3.5 Sonnet",
+                "href": "https://www.anthropic.com/news/claude-3-5-sonnet"
+            },
+            {
+                "title": "Satellites Spotting Ships",
+                "href": "https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html"
+            },
+            {
+                "title": "Calculating Empires: A Genealogy of Technology and Power Since 1500",
+                "href": "https://calculatingempires.net/"
+            },
+            {
+                "title": "Optimizing AI Inference at Character.ai",
+                "href": "https://research.character.ai/optimizing-inference/"
+            },
+            {
+                "title": "Hypermedia Systems",
+                "href": "https://hypermedia.systems/"
             },
             {
                 "title": "The Delusion of Advanced Plastic Recycling",
                 "href": "https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis"
+            },
+            {
+                "title": "EasyOS: An experimental Linux distribution",
+                "href": "https://easyos.org/"
+            },
+            {
+                "title": "OSRD: Open-Source Railway Designer",
+                "href": "https://osrd.fr/en/"
             },
             {
                 "title": "Rosser's Theorem via Turing Machines (2011)",
@@ -897,14 +905,6 @@
             {
                 "title": "Carabiner Collection",
                 "href": "https://www.carabinercollection.com/"
-            },
-            {
-                "title": "Show HN: Radius \u2013 A Meetup.com alternative",
-                "href": "https://www.radius.to"
-            },
-            {
-                "title": "The demise of the mildly dynamic website (2022)",
-                "href": "https://www.devever.net/~hl/mildlydynamic"
             }
         ]
     }
