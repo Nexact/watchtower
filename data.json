@@ -31,12 +31,16 @@
                 "href": "https://nicholas.carlini.com/writing/2024/why-i-attack.html"
             },
             {
-                "title": "Running DBT in Github using Nix",
-                "href": "https://github.com/CedricLeong/dbt-action-nix"
+                "title": "Neko: History of a software pet (2022)",
+                "href": "https://eliotakira.com/neko/"
             },
             {
                 "title": "Profiling with Ctrl-C",
                 "href": "https://yosefk.com/blog/profiling-with-ctrl-c.html"
+            },
+            {
+                "title": "Running DBT in Github using Nix",
+                "href": "https://github.com/CedricLeong/dbt-action-nix"
             },
             {
                 "title": "Programming in Unison",
@@ -97,10 +101,6 @@
             {
                 "title": "GitHub Copilot in 70 lines of JavaScript",
                 "href": "https://github.com/coder/picopilot"
-            },
-            {
-                "title": "How gcc and clang handle statically known undefined behaviour",
-                "href": "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
             }
         ]
     },
@@ -120,20 +120,20 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1doy2s8/learn_how_unsafe_deserialization_vulnerabilities/"
             },
             {
-                "title": "A Novel DoS Vulnerability affecting WebRTC Media Servers",
-                "href": "https://www.reddit.com/r/netsec/comments/1dor7xn/a_novel_dos_vulnerability_affecting_webrtc_media/"
-            },
-            {
                 "title": "Phantom Secrets: Undetected Secrets Expose Major Corporations",
                 "href": "https://www.reddit.com/r/netsec/comments/1doygf4/phantom_secrets_undetected_secrets_expose_major/"
             },
             {
-                "title": "My AWS \u201cSegmentation Test\u201d Methodology for Pentesters v1.0",
-                "href": "https://www.reddit.com/r/netsec/comments/1dopkou/my_aws_segmentation_test_methodology_for/"
+                "title": "A Novel DoS Vulnerability affecting WebRTC Media Servers",
+                "href": "https://www.reddit.com/r/netsec/comments/1dor7xn/a_novel_dos_vulnerability_affecting_webrtc_media/"
             },
             {
                 "title": "Clone and emulate RFID access card in a second using proxmark3 in standalone mode",
                 "href": "https://www.reddit.com/r/netsec/comments/1doxvxm/clone_and_emulate_rfid_access_card_in_a_second/"
+            },
+            {
+                "title": "My AWS \u201cSegmentation Test\u201d Methodology for Pentesters v1.0",
+                "href": "https://www.reddit.com/r/netsec/comments/1dopkou/my_aws_segmentation_test_methodology_for/"
             },
             {
                 "title": "MIPS Emulation with Qiling",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Apple Expands Self-Service Repair Diagnostics To Europe",
+                "href": "https://apple.slashdot.org/story/24/06/26/143210/apple-expands-self-service-repair-diagnostics-to-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "'Great Resignation' Enters Third Year",
                 "href": "https://slashdot.org/story/24/06/26/0047222/great-resignation-enters-third-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Google Is Killing Infinite Scroll in Search Results",
                 "href": "https://tech.slashdot.org/story/24/06/25/1858249/google-is-killing-infinite-scroll-in-search-results?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon Gets FAA Approval Allowing It To Expand Drone Deliveries For Online Orders",
-                "href": "https://slashdot.org/story/24/06/25/188215/amazon-gets-faa-approval-allowing-it-to-expand-drone-deliveries-for-online-orders?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -630,24 +630,48 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "Deadline Looms For Alleged LockBit Extortion Over Feds Of 33TB Of Data",
-                "href": "https://packetstormsecurity.com/news/view/36031/Deadline-Looms-For-Alleged-LockBit-Extortion-Over-Feds-Of-33TB-Of-Data.html"
+                "title": "Microsoft Blamed For Million-Plus Patient Record Theft At US Hospital Giant",
+                "href": "https://packetstormsecurity.com/news/view/36035/Microsoft-Blamed-For-Million-Plus-Patient-Record-Theft-At-US-Hospital-Giant.html"
             },
             {
-                "title": "Google Framework Helps LLMs Perform Basic Vuln Research",
-                "href": "https://packetstormsecurity.com/news/view/36027/Google-Framework-Helps-LLMs-Perform-Basic-Vuln-Research.html"
+                "title": "Pentagon Taken To Task Over Background Check Security",
+                "href": "https://packetstormsecurity.com/news/view/36032/Pentagon-Taken-To-Task-Over-Background-Check-Security.html"
+            },
+            {
+                "title": "Ebay Seller Offers Stingray Device For $100,000",
+                "href": "https://packetstormsecurity.com/news/view/36033/Ebay-Seller-Offers-Stingray-Device-For-100-000.html"
+            },
+            {
+                "title": "P2Pinfect Worm Now Dropping Ransomware On Redis Servers",
+                "href": "https://packetstormsecurity.com/news/view/36034/P2Pinfect-Worm-Now-Dropping-Ransomware-On-Redis-Servers.html"
+            },
+            {
+                "title": "Probllama: Ollama Remote Code Execution Vulnerability",
+                "href": "https://packetstormsecurity.com/news/view/36037/Probllama-Ollama-Remote-Code-Execution-Vulnerability.html"
+            },
+            {
+                "title": "Polyfill Supply Chain Attack Hits Over 100k Websites",
+                "href": "https://packetstormsecurity.com/news/view/36036/Polyfill-Supply-Chain-Attack-Hits-Over-100k-Websites.html"
+            },
+            {
+                "title": "Deadline Looms For Alleged LockBit Extortion Over Feds Of 33TB Of Data",
+                "href": "https://packetstormsecurity.com/news/view/36031/Deadline-Looms-For-Alleged-LockBit-Extortion-Over-Feds-Of-33TB-Of-Data.html"
             },
             {
                 "title": "Meta's VR Headset Vulnerable To Ransomware Attacks",
                 "href": "https://packetstormsecurity.com/news/view/36030/Metas-VR-Headset-Vulnerable-To-Ransomware-Attacks.html"
             },
             {
+                "title": "Julian Assange Pleads Guilty, Goes Home",
+                "href": "https://packetstormsecurity.com/news/view/36029/Julian-Assange-Pleads-Guilty-Goes-Home.html"
+            },
+            {
                 "title": "Neiman Marcus Data Breach Exposed As Hacker Offers To Sell Stolen Info",
                 "href": "https://packetstormsecurity.com/news/view/36028/Neiman-Marcus-Data-Breach-Exposed-As-Hacker-Offers-To-Sell-Stolen-Info.html"
             },
             {
-                "title": "Julian Assange Pleads Guilty, Goes Home",
-                "href": "https://packetstormsecurity.com/news/view/36029/Julian-Assange-Pleads-Guilty-Goes-Home.html"
+                "title": "Google Framework Helps LLMs Perform Basic Vuln Research",
+                "href": "https://packetstormsecurity.com/news/view/36027/Google-Framework-Helps-LLMs-Perform-Basic-Vuln-Research.html"
             },
             {
                 "title": "Zip Slip Meets Artifactory: A Bug Bounty Story",
@@ -662,28 +686,56 @@
                 "href": "https://packetstormsecurity.com/news/view/36024/Cyber-Attack-Compromised-Indonesian-Datacenter-Ransom-Sought.html"
             },
             {
-                "title": "CDK Global Begins To Restore Systems After Cyber Attack Hits Thousands Of Retailers",
-                "href": "https://packetstormsecurity.com/news/view/36023/CDK-Global-Begins-To-Restore-Systems-After-Cyber-Attack-Hits-Thousands-Of-Retailers.html"
+                "title": "Ollama Remote Code Execution",
+                "href": "https://packetstormsecurity.com/files/179218/CVE-2024-37032-main.zip"
             },
             {
-                "title": "Levi's And More Affected In Pants Dropping Week Of Data Breaches",
-                "href": "https://packetstormsecurity.com/news/view/36022/Levis-And-More-Affected-In-Pants-Dropping-Week-Of-Data-Breaches.html"
+                "title": "Debian Security Advisory 5720-1",
+                "href": "https://packetstormsecurity.com/files/179217/dsa-5720-1.txt"
             },
             {
-                "title": "Car Dealerships Disrupted As CDK Hack Worsens",
-                "href": "https://packetstormsecurity.com/news/view/36021/Car-Dealerships-Disrupted-As-CDK-Hack-Worsens.html"
+                "title": "Ubuntu Security Notice USN-6847-1",
+                "href": "https://packetstormsecurity.com/files/179216/USN-6847-1.txt"
             },
             {
-                "title": "President Biden Bans Kaspersky Antivirus Software Over Russia Ties",
-                "href": "https://packetstormsecurity.com/news/view/36020/President-Biden-Bans-Kaspersky-Antivirus-Software-Over-Russia-Ties.html"
+                "title": "Debian Security Advisory 5719-1",
+                "href": "https://packetstormsecurity.com/files/179215/dsa-5719-1.txt"
             },
             {
-                "title": "Sweden Claims Russia Has Been Borking Nordic Satellites",
-                "href": "https://packetstormsecurity.com/news/view/36019/Sweden-Claims-Russia-Has-Been-Borking-Nordic-Satellites.html"
+                "title": "Ubuntu Security Notice USN-6819-4",
+                "href": "https://packetstormsecurity.com/files/179213/USN-6819-4.txt"
             },
             {
-                "title": "Coding Error In Forgotten API Blamed For Massive Data Breach",
-                "href": "https://packetstormsecurity.com/news/view/36018/Coding-Error-In-Forgotten-API-Blamed-For-Massive-Data-Breach.html"
+                "title": "Ubuntu Security Notice USN-6848-1",
+                "href": "https://packetstormsecurity.com/files/179212/USN-6848-1.txt"
+            },
+            {
+                "title": "SolarWinds Platform 2024.1 SR1 Race Condition",
+                "href": "https://packetstormsecurity.com/files/179214/solarwindsplatform20241sr1-racecondition.txt"
+            },
+            {
+                "title": "Automad 2.0.0-alpha.4 Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/179211/automad200alpha4-xss.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5718-1",
+                "href": "https://packetstormsecurity.com/files/179210/dsa-5718-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6849-1",
+                "href": "https://packetstormsecurity.com/files/179209/USN-6849-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6850-1",
+                "href": "https://packetstormsecurity.com/files/179208/USN-6850-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-6746-2",
+                "href": "https://packetstormsecurity.com/files/179207/USN-6746-2.txt"
+            },
+            {
+                "title": "Poultry Farm Management System 1.0 Shell Upload",
+                "href": "https://packetstormsecurity.com/files/179206/poultryfms10-shell.txt"
             },
             {
                 "title": "Faronics WINSelect Hardcoded Credentials / Bad Permissions / Unhashed Password",
@@ -732,58 +784,6 @@
             {
                 "title": "Carbon Forum 5.9.0 Cross Site Request Forgery / SQL Injection",
                 "href": "https://packetstormsecurity.com/files/179193/carbonforum590-sqlxsrf.txt"
-            },
-            {
-                "title": "jSQL Injection 0.100",
-                "href": "https://packetstormsecurity.com/files/179195/jsql-injection-0.100.tar.gz"
-            },
-            {
-                "title": "Gentoo Linux Security Advisory 202406-02",
-                "href": "https://packetstormsecurity.com/files/179192/glsa-202406-02.txt"
-            },
-            {
-                "title": "Gentoo Linux Security Advisory 202406-01",
-                "href": "https://packetstormsecurity.com/files/179191/glsa-202406-01.txt"
-            },
-            {
-                "title": "Student Attendance Management System 1.0 SQL Injection",
-                "href": "https://packetstormsecurity.com/files/179190/studentams10-sql.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4058-03",
-                "href": "https://packetstormsecurity.com/files/179189/RHSA-2024-4058-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4057-03",
-                "href": "https://packetstormsecurity.com/files/179188/RHSA-2024-4057-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4054-03",
-                "href": "https://packetstormsecurity.com/files/179187/RHSA-2024-4054-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4053-03",
-                "href": "https://packetstormsecurity.com/files/179186/RHSA-2024-4053-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4052-03",
-                "href": "https://packetstormsecurity.com/files/179185/RHSA-2024-4052-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4051-03",
-                "href": "https://packetstormsecurity.com/files/179184/RHSA-2024-4051-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4050-03",
-                "href": "https://packetstormsecurity.com/files/179183/RHSA-2024-4050-03.txt"
-            },
-            {
-                "title": "Paradox IP150 Internet Module 1.40.00 Cross Site Request Forgery",
-                "href": "https://packetstormsecurity.com/files/179182/SBA-ADV-20240321-01.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4036-03",
-                "href": "https://packetstormsecurity.com/files/179180/RHSA-2024-4036-03.txt"
             }
         ]
     },
@@ -795,12 +795,16 @@
                 "href": "https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/"
             },
             {
-                "title": "One Year Since Germany's Nuclear Exit: Renewables Expand, Fossil Fuels Reduced",
-                "href": "https://www.ise.fraunhofer.de/en/press-media/press-releases/2024/status-quo-one-year-since-germanys-nuclear-exit-renewable-capacity-expands-electricity-from-fossil-fuels-significantly-reduced.html"
+                "title": "The Point of the Banach Tarski Theorem",
+                "href": "https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn"
             },
             {
                 "title": "Ball: A ball that lives in your dock",
                 "href": "https://github.com/nate-parrott/ball"
+            },
+            {
+                "title": "Should people who quit get unemployment benefits, too?",
+                "href": "https://www.vox.com/future-perfect/356461/unemployment-benefits-insurance-quitting-capitalism-economy"
             },
             {
                 "title": "HyperCard Simulator",
@@ -811,6 +815,10 @@
                 "href": "https://www.tweag.io/blog/2024-06-20-nickel-modules/"
             },
             {
+                "title": "Group Actions and Hashing Unordered Multisets",
+                "href": "https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/"
+            },
+            {
                 "title": "A brief introduction to interval arithmetic",
                 "href": "https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/"
             },
@@ -819,20 +827,24 @@
                 "href": "https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492"
             },
             {
-                "title": "The album art of Phil Hartmann (2022)",
-                "href": "https://www.conorherbert.com/music/the-album-art-of-phil-hartmann"
+                "title": "Show HN: Rubbrband \u2013 A hosted ComfyUI alternative for image generation",
+                "href": "item?id=40799262"
             },
             {
-                "title": "Show HN: I built a JavaScript-powered flipdisc display",
-                "href": "https://flipdisc.io/"
+                "title": "The album art of Phil Hartmann (2022)",
+                "href": "https://www.conorherbert.com/music/the-album-art-of-phil-hartmann"
             },
             {
                 "title": "Show HN: Glasskube \u2013 Open Source Kubernetes Package Manager, alternative to Helm",
                 "href": "https://github.com/glasskube/glasskube"
             },
             {
-                "title": "Group Actions and Hashing Unordered Multisets",
-                "href": "https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/"
+                "title": "Show HN: I built a JavaScript-powered flipdisc display",
+                "href": "https://flipdisc.io/"
+            },
+            {
+                "title": "Denmark to charge $100 per cow in first carbon tax on farming",
+                "href": "https://www.cnn.com/2024/06/26/business/denmark-cows-carbon-tax/index.html"
             },
             {
                 "title": "The rarest book in American literature: Poe's Tamerlane",
@@ -843,12 +855,12 @@
                 "href": "https://github.com/aspen-cloud/triplit"
             },
             {
-                "title": "What Happens When You Put a Database in the Browser?",
-                "href": "https://motherduck.com/blog/olap-database-in-browser/"
-            },
-            {
                 "title": "Fixing QuickLook (2023)",
                 "href": "https://foon.uk/fixing-quicklook/"
+            },
+            {
+                "title": "Stamp: A Mini-Language for Templates",
+                "href": "https://scroll.pub/blog/stamp.html"
             },
             {
                 "title": "Show HN: From dotenv to dotenvx \u2013 better config management",
@@ -863,20 +875,16 @@
                 "href": "https://stulle123.github.io/posts/kakaotalk-account-takeover/"
             },
             {
-                "title": "Stamp: A Mini-Language for Templates",
-                "href": "https://scroll.pub/blog/stamp.html"
-            },
-            {
                 "title": "Simple ways to find exposed sensitive information",
                 "href": "https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/"
             },
             {
-                "title": "FICO and the Credit Bureau Cartel",
-                "href": "https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau"
-            },
-            {
                 "title": "Does a cave beneath Pembroke Castle hold key to fate of early Britons?",
                 "href": "https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons"
+            },
+            {
+                "title": "What Happens When You Put a Database in the Browser?",
+                "href": "https://motherduck.com/blog/olap-database-in-browser/"
             },
             {
                 "title": "Microsoft breached antitrust rules by bundling Teams and Office, EU says",
@@ -899,16 +907,8 @@
                 "href": "https://github.com/fiddlecube/fiddlecube-sdk"
             },
             {
-                "title": "Waymo One is now open to everyone in San Francisco",
-                "href": "https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/"
-            },
-            {
-                "title": "A better way to teach online",
-                "href": "https://nabda.app"
-            },
-            {
-                "title": "The Alternate Reality Kit (1987) [video]",
-                "href": "https://www.youtube.com/watch?v=w1HhPE0zV6g"
+                "title": "FICO and the Credit Bureau Cartel",
+                "href": "https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau"
             }
         ]
     }
