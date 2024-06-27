@@ -19,6 +19,10 @@
                 "href": "https://www.oilshell.org/blog/2024/06/cgi.html"
             },
             {
+                "title": "Better Know A Ruby Thing: On The Use of Private Methods",
+                "href": "https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/"
+            },
+            {
                 "title": "You probably wrote half a monad by accident",
                 "href": "https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/"
             },
@@ -27,24 +31,28 @@
                 "href": "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html"
             },
             {
-                "title": "Modern cryptography on the NES",
-                "href": "https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes"
+                "title": "Relational algebra primer",
+                "href": "https://www.relational-algebra.dev/ra-primer/introduction/"
             },
             {
-                "title": "Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem",
-                "href": "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
+                "title": "Modern cryptography on the NES",
+                "href": "https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes"
             },
             {
                 "title": "Open Sourcing Kinopio",
                 "href": "https://pketh.org/open-sourcing-kinopio.html"
             },
             {
-                "title": "Better Know A Ruby Thing: On The Use of Private Methods",
-                "href": "https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/"
+                "title": "Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem",
+                "href": "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
             },
             {
                 "title": "The plan-execute pattern",
                 "href": "https://mmapped.blog/posts/29-plan-execute"
+            },
+            {
+                "title": "CVE-2024-5535: `SSL_select_next_proto` buffer overread",
+                "href": "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
             },
             {
                 "title": "How file systems can change in Sequoia with FSKit",
@@ -63,12 +71,24 @@
                 "href": "https://www.kdab.com/the-smarter-way-to-rust/"
             },
             {
+                "title": "Fighting Faults in Distributed Systems",
+                "href": "https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf"
+            },
+            {
                 "title": "What is Self Hosted? What is a Stack?",
                 "href": "https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/"
             },
             {
                 "title": "Fixing KWin\u2019s performance on old hardware",
                 "href": "https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html"
+            },
+            {
+                "title": "Make a Prediction",
+                "href": "https://www.jakeworth.com/posts/make-a-prediction/"
+            },
+            {
+                "title": "k23: Experimental WASM Microkernel Operating System",
+                "href": "https://github.com/JonasKruckenberg/k23"
             },
             {
                 "title": "A New Package for Making Charts in Emacs: eplot",
@@ -81,26 +101,6 @@
             {
                 "title": "Neko: History of a software pet (2022)",
                 "href": "https://eliotakira.com/neko/"
-            },
-            {
-                "title": "Fighting Faults in Distributed Systems",
-                "href": "https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf"
-            },
-            {
-                "title": "Differential Analysis: A Summary",
-                "href": "https://blog.brownplt.org/2024/06/27/differential-analysis.html"
-            },
-            {
-                "title": "long term curl versions",
-                "href": "https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/"
-            },
-            {
-                "title": "Text Coordinate Systems",
-                "href": "https://zed.dev/blog/zed-decoded-text-coordinate-systems"
-            },
-            {
-                "title": "Can You Make It Bigger? - A Journey In Building Arcade Cabinets",
-                "href": "https://www.leighhack.org/blog/2024/arcade_cabinet/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Chinese AI Tops Hugging Face's Revamped Chatbot Leaderboard",
+                "href": "https://slashdot.org/story/24/06/27/1833200/chinese-ai-tops-hugging-faces-revamped-chatbot-leaderboard?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "DNA-Based Bacterial Parasite Uses Completely New DNA-Editing Method",
                 "href": "https://science.slashdot.org/story/24/06/27/1813217/dna-based-bacterial-parasite-uses-completely-new-dna-editing-method?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Crypto Industry Super PAC Is 33-2 In Primaries, With $100 Million For House and Senate Races",
                 "href": "https://slashdot.org/story/24/06/26/2215259/crypto-industry-super-pac-is-33-2-in-primaries-with-100-million-for-house-and-senate-races?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "A Russian Propaganda Network Is Promoting an AI-Manipulated Biden Video",
-                "href": "https://politics.slashdot.org/story/24/06/26/210215/a-russian-propaganda-network-is-promoting-an-ai-manipulated-biden-video?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,7 +791,7 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Misconceptions About Loops in C",
+                "title": "Misconceptions about loops in C",
                 "href": "https://dl.acm.org/doi/10.1145/3652588.3663324"
             },
             {
@@ -799,11 +799,7 @@
                 "href": "item?id=40810986"
             },
             {
-                "title": "Google Sheets ported its calculation worker from JavaScript to WasmGC",
-                "href": "https://web.dev/case-studies/google-sheets-wasmgc"
-            },
-            {
-                "title": "Show HN: Dorkly: Open Source Feature Flags",
+                "title": "Show HN: Dorkly \u2013\u00a0Open source feature flags",
                 "href": "https://github.com/dorklyorg/dorkly/wiki"
             },
             {
@@ -811,20 +807,8 @@
                 "href": "https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/"
             },
             {
-                "title": "Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader",
-                "href": "https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/"
-            },
-            {
-                "title": "Spudguns: Potato Cannon Guide",
-                "href": "http://www.spudguns.org/"
-            },
-            {
-                "title": "Gemma 2: Improving Open Language Models at a Practical Size [pdf]",
-                "href": "https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf"
-            },
-            {
-                "title": "Hellometer (YC S20) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/hellometer/jobs/cgic6Bs-onboarding-operations-customer-success-and-project-management-specialist"
+                "title": "Slack to destroy >90d history of free communities",
+                "href": "https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/"
             },
             {
                 "title": "Open Sourcing Kinopio",
@@ -835,40 +819,76 @@
                 "href": "https://www.ams.org/notices/199701/comm-rota.pdf"
             },
             {
-                "title": "Astronauts take shelter in Starliner, other spacecraft after satellite breakup",
-                "href": "https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup"
+                "title": "Gemma 2: Improving Open Language Models at a Practical Size [pdf]",
+                "href": "https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf"
             },
             {
-                "title": "Show HN: A Modern Palletization App",
-                "href": "https://github.com/VladM7/Stack-Solver"
+                "title": "SCOTUS rejects Sacklers\u2019 immunity, blowing up opioid settlement",
+                "href": "https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/"
+            },
+            {
+                "title": "Hellometer (YC S20) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/hellometer/jobs/cgic6Bs-onboarding-operations-customer-success-and-project-management-specialist"
+            },
+            {
+                "title": "Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader",
+                "href": "https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/"
             },
             {
                 "title": "Eplot: A new package for making charts in Emacs",
                 "href": "https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/"
             },
             {
-                "title": "CriticGPT: Finding GPT-4's mistakes with GPT-4",
-                "href": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/"
+                "title": "Google Sheets ported its calculation worker from JavaScript to WasmGC",
+                "href": "https://web.dev/case-studies/google-sheets-wasmgc"
+            },
+            {
+                "title": "Show HN: A Modern Palletization App",
+                "href": "https://github.com/VladM7/Stack-Solver"
+            },
+            {
+                "title": "Using short lived Postgres servers for testing",
+                "href": "https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/"
+            },
+            {
+                "title": "Astronauts take shelter in Starliner, other spacecraft after satellite breakup",
+                "href": "https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup"
+            },
+            {
+                "title": "Ask HN: What's Wrong with IRC?",
+                "href": "item?id=40813311"
             },
             {
                 "title": "Identity Verification Used by X, TikTok, and Uber Exposed Driver's Licenses",
                 "href": "https://gizmodo.com/identity-verification-firm-used-by-x-tiktok-and-uber-1851562934"
             },
             {
-                "title": "Aromatic compounds: A ring made up solely of metal atoms",
-                "href": "https://www.uni-heidelberg.de/en/newsroom/aromatic-compounds-a-ring-made-up-solely-of-metal-atoms"
-            },
-            {
                 "title": "Show HN: Gosax \u2013 A high-performance SAX XML parser for Go",
                 "href": "https://github.com/orisano/gosax"
+            },
+            {
+                "title": "Pulsed Laser Deposition at Wafer Level Is a Game Changer",
+                "href": "https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/"
             },
             {
                 "title": "Flow Charts with CSS Anchor Positioning",
                 "href": "https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning"
             },
             {
+                "title": "Aromatic compounds: A ring made up solely of metal atoms",
+                "href": "https://www.uni-heidelberg.de/en/newsroom/aromatic-compounds-a-ring-made-up-solely-of-metal-atoms"
+            },
+            {
+                "title": "Spudguns: Potato Cannon Guide",
+                "href": "http://www.spudguns.org/"
+            },
+            {
                 "title": "How to think about creating a dataset for LLM fine-tuning evaluation",
                 "href": "https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html"
+            },
+            {
+                "title": "The Forth Deck mini: a portable Forth computer with a discrete CPU",
+                "href": "http://mynor.org/my4th_forthdeck.htm"
             },
             {
                 "title": "If my mother-in-law can use Ubuntu Linux, anyone can (2012)",
@@ -879,36 +899,16 @@
                 "href": "https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/"
             },
             {
-                "title": "The Forth Deck mini: a portable Forth computer with a discrete CPU",
-                "href": "http://mynor.org/my4th_forthdeck.htm"
-            },
-            {
-                "title": "SCOTUS Rejects Sacklers Immunity",
-                "href": "https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/"
-            },
-            {
-                "title": "Next gen 3D metal printing",
-                "href": "https://fabric8labs.com"
-            },
-            {
-                "title": "Making AI better at math tutoring",
-                "href": "https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/"
+                "title": "CriticGPT: Finding GPT-4's mistakes with GPT-4",
+                "href": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/"
             },
             {
                 "title": "The Secret, Magical Life of Lithium",
                 "href": "https://www.noemamag.com/the-secret-magical-life-of-lithium/"
             },
             {
-                "title": "DoorDash and Pizza Arbitrage (2020)",
-                "href": "https://www.readmargins.com/p/doordash-and-pizza-arbitrage"
-            },
-            {
-                "title": "The strategy behind one of the most successful labs in the world",
-                "href": "https://www.nature.com/articles/d41586-024-02085-2"
-            },
-            {
-                "title": "Microbenchmarking return address branch prediction (2018)",
-                "href": "https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/"
+                "title": "Next gen 3D metal printing",
+                "href": "https://fabric8labs.com"
             }
         ]
     }
