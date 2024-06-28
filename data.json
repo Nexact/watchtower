@@ -11,12 +11,12 @@
                 "href": "https://determinate.systems/posts/parallel-nix-eval"
             },
             {
-                "title": "XAES-256-GCM",
-                "href": "https://words.filippo.io/dispatches/xaes-256-gcm/"
-            },
-            {
                 "title": "My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover",
                 "href": "https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html"
+            },
+            {
+                "title": "XAES-256-GCM",
+                "href": "https://words.filippo.io/dispatches/xaes-256-gcm/"
             },
             {
                 "title": "Better Know A Ruby Thing: On The Use of Private Methods",
@@ -51,8 +51,16 @@
                 "href": "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
             },
             {
+                "title": "scala-3-is-yaml.scala",
+                "href": "https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701"
+            },
+            {
                 "title": "k23: Experimental WASM Microkernel Operating System",
                 "href": "https://github.com/JonasKruckenberg/k23"
+            },
+            {
+                "title": "long term curl versions",
+                "href": "https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/"
             },
             {
                 "title": "Conway's game of life, in checkboxes for some reason",
@@ -65,10 +73,6 @@
             {
                 "title": "Make a Prediction",
                 "href": "https://www.jakeworth.com/posts/make-a-prediction/"
-            },
-            {
-                "title": "scala-3-is-yaml.scala",
-                "href": "https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701"
             },
             {
                 "title": "You probably wrote half a monad by accident",
@@ -85,10 +89,6 @@
             {
                 "title": "How file systems can change in Sequoia with FSKit",
                 "href": "https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/"
-            },
-            {
-                "title": "long term curl versions",
-                "href": "https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/"
             },
             {
                 "title": "Fighting Faults in Distributed Systems",
@@ -795,12 +795,16 @@
                 "href": "https://anvaka.github.io/pm/"
             },
             {
+                "title": "Aeon: OpenSUSE for Lazy Developers",
+                "href": "https://lwn.net/Articles/977987/"
+            },
+            {
                 "title": "A modern 8 bit design, built using 1950s thermionic valves",
                 "href": "https://www.valve.computer/"
             },
             {
-                "title": "Aeon: OpenSUSE for Lazy Developers",
-                "href": "https://lwn.net/Articles/977987/"
+                "title": "Investigating SSMEC's (State Micro) 486s with the UCA",
+                "href": "https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/"
             },
             {
                 "title": "Launch HN: Hatchet (YC W24) \u2013 Open-source task queue, now with a cloud version",
@@ -815,8 +819,8 @@
                 "href": "https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/"
             },
             {
-                "title": "Investigating SSMEC's (State Micro) 486s with the UCA",
-                "href": "https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/"
+                "title": "Infrastructure set-up & open-source scripts to train a 70B model from bare metal",
+                "href": "https://imbue.com/research/70b-infrastructure/"
             },
             {
                 "title": "Spudguns: Potato Cannon Guide",
@@ -835,10 +839,6 @@
                 "href": "https://pketh.org/open-sourcing-kinopio.html"
             },
             {
-                "title": "Show HN: Dorkly \u2013\u00a0Open source feature flags",
-                "href": "https://github.com/dorklyorg/dorkly/wiki"
-            },
-            {
                 "title": "Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader",
                 "href": "https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/"
             },
@@ -847,60 +847,52 @@
                 "href": "https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/"
             },
             {
-                "title": "Supercomputer-on-a-chip goes live: single PCIe card packs more than 6k cores",
-                "href": "https://www.techradar.com/pro/supercomputer-on-a-chip-goes-live-single-pcie-card-packs-more-than-6000-risc-v-cores-with-the-ability-to-scale-to-more-than-360000-cores-but-startup-still-remains-elusive-on-pricing"
-            },
-            {
-                "title": "Infrastructure set-up & open-source scripts to train a 70B model from bare metal",
-                "href": "https://imbue.com/research/70b-infrastructure/"
-            },
-            {
                 "title": "The Life Of Lithium",
                 "href": "https://www.noemamag.com/the-secret-magical-life-of-lithium/"
             },
             {
-                "title": "Gemma 2: Improving Open Language Models at a Practical Size [pdf]",
-                "href": "https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf"
+                "title": "Show HN: Dorkly \u2013\u00a0Open source feature flags",
+                "href": "https://github.com/dorklyorg/dorkly/wiki"
             },
             {
                 "title": "Git-cliff \u2013 Generate changelog from the Git history",
                 "href": "https://git-cliff.org/"
             },
             {
+                "title": "Flame Graphs: Making the opaque obvious (2017)",
+                "href": "https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/"
+            },
+            {
+                "title": "Gemma 2: Improving Open Language Models at a Practical Size [pdf]",
+                "href": "https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf"
+            },
+            {
                 "title": "200 people charged in $2.7B health care fraud crackdown",
                 "href": "https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858"
-            },
-            {
-                "title": "Geely releases new LFP battery with fast charging and energy density of 192Wh/kg",
-                "href": "https://cnevpost.com/2024/06/27/geely-releases-aegis-short-blade-battery/"
-            },
-            {
-                "title": "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
-                "href": "https://www.tesorio.com/careers#job-openings"
             },
             {
                 "title": "FDA warns top U.S. bakery not to claim foods contain allergens when they don't",
                 "href": "https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens"
             },
             {
-                "title": "Supreme Court blocks controversial Purdue Pharma opioid settlement",
-                "href": "https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/"
-            },
-            {
                 "title": "Space Ghost: Coast to Coast and the Birth of the Weird (2016)",
                 "href": "https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html"
+            },
+            {
+                "title": "Supreme Court blocks controversial Purdue Pharma opioid settlement",
+                "href": "https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/"
             },
             {
                 "title": "Igneous Linearizer: semi-structured source code",
                 "href": "https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0"
             },
             {
-                "title": "Maker of RStudio launches new R and Python IDE",
-                "href": "https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html"
+                "title": "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
+                "href": "https://www.tesorio.com/careers#job-openings"
             },
             {
-                "title": "The strategy behind Cambridge\u2019s Laboratory of Molecular Biology",
-                "href": "https://www.nature.com/articles/d41586-024-02085-2"
+                "title": "Maker of RStudio launches new R and Python IDE",
+                "href": "https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html"
             },
             {
                 "title": "CriticGPT: Finding GPT-4's mistakes with GPT-4",
@@ -909,6 +901,14 @@
             {
                 "title": "Misconceptions about loops in C",
                 "href": "https://dl.acm.org/doi/10.1145/3652588.3663324"
+            },
+            {
+                "title": "Not everything is behavioral science",
+                "href": "https://behavioralscientist.org/is-everything-bs/"
+            },
+            {
+                "title": "Lessons I Wish I Had Been Taught (1996) [pdf]",
+                "href": "https://www.ams.org/notices/199701/comm-rota.pdf"
             }
         ]
     }
