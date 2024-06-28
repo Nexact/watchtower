@@ -15,12 +15,12 @@
                 "href": "https://words.filippo.io/dispatches/xaes-256-gcm/"
             },
             {
-                "title": "Relational algebra primer",
-                "href": "https://www.relational-algebra.dev/ra-primer/introduction/"
-            },
-            {
                 "title": "My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover",
                 "href": "https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html"
+            },
+            {
+                "title": "Relational algebra primer",
+                "href": "https://www.relational-algebra.dev/ra-primer/introduction/"
             },
             {
                 "title": "Better Know A Ruby Thing: On The Use of Private Methods",
@@ -31,12 +31,20 @@
                 "href": "https://www.oilshell.org/blog/2024/06/cgi.html"
             },
             {
+                "title": "Modern cryptography on the NES",
+                "href": "https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes"
+            },
+            {
+                "title": "Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem",
+                "href": "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
+            },
+            {
                 "title": "CVE-2024-5535: `SSL_select_next_proto` buffer overread",
                 "href": "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
             },
             {
-                "title": "Modern cryptography on the NES",
-                "href": "https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes"
+                "title": "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
+                "href": "https://web.dev/case-studies/google-sheets-wasmgc"
             },
             {
                 "title": "From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source",
@@ -47,16 +55,8 @@
                 "href": "https://github.com/JonasKruckenberg/k23"
             },
             {
-                "title": "Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem",
-                "href": "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
-            },
-            {
                 "title": "Conway's game of life, in checkboxes for some reason",
                 "href": "https://huth.me/checkbox-life/"
-            },
-            {
-                "title": "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
-                "href": "https://web.dev/case-studies/google-sheets-wasmgc"
             },
             {
                 "title": "Make a Prediction",
@@ -79,8 +79,20 @@
                 "href": "https://linguister.io/"
             },
             {
+                "title": "How much memory does a call to \u2018malloc\u2019  allocates?",
+                "href": "https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/"
+            },
+            {
+                "title": "Hacking Amazon's eero 6 (part 2)",
+                "href": "https://markuta.com/eero-6-hacking-part-2/"
+            },
+            {
                 "title": "scala-3-is-yaml.scala",
                 "href": "https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701"
+            },
+            {
+                "title": "Sustaining Digital Certificate Security - Entrust Certificate Distrust",
+                "href": "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
             },
             {
                 "title": "The Smarter Way to Rust",
@@ -89,18 +101,6 @@
             {
                 "title": "Fighting Faults in Distributed Systems",
                 "href": "https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf"
-            },
-            {
-                "title": "The plan-execute pattern",
-                "href": "https://mmapped.blog/posts/29-plan-execute"
-            },
-            {
-                "title": "IPC Fuzzing Firefox with VM Snapshots",
-                "href": "https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/"
-            },
-            {
-                "title": "Differential Analysis: A Summary",
-                "href": "https://blog.brownplt.org/2024/06/27/differential-analysis.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Ultra-Processed Foods Need Tobacco-Style Warnings, Says Scientist",
+                "href": "https://science.slashdot.org/story/24/06/27/2242207/ultra-processed-foods-need-tobacco-style-warnings-says-scientist?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Japan Plans 310-Mile Conveyor Belt That Can Carry Freight of 25,000 Trucks a Day",
                 "href": "https://tech.slashdot.org/story/24/06/27/2232202/japan-plans-310-mile-conveyor-belt-that-can-carry-freight-of-25000-trucks-a-day?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Intel Unveils Optical Compute Interconnect Chiplet: Adding 4 Tbps Optical Connectivity To CPUs or GPUs",
                 "href": "https://it.slashdot.org/story/24/06/27/1649203/intel-unveils-optical-compute-interconnect-chiplet-adding-4-tbps-optical-connectivity-to-cpus-or-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Sharp Rise in Number of Climate Lawsuits Against Companies, Report Says",
-                "href": "https://science.slashdot.org/story/24/06/27/1543255/sharp-rise-in-number-of-climate-lawsuits-against-companies-report-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,10 +791,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "El Ni\u00f1o forecasts extended to 18 months with physics-based model",
-                "href": "https://phys.org/news/2024-06-el-nio-months-physics-based.html"
-            },
-            {
                 "title": "A modern 8 bit design, built using 1950s thermionic valves",
                 "href": "https://www.valve.computer/"
             },
@@ -803,28 +799,28 @@
                 "href": "https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing"
             },
             {
-                "title": "Hardware FPGA DPS-8M Mainframe and FNP Project",
-                "href": "https://dps8m.gitlab.io/blog/posts/20240622_FPGA/"
-            },
-            {
                 "title": "Launch HN: Hatchet (YC W24) \u2013 Open-source task queue, now with a cloud version",
                 "href": "item?id=40810986"
+            },
+            {
+                "title": "Hardware FPGA DPS-8M Mainframe and FNP Project",
+                "href": "https://dps8m.gitlab.io/blog/posts/20240622_FPGA/"
             },
             {
                 "title": "Spudguns: Potato Cannon Guide",
                 "href": "http://www.spudguns.org/"
             },
             {
-                "title": "Remembering Larry Finger, who made Linux wireless work",
-                "href": "https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/"
+                "title": "Navigating Starlink's FCC Paper Trail",
+                "href": "https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/"
             },
             {
                 "title": "Show HN: Dorkly \u2013\u00a0Open source feature flags",
                 "href": "https://github.com/dorklyorg/dorkly/wiki"
             },
             {
-                "title": "Navigating Starlink's FCC Paper Trail",
-                "href": "https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/"
+                "title": "Remembering Larry Finger, who made Linux wireless work",
+                "href": "https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/"
             },
             {
                 "title": "Open Sourcing Kinopio",
@@ -835,12 +831,12 @@
                 "href": "https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/"
             },
             {
-                "title": "200 people charged in $2.7B health care fraud crackdown",
-                "href": "https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858"
-            },
-            {
                 "title": "Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader",
                 "href": "https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/"
+            },
+            {
+                "title": "200 people charged in $2.7B health care fraud crackdown",
+                "href": "https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858"
             },
             {
                 "title": "The Life Of Lithium",
@@ -859,12 +855,8 @@
                 "href": "https://www.tesorio.com/careers#job-openings"
             },
             {
-                "title": "Surprise the Latest 'Comprehensive' US Privacy Bill Is Doomed",
-                "href": "https://www.wired.com/story/apra-privacy-bill-doomed/"
-            },
-            {
-                "title": "Trailer (As Opposite to HTTP Header)",
-                "href": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Trailer"
+                "title": "Everything I Knew About Stretching Was Wrong",
+                "href": "https://tylertringas.com/mobility/"
             },
             {
                 "title": "FDA warns top U.S. bakery not to claim foods contain allergens when they don't",
@@ -877,6 +869,10 @@
             {
                 "title": "Supreme Court blocks controversial Purdue Pharma opioid settlement",
                 "href": "https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/"
+            },
+            {
+                "title": "Surprise the Latest 'Comprehensive' US Privacy Bill Is Doomed",
+                "href": "https://www.wired.com/story/apra-privacy-bill-doomed/"
             },
             {
                 "title": "CriticGPT: Finding GPT-4's mistakes with GPT-4",
@@ -907,8 +903,12 @@
                 "href": "https://www.uni-heidelberg.de/en/newsroom/aromatic-compounds-a-ring-made-up-solely-of-metal-atoms"
             },
             {
-                "title": "Pulsed laser deposition at wafer level is a game changer",
-                "href": "https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/"
+                "title": "Lessons I Wish I Had Been Taught (1996) [pdf]",
+                "href": "https://www.ams.org/notices/199701/comm-rota.pdf"
+            },
+            {
+                "title": "Python grapples with Apple App Store rejections",
+                "href": "https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/"
             }
         ]
     }
