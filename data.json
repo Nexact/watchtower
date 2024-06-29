@@ -19,12 +19,20 @@
                 "href": "https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/"
             },
             {
-                "title": "Timeseries Indexing at Scale",
-                "href": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/"
+                "title": "Semantics and Scheduling for Machine Knitting Compilers",
+                "href": "https://textiles-lab.github.io/publications/2023-knitout-semantics/"
             },
             {
                 "title": "A Eulogy for DevOps",
                 "href": "https://matduggan.com/a-eulogy-for-devops/"
+            },
+            {
+                "title": "Timeseries Indexing at Scale",
+                "href": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/"
+            },
+            {
+                "title": "Bytecode Breakdown: Unraveling Factorio's Lua security flaws",
+                "href": "https://memorycorruption.net/posts/rce-lua-factorio/"
             },
             {
                 "title": "Bookmark Lists and Scoped Tagging",
@@ -35,28 +43,20 @@
                 "href": "https://www.stuartellis.name/articles/python-modern-practices/"
             },
             {
-                "title": "Bytecode Breakdown: Unraveling Factorio's Lua security flaws",
-                "href": "https://memorycorruption.net/posts/rce-lua-factorio/"
-            },
-            {
                 "title": "ICFP contest 2024",
                 "href": "https://icfpcontest2024.github.io/task.html"
-            },
-            {
-                "title": "fdrd - a statically hosted feed reader",
-                "href": "https://fdrd.mouse.community/"
             },
             {
                 "title": "code.movie Automatically turn code snippets into step-by-step animations for the web",
                 "href": "https://code.movie/"
             },
             {
-                "title": "Conway's game of life, in checkboxes for some reason",
-                "href": "https://huth.me/checkbox-life/"
+                "title": "fdrd - a statically hosted feed reader",
+                "href": "https://fdrd.mouse.community/"
             },
             {
-                "title": "Semantics and Scheduling for Machine Knitting Compilers",
-                "href": "https://textiles-lab.github.io/publications/2023-knitout-semantics/"
+                "title": "Conway's game of life, in checkboxes for some reason",
+                "href": "https://huth.me/checkbox-life/"
             },
             {
                 "title": "Keeping things in sync: derive vs test",
@@ -95,12 +95,12 @@
                 "href": "https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/"
             },
             {
-                "title": "How to evolve a product",
-                "href": "https://www.granola.so/blog/how-to-evolve-a-product"
-            },
-            {
                 "title": "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
                 "href": "https://web.dev/case-studies/google-sheets-wasmgc"
+            },
+            {
+                "title": "How to evolve a product",
+                "href": "https://www.granola.so/blog/how-to-evolve-a-product"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Meet Brain Cipher \u2014 The new ransomware behind Indonesia's data center attack",
+                "href": "https://www.bleepingcomputer.com/news/security/meet-brain-cipher-the-new-ransomware-behind-indonesia-data-center-attack/"
+            },
+            {
                 "title": "Infosys McCamish says LockBit stole data of 6 million people",
                 "href": "https://www.bleepingcomputer.com/news/security/infosys-mccamish-says-lockbit-stole-data-of-6-million-people/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Microsoft pulls Windows 11 KB5039302 update causing reboot loops",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-june-windows-11-kb5039302-update-causing-repeated-restarts/"
-            },
-            {
-                "title": "Critical GitLab bug lets attackers run pipelines as any user",
-                "href": "https://www.bleepingcomputer.com/news/security/critical-gitlab-bug-lets-attackers-run-pipelines-as-any-user/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Are 'Immortal Stars' Feasting on Dark Matter in the Milky Way's Core?",
+                "href": "https://science.slashdot.org/story/24/06/29/0252245/are-immortal-stars-feasting-on-dark-matter-in-the-milky-ways-core?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "ChatGPT Outperforms Undergrads In Intro-Level Courses, Falls Short Later",
                 "href": "https://news.slashdot.org/story/24/06/29/005233/chatgpt-outperforms-undergrads-in-intro-level-courses-falls-short-later?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Google Cuts Ties With Entrust in Chrome Over Trust Issues",
                 "href": "https://tech.slashdot.org/story/24/06/28/1646254/google-cuts-ties-with-entrust-in-chrome-over-trust-issues?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The Majority of Gen Z Describe Themselves as Video Content Creators",
-                "href": "https://news.slashdot.org/story/24/06/28/1630246/the-majority-of-gen-z-describe-themselves-as-video-content-creators?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,20 +791,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "A Bunch of Programming Advice I'd Give to Myself 15 Years Ago",
-                "href": "https://mbuffett.com/posts/programming-advice-younger-self/"
+                "title": "Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws",
+                "href": "https://memorycorruption.net/posts/rce-lua-factorio/"
             },
             {
                 "title": "A Hex Editor for Reverse Engineers",
                 "href": "https://github.com/WerWolv/ImHex"
             },
             {
-                "title": "Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws",
-                "href": "https://memorycorruption.net/posts/rce-lua-factorio/"
+                "title": "To Be Real: On Emily Nussbaum's \"Cue the Sun \"",
+                "href": "https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/"
             },
             {
-                "title": "OctoPrint's anonymous usage stats were manipulated",
-                "href": "https://octoprint.org/blog/2024/06/28/stats-manipulation/"
+                "title": "Warren Buffett donates record $5.3B Berkshire shares to charity",
+                "href": "https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/"
+            },
+            {
+                "title": "A Bunch of Programming Advice I'd Give to Myself 15 Years Ago",
+                "href": "https://mbuffett.com/posts/programming-advice-younger-self/"
             },
             {
                 "title": "The XAES-256-GCM extended-nonce AEAD",
@@ -819,16 +823,16 @@
                 "href": "https://skypath.io"
             },
             {
-                "title": "Texture Enhancement for Video Super-Resolution",
-                "href": "https://github.com/DachunKai/EvTexture"
-            },
-            {
                 "title": "Haskell Certification Program",
                 "href": "https://certification.haskell.foundation/"
             },
             {
                 "title": "Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)",
                 "href": "https://www.nango.dev/jobs"
+            },
+            {
+                "title": "Texture Enhancement for Video Super-Resolution",
+                "href": "https://github.com/DachunKai/EvTexture"
             },
             {
                 "title": "Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs",
@@ -839,12 +843,20 @@
                 "href": "https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann"
             },
             {
+                "title": "Ask HN: How Does Alexa Avoid Interrupting Itself When Saying Its Own Name?",
+                "href": "item?id=40790347"
+            },
+            {
                 "title": "Producing fuels from 1,500 degrees of solar heat",
                 "href": "https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/"
             },
             {
-                "title": "'Skeleton Key' attack unlocks the worst of AI, says Microsoft",
-                "href": "https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/"
+                "title": "B\u00e9b\u00e9 Bibliophile",
+                "href": "https://www.ymeskhout.com/p/bebe-bibliophile"
+            },
+            {
+                "title": "R1 jailbreakers find security flaw in Rabbit's code",
+                "href": "https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase"
             },
             {
                 "title": "Our Underground Future (2012)",
@@ -855,20 +867,16 @@
                 "href": "https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/"
             },
             {
-                "title": "B\u00e9b\u00e9 Bibliophile",
-                "href": "https://www.ymeskhout.com/p/bebe-bibliophile"
-            },
-            {
-                "title": "How to waste bandwidth, battery power, and annoy sysadmins",
-                "href": "https://rachelbythebay.com/w/2024/06/28/fxios/"
+                "title": "Entrust Certificate Distrust",
+                "href": "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
             },
             {
                 "title": "Meta LLM Compiler: neural optimizer and disassembler",
                 "href": "https://twitter.com/AIatMeta/status/1806361623831171318/photo/1"
             },
             {
-                "title": "Entrust Certificate Distrust",
-                "href": "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
+                "title": "How to waste bandwidth, battery power, and annoy sysadmins",
+                "href": "https://rachelbythebay.com/w/2024/06/28/fxios/"
             },
             {
                 "title": "Category theory using string diagrams (2014)",
@@ -883,32 +891,24 @@
                 "href": "https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/"
             },
             {
-                "title": "Software galaxies",
-                "href": "https://anvaka.github.io/pm/"
-            },
-            {
-                "title": "Will we ever get fusion power?",
-                "href": "https://www.construction-physics.com/p/will-we-ever-get-fusion-power"
-            },
-            {
                 "title": "It's getting harder to die",
                 "href": "https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die"
-            },
-            {
-                "title": "Quaternion Differentiation (2012)",
-                "href": "https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/"
             },
             {
                 "title": "Do I Regret Being 'Just' a Software Engineer?",
                 "href": "https://www.jacky.wtf/essays/2024/regrets-with-tech/"
             },
             {
-                "title": "Ask HN: What is the best code base you ever worked on?",
-                "href": "item?id=40818809"
+                "title": "Will we ever get fusion power?",
+                "href": "https://www.construction-physics.com/p/will-we-ever-get-fusion-power"
             },
             {
-                "title": "New ways to catch gravitational waves",
-                "href": "https://www.nature.com/articles/d41586-024-02003-6"
+                "title": "Software galaxies",
+                "href": "https://anvaka.github.io/pm/"
+            },
+            {
+                "title": "Quaternion Differentiation (2012)",
+                "href": "https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/"
             }
         ]
     }
