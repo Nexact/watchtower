@@ -11,12 +11,12 @@
                 "href": "https://www.stuartellis.name/articles/python-modern-practices/"
             },
             {
-                "title": "fdrd - a statically hosted feed reader",
-                "href": "https://fdrd.mouse.community/"
-            },
-            {
                 "title": "Timeseries Indexing at Scale",
                 "href": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/"
+            },
+            {
+                "title": "fdrd - a statically hosted feed reader",
+                "href": "https://fdrd.mouse.community/"
             },
             {
                 "title": "Conway's game of life, in checkboxes for some reason",
@@ -31,12 +31,24 @@
                 "href": "https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701"
             },
             {
+                "title": "Keeping things in sync: derive vs test",
+                "href": "https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/"
+            },
+            {
                 "title": "What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?",
                 "href": "https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve"
             },
             {
                 "title": "Python still surprises",
                 "href": "https://kivikakk.ee/2024/06/27/python-still-surprises/"
+            },
+            {
+                "title": "making regex from scratch in GO",
+                "href": "https://lewismetcalf.com/series/making-regex-from-scratch-in-go/"
+            },
+            {
+                "title": "Hacking Amazon's eero 6 (part 1)",
+                "href": "https://markuta.com/eero-6-hacking-part-1/"
             },
             {
                 "title": "How much memory does a call to \u2018malloc\u2019  allocates?",
@@ -47,36 +59,24 @@
                 "href": "https://portal.gitnation.org/contents/building-a-js-engine-for-fun"
             },
             {
-                "title": "making regex from scratch in GO",
-                "href": "https://lewismetcalf.com/series/making-regex-from-scratch-in-go/"
-            },
-            {
                 "title": "How to evolve a product",
                 "href": "https://www.granola.so/blog/how-to-evolve-a-product"
-            },
-            {
-                "title": "Keeping things in sync: derive vs test",
-                "href": "https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/"
-            },
-            {
-                "title": "code.movie Automatically turn code snippets into step-by-step animations for the web",
-                "href": "https://code.movie/"
             },
             {
                 "title": "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
                 "href": "https://web.dev/case-studies/google-sheets-wasmgc"
             },
             {
-                "title": "Adding parallel evaluation to Nix",
-                "href": "https://determinate.systems/posts/parallel-nix-eval"
-            },
-            {
-                "title": "Hacking Amazon's eero 6 (part 1)",
-                "href": "https://markuta.com/eero-6-hacking-part-1/"
+                "title": "code.movie Automatically turn code snippets into step-by-step animations for the web",
+                "href": "https://code.movie/"
             },
             {
                 "title": "Mix-testing: revealing a new class of compiler bugs",
                 "href": "https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/"
+            },
+            {
+                "title": "Adding parallel evaluation to Nix",
+                "href": "https://determinate.systems/posts/parallel-nix-eval"
             },
             {
                 "title": "Relational algebra primer",
@@ -315,6 +315,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Apple Vision Pro Launches In First Countries Outside the US",
+                "href": "https://apple.slashdot.org/story/24/06/28/2213220/apple-vision-pro-launches-in-first-countries-outside-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Appeals Court Seems Lost On How Internet Archive Harms Publishers",
+                "href": "https://yro.slashdot.org/story/24/06/28/2158237/appeals-court-seems-lost-on-how-internet-archive-harms-publishers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Nearly 4,000 Arrested In Global Police Crackdown On Online Scam Networks",
                 "href": "https://yro.slashdot.org/story/24/06/28/2146203/nearly-4000-arrested-in-global-police-crackdown-on-online-scam-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,14 +373,6 @@
             {
                 "title": "Amazon Is Investigating Perplexity Over Claims of Scraping Abuse",
                 "href": "https://yro.slashdot.org/story/24/06/28/1243239/amazon-is-investigating-perplexity-over-claims-of-scraping-abuse?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microsoft Informs Customers that Russian Hackers Spied on Emails",
-                "href": "https://yro.slashdot.org/story/24/06/28/1319219/microsoft-informs-customers-that-russian-hackers-spied-on-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Remote Access Giant TeamViewer Says Russian Spies Hacked Its Corporate Network",
-                "href": "https://it.slashdot.org/story/24/06/28/1335221/remote-access-giant-teamviewer-says-russian-spies-hacked-its-corporate-network?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,84 +791,80 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The story, as best I can remember, of the origin of Mosaic and Netscape [video]",
-                "href": "https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember"
+                "title": "A Eulogy for DevOps",
+                "href": "https://matduggan.com/a-eulogy-for-devops/"
             },
             {
-                "title": "Migrating from Java 8 to Java 17 II: Notable API Changes Since Java 8",
-                "href": "https://igorstechnoclub.com/notable-api-changes-in-java-from-version-8-to-17/"
+                "title": "The story, as best I can remember, of the origin of Mosaic and Netscape [video]",
+                "href": "https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember"
             },
             {
                 "title": "New ways to catch gravitational waves",
                 "href": "https://www.nature.com/articles/d41586-024-02003-6"
             },
             {
-                "title": "T-Mobile users enraged as \"Un-carrier\" breaks promise to never raise prices",
-                "href": "https://arstechnica.com/tech-policy/2024/06/t-mobile-users-enraged-as-un-carrier-breaks-promise-to-never-raise-prices/"
+                "title": "The loneliness of the low-ranking tennis player",
+                "href": "https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player"
             },
             {
                 "title": "Meta LLM Compiler: neural optimizer and disassembler",
                 "href": "https://twitter.com/AIatMeta/status/1806361623831171318/photo/1"
             },
             {
-                "title": "Show HN: Focal, a Pomodoro App",
-                "href": "https://aabiji.github.io/focal/"
-            },
-            {
-                "title": "The loneliness of the low-ranking tennis player",
-                "href": "https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player"
-            },
-            {
-                "title": "Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code",
-                "href": "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx"
-            },
-            {
                 "title": "Everything You Should Know about the Legendary Valjoux 7750 Chronograph Movement",
                 "href": "https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/"
             },
             {
-                "title": "Einstein and his peers were resistant to black holes",
-                "href": "https://www.bbc.com/future/article/20240619-why-albert-einstein-rejected-black-holes-singularities-illustrated-story"
+                "title": "What is a CIDR trie and how can it help you?",
+                "href": "https://d34dl0ck.me/rust-bites-cidr-trie/index.html"
             },
             {
-                "title": "Paramount Wipes South Park, Daily Show Clips, and More from Websites",
-                "href": "https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/"
-            },
-            {
-                "title": "Is Clear Air Turbulence becoming more common?",
-                "href": "https://www.flightradar24.com/blog/is-cat-more-common/"
+                "title": "Show HN: Focal, a Pomodoro App",
+                "href": "https://aabiji.github.io/focal/"
             },
             {
                 "title": "Ask HN: What is the best code base you ever worked on?",
                 "href": "item?id=40818809"
             },
             {
-                "title": "Pompeii fixed potholes with molten iron (2019)",
-                "href": "https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/"
-            },
-            {
-                "title": "Out of sight, 'dark fungi' run the world from the shadows",
-                "href": "https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/"
+                "title": "Is Clear Air Turbulence becoming more common?",
+                "href": "https://www.flightradar24.com/blog/is-cat-more-common/"
             },
             {
                 "title": "Entrust Certificate Distrust",
                 "href": "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
             },
             {
-                "title": "Software galaxies",
-                "href": "https://anvaka.github.io/pm/"
+                "title": "Out of sight, 'dark fungi' run the world from the shadows",
+                "href": "https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/"
             },
             {
-                "title": "Supreme Court overturns 40-year-old \"Chevron deference\" doctrine",
-                "href": "https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling"
+                "title": "Einstein and his peers were resistant to black holes",
+                "href": "https://www.bbc.com/future/article/20240619-why-albert-einstein-rejected-black-holes-singularities-illustrated-story"
+            },
+            {
+                "title": "Show HN: Thermion, an open source 3D rendering toolkit for Flutter and/or Dart",
+                "href": "https://thermion.dev"
+            },
+            {
+                "title": "Software galaxies",
+                "href": "https://anvaka.github.io/pm/"
             },
             {
                 "title": "Quaternion Differentiation (2012)",
                 "href": "https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/"
             },
             {
-                "title": "Apple II graphics: More than you wanted to know",
-                "href": "https://nicole.express/2024/phasing-in-and-out-of-existence.html"
+                "title": "Pompeii fixed potholes with molten iron (2019)",
+                "href": "https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/"
+            },
+            {
+                "title": "Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code",
+                "href": "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx"
+            },
+            {
+                "title": "Supreme Court overturns 40-year-old \"Chevron deference\" doctrine",
+                "href": "https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling"
             },
             {
                 "title": "ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot",
@@ -879,36 +875,40 @@
                 "href": "https://cryptography.dog/blog/rng-day-2024/"
             },
             {
+                "title": "Apple II graphics: More than you wanted to know",
+                "href": "https://nicole.express/2024/phasing-in-and-out-of-existence.html"
+            },
+            {
                 "title": "Llama-agents: an async-first framework for building production ready agents",
                 "href": "https://github.com/run-llama/llama-agents"
             },
             {
-                "title": "Substack (YC W18) is hiring systems engineers",
-                "href": "https://grnh.se/4f362fed5us"
-            },
-            {
-                "title": "What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?",
-                "href": "https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve"
-            },
-            {
-                "title": "Discovered June 16th, large asteroid to pass between Earth and moon on Saturday",
-                "href": "https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336"
-            },
-            {
-                "title": "The Bleak Genius of Michel Foucault",
-                "href": "https://www.compactmag.com/article/the-bleak-genius-of-michel-foucault/"
-            },
-            {
-                "title": "The Origins of Yiddish (2014)",
-                "href": "https://www.tabletmag.com/sections/arts-letters/articles/yiddishland"
+                "title": "Will we ever get fusion power?",
+                "href": "https://www.construction-physics.com/p/will-we-ever-get-fusion-power"
             },
             {
                 "title": "Show HN: A Modern Palletization App",
                 "href": "https://github.com/VladM7/Stack-Solver"
             },
             {
-                "title": "Will we ever get fusion power?",
-                "href": "https://www.construction-physics.com/p/will-we-ever-get-fusion-power"
+                "title": "What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?",
+                "href": "https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve"
+            },
+            {
+                "title": "Substack (YC W18) is hiring systems engineers",
+                "href": "https://grnh.se/4f362fed5us"
+            },
+            {
+                "title": "Discovered June 16th, large asteroid to pass between Earth and moon on Saturday",
+                "href": "https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336"
+            },
+            {
+                "title": "The Origins of Yiddish (2014)",
+                "href": "https://www.tabletmag.com/sections/arts-letters/articles/yiddishland"
+            },
+            {
+                "title": "Git-cliff \u2013 Generate changelog from the Git history",
+                "href": "https://git-cliff.org/"
             }
         ]
     }
