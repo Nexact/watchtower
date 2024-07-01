@@ -7,24 +7,24 @@
                 "href": "https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e"
             },
             {
-                "title": "proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them",
-                "href": "https://github.com/virchau13/proxy-proxy-proxyer/"
-            },
-            {
                 "title": "Code Reviews Do Find Bugs",
                 "href": "https://two-wrongs.com/code-reviews-do-find-bugs.html"
+            },
+            {
+                "title": "proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them",
+                "href": "https://github.com/virchau13/proxy-proxy-proxyer/"
             },
             {
                 "title": "ed(1) semantics",
                 "href": "http://blog.syncpup.com/posts/ed-semantics.html"
             },
             {
-                "title": "The Life of Lil",
-                "href": "https://beyondloom.com/blog/life.html"
+                "title": "regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)",
+                "href": "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
             },
             {
-                "title": "Playing 1080p H.264 video on my old 256 MB Raspberry Pi",
-                "href": "https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/"
+                "title": "The Life of Lil",
+                "href": "https://beyondloom.com/blog/life.html"
             },
             {
                 "title": "A Better Merge Workflow with Jujutsu",
@@ -35,6 +35,10 @@
                 "href": "https://emacsconf.org/2024/cfp/"
             },
             {
+                "title": "Playing 1080p H.264 video on my old 256 MB Raspberry Pi",
+                "href": "https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/"
+            },
+            {
                 "title": "Plaintext is not a great format for (system) logs",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat"
             },
@@ -43,12 +47,24 @@
                 "href": "https://imhex.werwolv.net/"
             },
             {
+                "title": "Cubernetes",
+                "href": "https://justingarrison.com/blog/2022-07-06-cubernetes/"
+            },
+            {
                 "title": "Inside a 1 dollar radar motion sensor",
                 "href": "https://10maurycy10.github.io/projects/motion_sensor_hacking/"
             },
             {
+                "title": "The largest number representable in 64 bits",
+                "href": "https://tromp.github.io/blog/2023/11/24/largest-number"
+            },
+            {
                 "title": "Integrated assembler improvements in LLVM 19",
                 "href": "https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19"
+            },
+            {
+                "title": "Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets",
+                "href": "https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/"
             },
             {
                 "title": "Four lines of code \u2026 it was four lines of code",
@@ -59,24 +75,12 @@
                 "href": "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
             },
             {
-                "title": "The largest number representable in 64 bits",
-                "href": "https://tromp.github.io/blog/2023/11/24/largest-number"
-            },
-            {
                 "title": "Weekend projects: getting silly with C",
                 "href": "https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with"
             },
             {
-                "title": "Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets",
-                "href": "https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/"
-            },
-            {
                 "title": "An Experienced (Neo)Vimmer's Workflow",
                 "href": "https://seniormars.com/posts/neovim-workflow/"
-            },
-            {
-                "title": "Cubernetes",
-                "href": "https://justingarrison.com/blog/2022-07-06-cubernetes/"
             },
             {
                 "title": "Below MI - IBM i for Hackers",
@@ -97,10 +101,6 @@
             {
                 "title": "Eight versions of UUID and when to use them",
                 "href": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions"
-            },
-            {
-                "title": "jank gets multimethods",
-                "href": "https://jank-lang.org/blog/2024-06-29-multimethods/"
             }
         ]
     },
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q2 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
+            },
+            {
+                "title": "regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)",
+                "href": "https://www.reddit.com/r/netsec/comments/1dsofck/regresshion_rce_in_opensshs_server_on_glibcbased/"
             },
             {
                 "title": "CVE-2024-27292: docAssembling exploits for RCE",
@@ -206,10 +210,6 @@
             {
                 "title": "Understanding Protected Management Frames",
                 "href": "https://www.reddit.com/r/netsec/comments/1dmj2ii/understanding_protected_management_frames/"
-            },
-            {
-                "title": "Zip Slip meets Artifactory: A Bug Bounty Story",
-                "href": "https://www.reddit.com/r/netsec/comments/1dmjg17/zip_slip_meets_artifactory_a_bug_bounty_story/"
             }
         ]
     },
@@ -795,12 +795,28 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Cities Need More Trees",
+                "href": "https://herman.bearblog.dev/cities-need-more-trees/"
+            },
+            {
+                "title": "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
+                "href": "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
+            },
+            {
                 "title": "Pipes: A spiritual successor to Yahoo Pipes",
                 "href": "https://www.pipes.digital/docs"
             },
             {
                 "title": "Programmers Should Never Trust Anyone, Not Even Themselves",
                 "href": "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html"
+            },
+            {
+                "title": "Four lines of code it was four lines of code",
+                "href": "https://boston.conman.org/2024/06/30.1"
+            },
+            {
+                "title": "Show HN: An open-source alternative to Bitly",
+                "href": "https://github.com/ccbikai/Sink"
             },
             {
                 "title": "Integrated assembler improvements in LLVM 19",
@@ -815,36 +831,28 @@
                 "href": "https://www.ericpfahl.com/from-pattern-matching-to-unification/"
             },
             {
-                "title": "Four lines of code it was four lines of code",
-                "href": "https://boston.conman.org/2024/06/30.1"
-            },
-            {
-                "title": "Quaternions in Signal and Image Processing",
-                "href": "https://ieeexplore.ieee.org/document/10243497"
+                "title": "Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample",
+                "href": "https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/"
             },
             {
                 "title": "A Model of a Mind",
                 "href": "https://tylerneylon.com/a/mind_model/mind_model.html"
             },
             {
-                "title": "Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample",
-                "href": "https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/"
+                "title": "Quaternions in Signal and Image Processing",
+                "href": "https://ieeexplore.ieee.org/document/10243497"
             },
             {
                 "title": "Newswire: A large-scale structured database of a century of historical news",
                 "href": "https://arxiv.org/abs/2406.09490"
             },
             {
+                "title": "Falsehoods Software Developers Believe About Event-Driven Systems",
+                "href": "https://dimtion.fr/blog/falsehoods-event-driven/"
+            },
+            {
                 "title": "How to get root access to your Sleep Number bed",
                 "href": "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
-            },
-            {
-                "title": "LosslessCut: The Swiss army knife of lossless video/audio editing",
-                "href": "https://github.com/mifi/lossless-cut"
-            },
-            {
-                "title": "Butterflies flew 2,600 miles across the Atlantic without stopping",
-                "href": "https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/"
             },
             {
                 "title": "The physics of airplane flight",
@@ -855,8 +863,8 @@
                 "href": "https://ofcr.se/jujutsu-merge-workflow"
             },
             {
-                "title": "Art and Artifice",
-                "href": "https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/"
+                "title": "Pumped-storage hydroelectricity",
+                "href": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity"
             },
             {
                 "title": "Chaos Engineering in Front End Development: Enhancing Application Resilience",
@@ -867,48 +875,40 @@
                 "href": "https://mental-reverb.com/blog.php?id=29"
             },
             {
-                "title": "How Google migrated billions of lines of code from Perforce to Piper",
-                "href": "https://graphite.dev/blog/google-perforce-to-piper-migration"
-            },
-            {
-                "title": "Show HN: BerqWP \u2013 Automatically Optimize Core Web Vitals for WordPress",
-                "href": "https://berqwp.com/"
-            },
-            {
-                "title": "Pumped-storage hydroelectricity",
-                "href": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity"
+                "title": "Art and Artifice",
+                "href": "https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/"
             },
             {
                 "title": "Writing GUI apps for Windows is painful",
                 "href": "https://tulach.cc/writing-gui-apps-for-windows-is-painful/"
             },
             {
-                "title": "Can a law make social media less 'addictive'?",
-                "href": "https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive"
+                "title": "A simplified Python simulation of diffusion",
+                "href": "https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle"
             },
             {
                 "title": "Show HN: Drop-in SQS replacement based on SQLite",
                 "href": "https://github.com/poundifdef/SmoothMQ"
             },
             {
-                "title": "A simplified Python simulation of diffusion",
-                "href": "https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle"
+                "title": "Can a law make social media less 'addictive'?",
+                "href": "https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive"
             },
             {
-                "title": "Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier",
-                "href": "https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html"
+                "title": "An Open Letter to the United Nations",
+                "href": "https://open-internet-governance.org/letter"
             },
             {
-                "title": "The super effectiveness of Pok\u00e9mon embeddings using only raw JSON and images",
-                "href": "https://minimaxir.com/2024/06/pokemon-embeddings/"
+                "title": "How Google migrated billions of lines of code from Perforce to Piper",
+                "href": "https://graphite.dev/blog/google-perforce-to-piper-migration"
             },
             {
                 "title": "Bitmovin (YC S15) is hiring video solution architects in the US",
                 "href": "https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002"
             },
             {
-                "title": "Userland rootkits are lame (2022)",
-                "href": "https://grugq.substack.com/p/userland-rootkits-are-lame"
+                "title": "Show HN: BerqWP \u2013 Automatically Optimize Core Web Vitals for WordPress",
+                "href": "https://berqwp.com/"
             },
             {
                 "title": "Matters Computational [pdf]",
