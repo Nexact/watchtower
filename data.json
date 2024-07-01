@@ -35,8 +35,20 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat"
             },
             {
+                "title": "A Better Merge Workflow with Jujutsu",
+                "href": "https://ofcr.se/jujutsu-merge-workflow"
+            },
+            {
                 "title": "Inside a 1 dollar radar motion sensor",
                 "href": "https://10maurycy10.github.io/projects/motion_sensor_hacking/"
+            },
+            {
+                "title": "Integrated assembler improvements in LLVM 19",
+                "href": "https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19"
+            },
+            {
+                "title": "Code Reviews Do Find Bugs",
+                "href": "https://two-wrongs.com/code-reviews-do-find-bugs.html"
             },
             {
                 "title": "Four lines of code \u2026 it was four lines of code",
@@ -47,20 +59,20 @@
                 "href": "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
             },
             {
-                "title": "Integrated assembler improvements in LLVM 19",
-                "href": "https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19"
-            },
-            {
                 "title": "The largest number representable in 64 bits",
                 "href": "https://tromp.github.io/blog/2023/11/24/largest-number"
+            },
+            {
+                "title": "Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets",
+                "href": "https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/"
             },
             {
                 "title": "Weekend projects: getting silly with C",
                 "href": "https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with"
             },
             {
-                "title": "A Better Merge Workflow with Jujutsu",
-                "href": "https://ofcr.se/jujutsu-merge-workflow"
+                "title": "An Experienced (Neo)Vimmer's Workflow",
+                "href": "https://seniormars.com/posts/neovim-workflow/"
             },
             {
                 "title": "Below MI - IBM i for Hackers",
@@ -73,14 +85,6 @@
             {
                 "title": "More MS OS/2 2.0",
                 "href": "http://www.os2museum.com/wp/more-ms-os-2-2-0/"
-            },
-            {
-                "title": "An Experienced (Neo)Vimmer's Workflow",
-                "href": "https://seniormars.com/posts/neovim-workflow/"
-            },
-            {
-                "title": "Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets",
-                "href": "https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/"
             },
             {
                 "title": "SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency",
@@ -97,10 +101,6 @@
             {
                 "title": "ChatGPT is bullshit",
                 "href": "https://link.springer.com/article/10.1007/s10676-024-09775-5"
-            },
-            {
-                "title": "The State of Email By:  Michael Lucas",
-                "href": "https://m.youtube.com/watch?v=HT3N8YWaGsg"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Postviewer V3 - Racing All The Way To Glory (Google CTF)",
                 "href": "https://www.reddit.com/r/netsec/comments/1dsb9ri/postviewer_v3_racing_all_the_way_to_glory_google/"
+            },
+            {
+                "title": "CVE-2024-27292: docAssembling exploits for RCE",
+                "href": "https://www.reddit.com/r/netsec/comments/1dsmylf/cve202427292_docassembling_exploits_for_rce/"
             },
             {
                 "title": "Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws",
@@ -206,10 +210,6 @@
             {
                 "title": "Zip Slip meets Artifactory: A Bug Bounty Story",
                 "href": "https://www.reddit.com/r/netsec/comments/1dmjg17/zip_slip_meets_artifactory_a_bug_bounty_story/"
-            },
-            {
-                "title": "Reverse Engineering and Exploiting Augentix System on Chip Unicorn Binary",
-                "href": "https://www.reddit.com/r/netsec/comments/1dlgh03/reverse_engineering_and_exploiting_augentix/"
             }
         ]
     },
@@ -795,44 +795,52 @@
                 "href": "https://www.pipes.digital/docs"
             },
             {
+                "title": "Programmers Should Never Trust Anyone, Not Even Themselves",
+                "href": "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html"
+            },
+            {
                 "title": "Convolutions, Fast Fourier Transform and polynomials (2022)",
                 "href": "https://www.alvarorevuelta.com/posts/fft-polynomials"
-            },
-            {
-                "title": "Integrated assembler improvements in LLVM 19",
-                "href": "https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19"
-            },
-            {
-                "title": "Show HN: Drop-in SQS replacement based on SQLite",
-                "href": "https://github.com/poundifdef/SmoothMQ"
-            },
-            {
-                "title": "A Model of a Mind",
-                "href": "https://tylerneylon.com/a/mind_model/mind_model.html"
             },
             {
                 "title": "Unification in Elixir",
                 "href": "https://www.ericpfahl.com/from-pattern-matching-to-unification/"
             },
             {
-                "title": "Programmers Should Never Trust Anyone, Not Even Themselves",
-                "href": "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html"
+                "title": "Show HN: Drop-in SQS replacement based on SQLite",
+                "href": "https://github.com/poundifdef/SmoothMQ"
+            },
+            {
+                "title": "Integrated assembler improvements in LLVM 19",
+                "href": "https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19"
+            },
+            {
+                "title": "A Model of a Mind",
+                "href": "https://tylerneylon.com/a/mind_model/mind_model.html"
             },
             {
                 "title": "Newswire: A large-scale structured database of a century of historical news",
                 "href": "https://arxiv.org/abs/2406.09490"
             },
             {
-                "title": "How to get root access to your Sleep Number bed",
-                "href": "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
-            },
-            {
                 "title": "Four lines of code it was four lines of code",
                 "href": "https://boston.conman.org/2024/06/30.1"
             },
             {
+                "title": "How to get root access to your Sleep Number bed",
+                "href": "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
+            },
+            {
                 "title": "LosslessCut: The Swiss army knife of lossless video/audio editing",
                 "href": "https://github.com/mifi/lossless-cut"
+            },
+            {
+                "title": "Quaternions in Signal and Image Processing",
+                "href": "https://ieeexplore.ieee.org/document/10243497"
+            },
+            {
+                "title": "How Google migrated billions of lines of code from Perforce to Piper",
+                "href": "https://graphite.dev/blog/google-perforce-to-piper-migration"
             },
             {
                 "title": "The physics of airplane flight",
@@ -847,8 +855,12 @@
                 "href": "https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/"
             },
             {
-                "title": "How Google migrated billions of lines of code from Perforce to Piper",
-                "href": "https://graphite.dev/blog/google-perforce-to-piper-migration"
+                "title": "A Better Merge Workflow with Jujutsu",
+                "href": "https://ofcr.se/jujutsu-merge-workflow"
+            },
+            {
+                "title": "Can a law make social media less 'addictive'?",
+                "href": "https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive"
             },
             {
                 "title": "Chaos Engineering in Front End Development: Enhancing Application Resilience",
@@ -859,12 +871,12 @@
                 "href": "https://mental-reverb.com/blog.php?id=29"
             },
             {
-                "title": "Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample",
-                "href": "https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/"
-            },
-            {
                 "title": "Writing GUI apps for Windows is painful",
                 "href": "https://tulach.cc/writing-gui-apps-for-windows-is-painful/"
+            },
+            {
+                "title": "Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample",
+                "href": "https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/"
             },
             {
                 "title": "Matters Computational [pdf]",
@@ -891,24 +903,12 @@
                 "href": "https://textiles-lab.github.io/publications/2023-knitout-semantics/"
             },
             {
-                "title": "Postzegelcode",
-                "href": "https://en.wikipedia.org/wiki/Postzegelcode"
-            },
-            {
-                "title": "Can a law make social media less 'addictive'?",
-                "href": "https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive"
-            },
-            {
-                "title": "Computational Life: How self-replicating programs emerge from simple interaction",
-                "href": "https://arxiv.org/abs/2406.19108"
-            },
-            {
                 "title": "Bitmovin (YC S15) is hiring video solution architects in the US",
                 "href": "https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002"
             },
             {
-                "title": "Below MI \u2013 IBM i for hackers",
-                "href": "https://silentsignal.github.io/BelowMI/"
+                "title": "Postzegelcode",
+                "href": "https://en.wikipedia.org/wiki/Postzegelcode"
             }
         ]
     }
