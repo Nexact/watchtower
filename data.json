@@ -39,6 +39,10 @@
                 "href": "https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html"
             },
             {
+                "title": "CRCs and Reed-Solomon coding: better together",
+                "href": "https://mazzo.li/posts/rs-crc.html"
+            },
+            {
                 "title": "Doggo \u2013 DNS client for the command line",
                 "href": "https://doggo.mrkaran.dev/docs/"
             },
@@ -47,16 +51,24 @@
                 "href": "https://cprimozic.net/blog/trying-out-kans/"
             },
             {
-                "title": "CRCs and Reed-Solomon coding: better together",
-                "href": "https://mazzo.li/posts/rs-crc.html"
-            },
-            {
                 "title": "pwr - paced web reader",
                 "href": "https://muxup.com/pwr"
             },
             {
                 "title": "IronBeetle with matklad",
                 "href": "https://www.youtube.com/playlist?list=PL9eL-xg48OM3pnVqFSRyBFleHtBBw-nmZ"
+            },
+            {
+                "title": "When the CRC and the TCP checksum disagree",
+                "href": "http://conferences.sigcomm.org/sigcomm/2000/conf/paper/sigcomm2000-9-1.pdf"
+            },
+            {
+                "title": "Do we fear the serializable isolation level more than we fear subtle bugs?",
+                "href": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609"
+            },
+            {
+                "title": "HardenedBSD June 2024 status report",
+                "href": "https://hardenedbsd.org/article/shawn-webb/2024-07-01/hardenedbsd-june-2024-status-report"
             },
             {
                 "title": "Cooperative Interruption of a Thread in C++20",
@@ -83,24 +95,12 @@
                 "href": "https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/"
             },
             {
-                "title": "proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them",
-                "href": "https://github.com/virchau13/proxy-proxy-proxyer/"
-            },
-            {
-                "title": "Psycopg 3.2 released",
-                "href": "https://www.psycopg.org/articles/2024/06/30/psycopg-32-released/"
-            },
-            {
-                "title": "Cubernetes",
-                "href": "https://justingarrison.com/blog/2022-07-06-cubernetes/"
-            },
-            {
                 "title": "Speech-to-text, Text-to-speech, and Speaker recognition on device",
                 "href": "https://github.com/k2-fsa/sherpa-onnx"
             },
             {
-                "title": "ed(1) semantics",
-                "href": "http://blog.syncpup.com/posts/ed-semantics.html"
+                "title": "proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them",
+                "href": "https://github.com/virchau13/proxy-proxy-proxyer/"
             }
         ]
     },
@@ -799,12 +799,16 @@
                 "href": "https://ladybird.org/index.html"
             },
             {
-                "title": "Mako \u2013 fast, production-grade web bundler based on Rust",
-                "href": "https://makojs.dev/blog/mako-open-sourced"
+                "title": "Htmx does not play well with content security policy",
+                "href": "https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/"
             },
             {
                 "title": "Diff-pdf: tool to visually compare two PDFs",
                 "href": "https://github.com/vslavik/diff-pdf"
+            },
+            {
+                "title": "Mako \u2013 fast, production-grade web bundler based on Rust",
+                "href": "https://makojs.dev/blog/mako-open-sourced"
             },
             {
                 "title": "DETRs Beat YOLOs on Real-Time Object Detection",
@@ -831,32 +835,40 @@
                 "href": "https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation"
             },
             {
-                "title": "An unexpected journey into Microsoft Defender's signature World",
-                "href": "https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world"
-            },
-            {
                 "title": "Show HN: Doggo \u2013 A powerful, human-friendly DNS client for the command line",
                 "href": "https://doggo.mrkaran.dev/docs/"
             },
             {
-                "title": "Reflection for C++26",
-                "href": "https://isocpp.org/files/papers/P2996R4.html"
+                "title": "An unexpected journey into Microsoft Defender's signature World",
+                "href": "https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world"
             },
             {
                 "title": "Pattern of brain damage is pervasive in Navy SEALs who died by suicide",
                 "href": "https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html"
             },
             {
-                "title": "A proof of proof by infinite descent",
-                "href": "http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html"
+                "title": "Matt Klein on the cozy corners of the internet",
+                "href": "https://blog.mozilla.org/en/internet-culture/matt-klein-the-tiny-awards/"
+            },
+            {
+                "title": "Reflection for C++26",
+                "href": "https://isocpp.org/files/papers/P2996R4.html"
             },
             {
                 "title": "Ask HN: Who wants to be hired? (July 2024)",
                 "href": "item?id=40846426"
             },
             {
+                "title": "A proof of proof by infinite descent",
+                "href": "http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html"
+            },
+            {
                 "title": "My Python code is a neural network",
                 "href": "https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/"
+            },
+            {
+                "title": "Tech went from free love to pay-per-click",
+                "href": "https://www.theregister.com/2024/07/02/foss_ai_blockchain/"
             },
             {
                 "title": "Conway's Game of Life for curved surfaces (2012)",
@@ -867,24 +879,20 @@
                 "href": "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
             },
             {
-                "title": "When RAND made magic in Santa Monica",
-                "href": "https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica"
-            },
-            {
                 "title": "Weavers and Concluders: Two communication styles (2021)",
                 "href": "https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/"
             },
             {
-                "title": "Microsoft Updated Phi-3",
-                "href": "https://twitter.com/reach_vb/status/1808056108319179012"
-            },
-            {
-                "title": "Matt Klein on the cozy corners of the internet",
-                "href": "https://blog.mozilla.org/en/internet-culture/matt-klein-the-tiny-awards/"
+                "title": "When RAND made magic in Santa Monica",
+                "href": "https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica"
             },
             {
                 "title": "A better merge workflow with Jujutsu",
                 "href": "https://ofcr.se/jujutsu-merge-workflow"
+            },
+            {
+                "title": "Microsoft Updated Phi-3",
+                "href": "https://twitter.com/reach_vb/status/1808056108319179012"
             },
             {
                 "title": "Pumped-storage hydroelectricity",
@@ -903,16 +911,8 @@
                 "href": "https://pikimov.com/"
             },
             {
-                "title": "The cutest monopoly: Koala Kare",
-                "href": "https://thehustle.co/originals/the-worlds-cutest-monopoly"
-            },
-            {
                 "title": "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
                 "href": "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
-            },
-            {
-                "title": "Working Title (Insurance)",
-                "href": "https://www.bitsaboutmoney.com/archive/working-title-insurance/"
             }
         ]
     }
