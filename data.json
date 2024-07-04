@@ -11,12 +11,20 @@
                 "href": "https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612"
             },
             {
-                "title": "Reasons to use your shell's job control",
-                "href": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/"
+                "title": "Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise",
+                "href": "https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/"
             },
             {
                 "title": "Against Innovation Tokens",
                 "href": "https://blog.glyph.im/2024/07/against-innovation-tokens.html"
+            },
+            {
+                "title": "A Git story: Not so fun this time",
+                "href": "https://blog.brachiosoft.com/en/posts/git/"
+            },
+            {
+                "title": "Reasons to use your shell's job control",
+                "href": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/"
             },
             {
                 "title": "On the origins of DS_store (2006)",
@@ -27,20 +35,20 @@
                 "href": "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html"
             },
             {
-                "title": "Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise",
-                "href": "https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/"
-            },
-            {
-                "title": "A Git story: Not so fun this time",
-                "href": "https://blog.brachiosoft.com/en/posts/git/"
-            },
-            {
                 "title": "Quality and productivity are not necessarily mutually exclusive",
                 "href": "https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html"
             },
             {
                 "title": "Ready Player Mode",
                 "href": "https://lmno.lol/alvaro/ready-player-mode"
+            },
+            {
+                "title": "Connecting Python and Rust with PyO3",
+                "href": "https://youtu.be/UmL_CA-v3O8"
+            },
+            {
+                "title": "Making a Linux-managed network switch",
+                "href": "https://blog.brixit.nl/making-a-linux-managed-network-switch/"
             },
             {
                 "title": "Sidekiq 7.3.0: Job Iteration",
@@ -51,16 +59,16 @@
                 "href": "https://corecursive.com/building-powershell-with-jeffrey-snover/"
             },
             {
-                "title": "Making a Linux-managed network switch",
-                "href": "https://blog.brixit.nl/making-a-linux-managed-network-switch/"
-            },
-            {
                 "title": "QR Cube -- projections of this cube give 6 QR codes with different messages",
                 "href": "https://www.youtube.com/watch?v=OXfD0tRtAzo"
             },
             {
                 "title": "Path dependence in relational design",
                 "href": "https://minimalmodeling.substack.com/p/path-dependence-in-relational-design"
+            },
+            {
+                "title": "Doodling with the Mac\u2019s command icon",
+                "href": "https://alexwlchan.net/2024/command-icon"
             },
             {
                 "title": "Announcing TypeScript 5.5",
@@ -75,12 +83,16 @@
                 "href": "https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237"
             },
             {
+                "title": "ttkbootstrap: modern theme and widgets for Python tkinter",
+                "href": "https://github.com/israel-dryer/ttkbootstrap"
+            },
+            {
                 "title": "Network Manager and Rust's zbus",
                 "href": "https://rbs.io/2024/07/network-manager-and-rusts-zbus/"
             },
             {
-                "title": "Doodling with the Mac\u2019s command icon",
-                "href": "https://alexwlchan.net/2024/command-icon"
+                "title": "xsum: Exactly-rounded summation of floating point values",
+                "href": "https://gitlab.com/radfordneal/xsum"
             },
             {
                 "title": "Running a multi-gig Home Network in 2024",
@@ -89,18 +101,6 @@
             {
                 "title": "Systems Distributed '24",
                 "href": "https://guergabo.substack.com/p/systems-distributed-24"
-            },
-            {
-                "title": "What\u2019s in my Location History?",
-                "href": "https://zdimension.fr/whats-in-my-location-history/"
-            },
-            {
-                "title": "Ryzen 7 Mini-PC makes a power-efficient VM host",
-                "href": "https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/"
-            },
-            {
-                "title": "ttkbootstrap: modern theme and widgets for Python tkinter",
-                "href": "https://github.com/israel-dryer/ttkbootstrap"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Kali NetHunter 101: List of 16 blogs as a guide to mobile pentesting",
                 "href": "https://www.reddit.com/r/netsec/comments/1dv1qs1/kali_nethunter_101_list_of_16_blogs_as_a_guide_to/"
+            },
+            {
+                "title": "I quit my job after deleting a Kubernetes namespace in production",
+                "href": "https://www.reddit.com/r/netsec/comments/1dv5leq/i_quit_my_job_after_deleting_a_kubernetes/"
             },
             {
                 "title": "Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks Against Thousands of iOS and MacOS Applications",
@@ -206,10 +210,6 @@
             {
                 "title": "Auth. Bypass In (Un)Limited Scenarios - Progress MOVEit Transfer (CVE-2024-5806) - watchTowr Labs",
                 "href": "https://www.reddit.com/r/netsec/comments/1do8ftd/auth_bypass_in_unlimited_scenarios_progress/"
-            },
-            {
-                "title": "ORM Leak vulnerabilities",
-                "href": "https://www.reddit.com/r/netsec/comments/1do516m/orm_leak_vulnerabilities/"
             }
         ]
     },
@@ -791,40 +791,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Building a data compression utility in Haskell using Huffman codes",
-                "href": "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
+                "title": "Jeffrey Snover and the Making of PowerShell",
+                "href": "https://corecursive.com/building-powershell-with-jeffrey-snover/"
             },
             {
-                "title": "UI Design Tips Using Tailwind CSS for Developers",
-                "href": "https://railsdesigner.com/design-tips-for-developers/"
+                "title": "Building a data compression utility in Haskell using Huffman codes",
+                "href": "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
             },
             {
                 "title": "Should this be a map or 500 maps?",
                 "href": "https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps"
             },
             {
-                "title": "Shipt's Algorithm Squeezed Gig Workers. They Fought Back",
-                "href": "https://spectrum.ieee.org/shipt"
+                "title": "Kanban vs. Scrum: What's the Difference?",
+                "href": "https://www.leiga.com/post/kanban-vs-scrum"
             },
             {
                 "title": "Fly.io initiates Region-specific Machines pricing",
                 "href": "https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690"
             },
             {
-                "title": "Superintelligence\u201310 Years Later",
-                "href": "https://www.humanityredefined.com/p/superintelligence10-years-later"
+                "title": "Shipt's Algorithm Squeezed Gig Workers. They Fought Back",
+                "href": "https://spectrum.ieee.org/shipt"
+            },
+            {
+                "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+                "href": "https://jobs.lever.co/buildzoom"
             },
             {
                 "title": "Show HN: Xcapture-BPF \u2013 like Linux top, but with Xray vision",
                 "href": "https://0x.tools/"
             },
             {
-                "title": "Sans-IO: The secret to effective Rust for network services",
-                "href": "https://www.firezone.dev/blog/sans-io"
-            },
-            {
                 "title": "Finding near-duplicates with Jaccard similarity and MinHash",
                 "href": "https://blog.nelhage.com/post/fuzzy-dedup/"
+            },
+            {
+                "title": "Sans-IO: The secret to effective Rust for network services",
+                "href": "https://www.firezone.dev/blog/sans-io"
             },
             {
                 "title": "Show HN: I made a split keyboard for large palms",
@@ -847,10 +851,6 @@
                 "href": "https://en.wikipedia.org/wiki/Stonehenge_Archer"
             },
             {
-                "title": "Kanban vs. Scrum: What's the Difference?",
-                "href": "https://www.leiga.com/post/kanban-vs-scrum"
-            },
-            {
                 "title": "The Origins of DS_store (2006)",
                 "href": "https://www.arno.org/on-the-origins-of-ds-store"
             },
@@ -859,20 +859,20 @@
                 "href": "https://frguthmann.github.io/posts/profiling_webgpu/"
             },
             {
-                "title": "A practical introduction to constraint programming using CP-SAT and Python",
-                "href": "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat"
-            },
-            {
                 "title": "The Sphere",
                 "href": "https://mssv.net/2024/07/02/the-sphere/"
             },
             {
-                "title": "Ask HN: Where to Sell Vintage Computers",
-                "href": "item?id=40841698"
+                "title": "A practical introduction to constraint programming using CP-SAT and Python",
+                "href": "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat"
             },
             {
-                "title": "Well-known paradox of R-squared is still buggin me",
-                "href": "https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/"
+                "title": "Breaking transatlantic sailing record by more than a day (2016)",
+                "href": "https://www.yachtingworld.com/extraordinary-boats/faster-than-the-weather-how-comanche-took-more-than-a-day-off-the-transatlantic-record-99160"
+            },
+            {
+                "title": "Ask HN: Where to Sell Vintage Computers",
+                "href": "item?id=40841698"
             },
             {
                 "title": "The Cheapest NAS",
@@ -883,32 +883,32 @@
                 "href": "https://markeasting.github.io/engine/"
             },
             {
-                "title": "Bugs, drugs and electric venom: is this the most deadly library in the world?",
-                "href": "https://www.theguardian.com/science/article/2024/jun/22/bugs-drugs-and-electric-venom-is-this-the-most-deadly-library-in-the-world"
-            },
-            {
-                "title": "The History of Machine Learning in Trackmania",
-                "href": "https://hallofdreams.org/posts/trackmania-1/"
+                "title": "Well-known paradox of R-squared is still buggin me",
+                "href": "https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/"
             },
             {
                 "title": "Architectural cross-section of Kowloon Walled City",
                 "href": "https://cohost.org/belarius/post/6677850-architectural-cross"
             },
             {
+                "title": "The History of Machine Learning in Trackmania",
+                "href": "https://hallofdreams.org/posts/trackmania-1/"
+            },
+            {
+                "title": "Bugs, drugs and electric venom: is this the most deadly library in the world?",
+                "href": "https://www.theguardian.com/science/article/2024/jun/22/bugs-drugs-and-electric-venom-is-this-the-most-deadly-library-in-the-world"
+            },
+            {
                 "title": "Making a Linux-managed network switch",
                 "href": "https://blog.brixit.nl/making-a-linux-managed-network-switch/"
             },
             {
-                "title": "Diving into deep learning: Understanding Deep Learning book review [pdf]",
-                "href": "https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf"
-            },
-            {
-                "title": "Do not taunt happy fun branch predictor (2023)",
-                "href": "https://www.mattkeeter.com/blog/2023-01-25-branch/"
-            },
-            {
                 "title": "React chaos in mid and large web apps: Any different experiences?",
                 "href": "https://old.reddit.com/r/ExperiencedDevs/comments/1dh9rly/the_chaos_of_react_in_medium_to_large_web_apps"
+            },
+            {
+                "title": "Diving into deep learning: Understanding Deep Learning book review [pdf]",
+                "href": "https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf"
             }
         ]
     }
