@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "How HLS Works",
-                "href": "https://jazco.dev/2024/07/05/hls/"
-            },
-            {
                 "title": "Resetting timers in Go",
                 "href": "https://antonz.org/timer-reset/"
+            },
+            {
+                "title": "How HLS Works",
+                "href": "https://jazco.dev/2024/07/05/hls/"
             },
             {
                 "title": "Practical Nix flake anatomy: a guided tour of flake.nix",
@@ -23,6 +23,10 @@
                 "href": "https://shreyanjain.net/2024/07/05/nostr-and-atproto.html"
             },
             {
+                "title": "sans-IO: The secret to effective Rust for network services",
+                "href": "https://www.firezone.dev/blog/sans-io"
+            },
+            {
                 "title": "The Software Crisis",
                 "href": "https://wryl.tech/log/2024/the-software-crisis.html"
             },
@@ -35,24 +39,28 @@
                 "href": "https://lobste.rs/s/slfdci/one_dozen_lobsters"
             },
             {
-                "title": "sans-IO: The secret to effective Rust for network services",
-                "href": "https://www.firezone.dev/blog/sans-io"
+                "title": "Files As Metadata Format",
+                "href": "https://prma.dev/posts/files-as-metadata-format"
             },
             {
                 "title": "Synchronous Core, Asynchronous Shell",
                 "href": "https://blog.sulami.xyz/posts/sync-core-async-shell/"
             },
             {
-                "title": "Files As Metadata Format",
-                "href": "https://prma.dev/posts/files-as-metadata-format"
+                "title": "Synchronization is bad for scale",
+                "href": "https://wippler.dev/posts/synchronization-is-bad-for-scale"
+            },
+            {
+                "title": "larena: Yet another simple header only arena allocator for C",
+                "href": "https://github.com/linkdd/larena"
             },
             {
                 "title": "Common Expression Language interpreter written in Rust",
                 "href": "https://github.com/clarkmcc/cel-rust"
             },
             {
-                "title": "larena: Yet another simple header only arena allocator for C",
-                "href": "https://github.com/linkdd/larena"
+                "title": "ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM",
+                "href": "https://github.com/WerWolv/ImHex"
             },
             {
                 "title": "Post-Open: What Comes After Open Source",
@@ -65,10 +73,6 @@
             {
                 "title": "\"Technical\" skills",
                 "href": "https://sashalaundy.com/writing/technical-skills/"
-            },
-            {
-                "title": "ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM",
-                "href": "https://github.com/WerWolv/ImHex"
             },
             {
                 "title": "VR optics and why IPD means too many things (2019)",
@@ -97,10 +101,6 @@
             {
                 "title": "Path traversal in youtube-dl leading to RCE - CVE-2024-38519",
                 "href": "https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/"
-            },
-            {
-                "title": "Bevy 0.14 Released",
-                "href": "https://bevyengine.org/news/bevy-0-14/"
             }
         ]
     },
@@ -787,20 +787,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Anxious Generation \u2013 How Safetyism and Social Media Are Damaging the Kids",
-                "href": "https://matija.eu/posts/anxious-generation-safetyism-social-media/"
+                "title": "Visually navigate code as stars and galaxies",
+                "href": "https://anvaka.github.io/pm/#/?_k=2i4b46"
             },
             {
                 "title": "He might have been the first jazz star",
                 "href": "https://www.honest-broker.com/p/he-might-have-been-the-first-jazz"
             },
             {
-                "title": "Properly testing concurrent data structures",
-                "href": "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
+                "title": "Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]",
+                "href": "https://www.ams.org/notices/201010/rtx101001303p.pdf"
             },
             {
-                "title": "Visually navigate code as stars and galaxies",
-                "href": "https://anvaka.github.io/pm/#/?_k=2i4b46"
+                "title": "Properly testing concurrent data structures",
+                "href": "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
             },
             {
                 "title": "Writing GUI applications on the Raspberry Pi without a desktop environment (2019)",
@@ -815,16 +815,12 @@
                 "href": "https://radio.garden/"
             },
             {
-                "title": "The A.I. Bubble is Bursting with Ed Zitron [video]",
-                "href": "https://www.youtube.com/watch?v=T8ByoAt5gCA"
+                "title": "Let's stop counting centuries",
+                "href": "https://dynomight.net/centuries/"
             },
             {
                 "title": "Hadrius (YC W23) Is Hiring Founding Engineers in NYC",
                 "href": "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
-            },
-            {
-                "title": "Let's stop counting centuries",
-                "href": "https://dynomight.net/centuries/"
             },
             {
                 "title": "Preserving a floppy disk with a logic analyzer and a serial cable",
@@ -835,76 +831,80 @@
                 "href": "https://ente.io/auth/"
             },
             {
+                "title": "Babies Babble with Acquired Accents",
+                "href": "https://www.rawstory.com/the-science-of-baby-babbling-and-why-it-can-take-on-accents/"
+            },
+            {
                 "title": "Put the DVD logo in the corner (2023)",
                 "href": "https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/"
+            },
+            {
+                "title": "Show HN: A JavaScript UI library for imperative JSX",
+                "href": "https://www.npmjs.com/package/@matry/dom"
             },
             {
                 "title": "Solving a math problem with planner programming",
                 "href": "https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/"
             },
             {
-                "title": "The asymmetry of nudges",
-                "href": "https://lcamtuf.substack.com/p/the-asymmetry-of-nudges"
-            },
-            {
                 "title": "DIY RFID Business Card and Badge Holder with Victorinox Swiss Army Knife Tools",
                 "href": "https://mcuoneclipse.com/2024/06/30/customizable-diy-rfid-business-card-and-badge-holder-with-victorinox-swiss-army-knife-tools/"
-            },
-            {
-                "title": "Fata Morgana",
-                "href": "https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)"
             },
             {
                 "title": "The Diamond Sutra, the oldest dated printed book (2016)",
                 "href": "https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/"
             },
             {
-                "title": "RadioSide turns your spare device into a radio",
-                "href": "https://radioside.com"
+                "title": "Graph-Based Ceramics",
+                "href": "https://www.alexreichert.com/blog/graph-based-ceramics"
             },
             {
-                "title": "Babies Babble with Acquired Accents",
-                "href": "https://www.rawstory.com/the-science-of-baby-babbling-and-why-it-can-take-on-accents/"
+                "title": "The asymmetry of nudges",
+                "href": "https://lcamtuf.substack.com/p/the-asymmetry-of-nudges"
             },
             {
                 "title": "Katharine Way, John Wheeler, and the Dawn of Nuclear Fission",
                 "href": "https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission"
             },
             {
-                "title": "PostgreSQL and UUID as Primary Key",
-                "href": "https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/"
-            },
-            {
                 "title": "Pwning a Brother labelmaker, for fun and interop",
                 "href": "https://sdomi.pl/weblog/20-pwning-a-labelmaker/"
             },
             {
-                "title": "Graph-Based Ceramics",
-                "href": "https://www.alexreichert.com/blog/graph-based-ceramics"
-            },
-            {
-                "title": "Cutting Board Designer",
-                "href": "https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f"
-            },
-            {
-                "title": "Antidotes for Melancholy in Early Modern England",
-                "href": "https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/"
-            },
-            {
-                "title": "Ants can carry out life-saving amputations on injured nest mates, study shows",
-                "href": "https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study"
-            },
-            {
-                "title": "Fiwix: Unix-like kernel for the i386 architecture",
-                "href": "https://github.com/mikaku/Fiwix"
+                "title": "RadioSide turns your spare device into a radio",
+                "href": "https://radioside.com"
             },
             {
                 "title": "With Nothing to Do",
                 "href": "https://registerspill.thorstenball.com/p/with-nothing-to-do"
             },
             {
+                "title": "PostgreSQL and UUID as Primary Key",
+                "href": "https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/"
+            },
+            {
+                "title": "Cutting Board Designer",
+                "href": "https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f"
+            },
+            {
+                "title": "Ants can carry out life-saving amputations on injured nest mates, study shows",
+                "href": "https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study"
+            },
+            {
+                "title": "Antidotes for Melancholy in Early Modern England",
+                "href": "https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/"
+            },
+            {
+                "title": "Fiwix: Unix-like kernel for the i386 architecture",
+                "href": "https://github.com/mikaku/Fiwix"
+            },
+            {
                 "title": "Unlocking a Gary TL-15 Round-Door Safe (2009)",
                 "href": "https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe"
+            },
+            {
+                "title": "Programmable Matter \u2013 3D Catoms",
+                "href": "https://www.programmable-matter.com/technology/3d-catoms"
             }
         ]
     }
