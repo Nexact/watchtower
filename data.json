@@ -11,16 +11,16 @@
                 "href": "https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires"
             },
             {
+                "title": "Using use in Gleam",
+                "href": "https://erikarow.land/notes/using-use-gleam"
+            },
+            {
                 "title": "A mini monitor for a Pi",
                 "href": "https://noamzeise.com/2024/07/05/mini-monitor.html"
             },
             {
                 "title": "Stop perfecting your config",
                 "href": "https://arkadiuszchmura.com/posts/stop-perfecting-your-config/"
-            },
-            {
-                "title": "Using use in Gleam",
-                "href": "https://erikarow.land/notes/using-use-gleam"
             },
             {
                 "title": "Linker compatibility and the \"User-Agent\" problem",
@@ -31,6 +31,10 @@
                 "href": "https://lobste.rs/s/qkw700/what_are_you_doing_this_week"
             },
             {
+                "title": "pw_rpc: Efficient, low-code-size RPC system for embedded devices",
+                "href": "https://pigweed.dev/pw_rpc/"
+            },
+            {
                 "title": "Learn X in Y Minutes, Where X=Haskell",
                 "href": "https://learnxinyminutes.com/docs/haskell/"
             },
@@ -39,16 +43,24 @@
                 "href": "https://github.com/mathialo/bython"
             },
             {
+                "title": "Universal Code Execution by Chaining Messages in Browser Extensions",
+                "href": "https://spaceraccoon.dev/universal-code-execution-browser-extensions/"
+            },
+            {
+                "title": "Geomys, a blueprint for a sustainable open source maintenance firm",
+                "href": "https://words.filippo.io/dispatches/geomys/"
+            },
+            {
                 "title": "Tough times on the road to Starcraft (2012)",
                 "href": "https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft"
             },
             {
-                "title": "A Bunch of Programming Advice I\u2019d Give To Myself 15 Years Ago",
-                "href": "https://mbuffett.com/posts/programming-advice-younger-self/"
+                "title": "DSLs Are Not For Muggles",
+                "href": "https://yonkeltron.com/posts/dsls-are-not-for-muggles/"
             },
             {
-                "title": "Universal Code Execution by Chaining Messages in Browser Extensions",
-                "href": "https://spaceraccoon.dev/universal-code-execution-browser-extensions/"
+                "title": "A Bunch of Programming Advice I\u2019d Give To Myself 15 Years Ago",
+                "href": "https://mbuffett.com/posts/programming-advice-younger-self/"
             },
             {
                 "title": "go-size-analyzer: A tool for analyzing the size of compiled Go binaries",
@@ -59,10 +71,6 @@
                 "href": "https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/"
             },
             {
-                "title": "DSLs Are Not For Muggles",
-                "href": "https://yonkeltron.com/posts/dsls-are-not-for-muggles/"
-            },
-            {
                 "title": "Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior",
                 "href": "https://dl.acm.org/doi/pdf/10.1145/3656404"
             },
@@ -71,8 +79,8 @@
                 "href": "https://www.endlessos.org/post/block-coding-for-godot-lowering-the-bar-of-entry-for-a-powerful-tool"
             },
             {
-                "title": "Geomys, a blueprint for a sustainable open source maintenance firm",
-                "href": "https://words.filippo.io/dispatches/geomys/"
+                "title": "Micro-agent: make an AI write code until it passes an unit test",
+                "href": "https://github.com/BuilderIO/micro-agent"
             },
             {
                 "title": "An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2",
@@ -81,10 +89,6 @@
             {
                 "title": "Security Cameras - A Penetration Tester's Journey",
                 "href": "https://tobiabocchi.me/posts/ip-cam-pentester-journey"
-            },
-            {
-                "title": "Micro-agent: make an AI write code until it passes an unit test",
-                "href": "https://github.com/BuilderIO/micro-agent"
             },
             {
                 "title": "Smart Meter Bridge",
@@ -97,10 +101,6 @@
             {
                 "title": "Notes on Scaling Social Media Data Collection",
                 "href": "https://www.dair-institute.org/blog/social-media-data-notes/"
-            },
-            {
-                "title": "The Jacobian vs. the Hessian vs. the Gradient",
-                "href": "https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/"
             }
         ]
     },
@@ -307,6 +307,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Temperatures 1.5C Above Pre-industrial Era Average For 12 Months, Data Shows",
+                "href": "https://news.slashdot.org/story/24/07/08/1657256/temperatures-15c-above-pre-industrial-era-average-for-12-months-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Insurers Pocketed $50 Billion From Medicare for Diseases No Doctor Treated",
                 "href": "https://science.slashdot.org/story/24/07/08/1540200/insurers-pocketed-50-billion-from-medicare-for-diseases-no-doctor-treated?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -361,10 +365,6 @@
             {
                 "title": "Shipt's Pay Algorithm Squeezed Gig Workers. They Fought Back",
                 "href": "https://it.slashdot.org/story/24/07/07/1740214/shipts-pay-algorithm-squeezed-gig-workers-they-fought-back?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "$170 Billion Selloff in Cryptocurrencies Friday as Mt. Gox Payout Looms",
-                "href": "https://slashdot.org/story/24/07/07/1546226/170-billion-selloff-in-cryptocurrencies-friday-as-mt-gox-payout-looms?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,96 +799,100 @@
                 "href": "https://github.com/victrixsoft/bashbro"
             },
             {
-                "title": "Xpra: Persistent Remote Applications for X11",
-                "href": "https://github.com/Xpra-org/xpra"
-            },
-            {
                 "title": "Geomys, a blueprint for a sustainable open-source maintenance firm",
                 "href": "https://words.filippo.io/dispatches/geomys/"
+            },
+            {
+                "title": "Xpra: Persistent Remote Applications for X11",
+                "href": "https://github.com/Xpra-org/xpra"
             },
             {
                 "title": "Show HN: Simulating 20M Particles in JavaScript",
                 "href": "https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles"
             },
             {
-                "title": "Show HN: A fast OSS voice assistant",
-                "href": "https://swift-ai.vercel.app/"
+                "title": "Show HN: I am building an open-source incident management platform",
+                "href": "https://github.com/incidentalhq/incidental"
             },
             {
                 "title": "Birds in Space II: Quails in the Cosmos (2011)",
                 "href": "https://finchwench.wordpress.com/2011/09/06/cosmoquails/"
             },
             {
-                "title": "For the first time in more than 150 years, Alberta's electricity is coal free",
-                "href": "https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/"
-            },
-            {
-                "title": "Do Skis Get Blunt?",
-                "href": "https://brooker.co.za/misc-blog/2024/01/23/skis.html"
+                "title": "Show HN: A fast OSS voice assistant",
+                "href": "https://swift-ai.vercel.app/"
             },
             {
                 "title": "Cold shipping might be the next industry that batteries disrupt",
                 "href": "https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/"
             },
             {
-                "title": "Show HN: A modern Jupyter client for macOS",
-                "href": "https://satyrn.app/"
+                "title": "Understanding Software Dynamics [book review]",
+                "href": "https://www.usenix.org/publications/loginonline/understanding-software-dynamics"
+            },
+            {
+                "title": "Do Skis Get Blunt?",
+                "href": "https://brooker.co.za/misc-blog/2024/01/23/skis.html"
             },
             {
                 "title": "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap",
                 "href": "https://up.codes/careers?utm_source=HN"
             },
             {
-                "title": "A Mini Monitor for a Pi",
-                "href": "https://noamzeise.com/2024/07/05/mini-monitor.html"
+                "title": "For the first time in more than 150 years, Alberta's electricity is coal free",
+                "href": "https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/"
+            },
+            {
+                "title": "Show HN: A modern Jupyter client for macOS",
+                "href": "https://satyrn.app/"
             },
             {
                 "title": "Five common English words we don't know the origins of\u2013including 'boy' and 'dog'",
                 "href": "https://phys.org/news/2024-07-common-english-words-dont-boy.html"
             },
             {
-                "title": "Reasoning in Large Language Models: A Geometric Perspective",
-                "href": "https://arxiv.org/abs/2407.02678"
+                "title": "A Mini Monitor for a Pi",
+                "href": "https://noamzeise.com/2024/07/05/mini-monitor.html"
             },
             {
                 "title": "Ask HN: Programmable Lasers?",
                 "href": "item?id=40862749"
             },
             {
+                "title": "Reasoning in Large Language Models: A Geometric Perspective",
+                "href": "https://arxiv.org/abs/2407.02678"
+            },
+            {
                 "title": "Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes",
                 "href": "https://www.cnbc.com/2024/07/08/boeing-to-plead-guilty-to-criminal-fraud-charge-stemming-from-737-max-crashes.html"
-            },
-            {
-                "title": "Detect Migrating Birds with a Plastic Dish and a Cheap Microphone",
-                "href": "https://spectrum.ieee.org/detect-migrating-birds-with-sound"
-            },
-            {
-                "title": "Show HN: I am building an open-source incident management platform",
-                "href": "https://github.com/incidentalhq/incidental"
-            },
-            {
-                "title": "Leonhard Euler's Letters to a German Princess",
-                "href": "https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/"
             },
             {
                 "title": "Do grayscale images take less space?",
                 "href": "https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/"
             },
             {
-                "title": "Standard cells: Looking at individual gates in the Pentium processor",
-                "href": "http://www.righto.com/2024/07/pentium-standard-cells.html"
+                "title": "Leonhard Euler's Letters to a German Princess",
+                "href": "https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/"
             },
             {
                 "title": "Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior",
                 "href": "https://dl.acm.org/doi/10.1145/3656404"
             },
             {
-                "title": "A reawakening of systems programming meetups",
-                "href": "https://notes.eatonphil.com/2024-07-07-systems-meetups.html"
-            },
-            {
                 "title": "Build your own React (2019)",
                 "href": "https://pomb.us/build-your-own-react/"
+            },
+            {
+                "title": "Detect Migrating Birds with a Plastic Dish and a Cheap Microphone",
+                "href": "https://spectrum.ieee.org/detect-migrating-birds-with-sound"
+            },
+            {
+                "title": "Standard cells: Looking at individual gates in the Pentium processor",
+                "href": "http://www.righto.com/2024/07/pentium-standard-cells.html"
+            },
+            {
+                "title": "A reawakening of systems programming meetups",
+                "href": "https://notes.eatonphil.com/2024-07-07-systems-meetups.html"
             },
             {
                 "title": "Tiny robots with a big impact: microrobots for single-cell handling",
@@ -897,10 +901,6 @@
             {
                 "title": "Ode to a world-saving idea: attribution error and cognitive empathy (2021)",
                 "href": "https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b"
-            },
-            {
-                "title": "Unit is a general purpose visual programming system",
-                "href": "https://unit.software/"
             }
         ]
     }
