@@ -3,20 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)",
-                "href": "https://conduition.io/coding/ticketmaster/"
-            },
-            {
                 "title": "Using use in Gleam",
                 "href": "https://erikarow.land/notes/using-use-gleam"
             },
             {
-                "title": "Dark mode is not as good for your eyes as you believe (2019)",
-                "href": "https://www.wired.com/story/dark-mode-chrome-android-ios-science/"
+                "title": "Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)",
+                "href": "https://conduition.io/coding/ticketmaster/"
             },
             {
                 "title": "State of Text Rendering 2024",
                 "href": "https://behdad.org/text2024/"
+            },
+            {
+                "title": "Dark mode is not as good for your eyes as you believe (2019)",
+                "href": "https://www.wired.com/story/dark-mode-chrome-android-ios-science/"
             },
             {
                 "title": "Entering text in the terminal is complicated",
@@ -35,12 +35,16 @@
                 "href": "https://yonkeltron.com/posts/dsls-are-not-for-muggles/"
             },
             {
-                "title": "No more boot loader: Please use the kernel instead",
-                "href": "https://pretalx.com/devconf-cz-2024/talk/W3AVCT/"
+                "title": "One File Linux: a 20MB Alpine meta-distro that fits entirely into the ESP",
+                "href": "https://hub.zhovner.com/geek/one-file-linux/"
             },
             {
                 "title": "pw_rpc: Efficient, low-code-size RPC system for embedded devices",
                 "href": "https://pigweed.dev/pw_rpc/"
+            },
+            {
+                "title": "No more boot loader: Please use the kernel instead",
+                "href": "https://pretalx.com/devconf-cz-2024/talk/W3AVCT/"
             },
             {
                 "title": "Kate and OrgMode",
@@ -97,10 +101,6 @@
             {
                 "title": "Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior",
                 "href": "https://dl.acm.org/doi/pdf/10.1145/3656404"
-            },
-            {
-                "title": "A Bunch of Programming Advice I\u2019d Give To Myself 15 Years Ago",
-                "href": "https://mbuffett.com/posts/programming-advice-younger-self/"
             }
         ]
     },
@@ -122,10 +122,6 @@
             {
                 "title": "Another One (in OpenSSH)! CVE-2024-6409",
                 "href": "https://www.reddit.com/r/netsec/comments/1dyzqkf/another_one_in_openssh_cve20246409/"
-            },
-            {
-                "title": "Where is the ESPM (Enterprise Security Posture Management) to address the fragmented security posture management and offer a unified approach to manage the whole enterprise network security. The blog delves into trends of security posture and explores the path to an orchestrated security posture",
-                "href": "https://www.reddit.com/r/netsec/comments/1dyxkfz/where_is_the_espm_enterprise_security_posture/"
             },
             {
                 "title": "angr for real-world use cases",
@@ -210,6 +206,10 @@
             {
                 "title": "BADUnboxing: Automated Android app unpacker",
                 "href": "https://www.reddit.com/r/netsec/comments/1dsm1ym/badunboxing_automated_android_app_unpacker/"
+            },
+            {
+                "title": "Postviewer V3 - Racing All The Way To Glory (Google CTF)",
+                "href": "https://www.reddit.com/r/netsec/comments/1dsb9ri/postviewer_v3_racing_all_the_way_to_glory_google/"
             }
         ]
     },
@@ -791,6 +791,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "OneFileLinux: A 20MB Alpine metadistro that fits into the ESP",
+                "href": "https://hub.zhovner.com/geek/one-file-linux/"
+            },
+            {
                 "title": "The zombie misconception of theoretical computer science",
                 "href": "https://scottaaronson.blog/?p=8106"
             },
@@ -799,40 +803,44 @@
                 "href": "https://pretalx.com/devconf-cz-2024/talk/W3AVCT/"
             },
             {
-                "title": "HP discontinues online-only LaserJet printers in response to backlash",
-                "href": "https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash"
-            },
-            {
                 "title": "Reverse engineering Ticketmaster's rotating barcodes",
                 "href": "https://conduition.io/coding/ticketmaster/"
             },
             {
-                "title": "Dynamic Translation of Smalltalk to WebAssembly",
-                "href": "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
-            },
-            {
-                "title": "The Race to Seal Helium HDDs",
-                "href": "https://blog.westerndigital.com/race-to-seal-helium/"
+                "title": "HP discontinues online-only LaserJet printers in response to backlash",
+                "href": "https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash"
             },
             {
                 "title": "FAA orders inspection of 2,600 Boeing 737s over oxygen mask issue",
                 "href": "https://www.reuters.com/business/aerospace-defense/faa-orders-inspections-2600-boeing-737-airplanes-over-oxygen-mask-issue-2024-07-08/"
             },
             {
-                "title": "Inline previous result in Emacs Lisp",
-                "href": "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
-            },
-            {
                 "title": "Microsoft's Xandr grants GDPR rights at a rate of 0%",
                 "href": "https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0"
+            },
+            {
+                "title": "US blocks British court from British territory",
+                "href": "https://www.bbc.com/news/articles/cxe2v2mdg7vo"
             },
             {
                 "title": "Show HN: Tegon: Open-source alternative to Jira, Linear",
                 "href": "https://github.com/tegonhq/tegon"
             },
             {
-                "title": "US blocks British court from British territory",
-                "href": "https://www.bbc.com/news/articles/cxe2v2mdg7vo"
+                "title": "Inline previous result in Emacs Lisp",
+                "href": "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
+            },
+            {
+                "title": "Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes",
+                "href": "https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/"
+            },
+            {
+                "title": "Dynamic Translation of Smalltalk to WebAssembly",
+                "href": "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
+            },
+            {
+                "title": "The War on Estonian Forests (2022)",
+                "href": "https://daveon.design/the-war-on-estonian-forests.html"
             },
             {
                 "title": "Show HN: Crawlee for Python \u2013 a web scraping and browser automation library",
@@ -843,6 +851,10 @@
                 "href": "https://sqlitebrowser.org/"
             },
             {
+                "title": "Guide to attending a space launch in person",
+                "href": "https://countdowntoignition.com/guide-to-attending-launch"
+            },
+            {
                 "title": "Rye: A Hassle-Free Python Experience",
                 "href": "https://rye.astral.sh/"
             },
@@ -851,28 +863,28 @@
                 "href": "https://arxiv.org/abs/2309.04259"
             },
             {
-                "title": "Guide to attending a space launch in person",
-                "href": "https://countdowntoignition.com/guide-to-attending-launch"
-            },
-            {
                 "title": "Another Silicon Valley institution died spring of 2019: Halted/HSC",
                 "href": "http://halted.com"
             },
             {
-                "title": "The Right Kind of Stubborn",
-                "href": "https://paulgraham.com/persistence.html"
+                "title": "California to impose permanent water restrictions on cities and towns",
+                "href": "https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/"
             },
             {
                 "title": "The Psychology of Obstinacy (1943)",
                 "href": "https://www.tandfonline.com/doi/pdf/10.1080/21674086.1943.11925528"
             },
             {
-                "title": "How I turned seemingly 'failed' experiments into a successful PhD",
-                "href": "https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd"
+                "title": "The Right Kind of Stubborn",
+                "href": "https://paulgraham.com/persistence.html"
             },
             {
-                "title": "Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes",
-                "href": "https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/"
+                "title": "Some landfill 'burps' contain airborne PFAS, study finds",
+                "href": "https://phys.org/news/2024-06-landfill-burps-airborne-pfas.html"
+            },
+            {
+                "title": "How I turned seemingly 'failed' experiments into a successful PhD",
+                "href": "https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd"
             },
             {
                 "title": "Making my own wedding rings",
@@ -887,10 +899,6 @@
                 "href": "https://www.theparisreview.org/blog/2024/07/05/the-nine-ways-on-the-enneagram/"
             },
             {
-                "title": "State of Text Rendering 2024",
-                "href": "https://behdad.org/text2024/"
-            },
-            {
                 "title": "Ointment containing DNA molecules can combat allergic contact dermatitis",
                 "href": "https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html"
             },
@@ -899,16 +907,8 @@
                 "href": "https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/"
             },
             {
-                "title": "Mouse Heaven or Mouse Hell? (2022)",
-                "href": "https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/"
-            },
-            {
-                "title": "A key part of America's economy has shifted into reverse",
-                "href": "https://www.cnn.com/2024/07/07/economy/stocks-week-ahead-services-sector-slow-restaurants-stores/index.html"
-            },
-            {
-                "title": "Geomys, a blueprint for a sustainable open-source maintenance firm",
-                "href": "https://words.filippo.io/dispatches/geomys/"
+                "title": "State of Text Rendering 2024",
+                "href": "https://behdad.org/text2024/"
             }
         ]
     }
