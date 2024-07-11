@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Zed on Linux is here",
-                "href": "https://zed.dev/linux"
-            },
-            {
                 "title": "Announcing Lix 2.90 \"Vanilla Ice Cream\"",
                 "href": "https://lix.systems/blog/2024-07-10-lix-2.90-release/"
+            },
+            {
+                "title": "Zed on Linux is here",
+                "href": "https://zed.dev/linux"
             },
             {
                 "title": "Nix on MacOS - The Good, the Bad and the Ugly",
@@ -17,6 +17,10 @@
             {
                 "title": "Atkinson Hyperlegible Font",
                 "href": "https://brailleinstitute.org/freefont"
+            },
+            {
+                "title": "How fast is javascript simulating 20,000,000 particles?",
+                "href": "https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles"
             },
             {
                 "title": "Iconography of the X Window System: The Boot Stipple",
@@ -39,12 +43,24 @@
                 "href": "https://youtu.be/IGmwiyines0"
             },
             {
-                "title": "How fast is javascript simulating 20,000,000 particles?",
-                "href": "https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles"
+                "title": "Toit programming language",
+                "href": "https://toitlang.org/"
             },
             {
                 "title": "Functional reactive user interfaces with propagators",
                 "href": "https://dthompson.us/posts/functional-reactive-user-interfaces-with-propagators.html"
+            },
+            {
+                "title": "VLMs are Blind",
+                "href": "https://vlmsareblind.github.io/"
+            },
+            {
+                "title": "You can deeplink to a specific PDF page",
+                "href": "https://technicalwriting.dev/www/pdf.html"
+            },
+            {
+                "title": "Some tricks from the Scrapscript compiler",
+                "href": "https://bernsteinbear.com/blog/scrapscript-tricks/"
             },
             {
                 "title": "release of Lazarus 3.4 (Pascal)",
@@ -55,16 +71,20 @@
                 "href": "https://idu.cyberplant.ee/"
             },
             {
+                "title": "Just Use Postgres for Everything",
+                "href": "https://www.amazingcto.com/postgres-for-everything/"
+            },
+            {
+                "title": "In-Memory Analytics for Kafka Using DuckDB",
+                "href": "https://yokota.blog/2024/07/11/in-memory-analytics-for-kafka-using-duckdb/"
+            },
+            {
                 "title": "How JavaScript Ruined the Web",
                 "href": "https://www.youtube.com/watch?v=gU-8U7Z-E64"
             },
             {
                 "title": "Megaera \u2013 GraphQL to TypeScript code generation tool",
                 "href": "https://github.com/webpod/graphql-megaera"
-            },
-            {
-                "title": "VLMs are Blind",
-                "href": "https://vlmsareblind.github.io/"
             },
             {
                 "title": "Simple event broker tries Tiger Style",
@@ -81,26 +101,6 @@
             {
                 "title": "I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu",
                 "href": "https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/"
-            },
-            {
-                "title": "Reverse Engineering the Verification QR Code on my Diploma",
-                "href": "https://obrhubr.org/reverse-engineering-diploma"
-            },
-            {
-                "title": "Supply chain attacks and backdoored dependencies",
-                "href": "https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies"
-            },
-            {
-                "title": "Bounds Checking Flexible Array Members",
-                "href": "https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html"
-            },
-            {
-                "title": "Q Numbers",
-                "href": "https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers"
-            },
-            {
-                "title": "What is the most suspicious e-mail you've ever recieved that was legitimate?",
-                "href": "https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever"
             }
         ]
     },
@@ -114,6 +114,14 @@
             {
                 "title": "Chaining Three Bugs to Access All Your ServiceNow Data",
                 "href": "https://www.reddit.com/r/netsec/comments/1e0g7is/chaining_three_bugs_to_access_all_your_servicenow/"
+            },
+            {
+                "title": "Preventing the worst supply chain attack you can imagine in the Python ecosystem",
+                "href": "https://www.reddit.com/r/netsec/comments/1e0srdy/preventing_the_worst_supply_chain_attack_you_can/"
+            },
+            {
+                "title": "SaladCat: open-source and highly scalable password cracking using gamer GPUs",
+                "href": "https://www.reddit.com/r/netsec/comments/1e0sm5u/saladcat_opensource_and_highly_scalable_password/"
             },
             {
                 "title": "Pwn2Own: WAN-to-LAN Exploit Showcase TP-Link ER605 routers and Synology BC500 IP camera - Part 1: WAN",
@@ -202,14 +210,6 @@
             {
                 "title": "Evasion by Machine Code De-Optimization",
                 "href": "https://www.reddit.com/r/netsec/comments/1dso8x1/evasion_by_machine_code_deoptimization/"
-            },
-            {
-                "title": "BADUnboxing: Automated Android app unpacker",
-                "href": "https://www.reddit.com/r/netsec/comments/1dsm1ym/badunboxing_automated_android_app_unpacker/"
-            },
-            {
-                "title": "Postviewer V3 - Racing All The Way To Glory (Google CTF)",
-                "href": "https://www.reddit.com/r/netsec/comments/1dsb9ri/postviewer_v3_racing_all_the_way_to_glory_google/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Across the US, Heat Keeps Breaking Records",
+                "href": "https://news.slashdot.org/story/24/07/11/167246/across-the-us-heat-keeps-breaking-records?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "AI Investment Soars but Profitable Use Remains Elusive for Many Firms, Goldman Sachs Says",
                 "href": "https://news.slashdot.org/story/24/07/11/1517227/ai-investment-soars-but-profitable-use-remains-elusive-for-many-firms-goldman-sachs-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Microsoft Emails That Warned Customers of Russian Hacks Criticized For Looking Like Spam And Phishing",
                 "href": "https://it.slashdot.org/story/24/07/10/2011234/microsoft-emails-that-warned-customers-of-russian-hacks-criticized-for-looking-like-spam-and-phishing?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Senators Strike Bipartisan Deal For a Ban On Stock Trading By Members of Congress",
-                "href": "https://yro.slashdot.org/story/24/07/10/1940249/senators-strike-bipartisan-deal-for-a-ban-on-stock-trading-by-members-of-congress?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,12 +795,12 @@
                 "href": "https://typesetinthefuture.com/2018/12/04/walle/"
             },
             {
-                "title": "Scientists discover a cause of lupus, possible way to reverse it",
-                "href": "https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/"
-            },
-            {
                 "title": "Qualcomm's Oryon core: A long time in the making",
                 "href": "https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/"
+            },
+            {
+                "title": "Scientists discover a cause of lupus, possible way to reverse it",
+                "href": "https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/"
             },
             {
                 "title": "Binance built a 100PB log service with Quickwit",
@@ -819,16 +819,20 @@
                 "href": "https://www.ccc.de/en/updates/2024/2fa-sms"
             },
             {
-                "title": "The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)",
-                "href": "https://ktema.org/articles/the-overengineered-resume/"
-            },
-            {
                 "title": "Engineering principles for building financial systems",
                 "href": "https://substack.wasteman.codes/p/engineering-principles-and-best-practices"
             },
             {
+                "title": "The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)",
+                "href": "https://ktema.org/articles/the-overengineered-resume/"
+            },
+            {
                 "title": "Things I learned while writing an x86 emulator (2013)",
                 "href": "https://www.timdbg.com/posts/useless-x86-trivia/"
+            },
+            {
+                "title": "Iconography of the X Window System: The Boot Stipple",
+                "href": "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html"
             },
             {
                 "title": "An abundance of Katherines: The game theory of baby naming",
@@ -843,8 +847,16 @@
                 "href": "https://www.theplanetstoday.com/"
             },
             {
+                "title": "Why Doesn't Advice Work?",
+                "href": "https://dynomight.net/advice/"
+            },
+            {
                 "title": "Big Ball of Mud (1999)",
                 "href": "http://laputan.org/mud/"
+            },
+            {
+                "title": "Supabase (YC S20) Is Hiring an Auth Engineer (Remote)",
+                "href": "https://boards.greenhouse.io/supabase/jobs/5225004004"
             },
             {
                 "title": "Children's mental models of recursive LOGO programs (1985)",
@@ -859,32 +871,28 @@
                 "href": "https://ai-murder-mystery.onrender.com/"
             },
             {
-                "title": "Supabase (YC S20) Is Hiring an Auth Engineer (Remote)",
-                "href": "https://boards.greenhouse.io/supabase/jobs/5225004004"
+                "title": "Serious errors plague DNA tool that's a workhorse of biology",
+                "href": "https://www.nature.com/articles/d41586-024-02280-1"
             },
             {
                 "title": "Zed on Linux Is Here",
                 "href": "https://zed.dev/linux"
             },
             {
-                "title": "Serious errors plague DNA tool that's a workhorse of biology",
-                "href": "https://www.nature.com/articles/d41586-024-02280-1"
+                "title": "Pyxel: A retro game engine for Python",
+                "href": "https://github.com/kitao/pyxel"
             },
             {
                 "title": "Real-time audio programming 101: time waits for nothing (2011)",
                 "href": "http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing"
             },
             {
-                "title": "Pyxel: A retro game engine for Python",
-                "href": "https://github.com/kitao/pyxel"
+                "title": "Model Rocket Nails Vertical Landing After Three-Year Effort",
+                "href": "https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort/"
             },
             {
-                "title": "Ask HN: Who's been hired through Hacker News?",
-                "href": "item?id=40932948"
-            },
-            {
-                "title": "SimSig: Railway Signalling Simulations",
-                "href": "https://www.simsig.co.uk/"
+                "title": "Comparing open source BGP stacks",
+                "href": "https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/"
             },
             {
                 "title": "Solving Concurrency Bugs Using Schedules and Imagination",
@@ -895,20 +903,12 @@
                 "href": "https://arxiv.org/abs/2406.03372"
             },
             {
-                "title": "Model Rocket Nails Vertical Landing After Three-Year Effort",
-                "href": "https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort/"
-            },
-            {
-                "title": "AMD to buy Silo AI for $665M",
-                "href": "https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2"
+                "title": "SimSig: Railway Signalling Simulations",
+                "href": "https://www.simsig.co.uk/"
             },
             {
                 "title": "The Future of Trash [pdf]",
                 "href": "https://dsny.cityofnewyork.us/wp-content/uploads/reports/future-of-trash-april-2023.pdf"
-            },
-            {
-                "title": "Using the 5S Principle in Coding",
-                "href": "https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02"
             }
         ]
     }
