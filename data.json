@@ -31,6 +31,10 @@
                 "href": "https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds"
             },
             {
+                "title": "Kubernetes instance calculator",
+                "href": "https://learnk8s.io/kubernetes-instance-calculator"
+            },
+            {
                 "title": "The missing parts in Cargo",
                 "href": "https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/"
             },
@@ -39,20 +43,16 @@
                 "href": "https://azeemba.com/posts/understanding-3d-graphics.html"
             },
             {
+                "title": "22 Common Filesystem Tasks in C++20",
+                "href": "https://www.cppstories.com/2024/common-filesystem-cpp20/"
+            },
+            {
                 "title": "Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes",
                 "href": "https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/"
             },
             {
-                "title": "Kubernetes instance calculator",
-                "href": "https://learnk8s.io/kubernetes-instance-calculator"
-            },
-            {
                 "title": "Rust for filesystems",
                 "href": "https://lwn.net/Articles/978738/"
-            },
-            {
-                "title": "22 Common Filesystem Tasks in C++20",
-                "href": "https://www.cppstories.com/2024/common-filesystem-cpp20/"
             },
             {
                 "title": "Bridging Networks Across VPS with Wireguard and VXLAN on FreeBSD",
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q2 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
+            },
+            {
+                "title": "SharpHound Detection",
+                "href": "https://www.reddit.com/r/netsec/comments/1e3uba0/sharphound_detection/"
             },
             {
                 "title": "Introduction to Hardware Hacking with a Raspberry Pi: Software Configuration",
@@ -206,10 +210,6 @@
             {
                 "title": "Race Conditions Found in Open-source IAM Solution Keycloak",
                 "href": "https://www.reddit.com/r/netsec/comments/1dtljy7/race_conditions_found_in_opensource_iam_solution/"
-            },
-            {
-                "title": "Major Security Flaws in Mailcow: Inside the XSS and Path Traversal Exploits (CVE-2024-31204 and CVE-2024-30270)",
-                "href": "https://www.reddit.com/r/netsec/comments/1dtmgh8/major_security_flaws_in_mailcow_inside_the_xss/"
             }
         ]
     },
@@ -787,24 +787,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Rust for Filesystems",
-                "href": "https://lwn.net/Articles/978738/"
-            },
-            {
                 "title": "I'm Not a Fan of Strlcpy(3)",
                 "href": "https://nrk.neocities.org/articles/not-a-fan-of-strlcpy"
             },
             {
-                "title": "We need visual programming. No, not like that",
-                "href": "https://blog.sbensu.com/posts/demand-for-visual-programming/"
+                "title": "Rust for Filesystems",
+                "href": "https://lwn.net/Articles/978738/"
             },
             {
                 "title": "Soviet Calculators History (1998)",
                 "href": "https://xnumber.com/xnumber/russian_calcs.htm"
             },
             {
-                "title": "Google and Microsoft now each consume more power than some fairly big countries",
-                "href": "https://www.techradar.com/pro/google-and-microsoft-now-each-consume-more-power-than-some-fairly-big-countries"
+                "title": "We need visual programming. No, not like that",
+                "href": "https://blog.sbensu.com/posts/demand-for-visual-programming/"
             },
             {
                 "title": "Fusion \u2013 A hobby OS implemented in Nim",
@@ -815,12 +811,8 @@
                 "href": "https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows"
             },
             {
-                "title": "Congress Accidentally Legalized Weed Six Years Ago",
-                "href": "https://www.theatlantic.com/ideas/archive/2024/07/hemp-marijuana-legal-thc/678988/"
-            },
-            {
-                "title": "A rock that might hold the oldest form of complex life on Earth",
-                "href": "https://news.unsw.edu.au/en/erica-picked-up-a-rock-10-years-ago-it-might-hold-the-oldest-form-of-complex-life-on-earth"
+                "title": "Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points",
+                "href": "https://arxiv.org/abs/1111.5264"
             },
             {
                 "title": "Virginia Woolf's list-making paved the way for her literary experiments",
@@ -835,44 +827,32 @@
                 "href": "https://arxiv.org/abs/2407.07909"
             },
             {
-                "title": "Firefox 128 enables \"privacy-preserving\" ad measurements by default",
-                "href": "https://mstdn.social/@Lokjo/112772496939724214"
-            },
-            {
-                "title": "Graying open source community needs fresh blood",
-                "href": "https://www.theregister.com/2024/07/15/opinion_open_source_attract_devs/"
-            },
-            {
-                "title": "Lagrange: LAser GRavitational-wave ANtenna at GEo-lunar Lagrange points",
-                "href": "https://arxiv.org/abs/1111.5264"
-            },
-            {
-                "title": "Clouds in Video Games",
-                "href": "https://www.eurogamer.net/the-beauty-and-drama-of-video-games-and-their-clouds"
+                "title": "Google's Gemini AI caught scanning Google Drive PDF files without permission",
+                "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled"
             },
             {
                 "title": "Show HN: I built a Jeopardy game maker with buzzer support",
                 "href": "https://buzzinga.io/"
             },
             {
-                "title": "\"Nik\": The Mesoamerican Representation of Zero (2021)",
-                "href": "https://baas.aas.org/pub/2021n1i336p03/release/2"
+                "title": "A Deal with the Devil",
+                "href": "https://lithub.com/a-deal-with-the-devil-what-the-age-old-faustian-bargain-reveals-about-the-modern-world/"
             },
             {
-                "title": "Google's Gemini AI caught scanning Google Drive PDF files without permission",
-                "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled"
+                "title": "\"Nik\": The Mesoamerican Representation of Zero (2021)",
+                "href": "https://baas.aas.org/pub/2021n1i336p03/release/2"
             },
             {
                 "title": "General Theory of Neural Networks",
                 "href": "https://robleclerc.substack.com/p/general-theory-of-neural-networks"
             },
             {
-                "title": "Writing a BIOS bootloader for 64-bit mode from scratch",
-                "href": "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html"
-            },
-            {
                 "title": "Nevada\u2019s public employee pension fund invests passively and beats peers (2016)",
                 "href": "https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420"
+            },
+            {
+                "title": "Writing a BIOS bootloader for 64-bit mode from scratch",
+                "href": "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html"
             },
             {
                 "title": "Show HN: Kaskade \u2013 A text user interface for Kafka",
@@ -883,16 +863,16 @@
                 "href": "https://tabloid.vercel.app/"
             },
             {
-                "title": "A Deal with the Devil",
-                "href": "https://lithub.com/a-deal-with-the-devil-what-the-age-old-faustian-bargain-reveals-about-the-modern-world/"
-            },
-            {
                 "title": "Musical Notation for Modular Synthesizers",
                 "href": "https://www.perfectcircuit.com/signal/modular-synthesizer-notation"
             },
             {
                 "title": "Building the Bell System",
                 "href": "https://www.construction-physics.com/p/building-the-bell-system"
+            },
+            {
+                "title": "The Laboratory for Extraordinary Microbes",
+                "href": "https://press.asimov.com/articles/cultivarium"
             },
             {
                 "title": "Show HN: Resurrecting a dead Dune RTS game",
@@ -905,6 +885,26 @@
             {
                 "title": "Disqualified (1954)",
                 "href": "https://www.gutenberg.org/cache/epub/30251/pg30251-images.html"
+            },
+            {
+                "title": "The six dumbest ideas in computer security (2005)",
+                "href": "http://www.ranum.com/security/computer_security/editorials/dumb/"
+            },
+            {
+                "title": "Building and scaling Notion's data lake",
+                "href": "https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake"
+            },
+            {
+                "title": "Git-PR: patch requests over SSH",
+                "href": "https://pr.pico.sh/"
+            },
+            {
+                "title": "Mazeppa: A modern supercompiler for call-by-value functional languages",
+                "href": "https://github.com/mazeppa-dev/mazeppa"
+            },
+            {
+                "title": "Firmware update hides a device\u2019s Bluetooth fingerprint",
+                "href": "https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint"
             }
         ]
     }
