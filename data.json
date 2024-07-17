@@ -23,12 +23,12 @@
                 "href": "https://nerderati.com/a-python-epoch-timestamp-timezone-trap/"
             },
             {
-                "title": "Toolbox languages",
-                "href": "https://www.hillelwayne.com/post/toolbox-languages/"
-            },
-            {
                 "title": "Keep perfecting your config",
                 "href": "https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/"
+            },
+            {
+                "title": "Toolbox languages",
+                "href": "https://www.hillelwayne.com/post/toolbox-languages/"
             },
             {
                 "title": "Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik",
@@ -59,6 +59,10 @@
                 "href": "https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/"
             },
             {
+                "title": "Go range iterators demystified",
+                "href": "https://dolthub.com/blog/2024-07-12-golang-range-iters-demystified/"
+            },
+            {
                 "title": "Jailbreaking RabbitOS (The Hard Way)",
                 "href": "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
             },
@@ -77,10 +81,6 @@
             {
                 "title": "Pull requests via git push",
                 "href": "https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html"
-            },
-            {
-                "title": "Go range iterators demystified",
-                "href": "https://dolthub.com/blog/2024-07-12-golang-range-iters-demystified/"
             },
             {
                 "title": "Inside an IBM/Motorola mainframe controller chip from 1981",
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q2 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
+            },
+            {
+                "title": "Furry hacking group SiegedSec announces breach of 2 Israeli companies",
+                "href": "https://www.reddit.com/r/netsec/comments/1e58eya/furry_hacking_group_siegedsec_announces_breach_of/"
             },
             {
                 "title": "How to Bypass Golang SSL Verification",
@@ -206,10 +210,6 @@
             {
                 "title": "App-Level eBPF Applications - User vs. Kernel Probes",
                 "href": "https://www.reddit.com/r/netsec/comments/1dxhrj7/applevel_ebpf_applications_user_vs_kernel_probes/"
-            },
-            {
-                "title": "Making & Cracking a PRNG in Go | Any feedback welcome :)",
-                "href": "https://www.reddit.com/r/netsec/comments/1dw7pzn/making_cracking_a_prng_in_go_any_feedback_welcome/"
             }
         ]
     },
@@ -795,48 +795,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Why is Sweden paying grandparents to babysit?",
-                "href": "https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try"
-            },
-            {
                 "title": "Free Introduction to Bash Scripting eBook",
                 "href": "https://github.com/bobbyiliev/introduction-to-bash-scripting"
-            },
-            {
-                "title": "XLSTMTime: Long-Term Time Series Forecasting with xLSTM",
-                "href": "https://arxiv.org/abs/2407.10240"
             },
             {
                 "title": "Darwin Machines",
                 "href": "https://vedgie.net/writing/darwin_machines.md"
             },
             {
+                "title": "XLSTMTime: Long-Term Time Series Forecasting with xLSTM",
+                "href": "https://arxiv.org/abs/2407.10240"
+            },
+            {
                 "title": "Java Virtual Threads: A Case Study",
                 "href": "https://www.infoq.com/articles/java-virtual-threads-a-case-study/"
             },
             {
-                "title": "iOS 18 could 'sherlock' $400M in app revenue",
-                "href": "https://techcrunch.com/2024/07/16/ios-18-could-sherlock-400m-in-app-revenue/"
-            },
-            {
-                "title": "Show HN: Magic-cli \u2013 A copilot for your command line",
-                "href": "https://github.com/guywaldman/magic-cli"
-            },
-            {
-                "title": "Convex Architecture Handbook 1984 [pdf]",
-                "href": "http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf"
-            },
-            {
-                "title": "Optimizing a bignum library for fun",
-                "href": "https://austinhenley.com/blog/bignum2.html"
+                "title": "Why is Sweden paying grandparents to babysit?",
+                "href": "https://www.bloomberg.com/opinion/articles/2024-07-13/why-is-sweden-paying-grandparents-for-child-care-it-s-worth-a-try"
             },
             {
                 "title": "The golden age of scammers: AI-powered phishing",
                 "href": "https://www.mailgun.com/blog/email/ai-phishing/"
             },
             {
+                "title": "Optimizing a bignum library for fun",
+                "href": "https://austinhenley.com/blog/bignum2.html"
+            },
+            {
+                "title": "Convex Architecture Handbook 1984 [pdf]",
+                "href": "http://bitsavers.informatik.uni-stuttgart.de/pdf/convex/080-000120-000_CONVEX_Architecture_Handbook_1984.pdf"
+            },
+            {
                 "title": "I am starting an AI+Education company",
                 "href": "https://twitter.com/karpathy/status/1813263734707790301"
+            },
+            {
+                "title": "Show HN: Magic-cli \u2013 A copilot for your command line",
+                "href": "https://github.com/guywaldman/magic-cli"
             },
             {
                 "title": "Codestral Mamba",
@@ -855,6 +851,18 @@
                 "href": "https://www.brightball.com/articles/story-points-are-pointless-measure-queues"
             },
             {
+                "title": "Exo: Run your own AI cluster at home with everyday devices",
+                "href": "https://github.com/exo-explore/exo"
+            },
+            {
+                "title": "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
+                "href": "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
+            },
+            {
+                "title": "Show HN: I accidentally crated a infinite level for a wolf 3D clone",
+                "href": "https://victorribeiro.com/raycast2/"
+            },
+            {
                 "title": "Sync Labs (YC W24) Is Hiring a Staff Engineer",
                 "href": "https://www.ycombinator.com/companies/sync-labs/jobs/CrRfnKu-founding-staff-engineer"
             },
@@ -863,24 +871,16 @@
                 "href": "http://www.righto.com/2024/07/ibm-3274-keystone-chip.html"
             },
             {
-                "title": "Exo: Run your own AI cluster at home with everyday devices",
-                "href": "https://github.com/exo-explore/exo"
-            },
-            {
-                "title": "Show HN: I accidentally crated a infinite level for a wolf 3D clone",
-                "href": "https://victorribeiro.com/raycast2/"
-            },
-            {
-                "title": "Stop Microsoft users sending 'reactions' to email by adding a postfix header",
-                "href": "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/"
-            },
-            {
                 "title": "Making Elizabethan plays understandable and fun to read",
                 "href": "http://elizabethandrama.org/"
             },
             {
                 "title": "Run CUDA, unmodified, on AMD GPUs",
                 "href": "https://docs.scale-lang.com/"
+            },
+            {
+                "title": "China installing the wind / solar equivalent of 5 nuclear power stations a week",
+                "href": "https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640"
             },
             {
                 "title": "Decoding DME aircraft radio navigation system with the LimeSDR",
