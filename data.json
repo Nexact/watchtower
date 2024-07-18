@@ -27,16 +27,16 @@
                 "href": "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/"
             },
             {
-                "title": "Zig as a Multi-OS Build System (Interview with Loris Cro)",
-                "href": "https://youtu.be/i9nFvSpcCzo"
-            },
-            {
                 "title": "The Pitfalls of In-App Browsers",
                 "href": "https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/"
             },
             {
                 "title": "Gotchas with SQLite in Production",
                 "href": "https://blog.pecar.me/sqlite-prod"
+            },
+            {
+                "title": "Zig as a Multi-OS Build System (Interview with Loris Cro)",
+                "href": "https://youtu.be/i9nFvSpcCzo"
             },
             {
                 "title": "89 things I know about Git commits",
@@ -67,6 +67,10 @@
                 "href": "https://ryelang.org/"
             },
             {
+                "title": "A proposal for destructive move through function arguments in C++ and C",
+                "href": "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
+            },
+            {
                 "title": "age Plugins",
                 "href": "https://words.filippo.io/dispatches/age-plugins/"
             },
@@ -95,10 +99,6 @@
                 "href": "https://www.brightball.com/articles/story-points-are-pointless-measure-queues"
             },
             {
-                "title": "Timezone-naive datetimes are one of the most dangerous objects in Python",
-                "href": "https://nerderati.com/a-python-epoch-timestamp-timezone-trap/"
-            },
-            {
                 "title": "Keep perfecting your config",
                 "href": "https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/"
             }
@@ -110,6 +110,14 @@
             {
                 "title": "/r/netsec's Q2 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1bu6sd6/rnetsecs_q2_2024_information_security_hiring/"
+            },
+            {
+                "title": "Windows Installer Custom Actions Privilege Escalation Vulnerability",
+                "href": "https://www.reddit.com/r/netsec/comments/1e65tpn/windows_installer_custom_actions_privilege/"
+            },
+            {
+                "title": "Attacking Connection Tracking Frameworks as used by VPN",
+                "href": "https://www.reddit.com/r/netsec/comments/1e667xi/attacking_connection_tracking_frameworks_as_used/"
             },
             {
                 "title": "How to Bypass Golang SSL Verification",
@@ -202,14 +210,6 @@
             {
                 "title": "Multiple Vulnerabilities in Pytorch Model Server (Torchserve) (CVSS 9.9, CVSS 9.8) Walkthrough",
                 "href": "https://www.reddit.com/r/netsec/comments/1dy7xrm/multiple_vulnerabilities_in_pytorch_model_server/"
-            },
-            {
-                "title": "Universal Code Execution by Chaining Messages in Browser Extensions",
-                "href": "https://www.reddit.com/r/netsec/comments/1dxj0wh/universal_code_execution_by_chaining_messages_in/"
-            },
-            {
-                "title": "App-Level eBPF Applications - User vs. Kernel Probes",
-                "href": "https://www.reddit.com/r/netsec/comments/1dxhrj7/applevel_ebpf_applications_user_vs_kernel_probes/"
             }
         ]
     },
@@ -791,10 +791,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Money and Happiness: Extended Evidence Against Satiation",
-                "href": "https://happiness-science.org/money-happiness-satiation/"
-            },
-            {
                 "title": "Jailbreaking RabbitOS",
                 "href": "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
             },
@@ -815,40 +811,40 @@
                 "href": "https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security"
             },
             {
-                "title": "The unexpected poetry of PhD acknowledgements",
-                "href": "https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements"
-            },
-            {
-                "title": "A brief interview with Awk creator Dr. Brian Kernighan (2022)",
-                "href": "https://pldb.io/blog/brianKernighan.html"
-            },
-            {
-                "title": "Releasing an Album on Floppy Disk",
-                "href": "https://www.michaelgale.dev/blog/releasing-an-album-on-floppy-disk"
-            },
-            {
-                "title": "Who Killed the World?",
-                "href": "https://pudding.cool/2024/07/scifi/"
-            },
-            {
-                "title": "Overcoming the Limits of Large Language Models",
-                "href": "https://seanpedersen.github.io/posts/overcoming-llm-limits"
-            },
-            {
-                "title": "Closed form arc length parametrization is impossible for quadratic B\u00e9zier curves",
-                "href": "https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/"
+                "title": "Elligator: Elliptic-curve points indistinguishable from uniform random strings",
+                "href": "https://dl.acm.org/doi/10.1145/2508859.2516734"
             },
             {
                 "title": "Amazon's Kindle Direct Publishing is a dystopian nightmare",
                 "href": "item?id=40992654"
             },
             {
-                "title": "He secretly changed this freeway sign, helped millions of drivers [video]",
-                "href": "https://www.youtube.com/watch?v=26-4oARwfF4"
+                "title": "The unexpected poetry of PhD acknowledgements",
+                "href": "https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements"
             },
             {
-                "title": "Pseudo Scheme: Scheme Implemented on Top of Common Lisp",
-                "href": "https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html"
+                "title": "My daughter (7 years old) used HTML to make a website",
+                "href": "https://naya.lol"
+            },
+            {
+                "title": "A brief interview with Awk creator Dr. Brian Kernighan (2022)",
+                "href": "https://pldb.io/blog/brianKernighan.html"
+            },
+            {
+                "title": "Who Killed the World?",
+                "href": "https://pudding.cool/2024/07/scifi/"
+            },
+            {
+                "title": "Releasing an Album on Floppy Disk",
+                "href": "https://www.michaelgale.dev/blog/releasing-an-album-on-floppy-disk"
+            },
+            {
+                "title": "Closed form arc length parametrization is impossible for quadratic B\u00e9zier curves",
+                "href": "https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/"
+            },
+            {
+                "title": "He secretly changed this freeway sign, helped millions of drivers [video]",
+                "href": "https://www.youtube.com/watch?v=26-4oARwfF4"
             },
             {
                 "title": "Little Languages (1986) [pdf]",
@@ -859,8 +855,8 @@
                 "href": "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/"
             },
             {
-                "title": "Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)",
-                "href": "https://etleap.com/careers/customer-success-manager/"
+                "title": "Pseudo Scheme: Scheme Implemented on Top of Common Lisp",
+                "href": "https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/impl/pseudo/0.html"
             },
             {
                 "title": "Show HN: SQLite Transaction Benchmarking Tool",
@@ -871,16 +867,24 @@
                 "href": "https://tracklist.it/"
             },
             {
+                "title": "Etleap (YC W13) Is Hiring a Customer Success Manager (San Francisco)",
+                "href": "https://etleap.com/careers/customer-success-manager/"
+            },
+            {
                 "title": "Self-Awareness Might Not Have Evolved to Benefit the Self After All",
                 "href": "https://www.sciencealert.com/self-awareness-might-not-have-evolved-to-benefit-the-self-after-all"
             },
             {
-                "title": "The struggle to understand why earthquakes happen in America's heartland",
-                "href": "https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/"
-            },
-            {
                 "title": "Prover-Verifier Games improve legibility of language model outputs",
                 "href": "https://openai.com/index/prover-verifier-games-improve-legibility/"
+            },
+            {
+                "title": "Money and Happiness: Extended Evidence Against Satiation",
+                "href": "https://happiness-science.org/money-happiness-satiation/"
+            },
+            {
+                "title": "The struggle to understand why earthquakes happen in America's heartland",
+                "href": "https://undark.org/2024/07/15/enigmatic-earthquake-hotspot-america-heartland/"
             },
             {
                 "title": "Electra: Pre-Training Text Encoders as Discriminators Rather Than Generators",
@@ -895,20 +899,16 @@
                 "href": "https://github.com/randombk/llm2sh"
             },
             {
-                "title": "GMC made a motorhome that pumped sewage through its exhaust on purpose",
-                "href": "https://www.thedrive.com/news/culture/gmc-made-a-motorhome-that-pumped-sewage-through-its-exhaust-on-purpose"
-            },
-            {
                 "title": "Launch HN: Traceloop (YC W23) \u2013 Detecting LLM Hallucinations with OpenTelemetry",
                 "href": "item?id=40985609"
             },
             {
-                "title": "Reverse-Engineering an IP Camera (2019)",
-                "href": "https://dalpix.com/reverse-engineering-ip-camera-part-1"
+                "title": "Overcoming the Limits of Large Language Models",
+                "href": "https://seanpedersen.github.io/posts/overcoming-llm-limits"
             },
             {
-                "title": "Vulnerable transistors threaten to upend Europa Clipper mission",
-                "href": "https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission"
+                "title": "Reverse-Engineering an IP Camera (2019)",
+                "href": "https://dalpix.com/reverse-engineering-ip-camera-part-1"
             }
         ]
     }
