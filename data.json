@@ -11,12 +11,16 @@
                 "href": "http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/"
             },
             {
-                "title": "Pixi - reproducible, scientific software workflows",
-                "href": "https://prefix.dev/blog/pixi_for_scientists"
+                "title": "Semaphores in Golang and GNU make",
+                "href": "https://dotat.at/@/2024-07-18-semaphores.html"
             },
             {
                 "title": "Helix 24.07",
                 "href": "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
+            },
+            {
+                "title": "Pixi - reproducible, scientific software workflows",
+                "href": "https://prefix.dev/blog/pixi_for_scientists"
             },
             {
                 "title": "Postgres major version upgrades with minimal downtime",
@@ -31,10 +35,6 @@
                 "href": "https://schpet.com/note/git-commit-messages-are-optional"
             },
             {
-                "title": "Semaphores in Golang and GNU make",
-                "href": "https://dotat.at/@/2024-07-18-semaphores.html"
-            },
-            {
                 "title": "Google Now Defaults to Not Indexing Your Content",
                 "href": "https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/"
             },
@@ -43,12 +43,12 @@
                 "href": "https://www.alilleybrinker.com/blog/cpp-must-become-safer/"
             },
             {
-                "title": "Building the new Hypermedia Systems",
-                "href": "https://dz4k.com/2024/new-hypermedia-systems/"
-            },
-            {
                 "title": "Hash-Based Bisect Debugging in Compilers and Runtimes",
                 "href": "https://research.swtch.com/bisect"
+            },
+            {
+                "title": "Building the new Hypermedia Systems",
+                "href": "https://dz4k.com/2024/new-hypermedia-systems/"
             },
             {
                 "title": "NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules",
@@ -63,8 +63,16 @@
                 "href": "https://easylang.online/apps/tut_mcarlo.html?2407"
             },
             {
+                "title": "A proposal for destructive move through function arguments in C++ and C",
+                "href": "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
+            },
+            {
                 "title": "The Pitfalls of In-App Browsers",
                 "href": "https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/"
+            },
+            {
+                "title": "SQLite Transactions",
+                "href": "https://reorchestrate.com/posts/sqlite-transactions/"
             },
             {
                 "title": "89 things I know about Git commits",
@@ -75,32 +83,24 @@
                 "href": "https://youtu.be/i9nFvSpcCzo"
             },
             {
-                "title": "A proposal for destructive move through function arguments in C++ and C",
-                "href": "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
-            },
-            {
                 "title": "Can I \u2026? tools",
                 "href": "https://status.pointless.one/@pointlessone/112802420328494789"
-            },
-            {
-                "title": "SQLite Transactions",
-                "href": "https://reorchestrate.com/posts/sqlite-transactions/"
-            },
-            {
-                "title": "Apache removes the feather from their branding",
-                "href": "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
             },
             {
                 "title": "Rye language",
                 "href": "https://ryelang.org/"
             },
             {
-                "title": "The Objects of Our Life (1983)",
-                "href": "https://stevejobsarchive.com/exhibits/objects-of-our-life"
+                "title": "The European Union must keep funding free software - HedgeDoc",
+                "href": "https://pad.public.cat/lettre-NCP-NGI"
             },
             {
-                "title": "Elements of Data Science",
-                "href": "https://allendowney.github.io/ElementsOfDataScience/README.html"
+                "title": "How Many Languages Does Wikimedia Search Support?",
+                "href": "https://techblog.wikimedia.org/2024/07/18/how-many-languages-does-wikimedia-search-support/"
+            },
+            {
+                "title": "Apache removes the feather from their branding",
+                "href": "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Nvidia Will Fully Transition To Open-Source GPU Kernel Modules With R560 Drivers",
+                "href": "https://news.slashdot.org/story/24/07/18/2050235/nvidia-will-fully-transition-to-open-source-gpu-kernel-modules-with-r560-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Google URL Shortener Links Will Return a 404 Response",
                 "href": "https://news.slashdot.org/story/24/07/18/216211/google-url-shortener-links-will-return-a-404-response?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Psilocybin Desynchronizes the Human Brain",
                 "href": "https://science.slashdot.org/story/24/07/18/0010239/psilocybin-desynchronizes-the-human-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "California's Grid Survives Heat Wave Thanks to Massive Battery Storage",
-                "href": "https://hardware.slashdot.org/story/24/07/17/2353232/californias-grid-survives-heat-wave-thanks-to-massive-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -803,40 +803,52 @@
                 "href": "https://research.swtch.com/bisect"
             },
             {
-                "title": "Polychromatic Pixels",
-                "href": "https://compoundsemiconductor.net/article/119170/Polychromatic_pixels"
+                "title": "Writing an MP4 Muxer for Fun and Profit",
+                "href": "https://obsproject.com/blog/obs-studio-hybrid-mp4"
             },
             {
                 "title": "Transcribro: On-device Accurate Speech-to-text",
                 "href": "https://github.com/soupslurpr/Transcribro"
             },
             {
+                "title": "NASA cancels $450M mission to drill for ice on the Moon",
+                "href": "https://www.nature.com/articles/d41586-024-02361-1"
+            },
+            {
                 "title": "Mutable.ai (YC W22) is hiring to build an AI codebase expert",
                 "href": "item?id=40999700"
             },
             {
-                "title": "USPS shared customer postal addresses with Meta, LinkedIn and Snap",
-                "href": "https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/"
-            },
-            {
-                "title": "Bob Newhart, Comedy Icon, Dies at 94",
-                "href": "https://variety.com/2024/tv/news/bob-newhart-dead-comedian-1236077300/"
-            },
-            {
-                "title": "What would it take to recreate Bell Labs?",
-                "href": "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell"
+                "title": "Polychromatic Pixels",
+                "href": "https://compoundsemiconductor.net/article/119170/Polychromatic_pixels"
             },
             {
                 "title": "My daughter (7 years old) used HTML to make a website",
                 "href": "https://naya.lol"
             },
             {
-                "title": "FCC closes \"final loopholes\" that keep prison phone prices exorbitantly high",
-                "href": "https://arstechnica.com/tech-policy/2024/07/fcc-closes-final-loopholes-that-keep-prison-phone-prices-exorbitantly-high/"
+                "title": "USPS shared customer postal addresses with Meta, LinkedIn and Snap",
+                "href": "https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/"
+            },
+            {
+                "title": "What would it take to recreate Bell Labs?",
+                "href": "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell"
             },
             {
                 "title": "What Materials Are Magnetic?",
                 "href": "https://sciencenotes.org/list-of-magnetic-metals/"
+            },
+            {
+                "title": "The only tourist in Moldova",
+                "href": "https://www.telegraph.co.uk/travel/destinations/europe/moldova-europe-least-visited-country/"
+            },
+            {
+                "title": "Strategizing Your Preparation for Machine Learning Interviews",
+                "href": "https://mlengineerinsights.substack.com/p/strategizing-your-preparation-for"
+            },
+            {
+                "title": "Ask HN: What's Prolog like in 2024?",
+                "href": "item?id=40994552"
             },
             {
                 "title": "A type system for RCL, part 2: The type system",
@@ -847,12 +859,8 @@
                 "href": "https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813"
             },
             {
-                "title": "Meta puts a halt to training its generative AI tools in Brazil",
-                "href": "https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/"
-            },
-            {
-                "title": "Writing an MP4 Muxer for Fun and Profit",
-                "href": "https://obsproject.com/blog/obs-studio-hybrid-mp4"
+                "title": "Police warn of thieves using WiFi-jamming tech to disarm cameras, alarms",
+                "href": "https://ktla.com/news/local-news/police-warn-of-thieves-using-wifi-jamming-tech-to-disarm-cameras-alarms/"
             },
             {
                 "title": "Inside the Three-Way Race to Create the Most Widely Used Laser",
@@ -867,6 +875,10 @@
                 "href": "https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements"
             },
             {
+                "title": "60-year-old German man likely seventh person to be effectively cured from HIV",
+                "href": "https://www.rfi.fr/en/international-news/20240718-seventh-person-likely-cured-of-hiv-doctors-announce"
+            },
+            {
                 "title": "Wing-slapping: A defensive behavior by honey bees against ants",
                 "href": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372"
             },
@@ -879,8 +891,8 @@
                 "href": "https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894"
             },
             {
-                "title": "Ask HN: What's Prolog like in 2024?",
-                "href": "item?id=40994552"
+                "title": "Premature Abstraction",
+                "href": "https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/"
             },
             {
                 "title": "A brief interview with Awk creator Dr. Brian Kernighan (2022)",
@@ -891,20 +903,8 @@
                 "href": "https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security"
             },
             {
-                "title": "Evolving the ASF Brand",
-                "href": "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
-            },
-            {
-                "title": "Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)",
-                "href": "https://dl.acm.org/doi/10.1145/2508859.2516734"
-            },
-            {
                 "title": "Jailbreaking RabbitOS",
                 "href": "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
-            },
-            {
-                "title": "The Semmelweis myth and why it's not true (2018)",
-                "href": "https://digitaltonto.com/2018/the-semmelweis-myth-and-why-its-not-really-true/"
             }
         ]
     }
