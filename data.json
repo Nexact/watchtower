@@ -15,12 +15,16 @@
                 "href": "https://prefix.dev/blog/pixi_for_scientists"
             },
             {
+                "title": "Gotchas with SQLite in Production",
+                "href": "https://blog.pecar.me/sqlite-prod"
+            },
+            {
                 "title": "commit messages are optional",
                 "href": "https://schpet.com/note/git-commit-messages-are-optional"
             },
             {
-                "title": "Gotchas with SQLite in Production",
-                "href": "https://blog.pecar.me/sqlite-prod"
+                "title": "Helix 24.07",
+                "href": "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
             },
             {
                 "title": "Google Now Defaults to Not Indexing Your Content",
@@ -31,8 +35,8 @@
                 "href": "https://xata.io/blog/postgres-major-version-upgrades"
             },
             {
-                "title": "Helix 24.07",
-                "href": "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
+                "title": "Semaphores in Golang and GNU make",
+                "href": "https://dotat.at/@/2024-07-18-semaphores.html"
             },
             {
                 "title": "C++ Must Become Safer",
@@ -41,10 +45,6 @@
             {
                 "title": "Building the new Hypermedia Systems",
                 "href": "https://dz4k.com/2024/new-hypermedia-systems/"
-            },
-            {
-                "title": "Semaphores in Golang and GNU make",
-                "href": "https://dotat.at/@/2024-07-18-semaphores.html"
             },
             {
                 "title": "Hash-Based Bisect Debugging in Compilers and Runtimes",
@@ -67,40 +67,40 @@
                 "href": "https://www.jvt.me/posts/2024/07/12/things-know-commits/"
             },
             {
-                "title": "SQLite Transactions",
-                "href": "https://reorchestrate.com/posts/sqlite-transactions/"
-            },
-            {
                 "title": "Zig as a Multi-OS Build System (Interview with Loris Cro)",
                 "href": "https://youtu.be/i9nFvSpcCzo"
+            },
+            {
+                "title": "SQLite Transactions",
+                "href": "https://reorchestrate.com/posts/sqlite-transactions/"
             },
             {
                 "title": "Can I \u2026? tools",
                 "href": "https://status.pointless.one/@pointlessone/112802420328494789"
             },
             {
+                "title": "A proposal for destructive move through function arguments in C++ and C",
+                "href": "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
+            },
+            {
                 "title": "Rye language",
                 "href": "https://ryelang.org/"
+            },
+            {
+                "title": "Secure Boot on Gentoo with shim & GRUB",
+                "href": "https://www.setphaserstostun.org/posts/secure-boot-on-gentoo-with-shim-grub/"
             },
             {
                 "title": "Elm Camp 2024",
                 "href": "https://jfmengels.net/elm-camp-2024/"
             },
             {
-                "title": "A proposal for destructive move through function arguments in C++ and C",
-                "href": "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
+                "title": "GPT-4o mini",
+                "href": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/"
             },
             {
                 "title": "Utilizing value semantics in Swift (2019)",
                 "href": "https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/"
-            },
-            {
-                "title": "A type system for RCL, part 2: The type system",
-                "href": "https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system"
-            },
-            {
-                "title": "Parsing raw data with existential types",
-                "href": "https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "OpenAI Unveils Cheaper Small AI Model GPT-4o Mini",
+                "href": "https://slashdot.org/story/24/07/18/1926224/openai-unveils-cheaper-small-ai-model-gpt-4o-mini?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "USPS Shared Customers Postal Addresses With Meta, LinkedIn and Snap",
                 "href": "https://yro.slashdot.org/story/24/07/18/1919228/usps-shared-customers-postal-addresses-with-meta-linkedin-and-snap?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Valve Runs Its Massive PC Gaming Ecosystem With Only About 350 Employees",
                 "href": "https://games.slashdot.org/story/24/07/17/2113205/valve-runs-its-massive-pc-gaming-ecosystem-with-only-about-350-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Meta Opens Pilot Program For Researchers To Study Instagram's Impact On Teen Mental Health",
-                "href": "https://tech.slashdot.org/story/24/07/17/2058214/meta-opens-pilot-program-for-researchers-to-study-instagrams-impact-on-teen-mental-health?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,12 +791,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "What would it take to recreate Bell Labs?",
+                "href": "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell"
+            },
+            {
                 "title": "Devzat \u2013 Chat over SSH, with some nice quality-of-life features",
                 "href": "https://github.com/quackduck/devzat"
             },
             {
                 "title": "Polychromatic Pixels",
                 "href": "https://compoundsemiconductor.net/article/119170/Polychromatic_pixels"
+            },
+            {
+                "title": "Type in Morse code by repeatedly slamming your laptop shut",
+                "href": "https://github.com/veggiedefender/open-and-shut"
             },
             {
                 "title": "The Objects of Our Life (1983)",
@@ -807,44 +815,44 @@
                 "href": "https://research.swtch.com/bisect"
             },
             {
-                "title": "Type in Morse code by repeatedly slamming your laptop shut",
-                "href": "https://github.com/veggiedefender/open-and-shut"
+                "title": "USPS shared customer postal addresses with Meta, LinkedIn and Snap",
+                "href": "https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/"
             },
             {
-                "title": "Evolving the ASF Brand",
-                "href": "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
-            },
-            {
-                "title": "Jigsaw Puzzle Robot [pdf]",
-                "href": "https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813"
-            },
-            {
-                "title": "My daughter (7 years old) used HTML to make a website",
-                "href": "https://naya.lol"
+                "title": "A type system for RCL, part 2: The type system",
+                "href": "https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system"
             },
             {
                 "title": "Transcribro: On-device Accurate Speech-to-text",
                 "href": "https://github.com/soupslurpr/Transcribro"
             },
             {
-                "title": "Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)",
-                "href": "https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be"
-            },
-            {
                 "title": "What Materials Are Magnetic?",
                 "href": "https://sciencenotes.org/list-of-magnetic-metals/"
             },
             {
-                "title": "USPS shared customer postal addresses with Meta, LinkedIn and Snap",
-                "href": "https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/"
+                "title": "My daughter (7 years old) used HTML to make a website",
+                "href": "https://naya.lol"
+            },
+            {
+                "title": "Eventual (YC W22) Is Hiring a Developer Relations Manager for Daft (SF)",
+                "href": "https://jobs.ashbyhq.com/eventualcomputing/504beb69-b6e4-4600-8eee-751c576655be"
+            },
+            {
+                "title": "Jigsaw Puzzle Robot [pdf]",
+                "href": "https://cdn.shopify.com/s/files/1/0634/1535/3575/files/Puzzle_Robot_-_Technical_Writeup-compressed.pdf?v=1720839813"
+            },
+            {
+                "title": "Forewarn gives realtors access to buyers' histories with a phone number",
+                "href": "https://therecord.media/forewarn-app-real-estate-homebuyer-data"
+            },
+            {
+                "title": "A 378-day Mars simulation changed this Canadian scientist's outlook on life",
+                "href": "https://www.cbc.ca/radio/asithappens/canadian-mars-simulation-1.7266286"
             },
             {
                 "title": "Ask HN: What's Prolog like in 2024?",
                 "href": "item?id=40994552"
-            },
-            {
-                "title": "Sparrows may be 'canary in the coal mine' for lead poisoning in children: study",
-                "href": "https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894"
             },
             {
                 "title": "A RP2040 based DECstation 3000 emulator that can run DECWindows",
@@ -855,24 +863,20 @@
                 "href": "https://www.kb6nu.com/back-to-the-future-are-hackers-the-future-of-amateur-radio/"
             },
             {
-                "title": "MapLab: Sleuthing for Undersea Cables",
-                "href": "https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables"
+                "title": "Wing-slapping: A defensive behavior by honey bees against ants",
+                "href": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372"
+            },
+            {
+                "title": "Sparrows may be 'canary in the coal mine' for lead poisoning in children: study",
+                "href": "https://www.abc.net.au/news/science/2024-07-18/sparrows-lead-poisoning-children-blood-levels-health-mining/104075894"
             },
             {
                 "title": "The unexpected poetry of PhD acknowledgements",
                 "href": "https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements"
             },
             {
-                "title": "Mistral NeMo",
-                "href": "https://mistral.ai/news/mistral-nemo/"
-            },
-            {
                 "title": "A brief interview with Awk creator Dr. Brian Kernighan (2022)",
                 "href": "https://pldb.io/blog/brianKernighan.html"
-            },
-            {
-                "title": "Forewarn gives realtors access to buyers' histories with a phone number",
-                "href": "https://therecord.media/forewarn-app-real-estate-homebuyer-data"
             },
             {
                 "title": "Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)",
@@ -883,6 +887,18 @@
                 "href": "https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security"
             },
             {
+                "title": "Mistral NeMo",
+                "href": "https://mistral.ai/news/mistral-nemo/"
+            },
+            {
+                "title": "SpreadsheetLLM \u2013 Microsoft's new AI system",
+                "href": "https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/"
+            },
+            {
+                "title": "MapLab: Sleuthing for Undersea Cables",
+                "href": "https://www.bloomberg.com/news/newsletters/2024-07-17/subway-style-map-visualizes-world-s-network-of-submarine-cables"
+            },
+            {
                 "title": "Jailbreaking RabbitOS",
                 "href": "https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html"
             },
@@ -891,24 +907,8 @@
                 "href": "https://staff.um.edu.mt/afra1/seminar/little-languages.pdf"
             },
             {
-                "title": "Wing-slapping: A defensive behavior by honey bees against ants",
-                "href": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4372"
-            },
-            {
-                "title": "SpreadsheetLLM \u2013 Microsoft's new AI system",
-                "href": "https://www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/"
-            },
-            {
-                "title": "NVIDIA Transitions Fully Towards Open-Source Linux GPU Kernel Modules",
-                "href": "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/"
-            },
-            {
-                "title": "Closed form arc length parametrization is impossible for quadratic B\u00e9zier curves",
-                "href": "https://ninjakoa.la/curly_curves/posts/quadratic_bezier_arc_length_parametrization/"
-            },
-            {
-                "title": "Show HN: Product Hunt for Music",
-                "href": "https://tracklist.it/"
+                "title": "Meta puts a halt to training its generative AI tools in Brazil",
+                "href": "https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/"
             }
         ]
     }
