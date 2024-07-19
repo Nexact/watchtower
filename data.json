@@ -23,20 +23,24 @@
                 "href": "https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/"
             },
             {
-                "title": "First impressions of Go 1.23's range-over-func feature",
-                "href": "https://boldlygo.tech/posts/2024-07-18-range-over-func/"
-            },
-            {
                 "title": "New features in C++26",
                 "href": "https://lwn.net/Articles/979870/"
             },
             {
-                "title": "Semaphores in Golang and GNU make",
-                "href": "https://dotat.at/@/2024-07-18-semaphores.html"
+                "title": "First impressions of Go 1.23's range-over-func feature",
+                "href": "https://boldlygo.tech/posts/2024-07-18-range-over-func/"
             },
             {
                 "title": "Tests you love to read, write and change",
                 "href": "https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change"
+            },
+            {
+                "title": "Where Should Visual Programming Go?",
+                "href": "https://tonsky.me/blog/diagrams/"
+            },
+            {
+                "title": "Semaphores in Golang and GNU make",
+                "href": "https://dotat.at/@/2024-07-18-semaphores.html"
             },
             {
                 "title": "An AVR Programmer for the C64",
@@ -47,16 +51,12 @@
                 "href": "https://blog.val.town/blog/node-spawn-performance/"
             },
             {
-                "title": "Where Should Visual Programming Go?",
-                "href": "https://tonsky.me/blog/diagrams/"
+                "title": "Row pattern recognition feature for PostgreSQL",
+                "href": "https://pgsqlpgpool.blogspot.com/2024/07/row-pattern-recognition-feature-for.html"
             },
             {
                 "title": "Helix 24.07",
                 "href": "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
-            },
-            {
-                "title": "Row pattern recognition feature for PostgreSQL",
-                "href": "https://pgsqlpgpool.blogspot.com/2024/07/row-pattern-recognition-feature-for.html"
             },
             {
                 "title": "NSCopyObject, the griefer that keeps on griefing",
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
+            },
+            {
+                "title": "Crowdstrike Outage brings down the Internet",
+                "href": "https://www.reddit.com/r/netsec/comments/1e78k6t/crowdstrike_outage_brings_down_the_internet/"
             },
             {
                 "title": "PARODY: I survived CrowdStrike Gate - 20240719 | Swag Apparel",
@@ -206,16 +210,16 @@
             {
                 "title": "Exploiting An Enterprise Backup Driver For Privilege Escalation - CVE-2023-43896",
                 "href": "https://www.reddit.com/r/netsec/comments/1dyxbhx/exploiting_an_enterprise_backup_driver_for/"
-            },
-            {
-                "title": "Creating your own burp plugin.",
-                "href": "https://www.reddit.com/r/netsec/comments/1dz8853/creating_your_own_burp_plugin/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "MediSecure: Ransomware gang stole data of 12.9 million people",
+                "href": "https://www.bleepingcomputer.com/news/security/medisecure-ransomware-gang-stole-data-of-129-million-people/"
+            },
             {
                 "title": "CrowdStrike update crashes Windows systems, causes outages worldwide",
                 "href": "https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/"
@@ -255,10 +259,6 @@
             {
                 "title": "Exchange Online adds Inbound DANE with DNSSEC for security boost",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-security-boost/"
-            },
-            {
-                "title": "Cisco SSM On-Prem bug lets hackers change any user's password",
-                "href": "https://www.bleepingcomputer.com/news/security/cisco-ssm-on-prem-bug-lets-hackers-change-any-users-password/"
             }
         ]
     },
@@ -310,6 +310,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "It's Not Just CrowdStrike - the Cyber Sector is Vulnerable",
+                "href": "https://tech.slashdot.org/story/24/07/19/162201/its-not-just-crowdstrike---the-cyber-sector-is-vulnerable?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "The Rise and Fall of Software Developer Jobs",
                 "href": "https://developers.slashdot.org/story/24/07/19/1459221/the-rise-and-fall-of-software-developer-jobs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "Google URL Shortener Links Will Return a 404 Response",
                 "href": "https://news.slashdot.org/story/24/07/18/216211/google-url-shortener-links-will-return-a-404-response?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "FCC Closes 'Final Loopholes' That Keep Prison Phone Prices Exorbitantly High",
-                "href": "https://mobile.slashdot.org/story/24/07/18/1933215/fcc-closes-final-loopholes-that-keep-prison-phone-prices-exorbitantly-high?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,60 +791,64 @@
                 "href": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/"
             },
             {
-                "title": "FCC votes to limit prison telecom charges",
-                "href": "https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms"
-            },
-            {
                 "title": "Show HN: Sendune \u2013 open-source HTML email designer",
                 "href": "item?id=41007403"
             },
             {
-                "title": "Foliate: Read e-books in style, navigate with ease",
-                "href": "https://johnfactotum.github.io/foliate/"
+                "title": "FCC votes to limit prison telecom charges",
+                "href": "https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms"
             },
             {
                 "title": "CrowdStrike fixes start at \"reboot up to 15 times\", gets more complex from there",
                 "href": "https://arstechnica.com/information-technology/2024/07/crowdstrike-fixes-start-at-reboot-up-to-15-times-and-get-more-complex-from-there/"
             },
             {
-                "title": "It's not just CrowdStrike \u2013 the cyber sector is vulnerable",
-                "href": "https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a"
+                "title": "Foliate: Read e-books in style, navigate with ease",
+                "href": "https://johnfactotum.github.io/foliate/"
+            },
+            {
+                "title": "Aviator (YC S21) Is hiring engineers to build the DevEx platform",
+                "href": "https://www.ycombinator.com/companies/aviator/jobs"
             },
             {
                 "title": "Instrumenting Python GIL with eBPF",
                 "href": "https://coroot.com/blog/instrumenting-python-gil-with-ebpf"
             },
             {
-                "title": "NASA's Curiosity rover discovers a surprise in a Martian rock",
-                "href": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock"
-            },
-            {
-                "title": "10-acre underground home and gardens in Fresno (2023) [video]",
-                "href": "https://www.youtube.com/watch?v=mUKRPoQKynk"
-            },
-            {
-                "title": "Deletion of Il11 extended the lives of mice by 25%",
-                "href": "https://www.nature.com/articles/s41586-024-07701-9"
-            },
-            {
-                "title": "Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up",
-                "href": "https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/"
-            },
-            {
-                "title": "Want to spot a deepfake? Look for the stars in their eyes",
-                "href": "https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes"
-            },
-            {
-                "title": "Type in Morse code by repeatedly slamming your laptop shut",
-                "href": "https://github.com/veggiedefender/open-and-shut"
+                "title": "Visual programming should start in the debugger",
+                "href": "https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/"
             },
             {
                 "title": "Debugging an evil Go runtime bug: From heat guns to kernel compiler flags",
                 "href": "https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/"
             },
             {
-                "title": "Visual programming should start in the debugger",
-                "href": "https://interjectedfuture.com/visual-programming-should-start-in-the-debugger/"
+                "title": "Deletion of Il11 extended the lives of mice by 25%",
+                "href": "https://www.nature.com/articles/s41586-024-07701-9"
+            },
+            {
+                "title": "10-acre underground home and gardens in Fresno (2023) [video]",
+                "href": "https://www.youtube.com/watch?v=mUKRPoQKynk"
+            },
+            {
+                "title": "NASA's Curiosity rover discovers a surprise in a Martian rock",
+                "href": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock"
+            },
+            {
+                "title": "Want to spot a deepfake? Look for the stars in their eyes",
+                "href": "https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes"
+            },
+            {
+                "title": "Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up",
+                "href": "https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/"
+            },
+            {
+                "title": "Type in Morse code by repeatedly slamming your laptop shut",
+                "href": "https://github.com/veggiedefender/open-and-shut"
+            },
+            {
+                "title": "Signs of two gases in clouds of Venus could indicate life, scientists say",
+                "href": "https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life"
             },
             {
                 "title": "Devzat \u2013 Chat over SSH, with some nice quality-of-life features",
@@ -863,12 +867,12 @@
                 "href": "https://www.theendpoem.com/"
             },
             {
-                "title": "Signs of two gases in clouds of Venus could indicate life, scientists say",
-                "href": "https://www.theguardian.com/science/article/2024/jul/17/signs-of-two-gases-phosphine-ammonia-in-clouds-of-venus-life"
-            },
-            {
                 "title": "Professional poker players know the optimal strategy but don't always use it",
                 "href": "https://www.scientificamerican.com/article/the-nash-equilibrium-is-the-optimal-poker-strategy-expert-players-dont-always-use-it/"
+            },
+            {
+                "title": "Elephants use namelike calls",
+                "href": "https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/"
             },
             {
                 "title": "Polychromatic Pixels",
@@ -879,28 +883,24 @@
                 "href": "https://research.swtch.com/bisect"
             },
             {
-                "title": "Rollstack (YC W23) Is Hiring Exceptional TypeScript Engineers",
-                "href": "https://www.ycombinator.com/companies/rollstack-2/jobs"
-            },
-            {
-                "title": "Elephants use namelike calls",
-                "href": "https://www.theatlantic.com/science/archive/2024/07/animal-naming-elephant-consciousness-language/679075/"
-            },
-            {
                 "title": "Show HN: NetSour, CLI Based Wireshark",
                 "href": "https://github.com/thegoodduck/NetSour"
-            },
-            {
-                "title": "Transcribro: On-device Accurate Speech-to-text",
-                "href": "https://github.com/soupslurpr/Transcribro"
             },
             {
                 "title": "Mining Pool Game Theory During Forks",
                 "href": "https://b10c.me/blog/014-mining-pool-game-theory-during-forks/"
             },
             {
-                "title": "Deutsche Telekom issued invalid certificates, hasn't revoked them since 6 months",
-                "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=1877388"
+                "title": "It's not just CrowdStrike \u2013 the cyber sector is vulnerable",
+                "href": "https://www.ft.com/content/d2f529fe-3050-4ef5-a8c7-6487d533e57a"
+            },
+            {
+                "title": "Transcribro: On-device Accurate Speech-to-text",
+                "href": "https://github.com/soupslurpr/Transcribro"
+            },
+            {
+                "title": "Show HN: How we leapfrogged traditional vector based RAG with a 'language map'",
+                "href": "https://twitter.com/mutableai/status/1813815706783490055"
             },
             {
                 "title": "3D visualization brings nuclear fusion to life",
