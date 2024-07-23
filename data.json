@@ -3,20 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "git-spice - manage stacked Git branches",
-                "href": "https://abhinav.github.io/git-spice/"
-            },
-            {
                 "title": "Build your own SQLite in Rust - Part1",
                 "href": "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
             },
             {
-                "title": "Nix Camp 2024 is On",
-                "href": "https://nix.camp/"
+                "title": "git-spice - manage stacked Git branches",
+                "href": "https://abhinav.github.io/git-spice/"
             },
             {
                 "title": "The algebra (and calculus!) of algebraic data types",
                 "href": "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
+            },
+            {
+                "title": "Nix Camp 2024 is On",
+                "href": "https://nix.camp/"
             },
             {
                 "title": "jiff: A date-time library for Rust that encourages you to jump into the pit of success",
@@ -33,6 +33,10 @@
             {
                 "title": "From Linux to NetBSD, with SSH only",
                 "href": "https://cloudbsd.xyz/"
+            },
+            {
+                "title": "Types as Interfaces",
+                "href": "https://two-wrongs.com/types-as-interfaces"
             },
             {
                 "title": "What's the point of std::monostate? You can't do anything with it",
@@ -59,6 +63,10 @@
                 "href": "https://werat.dev/blog/how-conditional-breakpoints-work/"
             },
             {
+                "title": "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
+                "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+            },
+            {
                 "title": "Did you know about Instruments?",
                 "href": "https://registerspill.thorstenball.com/p/did-you-know-about-instruments"
             },
@@ -83,24 +91,16 @@
                 "href": "https://scottsexton.co/post/opencv_wild_kingdom/"
             },
             {
+                "title": "Could we have an 'Observability' tag?",
+                "href": "https://lobste.rs/s/5kcniv/could_we_have_observability_tag"
+            },
+            {
                 "title": "Rust Question on embedding FSM in wrapper struct(s)",
                 "href": "https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper"
             },
             {
                 "title": "The Historical Case for Fair Source",
                 "href": "https://openpath.chadwhitacre.com/2024/the-historical-case-for-fair-source/"
-            },
-            {
-                "title": "How not to use box shadows",
-                "href": "https://dgerrells.com/blog/how-not-to-use-box-shadows"
-            },
-            {
-                "title": "3 ways to get Remote Code Execution in Kafka UI",
-                "href": "https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/"
-            },
-            {
-                "title": "Maintain a golden test of your package's API with `diff-package-api` and `print-api`",
-                "href": "https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997"
             }
         ]
     },
@@ -799,8 +799,8 @@
                 "href": "https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/"
             },
             {
-                "title": "Cure for male pattern baldness given boost by sugar discovery",
-                "href": "https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery"
+                "title": "Database Design for Google Calendar: A Tutorial",
+                "href": "https://kb.databasedesignbook.com/posts/google-calendar/"
             },
             {
                 "title": "Kawaii \u2013 A Keychain-Sized Nintendo Wii",
@@ -835,40 +835,36 @@
                 "href": "https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/"
             },
             {
-                "title": "Difference between running Postgres for yourself and for others",
-                "href": "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
-            },
-            {
                 "title": "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
                 "href": "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
             },
             {
-                "title": "Re: Do people IRL know you have a blog?",
-                "href": "https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/"
-            },
-            {
-                "title": "Audapolis: Edit audio files by transcript, not waveform",
-                "href": "https://github.com/bugbakery/audapolis"
-            },
-            {
-                "title": "Unconditional Cash Study: first findings available",
-                "href": "https://www.openresearchlab.org/studies/unconditional-cash-study/study"
-            },
-            {
-                "title": "OpenCV and the Wild Kingdom",
-                "href": "https://scottsexton.co/post/opencv_wild_kingdom/"
-            },
-            {
-                "title": "Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)",
-                "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+                "title": "Difference between running Postgres for yourself and for others",
+                "href": "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
             },
             {
                 "title": "300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed",
                 "href": "https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b"
             },
             {
-                "title": "Ask HN: Is it possible to make FAANG salaries without working there?",
-                "href": "item?id=41042123"
+                "title": "Audapolis: Edit audio files by transcript, not waveform",
+                "href": "https://github.com/bugbakery/audapolis"
+            },
+            {
+                "title": "OpenCV and the Wild Kingdom",
+                "href": "https://scottsexton.co/post/opencv_wild_kingdom/"
+            },
+            {
+                "title": "Unconditional Cash Study: first findings available",
+                "href": "https://www.openresearchlab.org/studies/unconditional-cash-study/study"
+            },
+            {
+                "title": "Re: Do people IRL know you have a blog?",
+                "href": "https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/"
+            },
+            {
+                "title": "Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)",
+                "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
             },
             {
                 "title": "Maestro: Netflix's Workflow Orchestrator",
@@ -879,8 +875,8 @@
                 "href": "https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/another-intermediate-mass-black-hole-discovered-at-the-centre-of-our-galaxy"
             },
             {
-                "title": "Wiz walks away from $23B deal with Google",
-                "href": "https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html"
+                "title": "Cure for male pattern baldness given boost by sugar discovery",
+                "href": "https://www.sheffield.ac.uk/news/cure-male-pattern-baldness-given-boost-sugar-discovery"
             },
             {
                 "title": "Wiz Rejects Alphabet's $23B Offer, Seeks IPO",
@@ -891,28 +887,32 @@
                 "href": "https://ieeexplore.ieee.org/document/10549891"
             },
             {
-                "title": "Reflections on Luck and Skill from the Part Time Poker Grind",
-                "href": "https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on"
+                "title": "Wiz walks away from $23B deal with Google",
+                "href": "https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html"
             },
             {
                 "title": "Planck stars, White Holes, Remnants and Planck-mass quasi-particles",
                 "href": "https://arxiv.org/abs/2407.09584"
             },
             {
-                "title": "Roame (YC S23) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations"
-            },
-            {
                 "title": "Show HN: OpenDataCapture an electronic data capture platform for data collection",
                 "href": "https://github.com/DouglasNeuroInformatics/OpenDataCapture"
+            },
+            {
+                "title": "Reflections on Luck and Skill from the Part Time Poker Grind",
+                "href": "https://thehobbyist.substack.com/p/800-85k-in-72-hours-reflections-on"
+            },
+            {
+                "title": "Roame (YC S23) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations"
             },
             {
                 "title": "No More Blue Fridays",
                 "href": "https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html"
             },
             {
-                "title": "What's the point of std:monostate? You can't do anything with it",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
+                "title": "The love letter generator created by Alan Turing and Christopher Strachey",
+                "href": "https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/"
             }
         ]
     }
