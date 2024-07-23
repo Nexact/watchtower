@@ -23,6 +23,14 @@
                 "href": "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
             },
             {
+                "title": "Go features by version",
+                "href": "https://antonz.org/which-go/"
+            },
+            {
+                "title": "Named Arguments In Rust, If You Want Them",
+                "href": "https://rtpg.co/2024/07/22/rust-named-arguments/"
+            },
+            {
                 "title": "What's the point of std::monostate? You can't do anything with it",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
             },
@@ -47,16 +55,12 @@
                 "href": "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
             },
             {
-                "title": "Interface design in the age of qualiatech: Do you want to be a button?",
-                "href": "https://smoothbrains.net/posts/2024-07-19-qualiatech.html"
-            },
-            {
                 "title": "Nix Camp 2024 is On",
                 "href": "https://nix.camp/"
             },
             {
-                "title": "Go features by version",
-                "href": "https://antonz.org/which-go/"
+                "title": "Interface design in the age of qualiatech: Do you want to be a button?",
+                "href": "https://smoothbrains.net/posts/2024-07-19-qualiatech.html"
             },
             {
                 "title": "How conditional breakpoints work",
@@ -71,16 +75,20 @@
                 "href": "https://cloudbsd.xyz/"
             },
             {
-                "title": "Named Arguments In Rust, If You Want Them",
-                "href": "https://rtpg.co/2024/07/22/rust-named-arguments/"
-            },
-            {
                 "title": "(glisp) - graphical LISP",
                 "href": "https://glisp.app/commit:e7fbaae/"
             },
             {
                 "title": "Parsing Protobuf Definitions with Tree-sitter",
                 "href": "https://relistan.com/parsing-protobuf-files-with-treesitter"
+            },
+            {
+                "title": "Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more",
+                "href": "https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html"
+            },
+            {
+                "title": "Building USIs with mkosi",
+                "href": "https://overhead.neocities.org/blog/build-usi-mkosi/"
             },
             {
                 "title": "cubecl: write GPU code in Rust, targetting multiple platforms",
@@ -91,16 +99,8 @@
                 "href": "https://www.crisluengo.net/archives/1138/"
             },
             {
-                "title": "Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more",
-                "href": "https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html"
-            },
-            {
                 "title": "Jump Flood Algorithm Driven Motion Blur",
                 "href": "https://www.youtube.com/watch?v=m_KvYlYF3sA"
-            },
-            {
-                "title": "UI for sums must remember products",
-                "href": "https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "In Shock Move, California Forever Pulls Measure To Build Bay Area City",
+                "href": "https://news.slashdot.org/story/24/07/23/0437236/in-shock-move-california-forever-pulls-measure-to-build-bay-area-city?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Chinese Researchers Create Four-Gram Drone",
                 "href": "https://tech.slashdot.org/story/24/07/23/0441250/chinese-researchers-create-four-gram-drone?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Waymo Is Suing People Who Allegedly Smashed and Slashed Its Robotaxis",
                 "href": "https://yro.slashdot.org/story/24/07/22/1858214/waymo-is-suing-people-who-allegedly-smashed-and-slashed-its-robotaxis?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Mystery Oxygen Source Discovered on the Sea Floor",
-                "href": "https://science.slashdot.org/story/24/07/22/1850251/mystery-oxygen-source-discovered-on-the-sea-floor?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -634,20 +634,44 @@
         "feedname": "packetstorm",
         "items": [
             {
+                "title": "Global Cops Power Down World's Most Prolific DDoS Dealership",
+                "href": "https://packetstormsecurity.com/news/view/36134/Global-Cops-Power-Down-Worlds-Most-Prolific-DDoS-Dealership.html"
+            },
+            {
+                "title": "Google Won't Kill Third Party Cookies After All",
+                "href": "https://packetstormsecurity.com/news/view/36135/Google-Wont-Kill-Third-Party-Cookies-After-All.html"
+            },
+            {
+                "title": "Telegram Zero-Day Enabled Malware Delivery",
+                "href": "https://packetstormsecurity.com/news/view/36137/Telegram-Zero-Day-Enabled-Malware-Delivery.html"
+            },
+            {
+                "title": "Ransomware Attack Shuts Down Three Dozen Los Angeles Courts",
+                "href": "https://packetstormsecurity.com/news/view/36136/Ransomware-Attack-Shuts-Down-Three-Dozen-Los-Angeles-Courts.html"
+            },
+            {
+                "title": "Why CrowdStrike-Style Chaos Is Here To Stay",
+                "href": "https://packetstormsecurity.com/news/view/36139/Why-CrowdStrike-Style-Chaos-Is-Here-To-Stay.html"
+            },
+            {
+                "title": "VMware ESXi Servers Targeted By New Linux Ransomware Variant",
+                "href": "https://packetstormsecurity.com/news/view/36138/VMware-ESXi-Servers-Targeted-By-New-Linux-Ransomware-Variant.html"
+            },
+            {
                 "title": "Delta Cancels Another 600 Flights On Monday In Wake Of Cyber Outage",
                 "href": "https://packetstormsecurity.com/news/view/36133/Delta-Cancels-Another-600-Flights-On-Monday-In-Wake-Of-Cyber-Outage.html"
             },
             {
-                "title": "Suspected Scattered Spider Suspect Arrested In UK",
-                "href": "https://packetstormsecurity.com/news/view/36130/Suspected-Scattered-Spider-Suspect-Arrested-In-UK.html"
+                "title": "CrowdStrike's Falcon Sensor Also Linked To Linux Kernel Panics",
+                "href": "https://packetstormsecurity.com/news/view/36132/CrowdStrikes-Falcon-Sensor-Also-Linked-To-Linux-Kernel-Panics.html"
             },
             {
                 "title": "Two Russian Sanctioned Over Cyberattacks On US Critical Infrastructure",
                 "href": "https://packetstormsecurity.com/news/view/36131/Two-Russian-Sanctioned-Over-Cyberattacks-On-US-Critical-Infrastructure.html"
             },
             {
-                "title": "CrowdStrike's Falcon Sensor Also Linked To Linux Kernel Panics",
-                "href": "https://packetstormsecurity.com/news/view/36132/CrowdStrikes-Falcon-Sensor-Also-Linked-To-Linux-Kernel-Panics.html"
+                "title": "Suspected Scattered Spider Suspect Arrested In UK",
+                "href": "https://packetstormsecurity.com/news/view/36130/Suspected-Scattered-Spider-Suspect-Arrested-In-UK.html"
             },
             {
                 "title": "Judge Mostly Tosses SEC Lawsuit Against SolarWinds",
@@ -664,30 +688,6 @@
             {
                 "title": "Seems Like CrowdStrike Caused A Global BSOD?",
                 "href": "https://packetstormsecurity.com/news/view/36126/Seems-Like-CrowdStrike-Caused-A-Global-BSOD.html"
-            },
-            {
-                "title": "MarineMax Notifying 123,000 Of Data Breach",
-                "href": "https://packetstormsecurity.com/news/view/36125/MarineMax-Notifying-123-000-Of-Data-Breach.html"
-            },
-            {
-                "title": "Recent Adobe Commerce Vulnerability Exploited In Wild",
-                "href": "https://packetstormsecurity.com/news/view/36124/Recent-Adobe-Commerce-Vulnerability-Exploited-In-Wild.html"
-            },
-            {
-                "title": "Pentagon Leaker Jack Teixeira To Face Military Court-Martial",
-                "href": "https://packetstormsecurity.com/news/view/36123/Pentagon-Leaker-Jack-Teixeira-To-Face-Military-Court-Martial.html"
-            },
-            {
-                "title": "Malware Scammers Gearing Up For 2024 Summer Olympics",
-                "href": "https://packetstormsecurity.com/news/view/36122/Malware-Scammers-Gearing-Up-For-2024-Summer-Olympics.html"
-            },
-            {
-                "title": "Vulnerability In Cisco Smart Software Manager Lets Attacker Change Any User Password",
-                "href": "https://packetstormsecurity.com/news/view/36121/Vulnerability-In-Cisco-Smart-Software-Manager-Lets-Attacker-Change-Any-User-Password.html"
-            },
-            {
-                "title": "FIN7 Is Peddling EDR-Nerfing Malware To Ransomware Operators",
-                "href": "https://packetstormsecurity.com/news/view/36120/FIN7-Is-Peddling-EDR-Nerfing-Malware-To-Ransomware-Operators.html"
             },
             {
                 "title": "Softing Secure Integration Server 1.22 Remote Code Execution",
@@ -803,10 +803,6 @@
                 "href": "https://bitbuilt.net/forums/index.php?threads/kawaii.6474/"
             },
             {
-                "title": "Intel vPro CPUs have a web server open",
-                "href": "https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242"
-            },
-            {
                 "title": "Timeshift: System Restore Tool for Linux",
                 "href": "https://github.com/linuxmint/timeshift"
             },
@@ -815,8 +811,12 @@
                 "href": "https://matthewstrom.com/writing/copying/"
             },
             {
-                "title": "Types as Interfaces",
-                "href": "https://two-wrongs.com/types-as-interfaces"
+                "title": "Show HN: DOM to Semantic Markdown \u2013 For LLMs",
+                "href": "https://github.com/romansky/dom-to-semantic-markdown"
+            },
+            {
+                "title": "Seven Segment Display",
+                "href": "https://ashur.cab/07734/"
             },
             {
                 "title": "Scientists discover a new hormone that can build strong bones in mice",
@@ -827,44 +827,44 @@
                 "href": "https://anatolyzenkov.com/stolen-buttons/button-stealer"
             },
             {
+                "title": "Types as Interfaces",
+                "href": "https://two-wrongs.com/types-as-interfaces"
+            },
+            {
                 "title": "The Elegance of the ASCII Table",
                 "href": "https://danq.me/2024/07/21/ascii/"
-            },
-            {
-                "title": "Show HN: DOM to Semantic Markdown \u2013 For LLMs",
-                "href": "https://github.com/romansky/dom-to-semantic-markdown"
-            },
-            {
-                "title": "Show HN: Lisp in C#",
-                "href": "https://github.com/codr7/sharpl"
-            },
-            {
-                "title": "Shape of Motion: 4D Reconstruction from a Single Video",
-                "href": "https://shape-of-motion.github.io/"
-            },
-            {
-                "title": "What Is Entropy?",
-                "href": "https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/"
-            },
-            {
-                "title": "Difference between running Postgres for yourself and for others",
-                "href": "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
-            },
-            {
-                "title": "Give Me the Green Light Part 1: Hacking Traffic Control Systems",
-                "href": "https://www.redthreatsec.com/blog/greenlightspart1"
-            },
-            {
-                "title": "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
-                "href": "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
             },
             {
                 "title": "Dhcpcd replacing dhclient for Debian Trixie or perhaps networkd?",
                 "href": "http://q-funk.blogspot.com/2024/07/dhcpcd-replacing-dhclient-for-trixie-or.html"
             },
             {
-                "title": "Maestro: Netflix's Workflow Orchestrator",
-                "href": "https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78"
+                "title": "Difference between running Postgres for yourself and for others",
+                "href": "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
+            },
+            {
+                "title": "What Is Entropy?",
+                "href": "https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/"
+            },
+            {
+                "title": "Show HN: Lisp in C#",
+                "href": "https://github.com/codr7/sharpl"
+            },
+            {
+                "title": "Give Me the Green Light Part 1: Hacking Traffic Control Systems",
+                "href": "https://www.redthreatsec.com/blog/greenlightspart1"
+            },
+            {
+                "title": "Shape of Motion: 4D Reconstruction from a Single Video",
+                "href": "https://shape-of-motion.github.io/"
+            },
+            {
+                "title": "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
+                "href": "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
+            },
+            {
+                "title": "Intel vPro CPUs have a web server open",
+                "href": "https://mastodon.lilysthings.org/@i_lost_my_bagel/112228352384742242"
             },
             {
                 "title": "Unconditional Cash Study: first findings available",
@@ -875,32 +875,36 @@
                 "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
             },
             {
-                "title": "Audapolis: Edit audio files by transcript, not waveform",
-                "href": "https://github.com/bugbakery/audapolis"
-            },
-            {
                 "title": "As a cafe worker, there's one question customers ask and show a lack of respect",
                 "href": "https://www.smh.com.au/lifestyle/life-and-relationships/as-a-cafe-worker-there-s-one-question-customers-ask-that-shows-a-lack-of-respect-20240703-p5jqtz.html"
             },
             {
-                "title": "OpenCV and the Wild Kingdom",
-                "href": "https://scottsexton.co/post/opencv_wild_kingdom/"
+                "title": "Maestro: Netflix's Workflow Orchestrator",
+                "href": "https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78"
             },
             {
-                "title": "A Formulation of the Trilemma in Proof of Work Blockchain",
-                "href": "https://ieeexplore.ieee.org/document/10549891"
-            },
-            {
-                "title": "300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed",
-                "href": "https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b"
+                "title": "Audapolis: Edit audio files by transcript, not waveform",
+                "href": "https://github.com/bugbakery/audapolis"
             },
             {
                 "title": "Comparing TCP and QUIC",
                 "href": "https://www.potaroo.net/ispcol/2022-11/quicvtcp.html"
             },
             {
-                "title": "How the origins of America's immigrants have changed since 1850",
-                "href": "https://www.pewresearch.org/short-reads/2024/07/22/how-the-origins-of-americas-immigrants-have-changed-since-1850/"
+                "title": "OpenCV and the Wild Kingdom",
+                "href": "https://scottsexton.co/post/opencv_wild_kingdom/"
+            },
+            {
+                "title": "300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed",
+                "href": "https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b"
+            },
+            {
+                "title": "Heat pipe \u2013 250x faster heat transfer than copper",
+                "href": "https://en.wikipedia.org/wiki/Heat_pipe"
+            },
+            {
+                "title": "A Formulation of the Trilemma in Proof of Work Blockchain",
+                "href": "https://ieeexplore.ieee.org/document/10549891"
             },
             {
                 "title": "Roame (YC S23) Is Hiring",
@@ -909,10 +913,6 @@
             {
                 "title": "Ask HN: Is it possible to make FAANG salaries without working there?",
                 "href": "item?id=41042123"
-            },
-            {
-                "title": "No More Blue Fridays",
-                "href": "https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html"
             }
         ]
     }
