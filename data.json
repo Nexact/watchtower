@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
+                "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+            },
+            {
                 "title": "Build your own SQLite in Rust - Part1",
                 "href": "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
             },
@@ -11,20 +15,28 @@
                 "href": "https://two-wrongs.com/types-as-interfaces"
             },
             {
-                "title": "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
-                "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+                "title": "OpenBSD Workstation for the People",
+                "href": "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
+            },
+            {
+                "title": "Rediscovering Transaction Processing From History and First Principles",
+                "href": "https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles"
             },
             {
                 "title": "git-spice - manage stacked Git branches",
                 "href": "https://abhinav.github.io/git-spice/"
             },
             {
+                "title": "The algebra (and calculus!) of algebraic data types",
+                "href": "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
+            },
+            {
                 "title": "Nix Camp 2024 is On",
                 "href": "https://nix.camp/"
             },
             {
-                "title": "The algebra (and calculus!) of algebraic data types",
-                "href": "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
+                "title": "How conditional breakpoints work",
+                "href": "https://werat.dev/blog/how-conditional-breakpoints-work/"
             },
             {
                 "title": "jiff: A date-time library for Rust that encourages you to jump into the pit of success",
@@ -35,28 +47,24 @@
                 "href": "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
             },
             {
-                "title": "OpenBSD Workstation for the People",
-                "href": "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
-            },
-            {
-                "title": "How conditional breakpoints work",
-                "href": "https://werat.dev/blog/how-conditional-breakpoints-work/"
-            },
-            {
                 "title": "\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)",
                 "href": "http://www.kohala.com/start/papers.others/doors.html"
-            },
-            {
-                "title": "Could we have an 'Observability' tag?",
-                "href": "https://lobste.rs/s/5kcniv/could_we_have_observability_tag"
             },
             {
                 "title": "From Linux to NetBSD, with SSH only",
                 "href": "https://cloudbsd.xyz/"
             },
             {
+                "title": "Could we have an 'Observability' tag?",
+                "href": "https://lobste.rs/s/5kcniv/could_we_have_observability_tag"
+            },
+            {
                 "title": "(glisp) - graphical LISP",
                 "href": "https://glisp.app/commit:e7fbaae/"
+            },
+            {
+                "title": "The Elegance of the ASCII Table",
+                "href": "https://danq.me/2024/07/21/ascii/"
             },
             {
                 "title": "Parsing Protobuf Definitions with Tree-sitter",
@@ -65,10 +73,6 @@
             {
                 "title": "Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more",
                 "href": "https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html"
-            },
-            {
-                "title": "The Elegance of the ASCII Table",
-                "href": "https://danq.me/2024/07/21/ascii/"
             },
             {
                 "title": "UI for sums must remember products",
@@ -97,10 +101,6 @@
             {
                 "title": "Baby's second wasm compiler",
                 "href": "https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler"
-            },
-            {
-                "title": "Reverse engineering a USB device with Rust (2020)",
-                "href": "https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/"
             }
         ]
     },
@@ -799,24 +799,20 @@
                 "href": "https://kb.databasedesignbook.com/posts/google-calendar/"
             },
             {
-                "title": "Kawaii \u2013 A Keychain-Sized Nintendo Wii",
-                "href": "https://bitbuilt.net/forums/index.php?threads/kawaii.6474/"
-            },
-            {
                 "title": "Types as Interfaces",
                 "href": "https://two-wrongs.com/types-as-interfaces"
             },
             {
-                "title": "The Linux audio stack demystified (and more)",
-                "href": "https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/"
+                "title": "Kawaii \u2013 A Keychain-Sized Nintendo Wii",
+                "href": "https://bitbuilt.net/forums/index.php?threads/kawaii.6474/"
             },
             {
                 "title": "Timeshift: System Restore Tool for Linux",
                 "href": "https://github.com/linuxmint/timeshift"
             },
             {
-                "title": "U.S. maternal death rate increasing at an alarming rate",
-                "href": "https://news.northwestern.edu/stories/2024/03/u-s-maternal-death-rate-increasing-at-an-alarming-rate/"
+                "title": "The Linux audio stack demystified (and more)",
+                "href": "https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/"
             },
             {
                 "title": "Copying is the way design works",
@@ -839,16 +835,16 @@
                 "href": "https://github.com/codr7/sharpl"
             },
             {
-                "title": "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
-                "href": "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
+                "title": "Difference between running Postgres for yourself and for others",
+                "href": "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
             },
             {
                 "title": "What Is Entropy?",
                 "href": "https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/"
             },
             {
-                "title": "Difference between running Postgres for yourself and for others",
-                "href": "https://www.ubicloud.com/blog/difference-between-running-postgres-for-yourself-and-for-others"
+                "title": "July 2024 Update on Instability Reports on Intel Core 13th/14th Gen Desktop CPUs",
+                "href": "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"
             },
             {
                 "title": "Shape of Motion: 4D Reconstruction from a Single Video",
@@ -859,12 +855,12 @@
                 "href": "https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78"
             },
             {
-                "title": "How Conditional Breakpoints Work",
-                "href": "https://werat.dev/blog/how-conditional-breakpoints-work/"
-            },
-            {
                 "title": "Mermaid Gantt diagrams for displaying distributed traces in Markdown (2023)",
                 "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+            },
+            {
+                "title": "Is Cultivated Meat for Real?",
+                "href": "https://asteriskmag.com/issues/02/is-cultivated-meat-for-real"
             },
             {
                 "title": "Unconditional Cash Study: first findings available",
@@ -883,12 +879,12 @@
                 "href": "https://scottsexton.co/post/opencv_wild_kingdom/"
             },
             {
-                "title": "Another intermediate-mass black hole discovered at the centre of our galaxy",
-                "href": "https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/another-intermediate-mass-black-hole-discovered-at-the-centre-of-our-galaxy"
-            },
-            {
                 "title": "300-Year-Old House Transported Piecemeal Japan to California, Then Reconstructed",
                 "href": "https://www.wsj.com/style/design/japanese-heritage-shoya-house-melding-nature-and-artifice-32d3563b"
+            },
+            {
+                "title": "Another intermediate-mass black hole discovered at the centre of our galaxy",
+                "href": "https://portal.uni-koeln.de/en/universitaet/aktuell/press-releases/single-news/another-intermediate-mass-black-hole-discovered-at-the-centre-of-our-galaxy"
             },
             {
                 "title": "A Formulation of the Trilemma in Proof of Work Blockchain",
@@ -913,6 +909,10 @@
             {
                 "title": "The love letter generator created by Alan Turing and Christopher Strachey",
                 "href": "https://bigthink.com/the-past/love-letter-generator-turing-strachey-ai/"
+            },
+            {
+                "title": "Roame (YC S23) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/roame/jobs/tu786nh-founding-growth-operations"
             }
         ]
     }
