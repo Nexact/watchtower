@@ -23,6 +23,10 @@
                 "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
             },
             {
+                "title": "Postgres sequences can commit out-of-order",
+                "href": "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
+            },
+            {
                 "title": "Rediscovering Transaction Processing From History and First Principles",
                 "href": "https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles"
             },
@@ -31,16 +35,16 @@
                 "href": "https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html"
             },
             {
-                "title": "Postgres sequences can commit out-of-order",
-                "href": "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
-            },
-            {
                 "title": "Enhancing Your Elixir Codebase with Gleam",
                 "href": "https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html"
             },
             {
                 "title": "Types as Interfaces",
                 "href": "https://two-wrongs.com/types-as-interfaces"
+            },
+            {
+                "title": "Is performance reduced when executing loops whose uop count is not a multiple of processor width?",
+                "href": "https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of"
             },
             {
                 "title": "The Elegance of the ASCII Table",
@@ -53,10 +57,6 @@
             {
                 "title": "Build your own SQLite in Rust - Part1",
                 "href": "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
-            },
-            {
-                "title": "Is performance reduced when executing loops whose uop count is not a multiple of processor width?",
-                "href": "https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of"
             },
             {
                 "title": "Optimizing distutils-r1.eclass via wheel reuse",
@@ -128,12 +128,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1ea9bu3/cve20198805_apple_endpointsecurity_framework/"
             },
             {
-                "title": "Blocking EDR Telemetry via PitM Network Filtering",
-                "href": "https://www.reddit.com/r/netsec/comments/1ea2pkk/blocking_edr_telemetry_via_pitm_network_filtering/"
-            },
-            {
                 "title": "Inside Doppelganger \u2013 How Russia uses EU companies for its propaganda",
                 "href": "https://www.reddit.com/r/netsec/comments/1e9jih5/inside_doppelganger_how_russia_uses_eu_companies/"
+            },
+            {
+                "title": "Blocking EDR Telemetry via PitM Network Filtering",
+                "href": "https://www.reddit.com/r/netsec/comments/1ea2pkk/blocking_edr_telemetry_via_pitm_network_filtering/"
             },
             {
                 "title": "Ronin 2.1.0 has finally been released! This release includes new database tables, new payloads, a new recon engine, a local Web UI, and more. Ronin is a Ruby toolkit for security research and development.",
@@ -807,16 +807,16 @@
                 "href": "https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html"
             },
             {
+                "title": "Llama 3.1 in C",
+                "href": "https://github.com/trholding/llama2.c/blob/master/runq.c"
+            },
+            {
                 "title": "Show HN: We made glhf.chat \u2013 run almost any open-source LLM, including 405B",
                 "href": "https://glhf.chat/landing/home"
             },
             {
                 "title": "The Origin of Emacs in 1976",
                 "href": "https://onlisp.co.uk/On-the-Origin-of-Emacs-in-1976.html"
-            },
-            {
-                "title": "Llama 3.1 in C",
-                "href": "https://github.com/trholding/llama2.c/blob/master/runq.c"
             },
             {
                 "title": "What \"consent\" looks like for the DEA and TSA",
@@ -831,40 +831,48 @@
                 "href": "https://pnut.sh"
             },
             {
-                "title": "How Olympics officials try to catch \u201cmotor doping\u201d",
-                "href": "https://spectrum.ieee.org/motor-doping-cycling"
-            },
-            {
                 "title": "Intent to end OCSP service",
                 "href": "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
             },
             {
-                "title": "Tot Notes",
-                "href": "https://leancrew.com/all-this/2024/07/tot-notes/"
-            },
-            {
-                "title": "Warsaw came close to never being rebuilt (2015)",
-                "href": "https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt"
+                "title": "How Olympics officials try to catch \u201cmotor doping\u201d",
+                "href": "https://spectrum.ieee.org/motor-doping-cycling"
             },
             {
                 "title": "Show HN: Briefer \u2013 multiplayer notebooks with schedules, SQL, and built-in LLMs",
                 "href": "https://briefer.cloud/launches/notebooks/"
             },
             {
-                "title": "You can opt out of airport face scans",
-                "href": "https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan"
+                "title": "Warsaw came close to never being rebuilt (2015)",
+                "href": "https://culture.pl/en/article/how-warsaw-came-close-to-never-being-rebuilt"
+            },
+            {
+                "title": "Taking my diabetes treatment into my own hands (2024)",
+                "href": "https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html"
+            },
+            {
+                "title": "Tot Notes",
+                "href": "https://leancrew.com/all-this/2024/07/tot-notes/"
             },
             {
                 "title": "Relationships are coevolutionary loops (2023)",
                 "href": "https://www.henrikkarlsson.xyz/p/making-a-home-together"
             },
             {
+                "title": "You can opt out of airport face scans",
+                "href": "https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan"
+            },
+            {
+                "title": "Apollo Lunar Surface Journal",
+                "href": "https://www.nasa.gov/history/alsj/main.html"
+            },
+            {
                 "title": "The Unix Pipe Card Game",
                 "href": "https://punkx.org/unix-pipe-game/"
             },
             {
-                "title": "Taking my diabetes treatment into my own hands (2024)",
-                "href": "https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html"
+                "title": "Meticulous (YC S21) is hiring to eliminate UI tests",
+                "href": "item?id=41050801"
             },
             {
                 "title": "Demystifying Cookies and Tokens",
@@ -875,44 +883,36 @@
                 "href": "https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/"
             },
             {
-                "title": "Meticulous (YC S21) is hiring to eliminate UI tests",
-                "href": "item?id=41050801"
-            },
-            {
                 "title": "A free tool to quickly detect counterfeit flash (2017)",
                 "href": "https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix"
-            },
-            {
-                "title": "When Smart Ships Divide by Zer0 \u2013 Stranding the USS Yorktown (2018)",
-                "href": "https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2"
-            },
-            {
-                "title": "Dtui \u2013 TUI for introspecting the state of the system/session dbus",
-                "href": "https://github.com/Troels51/dtui"
             },
             {
                 "title": "Show HN: Zerox \u2013 Document OCR with GPT-mini",
                 "href": "https://github.com/getomni-ai/zerox"
             },
             {
+                "title": "North Texas community says crypto-mining facility brings never-ending noise",
+                "href": "https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/"
+            },
+            {
+                "title": "Dtui \u2013 TUI for introspecting the state of the system/session dbus",
+                "href": "https://github.com/Troels51/dtui"
+            },
+            {
+                "title": "When Smart Ships Divide by Zer0 \u2013 Stranding the USS Yorktown (2018)",
+                "href": "https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2"
+            },
+            {
                 "title": "A Gentle Introduction to SAML",
                 "href": "https://ssoready.com/blog/engineering/a-gentle-intro-to-saml/"
-            },
-            {
-                "title": "Ask HN: I built a Yubikey-based domain controller. Is it sellable?",
-                "href": "item?id=41037532"
-            },
-            {
-                "title": "How many children had Lady Macbeth?",
-                "href": "https://lifeandletters.substack.com/p/how-many-children-had-lady-macbeth"
             },
             {
                 "title": "Ask HN: Fast data structures for disjoint intervals?",
                 "href": "item?id=41000844"
             },
             {
-                "title": "GM indefinitely halts work on driverless car at Cruise unit",
-                "href": "https://www.ft.com/content/85bfbfd0-1036-44c7-89bb-72d1cd8f8ea2"
+                "title": "Ask HN: I built a Yubikey-based domain controller. Is it sellable?",
+                "href": "item?id=41037532"
             }
         ]
     }
