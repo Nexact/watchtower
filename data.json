@@ -1,5 +1,110 @@
 [
     {
+        "feedname": "lobster",
+        "items": [
+            {
+                "title": "Software engineers are not (and should not be) technicians",
+                "href": "https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html"
+            },
+            {
+                "title": "Go features by version",
+                "href": "https://antonz.org/which-go/"
+            },
+            {
+                "title": "Named Arguments In Rust, If You Want Them",
+                "href": "https://rtpg.co/2024/07/22/rust-named-arguments/"
+            },
+            {
+                "title": "Pinned places",
+                "href": "https://without.boats/blog/pinned-places/"
+            },
+            {
+                "title": "Taking my diabetes treatment into my own hands",
+                "href": "https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html"
+            },
+            {
+                "title": "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
+                "href": "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+            },
+            {
+                "title": "Postgres sequences can commit out-of-order",
+                "href": "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
+            },
+            {
+                "title": "Rediscovering Transaction Processing From History and First Principles",
+                "href": "https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles"
+            },
+            {
+                "title": "Enhancing Your Elixir Codebase with Gleam",
+                "href": "https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html"
+            },
+            {
+                "title": "How a North Korean Fake IT Worker Tried to Infiltrate Us",
+                "href": "https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us"
+            },
+            {
+                "title": "Types as Interfaces",
+                "href": "https://two-wrongs.com/types-as-interfaces"
+            },
+            {
+                "title": "Is performance reduced when executing loops whose uop count is not a multiple of processor width?",
+                "href": "https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of"
+            },
+            {
+                "title": "The Elegance of the ASCII Table",
+                "href": "https://danq.me/2024/07/21/ascii/"
+            },
+            {
+                "title": "Build your own SQLite in Rust - Part1",
+                "href": "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
+            },
+            {
+                "title": "OpenBSD Workstation for the People",
+                "href": "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
+            },
+            {
+                "title": "doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust",
+                "href": "https://github.com/doukutsu-rs/doukutsu-rs"
+            },
+            {
+                "title": "Pnut: A C to POSIX Shell Compiler you can Trust",
+                "href": "https://pnut.sh"
+            },
+            {
+                "title": "Trusted timestamping",
+                "href": "https://en.wikipedia.org/wiki/Trusted_timestamping"
+            },
+            {
+                "title": "Optimizing distutils-r1.eclass via wheel reuse",
+                "href": "https://blogs.gentoo.org/mgorny/2024/07/23/optimizing-distutils-r1-eclass-via-wheel-reuse/"
+            },
+            {
+                "title": "What's the point of std::monostate? You can't do anything with it",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
+            },
+            {
+                "title": "How we securely generate sensitive secrets",
+                "href": "https://monzo.com/blog/how-we-securely-generate-sensitive-secrets"
+            },
+            {
+                "title": "Give me the green light: hacking traffic control systems",
+                "href": "https://www.redthreatsec.com/blog/greenlightspart1"
+            },
+            {
+                "title": "Could we have an 'Observability' tag?",
+                "href": "https://lobste.rs/s/5kcniv/could_we_have_observability_tag"
+            },
+            {
+                "title": "Interface design in the age of qualiatech: Do you want to be a button?",
+                "href": "https://smoothbrains.net/posts/2024-07-19-qualiatech.html"
+            },
+            {
+                "title": "The history of replication in PostgreSQL (2015)",
+                "href": "https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql"
+            }
+        ]
+    },
+    {
         "feedname": "netsec",
         "items": [
             {
@@ -15,8 +120,8 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1ea3xp7/cursed_tapes_exploiting_the_evilvideo/"
             },
             {
-                "title": "Announcing the Bug Bounty program pack 1.0",
-                "href": "https://www.reddit.com/r/netsec/comments/1eammsf/announcing_the_bug_bounty_program_pack_10/"
+                "title": "Let\u2019s Encrypt Intent to End OCSP Service",
+                "href": "https://www.reddit.com/r/netsec/comments/1eagrr9/lets_encrypt_intent_to_end_ocsp_service/"
             },
             {
                 "title": "CVE-2019-8805: Apple EndpointSecurity framework Privilege Escalation",
@@ -37,6 +142,10 @@
             {
                 "title": "Announcing the incident response program pack 1.0",
                 "href": "https://www.reddit.com/r/netsec/comments/1e9v3p3/announcing_the_incident_response_program_pack_10/"
+            },
+            {
+                "title": "Gouge: Burp Suite extension to extract URLs from a webpage & all its JS files too.",
+                "href": "https://www.reddit.com/r/netsec/comments/1ea0vk6/gouge_burp_suite_extension_to_extract_urls_from_a/"
             },
             {
                 "title": "Hacking a High End Fan Away From Its Cloud Overlords",
@@ -101,10 +210,6 @@
             {
                 "title": "Collateral Damage: Kernel exploit for Xbox SystemOS using CVE-2024-30088",
                 "href": "https://www.reddit.com/r/netsec/comments/1e45vas/collateral_damage_kernel_exploit_for_xbox/"
-            },
-            {
-                "title": "SharpHound Detection",
-                "href": "https://www.reddit.com/r/netsec/comments/1e3uba0/sharphound_detection/"
             }
         ]
     },
@@ -706,12 +811,12 @@
                 "href": "https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html"
             },
             {
-                "title": "Llama 3.1 in C",
-                "href": "https://github.com/trholding/llama2.c/blob/master/runq.c"
-            },
-            {
                 "title": "Show HN: We made glhf.chat \u2013 run almost any open-source LLM, including 405B",
                 "href": "https://glhf.chat/landing/home"
+            },
+            {
+                "title": "More delays for Euston's HS2 station",
+                "href": "https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/"
             },
             {
                 "title": "The Origin of Emacs in 1976",
@@ -730,10 +835,6 @@
                 "href": "https://pnut.sh"
             },
             {
-                "title": "More delays for Euston's HS2 station",
-                "href": "https://www.ianvisits.co.uk/articles/more-delays-for-eustons-hs2-station-nao-report-74162/"
-            },
-            {
                 "title": "Scrapscript: A functional, content-addressable programming language",
                 "href": "https://github.com/tekknolagi/scrapscript"
             },
@@ -744,6 +845,10 @@
             {
                 "title": "How Olympics officials try to catch \u201cmotor doping\u201d",
                 "href": "https://spectrum.ieee.org/motor-doping-cycling"
+            },
+            {
+                "title": "Llama 3.1 in C",
+                "href": "https://github.com/trholding/llama2.c/blob/master/runq.c"
             },
             {
                 "title": "What \"consent\" looks like for the DEA and TSA",
@@ -762,12 +867,12 @@
                 "href": "https://www.henrikkarlsson.xyz/p/making-a-home-together"
             },
             {
-                "title": "The Unix Pipe Card Game",
-                "href": "https://punkx.org/unix-pipe-game/"
-            },
-            {
                 "title": "CrowdStrike CEO summoned to explain epic fail to US Homeland Security committee",
                 "href": "https://www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/"
+            },
+            {
+                "title": "The Unix Pipe Card Game",
+                "href": "https://punkx.org/unix-pipe-game/"
             },
             {
                 "title": "A free tool to quickly detect counterfeit flash (2017)",
@@ -778,12 +883,16 @@
                 "href": "https://divisbyzero.com/2010/05/27/turings-topological-proof-that-every-written-alphabet-is-finite/"
             },
             {
+                "title": "Show HN: Zerox \u2013 Document OCR with GPT-mini",
+                "href": "https://github.com/getomni-ai/zerox"
+            },
+            {
                 "title": "Demystifying Cookies and Tokens",
                 "href": "https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/"
             },
             {
-                "title": "Show HN: Zerox \u2013 Document OCR with GPT-mini",
-                "href": "https://github.com/getomni-ai/zerox"
+                "title": "Dtui \u2013 TUI for introspecting the state of the system/session dbus",
+                "href": "https://github.com/Troels51/dtui"
             },
             {
                 "title": "Meticulous (YC S21) is hiring to eliminate UI tests",
@@ -792,10 +901,6 @@
             {
                 "title": "You can opt out of airport face scans",
                 "href": "https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan"
-            },
-            {
-                "title": "Dtui \u2013 TUI for introspecting the state of the system/session dbus",
-                "href": "https://github.com/Troels51/dtui"
             },
             {
                 "title": "Tot Notes",
