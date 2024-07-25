@@ -11,12 +11,12 @@
                 "href": "https://wruby.btxx.org/"
             },
             {
-                "title": "NAS Performance: NFS vs. SMB vs. SSHFS (2019)",
-                "href": "https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html"
-            },
-            {
                 "title": "Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood",
                 "href": "https://blog.codingconfessions.com/p/simultaneous-multithreading"
+            },
+            {
+                "title": "NAS Performance: NFS vs. SMB vs. SSHFS (2019)",
+                "href": "https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html"
             },
             {
                 "title": "2024 Stack Overflow Developer Survey",
@@ -25,6 +25,10 @@
             {
                 "title": "The joy, excitement, and surprise of computing - !!Con 2024",
                 "href": "https://bangbangcon.com/index.html"
+            },
+            {
+                "title": "Announcing Rust 1.80.0",
+                "href": "https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html"
             },
             {
                 "title": "Anyone can Access Public Repository Data on GitHub",
@@ -39,28 +43,36 @@
                 "href": "https://postmarketos.org/blog/2024/07/24/systemd-part-deux/"
             },
             {
-                "title": "RocksDB: Not A Good Choice for a High-Performance Streaming Platform",
-                "href": "https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/"
+                "title": "PEP 751 \u2013 A file format to list Python dependencies for installation reproducibility",
+                "href": "https://peps.python.org/pep-0751/"
             },
             {
-                "title": "Announcing Rust 1.80.0",
-                "href": "https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html"
+                "title": "RocksDB: Not A Good Choice for a High-Performance Streaming Platform",
+                "href": "https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/"
             },
             {
                 "title": "CrowdStrike Timeline Mystery",
                 "href": "https://www.bitsight.com/blog/crowdstrike-timeline-mystery"
             },
             {
+                "title": "The CAP Theorem is Irrelevant for Cloud Systems",
+                "href": "https://brooker.co.za/blog/2024/07/25/cap-again.html"
+            },
+            {
                 "title": "AI models collapse when trained on recursively generated data",
                 "href": "https://www.nature.com/articles/s41586-024-07566-y"
             },
             {
-                "title": "PEP 751 \u2013 A file format to list Python dependencies for installation reproducibility",
-                "href": "https://peps.python.org/pep-0751/"
+                "title": "Qt Creator 14 released",
+                "href": "https://www.qt.io/blog/qt-creator-14-released"
             },
             {
                 "title": "Intent to End OCSP Service",
                 "href": "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
+            },
+            {
+                "title": "A Tricky Floating-Point Calculation",
+                "href": "https://akr.am/blog/posts/a-tricky-floating-point-calculation"
             },
             {
                 "title": "OpenSSL New Governance Structure: A Call to the Academic Community",
@@ -71,16 +83,8 @@
                 "href": "https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html"
             },
             {
-                "title": "A Tricky Floating-Point Calculation",
-                "href": "https://akr.am/blog/posts/a-tricky-floating-point-calculation"
-            },
-            {
                 "title": "Improving systemd\u2019s integration testing infrastructure (part 1)",
                 "href": "https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/"
-            },
-            {
-                "title": "Qt Creator 14 released",
-                "href": "https://www.qt.io/blog/qt-creator-14-released"
             },
             {
                 "title": "An Extensive Benchmark of C and C++ Hash Tables",
@@ -97,10 +101,6 @@
             {
                 "title": "How a North Korean Fake IT Worker Tried to Infiltrate Us",
                 "href": "https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us"
-            },
-            {
-                "title": "Pinned places",
-                "href": "https://without.boats/blog/pinned-places/"
             }
         ]
     },
@@ -118,6 +118,14 @@
             {
                 "title": "Unfashionably secure: why we use isolated VMs",
                 "href": "https://www.reddit.com/r/netsec/comments/1ebq5ya/unfashionably_secure_why_we_use_isolated_vms/"
+            },
+            {
+                "title": "go-exploit Goes Scanless",
+                "href": "https://www.reddit.com/r/netsec/comments/1ebwxez/goexploit_goes_scanless/"
+            },
+            {
+                "title": "Think Twice Before Cheating: Escape From Tarkov Cheat Developer Steals User Data.",
+                "href": "https://www.reddit.com/r/netsec/comments/1ebwi71/think_twice_before_cheating_escape_from_tarkov/"
             },
             {
                 "title": "Studying 0days: How we hacked Anki, the world's most popular flashcard app",
@@ -202,14 +210,6 @@
             {
                 "title": "How to Bypass Golang SSL Verification",
                 "href": "https://www.reddit.com/r/netsec/comments/1e52yj1/how_to_bypass_golang_ssl_verification/"
-            },
-            {
-                "title": "Leveraging Automated Firmware Analysis with the Open-Source Firmware Analyzer EMBA",
-                "href": "https://www.reddit.com/r/netsec/comments/1e5hjle/leveraging_automated_firmware_analysis_with_the/"
-            },
-            {
-                "title": "Local Privilege Escalation vulnerability found (CVE-2024-39708) in Delinea Privilege Manager (formerly Thycotic Privilege Manager).",
-                "href": "https://www.reddit.com/r/netsec/comments/1e53flx/local_privilege_escalation_vulnerability_found/"
             }
         ]
     },
@@ -267,53 +267,12 @@
         ]
     },
     {
-        "feedname": "krebsonsecurity",
-        "items": [
-            {
-                "title": "Phish-Friendly Domain Registry \u201c.top\u201d Put on Notice",
-                "href": "https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/"
-            },
-            {
-                "title": "Global Microsoft Meltdown Tied to Bad Crowdstrike Update",
-                "href": "https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/"
-            },
-            {
-                "title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
-                "href": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/"
-            },
-            {
-                "title": "Crooks Steal Phone, SMS Records for Nearly All AT&T Customers",
-                "href": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/"
-            },
-            {
-                "title": "The Stark Truth Behind the Resurgence of Russia\u2019s Fin7",
-                "href": "https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/"
-            },
-            {
-                "title": "Microsoft Patch Tuesday, July 2024 Edition",
-                "href": "https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/"
-            },
-            {
-                "title": "The Not-So-Secret Network Access Broker x999xx",
-                "href": "https://krebsonsecurity.com/2024/07/the-not-so-secret-network-access-broker-x999xx/"
-            },
-            {
-                "title": "KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO",
-                "href": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/"
-            },
-            {
-                "title": "Alleged Boss of \u2018Scattered Spider\u2019 Hacking Group Arrested",
-                "href": "https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/"
-            },
-            {
-                "title": "Patch Tuesday, June 2024 \u201cRecall\u201d Edition",
-                "href": "https://krebsonsecurity.com/2024/06/patch-tuesday-june-2024-recall-edition/"
-            }
-        ]
-    },
-    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Monday Was Hottest Recorded Day on Earth: 'Uncharted Territory'",
+                "href": "https://news.slashdot.org/story/24/07/25/148254/monday-was-hottest-recorded-day-on-earth-uncharted-territory?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Data Breach Exposes US Spyware Maker Behind Windows, Mac, Android and Chromebook Malware",
                 "href": "https://it.slashdot.org/story/24/07/25/143232/data-breach-exposes-us-spyware-maker-behind-windows-mac-android-and-chromebook-malware?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,16 +328,16 @@
             {
                 "title": "A Hacker 'Ghost' Network Is Quietly Spreading Malware on GitHub",
                 "href": "https://it.slashdot.org/story/24/07/24/1952223/a-hacker-ghost-network-is-quietly-spreading-malware-on-github?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The AI Job Interviewer Will See You Now",
-                "href": "https://tech.slashdot.org/story/24/07/24/1858222/the-ai-job-interviewer-will-see-you-now?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "ISC BIND security advisory (AV24-419)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av24-419"
+            },
             {
                 "title": "Mitel security advisory (AV24-418)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av24-418"
@@ -574,16 +533,24 @@
             {
                 "title": "Ubuntu security advisory (AV24-371)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-371"
-            },
-            {
-                "title": "Dell security advisory (AV24-370)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-370"
             }
         ]
     },
     {
         "feedname": "cisa",
         "items": [
+            {
+                "title": "CISA Releases Two Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/07/25/cisa-releases-two-industrial-control-systems-advisories"
+            },
+            {
+                "title": "Positron Broadcast Signal Processor",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-207-02"
+            },
+            {
+                "title": "Siemens SICAM Products",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-207-01"
+            },
             {
                 "title": "ISC Releases Security Advisories for BIND 9",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/07/24/isc-releases-security-advisories-bind-9"
@@ -611,18 +578,6 @@
             {
                 "title": "Widespread IT Outage Due to CrowdStrike Update",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update"
-            },
-            {
-                "title": "Ivanti Releases Security Updates for Endpoint Manager",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/07/18/ivanti-releases-security-updates-endpoint-manager"
-            },
-            {
-                "title": "Subnet Solutions PowerSYSTEM Center",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-200-02"
-            },
-            {
-                "title": "Cisco Releases Security Updates for Multiple Products",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/07/18/cisco-releases-security-updates-multiple-products"
             }
         ]
     },
@@ -795,28 +750,44 @@
                 "href": "https://github.com/nodejs/node/pull/53725"
             },
             {
+                "title": "Reverse Engineering for Everyone",
+                "href": "https://0xinfection.github.io/reversing/"
+            },
+            {
                 "title": "Anyone can access deleted and private repository data on GitHub",
                 "href": "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github"
+            },
+            {
+                "title": "The CAP theorem Is Irrelevant for Cloud Systems",
+                "href": "https://brooker.co.za/blog/2024/07/25/cap-again.html"
             },
             {
                 "title": "My Favorite Algorithm: Linear Time Median Finding (2018)",
                 "href": "https://rcoh.me/posts/linear-time-median-finding/"
             },
             {
-                "title": "Humans 1, Chimps 0: Correcting the Record",
-                "href": "https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record"
+                "title": "Generating sudokus for fun and no profit",
+                "href": "https://tn1ck.com/blog/how-to-generate-sudokus"
+            },
+            {
+                "title": "PostgREST \u2013 Serve a RESTful API from Any Postgres Database",
+                "href": "https://github.com/PostgREST/postgrest"
             },
             {
                 "title": "Investigating corrupt Winamp skins",
                 "href": "https://jordaneldredge.com/notes/corrupted-skins/"
             },
             {
-                "title": "Generating sudokus for fun and no profit",
-                "href": "https://tn1ck.com/blog/how-to-generate-sudokus"
+                "title": "Humans 1, Chimps 0: Correcting the Record",
+                "href": "https://www.jasoncollins.blog/posts/humans-1-chimps-0-correcting-the-record"
             },
             {
                 "title": "Defense of Lisp Macros",
                 "href": "https://mihaiolteanu.me/defense-of-lisp-macros"
+            },
+            {
+                "title": "Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)",
+                "href": "https://boards.greenhouse.io/supabase/jobs/5225004004"
             },
             {
                 "title": "Every company should be owned by its employees",
@@ -827,32 +798,24 @@
                 "href": "https://www.construction-physics.com/p/why-levittown-didnt-revolutionize"
             },
             {
-                "title": "Supabase (YC S20) Is Hiring Auth Engineers (Fully Remote)",
-                "href": "https://boards.greenhouse.io/supabase/jobs/5225004004"
-            },
-            {
-                "title": "When Objects Are Not Enough (2021)",
-                "href": "https://www.tonysm.com/when-objects-are-not-enough/"
-            },
-            {
-                "title": "Versioned Finite-State Machines with PostgreSQL (2019)",
-                "href": "https://raphael.medaer.me/2019/06/12/pgfsm.html"
-            },
-            {
-                "title": "A chemist explains the chemistry behind decaf coffee",
-                "href": "https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196"
+                "title": "Veles: Open-source tool for binary data analysis",
+                "href": "https://codisec.com/veles/"
             },
             {
                 "title": "Dungeons and Dragons taught me how to write alt text",
                 "href": "https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/"
             },
             {
-                "title": "Apple Maps on the web launches in beta",
-                "href": "https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/"
+                "title": "When Objects Are Not Enough (2021)",
+                "href": "https://www.tonysm.com/when-objects-are-not-enough/"
             },
             {
-                "title": "Veles: Open-source tool for binary data analysis",
-                "href": "https://codisec.com/veles/"
+                "title": "A chemist explains the chemistry behind decaf coffee",
+                "href": "https://theconversation.com/retaining-flavor-while-removing-caffeine-a-chemist-explains-the-chemistry-behind-decaf-coffee-233196"
+            },
+            {
+                "title": "Apple Maps on the web launches in beta",
+                "href": "https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/"
             },
             {
                 "title": "What Is Toybox?",
@@ -861,6 +824,10 @@
             {
                 "title": "Alexa is in millions of households and Amazon is losing billions",
                 "href": "https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a"
+            },
+            {
+                "title": "Versioned Finite-State Machines with PostgreSQL (2019)",
+                "href": "https://raphael.medaer.me/2019/06/12/pgfsm.html"
             },
             {
                 "title": "A multimodal dataset with one trillion tokens",
@@ -879,36 +846,24 @@
                 "href": "https://biocircuits.github.io/index.html"
             },
             {
-                "title": "Solving the out-of-context chunk problem for RAG",
-                "href": "https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag"
-            },
-            {
                 "title": "Physicists may now have a way to make element 120",
                 "href": "https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/"
             },
             {
-                "title": "Space-filling curves, constructively",
-                "href": "https://math.andrej.com/2024/01/30/space-filling-curves-constructively/"
-            },
-            {
-                "title": "Ask HN: What is your go to performance optimization?",
-                "href": "item?id=41068153"
-            },
-            {
-                "title": "Show HN: Hooper \u2013 AI-driven stats and highlights for basketball play",
-                "href": "https://www.hooper.gg"
+                "title": "Solving the out-of-context chunk problem for RAG",
+                "href": "https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag"
             },
             {
                 "title": "Fossil hints that Jurassic mammals lived slow and died old",
                 "href": "https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html"
             },
             {
-                "title": "Show HN: NoteTech \u2013 Create personal automations by writing notes",
-                "href": "https://www.simpltech.ai"
+                "title": "Space-filling curves, constructively",
+                "href": "https://math.andrej.com/2024/01/30/space-filling-curves-constructively/"
             },
             {
-                "title": "Hiding Linux Processes with Bind Mounts",
-                "href": "https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/"
+                "title": "Show HN: Hooper \u2013 AI-driven stats and highlights for basketball play",
+                "href": "https://www.hooper.gg"
             }
         ]
     }
