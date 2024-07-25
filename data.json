@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "The joy, excitement, and surprise of computing - !!Con 2024",
-                "href": "https://bangbangcon.com/index.html"
-            },
-            {
                 "title": "strlcpy and how CPUs can defy common sense",
                 "href": "https://nrk.neocities.org/articles/cpu-vs-common-sense"
+            },
+            {
+                "title": "The joy, excitement, and surprise of computing - !!Con 2024",
+                "href": "https://bangbangcon.com/index.html"
             },
             {
                 "title": "Anyone can Access Public Repository Data on GitHub",
@@ -17,6 +17,10 @@
             {
                 "title": "2024 Stack Overflow Developer Survey",
                 "href": "https://survey.stackoverflow.co/2024/"
+            },
+            {
+                "title": "RocksDB: Not A Good Choice for a High-Performance Streaming Platform",
+                "href": "https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/"
             },
             {
                 "title": "AI models collapse when trained on recursively generated data",
@@ -31,20 +35,12 @@
                 "href": "https://blog.codingconfessions.com/p/simultaneous-multithreading"
             },
             {
-                "title": "RocksDB: Not A Good Choice for a High-Performance Streaming Platform",
-                "href": "https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/"
-            },
-            {
-                "title": "OpenSSL New Governance Structure: A Call to the Academic Community",
-                "href": "https://github.com/openssl/openssl/discussions/24988"
+                "title": "systemd, Part Deux",
+                "href": "https://postmarketos.org/blog/2024/07/24/systemd-part-deux/"
             },
             {
                 "title": "Intent to End OCSP Service",
                 "href": "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
-            },
-            {
-                "title": "systemd, Part Deux",
-                "href": "https://postmarketos.org/blog/2024/07/24/systemd-part-deux/"
             },
             {
                 "title": "Software engineers are not (and should not be) technicians",
@@ -55,12 +51,24 @@
                 "href": "https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/"
             },
             {
+                "title": "An Extensive Benchmark of C and C++ Hash Tables",
+                "href": "https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/"
+            },
+            {
                 "title": "A Tricky Floating-Point Calculation",
                 "href": "https://akr.am/blog/posts/a-tricky-floating-point-calculation"
             },
             {
-                "title": "An Extensive Benchmark of C and C++ Hash Tables",
-                "href": "https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/"
+                "title": "NAS Performance: NFS vs. SMB vs. SSHFS (2019)",
+                "href": "https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html"
+            },
+            {
+                "title": "CrowdStrike Timeline Mystery",
+                "href": "https://www.bitsight.com/blog/crowdstrike-timeline-mystery"
+            },
+            {
+                "title": "OpenSSL New Governance Structure: A Call to the Academic Community",
+                "href": "https://github.com/openssl/openssl/discussions/24988"
             },
             {
                 "title": "How a North Korean Fake IT Worker Tried to Infiltrate Us",
@@ -79,6 +87,10 @@
                 "href": "https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/"
             },
             {
+                "title": "Leveraging types for better APIs",
+                "href": "https://github.com/green7ea/blog/blob/master/interface-typing/README.md"
+            },
+            {
                 "title": "Taking my diabetes treatment into my own hands",
                 "href": "https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html"
             },
@@ -89,18 +101,6 @@
             {
                 "title": "The Development of Chez Scheme (2006)",
                 "href": "https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf"
-            },
-            {
-                "title": "How to Debug Chez Scheme Programs (2002)",
-                "href": "https://www.scheme.com/debug/debug.html"
-            },
-            {
-                "title": "Leveraging types for better APIs",
-                "href": "https://github.com/green7ea/blog/blob/master/interface-typing/README.md"
-            },
-            {
-                "title": "Pnut: A C to POSIX Shell Compiler you can Trust",
-                "href": "https://pnut.sh"
             }
         ]
     },
@@ -827,64 +827,80 @@
                 "href": "http://landley.net/toybox/"
             },
             {
-                "title": "A multimodal dataset with one trillion tokens",
-                "href": "https://github.com/mlfoundations/MINT-1T"
+                "title": "Show HN: Compile Erlang to WASM and run as HTTP/incoming-handler",
+                "href": "https://github.com/muromec/erwasm-http"
             },
             {
                 "title": "Alexa is in millions of households and Amazon is losing billions",
                 "href": "https://www.wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a"
             },
             {
-                "title": "Show HN: Compile Erlang to WASM and run as HTTP/incoming-handler",
-                "href": "https://github.com/muromec/erwasm-http"
-            },
-            {
-                "title": "Every company should be owned by its employees",
-                "href": "https://www.elysian.press/p/employee-ownership"
+                "title": "A multimodal dataset with one trillion tokens",
+                "href": "https://github.com/mlfoundations/MINT-1T"
             },
             {
                 "title": "Wasmer (YC S19) Is Hiring Senior Front End Engineers",
                 "href": "https://www.workatastartup.com/jobs/45795"
             },
             {
+                "title": "Switzerland Makes Open Source Software Mandatory for Public Sector",
+                "href": "https://news.itsfoss.com/switzerland-open-source/"
+            },
+            {
+                "title": "Should AI workloads run on Kubernetes?",
+                "href": "https://blog.skypilot.co/ai-on-kubernetes/"
+            },
+            {
+                "title": "Defense of Lisp Macros",
+                "href": "https://mihaiolteanu.me/defense-of-lisp-macros"
+            },
+            {
+                "title": "Every company should be owned by its employees",
+                "href": "https://www.elysian.press/p/employee-ownership"
+            },
+            {
                 "title": "Phish-friendly domain registry \".top\" put on notice",
                 "href": "https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/"
-            },
-            {
-                "title": "eBPF Offensive Capabilities \u2013 Get Ready for Next-Gen Malware (2023)",
-                "href": "https://sysdig.com/blog/ebpf-offensive-capabilities/"
-            },
-            {
-                "title": "The Puzzle of How Large-Scale Order Emerges in Complex Systems",
-                "href": "https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/"
-            },
-            {
-                "title": "Google Search: Roboto Mono",
-                "href": "https://www.google.com/search?q=roboto+mono+font"
-            },
-            {
-                "title": "Biological Circuit Design",
-                "href": "https://biocircuits.github.io/index.html"
             },
             {
                 "title": "Apple Maps on the web launches in beta",
                 "href": "https://www.apple.com/newsroom/2024/07/apple-maps-on-the-web-launches-in-beta/"
             },
             {
+                "title": "eBPF Offensive Capabilities \u2013 Get Ready for Next-Gen Malware (2023)",
+                "href": "https://sysdig.com/blog/ebpf-offensive-capabilities/"
+            },
+            {
+                "title": "Switching from Arch to NixOS",
+                "href": "https://www.rugu.dev/en/blog/nixos/"
+            },
+            {
+                "title": "Google Search: Roboto Mono",
+                "href": "https://www.google.com/search?q=roboto+mono+font"
+            },
+            {
+                "title": "The Puzzle of How Large-Scale Order Emerges in Complex Systems",
+                "href": "https://www.wired.com/story/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/"
+            },
+            {
+                "title": "One-dose nasal spray clears toxic Alzheimer's proteins to improve memory",
+                "href": "https://newatlas.com/health-wellbeing/nasal-spray-tau-proteins-alzheimers/"
+            },
+            {
+                "title": "Biological Circuit Design",
+                "href": "https://biocircuits.github.io/index.html"
+            },
+            {
+                "title": "Replay.io is discontinuing Replay Test Suites",
+                "href": "https://blog.replay.io/a-new-direction"
+            },
+            {
                 "title": "When eyesight fades and climbing provides comfort",
                 "href": "https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/"
             },
             {
-                "title": "EU parliament member hit by Israeli Candiru spyware",
-                "href": "https://twitter.com/moo9000/status/1816352054425829420"
-            },
-            {
                 "title": "Physicists may now have a way to make element 120",
                 "href": "https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/"
-            },
-            {
-                "title": "Fossil hints that Jurassic mammals lived slow and died old",
-                "href": "https://www.nytimes.com/2024/07/24/science/fossil-mammal-jurassic-age.html"
             },
             {
                 "title": "Solving the out-of-context chunk problem for RAG",
@@ -897,22 +913,6 @@
             {
                 "title": "Space-filling curves, constructively",
                 "href": "https://math.andrej.com/2024/01/30/space-filling-curves-constructively/"
-            },
-            {
-                "title": "Hiding Linux Processes with Bind Mounts",
-                "href": "https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/"
-            },
-            {
-                "title": "The Open Group Base Specifications Issue 8",
-                "href": "https://pubs.opengroup.org/onlinepubs/9799919799/"
-            },
-            {
-                "title": "Show HN: NoteTech \u2013 Create personal automations by writing notes",
-                "href": "https://www.simpltech.ai"
-            },
-            {
-                "title": "InteractiVenn \u2013 Interactive Venn Diagrams",
-                "href": "https://interactivenn.net/index.html"
             }
         ]
     }
