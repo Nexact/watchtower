@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Bril: An Intermediate Language for Teaching Compilers",
-                "href": "https://www.cs.cornell.edu/~asampson/blog/bril.html"
-            },
-            {
                 "title": "Fear of over-engineering has killed engineering altogether",
                 "href": "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
+            },
+            {
+                "title": "Bril: An Intermediate Language for Teaching Compilers",
+                "href": "https://www.cs.cornell.edu/~asampson/blog/bril.html"
             },
             {
                 "title": "Scaling One Million Checkboxes to 650,000,000 checks",
@@ -35,12 +35,12 @@
                 "href": "https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/"
             },
             {
-                "title": "\"Computers, back then\": the story of ARRA, the first Dutch computer",
-                "href": "https://liam-on-linux.dreamwidth.org/91041.html"
-            },
-            {
                 "title": "Meta-Thunderbolt",
                 "href": "https://nocoffei.com/?p=247"
+            },
+            {
+                "title": "\"Computers, back then\": the story of ARRA, the first Dutch computer",
+                "href": "https://liam-on-linux.dreamwidth.org/91041.html"
             },
             {
                 "title": "Using GitHub as a (bad) blog platform",
@@ -49,6 +49,10 @@
             {
                 "title": "Secure Boot is completely broken on 200+ models from 5 big device makers",
                 "href": "https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/"
+            },
+            {
+                "title": "For Better or for Worse, the Overload",
+                "href": "https://consteval.ca/2024/07/25/overload/"
             },
             {
                 "title": "Approximate nearest neighbor search with DiskANN in libSQL",
@@ -87,20 +91,16 @@
                 "href": "https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/"
             },
             {
+                "title": "AMD Zen 5\u2019s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks",
+                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+            },
+            {
                 "title": "strlcpy and how CPUs can defy common sense",
                 "href": "https://nrk.neocities.org/articles/cpu-vs-common-sense"
             },
             {
                 "title": "Defense of Lisp macros: an automotive tragedy",
                 "href": "https://mihaiolteanu.me/defense-of-lisp-macros"
-            },
-            {
-                "title": "wruby: a single file, minimal site generator written in Ruby",
-                "href": "https://wruby.btxx.org/"
-            },
-            {
-                "title": "PEP 751 \u2013 A file format to list Python dependencies for installation reproducibility",
-                "href": "https://peps.python.org/pep-0751/"
             }
         ]
     },
@@ -795,16 +795,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Funtoo Linux is shutting down",
+                "href": "https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/"
+            },
+            {
                 "title": "Bayesian Statistics: The three cultures",
                 "href": "https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/"
             },
             {
-                "title": "Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks",
-                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
-            },
-            {
                 "title": "Why does the chromaticity diagram look like that?",
                 "href": "https://jlongster.com/why-chromaticity-shape"
+            },
+            {
+                "title": "Zen 5's 2-Ahead Branch Predictor: How a 30 Year Old Idea Allows for New Tricks",
+                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
             },
             {
                 "title": "Show HN: Patchwork \u2013 Open-source framework to automate development gruntwork",
@@ -831,6 +835,10 @@
                 "href": "https://www.youtube.com/watch?v=qlfh_rv6khY"
             },
             {
+                "title": "Apex Surplus is a movie industry props and parts source",
+                "href": "https://apexsurplus.com"
+            },
+            {
                 "title": "Finding a random seed that solves a LeetCode problem (2023)",
                 "href": "https://mcognetta.github.io/posts/leetcode-random-seed/"
             },
@@ -839,28 +847,32 @@
                 "href": "https://publish.uwo.ca/~jbell/univ.pdf"
             },
             {
+                "title": "Beyond Clean Code",
+                "href": "https://tobeva.com/articles/beyond/"
+            },
+            {
                 "title": "Europe is in danger of regulating its tech market out of existence",
                 "href": "https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/"
             },
             {
-                "title": "How Mihoyo's monetization works",
-                "href": "https://moonbearmusings.com/lets-talk-about-how-mihoyos-monetization-works/"
-            },
-            {
-                "title": "Beyond Clean Code",
-                "href": "https://tobeva.com/articles/beyond/"
+                "title": "The New Internet",
+                "href": "https://tailscale.com/blog/new-internet"
             },
             {
                 "title": "The Linux audio stack demystified",
                 "href": "https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/"
             },
             {
+                "title": "Counting bytes faster than you'd think possible",
+                "href": "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
+            },
+            {
                 "title": "Stripe acquires Lemon Squeezy",
                 "href": "https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy"
             },
             {
-                "title": "Counting bytes faster than you'd think possible",
-                "href": "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
+                "title": "Show HN: Ray Tracing in One Weekend v4.0.0",
+                "href": "https://raytracing.github.io"
             },
             {
                 "title": "The Many Lives of Null Island",
@@ -871,48 +883,36 @@
                 "href": "https://tonsky.me/blog/diagrams/"
             },
             {
-                "title": "The New Internet",
-                "href": "https://tailscale.com/blog/new-internet"
-            },
-            {
-                "title": "Scaling One Million Checkboxes to 650M checks",
-                "href": "https://eieio.games/essays/scaling-one-million-checkboxes/"
-            },
-            {
-                "title": "How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)",
-                "href": "https://siboehm.com/articles/22/CUDA-MMM"
-            },
-            {
-                "title": "A Swiss town banned billboards. Zurich, Bern may soon follow",
-                "href": "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
-            },
-            {
-                "title": "Why Levittown didn't revolutionize homebuilding",
-                "href": "https://www.construction-physics.com/p/why-levittown-didnt-revolutionize"
+                "title": "Understanding Performance Implications of Storage-Disaggregated Databases",
+                "href": "https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html"
             },
             {
                 "title": "Memory for music doesn't diminish with age",
                 "href": "https://www.nature.com/articles/d41586-024-02369-7"
             },
             {
+                "title": "Scaling One Million Checkboxes to 650M checks",
+                "href": "https://eieio.games/essays/scaling-one-million-checkboxes/"
+            },
+            {
+                "title": "A Swiss town banned billboards. Zurich, Bern may soon follow",
+                "href": "https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution"
+            },
+            {
                 "title": "NASA Graphics Standards Manual (1975)",
                 "href": "https://standardsmanual.com/products/nasa-graphics-standards-manual"
             },
             {
+                "title": "Why Levittown didn't revolutionize homebuilding",
+                "href": "https://www.construction-physics.com/p/why-levittown-didnt-revolutionize"
+            },
+            {
+                "title": "How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022)",
+                "href": "https://siboehm.com/articles/22/CUDA-MMM"
+            },
+            {
                 "title": "From Linux to NetBSD, with SSH Only",
                 "href": "https://cloudbsd.xyz/"
-            },
-            {
-                "title": "A hash table by any other name",
-                "href": "https://lwn.net/Articles/972580/"
-            },
-            {
-                "title": "When British Railways deliberately crashed a train",
-                "href": "https://www.therailwayhub.co.uk/67072/from-the-archive-operation-smash-hit-84/"
-            },
-            {
-                "title": "Treescope: Interactive HTML visualization library for Python neural networks",
-                "href": "https://github.com/google-deepmind/treescope"
             }
         ]
     }
