@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "The New Internet",
-                "href": "https://tailscale.com/blog/new-internet"
-            },
-            {
                 "title": "A new Gleam feature I love",
                 "href": "https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love"
+            },
+            {
+                "title": "The New Internet",
+                "href": "https://tailscale.com/blog/new-internet"
             },
             {
                 "title": "Bril: An Intermediate Language for Teaching Compilers",
@@ -39,6 +39,14 @@
                 "href": "https://jordaneldredge.com/notes/corrupted-skins/"
             },
             {
+                "title": "Learning about PCI-e: Driver & DMA",
+                "href": "https://blog.davidv.dev/posts/pcie-driver-dma/"
+            },
+            {
+                "title": "Counting Bytes Faster Than You'd Think Possible",
+                "href": "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
+            },
+            {
                 "title": "\"Computers, back then\": the story of ARRA, the first Dutch computer",
                 "href": "https://liam-on-linux.dreamwidth.org/91041.html"
             },
@@ -49,10 +57,6 @@
             {
                 "title": "Meta-Thunderbolt",
                 "href": "https://nocoffei.com/?p=247"
-            },
-            {
-                "title": "Counting Bytes Faster Than You'd Think Possible",
-                "href": "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
             },
             {
                 "title": "Using GitHub as a (bad) blog platform",
@@ -77,10 +81,6 @@
             {
                 "title": "Memory mapping an FPGA from an STM32",
                 "href": "https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html"
-            },
-            {
-                "title": "Learning about PCI-e: Driver & DMA",
-                "href": "https://blog.davidv.dev/posts/pcie-driver-dma/"
             },
             {
                 "title": "For Better or for Worse, the Overload",
@@ -110,6 +110,10 @@
             {
                 "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
+            },
+            {
+                "title": "Looking to hire someone to help me",
+                "href": "https://www.reddit.com/r/netsec/comments/1edfjd9/looking_to_hire_someone_to_help_me/"
             },
             {
                 "title": "New OpenSecurityTraining2 mini-class: \"Debuggers 1102: Introductory Ghidra\"",
@@ -206,10 +210,6 @@
             {
                 "title": "Windows Installer Custom Actions Privilege Escalation Vulnerability",
                 "href": "https://www.reddit.com/r/netsec/comments/1e65tpn/windows_installer_custom_actions_privilege/"
-            },
-            {
-                "title": "Attacking Connection Tracking Frameworks as used by VPN",
-                "href": "https://www.reddit.com/r/netsec/comments/1e667xi/attacking_connection_tracking_frameworks_as_used/"
             }
         ]
     },
@@ -803,36 +803,36 @@
                 "href": "https://github.com/narumatt/sqlitefs"
             },
             {
-                "title": "In the Beginning Was the Command Line",
-                "href": "https://web.stanford.edu/class/cs81n/command.txt"
-            },
-            {
                 "title": "A man who forgot about his own wedding",
                 "href": "https://boogiemath.org/meta/meta-9.html"
+            },
+            {
+                "title": "In the Beginning Was the Command Line",
+                "href": "https://web.stanford.edu/class/cs81n/command.txt"
             },
             {
                 "title": "Objective-C is like Jimi Hendrix (2014)",
                 "href": "http://frabjousdei.net/post/64096448121/objective-c-is-like-jimi-hendrix"
             },
             {
-                "title": "Was early modern writing paper expensive? (2018]",
-                "href": "https://www.rpvl.cz/en/"
-            },
-            {
-                "title": "Substack (YC W18) Is Hiring Systems Engineers",
-                "href": "https://grnh.se/4f362fed5us"
+                "title": "Learning about PCI-e: Driver and DMA",
+                "href": "https://blog.davidv.dev/posts/pcie-driver-dma/"
             },
             {
                 "title": "The Linux Kernel Module Programming Guide",
                 "href": "https://sysprog21.github.io/lkmpg/"
             },
             {
-                "title": "Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards",
-                "href": "https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/"
+                "title": "Substack (YC W18) Is Hiring Systems Engineers",
+                "href": "https://grnh.se/4f362fed5us"
             },
             {
-                "title": "Learning about PCI-e: Driver and DMA",
-                "href": "https://blog.davidv.dev/posts/pcie-driver-dma/"
+                "title": "Was early modern writing paper expensive? (2018)",
+                "href": "https://www.rpvl.cz/en/"
+            },
+            {
+                "title": "Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards",
+                "href": "https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/"
             },
             {
                 "title": "Linux Network Performance Ultimate Guide",
@@ -851,10 +851,6 @@
                 "href": "https://www.cs.cornell.edu/~asampson/blog/bril.html"
             },
             {
-                "title": "UBI and the Anti-Work Vibe Shift",
-                "href": "https://www.greshm.org/blog/ubi-and-the-anti-work-vibe-shift/"
-            },
-            {
                 "title": "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
                 "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
             },
@@ -867,8 +863,16 @@
                 "href": "https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/"
             },
             {
+                "title": "Introduction to Linear Algebra",
+                "href": "https://www.freetext.org/Introduction_to_Linear_Algebra/"
+            },
+            {
                 "title": "How to Preserve Physical Photos",
                 "href": "https://ente.io/blog/how-to-preserve-physical-photos/"
+            },
+            {
+                "title": "UBI and the Anti-Work Vibe Shift",
+                "href": "https://www.greshm.org/blog/ubi-and-the-anti-work-vibe-shift/"
             },
             {
                 "title": "Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024",
@@ -887,16 +891,8 @@
                 "href": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
             },
             {
-                "title": "The New Internet",
-                "href": "https://tailscale.com/blog/new-internet"
-            },
-            {
                 "title": "Better Firmware with LLVM/Clang",
                 "href": "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
-            },
-            {
-                "title": "Orcas sink $128K yacht in Mediterranean attack: 'Like watching wolves hunt'",
-                "href": "https://nypost.com/2024/07/26/world-news/killer-whales-sink-128k-yacht-in-2-hour-mediterranean-sea-attack/"
             },
             {
                 "title": "Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces",
@@ -907,8 +903,12 @@
                 "href": "https://ewpratten.com/blog/camping-radio/"
             },
             {
-                "title": "Mathematicians discover impossible problem in Super Mario games",
-                "href": "https://www.newscientist.com/article/2432195-mathematicians-discover-impossible-problem-in-super-mario-games/"
+                "title": "The New Internet",
+                "href": "https://tailscale.com/blog/new-internet"
+            },
+            {
+                "title": "Driving Compilers",
+                "href": "https://fabiensanglard.net/dc/"
             },
             {
                 "title": "Repulsive Shells [video]",
