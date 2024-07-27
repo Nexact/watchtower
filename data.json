@@ -15,16 +15,16 @@
                 "href": "https://eieio.games/essays/scaling-one-million-checkboxes/"
             },
             {
+                "title": "The New Internet",
+                "href": "https://tailscale.com/blog/new-internet"
+            },
+            {
                 "title": "Fun Friday: What's the most surprising CS topic you've used at work?",
                 "href": "https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic"
             },
             {
                 "title": "Transition from web/application development to system engineering",
                 "href": "https://lobste.rs/s/bi1pfz/transition_from_web_application"
-            },
-            {
-                "title": "The New Internet",
-                "href": "https://tailscale.com/blog/new-internet"
             },
             {
                 "title": "Safer code in C++ with lifetime bounds",
@@ -39,6 +39,14 @@
                 "href": "https://liam-on-linux.dreamwidth.org/91041.html"
             },
             {
+                "title": "AMD Zen 5\u2019s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks",
+                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+            },
+            {
+                "title": "Tracing the evolution of a Python function with git log -L",
+                "href": "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
+            },
+            {
                 "title": "How I Use Git Worktrees",
                 "href": "https://matklad.github.io/2024/07/25/git-worktrees.html"
             },
@@ -47,12 +55,12 @@
                 "href": "https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/"
             },
             {
-                "title": "For Better or for Worse, the Overload",
-                "href": "https://consteval.ca/2024/07/25/overload/"
+                "title": "Golang Defer: A Detailed Guide",
+                "href": "https://victoriametrics.com/blog/defer-in-go/"
             },
             {
-                "title": "AMD Zen 5\u2019s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks",
-                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+                "title": "For Better or for Worse, the Overload",
+                "href": "https://consteval.ca/2024/07/25/overload/"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -67,16 +75,8 @@
                 "href": "https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/"
             },
             {
-                "title": "Tracing the evolution of a Python function with git log -L",
-                "href": "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
-            },
-            {
                 "title": "How it became like this? Ruby Range class",
                 "href": "https://zverok.space/blog/2024-07-26-range-evolution.html"
-            },
-            {
-                "title": "Golang Defer: A Detailed Guide",
-                "href": "https://victoriametrics.com/blog/defer-in-go/"
             },
             {
                 "title": "Negative Space Programming Is Misunderstood",
@@ -156,12 +156,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1ea9bu3/cve20198805_apple_endpointsecurity_framework/"
             },
             {
-                "title": "Inside Doppelganger \u2013 How Russia uses EU companies for its propaganda",
-                "href": "https://www.reddit.com/r/netsec/comments/1e9jih5/inside_doppelganger_how_russia_uses_eu_companies/"
-            },
-            {
                 "title": "Blocking EDR Telemetry via PitM Network Filtering",
                 "href": "https://www.reddit.com/r/netsec/comments/1ea2pkk/blocking_edr_telemetry_via_pitm_network_filtering/"
+            },
+            {
+                "title": "Inside Doppelganger \u2013 How Russia uses EU companies for its propaganda",
+                "href": "https://www.reddit.com/r/netsec/comments/1e9jih5/inside_doppelganger_how_russia_uses_eu_companies/"
             },
             {
                 "title": "Ronin 2.1.0 has finally been released! This release includes new database tables, new payloads, a new recon engine, a local Web UI, and more. Ronin is a Ruby toolkit for security research and development.",
@@ -815,68 +815,80 @@
                 "href": "https://jamesbvaughan.com/volume-controller-1/"
             },
             {
-                "title": "Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024",
-                "href": "https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/"
-            },
-            {
-                "title": "Twenty (YC S23) Is Hiring a Software Engineer in Paris",
-                "href": "https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer"
-            },
-            {
-                "title": "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
-                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+                "title": "Linux Network Performance Ultimate Guide",
+                "href": "https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/"
             },
             {
                 "title": "Introduction to Machine Learning Interviews Book",
                 "href": "https://huyenchip.com/ml-interviews-book/"
             },
             {
-                "title": "Linux Network Performance Ultimate Guide",
-                "href": "https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/"
+                "title": "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
+                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+            },
+            {
+                "title": "Twenty (YC S23) Is Hiring a Software Engineer in Paris",
+                "href": "https://www.ycombinator.com/companies/twenty/jobs/b1Uku7w-senior-software-engineer"
             },
             {
                 "title": "Bayesian Statistics: The three cultures",
                 "href": "https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/"
             },
             {
-                "title": "The New Internet",
-                "href": "https://tailscale.com/blog/new-internet"
+                "title": "Mastering Ruby Code Navigation: Ruby LSP Enhancements in the First Half of 2024",
+                "href": "https://railsatscale.com/2024-07-18-mastering-ruby-code-navigation-major-enhancements-in-ruby-lsp-2024/"
             },
             {
-                "title": "Why does the chromaticity diagram look like that?",
-                "href": "https://jlongster.com/why-chromaticity-shape"
+                "title": "The New Internet",
+                "href": "https://tailscale.com/blog/new-internet"
             },
             {
                 "title": "How to Preserve Physical Photos",
                 "href": "https://ente.io/blog/how-to-preserve-physical-photos/"
             },
             {
+                "title": "Better Firmware with LLVM/Clang",
+                "href": "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
+            },
+            {
+                "title": "Why does the chromaticity diagram look like that?",
+                "href": "https://jlongster.com/why-chromaticity-shape"
+            },
+            {
                 "title": "Monumental proof settles geometric Langlands conjecture",
                 "href": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
+            },
+            {
+                "title": "Bril: An Intermediate Language for Teaching Compilers",
+                "href": "https://www.cs.cornell.edu/~asampson/blog/bril.html"
             },
             {
                 "title": "TOTP tokens on my wrist with the smartest dumb watch",
                 "href": "https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/"
             },
             {
-                "title": "How large language models will disrupt data management [pdf]",
-                "href": "https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf"
+                "title": "Grumpy Gamer \u2013 Why Adventure Games Suck",
+                "href": "https://grumpygamer.com/why_adventure_games_suck"
             },
             {
-                "title": "Better Firmware with LLVM/Clang",
-                "href": "https://interrupt.memfault.com/blog/arm-cortexm-with-llvm-clang"
+                "title": "How large language models will disrupt data management [pdf]",
+                "href": "https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf"
             },
             {
                 "title": "Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces",
                 "href": "https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/"
             },
             {
-                "title": "Taking a Radio Camping",
-                "href": "https://ewpratten.com/blog/camping-radio/"
+                "title": "Driving Compilers",
+                "href": "https://fabiensanglard.net/dc/"
             },
             {
-                "title": "Seam Carving (2018)",
-                "href": "https://andrewdcampbell.github.io/seam-carving"
+                "title": "New Programming Languages of 2024",
+                "href": "https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3E%3D%22%2C%22data%22%3A%22appeared%22%2C%22origData%22%3A%22appeared%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%222024%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D"
+            },
+            {
+                "title": "Taking a Radio Camping",
+                "href": "https://ewpratten.com/blog/camping-radio/"
             },
             {
                 "title": "Repulsive Shells [video]",
@@ -887,12 +899,12 @@
                 "href": "https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/"
             },
             {
-                "title": "Driving Compilers",
-                "href": "https://fabiensanglard.net/dc/"
-            },
-            {
                 "title": "A simple procedural animation technique [video]",
                 "href": "https://www.youtube.com/watch?v=qlfh_rv6khY"
+            },
+            {
+                "title": "Seam Carving (2018)",
+                "href": "https://andrewdcampbell.github.io/seam-carving"
             },
             {
                 "title": "IRS collects milestone $1B in back taxes from high-wealth taxpayers",
@@ -901,18 +913,6 @@
             {
                 "title": "Show HN: Patchwork \u2013 Open-source framework to automate development gruntwork",
                 "href": "https://github.com/patched-codes/patchwork"
-            },
-            {
-                "title": "Apex Surplus \u2013 A movie industry props and parts source",
-                "href": "https://apexsurplus.com"
-            },
-            {
-                "title": "Counting bytes faster than you'd think possible",
-                "href": "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
-            },
-            {
-                "title": "New Programming Languages of 2024",
-                "href": "https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3E%3D%22%2C%22data%22%3A%22appeared%22%2C%22origData%22%3A%22appeared%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%222024%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D"
             }
         ]
     }
