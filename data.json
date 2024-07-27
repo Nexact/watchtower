@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Fear of over-engineering has killed engineering altogether",
-                "href": "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
-            },
-            {
                 "title": "Bril: An Intermediate Language for Teaching Compilers",
                 "href": "https://www.cs.cornell.edu/~asampson/blog/bril.html"
+            },
+            {
+                "title": "Fear of over-engineering has killed engineering altogether",
+                "href": "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
             },
             {
                 "title": "Scaling One Million Checkboxes to 650,000,000 checks",
@@ -19,12 +19,16 @@
                 "href": "https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic"
             },
             {
-                "title": "How I Use Git Worktrees",
-                "href": "https://matklad.github.io/2024/07/25/git-worktrees.html"
-            },
-            {
                 "title": "Safer code in C++ with lifetime bounds",
                 "href": "https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/"
+            },
+            {
+                "title": "\"Computers, back then\": the story of ARRA, the first Dutch computer",
+                "href": "https://liam-on-linux.dreamwidth.org/91041.html"
+            },
+            {
+                "title": "How I Use Git Worktrees",
+                "href": "https://matklad.github.io/2024/07/25/git-worktrees.html"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -43,12 +47,12 @@
                 "href": "https://consteval.ca/2024/07/25/overload/"
             },
             {
-                "title": "\"Computers, back then\": the story of ARRA, the first Dutch computer",
-                "href": "https://liam-on-linux.dreamwidth.org/91041.html"
-            },
-            {
                 "title": "Using GitHub as a (bad) blog platform",
                 "href": "https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/"
+            },
+            {
+                "title": "Tracing the evolution of a Python function with git log -L",
+                "href": "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
             },
             {
                 "title": "Transition from web/application development to system engineering",
@@ -83,24 +87,20 @@
                 "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
             },
             {
-                "title": "Tracing the evolution of a Python function with git log -L",
-                "href": "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
+                "title": "A modern BLISS compiler based on LLVM",
+                "href": "https://gitlab.com/JonathanBelanger/bliss"
             },
             {
                 "title": "Memory Management in DuckDB",
                 "href": "https://duckdb.org/2024/07/09/memory-management"
             },
             {
-                "title": "A modern BLISS compiler based on LLVM",
-                "href": "https://gitlab.com/JonathanBelanger/bliss"
+                "title": "The New Internet",
+                "href": "https://tailscale.com/blog/new-internet"
             },
             {
                 "title": "Maps with Django\u207d\u00b9\u207e: GeoDjango, SpatiaLite & Leaflet",
                 "href": "https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/"
-            },
-            {
-                "title": "strlcpy and how CPUs can defy common sense",
-                "href": "https://nrk.neocities.org/articles/cpu-vs-common-sense"
             }
         ]
     },
@@ -319,6 +319,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Courts Close the Loophole Letting the Feds Search Your Phone At the Border",
+                "href": "https://yro.slashdot.org/story/24/07/27/001209/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Nvidia's Open-Source Linux Kernel Driver Performing At Parity To Proprietary Driver",
+                "href": "https://news.slashdot.org/story/24/07/26/2350248/nvidias-open-source-linux-kernel-driver-performing-at-parity-to-proprietary-driver?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "How a Cheap Barcode Scanner Helped Fix CrowdStrike'd Windows PCs In a Flash",
                 "href": "https://tech.slashdot.org/story/24/07/26/2059246/how-a-cheap-barcode-scanner-helped-fix-crowdstriked-windows-pcs-in-a-flash?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,14 +377,6 @@
             {
                 "title": "It Is Now Easier To Pass AP Tests",
                 "href": "https://news.slashdot.org/story/24/07/26/1556242/it-is-now-easier-to-pass-ap-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Childhood Air Pollution Directly Linked To Adult Lung Health, Study Says",
-                "href": "https://science.slashdot.org/story/24/07/26/1536239/childhood-air-pollution-directly-linked-to-adult-lung-health-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Windows 11 Will Soon Add Your Android Phone To File Explorer",
-                "href": "https://it.slashdot.org/story/24/07/26/1440232/windows-11-will-soon-add-your-android-phone-to-file-explorer?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,32 +795,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "MIT 11.350 \u2013 Sustainable Real Estate",
-                "href": "https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/"
-            },
-            {
-                "title": "Apex Surplus \u2013 a movie industry props and parts source",
-                "href": "https://apexsurplus.com"
+                "title": "Reverse-engineering my speakers' API to get reasonable volume control",
+                "href": "https://jamesbvaughan.com/volume-controller-1/"
             },
             {
                 "title": "Bayesian Statistics: The three cultures",
                 "href": "https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/"
             },
             {
+                "title": "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
+                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+            },
+            {
                 "title": "Crooks Bypassed Google's Email Verification to Create Workspace Accounts, Acces",
                 "href": "https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/"
             },
             {
-                "title": "Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks",
-                "href": "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+                "title": "Apex Surplus \u2013 A movie industry props and parts source",
+                "href": "https://apexsurplus.com"
+            },
+            {
+                "title": "GCVR (YC W22) Is Hiring Lead Back End Engineer (Sr/Staff/Principal)",
+                "href": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer-senior-staff-principal"
             },
             {
                 "title": "Why does the chromaticity diagram look like that?",
                 "href": "https://jlongster.com/why-chromaticity-shape"
             },
             {
-                "title": "Reverse-engineering my speakers' API to get reasonable volume control",
-                "href": "https://jamesbvaughan.com/volume-controller-1/"
+                "title": "Things I said as a manager part 2: Hiring is emotional",
+                "href": "https://reactiverobot.com/writing/hiring.html"
             },
             {
                 "title": "Call the compiler, fax it your code [video]",
@@ -831,44 +835,52 @@
                 "href": "https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/"
             },
             {
-                "title": "Show HN: Patchwork \u2013 Open-source framework to automate development gruntwork",
-                "href": "https://github.com/patched-codes/patchwork"
-            },
-            {
-                "title": "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
-                "href": "https://www.tesorio.com/careers#job-openings"
-            },
-            {
                 "title": "Repulsive Shells [video]",
                 "href": "https://www.youtube.com/watch?v=qDM6bCt1Gic"
-            },
-            {
-                "title": "Funtoo Linux is shutting down",
-                "href": "https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/"
-            },
-            {
-                "title": "Things I said as a manager part 2: Hiring is emotional",
-                "href": "https://reactiverobot.com/writing/hiring.html"
-            },
-            {
-                "title": "A simple procedural animation technique [video]",
-                "href": "https://www.youtube.com/watch?v=qlfh_rv6khY"
-            },
-            {
-                "title": "TOTP tokens on my wrist with the smartest dumb watch",
-                "href": "https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/"
             },
             {
                 "title": "The New Internet",
                 "href": "https://tailscale.com/blog/new-internet"
             },
             {
-                "title": "Finding a random seed that solves a LeetCode problem (2023)",
-                "href": "https://mcognetta.github.io/posts/leetcode-random-seed/"
+                "title": "Show HN: Patchwork \u2013 Open-source framework to automate development gruntwork",
+                "href": "https://github.com/patched-codes/patchwork"
+            },
+            {
+                "title": "MIT 11.350: Sustainable Real Estate",
+                "href": "https://ocw.mit.edu/courses/11-350-sustainable-real-estate-spring-2023/"
+            },
+            {
+                "title": "TOTP tokens on my wrist with the smartest dumb watch",
+                "href": "https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/"
+            },
+            {
+                "title": "A simple procedural animation technique [video]",
+                "href": "https://www.youtube.com/watch?v=qlfh_rv6khY"
+            },
+            {
+                "title": "Funtoo Linux is shutting down",
+                "href": "https://forums.funtoo.org/topic/5182-all-good-things-must-come-to-an-end/"
+            },
+            {
+                "title": "Deep Learning Interviews (2021)",
+                "href": "https://arxiv.org/abs/2201.00650"
+            },
+            {
+                "title": "Courts Close the Loophole Letting the Feds Search Your Phone at the Border",
+                "href": "https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/"
             },
             {
                 "title": "Beyond Clean Code",
                 "href": "https://tobeva.com/articles/beyond/"
+            },
+            {
+                "title": "Finding a random seed that solves a LeetCode problem (2023)",
+                "href": "https://mcognetta.github.io/posts/leetcode-random-seed/"
+            },
+            {
+                "title": "Europe is in danger of regulating its tech market out of existence",
+                "href": "https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/"
             },
             {
                 "title": "Alexandre Grothendieck, The New Universal Church (1971) [pdf]",
@@ -879,40 +891,28 @@
                 "href": "https://www.lesswrong.com/posts/2uJsiQqHTjePTRqi4/superbabies-putting-the-pieces-together"
             },
             {
-                "title": "Europe is in danger of regulating its tech market out of existence",
-                "href": "https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/"
-            },
-            {
                 "title": "The Linux audio stack demystified",
                 "href": "https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/"
-            },
-            {
-                "title": "Is the nervous system a democracy? (2016)",
-                "href": "https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/"
             },
             {
                 "title": "Counting bytes faster than you'd think possible",
                 "href": "https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html"
             },
             {
-                "title": "Show HN: Ray Tracing in One Weekend v4.0.0",
-                "href": "https://raytracing.github.io"
+                "title": "Intel confirms no recall for Raptor Lake CPUs,microcode won't fix affected units",
+                "href": "https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units"
             },
             {
-                "title": "Stripe acquires Lemon Squeezy",
-                "href": "https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy"
-            },
-            {
-                "title": "Deep Learning Interviews",
-                "href": "https://arxiv.org/abs/2201.00650"
+                "title": "Is the nervous system a democracy? (2016)",
+                "href": "https://www.scientificamerican.com/article/is-your-nervous-system-a-democracy-or-a-dictatorship/"
             },
             {
                 "title": "The Many Lives of Null Island",
                 "href": "https://stamen.com/the-many-lives-of-null-island/"
             },
             {
-                "title": "Memory for music doesn't diminish with age",
-                "href": "https://www.nature.com/articles/d41586-024-02369-7"
+                "title": "Stripe acquires Lemon Squeezy",
+                "href": "https://www.lemonsqueezy.com/blog/stripe-acquires-lemon-squeezy"
             }
         ]
     }
