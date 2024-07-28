@@ -11,6 +11,10 @@
                 "href": "https://blog.davidv.dev/posts/first-contact-with-k8s/"
             },
             {
+                "title": "tolower() with AVX-512",
+                "href": "https://dotat.at/@/2024-07-28-tolower-avx512.html"
+            },
+            {
                 "title": "The Many Lives of Null Island",
                 "href": "https://stamen.com/the-many-lives-of-null-island/"
             },
@@ -23,12 +27,16 @@
                 "href": "https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/"
             },
             {
+                "title": "A new Gleam feature I love",
+                "href": "https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love"
+            },
+            {
                 "title": "Interpreting decimal strings into floats (part 1)",
                 "href": "https://jvernay.fr/en/blog/parse-floats/part1-parsing/"
             },
             {
-                "title": "A new Gleam feature I love",
-                "href": "https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love"
+                "title": "Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024",
+                "href": "https://krystalgamer.github.io/spidey-decomp-status-july/"
             },
             {
                 "title": "Unsafe read beyond of death",
@@ -37,10 +45,6 @@
             {
                 "title": "NetBSD on RISC-V - It Finally Runs NetBSD",
                 "href": "https://youtu.be/RNHTYV4MI8Y"
-            },
-            {
-                "title": "Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024",
-                "href": "https://krystalgamer.github.io/spidey-decomp-status-july/"
             },
             {
                 "title": "Hashbang hacking for fun and, maybe in the future, profit",
@@ -71,16 +75,16 @@
                 "href": "https://tailscale.com/blog/new-internet"
             },
             {
+                "title": "bashsimplecurses: A simple curses library made in bash to draw terminal interfaces",
+                "href": "https://github.com/metal3d/bashsimplecurses"
+            },
+            {
                 "title": "Learning about PCI-e: Driver & DMA",
                 "href": "https://blog.davidv.dev/posts/pcie-driver-dma/"
             },
             {
                 "title": "Linux Network Performance Ultimate Guide",
                 "href": "https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/"
-            },
-            {
-                "title": "bashsimplecurses: A simple curses library made in bash to draw terminal interfaces",
-                "href": "https://github.com/metal3d/bashsimplecurses"
             },
             {
                 "title": "Counting Bytes Faster Than You'd Think Possible",
@@ -97,10 +101,6 @@
             {
                 "title": "Minimal 64x4 \u2013 DIY computer with 4x the processing power of a C64 or Apple II",
                 "href": "https://github.com/slu4coder/Minimal-64x4-Home-Computer"
-            },
-            {
-                "title": "Tracing the evolution of a Python function with git log -L",
-                "href": "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Burglars are Jamming Wi-FI Security Cameras",
+                "href": "https://yro.slashdot.org/story/24/07/28/2034221/burglars-are-jamming-wi-fi-security-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "ChatGPT Has Been Integrated Into a Brain Implant",
                 "href": "https://science.slashdot.org/story/24/07/28/1847232/chatgpt-has-been-integrated-into-a-brain-implant?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Fracking for Heat:  A New Source of Clean Energy?",
                 "href": "https://hardware.slashdot.org/story/24/07/27/1916214/fracking-for-heat-a-new-source-of-clean-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "29 Felony Charges Filed Over 'Swat' Calls Made By an 11-Year-Old",
-                "href": "https://yro.slashdot.org/story/24/07/27/1715244/29-felony-charges-filed-over-swat-calls-made-by-an-11-year-old?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,52 +791,64 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Don't blindly prefer `emplace_back` to `push_back` in C++",
+                "href": "https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/"
+            },
+            {
                 "title": "How simultaneous multithreading works under the hood",
                 "href": "https://blog.codingconfessions.com/p/simultaneous-multithreading"
-            },
-            {
-                "title": "Microsoft technical breakdown of CrowdStrike incident",
-                "href": "https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/"
-            },
-            {
-                "title": "Show HN: I built an open-source tool to make on-call suck less",
-                "href": "https://github.com/opslane/opslane"
             },
             {
                 "title": "An Approach to the Fundamental Theory of Physics",
                 "href": "https://www.wolframphysics.org/"
             },
             {
-                "title": "The rich history of ham radio culture",
-                "href": "https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/"
+                "title": "Show HN: I built an open-source tool to make on-call suck less",
+                "href": "https://github.com/opslane/opslane"
             },
             {
-                "title": "Italy's \"Sun Motorway\": the story of an exceptional infrastructure",
+                "title": "Italy's \"Sun Motorway\": the story of an exceptional infrastructure (2021)",
                 "href": "https://www.domusweb.it/en/architecture/gallery/2021/07/16/the-sun-motorway-is-65-years-old-a-short-story-of-an-extraordinary-infrastructure.html"
+            },
+            {
+                "title": "FurtherAI (YC W24) Is Hiring Founding Software Engineers in Bay Area",
+                "href": "https://www.ycombinator.com/companies/furtherai/jobs/YZZvimn-founding-software-engineer"
             },
             {
                 "title": "Show HN: CeLLama \u2013 Single cell annotation with local LLMs",
                 "href": "https://github.com/CelVoxes/ceLLama"
             },
             {
+                "title": "Coulomb Explosion",
+                "href": "https://en.wikipedia.org/wiki/Coulomb_explosion"
+            },
+            {
                 "title": "Show HN: I made a tool to receive alerts when answers change",
                 "href": "https://www.alertfor.com/"
+            },
+            {
+                "title": "The rich history of ham radio culture",
+                "href": "https://thereader.mitpress.mit.edu/the-rich-history-of-ham-radio-culture/"
             },
             {
                 "title": "How to debug your battery design",
                 "href": "https://github.com/ionworks/how-to-debug-your-battery"
             },
             {
-                "title": "The irrational hungry judge effect revisited (2023)",
-                "href": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
-            },
-            {
                 "title": "Show HN: SwimOS Rust \u2013 A framework for real-time streaming data applications",
                 "href": "https://github.com/swimos/swim-rust"
             },
             {
-                "title": "Back to our roots",
-                "href": "https://honnibal.dev/blog/back-to-our-roots"
+                "title": "Microsoft technical breakdown of CrowdStrike incident",
+                "href": "https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/"
+            },
+            {
+                "title": "The irrational hungry judge effect revisited (2023)",
+                "href": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
+            },
+            {
+                "title": "Understanding Airflow DAG and Task Concurrency on Google Cloud Composer",
+                "href": "https://cloud.google.com/blog/products/data-analytics/airflow-dag-and-task-concurrency-in-cloud-composer/"
             },
             {
                 "title": "The Ridgeway: The 5k-year-old pathway that's Britain's oldest road",
@@ -847,44 +859,36 @@
                 "href": "https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1129&context=jitta"
             },
             {
-                "title": "Understanding Airflow DAG and Task Concurrency on Google Cloud Composer",
-                "href": "https://cloud.google.com/blog/products/data-analytics/airflow-dag-and-task-concurrency-in-cloud-composer/"
+                "title": "Back to our roots",
+                "href": "https://honnibal.dev/blog/back-to-our-roots"
             },
             {
                 "title": "Small neural network enables realistic rendering of woven fabrics in real-time",
                 "href": "https://techxplore.com/news/2024-07-lightweight-neural-network-enables-realistic.html"
             },
             {
-                "title": "Coulomb Explosion",
-                "href": "https://en.wikipedia.org/wiki/Coulomb_explosion"
-            },
-            {
                 "title": "StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3",
                 "href": "https://github.com/StreamPot/StreamPot"
-            },
-            {
-                "title": "Intel N100 Radxa X4 First Thoughts",
-                "href": "https://bret.dk/intel-n100-radxa-x4-first-thoughts/"
-            },
-            {
-                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff+ Engineers in NYC",
-                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-            },
-            {
-                "title": "Lullaby Language (2006)",
-                "href": "https://www.humansystemsinaction.com/lullaby-language/"
-            },
-            {
-                "title": "Tritone Substitutions",
-                "href": "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/"
             },
             {
                 "title": "Show HN: ThinkPost \u2013 split-panel note taking & brainstorming app for devs",
                 "href": "https://thinkpost.io"
             },
             {
-                "title": "My favorite tools and techniques for procedural gamedev",
-                "href": "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/"
+                "title": "Intel N100 Radxa X4 First Thoughts",
+                "href": "https://bret.dk/intel-n100-radxa-x4-first-thoughts/"
+            },
+            {
+                "title": "Tell HN: Blocked by Cloudflare",
+                "href": "item?id=41095456"
+            },
+            {
+                "title": "Tritone Substitutions",
+                "href": "https://johncarlosbaez.wordpress.com/2024/07/27/tritone-substitutions/"
+            },
+            {
+                "title": "Lullaby Language (2006)",
+                "href": "https://www.humansystemsinaction.com/lullaby-language/"
             },
             {
                 "title": "Fish in remote tank made into fractals with Video Feedback Device [video]",
@@ -895,20 +899,16 @@
                 "href": "https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c"
             },
             {
+                "title": "CrowdStrike offers partners $10 vouchers to say sorry \u2013 and they don't work",
+                "href": "https://news.sky.com/story/crowdstrike-company-that-caused-global-techno-meltdown-offers-partners-10-vouchers-to-say-sorry-and-they-dont-work-13184488"
+            },
+            {
                 "title": "In the Beginning Was the Command Line (1999)",
                 "href": "https://web.stanford.edu/class/cs81n/command.txt"
             },
             {
-                "title": "Roguecraft Devs on Developing for Amiga in 2024",
-                "href": "https://www.timeextension.com/features/interview-its-easy-to-get-a-bit-over-ambitious-roguecraft-devs-on-developing-for-amiga-in-2024"
-            },
-            {
-                "title": "What we would've done differently in the first year of bootstrapping our company",
-                "href": "https://foundersconfidential418.substack.com/p/what-we-wouldve-done-differently"
-            },
-            {
-                "title": "Maglev titanium heart inside the chest of a live patient",
-                "href": "https://newatlas.com/medical/maglev-titanium-heart-bivacor/"
+                "title": "My favorite tools and techniques for procedural gamedev",
+                "href": "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/"
             }
         ]
     }
