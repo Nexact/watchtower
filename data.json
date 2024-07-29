@@ -11,6 +11,10 @@
                 "href": "https://blog.davidv.dev/posts/first-contact-with-k8s/"
             },
             {
+                "title": "TigerStyle",
+                "href": "https://ratfactor.com/cards/tiger-style"
+            },
+            {
                 "title": "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
                 "href": "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
             },
@@ -19,12 +23,12 @@
                 "href": "https://lobste.rs/s/vqrlde/what_are_you_doing_this_week"
             },
             {
-                "title": "TigerStyle",
-                "href": "https://ratfactor.com/cards/tiger-style"
-            },
-            {
                 "title": "ps aux written entirely in bash without ever forking",
                 "href": "https://github.com/izabera/ps"
+            },
+            {
+                "title": "Flexible network data preloading in large SPAs",
+                "href": "https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/"
             },
             {
                 "title": "SciLean: Scientific computing in Lean 4",
@@ -37,10 +41,6 @@
             {
                 "title": "Create Kubernetes users restricted to one namespace with resource limits",
                 "href": "http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html"
-            },
-            {
-                "title": "Flexible network data preloading in large SPAs",
-                "href": "https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/"
             },
             {
                 "title": "Memory control proposal for WebAssembly",
@@ -75,12 +75,12 @@
                 "href": "https://krystalgamer.github.io/spidey-decomp-status-july/"
             },
             {
-                "title": "The Wild West of Proof of Concept Exploit Code (PoC)",
-                "href": "https://santandersecurityresearch.github.io/blog/sshing_the_masses"
-            },
-            {
                 "title": "Announcing TypeScript 5.6 Beta",
                 "href": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/"
+            },
+            {
+                "title": "The Wild West of Proof of Concept Exploit Code (PoC)",
+                "href": "https://santandersecurityresearch.github.io/blog/sshing_the_masses"
             },
             {
                 "title": "Interactive Flight and Satellite Tracker",
@@ -122,10 +122,6 @@
             {
                 "title": "CVE-2021-4440: A Linux CNA Case Study",
                 "href": "https://www.reddit.com/r/netsec/comments/1ee8rxs/cve20214440_a_linux_cna_case_study/"
-            },
-            {
-                "title": "I recently got infected by a virus can anyone tell me if any of these listining ports are sus? i need to know that im 100% clean",
-                "href": "https://www.reddit.com/r/netsec/comments/1ef2lb5/i_recently_got_infected_by_a_virus_can_anyone/"
             },
             {
                 "title": "ARM's Memory Corruption Detection - Memory Tag Extensions(MTE) Bypassed In Real World Conditions - Google's V8 Engine/Sandbox and the Linux Kernel via Speculative Execution Attacks.",
@@ -210,6 +206,10 @@
             {
                 "title": "3 ways to get Remote Code Execution in Kafka UI",
                 "href": "https://www.reddit.com/r/netsec/comments/1e9h0uq/3_ways_to_get_remote_code_execution_in_kafka_ui/"
+            },
+            {
+                "title": "A public database \"The API Threat Landscape\", summarizing information about publicly disclosed API security data breaches from 2022",
+                "href": "https://www.reddit.com/r/netsec/comments/1e992ud/a_public_database_the_api_threat_landscape/"
             }
         ]
     },
@@ -379,6 +379,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "IBM security advisory (AV24-424)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-424"
+            },
             {
                 "title": "Dell security advisory (AV24-423)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-423"
@@ -574,10 +578,6 @@
             {
                 "title": "Microsoft security advisory \u2013 July 2024 monthly rollup (AV24-376)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2024-monthly-rollup-av24-376"
-            },
-            {
-                "title": "Citrix security advisory (AV24-375)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av24-375"
             }
         ]
     },
@@ -791,6 +791,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Is Cloudflare overcharging us for their images service?",
+                "href": "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/"
+            },
+            {
                 "title": "Movable tree CRDTs and Loro's implementation",
                 "href": "https://loro.dev/blog/movable-tree"
             },
@@ -799,36 +803,32 @@
                 "href": "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
             },
             {
-                "title": "Launch HN: Roame (YC S23) \u2013 Flight search engine for your credit card points",
-                "href": "item?id=41100094"
-            },
-            {
                 "title": "Virtual Apollo Guidance Computer",
                 "href": "https://github.com/virtualagc/virtualagc"
+            },
+            {
+                "title": "Launch HN: Roame (YC S23) \u2013 Flight search engine for your credit card points",
+                "href": "item?id=41100094"
             },
             {
                 "title": "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests",
                 "href": "https://e10v.me/tea-tasting-analysis-of-experiments/"
             },
             {
-                "title": "Is Cloudflare overcharging us for their images service?",
-                "href": "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/"
+                "title": "How to build highly-debuggable C++ binaries",
+                "href": "https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html"
             },
             {
                 "title": "SVG Triangle of Compromise",
                 "href": "https://me.micahrl.com/blog/svg-triangle-of-compromise/"
             },
             {
-                "title": "How to build highly-debuggable C++ binaries",
-                "href": "https://dhashe.com/how-to-build-highly-debuggable-c-binaries.html"
+                "title": "Columbia's near-miss: Why we should always expect the unexpected in space",
+                "href": "https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/"
             },
             {
                 "title": "Understanding the design of the the Super Nintendo video system",
                 "href": "https://fabiensanglard.net/snes_video/index.html"
-            },
-            {
-                "title": "Columbia's near-miss: Why we should always expect the unexpected in space",
-                "href": "https://www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/"
             },
             {
                 "title": "tolower() with AVX-512",
@@ -839,44 +839,32 @@
                 "href": "https://github.com/izabera/ps"
             },
             {
-                "title": "Show HN: A minimalist, privacy-first site to sell your skills as a developer",
-                "href": "https://workfractal.com"
+                "title": "Show HN: I built an open-source tool to make on-call suck less",
+                "href": "https://github.com/opslane/opslane"
             },
             {
                 "title": "Confido (YC S21) Is Hiring",
                 "href": "item?id=41099743"
             },
             {
-                "title": "Operating Systems running in my house (2015)",
-                "href": "https://xkcd.com/1508/"
-            },
-            {
-                "title": "Show HN: I built an open-source tool to make on-call suck less",
-                "href": "https://github.com/opslane/opslane"
-            },
-            {
-                "title": "An Open Course on LLMs, Led by Practitioners",
-                "href": "https://hamel.dev/blog/posts/course/"
+                "title": "MeTube: Self-Hosted YouTube Downloader",
+                "href": "https://github.com/alexta69/metube"
             },
             {
                 "title": "How simultaneous multithreading works under the hood",
                 "href": "https://blog.codingconfessions.com/p/simultaneous-multithreading"
             },
             {
+                "title": "Not So Secret: Analysis of KakaoTalk's Chat E2EE Feature",
+                "href": "https://stulle123.github.io/posts/kakaotalk/secret-chat/"
+            },
+            {
                 "title": "Pallene: A statically compiled companion language for Lua",
                 "href": "https://github.com/pallene-lang/pallene/blob/master/doc/manual.md"
             },
             {
-                "title": "Moral Implications of Being Moderately Successful Computer Scientist and a Woman",
-                "href": "https://irenezhang.net/blog/2024/07/24/misogyny.html"
-            },
-            {
                 "title": "Higher-kinded bounded polymorphism in OCaml (2021)",
                 "href": "https://okmij.org/ftp/ML/higher-kind-poly.html"
-            },
-            {
-                "title": "Not So Secret: Analysis of KakaoTalk's Chat E2EE Feature",
-                "href": "https://stulle123.github.io/posts/kakaotalk/secret-chat/"
             },
             {
                 "title": "SDcard wear leveling and translation layers (2014)",
@@ -895,12 +883,12 @@
                 "href": "https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/"
             },
             {
-                "title": "How to debug your battery design",
-                "href": "https://github.com/ionworks/how-to-debug-your-battery"
+                "title": "An Open Course on LLMs, Led by Practitioners",
+                "href": "https://hamel.dev/blog/posts/course/"
             },
             {
-                "title": "MeTube: Self-Hosted YouTube Downloader",
-                "href": "https://github.com/alexta69/metube"
+                "title": "How to debug your battery design",
+                "href": "https://github.com/ionworks/how-to-debug-your-battery"
             },
             {
                 "title": "The weird and wonderful world of DNS LOC records",
@@ -909,6 +897,18 @@
             {
                 "title": "The irrational hungry judge effect revisited (2023)",
                 "href": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
+            },
+            {
+                "title": "Show HN: CeLLama \u2013 Single cell annotation with local LLMs",
+                "href": "https://github.com/CelVoxes/ceLLama"
+            },
+            {
+                "title": "Show HN: I made a tool to receive alerts when answers change",
+                "href": "https://www.alertfor.com/"
+            },
+            {
+                "title": "StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3",
+                "href": "https://github.com/StreamPot/StreamPot"
             }
         ]
     }
