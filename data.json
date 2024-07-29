@@ -11,12 +11,12 @@
                 "href": "https://blog.davidv.dev/posts/first-contact-with-k8s/"
             },
             {
-                "title": "TigerStyle",
-                "href": "https://ratfactor.com/cards/tiger-style"
-            },
-            {
                 "title": "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
                 "href": "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
+            },
+            {
+                "title": "TigerStyle",
+                "href": "https://ratfactor.com/cards/tiger-style"
             },
             {
                 "title": "What are you doing this week?",
@@ -35,6 +35,10 @@
                 "href": "https://github.com/lecopivo/SciLean"
             },
             {
+                "title": "alloc_cat: a simple allocator for small-to-tiny wasm projects",
+                "href": "https://crates.io/crates/alloc_cat"
+            },
+            {
                 "title": "Tiny Tapeout demoscene competition",
                 "href": "https://tinytapeout.com/competitions/demoscene/"
             },
@@ -43,12 +47,12 @@
                 "href": "http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html"
             },
             {
-                "title": "Memory control proposal for WebAssembly",
-                "href": "https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md"
-            },
-            {
                 "title": "The Many Lives of Null Island",
                 "href": "https://stamen.com/the-many-lives-of-null-island/"
+            },
+            {
+                "title": "Memory control proposal for WebAssembly",
+                "href": "https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md"
             },
             {
                 "title": "What\u2019s New in Go 1.23: Iterators and reflect.Value.Seq",
@@ -57,6 +61,10 @@
             {
                 "title": "Carving the Super Nintendo Video System",
                 "href": "https://fabiensanglard.net/snes_video/index.html"
+            },
+            {
+                "title": "NGINX Unit: Universal web app server",
+                "href": "https://unit.nginx.org/"
             },
             {
                 "title": "Qt Creator 14: C++ Code Model Update",
@@ -93,14 +101,6 @@
             {
                 "title": "Unsafe read beyond of death",
                 "href": "https://ogxd.github.io/articles/unsafe-read-beyond-of-death/"
-            },
-            {
-                "title": "A new Gleam feature I love",
-                "href": "https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love"
-            },
-            {
-                "title": "Quick bits: nix-shell is cursed",
-                "href": "https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft: Ransomware gangs exploit VMware ESXi auth bypass in attacks",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-ransomware-gangs-exploit-vmware-esxi-auth-bypass-in-attacks/"
+            },
+            {
                 "title": "HealthEquity says data breach impacts 4.3 million people",
                 "href": "https://www.bleepingcomputer.com/news/security/healthequity-says-data-breach-impacts-43-million-people/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Acronis warns of Cyber Infrastructure default password abused in attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-cyber-infrastructure-default-password-abused-in-attacks/"
-            },
-            {
-                "title": "Russian ransomware gangs account for 69% of all ransom proceeds",
-                "href": "https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-account-for-69-percent-of-all-ransom-proceeds/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Crypto Exchange To 'Socialize' $230 Million Security Breach Loss Among Customers",
+                "href": "https://news.slashdot.org/story/24/07/29/1629239/crypto-exchange-to-socialize-230-million-security-breach-loss-among-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Microsoft Adds Intrusive OneDrive Ad in Windows 11",
                 "href": "https://tech.slashdot.org/story/24/07/29/166215/microsoft-adds-intrusive-onedrive-ad-in-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Ford's Stock Drops 20% After $1.1 Billion Loss on EV Business",
                 "href": "https://hardware.slashdot.org/story/24/07/28/1731243/fords-stock-drops-20-after-11-billion-loss-on-ev-business?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Are Earth's Forests Losing Their Ability to Absorb Carbon Dioxide?",
-                "href": "https://news.slashdot.org/story/24/07/27/0444207/are-earths-forests-losing-their-ability-to-absorb-carbon-dioxide?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -630,20 +630,36 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "KnowBe4 Hires Fake North Korean IT Worker, Catches New Employee Planting Malware",
-                "href": "https://packetstormsecurity.com/news/view/36148/KnowBe4-Hires-Fake-North-Korean-IT-Worker-Catches-New-Employee-Planting-Malware.html"
+                "title": "Millions Of Websites Susceptible To XSS Attack Via OAuth Implementation Flaw",
+                "href": "https://packetstormsecurity.com/news/view/36152/Millions-Of-Websites-Susceptible-To-XSS-Attack-Via-OAuth-Implementation-Flaw.html"
             },
             {
-                "title": "HHS Audit Finds Serious Gaps In Cloud Security At Agency Office",
-                "href": "https://packetstormsecurity.com/news/view/36146/HHS-Audit-Finds-Serious-Gaps-In-Cloud-Security-At-Agency-Office.html"
+                "title": "MS Admits 8.5M CrowdStruck Machines Estimate Was Lowballed",
+                "href": "https://packetstormsecurity.com/news/view/36151/MS-Admits-8.5M-CrowdStruck-Machines-Estimate-Was-Lowballed.html"
+            },
+            {
+                "title": "PKFail Bug Puts Firmware Security At Risk",
+                "href": "https://packetstormsecurity.com/news/view/36153/PKFail-Bug-Puts-Firmware-Security-At-Risk.html"
+            },
+            {
+                "title": "Acronis Product Vulnerability Exploited In The Wild",
+                "href": "https://packetstormsecurity.com/news/view/36150/Acronis-Product-Vulnerability-Exploited-In-The-Wild.html"
             },
             {
                 "title": "Network Of 3,000 GitHub Accounts Used For Malware Distribution",
                 "href": "https://packetstormsecurity.com/news/view/36149/Network-Of-3-000-GitHub-Accounts-Used-For-Malware-Distribution.html"
             },
             {
+                "title": "KnowBe4 Hires Fake North Korean IT Worker, Catches New Employee Planting Malware",
+                "href": "https://packetstormsecurity.com/news/view/36148/KnowBe4-Hires-Fake-North-Korean-IT-Worker-Catches-New-Employee-Planting-Malware.html"
+            },
+            {
                 "title": "Hackers Bypass Windows SmartScreen Flaw To Launch Malware",
                 "href": "https://packetstormsecurity.com/news/view/36147/Hackers-Bypass-Windows-SmartScreen-Flaw-To-Launch-Malware.html"
+            },
+            {
+                "title": "HHS Audit Finds Serious Gaps In Cloud Security At Agency Office",
+                "href": "https://packetstormsecurity.com/news/view/36146/HHS-Audit-Finds-Serious-Gaps-In-Cloud-Security-At-Agency-Office.html"
             },
             {
                 "title": "Physicists Just Created An Element Using A Particle Beam",
@@ -670,130 +686,110 @@
                 "href": "https://packetstormsecurity.com/news/view/36140/School-Gets-An-F-For-Using-Facial-Recognition-On-Kids-In-Canteen.html"
             },
             {
-                "title": "Why CrowdStrike-Style Chaos Is Here To Stay",
-                "href": "https://packetstormsecurity.com/news/view/36139/Why-CrowdStrike-Style-Chaos-Is-Here-To-Stay.html"
+                "title": "mySCADA MyPRO Authenticated Command Injection",
+                "href": "https://packetstormsecurity.com/files/179781/mypro_cmdexe.rb.txt"
             },
             {
-                "title": "VMware ESXi Servers Targeted By New Linux Ransomware Variant",
-                "href": "https://packetstormsecurity.com/news/view/36138/VMware-ESXi-Servers-Targeted-By-New-Linux-Ransomware-Variant.html"
+                "title": "Ubuntu Security Notice USN-6926-1",
+                "href": "https://packetstormsecurity.com/files/179780/USN-6926-1.txt"
             },
             {
-                "title": "Telegram Zero-Day Enabled Malware Delivery",
-                "href": "https://packetstormsecurity.com/news/view/36137/Telegram-Zero-Day-Enabled-Malware-Delivery.html"
+                "title": "Ubuntu Security Notice USN-6925-1",
+                "href": "https://packetstormsecurity.com/files/179779/USN-6925-1.txt"
             },
             {
-                "title": "Ransomware Attack Shuts Down Three Dozen Los Angeles Courts",
-                "href": "https://packetstormsecurity.com/news/view/36136/Ransomware-Attack-Shuts-Down-Three-Dozen-Los-Angeles-Courts.html"
+                "title": "Blog Site 1.0 SQL Injection",
+                "href": "https://packetstormsecurity.com/files/179778/blogsite10-sql.txt"
             },
             {
-                "title": "Faraday 5.4.1",
-                "href": "https://packetstormsecurity.com/files/179741/faraday-5.4.1.tar.gz"
+                "title": "Debian Security Advisory 5734-2",
+                "href": "https://packetstormsecurity.com/files/179777/dsa-5734-2.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-6914-1",
-                "href": "https://packetstormsecurity.com/files/179740/USN-6914-1.txt"
+                "title": "QuickJob 6.1 Insecure Settings",
+                "href": "https://packetstormsecurity.com/files/179776/quickjob61-insecure.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-6913-1",
-                "href": "https://packetstormsecurity.com/files/179739/USN-6913-1.txt"
+                "title": "Prison Management System version 1.0 Insecure Settings",
+                "href": "https://packetstormsecurity.com/files/179775/prisonms10-insecure.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-6915-1",
-                "href": "https://packetstormsecurity.com/files/179738/USN-6915-1.txt"
+                "title": "Ubuntu Security Notice USN-6924-1",
+                "href": "https://packetstormsecurity.com/files/179774/USN-6924-1.txt"
             },
             {
-                "title": "Prison Management System 1.0 Shell Upload",
-                "href": "https://packetstormsecurity.com/files/179737/prisonmgmtsystem10-exec.txt"
+                "title": "Ubuntu Security Notice USN-6921-1",
+                "href": "https://packetstormsecurity.com/files/179773/USN-6921-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4836-03",
-                "href": "https://packetstormsecurity.com/files/179736/RHSA-2024-4836-03.txt"
+                "title": "Ubuntu Security Notice USN-6923-1",
+                "href": "https://packetstormsecurity.com/files/179772/USN-6923-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4831-03",
-                "href": "https://packetstormsecurity.com/files/179735/RHSA-2024-4831-03.txt"
+                "title": "Telegram For Android Connection::onReceivedData Use-After-Free",
+                "href": "https://packetstormsecurity.com/files/179771/GS20240729170124.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4830-03",
-                "href": "https://packetstormsecurity.com/files/179734/RHSA-2024-4830-03.txt"
+                "title": "PowerVR _DevmemXReservationPageAddress() Wrapping Addition Error",
+                "href": "https://packetstormsecurity.com/files/179770/GS20240729165931.tgz"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4829-03",
-                "href": "https://packetstormsecurity.com/files/179733/RHSA-2024-4829-03.txt"
+                "title": "PowerVR DevmemXIntMapPages() / DevmemXIntUnmapPages() Integer Overflows",
+                "href": "https://packetstormsecurity.com/files/179769/GS20240729165736.tgz"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4828-03",
-                "href": "https://packetstormsecurity.com/files/179732/RHSA-2024-4828-03.txt"
+                "title": "PowerVR PMR Physical Memory Handling Flaw",
+                "href": "https://packetstormsecurity.com/files/179768/GS20240729165525.tgz"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4827-03",
-                "href": "https://packetstormsecurity.com/files/179731/RHSA-2024-4827-03.txt"
+                "title": "Ubuntu Security Notice USN-6922-1",
+                "href": "https://packetstormsecurity.com/files/179767/USN-6922-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4826-03",
-                "href": "https://packetstormsecurity.com/files/179730/RHSA-2024-4826-03.txt"
+                "title": "Ubuntu Security Notice USN-6920-1",
+                "href": "https://packetstormsecurity.com/files/179766/USN-6920-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4825-03",
-                "href": "https://packetstormsecurity.com/files/179729/RHSA-2024-4825-03.txt"
+                "title": "Ubuntu Security Notice USN-6916-1",
+                "href": "https://packetstormsecurity.com/files/179765/USN-6916-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4824-03",
-                "href": "https://packetstormsecurity.com/files/179728/RHSA-2024-4824-03.txt"
+                "title": "Pharmacy Management System 1.0 Insecure Settings",
+                "href": "https://packetstormsecurity.com/files/179764/pharmacyms10-insecure.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4823-03",
-                "href": "https://packetstormsecurity.com/files/179727/RHSA-2024-4823-03.txt"
+                "title": "Online Payment Hub System 1.0 Insecure Settings",
+                "href": "https://packetstormsecurity.com/files/179763/ophs10-insecure.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4820-03",
-                "href": "https://packetstormsecurity.com/files/179726/RHSA-2024-4820-03.txt"
+                "title": "Ubuntu Security Notice USN-6918-1",
+                "href": "https://packetstormsecurity.com/files/179762/USN-6918-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4746-03",
-                "href": "https://packetstormsecurity.com/files/179725/RHSA-2024-4746-03.txt"
+                "title": "Ubuntu Security Notice USN-6919-1",
+                "href": "https://packetstormsecurity.com/files/179761/USN-6919-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4744-03",
-                "href": "https://packetstormsecurity.com/files/179724/RHSA-2024-4744-03.txt"
+                "title": "Ubuntu Security Notice USN-6917-1",
+                "href": "https://packetstormsecurity.com/files/179760/USN-6917-1.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4730-03",
-                "href": "https://packetstormsecurity.com/files/179723/RHSA-2024-4730-03.txt"
+                "title": "Innue Business Live Chat 2.5 Insecure Settings",
+                "href": "https://packetstormsecurity.com/files/179759/iblv25-insecure.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4715-03",
-                "href": "https://packetstormsecurity.com/files/179722/RHSA-2024-4715-03.txt"
+                "title": "Red Hat Security Advisory 2024-4902-03",
+                "href": "https://packetstormsecurity.com/files/179758/RHSA-2024-4902-03.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-4677-03",
-                "href": "https://packetstormsecurity.com/files/179721/RHSA-2024-4677-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4616-03",
-                "href": "https://packetstormsecurity.com/files/179720/RHSA-2024-4616-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4613-03",
-                "href": "https://packetstormsecurity.com/files/179719/RHSA-2024-4613-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-4336-03",
-                "href": "https://packetstormsecurity.com/files/179718/RHSA-2024-4336-03.txt"
-            },
-            {
-                "title": "Multi Store Inventory Management System 1.0 Insecure Direct Object Reference",
-                "href": "https://packetstormsecurity.com/files/179717/msims10-idor.txt"
+                "title": "Red Hat Security Advisory 2024-4896-03",
+                "href": "https://packetstormsecurity.com/files/179757/RHSA-2024-4896-03.txt"
             }
         ]
     },
     {
         "feedname": "hackernews",
         "items": [
-            {
-                "title": "Is Cloudflare overcharging us for their images service?",
-                "href": "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/"
-            },
             {
                 "title": "Movable tree CRDTs and Loro's implementation",
                 "href": "https://loro.dev/blog/movable-tree"
@@ -803,12 +799,12 @@
                 "href": "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
             },
             {
-                "title": "Virtual Apollo Guidance Computer",
-                "href": "https://github.com/virtualagc/virtualagc"
-            },
-            {
                 "title": "Launch HN: Roame (YC S23) \u2013 Flight search engine for your credit card points",
                 "href": "item?id=41100094"
+            },
+            {
+                "title": "Virtual Apollo Guidance Computer",
+                "href": "https://github.com/virtualagc/virtualagc"
             },
             {
                 "title": "Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests",
@@ -831,12 +827,20 @@
                 "href": "https://fabiensanglard.net/snes_video/index.html"
             },
             {
+                "title": "ps aux written in bash without forking",
+                "href": "https://github.com/izabera/ps"
+            },
+            {
                 "title": "tolower() with AVX-512",
                 "href": "https://dotat.at/@/2024-07-28-tolower-avx512.html"
             },
             {
-                "title": "ps aux written in bash without forking",
-                "href": "https://github.com/izabera/ps"
+                "title": "Debugging distributed database mysteries with Rust, packet capture and Polars",
+                "href": "https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/"
+            },
+            {
+                "title": "MeTube: Self-Hosted YouTube Downloader",
+                "href": "https://github.com/alexta69/metube"
             },
             {
                 "title": "Show HN: I built an open-source tool to make on-call suck less",
@@ -847,16 +851,16 @@
                 "href": "item?id=41099743"
             },
             {
-                "title": "MeTube: Self-Hosted YouTube Downloader",
-                "href": "https://github.com/alexta69/metube"
-            },
-            {
-                "title": "How simultaneous multithreading works under the hood",
-                "href": "https://blog.codingconfessions.com/p/simultaneous-multithreading"
+                "title": "Is Cloudflare overcharging us for their images service?",
+                "href": "http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/"
             },
             {
                 "title": "Not So Secret: Analysis of KakaoTalk's Chat E2EE Feature",
                 "href": "https://stulle123.github.io/posts/kakaotalk/secret-chat/"
+            },
+            {
+                "title": "How simultaneous multithreading works under the hood",
+                "href": "https://blog.codingconfessions.com/p/simultaneous-multithreading"
             },
             {
                 "title": "Pallene: A statically compiled companion language for Lua",
@@ -871,44 +875,40 @@
                 "href": "https://msreekan.com/2014/01/15/sdcard/"
             },
             {
-                "title": "Show HN: A football/soccer pass visualizer made with Three.js",
-                "href": "https://statsbomb-3d-viz.vercel.app/"
-            },
-            {
-                "title": "LeanDojo: Theorem Proving in Lean Using LLMs",
-                "href": "https://leandojo.org/"
-            },
-            {
-                "title": "The Tech of Planetary Annihilation: ChronoCam (2013)",
-                "href": "https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/"
-            },
-            {
-                "title": "An Open Course on LLMs, Led by Practitioners",
-                "href": "https://hamel.dev/blog/posts/course/"
+                "title": "The weird and wonderful world of DNS LOC records",
+                "href": "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
             },
             {
                 "title": "How to debug your battery design",
                 "href": "https://github.com/ionworks/how-to-debug-your-battery"
             },
             {
-                "title": "The weird and wonderful world of DNS LOC records",
-                "href": "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records"
+                "title": "LeanDojo: Theorem Proving in Lean Using LLMs",
+                "href": "https://leandojo.org/"
+            },
+            {
+                "title": "Show HN: A football/soccer pass visualizer made with Three.js",
+                "href": "https://statsbomb-3d-viz.vercel.app/"
+            },
+            {
+                "title": "The Tech of Planetary Annihilation: ChronoCam (2013)",
+                "href": "https://www.forrestthewoods.com/blog/tech_of_planetary_annihilation_chrono_cam/"
             },
             {
                 "title": "The irrational hungry judge effect revisited (2023)",
                 "href": "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58"
             },
             {
-                "title": "Show HN: CeLLama \u2013 Single cell annotation with local LLMs",
-                "href": "https://github.com/CelVoxes/ceLLama"
+                "title": "An Open Course on LLMs, Led by Practitioners",
+                "href": "https://hamel.dev/blog/posts/course/"
             },
             {
                 "title": "Show HN: I made a tool to receive alerts when answers change",
                 "href": "https://www.alertfor.com/"
             },
             {
-                "title": "StreamPot: Run FFmpeg as an API with fluent-FFmpeg compatibility, queues and S3",
-                "href": "https://github.com/StreamPot/StreamPot"
+                "title": "Show HN: CeLLama \u2013 Single cell annotation with local LLMs",
+                "href": "https://github.com/CelVoxes/ceLLama"
             }
         ]
     }
