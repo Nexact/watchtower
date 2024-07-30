@@ -3,20 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Go, a reasonable good language",
-                "href": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
-            },
-            {
                 "title": "Our audit of Homebrew",
                 "href": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
             },
             {
-                "title": "Practical Math: My Journey from Idea to Application",
-                "href": "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html"
+                "title": "Go, a reasonable good language",
+                "href": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
             },
             {
-                "title": "Third-party cookies have got to go",
-                "href": "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
+                "title": "Practical Math: My Journey from Idea to Application",
+                "href": "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html"
             },
             {
                 "title": "What we got wrong about HTTP imports",
@@ -25,6 +21,14 @@
             {
                 "title": "Functional programming languages should be so much better at mutation than they are",
                 "href": "https://cohost.org/prophet/post/7083950-functional-programming"
+            },
+            {
+                "title": "Third-party cookies have got to go",
+                "href": "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
+            },
+            {
+                "title": "HTTP/0.9 From Scratch",
+                "href": "https://kmcd.dev/posts/http0.9-from-scratch/"
             },
             {
                 "title": "Student Resampled His t Distribution",
@@ -43,10 +47,6 @@
                 "href": "https://injuly.in/blog/monoid-maybe/"
             },
             {
-                "title": "HTTP/0.9 From Scratch",
-                "href": "https://kmcd.dev/posts/http0.9-from-scratch/"
-            },
-            {
                 "title": "Implementing the \u201cone or more\u201d UI component",
                 "href": "https://verbnounenter.net/one-or-more"
             },
@@ -59,6 +59,10 @@
                 "href": "https://unit.nginx.org/"
             },
             {
+                "title": "FastHTML - Modern web applications in pure Python",
+                "href": "https://fastht.ml/"
+            },
+            {
                 "title": "My mental model of setf was wrong",
                 "href": "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
             },
@@ -67,20 +71,24 @@
                 "href": "https://wingolog.org/archives/2024/07/24/whippet-progress-update-funding-features-future"
             },
             {
-                "title": "FastHTML - Modern web applications in pure Python",
-                "href": "https://fastht.ml/"
+                "title": "Re: Crowdstrike Timeline Mystery",
+                "href": "https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery"
+            },
+            {
+                "title": "Racing round and round: The little bug that could",
+                "href": "https://securityintelligence.com/x-force/little-bug-that-could/"
             },
             {
                 "title": "Certificate Revocation Incident (CNAME-Based Domain Validation)",
                 "href": "https://www.digicert.com/support/certificate-revocation-incident"
             },
             {
-                "title": "Create Kubernetes users restricted to one namespace with resource limits",
-                "href": "http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html"
-            },
-            {
                 "title": "Crafting Interpreters with Rust: On Garbage Collection",
                 "href": "https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
+            },
+            {
+                "title": "Create Kubernetes users restricted to one namespace with resource limits",
+                "href": "http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html"
             },
             {
                 "title": "TigerStyle",
@@ -93,14 +101,6 @@
             {
                 "title": "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
                 "href": "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
-            },
-            {
-                "title": "cppfront: Midsummer update",
-                "href": "https://herbsutter.com/2024/07/28/cppfront-midsummer-update/"
-            },
-            {
-                "title": "tolower() with AVX-512",
-                "href": "https://dotat.at/@/2024-07-28-tolower-avx512.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "US Agency Puts Onus on Amazon For Sale of Hazardous Third-Party Products",
+                "href": "https://news.slashdot.org/story/24/07/30/1548244/us-agency-puts-onus-on-amazon-for-sale-of-hazardous-third-party-products?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "How Decline of Indian Vultures Led To 500,000 Human Deaths",
                 "href": "https://news.slashdot.org/story/24/07/30/1521236/how-decline-of-indian-vultures-led-to-500000-human-deaths?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Sam Altman Issues Call To Arms To Ensure 'Democratic AI' Will Defeat 'Authoritarian AI'",
                 "href": "https://slashdot.org/story/24/07/29/2019221/sam-altman-issues-call-to-arms-to-ensure-democratic-ai-will-defeat-authoritarian-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "French Internet Lines Cut In Latest Attack During Olympics",
-                "href": "https://tech.slashdot.org/story/24/07/29/207217/french-internet-lines-cut-in-latest-attack-during-olympics?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,100 +791,112 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Why Doesn't Advice Work?",
-                "href": "https://dynomight.substack.com/p/advice"
+                "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
+                "href": "https://nightingaledvs.com/dark-sky-weather-data-viz/"
             },
             {
-                "title": "Meta Launches AI Studio in US",
-                "href": "https://ai.meta.com/ai-studio/"
+                "title": "DARPA: Translating All C to Rust (Tractor)",
+                "href": "https://www.darpa.mil/program/translating-all-c-to-rust"
             },
             {
                 "title": "Was the Internet created to survive a nuclear strike?",
                 "href": "https://siliconfolklore.com/internet-history/"
             },
             {
+                "title": "Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?",
+                "href": "https://en.osm.town/@Firefishy/112875549871566269"
+            },
+            {
                 "title": "Making Machines Move",
                 "href": "https://fly.io/blog/machine-migrations/"
-            },
-            {
-                "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece",
-                "href": "https://nightingaledvs.com/dark-sky-weather-data-viz/"
-            },
-            {
-                "title": "Calculating the Cost of a Google Deepmind Paper",
-                "href": "https://152334H.github.io/blog/scaling-exponents/"
-            },
-            {
-                "title": "Butterflies accumulate static electricity to attract pollen without contact",
-                "href": "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
             },
             {
                 "title": "Show HN: A Video Editing SDK That Runs in the Browser",
                 "href": "https://rendley.com/"
             },
             {
+                "title": "Butterflies accumulate static electricity to attract pollen without contact",
+                "href": "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
+            },
+            {
+                "title": "Calculating the Cost of a Google Deepmind Paper",
+                "href": "https://152334H.github.io/blog/scaling-exponents/"
+            },
+            {
                 "title": "C Macro Reflection in Zig \u2013 Zig Has Better C Interop Than C Itself",
                 "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
+            },
+            {
+                "title": "Meta Launches AI Studio in US",
+                "href": "https://ai.meta.com/ai-studio/"
             },
             {
                 "title": "SAM 2: Segment Anything in Images and Videos",
                 "href": "https://github.com/facebookresearch/segment-anything-2"
             },
             {
-                "title": "Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?",
-                "href": "https://en.osm.town/@Firefishy/112875549871566269"
+                "title": "Scientists Uncover the Ancient Origins of Baobab Trees in Genetic Study",
+                "href": "https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/"
             },
             {
-                "title": "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
-                "href": "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
+                "title": "Please Stop Reinventing JSX",
+                "href": "https://gist.github.com/kevmo314/7bbf5d5868b973b53898d12b977b15b7"
+            },
+            {
+                "title": "Microsoft apologises after thousands report new outage",
+                "href": "https://www.bbc.co.uk/news/articles/c903e793w74o"
             },
             {
                 "title": "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
                 "href": "https://canarytokens.org/nest/"
             },
             {
-                "title": "A Visual Guide to LLM Quantization",
-                "href": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
-            },
-            {
                 "title": "Diffusion Training from Scratch on a Micro-Budget",
                 "href": "https://arxiv.org/abs/2407.15811"
-            },
-            {
-                "title": "The Infinity Machine",
-                "href": "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
-            },
-            {
-                "title": "FastHTML \u2013 Modern web applications in pure Python",
-                "href": "https://fastht.ml/"
             },
             {
                 "title": "The lie of music discovery algorithms",
                 "href": "https://www.zeynepevecen.dev/writing/music"
             },
             {
+                "title": "FastHTML \u2013 Modern web applications in pure Python",
+                "href": "https://fastht.ml/"
+            },
+            {
+                "title": "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
+                "href": "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
+            },
+            {
                 "title": "Lewis Lapham has died",
                 "href": "https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html"
+            },
+            {
+                "title": "The Infinity Machine",
+                "href": "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
             },
             {
                 "title": "Jiga (YC W21) Is Hiring a Full Stack Engineer",
                 "href": "https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer"
             },
             {
-                "title": "Four billion years in four minutes \u2013 Simulating worlds on the GPU",
-                "href": "https://davidar.io/post/sim-glsl"
-            },
-            {
                 "title": "If we want a shift to walking, we need to prioritize dignity",
                 "href": "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity"
             },
             {
-                "title": "White Dudes for Harris Rally Raises Millions but Then Sees X Account Suspended",
-                "href": "https://deadline.com/2024/07/white-dudes-harris-rally-twitter-x-account-suspended-elon-musk-1236026283/"
+                "title": "A Visual Guide to LLM Quantization",
+                "href": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
             },
             {
-                "title": "Show HN: OneMillionColors \u2013 explore, add and customize One Million Colors",
-                "href": "https://onemillioncolors.com/"
+                "title": "Why doesn't advice work?",
+                "href": "https://dynomight.substack.com/p/advice"
+            },
+            {
+                "title": "California DMV puts 42M car titles on blockchain to fight fraud",
+                "href": "https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/"
+            },
+            {
+                "title": "Four billion years in four minutes \u2013 Simulating worlds on the GPU",
+                "href": "https://davidar.io/post/sim-glsl"
             },
             {
                 "title": "Microjs",
@@ -895,20 +907,8 @@
                 "href": "https://spectrum.ieee.org/transparent-tv"
             },
             {
-                "title": "Please Stop Reinventing JSX",
-                "href": "https://gist.github.com/kevmo314/7bbf5d5868b973b53898d12b977b15b7"
-            },
-            {
                 "title": "Show HN: Create diagrams of complex data flows in software systems",
                 "href": "https://github.com/jodigiordano/gg"
-            },
-            {
-                "title": "Ask HN: Weirdest Computer Architecture?",
-                "href": "item?id=41080172"
-            },
-            {
-                "title": "Decline of Indian vultures led to 500k human deaths",
-                "href": "https://www.bbc.com/news/articles/c28e2pvzn3lo"
             }
         ]
     }
