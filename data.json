@@ -11,6 +11,10 @@
                 "href": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
             },
             {
+                "title": "HTTP/0.9 From Scratch",
+                "href": "https://kmcd.dev/posts/http0.9-from-scratch/"
+            },
+            {
                 "title": "Practical Math: My Journey from Idea to Application",
                 "href": "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html"
             },
@@ -19,20 +23,16 @@
                 "href": "https://deno.com/blog/http-imports"
             },
             {
+                "title": "C Macro Reflection in Zig \u2013 Zig Has Better C Interop Than C Itself",
+                "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
+            },
+            {
                 "title": "Third-party cookies have got to go",
                 "href": "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
             },
             {
                 "title": "Functional programming languages should be so much better at mutation than they are",
                 "href": "https://cohost.org/prophet/post/7083950-functional-programming"
-            },
-            {
-                "title": "C Macro Reflection in Zig \u2013 Zig Has Better C Interop Than C Itself",
-                "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
-            },
-            {
-                "title": "HTTP/0.9 From Scratch",
-                "href": "https://kmcd.dev/posts/http0.9-from-scratch/"
             },
             {
                 "title": "Student Resampled His t Distribution",
@@ -45,6 +45,10 @@
             {
                 "title": "Data.Maybe, and thoughts on library design",
                 "href": "https://injuly.in/blog/monoid-maybe/"
+            },
+            {
+                "title": "Quint",
+                "href": "https://quint-lang.org/"
             },
             {
                 "title": "Orca: WebAssembly apps without the web",
@@ -75,8 +79,8 @@
                 "href": "https://www.digicert.com/support/certificate-revocation-incident"
             },
             {
-                "title": "Quint",
-                "href": "https://quint-lang.org/"
+                "title": "A Deep Dive into German Strings",
+                "href": "https://cedardb.com/blog/strings_deep_dive/"
             },
             {
                 "title": "Racing round and round: The little bug that could",
@@ -97,10 +101,6 @@
             {
                 "title": "Cryptographic Right Answers: Post Quantum Edition",
                 "href": "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
-            },
-            {
-                "title": "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
-                "href": "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Russia To Allow Crypto Payments in International Trade To Counter Sanctions",
+                "href": "https://news.slashdot.org/story/24/07/30/187226/russia-to-allow-crypto-payments-in-international-trade-to-counter-sanctions?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Spain Watchdog Fines Booking.com Nearly $450 Million For Abusing Its Dominant Position",
                 "href": "https://slashdot.org/story/24/07/30/1729238/spain-watchdog-fines-bookingcom-nearly-450-million-for-abusing-its-dominant-position?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,16 +377,16 @@
             {
                 "title": "From Sci-Fi To State Law: California's Plan To Prevent AI Catastrophe",
                 "href": "https://yro.slashdot.org/story/24/07/29/2237231/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "One Question Stopped a Deepfake Scam Attempt At Ferrari",
-                "href": "https://it.slashdot.org/story/24/07/29/2221256/one-question-stopped-a-deepfake-scam-attempt-at-ferrari?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "HPE security advisory (AV24-429)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-429"
+            },
             {
                 "title": "Apple security advisory (AV24-428)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-428"
@@ -578,10 +582,6 @@
             {
                 "title": "[Control systems] Schneider Electric security advisory (AV24-381)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av24-381"
-            },
-            {
-                "title": "Red Hat security advisory (AV24-380)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-380"
             }
         ]
     },
@@ -795,96 +795,80 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
-                "href": "https://nightingaledvs.com/dark-sky-weather-data-viz/"
-            },
-            {
                 "title": "Launch HN: SSOReady (YC W24) \u2013 Making SAML SSO Painless and Open Source",
                 "href": "item?id=41110850"
             },
             {
-                "title": "The Truth About Linear Regression",
+                "title": "The Truth About Linear Regression (2015)",
                 "href": "https://www.stat.cmu.edu/~cshalizi/TALR/"
             },
             {
-                "title": "JavaScript Garbage Collection and Closures",
+                "title": "JavaScript garbage collection and closures",
                 "href": "https://jakearchibald.com/2024/garbage-collection-and-closures/"
             },
             {
-                "title": "CSC ServiceWorks laundry machine coin bypass",
-                "href": "https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml"
-            },
-            {
-                "title": "Was the Internet created to survive a nuclear strike?",
+                "title": "Was the Internet created to survive a nuclear strike? (2022)",
                 "href": "https://siliconfolklore.com/internet-history/"
             },
             {
-                "title": "EasyPost (YC S13) Is Hiring",
-                "href": "https://www.easypost.com/careers"
-            },
-            {
-                "title": "It's Oil That Makes LA Boil",
-                "href": "https://www.noemamag.com/its-oil-that-makes-la-boil/"
-            },
-            {
-                "title": "Making Machines Move",
-                "href": "https://fly.io/blog/machine-migrations/"
-            },
-            {
-                "title": "A new approach to error handling",
-                "href": "https://boomla.com/docs/error-handling"
+                "title": "Swift Homomorphic Encryption",
+                "href": "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/"
             },
             {
                 "title": "Show HN: Stempad \u2013 Fast Online Scientific Writing",
                 "href": "https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true"
             },
             {
-                "title": "Show HN: A Video Editing SDK That Runs in the Browser",
-                "href": "https://rendley.com/"
-            },
-            {
-                "title": "Butterflies accumulate static electricity to attract pollen without contact",
-                "href": "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
-            },
-            {
-                "title": "Calculating the Cost of a Google Deepmind Paper",
-                "href": "https://152334H.github.io/blog/scaling-exponents/"
+                "title": "Making Machines Move",
+                "href": "https://fly.io/blog/machine-migrations/"
             },
             {
                 "title": "Taking command of the Context Menu in macOS",
                 "href": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
             },
             {
-                "title": "C Macro Reflection in Zig \u2013 Zig Has Better C Interop Than C Itself",
-                "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
-            },
-            {
-                "title": "Scientists Uncover the Ancient Origins of Baobab Trees in Genetic Study",
-                "href": "https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/"
-            },
-            {
-                "title": "Why doesn't advice work?",
-                "href": "https://dynomight.substack.com/p/advice"
-            },
-            {
-                "title": "Swift Homomorphic Encryption Package",
-                "href": "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/"
+                "title": "A new approach to error handling",
+                "href": "https://boomla.com/docs/error-handling"
             },
             {
                 "title": "Meta to pay Texas $1.4B for using facial recognition without users' permission",
                 "href": "https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/"
             },
             {
+                "title": "Butterflies accumulate static electricity to attract pollen without contact",
+                "href": "https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html"
+            },
+            {
+                "title": "Show HN: A video editing SDK that runs in the browser",
+                "href": "https://rendley.com/"
+            },
+            {
+                "title": "Missing Henry VIII portrait found after random X post",
+                "href": "https://www.bbc.com/news/articles/ckdgp7r5y11o"
+            },
+            {
+                "title": "Why doesn't advice work?",
+                "href": "https://dynomight.substack.com/p/advice"
+            },
+            {
+                "title": "C Macro Reflection in Zig",
+                "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
+            },
+            {
+                "title": "Scientists uncover the ancient origins of baobab trees",
+                "href": "https://www.smithsonianmag.com/smart-news/scientists-uncover-the-ancient-origins-of-baobab-trees-in-genetic-study-180984384/"
+            },
+            {
+                "title": "A eulogy for Dark Sky, a data visualization masterpiece (2023)",
+                "href": "https://nightingaledvs.com/dark-sky-weather-data-viz/"
+            },
+            {
+                "title": "Calculating the cost of a Google DeepMind paper",
+                "href": "https://152334H.github.io/blog/scaling-exponents/"
+            },
+            {
                 "title": "Canarytokens: Honeypot for critical credentials, get notified when they are used (2015)",
                 "href": "https://canarytokens.org/nest/"
-            },
-            {
-                "title": "If we want a shift to walking, we need to prioritize dignity",
-                "href": "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity"
-            },
-            {
-                "title": "The lie of music discovery algorithms",
-                "href": "https://www.zeynepevecen.dev/writing/music"
             },
             {
                 "title": "Diffusion Training from Scratch on a Micro-Budget",
@@ -899,20 +883,36 @@
                 "href": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization"
             },
             {
-                "title": "The Infinity Machine",
-                "href": "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
+                "title": "CSC ServiceWorks laundry machine coin bypass (2023)",
+                "href": "https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml"
+            },
+            {
+                "title": "If we want a shift to walking, we need to prioritize dignity",
+                "href": "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity"
+            },
+            {
+                "title": "Before LA became Tinseltown, it was an oil town",
+                "href": "https://www.noemamag.com/its-oil-that-makes-la-boil/"
             },
             {
                 "title": "Meta Launches AI Studio in US",
                 "href": "https://ai.meta.com/ai-studio/"
             },
             {
-                "title": "OpenSSL bug exposed up to 255 bytes of server heap and existed since 2011",
-                "href": "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
+                "title": "Jiga (YC W21) Is Hiring a Full Stack Engineer",
+                "href": "https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer"
             },
             {
-                "title": "Microjs",
-                "href": "http://microjs.com/"
+                "title": "The lie of music discovery algorithms",
+                "href": "https://www.zeynepevecen.dev/writing/music"
+            },
+            {
+                "title": "The Infinity Machine",
+                "href": "https://www.chiark.greenend.org.uk/~sgtatham/infinity.html"
+            },
+            {
+                "title": "Federal regulator says Amazon can be held responsible for faulty goods",
+                "href": "https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html"
             }
         ]
     }
