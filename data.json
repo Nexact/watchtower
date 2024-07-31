@@ -19,28 +19,28 @@
                 "href": "https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign"
             },
             {
-                "title": "HTTP/0.9 From Scratch",
-                "href": "https://kmcd.dev/posts/http0.9-from-scratch/"
-            },
-            {
                 "title": "Announcing Swift Homomorphic Encryption",
                 "href": "https://swift.org/blog/announcing-swift-homomorphic-encryption/"
             },
             {
-                "title": "Go, a reasonable good language",
-                "href": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
+                "title": "HTTP/0.9 From Scratch",
+                "href": "https://kmcd.dev/posts/http0.9-from-scratch/"
             },
             {
                 "title": "C Macro Reflection in Zig \u2013 Zig Has Better C Interop Than C Itself",
                 "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
             },
             {
-                "title": "Troubleshooting: Terminal Lag",
-                "href": "https://lock.cmpxchg8b.com/slowterm.html"
+                "title": "Go, a reasonable good language",
+                "href": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
             },
             {
                 "title": "Porffor: A from-scratch experimental ahead-of-time JS engine",
                 "href": "https://porffor.dev/"
+            },
+            {
+                "title": "Troubleshooting: Terminal Lag",
+                "href": "https://lock.cmpxchg8b.com/slowterm.html"
             },
             {
                 "title": "Functional programming languages should be so much better at mutation than they are",
@@ -55,12 +55,16 @@
                 "href": "https://deno.com/blog/http-imports"
             },
             {
-                "title": "Taking command of the Context Menu in macOS",
-                "href": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
+                "title": "Calling ed(1) from less(1)",
+                "href": "http://blog.syncpup.com/posts/calling-ed-from-less.html"
             },
             {
                 "title": "find + mkdir is Turing complete",
                 "href": "https://ogiekako.vercel.app/blog/find_mkdir_tc"
+            },
+            {
+                "title": "Taking command of the Context Menu in macOS",
+                "href": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
             },
             {
                 "title": "Cogent Core, a new Go GUI (website uses the UI framework)",
@@ -97,10 +101,6 @@
             {
                 "title": "NixOS Option Inspection",
                 "href": "https://fzakaria.com/2024/07/28/nixos-option-inspection.html"
-            },
-            {
-                "title": "Orca: WebAssembly apps without the web",
-                "href": "https://orca-app.dev/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "A Blood Test Accurately Diagnosed Alzheimer's 90% of the Time, Study Finds",
+                "href": "https://science.slashdot.org/story/24/07/30/2335255/a-blood-test-accurately-diagnosed-alzheimers-90-of-the-time-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "A New White House Report Embraces Open-Source AI",
                 "href": "https://news.slashdot.org/story/24/07/30/2155249/a-new-white-house-report-embraces-open-source-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Spain Watchdog Fines Booking.com Nearly $450 Million For Abusing Its Dominant Position",
                 "href": "https://slashdot.org/story/24/07/30/1729238/spain-watchdog-fines-bookingcom-nearly-450-million-for-abusing-its-dominant-position?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "HealthEquity Data Breach Affects 4.3 Million People",
-                "href": "https://yro.slashdot.org/story/24/07/30/1642205/healthequity-data-breach-affects-43-million-people?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,7 +795,7 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Rustgo: Calling Rust from Go with near-zero overhead",
+                "title": "Rustgo: Calling Rust from Go with near-zero overhead (2017)",
                 "href": "https://words.filippo.io/rustgo/"
             },
             {
@@ -809,6 +809,14 @@
             {
                 "title": "macOS in Docker Container",
                 "href": "https://github.com/sickcodes/Docker-OSX"
+            },
+            {
+                "title": "Meta introduces Segment Anything Model 2",
+                "href": "https://ai.meta.com/sam2/"
+            },
+            {
+                "title": "It's not just us: Other animals change their social habits in old age",
+                "href": "https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep"
             },
             {
                 "title": "Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI",
@@ -839,14 +847,6 @@
                 "href": "https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set"
             },
             {
-                "title": "It's not just us: Other animals change their social habits in old age",
-                "href": "https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep"
-            },
-            {
-                "title": "Meta introduces Segment Anything Model 2",
-                "href": "https://ai.meta.com/sam2/"
-            },
-            {
                 "title": "Troubleshooting: Terminal Lag",
                 "href": "https://lock.cmpxchg8b.com/slowterm.html"
             },
@@ -859,8 +859,8 @@
                 "href": "https://www.bbc.com/news/articles/ckdgp7r5y11o"
             },
             {
-                "title": "Ngtop \u2013 Request analytics from the Nginx access logs",
-                "href": "https://github.com/facundoolano/ngtop"
+                "title": "Creativity fundamentally comes from memorization",
+                "href": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
             },
             {
                 "title": "Swift Homomorphic Encryption",
@@ -869,6 +869,10 @@
             {
                 "title": "The Truth About Linear Regression (2015)",
                 "href": "https://www.stat.cmu.edu/~cshalizi/TALR/"
+            },
+            {
+                "title": "Ngtop \u2013 Request analytics from the Nginx access logs",
+                "href": "https://github.com/facundoolano/ngtop"
             },
             {
                 "title": "Genetically synthesized supergain broadband wire-bundle antenna",
@@ -883,28 +887,16 @@
                 "href": "https://trayce.dev"
             },
             {
-                "title": "Creativity fundamentally comes from memorization",
-                "href": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
-            },
-            {
-                "title": "Metaphysical Experiments Probe Our Hidden Assumptions About Reality",
-                "href": "https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730"
+                "title": "The curious history of chain letters (2010)",
+                "href": "https://slate.com/culture/2010/10/the-curious-history-of-chain-letters.html"
             },
             {
                 "title": "Was the Internet created to survive a nuclear strike? (2022)",
                 "href": "https://siliconfolklore.com/internet-history/"
             },
             {
-                "title": "Nobody Cares (2011)",
-                "href": "https://a16z.com/nobody-cares/"
-            },
-            {
                 "title": "Show HN: Stempad \u2013 Fast Online Scientific Writing",
                 "href": "https://www.stempad.io/editor/85b7f0fc-c865-4011-89a8-216d8b88b249?copy=true"
-            },
-            {
-                "title": "The curious history of chain letters (2010)",
-                "href": "https://slate.com/culture/2010/10/the-curious-history-of-chain-letters.html"
             },
             {
                 "title": "Butterflies accumulate static electricity to attract pollen without contact",
@@ -913,6 +905,14 @@
             {
                 "title": "C Macro Reflection in Zig",
                 "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
+            },
+            {
+                "title": "Translating All C to Rust (TRACTOR)",
+                "href": "https://www.darpa.mil/program/translating-all-c-to-rust"
+            },
+            {
+                "title": "The Hitchhiker's Guide to Logical Verification [pdf] (2023)",
+                "href": "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
             }
         ]
     }
