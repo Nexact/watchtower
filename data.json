@@ -43,16 +43,16 @@
                 "href": "https://porffor.dev/"
             },
             {
+                "title": "Troubleshooting: Terminal Lag",
+                "href": "https://lock.cmpxchg8b.com/slowterm.html"
+            },
+            {
                 "title": "Student Resampled His t Distribution",
                 "href": "https://two-wrongs.com/student-bootstrapped-t-distribution.html"
             },
             {
                 "title": "What we got wrong about HTTP imports",
                 "href": "https://deno.com/blog/http-imports"
-            },
-            {
-                "title": "Troubleshooting: Terminal Lag",
-                "href": "https://lock.cmpxchg8b.com/slowterm.html"
             },
             {
                 "title": "Taking command of the Context Menu in macOS",
@@ -71,12 +71,12 @@
                 "href": "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
             },
             {
-                "title": "find + mkdir is Turing complete",
-                "href": "https://ogiekako.vercel.app/blog/find_mkdir_tc"
-            },
-            {
                 "title": "Implementing the \u201cone or more\u201d UI component",
                 "href": "https://verbnounenter.net/one-or-more"
+            },
+            {
+                "title": "find + mkdir is Turing complete",
+                "href": "https://ogiekako.vercel.app/blog/find_mkdir_tc"
             },
             {
                 "title": "Certificate Revocation Incident (CNAME-Based Domain Validation)",
@@ -795,24 +795,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Our audit of Homebrew",
-                "href": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
+                "title": "Rustgo: Calling Rust from Go with near-zero overhead",
+                "href": "https://words.filippo.io/rustgo/"
             },
             {
                 "title": "`find` + `mkdir` is Turing complete",
                 "href": "https://ogiekako.vercel.app/blog/find_mkdir_tc"
             },
             {
-                "title": "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)",
-                "href": "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency"
+                "title": "Our audit of Homebrew",
+                "href": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
+            },
+            {
+                "title": "macOS in Docker Container",
+                "href": "https://github.com/sickcodes/Docker-OSX"
+            },
+            {
+                "title": "Jio Cloud",
+                "href": "https://www.jio.com/business/services/jio-cloud"
             },
             {
                 "title": "Porffor: A from-scratch experimental ahead-of-time JS engine",
                 "href": "https://porffor.dev/"
             },
             {
-                "title": "Quint",
-                "href": "https://quint-lang.org/"
+                "title": "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)",
+                "href": "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency"
+            },
+            {
+                "title": "Deep-Tempest: Using Deep Learning to Eavesdrop on HDMI",
+                "href": "https://arxiv.org/abs/2407.09717"
             },
             {
                 "title": "Launch HN: SSOReady (YC W24) \u2013 Making SAML SSO painless and open source",
@@ -827,52 +839,60 @@
                 "href": "https://lock.cmpxchg8b.com/slowterm.html"
             },
             {
-                "title": "Missing Henry VIII portrait found after random X post",
-                "href": "https://www.bbc.com/news/articles/ckdgp7r5y11o"
-            },
-            {
-                "title": "Functional languages should be so much better at mutation than they are",
-                "href": "https://cohost.org/prophet/post/7083950-functional-programmi"
-            },
-            {
-                "title": "Building static binaries with Go on Linux",
-                "href": "https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/"
-            },
-            {
-                "title": "Genetically synthesized supergain broadband wire-bundle antenna",
-                "href": "https://www.nature.com/articles/s44172-024-00235-y"
-            },
-            {
-                "title": "Ngtop \u2013 Request analytics from the Nginx access logs",
-                "href": "https://github.com/facundoolano/ngtop"
-            },
-            {
-                "title": "The Truth About Linear Regression (2015)",
-                "href": "https://www.stat.cmu.edu/~cshalizi/TALR/"
-            },
-            {
-                "title": "Swift Homomorphic Encryption",
-                "href": "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/"
-            },
-            {
-                "title": "The curious history of chain letters (2010)",
-                "href": "https://slate.com/culture/2010/10/the-curious-history-of-chain-letters.html"
-            },
-            {
-                "title": "Show HN: Trayce \u2013 Network tab for Docker containers",
-                "href": "https://trayce.dev"
-            },
-            {
-                "title": "Metaphysical Experiments Probe Our Hidden Assumptions About Reality",
-                "href": "https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730"
+                "title": "Quint",
+                "href": "https://quint-lang.org/"
             },
             {
                 "title": "Construction of the AT&T Long Lines \"Cheshire\" underground site",
                 "href": "https://coldwar-ct.com/Home_Page_S1DO.html"
             },
             {
+                "title": "Missing Henry VIII portrait found after random X post",
+                "href": "https://www.bbc.com/news/articles/ckdgp7r5y11o"
+            },
+            {
+                "title": "Building static binaries with Go on Linux",
+                "href": "https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/"
+            },
+            {
+                "title": "Ngtop \u2013 Request analytics from the Nginx access logs",
+                "href": "https://github.com/facundoolano/ngtop"
+            },
+            {
+                "title": "Functional languages should be so much better at mutation than they are",
+                "href": "https://cohost.org/prophet/post/7083950-functional-programmi"
+            },
+            {
+                "title": "Swift Homomorphic Encryption",
+                "href": "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/"
+            },
+            {
+                "title": "The Truth About Linear Regression (2015)",
+                "href": "https://www.stat.cmu.edu/~cshalizi/TALR/"
+            },
+            {
+                "title": "Genetically synthesized supergain broadband wire-bundle antenna",
+                "href": "https://www.nature.com/articles/s44172-024-00235-y"
+            },
+            {
+                "title": "It's not just us: Other animals change their social habits in old age",
+                "href": "https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep"
+            },
+            {
+                "title": "Show HN: Trayce \u2013 Network tab for Docker containers",
+                "href": "https://trayce.dev"
+            },
+            {
                 "title": "Creativity fundamentally comes from memorization",
                 "href": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
+            },
+            {
+                "title": "Metaphysical Experiments Probe Our Hidden Assumptions About Reality",
+                "href": "https://www.quantamagazine.org/metaphysical-experiments-test-hidden-assumptions-about-reality-20240730"
+            },
+            {
+                "title": "The curious history of chain letters (2010)",
+                "href": "https://slate.com/culture/2010/10/the-curious-history-of-chain-letters.html"
             },
             {
                 "title": "Was the Internet created to survive a nuclear strike? (2022)",
@@ -893,26 +913,6 @@
             {
                 "title": "Translating All C to Rust (TRACTOR)",
                 "href": "https://www.darpa.mil/program/translating-all-c-to-rust"
-            },
-            {
-                "title": "Nobody Cares (2011)",
-                "href": "https://a16z.com/nobody-cares/"
-            },
-            {
-                "title": "The Hitchhiker's Guide to Logical Verification [pdf] (2023)",
-                "href": "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
-            },
-            {
-                "title": "Taking command of the Context Menu in macOS",
-                "href": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
-            },
-            {
-                "title": "Why is spawning a new process in Node so slow?",
-                "href": "https://blog.val.town/blog/node-spawn-performance/"
-            },
-            {
-                "title": "Astronomical Accidents, and the Proxima Centauri 'Signal' That Wasn't",
-                "href": "https://www.centauri-dreams.org/2024/07/24/on-astronomical-accidents-and-the-proxima-centauri-signal-that-wasnt/"
             }
         ]
     }
