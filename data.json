@@ -7,6 +7,10 @@
                 "href": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/"
             },
             {
+                "title": "Generating YAML files with Nix",
+                "href": "https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/"
+            },
+            {
                 "title": "Our audit of Homebrew",
                 "href": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
             },
@@ -15,8 +19,8 @@
                 "href": "https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/"
             },
             {
-                "title": "Generating YAML files with Nix",
-                "href": "https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/"
+                "title": "Calling ed(1) from less(1)",
+                "href": "http://blog.syncpup.com/posts/calling-ed-from-less.html"
             },
             {
                 "title": "Quint",
@@ -31,16 +35,20 @@
                 "href": "https://swift.org/blog/announcing-swift-homomorphic-encryption/"
             },
             {
-                "title": "Calling ed(1) from less(1)",
-                "href": "http://blog.syncpup.com/posts/calling-ed-from-less.html"
-            },
-            {
                 "title": "Porffor: A from-scratch experimental ahead-of-time JS engine",
                 "href": "https://porffor.dev/"
             },
             {
                 "title": "Where does the name \"algebraic data type\" come from?",
                 "href": "https://blog.poisson.chat/posts/2024-07-26-adt-history.html"
+            },
+            {
+                "title": "Troubleshooting: Terminal Lag",
+                "href": "https://lock.cmpxchg8b.com/slowterm.html"
+            },
+            {
+                "title": "Nix Community Survey 2024",
+                "href": "https://survey.nixos.org/2024"
             },
             {
                 "title": "HTTP/0.9 From Scratch",
@@ -51,28 +59,28 @@
                 "href": "https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign"
             },
             {
-                "title": "Troubleshooting: Terminal Lag",
-                "href": "https://lock.cmpxchg8b.com/slowterm.html"
+                "title": "Are security and reliability fundamentally incompatible?",
+                "href": "https://jvehent.org/2024/07/30/Are-security-and-reliability-fundamentally-incompatible.html"
             },
             {
                 "title": "Conditional logging with query parameters",
                 "href": "https://mmazzarolo.com/blog/2024-07-30-conditional-logging/"
             },
             {
+                "title": "Garbage collection and closures",
+                "href": "https://jakearchibald.com/2024/garbage-collection-and-closures/"
+            },
+            {
+                "title": "Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)",
+                "href": "https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/"
+            },
+            {
                 "title": "C Macro Reflection in Zig \u2013 Zig Has Better C Interop Than C Itself",
                 "href": "https://jstrieb.github.io/posts/c-reflection-zig/"
             },
             {
-                "title": "Nix Community Survey 2024",
-                "href": "https://survey.nixos.org/2024"
-            },
-            {
                 "title": "Go, a reasonable good language",
                 "href": "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
-            },
-            {
-                "title": "Garbage collection and closures",
-                "href": "https://jakearchibald.com/2024/garbage-collection-and-closures/"
             },
             {
                 "title": "Functional programming languages should be so much better at mutation than they are",
@@ -81,10 +89,6 @@
             {
                 "title": "sbctl: Release 0.15",
                 "href": "https://github.com/Foxboron/sbctl/releases/tag/0.15"
-            },
-            {
-                "title": "Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)",
-                "href": "https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/"
             },
             {
                 "title": "Student Resampled His t Distribution",
@@ -97,10 +101,6 @@
             {
                 "title": "Cogent Core, a new Go GUI (website uses the UI framework)",
                 "href": "https://www.cogentcore.org/blog/initial-release"
-            },
-            {
-                "title": "Taking command of the Context Menu in macOS",
-                "href": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "The Future of Science Publishing",
+                "href": "https://science.slashdot.org/story/24/07/31/1311233/the-future-of-science-publishing?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Brazil's Radical Plan To Tax Global Super-Rich To Tackle Climate Crisis",
                 "href": "https://news.slashdot.org/story/24/07/30/2353247/brazils-radical-plan-to-tax-global-super-rich-to-tackle-climate-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Logitech Mulls Subscription Model for 'Forever' Mouse",
                 "href": "https://tech.slashdot.org/story/24/07/30/1856230/logitech-mulls-subscription-model-for-forever-mouse?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Goals To Stop Decline of Nature in England 'Off Track,' Report Warns",
-                "href": "https://news.slashdot.org/story/24/07/30/1844248/goals-to-stop-decline-of-nature-in-england-off-track-report-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -630,24 +630,48 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "Hackers Exploit VMware Vulnerability That Gives Them Hypervisor Admin",
-                "href": "https://packetstormsecurity.com/news/view/36155/Hackers-Exploit-VMware-Vulnerability-That-Gives-Them-Hypervisor-Admin.html"
+                "title": "Mysterious Family Of Malware Hid In Google Play For Years",
+                "href": "https://packetstormsecurity.com/news/view/36163/Mysterious-Family-Of-Malware-Hid-In-Google-Play-For-Years.html"
             },
             {
-                "title": "Malaysia Is Working On An Internet Kill Switch",
-                "href": "https://packetstormsecurity.com/news/view/36154/Malaysia-Is-Working-On-An-Internet-Kill-Switch.html"
+                "title": "CrowdStrike Faces Lawsuits From Customers, Investors",
+                "href": "https://packetstormsecurity.com/news/view/36162/CrowdStrike-Faces-Lawsuits-From-Customers-Investors.html"
             },
             {
-                "title": "40 Million UK Voters Hacked Due To Security Lapses",
-                "href": "https://packetstormsecurity.com/news/view/36156/40-Million-UK-Voters-Hacked-Due-To-Security-Lapses.html"
+                "title": "City Of Columbus Says Data Compromised In Ransomware Attack",
+                "href": "https://packetstormsecurity.com/news/view/36161/City-Of-Columbus-Says-Data-Compromised-In-Ransomware-Attack.html"
+            },
+            {
+                "title": "Microsoft Says Azure Outage Caused By DDoS Attack Response",
+                "href": "https://packetstormsecurity.com/news/view/36160/Microsoft-Says-Azure-Outage-Caused-By-DDoS-Attack-Response.html"
+            },
+            {
+                "title": "Spamhaus Is Disappointed With CloudFlare",
+                "href": "https://packetstormsecurity.com/news/view/36164/Spamhaus-Is-Disappointed-With-CloudFlare.html"
+            },
+            {
+                "title": "DigiCert Gives Unlucky Folks 24 Hours To Replace Doomed Certificates After Code Blunder",
+                "href": "https://packetstormsecurity.com/news/view/36159/DigiCert-Gives-Unlucky-Folks-24-Hours-To-Replace-Doomed-Certificates-After-Code-Blunder.html"
+            },
+            {
+                "title": "US Senators Turn Up Heat On Automakers Over Sale Of Driver Data",
+                "href": "https://packetstormsecurity.com/news/view/36158/US-Senators-Turn-Up-Heat-On-Automakers-Over-Sale-Of-Driver-Data.html"
             },
             {
                 "title": "NIST Releases Open Source Platform For AI Security Testing",
                 "href": "https://packetstormsecurity.com/news/view/36157/NIST-Releases-Open-Source-Platform-For-AI-Security-Testing.html"
             },
             {
-                "title": "US Senators Turn Up Heat On Automakers Over Sale Of Driver Data",
-                "href": "https://packetstormsecurity.com/news/view/36158/US-Senators-Turn-Up-Heat-On-Automakers-Over-Sale-Of-Driver-Data.html"
+                "title": "40 Million UK Voters Hacked Due To Security Lapses",
+                "href": "https://packetstormsecurity.com/news/view/36156/40-Million-UK-Voters-Hacked-Due-To-Security-Lapses.html"
+            },
+            {
+                "title": "Hackers Exploit VMware Vulnerability That Gives Them Hypervisor Admin",
+                "href": "https://packetstormsecurity.com/news/view/36155/Hackers-Exploit-VMware-Vulnerability-That-Gives-Them-Hypervisor-Admin.html"
+            },
+            {
+                "title": "Malaysia Is Working On An Internet Kill Switch",
+                "href": "https://packetstormsecurity.com/news/view/36154/Malaysia-Is-Working-On-An-Internet-Kill-Switch.html"
             },
             {
                 "title": "PKFail Bug Puts Firmware Security At Risk",
@@ -660,30 +684,6 @@
             {
                 "title": "MS Admits 8.5M CrowdStruck Machines Estimate Was Lowballed",
                 "href": "https://packetstormsecurity.com/news/view/36151/MS-Admits-8.5M-CrowdStruck-Machines-Estimate-Was-Lowballed.html"
-            },
-            {
-                "title": "Acronis Product Vulnerability Exploited In The Wild",
-                "href": "https://packetstormsecurity.com/news/view/36150/Acronis-Product-Vulnerability-Exploited-In-The-Wild.html"
-            },
-            {
-                "title": "Network Of 3,000 GitHub Accounts Used For Malware Distribution",
-                "href": "https://packetstormsecurity.com/news/view/36149/Network-Of-3-000-GitHub-Accounts-Used-For-Malware-Distribution.html"
-            },
-            {
-                "title": "KnowBe4 Hires Fake North Korean IT Worker, Catches New Employee Planting Malware",
-                "href": "https://packetstormsecurity.com/news/view/36148/KnowBe4-Hires-Fake-North-Korean-IT-Worker-Catches-New-Employee-Planting-Malware.html"
-            },
-            {
-                "title": "Hackers Bypass Windows SmartScreen Flaw To Launch Malware",
-                "href": "https://packetstormsecurity.com/news/view/36147/Hackers-Bypass-Windows-SmartScreen-Flaw-To-Launch-Malware.html"
-            },
-            {
-                "title": "HHS Audit Finds Serious Gaps In Cloud Security At Agency Office",
-                "href": "https://packetstormsecurity.com/news/view/36146/HHS-Audit-Finds-Serious-Gaps-In-Cloud-Security-At-Agency-Office.html"
-            },
-            {
-                "title": "Physicists Just Created An Element Using A Particle Beam",
-                "href": "https://packetstormsecurity.com/news/view/36145/Physicists-Just-Created-An-Element-Using-A-Particle-Beam.html"
             },
             {
                 "title": "MIMEDefang Email Scanner 3.5",
@@ -791,8 +791,8 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Using the term 'AI' in product descriptions reduces purchase intentions",
-                "href": "https://news.wsu.edu/press-release/2024/07/30/using-the-term-artificial-intelligence-in-product-descriptions-reduces-purchase-intentions/"
+                "title": "How Great Was the \"Great Oxidation Event\"?",
+                "href": "https://eos.org/science-updates/how-great-was-the-great-oxidation-event"
             },
             {
                 "title": "Divers Discover Mesmerizing Roman Mosaic Beneath the Sea",
@@ -803,6 +803,14 @@
                 "href": "https://github.com/sickcodes/Docker-OSX"
             },
             {
+                "title": "Crafting Interpreters with Rust: On Garbage Collection",
+                "href": "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
+            },
+            {
+                "title": "\"Sugar rush\" in children seems to be confirmation bias",
+                "href": "https://juliawise.net/sugar-rush-in-children-seems-to-be-confirmation-bias/"
+            },
+            {
                 "title": "Our audit of Homebrew",
                 "href": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
             },
@@ -811,104 +819,96 @@
                 "href": "https://words.filippo.io/rustgo/"
             },
             {
-                "title": "Crafting Interpreters with Rust: On Garbage Collection",
-                "href": "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
-            },
-            {
                 "title": "`find` + `mkdir` is Turing complete",
                 "href": "https://ogiekako.vercel.app/blog/find_mkdir_tc"
+            },
+            {
+                "title": "Our data isn't safe. Resist giving it up whenever you can",
+                "href": "https://www.washingtonpost.com/business/2024/07/31/data-breach-resistance/"
             },
             {
                 "title": "PlayAI (YC W23) Is Hiring Product Engineers",
                 "href": "https://www.ycombinator.com/companies/play/jobs/f7pIIqU-product-engineer-at-play-yc-w23"
             },
             {
-                "title": "Where does the name \"algebraic data type\" come from?",
-                "href": "https://blog.poisson.chat/posts/2024-07-26-adt-history.html"
-            },
-            {
-                "title": "It's not just us: Other animals change their social habits in old age",
-                "href": "https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep"
-            },
-            {
-                "title": "Porffor: A from-scratch experimental ahead-of-time JS engine",
-                "href": "https://porffor.dev/"
-            },
-            {
-                "title": "Spikey Spheres (2010)",
-                "href": "https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2"
-            },
-            {
-                "title": "Launch HN: SSOReady (YC W24) \u2013 Making SAML SSO painless and open source",
-                "href": "https://github.com/ssoready/ssoready"
-            },
-            {
-                "title": "FakeTraveler: Fake where your phone is located (Mock location for Android)",
-                "href": "https://github.com/mcastillof/FakeTraveler"
-            },
-            {
-                "title": "Creativity fundamentally comes from memorization",
-                "href": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
-            },
-            {
-                "title": "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)",
-                "href": "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency"
-            },
-            {
-                "title": "Construction of the AT&T Long Lines \"Cheshire\" underground site",
-                "href": "https://coldwar-ct.com/Home_Page_S1DO.html"
-            },
-            {
-                "title": "Cargo Cult Science (1974)",
-                "href": "https://fermatslibrary.com/s/cargo-cult-science"
-            },
-            {
-                "title": "Call of Duty: Warzone Caldera Data Set for Academic Use",
-                "href": "https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set"
-            },
-            {
-                "title": "Missing Henry VIII portrait found after random X post",
-                "href": "https://www.bbc.com/news/articles/ckdgp7r5y11o"
-            },
-            {
-                "title": "Compromising the Secure Boot Process",
-                "href": "https://www.schneier.com/blog/archives/2024/07/compromising-the-secure-boot-process.html"
-            },
-            {
-                "title": "People Behind \"The Print Shop\" (1985)",
-                "href": "https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/"
-            },
-            {
-                "title": "Robin Warren Has Died",
-                "href": "https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/"
+                "title": "A Mathematician's Lament [pdf]",
+                "href": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf"
             },
             {
                 "title": "Servo Web Engine Now Leverages Multiple CPU Cores for Rendering HTML Tables",
                 "href": "https://www.phoronix.com/news/Servo-Multi-Core-HTML-Tables"
             },
             {
-                "title": "Troubleshooting: Terminal Lag",
-                "href": "https://lock.cmpxchg8b.com/slowterm.html"
+                "title": "Spikey Spheres (2010)",
+                "href": "https://www.penzba.co.uk/cgi-bin/PvsNP.py?SpikeySpheres#HN2"
+            },
+            {
+                "title": "Where does the name \"algebraic data type\" come from?",
+                "href": "https://blog.poisson.chat/posts/2024-07-26-adt-history.html"
+            },
+            {
+                "title": "FakeTraveler: Fake where your phone is located (Mock location for Android)",
+                "href": "https://github.com/mcastillof/FakeTraveler"
+            },
+            {
+                "title": "Porffor: A from-scratch experimental ahead-of-time JS engine",
+                "href": "https://porffor.dev/"
+            },
+            {
+                "title": "It's not just us: Other animals change their social habits in old age",
+                "href": "https://knowablemagazine.org/content/article/mind/2024/animals-change-social-habits-old-age-macaques-deer-sheep"
+            },
+            {
+                "title": "Launch HN: SSOReady (YC W24) \u2013 Making SAML SSO painless and open source",
+                "href": "https://github.com/ssoready/ssoready"
+            },
+            {
+                "title": "Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)",
+                "href": "https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency"
+            },
+            {
+                "title": "People Behind \"The Print Shop\" (1985)",
+                "href": "https://theprintshop.club/2024/07/26/the-people-behind-the-print-shop/"
+            },
+            {
+                "title": "Construction of the AT&T Long Lines \"Cheshire\" underground site",
+                "href": "https://coldwar-ct.com/Home_Page_S1DO.html"
+            },
+            {
+                "title": "Call of Duty: Warzone Caldera Data Set for Academic Use",
+                "href": "https://blog.activision.com/activision/2024/activision-releases-call-of-duty-warzone-caldera-data-set"
+            },
+            {
+                "title": "Creativity fundamentally comes from memorization",
+                "href": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization"
+            },
+            {
+                "title": "Missing Henry VIII portrait found after random X post",
+                "href": "https://www.bbc.com/news/articles/ckdgp7r5y11o"
+            },
+            {
+                "title": "Cargo Cult Science (1974)",
+                "href": "https://fermatslibrary.com/s/cargo-cult-science"
+            },
+            {
+                "title": "Robin Warren Has Died",
+                "href": "https://www.telegraph.co.uk/obituaries/2024/07/29/robin-warren-nobel-ulcers-helicobacter-obituary/"
             },
             {
                 "title": "The Truth About Linear Regression (2015)",
                 "href": "https://www.stat.cmu.edu/~cshalizi/TALR/"
             },
             {
+                "title": "Troubleshooting: Terminal Lag",
+                "href": "https://lock.cmpxchg8b.com/slowterm.html"
+            },
+            {
                 "title": "Swift Homomorphic Encryption",
                 "href": "https://www.swift.org/blog/announcing-swift-homomorphic-encryption/"
             },
             {
-                "title": "Building static binaries with Go on Linux",
-                "href": "https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/"
-            },
-            {
                 "title": "Functional languages should be so much better at mutation than they are",
                 "href": "https://cohost.org/prophet/post/7083950-functional-programmi"
-            },
-            {
-                "title": "Show HN: Trayce \u2013 Network tab for Docker containers",
-                "href": "https://trayce.dev"
             }
         ]
     }
