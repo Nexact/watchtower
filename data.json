@@ -11,14 +11,6 @@
                 "href": "https://servo.arch.dog/"
             },
             {
-                "title": "The language strangeness budget (2015)",
-                "href": "https://steveklabnik.com/writing/the-language-strangeness-budget/"
-            },
-            {
-                "title": "just disconnect the internet",
-                "href": "https://computer.rip/2024-07-31-just-disconnect-the-internet.html"
-            },
-            {
                 "title": "Mastering Nixpkgs Overlays: Techniques and Best Practice",
                 "href": "https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/"
             },
@@ -27,12 +19,20 @@
                 "href": "https://kokada.capivaras.dev/blog/troubleshoting-zsh-lag-and-solutions-with-nix/"
             },
             {
-                "title": "How I Computer in 2024",
-                "href": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/"
+                "title": "The language strangeness budget (2015)",
+                "href": "https://steveklabnik.com/writing/the-language-strangeness-budget/"
+            },
+            {
+                "title": "just disconnect the internet",
+                "href": "https://computer.rip/2024-07-31-just-disconnect-the-internet.html"
             },
             {
                 "title": "Async Rust Challenges in Iroh",
                 "href": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+            },
+            {
+                "title": "How I Computer in 2024",
+                "href": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/"
             },
             {
                 "title": "Pulling Linux up by its bootstraps",
@@ -43,16 +43,20 @@
                 "href": "https://hsutter.github.io/cppfront/welcome/hello-world/"
             },
             {
+                "title": "Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses",
+                "href": "https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html"
+            },
+            {
                 "title": "PSA: Internet Archive \u201cglitch\u201d deletes years of user data & accounts",
                 "href": "https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/"
             },
             {
-                "title": "A handful of reasons JavaScript won\u2019t be available",
-                "href": "https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/"
+                "title": "If Novelists Wrote Your Bug Reports",
+                "href": "https://dylnuge.com/post/2020/03/authors-bugs/"
             },
             {
-                "title": "Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses",
-                "href": "https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html"
+                "title": "A handful of reasons JavaScript won\u2019t be available",
+                "href": "https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/"
             },
             {
                 "title": "Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation",
@@ -63,28 +67,24 @@
                 "href": "https://github.com/healsdata/ai-training-opt-out"
             },
             {
-                "title": "If Novelists Wrote Your Bug Reports",
-                "href": "https://dylnuge.com/post/2020/03/authors-bugs/"
+                "title": "Deep list copy: More than meets the eye",
+                "href": "https://nullprogram.com/blog/2024/07/31/"
             },
             {
                 "title": "Practical Applications for DuckDB",
                 "href": "https://youtu.be/_nA3uDx1rlg"
             },
             {
-                "title": "Deep list copy: More than meets the eye",
-                "href": "https://nullprogram.com/blog/2024/07/31/"
-            },
-            {
                 "title": "Racket Survey 2024",
                 "href": "https://forms.gle/EYuzG4Jp9X5bqoHQ9"
             },
             {
-                "title": "Generating YAML files with Nix",
-                "href": "https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/"
-            },
-            {
                 "title": "Light comms on the 003",
                 "href": "https://mitxela.com/projects/lightcomm"
+            },
+            {
+                "title": "Generating YAML files with Nix",
+                "href": "https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/"
             },
             {
                 "title": "Nix Community Survey 2024",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft Now Lists OpenAI as a Competitor in AI and Search",
+                "href": "https://slashdot.org/story/24/08/01/1854203/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Jailed Cybercriminals Returned To Russia in Historic Prisoner Swap",
                 "href": "https://news.slashdot.org/story/24/08/01/185226/jailed-cybercriminals-returned-to-russia-in-historic-prisoner-swap?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Study Details 'Transformative' Results From LA Guaranteed Basic Income Program",
                 "href": "https://news.slashdot.org/story/24/07/31/2220210/study-details-transformative-results-from-la-guaranteed-basic-income-program?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Bending Spoons Buys File Sharing Service WeTransfer",
-                "href": "https://tech.slashdot.org/story/24/07/31/1959212/bending-spoons-buys-file-sharing-service-wetransfer?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,68 +799,76 @@
                 "href": "https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/"
             },
             {
-                "title": "Stable Fast 3D: Rapid 3D Asset Generation from Single Images",
-                "href": "https://stability.ai/news/introducing-stable-fast-3d"
-            },
-            {
-                "title": "Is C99 Turing-Complete?",
-                "href": "https://cs.stackexchange.com/questions/60965/is-c-actually-turing-complete"
-            },
-            {
                 "title": "Ask HN: Who is hiring? (August 2024)",
                 "href": "item?id=41129813"
-            },
-            {
-                "title": "Job searching in 2024 is horribly broken",
-                "href": "https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken"
             },
             {
                 "title": "How I got my laser eye injury",
                 "href": "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/"
             },
             {
-                "title": "I recreated Shazam's algorithm with Go",
-                "href": "https://github.com/cgzirim/not-shazam"
+                "title": "Show HN: Anyma V, a hybrid physical modelling virtual instrument",
+                "href": "https://aodyo.com/anyma-v/"
             },
             {
-                "title": "Fathom AI Notetaker (YC W21) Is Hiring a Head of Data (Remote/US)",
-                "href": "https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data"
+                "title": "I recreated Shazam's algorithm with Go",
+                "href": "https://github.com/cgzirim/not-shazam"
             },
             {
                 "title": "Breakthrough a step toward revealing hidden structure of prime numbers",
                 "href": "https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers"
             },
             {
-                "title": "Show HN: Engine Core \u2013 open-source LLM chat management and tool call framework",
-                "href": "https://github.com/Engine-Labs/engine-core"
+                "title": "Threat actor abuses Cloudflare tunnels to deliver RATs",
+                "href": "https://www.proofpoint.com/us/blog/threat-insight/threat-actor-abuses-cloudflare-tunnels-deliver-rats"
+            },
+            {
+                "title": "Space is a latent sequence: A theory of the hippocampus",
+                "href": "https://www.science.org/doi/10.1126/sciadv.adm8470"
+            },
+            {
+                "title": "Fathom AI Notetaker (YC W21) Is Hiring a Head of Data (Remote/US)",
+                "href": "https://www.ycombinator.com/companies/fathom/jobs/rNItrfZ-head-of-data"
+            },
+            {
+                "title": "Stable Fast 3D: Rapid 3D Asset Generation from Single Images",
+                "href": "https://stability.ai/news/introducing-stable-fast-3d"
             },
             {
                 "title": "Parasites are everywhere. Why do so few researchers study them?",
                 "href": "https://www.smithsonianmag.com/science-nature/parasites-are-everywhere-so-why-do-so-few-researchers-study-them-180984753/"
             },
             {
-                "title": "GitHub Models: A new generation of AI engineers building on GitHub",
-                "href": "https://github.blog/news-insights/product-news/introducing-github-models/"
-            },
-            {
                 "title": "Introducing The Fellowship for Maintainers \u2013 Sovereign Tech Fund",
                 "href": "https://www.sovereigntechfund.de/news/introducing-the-fellowship-for-maintainers"
+            },
+            {
+                "title": "GitHub Models: A new generation of AI engineers building on GitHub",
+                "href": "https://github.blog/news-insights/product-news/introducing-github-models/"
             },
             {
                 "title": "Fully-automatic robot dentist performs first human procedure",
                 "href": "https://newatlas.com/health-wellbeing/robot-dentist-world-first/"
             },
             {
+                "title": "Unprofessionalism (2013)",
+                "href": "https://allenpike.com/2013/unprofessionalism"
+            },
+            {
                 "title": "PyTorch \u2013 Torchchat: Chat with LLMs Everywhere",
                 "href": "https://github.com/pytorch/torchchat"
+            },
+            {
+                "title": "The Trouble with __all__",
+                "href": "https://www.gauge.sh/blog/the-trouble-with-all"
             },
             {
                 "title": "Dunbar's Number Is Quadratic (2020)",
                 "href": "https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic"
             },
             {
-                "title": "Unprofessionalism (2013)",
-                "href": "https://allenpike.com/2013/unprofessionalism"
+                "title": "A network engineer in search of greener pastures",
+                "href": "https://cropp.blog/2024/08/job-searching-in-2024-is-horribly-broken"
             },
             {
                 "title": "Don\u2019t Let Your Domain Name Become a \u201cSitting Duck\u201d",
@@ -875,24 +883,20 @@
                 "href": "https://computer.rip/2024-07-31-just-disconnect-the-internet.html"
             },
             {
-                "title": "After 10 years, Yelp gave my app 4 days",
-                "href": "http://www.observationalhazard.com/2024/07/after-10-years-yelp-gave-my-app-4-days_29.html"
+                "title": "Univariate Coppersmith Algorithm",
+                "href": "https://boogiemath.org/notes/misc/notes-3.html"
             },
             {
                 "title": "The Genomic Code: The genome instantiates a generative model of the organism",
                 "href": "https://arxiv.org/abs/2407.15908"
             },
             {
-                "title": "The Trouble with __all__",
-                "href": "https://www.gauge.sh/blog/the-trouble-with-all"
-            },
-            {
-                "title": "Ask HN: What Are You Working On? (August 2024)",
-                "href": "item?id=41131195"
-            },
-            {
                 "title": "I prefer rST to Markdown",
                 "href": "https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/"
+            },
+            {
+                "title": "Show HN: Engine Core \u2013 open-source LLM chat management and tool call framework",
+                "href": "https://github.com/Engine-Labs/engine-core"
             },
             {
                 "title": "macOS in QEMU in Docker",
@@ -905,10 +909,6 @@
             {
                 "title": "Cardie \u2013 An open source business card designer and sharing platform",
                 "href": "https://github.com/nfoert/cardie"
-            },
-            {
-                "title": "Amazon's exabyte-scale migration from Apache Spark to Ray on EC2",
-                "href": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/"
             }
         ]
     }
