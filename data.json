@@ -59,8 +59,16 @@
                 "href": "https://diskuv.com/ocamlfront/overview-1/"
             },
             {
+                "title": "Extending the #[diagnostic] tool attribute namespace",
+                "href": "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
+            },
+            {
                 "title": "AI Training Opt Out",
                 "href": "https://github.com/healsdata/ai-training-opt-out"
+            },
+            {
+                "title": "How Dune Analytics improved Dune API using DuckDB",
+                "href": "https://dune.com/blog/how-weve-improved-dune-api-using-duckdb"
             },
             {
                 "title": "The Inside Story of ClickHouse (9): How to Perform Aggregation",
@@ -79,28 +87,20 @@
                 "href": "https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/"
             },
             {
-                "title": "Kinesis consumer balancing via consistent hashing",
-                "href": "https://knock.app/blog/kinesis-consumer-balancing"
-            },
-            {
                 "title": "If Novelists Wrote Your Bug Reports",
                 "href": "https://dylnuge.com/post/2020/03/authors-bugs/"
             },
             {
-                "title": "Hello, world! - Cpp2 and cppfront",
-                "href": "https://hsutter.github.io/cppfront/welcome/hello-world/"
+                "title": "Kinesis consumer balancing via consistent hashing",
+                "href": "https://knock.app/blog/kinesis-consumer-balancing"
             },
             {
                 "title": "Deep list copy: More than meets the eye",
                 "href": "https://nullprogram.com/blog/2024/07/31/"
             },
             {
-                "title": "Practical Applications for DuckDB",
-                "href": "https://youtu.be/_nA3uDx1rlg"
-            },
-            {
-                "title": "A handful of reasons JavaScript won\u2019t be available",
-                "href": "https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/"
+                "title": "Hello, world! - Cpp2 and cppfront",
+                "href": "https://hsutter.github.io/cppfront/welcome/hello-world/"
             }
         ]
     },
@@ -156,12 +156,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1eewbd4/blind_trust_and_broken_fixes_the_ongoing_battle/"
             },
             {
-                "title": "CVE-2021-4440: A Linux CNA Case Study",
-                "href": "https://www.reddit.com/r/netsec/comments/1ee8rxs/cve20214440_a_linux_cna_case_study/"
-            },
-            {
                 "title": "Uncovering Hardcoded Root Password in VStarcam CB73 Security Camera",
                 "href": "https://www.reddit.com/r/netsec/comments/1eehenf/uncovering_hardcoded_root_password_in_vstarcam/"
+            },
+            {
+                "title": "CVE-2021-4440: A Linux CNA Case Study",
+                "href": "https://www.reddit.com/r/netsec/comments/1ee8rxs/cve20214440_a_linux_cna_case_study/"
             },
             {
                 "title": "ARM's Memory Corruption Detection - Memory Tag Extensions(MTE) Bypassed In Real World Conditions - Google's V8 Engine/Sandbox and the Linux Kernel via Speculative Execution Attacks.",
@@ -791,12 +791,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Peerfetch \u2013 Peer-to-Peer HTTP over WebRTC",
-                "href": "https://github.com/ambianic/peerfetch"
-            },
-            {
                 "title": "Hundred Rabbits is a small collective exploring the failability of modern tech",
                 "href": "https://100r.co/site/about_us.html"
+            },
+            {
+                "title": "Peerfetch \u2013 Peer-to-Peer HTTP over WebRTC",
+                "href": "https://github.com/ambianic/peerfetch"
             },
             {
                 "title": "Flux: Open-source text-to-image model with 12B parameters",
@@ -811,32 +811,40 @@
                 "href": "https://go.googlesource.com/oscar/+/refs/heads/master/README.md"
             },
             {
+                "title": "JVM/Java: Null-Restricted and Nullable Types",
+                "href": "https://bugs.openjdk.org/browse/JDK-8303099"
+            },
+            {
                 "title": "Ask HN: Who is hiring? (August 2024)",
                 "href": "item?id=41129813"
             },
             {
-                "title": "Russ Cox is stepping down as the Go tech lead",
-                "href": "https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw"
-            },
-            {
-                "title": "Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)",
-                "href": "https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai"
-            },
-            {
-                "title": "GitOpper: GitOps Without Kubernetes",
-                "href": "https://github.com/miekg/gitopper"
+                "title": "The reanimation of pseudoscience in machine learning",
+                "href": "https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025"
             },
             {
                 "title": "Robot dentist performs first human procedure",
                 "href": "https://newatlas.com/health-wellbeing/robot-dentist-world-first/"
             },
             {
+                "title": "Kapa.ai (YC S23) Is Hiring an Applied AI Research Engineer (Europe Timezone)",
+                "href": "https://www.ycombinator.com/companies/kapa-ai/jobs/hrFWJfn-research-engineer-applied-ai"
+            },
+            {
+                "title": "Russ Cox is stepping down as the Go tech lead",
+                "href": "https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw"
+            },
+            {
                 "title": "The protein Reelin keeps popping up in brains that resist aging and Alzheimer\u2019s",
                 "href": "https://www.npr.org/sections/shots-health-news/2024/07/29/g-s1-13519/alzheimers-protein-reelin-brain-aging-amyloid-tau-memory"
             },
             {
-                "title": "The reanimation of pseudoscience in machine learning",
-                "href": "https://www.cell.com/patterns/fulltext/S2666-3899(24)00160-0#secsectitle0025"
+                "title": "GitOpper: GitOps Without Kubernetes",
+                "href": "https://github.com/miekg/gitopper"
+            },
+            {
+                "title": "xdg-override: change default application temporarily on Linux",
+                "href": "https://github.com/koiuo/xdg-override"
             },
             {
                 "title": "Artificial intelligence gives weather forecasters a new edge",
@@ -847,16 +855,12 @@
                 "href": "https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/"
             },
             {
-                "title": "xdg-override: change default application temporarily on Linux",
-                "href": "https://github.com/koiuo/xdg-override"
+                "title": "Ask HN: Who wants to be hired? (August 2024)",
+                "href": "item?id=41129811"
             },
             {
                 "title": "Space is a latent sequence: A theory of the hippocampus",
                 "href": "https://www.science.org/doi/10.1126/sciadv.adm8470"
-            },
-            {
-                "title": "Ask HN: Who wants to be hired? (August 2024)",
-                "href": "item?id=41129811"
             },
             {
                 "title": "InstantSplat: Sparse-View SfM-Free Gaussian Splatting in Seconds",
@@ -887,8 +891,16 @@
                 "href": "https://www.datagubbe.se/crt/"
             },
             {
+                "title": "Rapidly build efficient sites with Neat, the minimalist CSS framework",
+                "href": "https://neat.joeldare.com/"
+            },
+            {
                 "title": "WordGrinder: A simple word processor that runs on the console",
                 "href": "https://github.com/davidgiven/wordgrinder"
+            },
+            {
+                "title": "List of vintage Japanese pixel/dot art software",
+                "href": "https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/"
             },
             {
                 "title": "Show HN: Anyma V, a hybrid physical modelling virtual instrument",
@@ -897,18 +909,6 @@
             {
                 "title": "I recreated Shazam\u2019s algorithm with Go",
                 "href": "https://github.com/cgzirim/not-shazam"
-            },
-            {
-                "title": "Scenefx: a drop-in replacement for the wlroots scene API",
-                "href": "https://github.com/wlrfx/scenefx"
-            },
-            {
-                "title": "Stable Fast 3D: Rapid 3D Asset Generation from Single Images",
-                "href": "https://stability.ai/news/introducing-stable-fast-3d"
-            },
-            {
-                "title": "Rapidly build efficient sites with Neat, the minimalist CSS framework",
-                "href": "https://neat.joeldare.com/"
             }
         ]
     }
