@@ -43,6 +43,10 @@
                 "href": "https://artagnon.com/computing/compilers/backend"
             },
             {
+                "title": "Beyond Good & Evil and the 13th MDisk",
+                "href": "https://9214.github.io/13"
+            },
+            {
                 "title": "Hobby robotics resources",
                 "href": "https://lobste.rs/s/byu3hv/hobby_robotics_resources"
             },
@@ -51,12 +55,12 @@
                 "href": "https://lobste.rs/s/o6fdni/what_are_you_doing_this_week"
             },
             {
-                "title": "Container networking",
-                "href": "https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/"
+                "title": "You should use the Ruby on Rails logger block syntax",
+                "href": "https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/"
             },
             {
-                "title": "Beyond Good & Evil and the 13th MDisk",
-                "href": "https://9214.github.io/13"
+                "title": "Container networking",
+                "href": "https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/"
             },
             {
                 "title": "Color picker as a trusty rebound hobby project",
@@ -67,16 +71,24 @@
                 "href": "https://soatok.blog/2024/08/04/against-xmppomemo/"
             },
             {
-                "title": "You should use the Ruby on Rails logger block syntax",
-                "href": "https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/"
-            },
-            {
                 "title": "Casio VZ-1 algorithms",
                 "href": "https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/"
             },
             {
                 "title": "HardenedBSD July 2024 status report",
                 "href": "https://hardenedbsd.org/article/shawn-webb/2024-08-03/hardenedbsd-july-2024-status-report"
+            },
+            {
+                "title": "Emanuelef/daily-stars-explorer released a feature to associate spikes to HackerNews posts",
+                "href": "https://github.com/emanuelef/daily-stars-explorer/discussions/80#discussioncomment-10235804"
+            },
+            {
+                "title": "Converting ASCII strings to lower case at crazy speeds with AVX-512",
+                "href": "https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/"
+            },
+            {
+                "title": "Radiance Cascades",
+                "href": "https://mini.gmshaders.com/p/radiance-cascades"
             },
             {
                 "title": "Ontario's Computer: The Burroughs ICON",
@@ -89,18 +101,6 @@
             {
                 "title": "10 Examples Why cURL is an Awesome CLI Tool",
                 "href": "https://martinheinz.dev/blog/113"
-            },
-            {
-                "title": "A Rubyist's Walk Along the C-side",
-                "href": "https://blog.peterzhu.ca/ruby-c-ext/"
-            },
-            {
-                "title": "A Short Summary of the Last Decades of Data Management",
-                "href": "https://www.youtube.com/watch?v=-wCzn9gKoUk"
-            },
-            {
-                "title": "Embracing DSLs in UI Development",
-                "href": "https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui"
             }
         ]
     },
@@ -799,48 +799,56 @@
                 "href": "https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/"
             },
             {
-                "title": "Google Loses DOJ Antitrust Suit Over Search",
+                "title": "Google loses antitrust suit over search deals on phones",
                 "href": "https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search"
-            },
-            {
-                "title": "Below the Root: A story, a computer game and my lifelong obsession (2015)",
-                "href": "https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/"
             },
             {
                 "title": "A new type of neural network is more interpretable",
                 "href": "https://spectrum.ieee.org/kan-neural-network"
             },
             {
-                "title": "The Anatomy of Brainwashing",
-                "href": "https://www.science.org/doi/10.1126/science.adp1705"
-            },
-            {
-                "title": "Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer",
-                "href": "https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure"
+                "title": "Below the Root: A story, a computer game and my lifelong obsession (2015)",
+                "href": "https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/"
             },
             {
                 "title": "Iso20022.js: Create payments in 3 lines of code",
                 "href": "https://www.iso20022js.com/"
             },
             {
-                "title": "Undark and the Radium Girls (2006)",
-                "href": "https://www.damninteresting.com/undark-and-the-radium-girls/"
+                "title": "Reflex (YC W23) Is Hiring a Staff Infrastructure Engineer",
+                "href": "https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure"
             },
             {
-                "title": "It's Lights Out at a Cosmic Restaurant",
-                "href": "https://www.nytimes.com/2024/08/04/science/space/astronomy-palomar-restaurant.html"
+                "title": "Undark and the Radium Girls (2006)",
+                "href": "https://www.damninteresting.com/undark-and-the-radium-girls/"
             },
             {
                 "title": "Uncovered Euripides fragments are 'kind of a big deal'",
                 "href": "https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal"
             },
             {
-                "title": "Show HN: Visual a* Pathfinding and Maze Generation in Python",
+                "title": "Starting Hospice",
+                "href": "https://jakeseliger.com/2024/08/04/starting-hospice-the-end/"
+            },
+            {
+                "title": "Show HN: Visual A* pathfinding and maze generation in Python",
                 "href": "https://github.com/Dicklesworthstone/visual_astar_python"
+            },
+            {
+                "title": "Debugging a rustc segfault on Illumos",
+                "href": "https://sunshowers.io/posts/rustc-segfault-illumos/"
             },
             {
                 "title": "A cryptographically secure bootloader for RISC-V in Rust",
                 "href": "https://www.codethink.co.uk/articles/2024/secure_bootloader/"
+            },
+            {
+                "title": "It's lights out at a cosmic restaurant",
+                "href": "https://www.nytimes.com/2024/08/04/science/space/astronomy-palomar-restaurant.html"
+            },
+            {
+                "title": "Show HN: Pie Menu \u2013 a radial menu for macOS",
+                "href": "https://www.pie-menu.com/"
             },
             {
                 "title": "How Postgres stores data on disk \u2013 this one's a page turner",
@@ -851,20 +859,16 @@
                 "href": "https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/"
             },
             {
-                "title": "Show HN: Pie Menu \u2013 a radial menu for macOS",
-                "href": "https://www.pie-menu.com/"
-            },
-            {
                 "title": "WebGL visual programming editor cables.gl is now open source",
                 "href": "https://cables.gl/standalone"
             },
             {
-                "title": "Associative tools, thinking, and creativity: On augmenting creativity",
-                "href": "https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity"
+                "title": "Replacing Liquid Metal on an Asus Zephyrus G15's CPU",
+                "href": "https://flemesre.github.io/posts/liquid-metal-replacement/"
             },
             {
-                "title": "Starting Hospice",
-                "href": "https://jakeseliger.com/2024/08/04/starting-hospice-the-end/"
+                "title": "Associative tools, thinking, and creativity: On augmenting creativity",
+                "href": "https://thelastwave.substack.com/p/associative-tools-thinking-and-creativity"
             },
             {
                 "title": "C++'s `Noexcept` Can (Sometimes) Help (Or Hurt) Performance",
@@ -891,6 +895,10 @@
                 "href": "https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/"
             },
             {
+                "title": "The tragedy of low-level exploitation",
+                "href": "https://gynvael.coldwind.pl/?id=791"
+            },
+            {
                 "title": "Age is a simple, modern and secure file encryption tool, format, and Go library",
                 "href": "https://github.com/FiloSottile/age"
             },
@@ -899,16 +907,8 @@
                 "href": "https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/"
             },
             {
-                "title": "The tragedy of low-level exploitation",
-                "href": "https://gynvael.coldwind.pl/?id=791"
-            },
-            {
                 "title": "Cortex A73's Not-So-Infinite Reordering Capacity",
                 "href": "https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/"
-            },
-            {
-                "title": "How the Music Industry Learned to Love Piracy",
-                "href": "https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html"
             }
         ]
     }
