@@ -15,6 +15,10 @@
                 "href": "https://jakearchibald.com/2024/video-with-transparency/"
             },
             {
+                "title": "Y'all are sleeping on HTTP/3",
+                "href": "https://kmcd.dev/posts/yall-are-sleeping-on-http3/"
+            },
+            {
                 "title": "How Postgres stores data on disk \u2013 this one's a page turner",
                 "href": "https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/"
             },
@@ -67,6 +71,10 @@
                 "href": "https://hakibenita.com/postgresql-get-or-create"
             },
             {
+                "title": "Converting ASCII strings to lower case at crazy speeds with AVX-512",
+                "href": "https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/"
+            },
+            {
                 "title": "A tour of the LLVM backend",
                 "href": "https://artagnon.com/computing/compilers/backend"
             },
@@ -77,10 +85,6 @@
             {
                 "title": "Casio VZ-1 algorithms",
                 "href": "https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/"
-            },
-            {
-                "title": "Converting ASCII strings to lower case at crazy speeds with AVX-512",
-                "href": "https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/"
             },
             {
                 "title": "SQLPage - building data UIs entirely in SQL",
@@ -97,10 +101,6 @@
             {
                 "title": "Container networking",
                 "href": "https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/"
-            },
-            {
-                "title": "Against XMPP+OMEMO",
-                "href": "https://soatok.blog/2024/08/04/against-xmppomemo/"
             }
         ]
     },
@@ -112,12 +112,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
             },
             {
-                "title": "CVE-2024-39877: Apache Airflow Arbitrary Code Execution",
-                "href": "https://www.reddit.com/r/netsec/comments/1ekyytb/cve202439877_apache_airflow_arbitrary_code/"
-            },
-            {
                 "title": "Cracking Wi-Fi password using combinatorics",
                 "href": "https://www.reddit.com/r/netsec/comments/1elgkq6/cracking_wifi_password_using_combinatorics/"
+            },
+            {
+                "title": "CVE-2024-39877: Apache Airflow Arbitrary Code Execution",
+                "href": "https://www.reddit.com/r/netsec/comments/1ekyytb/cve202439877_apache_airflow_arbitrary_code/"
             },
             {
                 "title": "Homebrew Security Audit 2023",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Mac and Windows Users Infected By Software Updates Delivered Over Hacked ISP",
+                "href": "https://it.slashdot.org/story/24/08/06/0419236/mac-and-windows-users-infected-by-software-updates-delivered-over-hacked-isp?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "OpenAI Co-Founder John Schulman Is Joining Anthropic",
                 "href": "https://slashdot.org/story/24/08/06/0411247/openai-co-founder-john-schulman-is-joining-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Illinois Governor Approves Business-Friendly Overhaul of Biometric Privacy Law",
                 "href": "https://yro.slashdot.org/story/24/08/05/1810220/illinois-governor-approves-business-friendly-overhaul-of-biometric-privacy-law?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Every Microsoft Employee Is Now Being Judged on Their Security Work",
-                "href": "https://it.slashdot.org/story/24/08/05/1724217/every-microsoft-employee-is-now-being-judged-on-their-security-work?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,40 +791,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Launch HN: Airhart Aeronautics (YC S22) \u2013 A modern personal airplane",
-                "href": "item?id=41163382"
-            },
-            {
-                "title": "WordStar 7, the last ever DOS version, is re-released for free",
-                "href": "https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/"
-            },
-            {
                 "title": "The Saucer \u2013 A DIY trackpad attachment for the Voyager",
                 "href": "https://blog.zsa.io/diy-voyager-trackpad-saucer/"
+            },
+            {
+                "title": "Launch HN: Airhart Aeronautics (YC S22) \u2013 A modern personal airplane",
+                "href": "item?id=41163382"
             },
             {
                 "title": "The Soul of Maintaining a New Machine",
                 "href": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
             },
             {
-                "title": "How old is your globe? [pdf]",
-                "href": "https://replogleglobes.com/app/uploads/2023/09/How-old-is-your-globerv.pdf"
+                "title": "Andy Warhol's lost Amiga art found",
+                "href": "https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/"
             },
             {
                 "title": "Hazel (YC W24) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml"
             },
             {
-                "title": "Writing a tile server in Python",
-                "href": "https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/"
-            },
-            {
                 "title": "Can we stop the decline of monarch butterflies and other pollinators?",
                 "href": "https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/"
             },
             {
-                "title": "Andy Warhol's lost Amiga art found",
-                "href": "https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/"
+                "title": "Writing a tile server in Python",
+                "href": "https://www.grulic.org.ar/~mdione/glob/posts/writing-a-tile-server-in-python/"
             },
             {
                 "title": "Building rqlite 9.0: Cutting disk usage by half",
@@ -843,20 +835,12 @@
                 "href": "https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/"
             },
             {
-                "title": "The Resurrection of Intel Will Take More Than Three Days",
-                "href": "https://www.nextplatform.com/2024/08/02/the-resurrection-of-intel-will-take-more-than-three-days/"
-            },
-            {
                 "title": "No Salt",
                 "href": "https://jakeseliger.com/2024/08/05/no-salt/"
             },
             {
                 "title": "Uncovered Euripides fragments are 'kind of a big deal'",
                 "href": "https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal"
-            },
-            {
-                "title": "X is closing San Francisco HQ and relocating staffers to San Jose",
-                "href": "https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/"
             },
             {
                 "title": "I don't know how CPUs work so I simulated one in code (2019)",
@@ -887,20 +871,16 @@
                 "href": "https://www.pie-menu.com/"
             },
             {
-                "title": "Minds are 'not currency for social media,' says EU as TikTok kills Lite Rewards",
-                "href": "https://thenextweb.com/news/tiktok-kills-lite-rewards-eu"
-            },
-            {
                 "title": "OpenAI co-founder John Schulman says he will leave and join rival Anthropic",
                 "href": "https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html"
             },
             {
-                "title": "Starting Hospice",
-                "href": "https://jakeseliger.com/2024/08/04/starting-hospice-the-end/"
-            },
-            {
                 "title": "C++'s `noexcept` can sometimes help or hurt performance",
                 "href": "https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/"
+            },
+            {
+                "title": "Starting Hospice",
+                "href": "https://jakeseliger.com/2024/08/04/starting-hospice-the-end/"
             },
             {
                 "title": "Fiber optic drone control beats any RF jammer",
@@ -909,6 +889,26 @@
             {
                 "title": "Rosalind Franklin's Methods of Discovery",
                 "href": "https://daily.jstor.org/rosalind-franklins-methods-of-discovery/"
+            },
+            {
+                "title": "X is closing San Francisco HQ and relocating staffers to San Jose",
+                "href": "https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/"
+            },
+            {
+                "title": "Replacing Liquid Metal on an Asus Zephyrus G15's CPU",
+                "href": "https://flemesre.github.io/posts/liquid-metal-replacement/"
+            },
+            {
+                "title": "Below the Root: A story, a computer game and my lifelong obsession (2015)",
+                "href": "https://blog.stahlmandesign.com/below-the-root-a-story-a-computer-game-and-my-lifelong-obsession/"
+            },
+            {
+                "title": "The Path to StyleGan2 \u2013 Implementing the Progressive Growing GAN",
+                "href": "https://ym2132.github.io/Progressive_GAN"
+            },
+            {
+                "title": "A RoCE network for distributed AI training at scale",
+                "href": "https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/"
             }
         ]
     }
