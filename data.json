@@ -87,16 +87,16 @@
                 "href": "https://lobste.rs/s/byu3hv/hobby_robotics_resources"
             },
             {
+                "title": "How to Get or Create in PostgreSQL",
+                "href": "https://hakibenita.com/postgresql-get-or-create"
+            },
+            {
                 "title": "Converting ASCII strings to lower case at crazy speeds with AVX-512",
                 "href": "https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/"
             },
             {
                 "title": "Radiance Cascades",
                 "href": "https://mini.gmshaders.com/p/radiance-cascades"
-            },
-            {
-                "title": "How to Get or Create in PostgreSQL",
-                "href": "https://hakibenita.com/postgresql-get-or-create"
             },
             {
                 "title": "Andy Warhol's lost Amiga art found",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Where Facebook's AI Slop Comes From",
+                "href": "https://tech.slashdot.org/story/24/08/06/2116258/where-facebooks-ai-slop-comes-from?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Apple's Hidden AI Prompts Discovered In macOS Beta",
                 "href": "https://apple.slashdot.org/story/24/08/06/2113250/apples-hidden-ai-prompts-discovered-in-macos-beta?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Meteorite Impacts Produce Most of Moon's Thin Atmosphere, Study Reveals",
                 "href": "https://science.slashdot.org/story/24/08/06/0359238/meteorite-impacts-produce-most-of-moons-thin-atmosphere-study-reveals?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Gamification Gets Drivers To Put Down Their Phones, Study Finds",
-                "href": "https://tech.slashdot.org/story/24/08/05/2213228/gamification-gets-drivers-to-put-down-their-phones-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,12 +795,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Structured Outputs in the API",
-                "href": "https://openai.com/index/introducing-structured-outputs-in-the-api/"
-            },
-            {
                 "title": "Please Do Not Attempt to Simplify This Code",
                 "href": "https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go"
+            },
+            {
+                "title": "Structured Outputs in the API",
+                "href": "https://openai.com/index/introducing-structured-outputs-in-the-api/"
             },
             {
                 "title": "YC is doing a first ever Fall batch \u2013 applications due by 8/27",
@@ -811,16 +811,20 @@
                 "href": "https://blog.darknedgy.net/technology/2020/05/02/0/"
             },
             {
-                "title": "AI agents but they're working in big tech",
-                "href": "https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures"
-            },
-            {
                 "title": "Show HN: 1-FPS encrypted screen sharing for introverts",
                 "href": "https://1fps.video/"
             },
             {
+                "title": "AI agents but they're working in big tech",
+                "href": "https://alexsima.substack.com/p/ai-multi-agents-with-corporate-structures"
+            },
+            {
                 "title": "Tracking supermarket prices with Playwright",
                 "href": "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/"
+            },
+            {
+                "title": "Full text search over Postgres: Elasticsearch vs. alternatives",
+                "href": "https://blog.paradedb.com/pages/elasticsearch_vs_postgres"
             },
             {
                 "title": "Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)",
@@ -829,10 +833,6 @@
             {
                 "title": "What purpose did the lower-right Enter key serve on original Mac 128k keyboard?",
                 "href": "https://retrocomputing.stackexchange.com/questions/30478/what-purpose-did-the-lower-right-enter-key-serve-on-the-original-mac-128k-keyb"
-            },
-            {
-                "title": "Full text search over Postgres: Elasticsearch vs. alternatives",
-                "href": "https://blog.paradedb.com/pages/elasticsearch_vs_postgres"
             },
             {
                 "title": "Launch HN: Firezone (YC W22) \u2013 Zero-trust access platform built on WireGuard",
@@ -847,40 +847,44 @@
                 "href": "https://www.nytimes.com/2024/08/01/upshot/experiment-focus-painting-art.html"
             },
             {
-                "title": "The real \"Wolf of Wall Street\" sales script",
-                "href": "https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script"
+                "title": "How not to say the wrong thing (2013)",
+                "href": "https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html"
             },
             {
-                "title": "Finding Nash equilibria through simulation",
-                "href": "https://coe.psu.ac.th/ad/nashSim/"
+                "title": "The real \"Wolf of Wall Street\" sales script",
+                "href": "https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script"
             },
             {
                 "title": "Show HN: AutoEditor \u2013 Edit your video in just a few clicks",
                 "href": "https://autoeditor.video/"
             },
             {
-                "title": "How not to say the wrong thing (2013)",
-                "href": "https://www.latimes.com/nation/la-oe-0407-silk-ring-theory-20130407-story.html"
-            },
-            {
-                "title": "ScholArxiv \u2013 an open-source, aesthetic and minimal research paper explorer",
-                "href": "https://github.com/dagmawibabi/ScholArxiv"
-            },
-            {
                 "title": "Carvings at Gobekli Tepe may be oldest calendar",
                 "href": "https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract"
+            },
+            {
+                "title": "Finding Nash equilibria through simulation",
+                "href": "https://coe.psu.ac.th/ad/nashSim/"
             },
             {
                 "title": "Can we trust Microsoft with Open Source?",
                 "href": "https://dusted.codes/can-we-trust-microsoft-with-open-source"
             },
             {
-                "title": "Crafting formulas: Lambdas all the way down",
-                "href": "https://text.marvinborner.de/2024-04-16-10.html"
+                "title": "Japan cracks down on use of rideable electric suitcases amid tourist boom",
+                "href": "https://www.theguardian.com/world/article/2024/jul/29/japan-rideable-luggage-suitcases-ban-crack-down-tourism"
+            },
+            {
+                "title": "ScholArxiv \u2013 an open-source, aesthetic and minimal research paper explorer",
+                "href": "https://github.com/dagmawibabi/ScholArxiv"
             },
             {
                 "title": "Parody site ClownStrike refused to bow to CrowdStrike's bogus DMCA takedown",
                 "href": "https://arstechnica.com/tech-policy/2024/08/parody-site-clownstrike-refused-to-bow-to-crowdstrikes-bogus-dmca-takedown/"
+            },
+            {
+                "title": "Crafting formulas: Lambdas all the way down",
+                "href": "https://text.marvinborner.de/2024-04-16-10.html"
             },
             {
                 "title": "Why Polars rewrote its Arrow string data type",
@@ -895,24 +899,20 @@
                 "href": "https://fleak.ai/"
             },
             {
-                "title": "Slingcode \u2013 App platform in a single HTML file, QR-code transmittable apps",
-                "href": "https://slingcode.net/"
-            },
-            {
-                "title": "Proton announces release of a new VPN protocol, \"Stealth\"",
-                "href": "https://protonvpn.com/blog/stealth-vpn-protocol"
+                "title": "I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)",
+                "href": "https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/"
             },
             {
                 "title": "WD announces enterprise 128TB SSD",
                 "href": "https://www.tomshardware.com/pc-components/storage/wd-announces-enterprise-128tb-ssd-8tb-sd-cards-and-a-16tb-external-ssd-at-fms-2024"
             },
             {
-                "title": "I was a 20-something dethroned dotcom ceo that went to work at mcdonald's (2000)",
-                "href": "https://web.archive.org/web/20040616091238/http://www.heiferman.com/mcd/"
-            },
-            {
                 "title": "Scheduling Model in LLVM",
                 "href": "https://myhsu.xyz/llvm-sched-model-1/"
+            },
+            {
+                "title": "Proton announces release of a new VPN protocol, \"Stealth\"",
+                "href": "https://protonvpn.com/blog/stealth-vpn-protocol"
             }
         ]
     }
