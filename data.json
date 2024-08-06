@@ -7,16 +7,16 @@
                 "href": "https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/"
             },
             {
+                "title": "Y'all are sleeping on HTTP/3",
+                "href": "https://kmcd.dev/posts/yall-are-sleeping-on-http3/"
+            },
+            {
                 "title": "Cat9 Microdosing: Each and Contain",
                 "href": "https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/"
             },
             {
                 "title": "Video with alpha transparency on the web",
                 "href": "https://jakearchibald.com/2024/video-with-transparency/"
-            },
-            {
-                "title": "Y'all are sleeping on HTTP/3",
-                "href": "https://kmcd.dev/posts/yall-are-sleeping-on-http3/"
             },
             {
                 "title": "How Postgres stores data on disk \u2013 this one's a page turner",
@@ -49,6 +49,10 @@
             {
                 "title": "You should use the Ruby on Rails logger block syntax",
                 "href": "https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/"
+            },
+            {
+                "title": "An Empirical Evaluation of Columnar Storage Formats",
+                "href": "https://arxiv.org/abs/2304.05028"
             },
             {
                 "title": "Beyond Good & Evil and the 13th MDisk",
@@ -97,10 +101,6 @@
             {
                 "title": "Color picker as a trusty rebound hobby project",
                 "href": "https://hugodaniel.com/posts/color-picker/"
-            },
-            {
-                "title": "Container networking",
-                "href": "https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/"
             }
         ]
     },
@@ -112,12 +112,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
             },
             {
-                "title": "Cracking Wi-Fi password using combinatorics",
-                "href": "https://www.reddit.com/r/netsec/comments/1elgkq6/cracking_wifi_password_using_combinatorics/"
-            },
-            {
                 "title": "CVE-2024-39877: Apache Airflow Arbitrary Code Execution",
                 "href": "https://www.reddit.com/r/netsec/comments/1ekyytb/cve202439877_apache_airflow_arbitrary_code/"
+            },
+            {
+                "title": "Cracking Wi-Fi password using combinatorics",
+                "href": "https://www.reddit.com/r/netsec/comments/1elgkq6/cracking_wifi_password_using_combinatorics/"
             },
             {
                 "title": "Homebrew Security Audit 2023",
@@ -630,12 +630,28 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "New SLUBStick Attack Makes Linux Kernel Vulnerabilities More Dangerous",
-                "href": "https://packetstormsecurity.com/news/view/36178/New-SLUBStick-Attack-Makes-Linux-Kernel-Vulnerabilities-More-Dangerous.html"
+                "title": "Thousands Of Devices Wiped Remotely Following Mobile Guardian Hack",
+                "href": "https://packetstormsecurity.com/news/view/36182/Thousands-Of-Devices-Wiped-Remotely-Following-Mobile-Guardian-Hack.html"
             },
             {
-                "title": "SnakeKeylogger Slithers Into Windows Inboxes To Steal Secrets",
-                "href": "https://packetstormsecurity.com/news/view/36175/SnakeKeylogger-Slithers-Into-Windows-Inboxes-To-Steal-Secrets.html"
+                "title": "Billion Dollar Bust As Op Shutters Cryptonator Wallet",
+                "href": "https://packetstormsecurity.com/news/view/36179/Billion-Dollar-Bust-As-Op-Shutters-Cryptonator-Wallet.html"
+            },
+            {
+                "title": "NFL To Begin Using Face Scanning Tech Across All Of Its Stadiums",
+                "href": "https://packetstormsecurity.com/news/view/36180/NFL-To-Begin-Using-Face-Scanning-Tech-Across-All-Of-Its-Stadiums.html"
+            },
+            {
+                "title": "Proton Ransomware Evolves With Latest Zola Variant",
+                "href": "https://packetstormsecurity.com/news/view/36181/Proton-Ransomware-Evolves-With-Latest-Zola-Variant.html"
+            },
+            {
+                "title": "CrowdStrike And Delta Play The Blame Game",
+                "href": "https://packetstormsecurity.com/news/view/36183/CrowdStrike-And-Delta-Play-The-Blame-Game.html"
+            },
+            {
+                "title": "New SLUBStick Attack Makes Linux Kernel Vulnerabilities More Dangerous",
+                "href": "https://packetstormsecurity.com/news/view/36178/New-SLUBStick-Attack-Makes-Linux-Kernel-Vulnerabilities-More-Dangerous.html"
             },
             {
                 "title": "Chinese Hackers Deliver Malware Via ISP-Level DNS Poisoning",
@@ -644,6 +660,10 @@
             {
                 "title": "Ukraine Steps Up Cyberwar With DDoS On Russian Banks",
                 "href": "https://packetstormsecurity.com/news/view/36176/Ukraine-Steps-Up-Cyberwar-With-DDoS-On-Russian-Banks.html"
+            },
+            {
+                "title": "SnakeKeylogger Slithers Into Windows Inboxes To Steal Secrets",
+                "href": "https://packetstormsecurity.com/news/view/36175/SnakeKeylogger-Slithers-Into-Windows-Inboxes-To-Steal-Secrets.html"
             },
             {
                 "title": "Who Are The Two Major Hackers Russia Just Received In A Prisoner Swap?",
@@ -664,26 +684,6 @@
             {
                 "title": "Bypass Found In Rockwell Automation Logix Controllers",
                 "href": "https://packetstormsecurity.com/news/view/36170/Bypass-Found-In-Rockwell-Automation-Logix-Controllers.html"
-            },
-            {
-                "title": "Company Paid Record-Breaking $75 Million To Ransomware Group",
-                "href": "https://packetstormsecurity.com/news/view/36169/Company-Paid-Record-Breaking-75-Million-To-Ransomware-Group.html"
-            },
-            {
-                "title": "Meta's PromptGuard Model Bypassed By Simple Jailbreak",
-                "href": "https://packetstormsecurity.com/news/view/36168/Metas-PromptGuard-Model-Bypassed-By-Simple-Jailbreak.html"
-            },
-            {
-                "title": "Mozilla Follows Google In Losing Trust In Entrust's TLS Certificates",
-                "href": "https://packetstormsecurity.com/news/view/36167/Mozilla-Follows-Google-In-Losing-Trust-In-Entrusts-TLS-Certificates.html"
-            },
-            {
-                "title": "US Voters Reminded That DDoS Attacks Can't Touch Election Systems",
-                "href": "https://packetstormsecurity.com/news/view/36166/US-Voters-Reminded-That-DDoS-Attacks-Cant-Touch-Election-Systems.html"
-            },
-            {
-                "title": "Black Hat USA 2024, BSidesLV, And DEFCON 32: Your Hacker Summer Camp Guide",
-                "href": "https://packetstormsecurity.com/news/view/36165/Black-Hat-USA-2024-BSidesLV-And-DEFCON-32-Your-Hacker-Summer-Camp-Guide.html"
             },
             {
                 "title": "Debian Security Advisory 5737-1",
@@ -807,12 +807,12 @@
                 "href": "https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/"
             },
             {
-                "title": "Hazel (YC W24) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml"
-            },
-            {
                 "title": "Can we stop the decline of monarch butterflies and other pollinators?",
                 "href": "https://www.wisfarmer.com/story/news/2024/08/05/can-we-stop-the-decline-of-monarch-butterflies-and-other-pollinators/74638545007/"
+            },
+            {
+                "title": "Hazel (YC W24) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/hazel-2/jobs/kw9CiUM-founding-engineer-full-stack-or-ai-ml"
             },
             {
                 "title": "Writing a tile server in Python",
@@ -831,12 +831,12 @@
                 "href": "https://sunshowers.io/posts/rustc-segfault-illumos/"
             },
             {
-                "title": "A Different Kind of Disc Brake: 1949 Chrysler",
-                "href": "https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/"
-            },
-            {
                 "title": "No Salt",
                 "href": "https://jakeseliger.com/2024/08/05/no-salt/"
+            },
+            {
+                "title": "A Different Kind of Disc Brake: 1949 Chrysler",
+                "href": "https://www.macsmotorcitygarage.com/a-completely-different-kind-of-disc-brake-1949-chrysler/"
             },
             {
                 "title": "Uncovered Euripides fragments are 'kind of a big deal'",
@@ -851,12 +851,12 @@
                 "href": "https://www.iso20022js.com/"
             },
             {
-                "title": "How the music industry learned to love piracy",
-                "href": "https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html"
-            },
-            {
                 "title": "Show HN: Visual A* pathfinding and maze generation in Python",
                 "href": "https://github.com/Dicklesworthstone/visual_astar_python"
+            },
+            {
+                "title": "How the music industry learned to love piracy",
+                "href": "https://www.nytimes.com/2024/07/31/magazine/how-music-got-free-documentary.html"
             },
             {
                 "title": "WebGL visual programming editor cables.gl is now open source",
@@ -871,32 +871,28 @@
                 "href": "https://www.pie-menu.com/"
             },
             {
-                "title": "OpenAI co-founder John Schulman says he will leave and join rival Anthropic",
-                "href": "https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html"
+                "title": "Starting Hospice",
+                "href": "https://jakeseliger.com/2024/08/04/starting-hospice-the-end/"
             },
             {
                 "title": "C++'s `noexcept` can sometimes help or hurt performance",
                 "href": "https://16bpp.net/blog/post/noexcept-can-sometimes-help-or-hurt-performance/"
             },
             {
-                "title": "Starting Hospice",
-                "href": "https://jakeseliger.com/2024/08/04/starting-hospice-the-end/"
-            },
-            {
                 "title": "Fiber optic drone control beats any RF jammer",
                 "href": "https://www.forbes.com/sites/davidhambling/2024/03/08/russian-fiber-optic-drone-can-beat-any-jammer/"
             },
             {
-                "title": "Rosalind Franklin's Methods of Discovery",
-                "href": "https://daily.jstor.org/rosalind-franklins-methods-of-discovery/"
-            },
-            {
-                "title": "X is closing San Francisco HQ and relocating staffers to San Jose",
-                "href": "https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/"
+                "title": "OpenAI co-founder John Schulman says he will leave and join rival Anthropic",
+                "href": "https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html"
             },
             {
                 "title": "Replacing Liquid Metal on an Asus Zephyrus G15's CPU",
                 "href": "https://flemesre.github.io/posts/liquid-metal-replacement/"
+            },
+            {
+                "title": "Rosalind Franklin's Methods of Discovery",
+                "href": "https://daily.jstor.org/rosalind-franklins-methods-of-discovery/"
             },
             {
                 "title": "Below the Root: A story, a computer game and my lifelong obsession (2015)",
@@ -905,6 +901,10 @@
             {
                 "title": "The Path to StyleGan2 \u2013 Implementing the Progressive Growing GAN",
                 "href": "https://ym2132.github.io/Progressive_GAN"
+            },
+            {
+                "title": "X is closing San Francisco HQ and relocating staffers to San Jose",
+                "href": "https://fortune.com/2024/08/05/x-closing-san-francisco-hq-relocating-staffers-san-jose-palo-alto-shared-space-with-x-ai-linda-yaccarino-leaked-email/"
             },
             {
                 "title": "A RoCE network for distributed AI training at scale",
