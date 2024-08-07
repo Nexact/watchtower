@@ -35,6 +35,10 @@
                 "href": "https://ntietz.com/blog/first-impressions-of-gleam"
             },
             {
+                "title": "Crowdstrike External Technical Root Cause Analysis",
+                "href": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf"
+            },
+            {
                 "title": "Symbiosisware",
                 "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/symbiosisware/"
             },
@@ -43,20 +47,20 @@
                 "href": "https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta"
             },
             {
-                "title": "Crowdstrike External Technical Root Cause Analysis",
-                "href": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf"
-            },
-            {
                 "title": "Translating sqlfluff to rust",
                 "href": "https://www.quary.dev/blog/sqruff-launch"
             },
             {
-                "title": "Multitenancy in Elixir: A Strategic Guide",
-                "href": "https://curiosum.com/blog/multitenancy-in-elixir"
-            },
-            {
                 "title": "Hello Frink (2015)",
                 "href": "http://ncreep.github.io/language_perils/blog/2015-01-08-hello-frink.html"
+            },
+            {
+                "title": "Zen5's AVX512 Teardown + More",
+                "href": "http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/"
+            },
+            {
+                "title": "Multitenancy in Elixir: A Strategic Guide",
+                "href": "https://curiosum.com/blog/multitenancy-in-elixir"
             },
             {
                 "title": "My favorite device is a Chromebook",
@@ -97,10 +101,6 @@
             {
                 "title": "Vertical label placement",
                 "href": "https://iamkate.com/code/vertical-label-placement/"
-            },
-            {
-                "title": "Cat9 Microdosing: Each and Contain",
-                "href": "https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/"
             }
         ]
     },
@@ -217,6 +217,18 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Critical Progress WhatsUp RCE flaw now under active exploitation",
+                "href": "https://www.bleepingcomputer.com/news/security/critical-progress-whatsup-rce-flaw-now-under-active-exploitation/"
+            },
+            {
+                "title": "How MSPs and MSSPs offer vCISO services with skilled CISOs in short supply",
+                "href": "https://www.bleepingcomputer.com/news/security/how-msps-and-mssps-offer-vciso-services-with-skilled-cisos-in-short-supply/"
+            },
+            {
+                "title": "Microsoft 365 anti-phishing feature can be bypassed with CSS",
+                "href": "https://www.bleepingcomputer.com/news/security/microsoft-365-anti-phishing-feature-can-be-bypassed-with-css/"
+            },
+            {
                 "title": "Google Chrome will let you send money to your favourite website",
                 "href": "https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/"
             },
@@ -251,22 +263,6 @@
             {
                 "title": "Ransomware gang targets IT workers with new SharpRhino malware",
                 "href": "https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/"
-            },
-            {
-                "title": "Microsoft Azure outage takes down services across North America",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-takes-down-services-across-north-america/"
-            },
-            {
-                "title": "Crowdstrike: Delta Air Lines refused free help to resolve IT outage",
-                "href": "https://www.bleepingcomputer.com/news/security/crowdstrike-delta-air-lines-refused-free-help-to-resolve-it-outage/"
-            },
-            {
-                "title": "Windows Smart App Control, SmartScreen bypass exploited since 2018",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-smart-app-control-smartscreen-bypass-exploited-since-2018/"
-            },
-            {
-                "title": "North Korean hackers exploit VPN update flaw to install malware",
-                "href": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-vpn-update-flaw-to-install-malware/"
             }
         ]
     },
@@ -589,12 +585,16 @@
         "feedname": "cisa",
         "items": [
             {
-                "title": "CISA Releases Secure by Demand Guidance",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance"
+                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/08/07/cisa-adds-two-known-exploited-vulnerabilities-catalog"
             },
             {
                 "title": "Delta Electronics DIAScreen",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-219-01"
+            },
+            {
+                "title": "CISA Releases Secure by Demand Guidance",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/08/06/cisa-releases-secure-demand-guidance"
             },
             {
                 "title": "CISA Releases One Industrial Control Systems Advisory",
@@ -623,10 +623,6 @@
             {
                 "title": "Johnson Controls exacqVision Web Service",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-214-06"
-            },
-            {
-                "title": "Rockwell Automation Logix Controllers",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-214-09"
             }
         ]
     },
@@ -795,44 +791,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Smashing idea: how East Germany invented 'unbreakable' drinking glasses",
-                "href": "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany"
+                "title": "How French Drains Work",
+                "href": "https://practical.engineering/blog/2024/8/6/how-french-drains-work"
             },
             {
                 "title": "Show HN: BudgetFlow \u2013 Budget planning using interactive Sankey diagrams",
                 "href": "https://www.budgetflow.cc/"
             },
             {
-                "title": "How French Drains Work",
-                "href": "https://practical.engineering/blog/2024/8/6/how-french-drains-work"
+                "title": "Show HN: Play with an interactive heatmap of SF crime (and other cities)",
+                "href": "https://safemap.io/sf/map"
             },
             {
-                "title": "Medieval",
-                "href": "https://teenage.engineering/products/ep-1320"
-            },
-            {
-                "title": "Cats appear to grieve death of fellow pets \u2013 even dogs, study finds",
-                "href": "https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds"
+                "title": "Smashing idea: how East Germany invented 'unbreakable' drinking glasses",
+                "href": "https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany"
             },
             {
                 "title": "Launch HN: Release (YC W20) \u2013 Orchestrate AI Infrastructure and Applications",
                 "href": "item?id=41182055"
             },
             {
-                "title": "Blackhouses of Scotland",
-                "href": "https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html"
+                "title": "Gear Acquisition Syndrome \u2013 Consumption of Instruments and Technology (2021)",
+                "href": "https://library.oapen.org/handle/20.500.12657/48282"
+            },
+            {
+                "title": "Medieval",
+                "href": "https://teenage.engineering/products/ep-1320"
             },
             {
                 "title": "Emotional about X11: I'm creating a pure X11 \u201cemoji keyboard\u201d",
                 "href": "https://github.com/Zirias/xmoji"
             },
             {
-                "title": "Chemical 'waves' used to encode words as Morse code",
-                "href": "https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article"
+                "title": "Blackhouses of Scotland",
+                "href": "https://www.amusingplanet.com/2016/04/blackhouses-of-scotland.html"
             },
             {
                 "title": "Nxylon: New super-black material made from wood",
                 "href": "https://news.ubc.ca/2024/07/ubc-super-black-wood-nxylon/"
+            },
+            {
+                "title": "Chemical 'waves' used to encode words as Morse code",
+                "href": "https://www.chemistryworld.com/news/chemical-waves-used-to-encode-words-as-morse-code/4019908.article"
             },
             {
                 "title": "Exploiting authorization by nonce in WordPress plugins",
@@ -843,16 +843,24 @@
                 "href": "https://sievedata.com/about/jobs"
             },
             {
-                "title": "Structured Outputs in the API",
-                "href": "https://openai.com/index/introducing-structured-outputs-in-the-api/"
-            },
-            {
                 "title": "Uber tests its payment systems in production",
                 "href": "https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments"
             },
             {
+                "title": "Structured Outputs in the API",
+                "href": "https://openai.com/index/introducing-structured-outputs-in-the-api/"
+            },
+            {
                 "title": "First USGS supercomputer decommissioning makes way for successors",
                 "href": "https://www.usgs.gov/news/featured-story/first-usgs-supercomputer-decommissioning-makes-way-successors"
+            },
+            {
+                "title": "Cats appear to grieve death of fellow pets \u2013 even dogs, study finds",
+                "href": "https://www.theguardian.com/science/article/2024/aug/07/cats-appear-to-grieve-death-of-fellow-pets-even-dogs-study-finds"
+            },
+            {
+                "title": "Show HN: I've spent nearly 5y on a web app that creates 3D apartments",
+                "href": "https://roometron.com"
             },
             {
                 "title": "The real \"Wolf of Wall Street\" sales script",
@@ -867,10 +875,6 @@
                 "href": "https://www.nytimes.com/2024/08/05/science/tsung-dao-lee-dead.html"
             },
             {
-                "title": "Show HN: I've spent nearly 5y on a web app that creates 3D apartments",
-                "href": "https://roometron.com"
-            },
-            {
                 "title": "Show HN: 1-FPS encrypted screen sharing for introverts",
                 "href": "https://1fps.video/"
             },
@@ -883,36 +887,28 @@
                 "href": "https://www.quantamagazine.org/what-is-analog-computing-20240802/"
             },
             {
-                "title": "Show HN: Lacakgrak \u2013 Simple inbound/outbound packet sniffer",
-                "href": "https://github.com/altilunium/lacakgrak"
-            },
-            {
                 "title": "MNT Pocket Reform first impressions and hardware",
                 "href": "https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/"
+            },
+            {
+                "title": "Show HN: Lacakgrak \u2013 Simple inbound/outbound packet sniffer",
+                "href": "https://github.com/altilunium/lacakgrak"
             },
             {
                 "title": "Carvings at Gobekli Tepe may be oldest calendar",
                 "href": "https://www.tandfonline.com/doi/full/10.1080/1751696X.2024.2373876#abstract"
             },
             {
-                "title": "Streams, Calculational Proofs and Dafny",
-                "href": "https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html"
-            },
-            {
-                "title": "If Fever Helps Fight Infection, Should I Avoid Fever-Reducing Drugs? (2018)",
-                "href": "https://www.nytimes.com/2018/05/11/well/live/fever-infection-drugs-tylenol-acetaminophen-ibuprofen-advil-aspirin.html"
-            },
-            {
                 "title": "Why Polars rewrote its Arrow string data type",
                 "href": "https://pola.rs/posts/polars-string-type/"
             },
             {
-                "title": "Launch HN: Firezone (YC W22) \u2013 Zero-trust access platform built on WireGuard",
-                "href": "item?id=41173330"
+                "title": "Streams, Calculational Proofs and Dafny",
+                "href": "https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html"
             },
             {
-                "title": "Show HN: ScholArxiv \u2013 an open-source, aesthetic, minimal research paper explorer",
-                "href": "https://github.com/dagmawibabi/ScholArxiv"
+                "title": "Launch HN: Firezone (YC W22) \u2013 Zero-trust access platform built on WireGuard",
+                "href": "item?id=41173330"
             }
         ]
     }
