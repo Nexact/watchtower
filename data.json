@@ -39,6 +39,10 @@
                 "href": "http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist"
             },
             {
+                "title": "Announcing Lix 2.91 \"Dragon's Breath\"",
+                "href": "https://lix.systems/blog/2024-08-12-lix-2.91-release/"
+            },
+            {
                 "title": "Abusing Makefiles for fun and profit",
                 "href": "https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/"
             },
@@ -51,16 +55,12 @@
                 "href": "https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/"
             },
             {
-                "title": "Announcing Lix 2.91 \"Dragon's Breath\"",
-                "href": "https://lix.systems/blog/2024-08-12-lix-2.91-release/"
+                "title": "Go is my hammer, and everything is a nail",
+                "href": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
             },
             {
                 "title": "Why don't programming languages or IDEs support attaching descriptive metadata to variables?",
                 "href": "https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t"
-            },
-            {
-                "title": "Go is my hammer, and everything is a nail",
-                "href": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
             },
             {
                 "title": "The Chrome Monoculture",
@@ -75,12 +75,12 @@
                 "href": "https://lapcatsoftware.com/articles/2024/8/3.html"
             },
             {
-                "title": "Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation",
-                "href": "https://dl.acm.org/doi/10.1145/3656406"
-            },
-            {
                 "title": "blitz: High performance HTML and CSS renderer",
                 "href": "https://github.com/DioxusLabs/blitz"
+            },
+            {
+                "title": "Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation",
+                "href": "https://dl.acm.org/doi/10.1145/3656406"
             },
             {
                 "title": "A Webring written in OCaml for FP enthusiasts",
@@ -114,6 +114,14 @@
             {
                 "title": "SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level",
                 "href": "https://www.reddit.com/r/netsec/comments/1eqm0ia/sql_injection_isnt_dead_smuggling_queries_at_the/"
+            },
+            {
+                "title": "Too Many Secrets: Proprietary Encryption Protocol Analysis in VStarcam CB73 Security Camera",
+                "href": "https://www.reddit.com/r/netsec/comments/1er5wo8/too_many_secrets_proprietary_encryption_protocol/"
+            },
+            {
+                "title": "ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts",
+                "href": "https://www.reddit.com/r/netsec/comments/1er5y4u/artipacked_hacking_giants_through_a_race/"
             },
             {
                 "title": "All Security News | With allinfosecnews going down, I decided to keep the dream going. It was my favorite site to visit daily so I couldn't go without it.",
@@ -202,14 +210,6 @@
             {
                 "title": "\u201cZovek\u201d , My Offensive IoT Redteam Implant v1.0",
                 "href": "https://www.reddit.com/r/netsec/comments/1emgi1q/zovek_my_offensive_iot_redteam_implant_v10/"
-            },
-            {
-                "title": "Unveiling the Power Duo: osquery and osctrl",
-                "href": "https://www.reddit.com/r/netsec/comments/1ellf4d/unveiling_the_power_duo_osquery_and_osctrl/"
-            },
-            {
-                "title": "Vestaboard: Exploring Broken Access Controls and Privilege Escalation",
-                "href": "https://www.reddit.com/r/netsec/comments/1elncfv/vestaboard_exploring_broken_access_controls_and/"
             }
         ]
     },
@@ -795,36 +795,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Go Algorithms and Data Structures: Best Practices for Beginners",
-                "href": "https://github.com/TheAlgorithms/Go"
-            },
-            {
-                "title": "Hacking the largest airline and hotel rewards platform (2023)",
-                "href": "https://samcurry.net/points-com"
+                "title": "Serena: An experimental operating system for 32bit Amiga computers",
+                "href": "https://github.com/dplanitzer/Serena"
             },
             {
                 "title": "The new PostgreSQL 17 make dist",
                 "href": "http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist"
             },
             {
-                "title": "Architectural Retrospectives: The Key to Getting Better at Architecting",
-                "href": "https://www.infoq.com/articles/architectural-retrospectives/"
-            },
-            {
-                "title": "Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig",
-                "href": "https://github.com/judofyr/spice"
+                "title": "Hacking the largest airline and hotel rewards platform (2023)",
+                "href": "https://samcurry.net/points-com"
             },
             {
                 "title": "Upsetting Magazine #77 (2023)",
                 "href": "https://www.markdomowicz.com/all/2023_10_16_upsetting_magazine_77/article/upsettingmagazine77/"
             },
             {
-                "title": "Serena: An experimental operating system for 32bit Amiga computers",
-                "href": "https://github.com/dplanitzer/Serena"
+                "title": "Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig",
+                "href": "https://github.com/judofyr/spice"
             },
             {
-                "title": "Robert Elder's Guide to GNU Coreutils",
-                "href": "https://blog.robertelder.org/gnu-coreutils-package-guide/"
+                "title": "What to know about real robots deployed in the real world",
+                "href": "https://spectrum.ieee.org/rodney-brooks-three-laws-robotics"
             },
             {
                 "title": "Repair and Remain (2022)",
@@ -835,32 +827,16 @@
                 "href": "https://qntm.org/scp"
             },
             {
-                "title": "Core Python developer suspended for three months",
-                "href": "https://www.theregister.com/2024/08/09/core_python_developer_suspended_coc/"
-            },
-            {
                 "title": "Antifragility in complex dynamical systems",
                 "href": "https://www.nature.com/articles/s44260-024-00014-y"
-            },
-            {
-                "title": "What to know about real robots deployed in the real world",
-                "href": "https://spectrum.ieee.org/rodney-brooks-three-laws-robotics"
             },
             {
                 "title": "Mastering Osint: How to Find Information on Anyone",
                 "href": "https://osintteam.blog/mastering-osint-how-to-find-information-on-anyone-680e4086f17f"
             },
             {
-                "title": "Supabase (YC S20) Is Hiring a Technical Product Manager",
-                "href": "https://boards.greenhouse.io/supabase/jobs/5245988004"
-            },
-            {
                 "title": "Open source laser microphone picks up laptop keystrokes",
                 "href": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/"
-            },
-            {
-                "title": "Show HN: I built an animated 3D bookshelf for ebooks",
-                "href": "https://github.com/mawise/bookshelf"
             },
             {
                 "title": "Video with Alpha Transparency on the Web",
@@ -871,36 +847,44 @@
                 "href": "https://sakana.ai/ai-scientist/"
             },
             {
-                "title": "Room inspections at Resorts World confuse, annoy DEF CON attendees",
-                "href": "https://www.reviewjournal.com/business/tourism/invasion-of-privacy-hotel-room-inspections-confuse-hacker-convention-attendees-3121350/"
+                "title": "Supabase (YC S20) Is Hiring a Technical Product Manager",
+                "href": "https://boards.greenhouse.io/supabase/jobs/5245988004"
             },
             {
                 "title": "The Goths",
                 "href": "https://www.the-hinternet.com/p/the-goths"
             },
             {
-                "title": "Study shows that tacking the \u201cAI\u201d label on products may drive people away",
-                "href": "https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html"
+                "title": "Visualizing Complex Functions",
+                "href": "https://vankessel.io/visualizing-complex-functions"
             },
             {
-                "title": "A camera that shoots 40k FPS decided the 100-meter sprint final",
-                "href": "https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/"
+                "title": "Show HN: I built an animated 3D bookshelf for ebooks",
+                "href": "https://github.com/mawise/bookshelf"
+            },
+            {
+                "title": "Study shows that tacking the \u201cAI\u201d label on products may drive people away",
+                "href": "https://www.cnn.com/2024/08/10/business/brands-avoid-term-customers/index.html"
             },
             {
                 "title": "NASA investigation finds Boeing hindering Americans' return to moon",
                 "href": "https://www.flyingmag.com/modern/nasa-investigation-finds-boeing-hindering-americans-return-to-moon/"
             },
             {
+                "title": "A camera that shoots 40k FPS decided the 100-meter sprint final",
+                "href": "https://petapixel.com/2024/08/06/a-camera-that-shoots-40000-fps-decided-the-100-meter-sprint-final-olympics-paris-2024-omega/"
+            },
+            {
                 "title": "Apple's requirements are about to hit creators and fans on Patreon",
                 "href": "https://news.patreon.com/articles/understanding-apple-requirements-for-patreon"
             },
             {
-                "title": "Federal appeals court finds geofence warrants \"categorically\" unconstitutional",
-                "href": "https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional"
-            },
-            {
                 "title": "Go is my hammer, and everything is a nail",
                 "href": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
+            },
+            {
+                "title": "Federal appeals court finds geofence warrants \"categorically\" unconstitutional",
+                "href": "https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional"
             },
             {
                 "title": "Show HN: PGlite \u2013 in-browser WASM Postgres with pgvector and live sync",
@@ -913,6 +897,22 @@
             {
                 "title": "Queues invert control flow but require flow control",
                 "href": "https://www.enterpriseintegrationpatterns.com/ramblings/queues_flow_control.html"
+            },
+            {
+                "title": "FCC seek comments on NextNav petition for rulemaking on lower 900MHz ISM band",
+                "href": "https://docs.fcc.gov/public/attachments/DA-24-776A1.txt"
+            },
+            {
+                "title": "Damn Vulnerable UEFI",
+                "href": "https://github.com/hacking-support/DVUEFI"
+            },
+            {
+                "title": "Architectural Retrospectives: The Key to Getting Better at Architecting",
+                "href": "https://www.infoq.com/articles/architectural-retrospectives/"
+            },
+            {
+                "title": "Launch HN: Synnax (YC S24) \u2013 Unified hardware control and sensor data streaming",
+                "href": "item?id=41227369"
             }
         ]
     }
