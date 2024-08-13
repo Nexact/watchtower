@@ -19,12 +19,16 @@
                 "href": "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/"
             },
             {
+                "title": "HTTP/1.0 From Scratch",
+                "href": "https://kmcd.dev/posts/http1.0-from-scratch/"
+            },
+            {
                 "title": "Okay, I really like WezTerm",
                 "href": "https://alexplescan.com/posts/2024/08/10/wezterm/"
             },
             {
-                "title": "HTTP/1.0 From Scratch",
-                "href": "https://kmcd.dev/posts/http1.0-from-scratch/"
+                "title": "termsand",
+                "href": "https://github.com/cgsdev0/termsand"
             },
             {
                 "title": "The new PostgreSQL 17 make dist",
@@ -35,16 +39,16 @@
                 "href": "https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html"
             },
             {
-                "title": "termsand",
-                "href": "https://github.com/cgsdev0/termsand"
-            },
-            {
                 "title": "Mixwave - Convert, package and manipulate videos on the fly",
                 "href": "https://github.com/matvp91/mixwave"
             },
             {
                 "title": "Rust Project goals for 2024",
                 "href": "https://blog.rust-lang.org/2024/08/12/Project-goals.html"
+            },
+            {
+                "title": "Go 1.23 Release Notes",
+                "href": "https://go.dev/doc/go1.23"
             },
             {
                 "title": "Division and Modulus for Computer Scientists (2003)",
@@ -79,28 +83,24 @@
                 "href": "https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic"
             },
             {
+                "title": "Ray Tracing in One Weekend",
+                "href": "https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078"
+            },
+            {
+                "title": "From object transition to RCE in the Chrome renderer",
+                "href": "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
+            },
+            {
+                "title": "A Taxonomy of Tech Debt",
+                "href": "https://technology.riotgames.com/news/taxonomy-tech-debt"
+            },
+            {
                 "title": "The Perils of Future-Coding",
                 "href": "https://www.sebastiansylvan.com/post/the-perils-of-future-coding/"
             },
             {
                 "title": "Distributed == Relational",
                 "href": "https://frest.substack.com/p/distributed-relational"
-            },
-            {
-                "title": "Go 1.23 Release Notes",
-                "href": "https://go.dev/doc/go1.23"
-            },
-            {
-                "title": "A practitioner's guide to testing and running large GPU clusters for training generative AI models",
-                "href": "https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models"
-            },
-            {
-                "title": "Go is my hammer, and everything is a nail",
-                "href": "https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail"
-            },
-            {
-                "title": "Announcing Lix 2.91 \"Dragon's Breath\"",
-                "href": "https://lix.systems/blog/2024-08-12-lix-2.91-release/"
             }
         ]
     },
@@ -136,16 +136,16 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1eqlj9k/all_security_news_with_allinfosecnews_going_down/"
             },
             {
-                "title": "How to find XML External Entity (XXE) vulnerabilities in Code \u200b(C++)",
-                "href": "https://www.reddit.com/r/netsec/comments/1eqzg64/how_to_find_xml_external_entity_xxe/"
-            },
-            {
                 "title": "Announcing the Bug Bounty program pack 1.0",
                 "href": "https://www.reddit.com/r/netsec/comments/1eqp7mm/announcing_the_bug_bounty_program_pack_10/"
             },
             {
                 "title": "Protecting Mission Critical Assets within the Energy & Utilities Industry",
                 "href": "https://www.reddit.com/r/netsec/comments/1er0p6m/protecting_mission_critical_assets_within_the/"
+            },
+            {
+                "title": "How to find XML External Entity (XXE) vulnerabilities in Code \u200b(C++)",
+                "href": "https://www.reddit.com/r/netsec/comments/1eqzg64/how_to_find_xml_external_entity_xxe/"
             },
             {
                 "title": "Microprobing with ICEBite - A Definitive guide fo soldeless testing probes - Hello! Welcome to IoTSecurity101 by @iotsecurity101",
@@ -217,6 +217,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft fixes issue that sent PCs into BitLocker recovery",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-issue-that-sent-pcs-into-bitlocker-recovery/"
+            },
+            {
+                "title": "Windows 11 KB5041585 cumulative update released with fixes, new features",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5041585-cumulative-update-released-with-fixes-new-features/"
+            },
+            {
                 "title": "Windows 10 KB5041580 update released with 14 fixes, security updates",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5041580-update-released-with-14-fixes-security-updates/"
             },
@@ -263,14 +271,6 @@
             {
                 "title": "Microsoft shares Outlook workaround for Gmail sign-in issues",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-outlook-workaround-for-gmail-sign-in-issues/"
-            },
-            {
-                "title": "Google deactivates Russian AdSense accounts, sends final payments",
-                "href": "https://www.bleepingcomputer.com/news/google/google-deactivates-russian-adsense-accounts-sends-final-payments/"
-            },
-            {
-                "title": "Criminal IP and Maltego Join Forces for Enhanced Cyber Threat Search",
-                "href": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-maltego-join-forces-for-enhanced-cyber-threat-search/"
             }
         ]
     },
@@ -593,6 +593,22 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/node/21966"
+            },
+            {
+                "title": "Rockwell Automation GuardLogix/ControlLogix 5580 Controller",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-03"
+            },
+            {
+                "title": "Rockwell Automation FactoryTalk View Site Edition",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-06"
+            },
+            {
+                "title": "Rockwell Automation ControlLogix, GuardLogix 5580, CompactLogix, Compact GuardLogix 5380",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-09"
+            },
+            {
                 "title": "AVEVA SuiteLink Server",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-01"
             },
@@ -615,22 +631,6 @@
             {
                 "title": "Rockwell Automation DataMosaix Private Cloud",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-05"
-            },
-            {
-                "title": "Ocean Data Systems Dream Report",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-08"
-            },
-            {
-                "title": "CISA Releases Ten Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/08/13/cisa-releases-ten-industrial-control-systems-advisories"
-            },
-            {
-                "title": "Rockwell Automation GuardLogix/ControlLogix 5580 Controller",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-03"
-            },
-            {
-                "title": "Rockwell Automation FactoryTalk View Site Edition",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-226-06"
             }
         ]
     },
@@ -803,7 +803,7 @@
                 "href": "item?id=41236273"
             },
             {
-                "title": "A C/C++ library for audio and music analysis",
+                "title": "AudioFlux: A C/C++ library for audio and music analysis",
                 "href": "https://github.com/libAudioFlux/audioFlux"
             },
             {
@@ -811,20 +811,16 @@
                 "href": "https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/"
             },
             {
-                "title": "The Webb Telescope further deepens the biggest controversy in cosmology",
+                "title": "Google Pixel 9 Pro",
+                "href": "https://store.google.com/us/product/pixel_9_pro?hl=en-US"
+            },
+            {
+                "title": "The Webb Telescope further deepens the Hubble tension controversy in cosmology",
                 "href": "https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/"
             },
             {
                 "title": "You've got to hide your myopia away: John Lennon's contact lenses",
                 "href": "https://onlinelibrary.wiley.com/doi/10.1111/opo.13351"
-            },
-            {
-                "title": "Google Pixel 9 Pro",
-                "href": "https://store.google.com/us/product/pixel_9_pro?hl=en-US"
-            },
-            {
-                "title": "Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer",
-                "href": "item?id=41237200"
             },
             {
                 "title": "Launch HN: Shaped (YC W22) \u2013 AI-Powered Recommendations and Search",
@@ -835,88 +831,92 @@
                 "href": "https://dualpower.supply/posts/rfb-kit-workshop/"
             },
             {
-                "title": "Tell HN: Google OAuth consent screen issue could be costing you signups",
-                "href": "item?id=41236745"
+                "title": "Retell AI (YC W24) Is Hiring a Full Stack Engineer and a Support Engineer",
+                "href": "item?id=41237200"
             },
             {
                 "title": "What you learn by making a new programming language",
                 "href": "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/"
             },
             {
-                "title": "Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth",
-                "href": "https://github.com/callisto-lang/compiler"
+                "title": "Emacs: Contextual Interfaces in Casual Calc",
+                "href": "http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html"
             },
             {
                 "title": "Show HN: Stipple Effect \u2013 a scriptable pixel art editor to make game art faster",
                 "href": "https://github.com/jbunke/stipple-effect"
             },
             {
-                "title": "Emacs: Contextual Interfaces in Casual Calc",
-                "href": "http://yummymelon.com/devnull/contextual-interfaces-in-casual-calc.html"
-            },
-            {
-                "title": "Serena: An experimental operating system for 32bit Amiga computers",
-                "href": "https://github.com/dplanitzer/Serena"
-            },
-            {
-                "title": "Printf Oriented Message Protocol",
-                "href": "https://github.com/Parrot-Developers/libpomp"
+                "title": "How the Totem Compass Works",
+                "href": "https://www.totemlabs.com/post/how-the-totem-compass-works"
             },
             {
                 "title": "Open-source tool translates and dubs videos into other languages using AI",
                 "href": "https://github.com/jianchang512/pyvideotrans"
             },
             {
-                "title": "Hacking the largest airline and hotel rewards platform (2023)",
-                "href": "https://samcurry.net/points-com"
+                "title": "Callisto: Reverse polish notation programming language inspired by YSL-C3, Forth",
+                "href": "https://github.com/callisto-lang/compiler"
             },
             {
-                "title": "0xCAFEBABE & 0xFEEDFACE (2003)",
-                "href": "http://radio-weblogs.com/0100490/2003/01/28.html"
+                "title": "National Instruments acquired by Emerson",
+                "href": "https://www.ni.com/en/perspectives/letter-to-customers.html"
             },
             {
-                "title": "The new PostgreSQL 17 make dist",
-                "href": "http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist"
+                "title": "Printf Oriented Message Protocol",
+                "href": "https://github.com/Parrot-Developers/libpomp"
+            },
+            {
+                "title": "Serena: An experimental operating system for 32bit Amiga computers",
+                "href": "https://github.com/dplanitzer/Serena"
+            },
+            {
+                "title": "EFF\u2019s concerns about the UN Cybercrime Convention",
+                "href": "https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention"
+            },
+            {
+                "title": "Show HN: SpecOS \u2013 A 64 bit OS kernel from scratch",
+                "href": "https://github.com/jakeSteinburger/SpecOS"
+            },
+            {
+                "title": "Of mice and men and Magdalen: C. S. Lewis\u2019s Oxford",
+                "href": "https://thecritic.co.uk/issues/july-2024/of-mice-and-men-and-magdalen/"
+            },
+            {
+                "title": "SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level",
+                "href": "https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/"
+            },
+            {
+                "title": "Using Lego bricks to model DNA replication (2015)",
+                "href": "https://www.scienceandmathwithmrslau.com/2015/01/using-lego-bricks-model-dna-replication/"
+            },
+            {
+                "title": "Hcreate(3)",
+                "href": "https://linux.die.net/man/3/hcreate"
+            },
+            {
+                "title": "The Record: Music before mass production",
+                "href": "https://www.historytoday.com/miscellanies/record-music-mass-production"
+            },
+            {
+                "title": "Quote-unquote \"macros\"",
+                "href": "https://ianthehenry.com/posts/quote-unquote-macros/"
+            },
+            {
+                "title": "Ancient calendar, recently discovered, may document a long-ago disaster",
+                "href": "https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html"
             },
             {
                 "title": "Rodney Brooks\u2019s Three Laws of Robotics",
                 "href": "https://spectrum.ieee.org/rodney-brooks-three-laws-robotics"
             },
             {
-                "title": "Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig",
-                "href": "https://github.com/judofyr/spice"
+                "title": "SponsorBlock \u2013 skip sponsor segments on YouTube",
+                "href": "https://sponsor.ajay.app/"
             },
             {
-                "title": "Visualizing Complex Functions",
-                "href": "https://vankessel.io/visualizing-complex-functions"
-            },
-            {
-                "title": "Are we living in the age of info-determinism?",
-                "href": "https://www.newyorker.com/culture/open-questions/are-we-living-in-the-age-of-info-determinism"
-            },
-            {
-                "title": "Show HN: See the impact on your cloud costs as you code",
-                "href": "item?id=41235038"
-            },
-            {
-                "title": "There Is No Antimemetics Division (2018)",
-                "href": "https://qntm.org/scp"
-            },
-            {
-                "title": "Repair and Remain (2022)",
-                "href": "https://comment.org/repair-and-remain/"
-            },
-            {
-                "title": "Someone's been messing with Python's floating point subnormals",
-                "href": "https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html"
-            },
-            {
-                "title": "Antifragility in complex dynamical systems",
-                "href": "https://www.nature.com/articles/s44260-024-00014-y"
-            },
-            {
-                "title": "Open source laser microphone picks up laptop keystrokes",
-                "href": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/"
+                "title": "Hacking the largest airline and hotel rewards platform (2023)",
+                "href": "https://samcurry.net/points-com"
             }
         ]
     }
