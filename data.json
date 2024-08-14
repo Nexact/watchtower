@@ -7,12 +7,12 @@
                 "href": "https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/"
             },
             {
-                "title": "Weekly Lobsters office hours + development",
-                "href": "https://push.cx/stream"
-            },
-            {
                 "title": "Practices of Reliable Software Design",
                 "href": "https://two-wrongs.com/practices-of-reliable-software-design"
+            },
+            {
+                "title": "Weekly Lobsters office hours + development",
+                "href": "https://push.cx/stream"
             },
             {
                 "title": "Planning Weekly Workouts in 100 lines of Haskell",
@@ -29,6 +29,14 @@
             {
                 "title": "Go 1.23 Release Notes",
                 "href": "https://go.dev/doc/go1.23"
+            },
+            {
+                "title": "Logtalk introduction",
+                "href": "https://logtalk.org/learning/logtalk_introduction.pdf"
+            },
+            {
+                "title": "Run Diablo I in your browser",
+                "href": "https://d07riv.github.io/diabloweb/"
             },
             {
                 "title": "Against Names",
@@ -51,10 +59,6 @@
                 "href": "https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application"
             },
             {
-                "title": "Logtalk introduction",
-                "href": "https://logtalk.org/learning/logtalk_introduction.pdf"
-            },
-            {
                 "title": "Basic MetaProgramming in Zig",
                 "href": "https://www.openmymind.net/Basic-MetaProgramming-in-Zig/"
             },
@@ -63,24 +67,16 @@
                 "href": "https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/"
             },
             {
-                "title": "End of the Road for Lambda: Choco's Journey to Kubernetes",
-                "href": "https://choco.com/us/stories/life-at-choco/journey-to-kubernetes"
-            },
-            {
                 "title": "Forge 0.4.0 and 0.4.1 released",
                 "href": "https://emacsair.me/2024/08/14/forge-0.4/"
             },
             {
-                "title": "Run Diablo I in your browser",
-                "href": "https://d07riv.github.io/diabloweb/"
+                "title": "Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics",
+                "href": "https://uwheel.rs/post/datafusion_uwheel/"
             },
             {
                 "title": "Safe curves for elliptic curve cryptography",
                 "href": "https://eprint.iacr.org/2024/1265.pdf"
-            },
-            {
-                "title": "Eric S Raymond talking about The Cathedral and the Bazaar",
-                "href": "http://www.catb.org/esr/writings/cathedral-bazaar/linux1_d50_96kbs.mp3"
             },
             {
                 "title": "Some thoughts on OpenSSH 9.8's PerSourcePenalties feature",
@@ -97,6 +93,10 @@
             {
                 "title": "HTTP/1.0 From Scratch",
                 "href": "https://kmcd.dev/posts/http1.0-from-scratch/"
+            },
+            {
+                "title": "Why exploits prefer memory corruption",
+                "href": "https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html"
             },
             {
                 "title": "The Perils of Future-Coding",
@@ -152,16 +152,16 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1eqzg64/how_to_find_xml_external_entity_xxe/"
             },
             {
-                "title": "Wormable Substack XSS",
-                "href": "https://www.reddit.com/r/netsec/comments/1eql0xd/wormable_substack_xss/"
-            },
-            {
                 "title": "Microprobing with ICEBite - A Definitive guide fo soldeless testing probes - Hello! Welcome to IoTSecurity101 by @iotsecurity101",
                 "href": "https://www.reddit.com/r/netsec/comments/1eq56q8/microprobing_with_icebite_a_definitive_guide_fo/"
             },
             {
                 "title": "Protecting Mission Critical Assets within the Energy & Utilities Industry",
                 "href": "https://www.reddit.com/r/netsec/comments/1er0p6m/protecting_mission_critical_assets_within_the/"
+            },
+            {
+                "title": "Wormable Substack XSS",
+                "href": "https://www.reddit.com/r/netsec/comments/1eql0xd/wormable_substack_xss/"
             },
             {
                 "title": "What\u2019s the worst place to leave your secrets? \u2013 Research into what happens to AWS credentials that are left in public places",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft is Enabling BitLocker Device Encryption By Default on Windows 11",
+                "href": "https://tech.slashdot.org/story/24/08/14/1559240/microsoft-is-enabling-bitlocker-device-encryption-by-default-on-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Nintendo Completely Sat Out the Video Game Graphics Wars. It's Winning Anyway.",
                 "href": "https://games.slashdot.org/story/24/08/14/1550224/nintendo-completely-sat-out-the-video-game-graphics-wars-its-winning-anyway?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Flipboard Users Can Now Follow Anyone In the Fediverse",
                 "href": "https://tech.slashdot.org/story/24/08/13/216230/flipboard-users-can-now-follow-anyone-in-the-fediverse?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Deep-Live-Cam Goes Viral, Allowing Anyone To Become a Digital Doppelganger",
-                "href": "https://tech.slashdot.org/story/24/08/13/2057227/deep-live-cam-goes-viral-allowing-anyone-to-become-a-digital-doppelganger?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,84 +799,104 @@
                 "href": "https://ytch.xyz"
             },
             {
+                "title": "Visual Data Structures Cheat-Sheet",
+                "href": "https://photonlines.substack.com/p/visual-data-structures-cheat-sheet"
+            },
+            {
                 "title": "Kiota: OpenAPI-Based HTTP Client Code Generator",
                 "href": "https://github.com/microsoft/kiota"
-            },
-            {
-                "title": "Sort, sweep, and prune: Collision detection algorithms",
-                "href": "https://leanrada.com/notes/sweep-and-prune/"
-            },
-            {
-                "title": "Dune Scientists Observe First Neutrinos with Prototype Detector at Fermilab",
-                "href": "https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/"
             },
             {
                 "title": "A Different Kind of Keyboard",
                 "href": "https://ianthehenry.com/posts/peggi/"
             },
             {
-                "title": "The Syndicated Actor Model",
-                "href": "https://syndicate-lang.org/about/"
+                "title": "Sort, sweep, and prune: Collision detection algorithms",
+                "href": "https://leanrada.com/notes/sweep-and-prune/"
             },
             {
-                "title": "Tmpmail: Temporary email right from your terminal written in POSIX sh",
-                "href": "https://github.com/sdushantha/tmpmail"
+                "title": "CoinTracker (YC W18) Is Hiring a Consumer Product Lead",
+                "href": "https://jobs.ashbyhq.com/cointracker/83a181d0-f08c-44ff-8b8c-e0ad3b7a89a1?utm_source=hackernews"
             },
             {
-                "title": "All of Earth's water in a single sphere (2019)",
-                "href": "https://www.usgs.gov/media/images/all-earths-water-a-single-sphere"
-            },
-            {
-                "title": "Show HN: We made a tool to help developers improve OpenAPI specs",
-                "href": "https://github.com/zuplo/rate-my-openapi"
-            },
-            {
-                "title": "Launch HN: Promi (YC S24) \u2013 AI-powered ecommerce discounts",
-                "href": "item?id=41247211"
+                "title": "Dune Scientists Observe First Neutrinos with Prototype Detector at Fermilab",
+                "href": "https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/"
             },
             {
                 "title": "Some thoughts on OpenSSH 9.8's PerSourcePenalties feature",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings"
             },
             {
-                "title": "Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)",
-                "href": "https://spectrum.ieee.org/of-modes-and-men"
-            },
-            {
-                "title": "Circle Medical (YC S15) Is Hiring Ruby/Rails Engineers in Montreal",
-                "href": "https://jobs.lever.co/circlemedical/980b39bf-38a3-4b0d-802c-442394b48bf2"
-            },
-            {
                 "title": "Project Oak by Google",
                 "href": "https://github.com/project-oak/oak"
+            },
+            {
+                "title": "Tmpmail: Temporary email right from your terminal written in POSIX sh",
+                "href": "https://github.com/sdushantha/tmpmail"
+            },
+            {
+                "title": "The Syndicated Actor Model",
+                "href": "https://syndicate-lang.org/about/"
+            },
+            {
+                "title": "All of Earth's water in a single sphere (2019)",
+                "href": "https://www.usgs.gov/media/images/all-earths-water-a-single-sphere"
+            },
+            {
+                "title": "Launch HN: Promi (YC S24) \u2013 AI-powered ecommerce discounts",
+                "href": "item?id=41247211"
+            },
+            {
+                "title": "Show HN: We made a tool to help developers improve OpenAPI specs",
+                "href": "https://github.com/zuplo/rate-my-openapi"
+            },
+            {
+                "title": "Mark Zuckerberg unveils giant Roman sculpture of his wife \u2013 AP News",
+                "href": "https://apnews.com/video/social-media-national-national-2a82183dc6804624bb49de45ed710a9d"
             },
             {
                 "title": "Approximating sum types in Python with Pydantic",
                 "href": "https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic"
             },
             {
+                "title": "From Sets to Categories",
+                "href": "https://abuseofnotation.github.io/category-theory-illustrated/02_category/"
+            },
+            {
                 "title": "Re-fixing Servo's event-loop",
                 "href": "https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385"
             },
             {
-                "title": "From Sets to Categories",
-                "href": "https://abuseofnotation.github.io/category-theory-illustrated/02_category/"
+                "title": "Larry Tesler pioneered cut-and-paste, the one-button mouse, WYSIWIG (2005)",
+                "href": "https://spectrum.ieee.org/of-modes-and-men"
             },
             {
                 "title": "ARPA-H announces awards to develop novel technologies for precise tumor removal",
                 "href": "https://arpa-h.gov/news-and-events/arpa-h-announces-awards-develop-novel-technologies-precise-tumor-removal"
             },
             {
-                "title": "Ancient calendar, recently discovered, may document a long-ago disaster",
-                "href": "https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html"
+                "title": "Korea EV explosion prompts charging rethink, sparks safety fears",
+                "href": "https://www.japantimes.co.jp/business/2024/08/08/tech/korea-ev-explosion-safety-fears/"
+            },
+            {
+                "title": "Don't make your own game engine [video]",
+                "href": "https://www.youtube.com/watch?v=KgY6LQ46F5M"
             },
             {
                 "title": "Launch HN: Trellis (YC W24) \u2013 AI-powered workflows for unstructured data",
                 "href": "item?id=41236273"
             },
             {
+                "title": "Ancient calendar, recently discovered, may document a long-ago disaster",
+                "href": "https://www.nytimes.com/2024/08/10/world/asia/worlds-oldest-calendar-gobekli-tepe.html"
+            },
+            {
                 "title": "The Webb Telescope further deepens the Hubble tension controversy in cosmology",
                 "href": "https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/"
+            },
+            {
+                "title": "An approach to optimizing TypeScript type checking performance",
+                "href": "https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload"
             },
             {
                 "title": "Safe curves for Elliptic Curve Cryptography [pdf]",
@@ -887,32 +907,12 @@
                 "href": "https://donydchen.github.io/mvsplat/"
             },
             {
-                "title": "An approach to optimizing TypeScript type checking performance",
-                "href": "https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#how-do-we-quantify-the-type-checker-s-workload"
-            },
-            {
-                "title": "Don't make your own game engine [video]",
-                "href": "https://www.youtube.com/watch?v=KgY6LQ46F5M"
+                "title": "Integration and Android",
+                "href": "https://stratechery.com/2024/integration-and-android/"
             },
             {
                 "title": "EFF\u2019s concerns about the UN Cybercrime Convention",
                 "href": "https://www.eff.org/deeplinks/2024/07/effs-concerns-about-un-draft-cybercrime-convention"
-            },
-            {
-                "title": "AudioFlux: A C/C++ library for audio and music analysis",
-                "href": "https://github.com/libAudioFlux/audioFlux"
-            },
-            {
-                "title": "An open-source flow battery kit",
-                "href": "https://dualpower.supply/posts/rfb-kit-workshop/"
-            },
-            {
-                "title": "Entangled Photons Maintained Under New York Streets",
-                "href": "https://physics.aps.org/articles/v17/125"
-            },
-            {
-                "title": "You've got to hide your myopia away: John Lennon's contact lenses",
-                "href": "https://onlinelibrary.wiley.com/doi/10.1111/opo.13351"
             }
         ]
     }
