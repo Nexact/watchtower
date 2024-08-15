@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Font with Built-In Syntax Highlighting",
-                "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
-            },
-            {
                 "title": "It works on my machine. Why?",
                 "href": "https://thoughtbot.com/blog/it-works-on-my-machine-why"
             },
             {
+                "title": "Font with Built-In Syntax Highlighting",
+                "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
+            },
+            {
                 "title": "Why We Picked AGPL",
                 "href": "https://blog.paradedb.com/pages/agpl"
+            },
+            {
+                "title": "10 years of Dear ImGui",
+                "href": "https://github.com/ocornut/imgui/issues/7892"
             },
             {
                 "title": "CSVs Are Kinda Bad. DSVs Are Kinda Good",
@@ -27,16 +31,12 @@
                 "href": "https://two-wrongs.com/practices-of-reliable-software-design"
             },
             {
-                "title": "AES encryption in Go",
-                "href": "https://bitfieldconsulting.com/posts/aes-encryption"
-            },
-            {
-                "title": "10 years of Dear ImGui",
-                "href": "https://github.com/ocornut/imgui/issues/7892"
-            },
-            {
                 "title": "Programming Pearls: bumper sticker computer science",
                 "href": "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
+            },
+            {
+                "title": "AES encryption in Go",
+                "href": "https://bitfieldconsulting.com/posts/aes-encryption"
             },
             {
                 "title": "A Rust-based BLE Heart Rate Monitor TUI",
@@ -71,12 +71,20 @@
                 "href": "https://scvalex.net/posts/70/"
             },
             {
-                "title": "3 reasons traces are better than metrics for debugging your application",
-                "href": "https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application"
+                "title": "Metaprogramming in bash",
+                "href": "http://adam.younglogic.com/2024/08/metaprogramming-in-bash/"
+            },
+            {
+                "title": "Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp",
+                "href": "https://arxiv.org/abs/2303.12254"
             },
             {
                 "title": "Linux memory overcommit (2007)",
                 "href": "https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1"
+            },
+            {
+                "title": "3 reasons traces are better than metrics for debugging your application",
+                "href": "https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application"
             },
             {
                 "title": "Optimizing SPA load times with async chunks preloading",
@@ -87,20 +95,12 @@
                 "href": "https://jonathanolson.net/exact-polygonal-filtering"
             },
             {
-                "title": "Metaprogramming in bash",
-                "href": "http://adam.younglogic.com/2024/08/metaprogramming-in-bash/"
-            },
-            {
                 "title": "Will Postgres development rely on mailing lists forever?",
                 "href": "https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/"
             },
             {
                 "title": "Building Type Search for Unison",
                 "href": "https://chrispenner.ca/posts/unison-type-search"
-            },
-            {
-                "title": "Weekly Lobsters office hours + development",
-                "href": "https://push.cx/stream"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Inside the \"3 Billion People\" National Public Data Breach",
                 "href": "https://www.reddit.com/r/netsec/comments/1est9qj/inside_the_3_billion_people_national_public_data/"
+            },
+            {
+                "title": "MSI motherboards susceptible to code execution & firmware implant - analysis of CVE-2024-36877",
+                "href": "https://www.reddit.com/r/netsec/comments/1et0e1x/msi_motherboards_susceptible_to_code_execution/"
             },
             {
                 "title": "Mixing watering hole attacks with history leak via CSS",
@@ -206,10 +210,6 @@
             {
                 "title": "Black Hat USA 2024 is running with a lot of great presentations",
                 "href": "https://www.reddit.com/r/netsec/comments/1engosw/black_hat_usa_2024_is_running_with_a_lot_of_great/"
-            },
-            {
-                "title": "Exploiting pfsense Remote Code Execution \u2013 CVE-2022-31814",
-                "href": "https://www.reddit.com/r/netsec/comments/1enrins/exploiting_pfsense_remote_code_execution/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Redbox App Axed, Dashing People's Hopes of Keeping Purchased Content",
+                "href": "https://entertainment.slashdot.org/story/24/08/15/1648227/redbox-app-axed-dashing-peoples-hopes-of-keeping-purchased-content?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Google Sold Android Phones With Hidden Insecure Feature, Companies Find",
                 "href": "https://tech.slashdot.org/story/24/08/15/165206/google-sold-android-phones-with-hidden-insecure-feature-companies-find?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Intel Sells $147 Million Stake In Arm",
                 "href": "https://slashdot.org/story/24/08/14/2051242/intel-sells-147-million-stake-in-arm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Research AI Model Unexpectedly Modified Its Own Code To Extend Runtime",
-                "href": "https://developers.slashdot.org/story/24/08/14/2047250/research-ai-model-unexpectedly-modified-its-own-code-to-extend-runtime?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,6 +799,10 @@
                 "href": "https://golem.ph.utexas.edu/category/2024/08/galois_theory.html"
             },
             {
+                "title": "Launch HN: Hamming (YC S24) \u2013 Automated Testing for Voice Agents",
+                "href": "item?id=41257369"
+            },
+            {
                 "title": "YouTube Video to Tabs and Lyrics",
                 "href": "https://github.com/JoinMusic/fish"
             },
@@ -807,12 +811,12 @@
                 "href": "https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/"
             },
             {
-                "title": "Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels",
-                "href": "https://mobiusml.github.io/gemlite_blogpost/"
+                "title": "RankScience (YC W17) is hiring to supercharge SEO for startups",
+                "href": "https://remotejobs.org/companies/rankscience-remote-jobs"
             },
             {
-                "title": "Launch HN: Hamming (YC S24) \u2013 Automated Testing for Voice Agents",
-                "href": "item?id=41257369"
+                "title": "Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels",
+                "href": "https://mobiusml.github.io/gemlite_blogpost/"
             },
             {
                 "title": "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
@@ -827,10 +831,6 @@
                 "href": "https://github.com/avishek-sen-gupta/cobol-rekt"
             },
             {
-                "title": "The AMD Ryzen 9 9950X and Ryzen 9 9900X Review: Flagship Zen 5 Soars and Stalls",
-                "href": "https://www.anandtech.com/show/21524/the-amd-ryzen-9-9950x-and-ryzen-9-9900x-review"
-            },
-            {
                 "title": "Open Source FPGA Expansion Card for the Apple II",
                 "href": "https://wiki.reactivemicro.com/A2FPGA"
             },
@@ -839,36 +839,24 @@
                 "href": "https://www.cockroachlabs.com/enterprise-license-update/"
             },
             {
-                "title": "Ego (YC W24, Gaming) Is Hiring Community Manager/Social Media Marketer",
-                "href": "https://www.ycombinator.com/companies/ego/jobs/rgl6DLy-community-manager-social-media-marketer-contract"
-            },
-            {
-                "title": "The History of Orthogonal Frequency Division Multiplexing (OFDM)",
-                "href": "https://ieeexplore.ieee.org/abstract/document/4698465"
+                "title": "Everything You Ever Wanted to Know about E. Coli (2008)",
+                "href": "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
             },
             {
                 "title": "Font with Built-In Syntax Highlighting",
                 "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
             },
             {
-                "title": "Book \u2013 Writing a C Compiler: Build a Real Programming Language from Scratch 2024",
-                "href": "https://nostarch.com/writing-c-compiler"
-            },
-            {
-                "title": "Everything You Ever Wanted to Know about E. Coli (2008)",
-                "href": "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
+                "title": "The History of Orthogonal Frequency Division Multiplexing (OFDM)",
+                "href": "https://ieeexplore.ieee.org/abstract/document/4698465"
             },
             {
                 "title": "How NASA brought the F-1 \u201cmoon rocket\u201d engine back to life (2013)",
                 "href": "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
             },
             {
-                "title": "Uncleftish Beholding",
-                "href": "https://en.wikipedia.org/wiki/Uncleftish_Beholding"
-            },
-            {
-                "title": "WriteFreely: An open source platform for building a writing space on the web",
-                "href": "https://writefreely.org/"
+                "title": "Book \u2013 Writing a C Compiler: Build a Real Programming Language from Scratch 2024",
+                "href": "https://nostarch.com/writing-c-compiler"
             },
             {
                 "title": "Cryptographic Right Answers: Post Quantum Edition",
@@ -877,6 +865,10 @@
             {
                 "title": "Hcreate(3)",
                 "href": "https://linux.die.net/man/3/hcreate"
+            },
+            {
+                "title": "WriteFreely: An open source platform for building a writing space on the web",
+                "href": "https://writefreely.org/"
             },
             {
                 "title": "Firedancer: Language for 2D shmups bullet-hell patterns",
@@ -899,16 +891,24 @@
                 "href": "https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit"
             },
             {
-                "title": "Markdown Is Meant to Be Shown: Stop Hiding the Syntax (2021)",
-                "href": "https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors"
-            },
-            {
                 "title": "Show HN: An online 2D MMO game, written in Rust and JavaScript",
                 "href": "https://polyfight.io/"
             },
             {
-                "title": "Google Deletes App on Pixel Phones\u2013'Dangerous' New Spyware Warning",
-                "href": "https://www.forbes.com/sites/zakdoffman/2024/08/15/new-pixel-warning-as-pixel-9-pixel-9-pro-pixel-9-pro-fold-release/"
+                "title": "Markdown Is Meant to Be Shown: Stop Hiding the Syntax (2021)",
+                "href": "https://daringfireball.net/linked/2021/03/05/snell-ios-markdown-editors"
+            },
+            {
+                "title": "When something that was working, suddenly doesn't work when demoing to others",
+                "href": "https://en.wiktionary.org/wiki/Vorf%C3%BChreffekt"
+            },
+            {
+                "title": "How one ED mobilized his department during a mass casualty incident (2017)",
+                "href": "https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/"
+            },
+            {
+                "title": "DUNE scientists observe first neutrinos with prototype detector at Fermilab",
+                "href": "https://newscenter.lbl.gov/2024/08/12/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/"
             }
         ]
     }
