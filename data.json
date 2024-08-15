@@ -19,12 +19,12 @@
                 "href": "https://blog.paradedb.com/pages/agpl"
             },
             {
-                "title": "Programming Pearls: bumper sticker computer science",
-                "href": "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
-            },
-            {
                 "title": "Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp",
                 "href": "https://arxiv.org/abs/2303.12254"
+            },
+            {
+                "title": "Programming Pearls: bumper sticker computer science",
+                "href": "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
             },
             {
                 "title": "CSVs Are Kinda Bad. DSVs Are Kinda Good",
@@ -59,8 +59,16 @@
                 "href": "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
             },
             {
+                "title": "Fixing the Rails 7+ networking stack",
+                "href": "https://thomascannon.me/guides/fixing-the-rails-networking-stack"
+            },
+            {
                 "title": "A Rust-based BLE Heart Rate Monitor TUI",
                 "href": "https://github.com/nullstalgia/null_iron_heart"
+            },
+            {
+                "title": "Easy file-sharing with WebDAV",
+                "href": "https://scvalex.net/posts/70/"
             },
             {
                 "title": "Run Diablo I in your browser",
@@ -69,10 +77,6 @@
             {
                 "title": "nltk version 3.8.2 is no longer available on PyPi",
                 "href": "https://github.com/nltk/nltk/issues/3301"
-            },
-            {
-                "title": "Easy file-sharing with WebDAV",
-                "href": "https://scvalex.net/posts/70/"
             },
             {
                 "title": "Locales, Encodings, and Unicode",
@@ -89,10 +93,6 @@
             {
                 "title": "Linux memory overcommit (2007)",
                 "href": "https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1"
-            },
-            {
-                "title": "Fixing the Rails 7+ networking stack",
-                "href": "https://thomascannon.me/guides/fixing-the-rails-networking-stack"
             },
             {
                 "title": "Metaprogramming in bash",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Climate Activists Stop Air Traffic After Breaking Into Four Airport Sites",
+                "href": "https://news.slashdot.org/story/24/08/15/2019210/climate-activists-stop-air-traffic-after-breaking-into-four-airport-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "ISPs Ask Supreme Court To Kill New York Law That Requires $15 Broadband Plans",
                 "href": "https://tech.slashdot.org/story/24/08/15/1944226/isps-ask-supreme-court-to-kill-new-york-law-that-requires-15-broadband-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "NIST Finalizes Trio of Post-Quantum Encryption Standards",
                 "href": "https://it.slashdot.org/story/24/08/14/2150250/nist-finalizes-trio-of-post-quantum-encryption-standards?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Artists Claim 'Big' Win In Copyright Suit Fighting AI Image Generators",
-                "href": "https://yro.slashdot.org/story/24/08/14/223234/artists-claim-big-win-in-copyright-suit-fighting-ai-image-generators?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,24 +799,36 @@
                 "href": "item?id=41257369"
             },
             {
+                "title": "Detecting Sign Language in News Videos",
+                "href": "https://vrroom.github.io/blog/2024/08/11/sign-detection.html"
+            },
+            {
+                "title": "Launch HN: Manaflow (YC S24) \u2013 Automate repetitive office work in tables",
+                "href": "item?id=41259754"
+            },
+            {
                 "title": "Show HN: High-precision date/time in SQLite",
                 "href": "https://antonz.org/sqlean-time/"
+            },
+            {
+                "title": "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
+                "href": "item?id=41260321"
             },
             {
                 "title": "Show HN: Denormalized \u2013 Embeddable Stream Processing in Rust and DataFusion",
                 "href": "https://github.com/probably-nothing-labs/denormalized"
             },
             {
-                "title": "Detecting Sign Language in News Videos",
-                "href": "https://vrroom.github.io/blog/2024/08/11/sign-detection.html"
+                "title": "Hermes 3: The First Fine-Tuned Llama 3.1 405B Model",
+                "href": "https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud"
             },
             {
-                "title": "Deals with the Devil Aren't What They Used to Be",
+                "title": "Deals with the devil aren't what they used to be",
                 "href": "https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review"
             },
             {
-                "title": "Artists Score Major Win in Copyright Case Against AI Art Generators",
-                "href": "https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/"
+                "title": "We Survived 10k Requests/Second: Switching to Signed Asset URLs in an Emergency",
+                "href": "https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls"
             },
             {
                 "title": "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
@@ -827,56 +839,68 @@
                 "href": "https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/"
             },
             {
+                "title": "Artists Score Major Win in Copyright Case Against AI Art Generators",
+                "href": "https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/"
+            },
+            {
                 "title": "Kioxia Demonstrates Raid Offload Scheme for NVMe Drives",
                 "href": "https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives"
-            },
-            {
-                "title": "Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing",
-                "href": "https://jonathanolson.net/exact-polygonal-filtering"
-            },
-            {
-                "title": "RankScience (YC W17) is hiring to supercharge SEO for startups",
-                "href": "https://remotejobs.org/companies/rankscience-remote-jobs"
-            },
-            {
-                "title": "How NASA brought the F-1 \u201cmoon rocket\u201d engine back to life (2013)",
-                "href": "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
             },
             {
                 "title": "Looking Glass' new lineup includes a $300 phone-sized holographic display",
                 "href": "https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/"
             },
             {
-                "title": "Open Source FPGA Expansion Card for the Apple II",
-                "href": "https://wiki.reactivemicro.com/A2FPGA"
-            },
-            {
                 "title": "Writing a C Compiler: Build a Real Programming Language from Scratch",
                 "href": "https://nostarch.com/writing-c-compiler"
             },
             {
-                "title": "Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL",
-                "href": "https://github.com/avishek-sen-gupta/cobol-rekt"
+                "title": "Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing",
+                "href": "https://jonathanolson.net/exact-polygonal-filtering"
             },
             {
-                "title": "Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels",
-                "href": "https://mobiusml.github.io/gemlite_blogpost/"
-            },
-            {
-                "title": "Font with Built-In Syntax Highlighting",
-                "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
+                "title": "Open Source FPGA Expansion Card for the Apple II",
+                "href": "https://wiki.reactivemicro.com/A2FPGA"
             },
             {
                 "title": "Security Clearances at the Speed of Startups",
                 "href": "https://steveblank.com/2024/08/13/security-clearances-at-the-speed-of-startups/"
             },
             {
+                "title": "Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL",
+                "href": "https://github.com/avishek-sen-gupta/cobol-rekt"
+            },
+            {
+                "title": "The history of orthogonal frequency-division multiplexing (2009)",
+                "href": "https://ieeexplore.ieee.org/abstract/document/5307460"
+            },
+            {
+                "title": "How NASA brought the F-1 \u201cmoon rocket\u201d engine back to life (2013)",
+                "href": "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
+            },
+            {
+                "title": "Why won't some people pay for news? (2022)",
+                "href": "https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257"
+            },
+            {
                 "title": "Cryptographic Right Answers: Post Quantum Edition",
                 "href": "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
             },
             {
+                "title": "Cleaning up the aging brain: Scientists restore brain's trash disposal system",
+                "href": "https://www.sciencedaily.com/releases/2024/08/240815124156.htm"
+            },
+            {
                 "title": "Programmers Don't Read Books \u2013 But You Should (2008)",
                 "href": "https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/"
+            },
+            {
+                "title": "WriteFreely: An open source platform for building a writing space on the web",
+                "href": "https://writefreely.org/"
+            },
+            {
+                "title": "Google is a monopoly \u2013 the fix isn't obvious",
+                "href": "https://www.theregister.com/2024/08/15/google_monopoly_fix/"
             },
             {
                 "title": "Markdown is meant to be shown (2021)",
@@ -885,30 +909,6 @@
             {
                 "title": "Everything You Ever Wanted to Know about E. Coli (2008)",
                 "href": "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
-            },
-            {
-                "title": "Google is a monopoly \u2013 the fix isn't obvious",
-                "href": "https://www.theregister.com/2024/08/15/google_monopoly_fix/"
-            },
-            {
-                "title": "WriteFreely: An open source platform for building a writing space on the web",
-                "href": "https://writefreely.org/"
-            },
-            {
-                "title": "The History of Orthogonal Frequency Division Multiplexing (OFDM)",
-                "href": "https://ieeexplore.ieee.org/abstract/document/4698465"
-            },
-            {
-                "title": "It's the land, stupid: How the homebuilder cartel drives high housing prices",
-                "href": "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"
-            },
-            {
-                "title": "CockroachDB License Change",
-                "href": "https://www.cockroachlabs.com/enterprise-license-update/"
-            },
-            {
-                "title": "Show HN: If YouTube had actual channels",
-                "href": "https://ytch.xyz"
             }
         ]
     }
