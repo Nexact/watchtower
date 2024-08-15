@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "10 years of Dear ImGui",
+                "href": "https://github.com/ocornut/imgui/issues/7892"
+            },
+            {
                 "title": "It works on my machine. Why?",
                 "href": "https://thoughtbot.com/blog/it-works-on-my-machine-why"
             },
@@ -11,12 +15,12 @@
                 "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
             },
             {
-                "title": "10 years of Dear ImGui",
-                "href": "https://github.com/ocornut/imgui/issues/7892"
-            },
-            {
                 "title": "Why We Picked AGPL",
                 "href": "https://blog.paradedb.com/pages/agpl"
+            },
+            {
+                "title": "Programming Pearls: bumper sticker computer science",
+                "href": "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
             },
             {
                 "title": "CSVs Are Kinda Bad. DSVs Are Kinda Good",
@@ -27,8 +31,8 @@
                 "href": "https://notes.neatnik.net/2024/08/passkeys-are-not-passwords"
             },
             {
-                "title": "Programming Pearls: bumper sticker computer science",
-                "href": "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
+                "title": "Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp",
+                "href": "https://arxiv.org/abs/2303.12254"
             },
             {
                 "title": "Practices of Reliable Software Design",
@@ -39,24 +43,20 @@
                 "href": "https://bitfieldconsulting.com/posts/aes-encryption"
             },
             {
-                "title": "Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp",
-                "href": "https://arxiv.org/abs/2303.12254"
+                "title": "Security Issues in Matrix\u2019s Olm Library",
+                "href": "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
             },
             {
                 "title": "A Rust-based BLE Heart Rate Monitor TUI",
                 "href": "https://github.com/nullstalgia/null_iron_heart"
             },
             {
-                "title": "Security Issues in Matrix\u2019s Olm Library",
-                "href": "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
+                "title": "Run Diablo I in your browser",
+                "href": "https://d07riv.github.io/diabloweb/"
             },
             {
                 "title": "nltk version 3.8.2 is no longer available on PyPi",
                 "href": "https://github.com/nltk/nltk/issues/3301"
-            },
-            {
-                "title": "Run Diablo I in your browser",
-                "href": "https://d07riv.github.io/diabloweb/"
             },
             {
                 "title": "Fellowship for Maintainers",
@@ -803,32 +803,68 @@
                 "href": "https://antonz.org/sqlean-time/"
             },
             {
-                "title": "YouTube Video to Tabs and Lyrics",
-                "href": "https://github.com/JoinMusic/fish"
+                "title": "Galois Theory of Algorithms (2018) [pdf]",
+                "href": "https://arxiv.org/abs/1011.0014"
+            },
+            {
+                "title": "Gemma explained: An overview of Gemma model family architectures",
+                "href": "https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/"
+            },
+            {
+                "title": "Artists Score Major Win in Copyright Case Against AI Art Generators",
+                "href": "https://www.hollywoodreporter.com/business/business-news/artists-score-major-win-copyright-case-against-ai-art-generators-1235973601/"
             },
             {
                 "title": "Kim Dotcom's extradition to the U.S. given green light by New Zealand",
                 "href": "https://torrentfreak.com/kim-dotcoms-extradition-to-the-u-s-given-green-light-by-new-zealand-240815/"
             },
             {
+                "title": "YouTube Video to Tabs and Lyrics",
+                "href": "https://github.com/JoinMusic/fish"
+            },
+            {
                 "title": "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
                 "href": "https://github.com/markqvist/NomadNet"
-            },
-            {
-                "title": "Kioxia Demonstrates Raid Offload Scheme for NVMe Drives",
-                "href": "https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives"
-            },
-            {
-                "title": "Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels",
-                "href": "https://mobiusml.github.io/gemlite_blogpost/"
             },
             {
                 "title": "RankScience (YC W17) is hiring to supercharge SEO for startups",
                 "href": "https://remotejobs.org/companies/rankscience-remote-jobs"
             },
             {
+                "title": "Judge tells Google: Play Store shakeup coming; punishment for running a monopoly",
+                "href": "https://apnews.com/article/google-play-store-android-apps-antitrust-monopoly-240b2493110660684198822c57e22a60"
+            },
+            {
                 "title": "Show HN: Denormalized \u2013 Embeddable Stream Processing in Rust and DataFusion",
                 "href": "https://github.com/probably-nothing-labs/denormalized"
+            },
+            {
+                "title": "Gemlite: Towards Building Custom Low-Bit Fused CUDA Kernels",
+                "href": "https://mobiusml.github.io/gemlite_blogpost/"
+            },
+            {
+                "title": "Stablecoins Can Have Bank Runs",
+                "href": "https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs"
+            },
+            {
+                "title": "Deals with the Devil Aren't What They Used to Be",
+                "href": "https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review"
+            },
+            {
+                "title": "Kioxia Demonstrates Raid Offload Scheme for NVMe Drives",
+                "href": "https://www.anandtech.com/show/21523/kioxia-demonstrates-raid-offload-scheme-for-nvme-drives"
+            },
+            {
+                "title": "Shell oil non-profit donated to anti-climate groups behind Project 2025",
+                "href": "https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis"
+            },
+            {
+                "title": "Teach TLDraw",
+                "href": "https://teach.tldraw.com/"
+            },
+            {
+                "title": "It's the Land, Stupid: How the Homebuilder Cartel Drives High Housing Prices",
+                "href": "https://www.thebignewsletter.com/p/its-the-land-stupid-how-the-homebuilder"
             },
             {
                 "title": "Open Source FPGA Expansion Card for the Apple II",
@@ -843,28 +879,28 @@
                 "href": "https://github.com/avishek-sen-gupta/cobol-rekt"
             },
             {
-                "title": "Galois Theory of Algorithms (2018) [pdf]",
-                "href": "https://arxiv.org/abs/1011.0014"
+                "title": "How NASA brought the F-1 \u201cmoon rocket\u201d engine back to life (2013)",
+                "href": "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
             },
             {
                 "title": "Book \u2013 Writing a C Compiler: Build a Real Programming Language from Scratch 2024",
                 "href": "https://nostarch.com/writing-c-compiler"
             },
             {
-                "title": "How NASA brought the F-1 \u201cmoon rocket\u201d engine back to life (2013)",
-                "href": "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
-            },
-            {
-                "title": "Deals with the Devil Aren't What They Used to Be",
-                "href": "https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review"
-            },
-            {
                 "title": "Font with Built-In Syntax Highlighting",
                 "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
             },
             {
+                "title": "Everything You Ever Wanted to Know about E. Coli (2008)",
+                "href": "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
+            },
+            {
                 "title": "The History of Orthogonal Frequency Division Multiplexing (OFDM)",
                 "href": "https://ieeexplore.ieee.org/abstract/document/4698465"
+            },
+            {
+                "title": "WriteFreely: An open source platform for building a writing space on the web",
+                "href": "https://writefreely.org/"
             },
             {
                 "title": "CockroachDB License Change",
@@ -873,42 +909,6 @@
             {
                 "title": "Cryptographic Right Answers: Post Quantum Edition",
                 "href": "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
-            },
-            {
-                "title": "WriteFreely: An open source platform for building a writing space on the web",
-                "href": "https://writefreely.org/"
-            },
-            {
-                "title": "Everything You Ever Wanted to Know about E. Coli (2008)",
-                "href": "https://www.scientificamerican.com/podcast/episode/everything-you-ever-wanted-to-know-08-10-08/"
-            },
-            {
-                "title": "Firedancer: Language for 2D shmups bullet-hell patterns",
-                "href": "https://firedancer-lang.com/"
-            },
-            {
-                "title": "Show HN: If YouTube had actual channels",
-                "href": "https://ytch.xyz"
-            },
-            {
-                "title": "Inside the \"3 billion people\" national public data breach",
-                "href": "https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/"
-            },
-            {
-                "title": "Sort, sweep, and prune: Collision detection algorithms (2023)",
-                "href": "https://leanrada.com/notes/sweep-and-prune/"
-            },
-            {
-                "title": "The Myth of the Product-Market Fit (2013)",
-                "href": "https://blog.nishantsoni.com/p/the-myth-of-the-product-market-fit"
-            },
-            {
-                "title": "Show HN: An online 2D MMO game, written in Rust and JavaScript",
-                "href": "https://polyfight.io/"
-            },
-            {
-                "title": "How one ED mobilized his department during a mass casualty incident (2017)",
-                "href": "https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/"
             }
         ]
     }
