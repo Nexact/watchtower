@@ -43,6 +43,10 @@
                 "href": "https://two-wrongs.com/practices-of-reliable-software-design"
             },
             {
+                "title": "Fellowship for Maintainers",
+                "href": "https://www.sovereigntechfund.de/programs/fellowship"
+            },
+            {
                 "title": "AES encryption in Go",
                 "href": "https://bitfieldconsulting.com/posts/aes-encryption"
             },
@@ -55,12 +59,16 @@
                 "href": "https://brevzin.github.io/c++/2024/08/15/cnttp/"
             },
             {
-                "title": "Fellowship for Maintainers",
-                "href": "https://www.sovereigntechfund.de/programs/fellowship"
-            },
-            {
                 "title": "Security Issues in Matrix\u2019s Olm Library",
                 "href": "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
+            },
+            {
+                "title": "Easy file-sharing with WebDAV",
+                "href": "https://scvalex.net/posts/70/"
+            },
+            {
+                "title": "NanoLog: Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API",
+                "href": "https://github.com/PlatformLab/NanoLog"
             },
             {
                 "title": "Fixing the Rails 7+ networking stack",
@@ -73,10 +81,6 @@
             {
                 "title": "A Rust-based BLE Heart Rate Monitor TUI",
                 "href": "https://github.com/nullstalgia/null_iron_heart"
-            },
-            {
-                "title": "Easy file-sharing with WebDAV",
-                "href": "https://scvalex.net/posts/70/"
             },
             {
                 "title": "Run Diablo I in your browser",
@@ -97,10 +101,6 @@
             {
                 "title": "Reflection-based JSON in C++ at Gigabytes per Second",
                 "href": "https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/"
-            },
-            {
-                "title": "Linux memory overcommit (2007)",
-                "href": "https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1"
             }
         ]
     },
@@ -266,6 +266,10 @@
         "feedname": "krebsonsecurity",
         "items": [
             {
+                "title": "NationalPublicData.com Hack Exposes a Nation\u2019s Data",
+                "href": "https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/"
+            },
+            {
                 "title": "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push",
                 "href": "https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/"
             },
@@ -300,16 +304,16 @@
             {
                 "title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
                 "href": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/"
-            },
-            {
-                "title": "Crooks Steal Phone, SMS Records for Nearly All AT&T Customers",
-                "href": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/"
             }
         ]
     },
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "AltStore PAL Drops Its Annual Subscription Thanks To a Grant From Epic",
+                "href": "https://news.slashdot.org/story/24/08/15/2034220/altstore-pal-drops-its-annual-subscription-thanks-to-a-grant-from-epic?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Hollywood Union Strikes Deal For Advertisers To Replicate Actors' Voices With AI",
                 "href": "https://slashdot.org/story/24/08/15/2027233/hollywood-union-strikes-deal-for-advertisers-to-replicate-actors-voices-with-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "Magic: The Gathering Community Fears Generative AI Will Replace Talented Artists",
                 "href": "https://games.slashdot.org/story/24/08/15/0154257/magic-the-gathering-community-fears-generative-ai-will-replace-talented-artists?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Researchers Figure Out How To Keep Clocks On the Earth, Moon In Sync",
-                "href": "https://science.slashdot.org/story/24/08/15/0145200/researchers-figure-out-how-to-keep-clocks-on-the-earth-moon-in-sync?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -787,32 +787,36 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "RP2350 PicoDVI Preview",
+                "href": "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
+            },
+            {
+                "title": "Black Mesa",
+                "href": "https://blackmesa.com/"
+            },
+            {
                 "title": "One man's quest to restore the first-ever Air Force One",
                 "href": "https://www.atlasobscura.com/articles/first-air-force-one"
             },
             {
-                "title": "RP2350 PicoDVI Preview",
-                "href": "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
+                "title": "Unix file access rwx permissions are simple but tricky",
+                "href": "https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/"
+            },
+            {
+                "title": "Slow Is Smooth, Smooth Is Fast: Navy SEALs' Efficiency Secret",
+                "href": "https://www.navyseal.com/slow-is-smooth-smooth-is-fast/"
             },
             {
                 "title": "Galois Theory",
                 "href": "https://golem.ph.utexas.edu/category/2024/08/galois_theory.html"
             },
             {
-                "title": "Weak supervision to isolate sign language communicators in crowded news videos",
-                "href": "https://vrroom.github.io/blog/2024/08/11/sign-detection.html"
+                "title": "How does it feel to test a compiler?",
+                "href": "https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065"
             },
             {
                 "title": "Launch HN: Hamming (YC S24) \u2013 Automated Testing for Voice Agents",
                 "href": "item?id=41257369"
-            },
-            {
-                "title": "Show HN: High-precision date/time in SQLite",
-                "href": "https://antonz.org/sqlean-time/"
-            },
-            {
-                "title": "Slow Is Smooth, Smooth Is Fast: Navy SEALs' Efficiency Secret",
-                "href": "https://www.navyseal.com/slow-is-smooth-smooth-is-fast/"
             },
             {
                 "title": "Launch HN: Manaflow (YC S24) \u2013 Automate repetitive office work in tables",
@@ -821,6 +825,14 @@
             {
                 "title": "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
                 "href": "item?id=41260321"
+            },
+            {
+                "title": "Show HN: High-precision date/time in SQLite",
+                "href": "https://antonz.org/sqlean-time/"
+            },
+            {
+                "title": "Weak supervision to isolate sign language communicators in crowded news videos",
+                "href": "https://vrroom.github.io/blog/2024/08/11/sign-detection.html"
             },
             {
                 "title": "Deals with the devil aren't what they used to be",
@@ -835,20 +847,12 @@
                 "href": "https://github.com/probably-nothing-labs/denormalized"
             },
             {
-                "title": "Unix file access rwx permissions are simple but tricky",
-                "href": "https://igoro.pro/a-reminder-unix-file-access-rwx-permissions-are-simple-but-tricky/"
-            },
-            {
-                "title": "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
-                "href": "https://github.com/markqvist/NomadNet"
-            },
-            {
                 "title": "Hermes 3: The First Fine-Tuned Llama 3.1 405B Model",
                 "href": "https://lambdalabs.com/blog/unveiling-hermes-3-the-first-fine-tuned-llama-3.1-405b-model-is-on-lambdas-cloud"
             },
             {
-                "title": "FoodAnalyze: Instant Food Label Analysis \u2013 Free for 24 Hours",
-                "href": "https://foodanalyze.com/"
+                "title": "Nomad, communicate off-grid mesh, forward secrecy and extreme privacy",
+                "href": "https://github.com/markqvist/NomadNet"
             },
             {
                 "title": "Kim Dotcom's extradition to the U.S. given green light by New Zealand",
@@ -859,16 +863,12 @@
                 "href": "https://steveblank.com/2024/08/13/security-clearances-at-the-speed-of-startups/"
             },
             {
-                "title": "How does it feel to test a compiler?",
-                "href": "https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065"
+                "title": "Cleaning up the aging brain: Scientists restore brain's trash disposal system",
+                "href": "https://www.sciencedaily.com/releases/2024/08/240815124156.htm"
             },
             {
                 "title": "Why won't some people pay for news? (2022)",
                 "href": "https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257"
-            },
-            {
-                "title": "Cleaning up the aging brain: Scientists restore brain's trash disposal system",
-                "href": "https://www.sciencedaily.com/releases/2024/08/240815124156.htm"
             },
             {
                 "title": "Writing a C Compiler: Build a Real Programming Language from Scratch",
@@ -887,14 +887,6 @@
                 "href": "https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/"
             },
             {
-                "title": "Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL",
-                "href": "https://github.com/avishek-sen-gupta/cobol-rekt"
-            },
-            {
-                "title": "The history of orthogonal frequency-division multiplexing (2009)",
-                "href": "https://ieeexplore.ieee.org/abstract/document/5307460"
-            },
-            {
                 "title": "Cryptographic Right Answers: Post Quantum Edition",
                 "href": "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
             },
@@ -903,8 +895,16 @@
                 "href": "https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"
             },
             {
-                "title": "Why we need Ladybird [audio]",
-                "href": "https://changelog.com/podcast/604"
+                "title": "The history of orthogonal frequency-division multiplexing (2009)",
+                "href": "https://ieeexplore.ieee.org/abstract/document/5307460"
+            },
+            {
+                "title": "Show HN: COBOL-REKT, a toolkit for analysing and reverse-engineering COBOL",
+                "href": "https://github.com/avishek-sen-gupta/cobol-rekt"
+            },
+            {
+                "title": "WriteFreely: An open source platform for building a writing space on the web",
+                "href": "https://writefreely.org/"
             }
         ]
     }
