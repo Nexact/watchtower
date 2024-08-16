@@ -15,16 +15,20 @@
                 "href": "http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/"
             },
             {
-                "title": "A comparison of Arenas in Rust",
-                "href": "https://donsz.nl/blog/arenas/"
-            },
-            {
                 "title": "Automating my /now page",
                 "href": "https://akashgoswami.dev/posts/automating-my-now-page/"
             },
             {
+                "title": "A comparison of Arenas in Rust",
+                "href": "https://donsz.nl/blog/arenas/"
+            },
+            {
                 "title": "10 years of Dear ImGui",
                 "href": "https://github.com/ocornut/imgui/issues/7892"
+            },
+            {
+                "title": "Decision Logs",
+                "href": "https://buttondown.com/j2kun/archive/decision-logs/"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -35,8 +39,8 @@
                 "href": "https://thoughtbot.com/blog/it-works-on-my-machine-why"
             },
             {
-                "title": "Decision Logs",
-                "href": "https://buttondown.com/j2kun/archive/decision-logs/"
+                "title": "Process Zero: The Anti-Intelligent Camera",
+                "href": "https://www.lux.camera/introducing-process-zero-for-iphone/"
             },
             {
                 "title": "Quote-unquote \"macros\"",
@@ -55,12 +59,12 @@
                 "href": "https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen"
             },
             {
-                "title": "Font with Built-In Syntax Highlighting",
-                "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
-            },
-            {
                 "title": "Mudita Kompakt",
                 "href": "https://mudita.com/kompakt/"
+            },
+            {
+                "title": "Font with Built-In Syntax Highlighting",
+                "href": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
             },
             {
                 "title": "Using OpenTelemetry and OTel Collector",
@@ -79,20 +83,16 @@
                 "href": "https://danluu.com/codenames/"
             },
             {
-                "title": "Process Zero: The Anti-Intelligent Camera",
-                "href": "https://www.lux.camera/introducing-process-zero-for-iphone/"
-            },
-            {
                 "title": "Programming Pearls: bumper sticker computer science",
                 "href": "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
             },
             {
-                "title": "Fellowship for Maintainers",
-                "href": "https://www.sovereigntechfund.de/programs/fellowship"
-            },
-            {
                 "title": "Reflection-based JSON in C++ at Gigabytes per Second",
                 "href": "https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/"
+            },
+            {
+                "title": "Fellowship for Maintainers",
+                "href": "https://www.sovereigntechfund.de/programs/fellowship"
             },
             {
                 "title": "Why We Picked AGPL",
@@ -114,6 +114,10 @@
             {
                 "title": "MIFARE Classic: exposing the static encrypted nonce variant",
                 "href": "https://www.reddit.com/r/netsec/comments/1etqy18/mifare_classic_exposing_the_static_encrypted/"
+            },
+            {
+                "title": "CVE-2024-41660: A Critical Vulnerability in OpenBMC",
+                "href": "https://www.reddit.com/r/netsec/comments/1etvmxf/cve202441660_a_critical_vulnerability_in_openbmc/"
             },
             {
                 "title": "MSI motherboards susceptible to code execution & firmware implant - analysis of CVE-2024-36877",
@@ -206,10 +210,6 @@
             {
                 "title": "We discovered critical vulnerabilities in 6 AWS services",
                 "href": "https://www.reddit.com/r/netsec/comments/1eodt01/we_discovered_critical_vulnerabilities_in_6_aws/"
-            },
-            {
-                "title": "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
-                "href": "https://www.reddit.com/r/netsec/comments/1eoifsh/confusion_attacks_exploiting_hidden_semantic/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "The Cheating Scandal Rocking the World of Elite High-School Math",
+                "href": "https://news.slashdot.org/story/24/08/16/1733236/the-cheating-scandal-rocking-the-world-of-elite-high-school-math?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
                 "href": "https://it.slashdot.org/story/24/08/16/1655221/thousands-of-corporate-secrets-were-left-exposed-this-guy-found-them-all?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Intel and Karma Partner To Develop Software-Defined Car Architecture",
                 "href": "https://tech.slashdot.org/story/24/08/15/2045250/intel-and-karma-partner-to-develop-software-defined-car-architecture?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AltStore PAL Drops Its Annual Subscription Thanks To a Grant From Epic",
-                "href": "https://news.slashdot.org/story/24/08/15/2034220/altstore-pal-drops-its-annual-subscription-thanks-to-a-grant-from-epic?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,80 +795,108 @@
                 "href": "https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/"
             },
             {
-                "title": "Crafting a 13KB Game: The Story of Space Huggers",
-                "href": "https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/"
-            },
-            {
-                "title": "Can Large Language Models Understand Symbolic Graphics Programs?",
-                "href": "https://www.arxiv.org/abs/2408.08313"
+                "title": "The Apple IIGS Megahertz Myth \u2013 Userlandia",
+                "href": "https://www.userlandia.com/home/iigs-mhz-myth"
             },
             {
                 "title": "Does Reasoning Emerge? Probabilities of Causation in Large Language Models",
                 "href": "https://arxiv.org/abs/2408.08210"
             },
             {
-                "title": "Show HN: Cleed \u2013 Simple feed reader for the command line",
-                "href": "https://github.com/radulucut/cleed"
+                "title": "Discrete Mathematics \u2013 An Open Introduction 4ed (By Oscar Levin)",
+                "href": "https://discrete.openmathbooks.org/dmoi4.html"
             },
             {
-                "title": "PyScript: An open source platform for Python in the browser",
-                "href": "https://pyscript.net/"
+                "title": "Can Large Language Models Understand Symbolic Graphics Programs?",
+                "href": "https://www.arxiv.org/abs/2408.08313"
+            },
+            {
+                "title": "Crafting a 13KB Game: The Story of Space Huggers",
+                "href": "https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/"
+            },
+            {
+                "title": "Banks Are Now Accused of Cheating Customers Billions",
+                "href": "https://franknez.com/massive-banks-are-now-accused-of-cheating-customers-billions/"
+            },
+            {
+                "title": "Military sexual assaults far exceed DoD estimates, new report finds",
+                "href": "https://www.stripes.com/theaters/us/2024-08-15/military-sexual-assault-numbers-14871731.html"
             },
             {
                 "title": "Aviator (YC S21) Is Hiring Engineers to Build DevEx Platform",
                 "href": "https://www.ycombinator.com/companies/aviator/jobs"
             },
             {
-                "title": "Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes",
-                "href": "https://steezeburger.com/wikipedia-browser/"
+                "title": "Show HN: Cleed \u2013 Simple feed reader for the command line",
+                "href": "https://github.com/radulucut/cleed"
             },
             {
-                "title": "Discrete Mathematics \u2013 An Open Introduction 4ed (By Oscar Levin)",
-                "href": "https://discrete.openmathbooks.org/dmoi4.html"
-            },
-            {
-                "title": "Reversing the AMD Secure Processor (PSP) \u2013 Part 2: Cryptographic Co-Processor",
-                "href": "https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html"
-            },
-            {
-                "title": "Supporting game design with evolutionary algorithms",
-                "href": "https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms"
+                "title": "FUTO",
+                "href": "https://www.futo.org/"
             },
             {
                 "title": "The LMAX Architecture (2011)",
                 "href": "https://martinfowler.com/articles/lmax.html"
             },
             {
-                "title": "Automating My /Now Page",
-                "href": "https://akashgoswami.dev/posts/automating-my-now-page/"
+                "title": "Using a list to manage executive function",
+                "href": "https://drmaciver.substack.com/p/using-a-list-to-manage-executive"
             },
             {
-                "title": "Subway calls 'emergency' meeting with franchisees as sales plummet",
-                "href": "https://nypost.com/2024/08/14/business/subway-calls-emergency-meeting-with-franchisees-as-sales-plummet-sources/"
+                "title": "PyScript: An open source platform for Python in the browser",
+                "href": "https://pyscript.net/"
             },
             {
-                "title": "Show HN: I made an open-source personal dashboard builder",
-                "href": "https://github.com/tryglow/glow"
+                "title": "Show HN: Wikipedia Browser a La Andy Matuschak's Evergreen Notes",
+                "href": "https://steezeburger.com/wikipedia-browser/"
             },
             {
-                "title": "JPlag \u2013 Detecting Software Plagiarism",
-                "href": "https://github.com/jplag/JPlag"
+                "title": "Supporting game design with evolutionary algorithms",
+                "href": "https://www.gamedeveloper.com/design/supporting-game-design-with-evolutionary-algorithms"
+            },
+            {
+                "title": "America prepares for a new nuclear-arms race",
+                "href": "https://www.economist.com/united-states/2024/08/12/america-prepares-for-a-new-nuclear-arms-race"
+            },
+            {
+                "title": "Reversing the AMD Secure Processor (PSP) \u2013 Part 2: Cryptographic Co-Processor",
+                "href": "https://dayzerosec.com/blog/2023/04/22/reversing-the-amd-secure-processor-psp-part-2-cryptographic-co-processor-ccp.html"
+            },
+            {
+                "title": "Show HN: I develop free, open source and web based irregular shapes bin solver",
+                "href": "https://nest2d.online/project/laser-gridfinityopen-scad"
             },
             {
                 "title": "One man's quest to restore the first-ever Air Force One",
                 "href": "https://www.atlasobscura.com/articles/first-air-force-one"
             },
             {
-                "title": "RP2350 PicoDVI Preview",
-                "href": "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
+                "title": "MIT engineers design tiny batteries for powering cell-sized robots",
+                "href": "https://news.mit.edu/2024/mit-engineers-design-tiny-batteries-powering-cell-sized-robots-0815"
             },
             {
                 "title": "Why did Borland ignore the Macintosh market?",
                 "href": "https://retrocomputing.stackexchange.com/questions/30513/why-did-borland-ignore-the-macintosh-market"
             },
             {
+                "title": "JPlag \u2013 Detecting Software Plagiarism",
+                "href": "https://github.com/jplag/JPlag"
+            },
+            {
+                "title": "RP2350 PicoDVI Preview",
+                "href": "https://github.com/Wren6991/PicoDVI/commit/ca941baf37e3f04738b8e641896d85feb3430385"
+            },
+            {
                 "title": "A Scottish Provenance for the Altar Stone of Stonehenge",
                 "href": "https://www.nature.com/articles/s41586-024-07652-1"
+            },
+            {
+                "title": "Show HN: Create interactive vector animations with Lottielab Interactivity",
+                "href": "https://www.lottielab.com/interactivity"
+            },
+            {
+                "title": "Automating My /Now Page",
+                "href": "https://akashgoswami.dev/posts/automating-my-now-page/"
             },
             {
                 "title": "ImRAD is a GUI builder for the ImGui library",
@@ -881,34 +909,6 @@
             {
                 "title": "What I Learned Writing an Album in Just Intonation",
                 "href": "https://www.osar.fr/notes/justintonation/"
-            },
-            {
-                "title": "From Bede (731) to BONE (1991-2004): A sparrow's flight through the ages",
-                "href": "https://thijsporck.com/2020/07/27/from-bede-731-to-bone-1991-2004-a-sparrows-flight-through-the-ages/"
-            },
-            {
-                "title": "Show HN: Create interactive vector animations with Lottielab Interactivity",
-                "href": "https://www.lottielab.com/interactivity"
-            },
-            {
-                "title": "Mermaid: Diagramming and Charting Tool",
-                "href": "https://mermaid.js.org/"
-            },
-            {
-                "title": "Deals with the devil aren't what they used to be",
-                "href": "https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review"
-            },
-            {
-                "title": "Launch HN: Hamming (YC S24) \u2013 Automated Testing for Voice Agents",
-                "href": "item?id=41257369"
-            },
-            {
-                "title": "Why won't some people pay for news? (2022)",
-                "href": "https://diaspora.glasswings.com/posts/867c94d0ba87013aca41448a5b29e257"
-            },
-            {
-                "title": "Aristotle \u2013 How to live a good life",
-                "href": "https://ralphammer.com/aristotle-how-to-live-a-good-life/"
             }
         ]
     }
