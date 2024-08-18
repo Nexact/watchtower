@@ -7,12 +7,12 @@
                 "href": "https://mccue.dev/pages/8-16-24-just-use-postgres"
             },
             {
-                "title": "An unordered list of things I miss in Go",
-                "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/"
-            },
-            {
                 "title": "Are there languages with first class table support, similar to struct or map?",
                 "href": "https://lobste.rs/s/mdaext/are_there_languages_with_first_class"
+            },
+            {
+                "title": "An unordered list of things I miss in Go",
+                "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/"
             },
             {
                 "title": "What photo library software do you use?",
@@ -35,6 +35,10 @@
                 "href": "https://kevincox.ca/2024/08/17/semver-rolling-deprecation/"
             },
             {
+                "title": "Optimisation-dependent IR decisions in Clang",
+                "href": "https://convolv.es/blog/2024/08/17/clang-ir-opt-level/"
+            },
+            {
                 "title": "ImRAD is a GUI builder for the ImGui library",
                 "href": "https://github.com/tpecholt/imrad"
             },
@@ -43,20 +47,16 @@
                 "href": "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
             },
             {
+                "title": "Switching USB controller at boot on ESP32-S3",
+                "href": "https://subalpinecircuits.com/usb-controller-esp32s3/"
+            },
+            {
                 "title": "Symbolics S-Dynamics manual (1985)",
                 "href": "https://archive.org/details/symbolics-s-dynamics-manual"
             },
             {
-                "title": "Optimisation-dependent IR decisions in Clang",
-                "href": "https://convolv.es/blog/2024/08/17/clang-ir-opt-level/"
-            },
-            {
                 "title": "Systems Distributed '24",
                 "href": "https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf"
-            },
-            {
-                "title": "Switching USB controller at boot on ESP32-S3",
-                "href": "https://subalpinecircuits.com/usb-controller-esp32s3/"
             },
             {
                 "title": "Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040",
@@ -73,10 +73,6 @@
             {
                 "title": "Official native Windows support for OCaml with opam 2.2.0",
                 "href": "https://opam.ocaml.org/blog/opam-2-2-0/"
-            },
-            {
-                "title": "Decentralized and Verifiable Cloud Service on Ethereum",
-                "href": "https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292"
             },
             {
                 "title": "Reckoning",
@@ -101,6 +97,10 @@
             {
                 "title": "Techniques for Safe Garbage Collection in Rust",
                 "href": "https://kyju.org/blog/rust-safe-garbage-collection/"
+            },
+            {
+                "title": "A case for vanilla JSX",
+                "href": "https://vanillajsx.com/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Ask Slashdot: What Network-Attached Storage Setup Do You Use?",
+                "href": "https://hardware.slashdot.org/story/24/08/17/1848207/ask-slashdot-what-network-attached-storage-setup-do-you-use?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Refueling Hydrogen Cars in California is So Annoying, Drivers are Suing Toyota",
                 "href": "https://hardware.slashdot.org/story/24/08/18/0023218/refueling-hydrogen-cars-in-california-is-so-annoying-drivers-are-suing-toyota?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -349,10 +353,6 @@
             {
                 "title": "GitHub Promises 'Additional Guardrails' After Wednesday's Update Triggers Short Outage",
                 "href": "https://developers.slashdot.org/story/24/08/17/0411234/github-promises-additional-guardrails-after-wednesdays-update-triggers-short-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Ask Slashdot: What Network-Attached Storage Setup Do You Use?",
-                "href": "https://hardware.slashdot.org/story/24/08/17/1848207/ask-slashdot-what-network-attached-storage-setup-do-you-use?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
                 "title": "An Insider's Perspective Into the Pentagon's UFO Hunt",
@@ -795,44 +795,48 @@
                 "href": "https://mpv.io/"
             },
             {
-                "title": "Magic Wormhole: get things from one computer to another, safely",
-                "href": "https://github.com/magic-wormhole/magic-wormhole"
-            },
-            {
-                "title": "Blockbuster Video VHS insert template",
-                "href": "https://github.com/rfinnie/blockbuster"
-            },
-            {
                 "title": "Postmortem of my 9 year journey at Google",
                 "href": "https://tinystruggles.com/posts/google_postmortem/"
             },
             {
-                "title": "FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)",
-                "href": "https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/"
-            },
-            {
-                "title": "Alien \u2013 CUDA-powered artificial life simulation program",
-                "href": "https://github.com/chrxh/alien"
+                "title": "Magic Wormhole: get things from one computer to another, safely",
+                "href": "https://github.com/magic-wormhole/magic-wormhole"
             },
             {
                 "title": "Build your own SQLite with Rust, Part 1",
                 "href": "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
             },
             {
-                "title": "Increasing Retention Without Increasing Study Time [pdf]",
-                "href": "https://files.eric.ed.gov/fulltext/ED505647.pdf"
+                "title": "Blockbuster Video VHS insert template",
+                "href": "https://github.com/rfinnie/blockbuster"
             },
             {
-                "title": "Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?",
-                "href": "https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound"
+                "title": "FlightAware Leaks Customer Data (Name, Email Addresses and Passwords)",
+                "href": "https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/"
             },
             {
                 "title": "Building an EEG with a Children's Toy",
                 "href": "https://geofflord.substack.com/p/brainwaves-on-a-budget"
             },
             {
-                "title": "The Blue Collar Jobs of Philip Glass",
-                "href": "https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass"
+                "title": "Alien \u2013 CUDA-powered artificial life simulation program",
+                "href": "https://github.com/chrxh/alien"
+            },
+            {
+                "title": "Surgeons Cut a Giant Tumor Out of My Head. Is There a Better Way?",
+                "href": "https://www.bloomberg.com/news/features/2024-08-14/a-neurosurgeon-who-operated-on-biden-wants-to-treat-disease-with-sound"
+            },
+            {
+                "title": "Increasing Retention Without Increasing Study Time [pdf]",
+                "href": "https://files.eric.ed.gov/fulltext/ED505647.pdf"
+            },
+            {
+                "title": "Flaw has Microsoft Authenticator overwriting MFA accounts, locking users out",
+                "href": "https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html"
+            },
+            {
+                "title": "The Key to Bizarro's Symbols",
+                "href": "https://www.bizarro.com/secret-symbols"
             },
             {
                 "title": "Ask HN: What do you monitor on your servers?",
@@ -843,48 +847,60 @@
                 "href": "https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck/"
             },
             {
+                "title": "Alive and Well, as a Matter of Fax",
+                "href": "https://cacm.acm.org/news/alive-and-well-as-a-matter-of-fax/"
+            },
+            {
                 "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
                 "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
             },
             {
-                "title": "DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model",
-                "href": "https://arxiv.org/abs/2408.07541"
+                "title": "The Blue Collar Jobs of Philip Glass",
+                "href": "https://www.honest-broker.com/p/the-blue-collar-jobs-of-philip-glass"
             },
             {
                 "title": "What the heck are reverse mapped types?",
                 "href": "https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/"
             },
             {
-                "title": "The Key to Bizarro's Symbols",
-                "href": "https://www.bizarro.com/secret-symbols"
+                "title": "DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model",
+                "href": "https://arxiv.org/abs/2408.07541"
             },
             {
                 "title": "BMX: A Freshly Baked Take on BM25",
                 "href": "https://www.mixedbread.ai/blog/intro-bmx"
             },
             {
-                "title": "Low level of Magnesium linked to disease-causing DNA damage",
-                "href": "https://newatlas.com/health-wellbeing/nutrient-dna-damage/"
-            },
-            {
-                "title": "The Vala Language (2017)",
-                "href": "https://www.bassi.io/articles/2017/02/13/on-vala/"
-            },
-            {
-                "title": "Why do people believe true things?",
-                "href": "https://www.conspicuouscognition.com/p/why-do-people-believe-true-things"
+                "title": "Interviewing the Interviewer: Questions to Uncover a Company's True Culture",
+                "href": "https://praachi.work/blog/questions-to-ask-in-a-job-interview"
             },
             {
                 "title": "There Is No Website",
                 "href": "https://www.thereisnoweb.site/"
             },
             {
-                "title": "Interviewing the Interviewer: Questions to Uncover a Company's True Culture",
-                "href": "https://praachi.work/blog/questions-to-ask-in-a-job-interview"
+                "title": "The Vala Language (2017)",
+                "href": "https://www.bassi.io/articles/2017/02/13/on-vala/"
+            },
+            {
+                "title": "Are you better than a language model at predicting the next word?",
+                "href": "https://joel.tools/smarter/"
             },
             {
                 "title": "An unordered list of things I miss in Go",
                 "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/"
+            },
+            {
+                "title": "Low level of Magnesium linked to disease-causing DNA damage",
+                "href": "https://newatlas.com/health-wellbeing/nutrient-dna-damage/"
+            },
+            {
+                "title": "Why do people believe true things?",
+                "href": "https://www.conspicuouscognition.com/p/why-do-people-believe-true-things"
+            },
+            {
+                "title": "Spring-rs is a microservice framework in Rust inspired by Java's spring-boot",
+                "href": "https://github.com/spring-rs/spring-rs"
             },
             {
                 "title": "Colorize Lidar point clouds with camera images",
@@ -893,22 +909,6 @@
             {
                 "title": "X says it is closing operations in Brazil due to judge's content orders",
                 "href": "https://www.reuters.com/technology/x-close-operations-brazil-effective-immediately-2024-08-17/"
-            },
-            {
-                "title": "Spring-rs is a microservice framework in Rust inspired by Java's spring-boot",
-                "href": "https://github.com/spring-rs/spring-rs"
-            },
-            {
-                "title": "\"Frost crack\" sounds may come from sky, not trees",
-                "href": "https://nautil.us/how-the-night-sky-speaks-to-us-772258/"
-            },
-            {
-                "title": "Hacking with PDF (2022)",
-                "href": "https://0xcybery.github.io/blog/hacking-with-pdf"
-            },
-            {
-                "title": "Ask HN: Do we need to pay billions in fees to Stripe, Block, PayPal and Visa/MC?",
-                "href": "item?id=41275342"
             }
         ]
     }
