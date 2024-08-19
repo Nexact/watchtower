@@ -23,10 +23,6 @@
                 "href": "https://github.com/meithecatte/bashfuck"
             },
             {
-                "title": "Trainwreck design",
-                "href": "https://j3s.sh/thought/trainwreck-design.html"
-            },
-            {
                 "title": "Don't Repeat Yourself and the Strong Law of Small Numbers",
                 "href": "https://jerf.org/iri/post/2024/dry_strong/"
             },
@@ -39,12 +35,16 @@
                 "href": "https://emnudge.dev/blog/markov-chains-are-funny/"
             },
             {
-                "title": "Safer C++",
-                "href": "https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/"
-            },
-            {
                 "title": "C scripting with TCC and Bash",
                 "href": "https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html"
+            },
+            {
+                "title": "Leaving Neovim for Zed",
+                "href": "https://stevedylan.dev/posts/leaving-neovim-for-zed/"
+            },
+            {
+                "title": "Safer C++",
+                "href": "https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/"
             },
             {
                 "title": "The Curious Case of QUEENCREEK",
@@ -55,6 +55,10 @@
                 "href": "https://yeokhengmeng.com/2024/08/dos-on-thinkpad-x13-gen1/"
             },
             {
+                "title": "Trainwreck design",
+                "href": "https://j3s.sh/thought/trainwreck-design.html"
+            },
+            {
                 "title": "Formally Verified Post-Quantum Algorithms",
                 "href": "https://bughunters.google.com/blog/6038863069184000/formally-verified-post-quantum-algorithms"
             },
@@ -63,12 +67,20 @@
                 "href": "https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/"
             },
             {
+                "title": "OpenVMS x86_64 at the Edge",
+                "href": "http://jamespreciado.a2hosted.com/application-1.html"
+            },
+            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week"
             },
             {
                 "title": "You might be overusing Vim visual mode",
                 "href": "https://m4xshen.dev/posts/overuse-vim-visual-mode"
+            },
+            {
+                "title": "The Dying Computer Museum",
+                "href": "http://ascii.textfiles.com/archives/5672"
             },
             {
                 "title": "What photo library software do you use?",
@@ -83,24 +95,12 @@
                 "href": "https://gavinleroy.com/writings/i-heart-assoc-types.html"
             },
             {
-                "title": "The Dying Computer Museum",
-                "href": "http://ascii.textfiles.com/archives/5672"
-            },
-            {
                 "title": "Are there languages with first class table support, similar to struct or map?",
                 "href": "https://lobste.rs/s/mdaext/are_there_languages_with_first_class"
             },
             {
                 "title": "Just use Postgres",
                 "href": "https://mccue.dev/pages/8-16-24-just-use-postgres"
-            },
-            {
-                "title": "An unordered list of things I miss in Go",
-                "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/"
-            },
-            {
-                "title": "Semantic Versioning Doesn't Support Rolling Deprecation",
-                "href": "https://kevincox.ca/2024/08/17/semver-rolling-deprecation/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "'GitHub Actions' Artifacts Leak Tokens, Expose Cloud Services and Repositories",
+                "href": "https://it.slashdot.org/story/24/08/17/056242/github-actions-artifacts-leak-tokens-expose-cloud-services-and-repositories?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Internet Archive Streams Re-Discovered 1980s Radio Show About Early Computers",
                 "href": "https://idle.slashdot.org/story/24/08/19/0454252/internet-archive-streams-re-discovered-1980s-radio-show-about-early-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "As 17,000 AT&amp;T Workers Strike, Some Customers Experience 'Prolonged' Outages",
                 "href": "https://news.slashdot.org/story/24/08/18/0228218/as-17000-att-workers-strike-some-customers-experience-prolonged-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Ask Slashdot: What Network-Attached Storage Setup Do You Use?",
-                "href": "https://hardware.slashdot.org/story/24/08/17/1848207/ask-slashdot-what-network-attached-storage-setup-do-you-use?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,20 +795,28 @@
                 "href": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html"
             },
             {
+                "title": "Bit-Banging a Basic Birthday",
+                "href": "https://thingswemake.com/bit-banging-a-basic-birthday/"
+            },
+            {
                 "title": "Archiving \"The Famous Computer Cafe\"",
                 "href": "https://blog.archive.org/2024/08/19/archiving-the-famous-computer-cafe/"
+            },
+            {
+                "title": "The Charming, Eccentric, Blessed Life of Lee Maxwell",
+                "href": "https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/"
             },
             {
                 "title": "Stripe's Monorepo Developer Environment",
                 "href": "https://blog.nelhage.com/post/stripe-dev-environment/"
             },
             {
-                "title": "Show HN: PgQueuer \u2013 Transform PostgreSQL into a Job Queue",
-                "href": "https://github.com/janbjorge/PgQueuer"
+                "title": "Bitmovin (YC S15) Is Hiring Software Engineers in Austria",
+                "href": "https://bitmovin.com/careers"
             },
             {
-                "title": "The Charming, Eccentric, Blessed Life of Lee Maxwell",
-                "href": "https://www.5280.com/the-charming-eccentric-blessed-life-of-lee-maxwell/"
+                "title": "Show HN: PgQueuer \u2013 Transform PostgreSQL into a Job Queue",
+                "href": "https://github.com/janbjorge/PgQueuer"
             },
             {
                 "title": "Dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV",
@@ -823,12 +831,12 @@
                 "href": "https://emnudge.dev/blog/markov-chains-are-funny/"
             },
             {
-                "title": "Ask HN: Determine sound quality of a file, objectively?",
-                "href": "item?id=41289087"
+                "title": "Seven basic rules for causal inference",
+                "href": "https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/"
             },
             {
-                "title": "Odigos (YC W23) Is Hiring Lead Product Manager",
-                "href": "https://www.ycombinator.com/companies/keyval/jobs/L2pKnWr-lead-product-manager"
+                "title": "Ask HN: Determine sound quality of a file, objectively?",
+                "href": "item?id=41289087"
             },
             {
                 "title": "Roblox is the biggest game in the world, but is unprofitable",
@@ -839,76 +847,68 @@
                 "href": "https://www.usenix.org/legacy/events/usenix05/tech/general/king/king.pdf"
             },
             {
-                "title": "NASA acknowledges it cannot quantify risk of Starliner propulsion issues",
-                "href": "https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/"
-            },
-            {
-                "title": "How high speed fiber optic internet cables are made",
-                "href": "https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/"
-            },
-            {
-                "title": "Mike Mageek is dead",
-                "href": "https://fudzilla.com/news/59503-mike-mageek-is-dead"
+                "title": "Visualization of Consistent Hashing Rings",
+                "href": "https://gallery.selfboot.cn/en/algorithms/hashring"
             },
             {
                 "title": "Police cannot seize property indefinitely after an arrest, federal court rules",
                 "href": "https://reason.com/2024/08/16/police-cannot-seize-property-indefinitely-after-an-arrest-federal-court-rules/"
             },
             {
+                "title": "How high speed fiber optic internet cables are made",
+                "href": "https://www.washingtonpost.com/business/interactive/2024/fiber-optic-cables-made-materials-high-speed-internet/"
+            },
+            {
+                "title": "NASA acknowledges it cannot quantify risk of Starliner propulsion issues",
+                "href": "https://arstechnica.com/space/2024/08/nasa-acknowledges-it-cannot-quantify-risk-of-starliner-propulsion-issues/"
+            },
+            {
+                "title": "Mike Mageek is dead",
+                "href": "https://fudzilla.com/news/59503-mike-mageek-is-dead"
+            },
+            {
                 "title": "Transponder Landing System enables precision approaches at McMurdo in Antarctica",
                 "href": "https://www.flightradar24.com/blog/transponder-landing-system/"
             },
             {
-                "title": "Seven basic rules for causal inference",
-                "href": "https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/"
-            },
-            {
-                "title": "Visualization of Consistent Hashing Rings",
-                "href": "https://gallery.selfboot.cn/en/algorithms/hashring"
+                "title": "In \"The Texas Chain Saw Massacre,\" Feeding Your Family Comes First",
+                "href": "https://www.newyorker.com/culture/cultural-comment/in-the-texas-chainsaw-massacre-feeding-your-family-comes-first"
             },
             {
                 "title": "The Quantum Butterfly Effect",
                 "href": "https://discover.lanl.gov/publications/1663/2021-august/the-quantum-butterfly-effect/"
             },
             {
-                "title": "Show HN: Fast Incremental Plaintext Searcher",
-                "href": "https://ksylvestre.itch.io/mightygrep"
-            },
-            {
-                "title": "Can a Rust binary use incompatible versions of the same library?",
-                "href": "https://github.com/brannondorsey/rust-incompatible-transitive-dependencies"
-            },
-            {
                 "title": "The Expert Mind [pdf] (2006)",
                 "href": "https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf"
-            },
-            {
-                "title": "How the OCaml type checker works (2022)",
-                "href": "https://okmij.org/ftp/ML/generalization.html"
             },
             {
                 "title": "Getting back into C programming for CP/M",
                 "href": "https://kevinboone.me/cpm-c.html"
             },
             {
-                "title": "Leaving Neovim for Zed",
-                "href": "https://stevedylan.dev/posts/leaving-neovim-for-zed/"
+                "title": "Show HN: Fast Incremental Plaintext Searcher",
+                "href": "https://ksylvestre.itch.io/mightygrep"
             },
             {
                 "title": "UK launches its first Earth-imaging military satellite",
                 "href": "https://www.theguardian.com/uk-news/article/2024/aug/17/uk-launches-its-first-earth-imaging-military-satellite"
             },
             {
+                "title": "Can a Rust binary use incompatible versions of the same library?",
+                "href": "https://github.com/brannondorsey/rust-incompatible-transitive-dependencies"
+            },
+            {
+                "title": "How the OCaml type checker works (2022)",
+                "href": "https://okmij.org/ftp/ML/generalization.html"
+            },
+            {
+                "title": "How I Became the EEVBlog Guy [video]",
+                "href": "https://www.youtube.com/watch?v=riBwRC_CaAA"
+            },
+            {
                 "title": "The Curious Case of QUEENCREEK",
                 "href": "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/"
-            },
-            {
-                "title": "Algorithms we develop software by",
-                "href": "https://grantslatton.com/software-pathfinding"
-            },
-            {
-                "title": "Interposer to fix the Symmetricom SyncServer S200 GPS week rollover problem",
-                "href": "https://tomverbeure.github.io/2024/08/18/Fixing-the-Symmetricom-S200-GPS-Week-Number-Rollover-Problem.html"
             }
         ]
     }
