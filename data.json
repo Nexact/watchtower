@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Being on The Semantic Web is easy, and, frankly, well worth the bother",
-                "href": "https://csvbase.com/blog/13"
-            },
-            {
                 "title": "An unordered list of hidden gems inside NixOS",
                 "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/"
+            },
+            {
+                "title": "Being on The Semantic Web is easy, and, frankly, well worth the bother",
+                "href": "https://csvbase.com/blog/13"
             },
             {
                 "title": "Zen Browser - An open-source browser based on Firefox",
@@ -35,10 +35,6 @@
                 "href": "https://pboyd.io/posts/udp/"
             },
             {
-                "title": "Libations: Tailscale on the Rocks",
-                "href": "https://jnsgr.uk/2024/08/tailscale-on-the-rocks/"
-            },
-            {
                 "title": "The Benefits of Conforming",
                 "href": "https://beyondloom.com/blog/conforming.html"
             },
@@ -63,16 +59,24 @@
                 "href": "https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/"
             },
             {
+                "title": "Podman testing on FreeBSD",
+                "href": "https://github.com/oci-playground/freebsd-podman-testing"
+            },
+            {
+                "title": "Libations: Tailscale on the Rocks",
+                "href": "https://jnsgr.uk/2024/08/tailscale-on-the-rocks/"
+            },
+            {
                 "title": "ArcticDB: Why a Hedge Fund Built Its Own Database",
                 "href": "https://www.infoq.com/presentations/arcticdb/"
             },
             {
-                "title": "Interfaces, Polymorphism, Symbols and Iterators in JavaScript",
-                "href": "https://www.youtube.com/watch?v=eW6nVCb9MQ8"
+                "title": "OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)",
+                "href": "https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt"
             },
             {
-                "title": "Podman testing on FreeBSD",
-                "href": "https://github.com/oci-playground/freebsd-podman-testing"
+                "title": "Interfaces, Polymorphism, Symbols and Iterators in JavaScript",
+                "href": "https://www.youtube.com/watch?v=eW6nVCb9MQ8"
             },
             {
                 "title": "Compiling TETRIS from 1992 on OpenVMS x86 in 2024",
@@ -91,16 +95,12 @@
                 "href": "https://eventhelix.com/rust/rust-to-assembly-vector-iteration/"
             },
             {
+                "title": "European Commission cuts funding support for Free Software projects",
+                "href": "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
+            },
+            {
                 "title": "Objective-C is just, like, a leaky abstraction over C",
                 "href": "https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html"
-            },
-            {
-                "title": "How SSH Secures Your Connection",
-                "href": "https://noratrieb.dev/blog/posts/ssh-security/"
-            },
-            {
-                "title": "End to End Encryption (E2EE) on LiberaForms",
-                "href": "https://blog.liberaforms.org/2024/08/21/end-to-end-encryption-e2ee-on-liberaforms/"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Call For Papers - Hackfest 2024 - Quebec City, Canada",
                 "href": "https://www.reddit.com/r/netsec/comments/1exqzc3/call_for_papers_hackfest_2024_quebec_city_canada/"
+            },
+            {
+                "title": "Coca-Cola staging servers are showing up in google search results, hiding under htaccess logins",
+                "href": "https://www.reddit.com/r/netsec/comments/1ey32s2/cocacola_staging_servers_are_showing_up_in_google/"
             },
             {
                 "title": "Web Browser Stored Credentials",
@@ -206,10 +210,6 @@
             {
                 "title": "Compromising Microsoft's AI Healthcare Chatbot Service (Critical Issue with Cross-Tenant Access)",
                 "href": "https://www.reddit.com/r/netsec/comments/1er7b7i/compromising_microsofts_ai_healthcare_chatbot/"
-            },
-            {
-                "title": "ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts",
-                "href": "https://www.reddit.com/r/netsec/comments/1er5y4u/artipacked_hacking_giants_through_a_race/"
             }
         ]
     },
@@ -807,16 +807,20 @@
                 "href": "https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging"
             },
             {
-                "title": "Better Living Through Algorithms (2023)",
-                "href": "https://clarkesworldmagazine.com/kritzer_05_23/"
-            },
-            {
                 "title": "Do low-level optimizations matter? Faster quicksort with cmov",
                 "href": "http://cantrip.org/sortfast.html"
             },
             {
+                "title": "Better Living Through Algorithms (2023)",
+                "href": "https://clarkesworldmagazine.com/kritzer_05_23/"
+            },
+            {
                 "title": "Launch HN: Outerport (YC S24) \u2013 Instant hot-swapping for AI model weights",
                 "href": "item?id=41312079"
+            },
+            {
+                "title": "Midjourney web experience is now open to everyone",
+                "href": "https://www.midjourney.com/"
             },
             {
                 "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
@@ -831,84 +835,80 @@
                 "href": "https://github.com/hsfzxjy/handwriter.ttf"
             },
             {
-                "title": "Midjourney web experience is now open to everyone",
-                "href": "https://www.midjourney.com/"
-            },
-            {
-                "title": "Immutable Data Structures in Qdrant",
-                "href": "https://qdrant.tech/articles/immutable-data-structures/"
+                "title": "Breaking down a record-setting day on the Texas grid",
+                "href": "https://blog.gridstatus.io/a-record-setting-day-in-ercot/"
             },
             {
                 "title": "Revisiting the Classics: Jensen's Inequality (2023)",
                 "href": "https://francisbach.com/jensen-inequality/"
             },
             {
-                "title": "Self-Supervised Learning for Videos",
-                "href": "https://www.lightly.ai/post/self-supervised-learning-for-videos"
-            },
-            {
                 "title": "Rye and Uv: August Is Harvest Season for Python Packaging",
                 "href": "https://lucumr.pocoo.org/2024/8/21/harvest-season/"
-            },
-            {
-                "title": "Calling All Hackers",
-                "href": "https://phrack.org/issues/71/17.html#article"
             },
             {
                 "title": "Turnstyle \u2013 An esoteric, graphical functional language",
                 "href": "https://jaspervdj.be/posts/2024-08-21-turnstyle.html"
             },
             {
-                "title": "Duck typing (horror) in Go",
-                "href": "https://www.ccampo.me/go/2024/08/20/go-duck-typing.html"
+                "title": "Self-Supervised Learning for Videos",
+                "href": "https://www.lightly.ai/post/self-supervised-learning-for-videos"
             },
             {
-                "title": "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)",
-                "href": "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
+                "title": "Calling All Hackers",
+                "href": "https://phrack.org/issues/71/17.html#article"
+            },
+            {
+                "title": "Duck typing (horror) in Go",
+                "href": "https://www.ccampo.me/go/2024/08/20/go-duck-typing.html"
             },
             {
                 "title": "Electrostatic motors reach the macro scale",
                 "href": "https://spectrum.ieee.org/electrostatic-motor"
             },
             {
-                "title": "Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)",
-                "href": "https://pwy.io/posts/mimalloc-cigarette/"
+                "title": "Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)",
+                "href": "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
             },
             {
                 "title": "IT tycoon Mike Lynch, daughter Hannah found dead",
                 "href": "https://www.theregister.com/2024/08/21/mike_lynch_dead/"
             },
             {
-                "title": "Breaking down a record-setting day on the Texas grid",
-                "href": "https://blog.gridstatus.io/a-record-setting-day-in-ercot/"
-            },
-            {
                 "title": "Kill the Newsletter: Convert email newsletters into Atom feeds",
                 "href": "https://kill-the-newsletter.com/"
-            },
-            {
-                "title": "The Origins of the Bloody Mary (2014)",
-                "href": "https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/"
             },
             {
                 "title": "Australian government approves AAPowerLink project to export solar to Singapore",
                 "href": "https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/"
             },
             {
+                "title": "The Origins of the Bloody Mary (2014)",
+                "href": "https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/"
+            },
+            {
                 "title": "The Discovery of the Celendrical Date Line",
                 "href": "https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm"
+            },
+            {
+                "title": "Immutable Data Structures in Qdrant",
+                "href": "https://qdrant.tech/articles/immutable-data-structures/"
             },
             {
                 "title": "Juice rerouted to Venus in first lunar-Earth flyby",
                 "href": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby"
             },
             {
-                "title": "The weird of function-local types in Rust",
-                "href": "https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust"
+                "title": "Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)",
+                "href": "https://pwy.io/posts/mimalloc-cigarette/"
             },
             {
-                "title": "Linux desktop market share climbs to 4.45%",
-                "href": "https://ostechnix.com/linux-market-share-july-2024-report/"
+                "title": "New anti-speeding system coming to Australia is dangerous",
+                "href": "https://www.carexpert.com.au/opinion/new-anti-speeding-system-coming-to-australia-is-dangerous"
+            },
+            {
+                "title": "The weird of function-local types in Rust",
+                "href": "https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust"
             }
         ]
     }
