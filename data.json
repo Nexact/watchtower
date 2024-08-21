@@ -47,6 +47,10 @@
                 "href": "https://beyondloom.com/blog/conforming.html"
             },
             {
+                "title": "A systematic approach to deriving incremental type checkers (2020)",
+                "href": "https://dl.acm.org/doi/10.1145/3428195"
+            },
+            {
                 "title": "10 Essential Terminal Commands Every Developer Should Know",
                 "href": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know"
             },
@@ -55,8 +59,8 @@
                 "href": "https://zed.dev/blog/zed-ai"
             },
             {
-                "title": "A systematic approach to deriving incremental type checkers (2020)",
-                "href": "https://dl.acm.org/doi/10.1145/3428195"
+                "title": "Gentoo: profiles and keywords rather than releases",
+                "href": "https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/"
             },
             {
                 "title": "ArcticDB: Why a Hedge Fund Built Its Own Database",
@@ -69,10 +73,6 @@
             {
                 "title": "Podman testing on FreeBSD",
                 "href": "https://github.com/oci-playground/freebsd-podman-testing"
-            },
-            {
-                "title": "Gentoo: profiles and keywords rather than releases",
-                "href": "https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/"
             },
             {
                 "title": "Compiling TETRIS from 1992 on OpenVMS x86 in 2024",
@@ -91,16 +91,16 @@
                 "href": "https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html"
             },
             {
+                "title": "How SSH Secures Your Connection",
+                "href": "https://noratrieb.dev/blog/posts/ssh-security/"
+            },
+            {
                 "title": "Some brief notes on 'numfmt' from GNU Coreutils",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NumfmtBriefNotes"
             },
             {
                 "title": "End to End Encryption (E2EE) on LiberaForms",
                 "href": "https://blog.liberaforms.org/2024/08/21/end-to-end-encryption-e2ee-on-liberaforms/"
-            },
-            {
-                "title": "VS Code Obsolescence",
-                "href": "https://cyberb.space/notes/2024/vs-code-obsolescence/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft Copilot Studio Exploit Leaks Sensitive Cloud Data",
+                "href": "https://yro.slashdot.org/story/24/08/21/1947215/microsoft-copilot-studio-exploit-leaks-sensitive-cloud-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Rotten Tomatoes Introduces a New Audience Rating For People Who Actually Bought a Ticket",
                 "href": "https://entertainment.slashdot.org/story/24/08/21/1937201/rotten-tomatoes-introduces-a-new-audience-rating-for-people-who-actually-bought-a-ticket?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "US Birthrate Hits New Low, CDC Data Shows",
                 "href": "https://news.slashdot.org/story/24/08/21/0038231/us-birthrate-hits-new-low-cdc-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "'Something Has Gone Seriously Wrong,' Dual-Boot Systems Warn After Microsoft Update",
-                "href": "https://tech.slashdot.org/story/24/08/21/0031243/something-has-gone-seriously-wrong-dual-boot-systems-warn-after-microsoft-update?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -807,40 +807,52 @@
                 "href": "item?id=41312079"
             },
             {
-                "title": "Duck typing (horror) in Go",
-                "href": "https://www.ccampo.me/go/2024/08/20/go-duck-typing.html"
-            },
-            {
-                "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
-                "href": "item?id=41314161"
+                "title": "Midjourney web experience is now open to everyone",
+                "href": "https://www.midjourney.com/"
             },
             {
                 "title": "Show HN: Handwriter.ttf \u2013 Handwriting Synthesis with Harfbuzz WASM",
                 "href": "https://github.com/hsfzxjy/handwriter.ttf"
             },
             {
-                "title": "Midjourney web experience is now open to everyone",
-                "href": "https://www.midjourney.com/"
-            },
-            {
-                "title": "Revisiting the Classics: Jensen's Inequality (2023)",
-                "href": "https://francisbach.com/jensen-inequality/"
-            },
-            {
-                "title": "Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)",
-                "href": "https://pwy.io/posts/mimalloc-cigarette/"
-            },
-            {
-                "title": "Self-Supervised Learning for Videos",
-                "href": "https://www.lightly.ai/post/self-supervised-learning-for-videos"
+                "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
+                "href": "item?id=41314161"
             },
             {
                 "title": "Immutable Data Structures in Qdrant",
                 "href": "https://qdrant.tech/articles/immutable-data-structures/"
             },
             {
-                "title": "Zen, a Arc-like open-source browser based on the Firefox engine",
-                "href": "https://www.zen-browser.app/"
+                "title": "Duck typing (horror) in Go",
+                "href": "https://www.ccampo.me/go/2024/08/20/go-duck-typing.html"
+            },
+            {
+                "title": "US hospital told family their daughter had checked out when in fact she'd died",
+                "href": "https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out"
+            },
+            {
+                "title": "Do low-level optimizations matter? Faster quicksort with cmov",
+                "href": "http://cantrip.org/sortfast.html"
+            },
+            {
+                "title": "Euclid's Proof that \u221a2 is Irrational",
+                "href": "https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html"
+            },
+            {
+                "title": "Revisiting the Classics: Jensen's Inequality (2023)",
+                "href": "https://francisbach.com/jensen-inequality/"
+            },
+            {
+                "title": "Py5, a Python version of Processing for your creative coding projects",
+                "href": "http://py5coding.org/index.html"
+            },
+            {
+                "title": "Self-Supervised Learning for Videos",
+                "href": "https://www.lightly.ai/post/self-supervised-learning-for-videos"
+            },
+            {
+                "title": "Rye and Uv: August Is Harvest Season for Python Packaging",
+                "href": "https://lucumr.pocoo.org/2024/8/21/harvest-season/"
             },
             {
                 "title": "Calling All Hackers",
@@ -851,16 +863,16 @@
                 "href": "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
             },
             {
-                "title": "Rye and Uv: August Is Harvest Season for Python Packaging",
-                "href": "https://lucumr.pocoo.org/2024/8/21/harvest-season/"
+                "title": "Mimalloc Cigarette: Losing one week of my life catching a memory leak (Rust)",
+                "href": "https://pwy.io/posts/mimalloc-cigarette/"
+            },
+            {
+                "title": ".less: Crafting .less Docker Containers That Will Blow Your Mind",
+                "href": "https://pointlesscode.dev/"
             },
             {
                 "title": "Electrostatic motors reach the macro scale",
                 "href": "https://spectrum.ieee.org/electrostatic-motor"
-            },
-            {
-                "title": "Kill the Newsletter: Convert email newsletters into Atom feeds",
-                "href": "https://kill-the-newsletter.com/"
             },
             {
                 "title": "The Origins of the Bloody Mary (2014)",
@@ -871,16 +883,16 @@
                 "href": "https://jaspervdj.be/posts/2024-08-21-turnstyle.html"
             },
             {
+                "title": "Kill the Newsletter: Convert email newsletters into Atom feeds",
+                "href": "https://kill-the-newsletter.com/"
+            },
+            {
                 "title": "The Discovery of the Celendrical Date Line",
                 "href": "https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm"
             },
             {
                 "title": "Australian government approves AAPowerLink project to export solar to Singapore",
                 "href": "https://www.pv-tech.org/australian-government-approves-aapowerlink-project-to-export-solar-to-singapore/"
-            },
-            {
-                "title": "Linux desktop market share climbs to 4.45%",
-                "href": "https://ostechnix.com/linux-market-share-july-2024-report/"
             },
             {
                 "title": "Juice rerouted to Venus in first lunar-Earth flyby",
@@ -891,24 +903,12 @@
                 "href": "https://elastio.github.io/bon/blog/the-weird-of-function-local-types-in-rust"
             },
             {
-                "title": "US hospital told family their daughter had checked out when in fact she'd died",
-                "href": "https://www.theguardian.com/us-news/article/2024/aug/21/sacramento-hospital-patient-death-checked-out"
+                "title": "Linux desktop market share climbs to 4.45%",
+                "href": "https://ostechnix.com/linux-market-share-july-2024-report/"
             },
             {
                 "title": "Mathematicians Prove Hawking Wrong About the Most Extreme Black Holes",
                 "href": "https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/"
-            },
-            {
-                "title": "David Mackenzie \u2013 A Personal History with Linux and BSD Unix [video]",
-                "href": "https://www.youtube.com/watch?v=D7vfI-WSP8Q"
-            },
-            {
-                "title": "The semantic web is now widely adopted",
-                "href": "https://csvbase.com/blog/13"
-            },
-            {
-                "title": "New Phishing Technique Bypasses Security on iOS and Android to Steal Bank Creds",
-                "href": "https://www.securityweek.com/new-phishing-technique-bypasses-security-on-ios-and-android-to-steal-bank-credentials/"
             }
         ]
     }
