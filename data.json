@@ -7,12 +7,12 @@
                 "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/"
             },
             {
-                "title": "Code review antipatterns",
-                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/"
-            },
-            {
                 "title": "SIMD Matters",
                 "href": "https://box2d.org/posts/2024/08/simd-matters/"
+            },
+            {
+                "title": "Code review antipatterns",
+                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/"
             },
             {
                 "title": "Being on The Semantic Web is easy, and, frankly, well worth the bother",
@@ -27,10 +27,6 @@
                 "href": "https://make-firefox-private-again.com/"
             },
             {
-                "title": "OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)",
-                "href": "https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt"
-            },
-            {
                 "title": "Favorite Pixel Art Editors?",
                 "href": "https://lobste.rs/s/bl9apn/favorite_pixel_art_editors"
             },
@@ -39,12 +35,20 @@
                 "href": "https://mjg59.dreamwidth.org/70348.html"
             },
             {
-                "title": "uv: Unified Python packaging",
-                "href": "https://astral.sh/blog/uv-unified-python-packaging"
+                "title": "OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)",
+                "href": "https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt"
+            },
+            {
+                "title": "How Postgres stores oversized values \u2013 let's raise a TOAST",
+                "href": "https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/"
             },
             {
                 "title": "What is UDP?",
                 "href": "https://pboyd.io/posts/udp/"
+            },
+            {
+                "title": "uv: Unified Python packaging",
+                "href": "https://astral.sh/blog/uv-unified-python-packaging"
             },
             {
                 "title": "The Benefits of Conforming",
@@ -55,16 +59,24 @@
                 "href": "https://www.sandordargo.com/blog/2024/08/21/std-ref"
             },
             {
-                "title": "SwiftUI for Mac 2024",
-                "href": "https://troz.net/post/2024/swiftui-mac-2024/"
-            },
-            {
                 "title": "Gentoo: profiles and keywords rather than releases",
                 "href": "https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/"
             },
             {
+                "title": "SwiftUI for Mac 2024",
+                "href": "https://troz.net/post/2024/swiftui-mac-2024/"
+            },
+            {
                 "title": "Save Effort: Build a Bash One-Liner",
                 "href": "https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html"
+            },
+            {
+                "title": "Introducing Oblivious HTTP support in Swift",
+                "href": "https://swift.org/blog/introducing-swift-nio-oblivious-http/"
+            },
+            {
+                "title": "European Commission cuts funding support for Free Software projects",
+                "href": "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
             },
             {
                 "title": "Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda",
@@ -73,10 +85,6 @@
             {
                 "title": "A systematic approach to deriving incremental type checkers (2020)",
                 "href": "https://dl.acm.org/doi/10.1145/3428195"
-            },
-            {
-                "title": "European Commission cuts funding support for Free Software projects",
-                "href": "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
             },
             {
                 "title": "Intuitive Explanation of Arithmetic, Geometric, & Harmonic Mean",
@@ -93,14 +101,6 @@
             {
                 "title": "10 Essential Terminal Commands Every Developer Should Know",
                 "href": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know"
-            },
-            {
-                "title": "Libations: Tailscale on the Rocks",
-                "href": "https://jnsgr.uk/2024/08/tailscale-on-the-rocks/"
-            },
-            {
-                "title": "Introducing Oblivious HTTP support in Swift",
-                "href": "https://swift.org/blog/introducing-swift-nio-oblivious-http/"
             }
         ]
     },
@@ -585,10 +585,6 @@
         "feedname": "cisa",
         "items": [
             {
-                "title": "Best Practices for Event Logging and Threat Detection",
-                "href": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-234a"
-            },
-            {
                 "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog"
             },
@@ -623,6 +619,10 @@
             {
                 "title": "Siemens Teamcenter Visualization and JT2Go",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-03"
+            },
+            {
+                "title": "Siemens SINEC NMS",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-06"
             }
         ]
     },
@@ -803,60 +803,68 @@
                 "href": "https://github.com/will-moss/isaiah"
             },
             {
-                "title": "Mourning and moving on: rituals for leaving a career",
-                "href": "https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/"
+                "title": "Haiku OS [GSoC 2024] Hardware Virtualization: Final Report",
+                "href": "https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/"
             },
             {
                 "title": "Show HN: LangCSS \u2013 An AI Assistant for Tailwind",
                 "href": "https://langcss.com/demo"
             },
             {
+                "title": "Mourning and moving on: rituals for leaving a career (2014)",
+                "href": "https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/"
+            },
+            {
                 "title": "What is an SBAT and why does everyone suddenly care",
                 "href": "https://mjg59.dreamwidth.org/70348.html"
-            },
-            {
-                "title": "Haiku OS [GSoC 2024] Hardware Virtualization: Final Report",
-                "href": "https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/"
-            },
-            {
-                "title": "Quarkdown: Markdown with Superpowers",
-                "href": "https://iamgio.eu/quarkdown/demo/"
-            },
-            {
-                "title": "Objective-C is just, like, a leaky abstraction over C",
-                "href": "https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html"
-            },
-            {
-                "title": "Designing my own watch (2020)",
-                "href": "https://willem.com/blog/2020-11-30_designing-my-own-watch/"
-            },
-            {
-                "title": "A 20-part deep dive into how linkers work (2008)",
-                "href": "https://lwn.net/Articles/276782/"
-            },
-            {
-                "title": "Celebrating 6 years since Valve announced Steam Play Proton for Linux",
-                "href": "https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/"
             },
             {
                 "title": "Second human being implanted with Neuralink brain chip",
                 "href": "https://neuralink.com/blog/prime-study-progress-update-second-participant/"
             },
             {
+                "title": "Objective-C is just, like, a leaky abstraction over C",
+                "href": "https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html"
+            },
+            {
+                "title": "Quarkdown: Markdown with Superpowers",
+                "href": "https://iamgio.eu/quarkdown/demo/"
+            },
+            {
+                "title": "A 20-part deep dive into how linkers work (2008)",
+                "href": "https://lwn.net/Articles/276782/"
+            },
+            {
+                "title": "Designing my own watch (2020)",
+                "href": "https://willem.com/blog/2020-11-30_designing-my-own-watch/"
+            },
+            {
                 "title": "The River, the Village, and the Fort: Nate Silver's New Book, \"On the Edge\"",
                 "href": "https://statmodeling.stat.columbia.edu/2024/08/13/the-river-the-village-and-the-fort-nate-silvers-new-book-on-the-edge/"
+            },
+            {
+                "title": "Celebrating 6 years since Valve announced Steam Play Proton for Linux",
+                "href": "https://www.gamingonlinux.com/2024/08/celebrating-6-years-since-valve-announced-steam-play-proton-for-linux/"
             },
             {
                 "title": "SIMD Matters: Graph Coloring",
                 "href": "https://box2d.org/posts/2024/08/simd-matters/"
             },
             {
-                "title": "I've built my first successful side project, and I hate it",
-                "href": "https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/"
+                "title": "The Secret Lives of Snowblowers",
+                "href": "https://lcamtuf.substack.com/p/the-secret-lives-of-snowblowers"
             },
             {
                 "title": "How to build a 50k ton forging press",
                 "href": "https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging"
+            },
+            {
+                "title": "I've built my first successful side project, and I hate it",
+                "href": "https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/"
+            },
+            {
+                "title": "Nix in 100 Seconds [video]",
+                "href": "https://www.youtube.com/watch?v=FJVFXsNzYZQ"
             },
             {
                 "title": "Do low-level optimizations matter? Faster quicksort with cmov (2020)",
@@ -871,44 +879,36 @@
                 "href": "https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently"
             },
             {
-                "title": "Code as Art",
-                "href": "https://www.awwsmm.com/blog/code-as-art"
-            },
-            {
                 "title": "Euclid's Proof that \u221a2 is Irrational",
                 "href": "https://www.mathsisfun.com/numbers/euclid-square-root-2-irrational.html"
+            },
+            {
+                "title": "Code as Art",
+                "href": "https://www.awwsmm.com/blog/code-as-art"
             },
             {
                 "title": "I'm tired of fixing customers' AI generated code",
                 "href": "https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb"
             },
             {
-                "title": "Why isn't Colorado's snowpack ending up in the Colorado River?",
-                "href": "https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html"
-            },
-            {
                 "title": "Make Firefox Private Again",
                 "href": "https://make-firefox-private-again.com/"
+            },
+            {
+                "title": "Why isn't Colorado's snowpack ending up in the Colorado River?",
+                "href": "https://phys.org/news/2024-08-isnt-colorado-snowpack-river-lack.html"
             },
             {
                 "title": "Turnstyle \u2013 An esoteric, graphical functional language",
                 "href": "https://jaspervdj.be/posts/2024-08-21-turnstyle.html"
             },
             {
-                "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
-                "href": "item?id=41314161"
-            },
-            {
                 "title": "Rye and Uv: August Is Harvest Season for Python Packaging",
                 "href": "https://lucumr.pocoo.org/2024/8/21/harvest-season/"
             },
             {
-                "title": "Show HN: Handwriter.ttf \u2013 Handwriting Synthesis with Harfbuzz WASM",
-                "href": "https://github.com/hsfzxjy/handwriter.ttf"
-            },
-            {
-                "title": "Mathematicians prove Hawking wrong about the most extreme black holes",
-                "href": "https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/"
+                "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
+                "href": "item?id=41314161"
             }
         ]
     }
