@@ -19,12 +19,12 @@
                 "href": "https://mjg59.dreamwidth.org/70348.html"
             },
             {
-                "title": "An unordered list of hidden gems inside NixOS",
-                "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/"
-            },
-            {
                 "title": "Hands-on NixOS servers",
                 "href": "https://garnix.io/blog/hosting-nixos"
+            },
+            {
+                "title": "An unordered list of hidden gems inside NixOS",
+                "href": "https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/"
             },
             {
                 "title": "How Postgres stores oversized values \u2013 let's raise a TOAST",
@@ -33,6 +33,10 @@
             {
                 "title": "Better IX network quality monitoring",
                 "href": "https://blog.benjojo.co.uk/post/ixp-xping-better-ix-monitoring"
+            },
+            {
+                "title": "Forgejo is now copyleft, just like Git",
+                "href": "https://forgejo.org/2024-08-gpl/"
             },
             {
                 "title": "Kindle + Python = e-Ink Dashboard (part 1)",
@@ -97,10 +101,6 @@
             {
                 "title": "Zen Browser - An open-source browser based on Firefox",
                 "href": "https://www.zen-browser.app/"
-            },
-            {
-                "title": "OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)",
-                "href": "https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt"
             }
         ]
     },
@@ -815,44 +815,64 @@
                 "href": "https://www.objectivebayesian.com/p/hypothesis-testing"
             },
             {
+                "title": "The Katsuification of Britain",
+                "href": "https://www.vittlesmagazine.com/p/the-katsuification-of-britain"
+            },
+            {
                 "title": "Aerc: A well-crafted TUI for email",
                 "href": "https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/"
-            },
-            {
-                "title": "Continuous reinvention: A brief history of block storage at AWS",
-                "href": "https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html"
-            },
-            {
-                "title": "When Serial Isn't RS-232, Geocaching with the Garmin GPS 95",
-                "href": "https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/"
-            },
-            {
-                "title": "Is AI eating all the energy?",
-                "href": "https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/"
             },
             {
                 "title": "Show HN: Kardinal \u2013 Building light-weight Kubernetes dev ephemeral environments",
                 "href": "https://kardinal.dev/"
             },
             {
-                "title": "The Katsuification of Britain",
-                "href": "https://www.vittlesmagazine.com/p/the-katsuification-of-britain"
+                "title": "Continuous reinvention: A brief history of block storage at AWS",
+                "href": "https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html"
             },
             {
-                "title": "Show HN: A Ghidra extension for exporting parts of a program as object files",
-                "href": "https://github.com/boricj/ghidra-delinker-extension"
+                "title": "Zettlr: Note-Taking and Publishing with Markdown",
+                "href": "https://lwn.net/Articles/984502/"
+            },
+            {
+                "title": "Is AI eating all the energy?",
+                "href": "https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/"
+            },
+            {
+                "title": "When Serial Isn't RS-232, Geocaching with the Garmin GPS 95",
+                "href": "https://terinstock.com/post/2024/08/When-Serial-Isnt-RS-232-and-Geocaching-with-the-Garmin-GPS-95/"
+            },
+            {
+                "title": "Tales from the Far Side",
+                "href": "http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html"
+            },
+            {
+                "title": "Fluid Simulation and Web Assembly",
+                "href": "https://ehayes.page/posts/fluid/"
             },
             {
                 "title": "What is an SBAT and why does everyone suddenly care",
                 "href": "https://mjg59.dreamwidth.org/70348.html"
             },
             {
+                "title": "Show HN: A Ghidra extension for exporting parts of a program as object files",
+                "href": "https://github.com/boricj/ghidra-delinker-extension"
+            },
+            {
                 "title": "What If Data Is a Bad Idea?",
                 "href": "https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html"
             },
             {
+                "title": "StructuredRAG: JSON Response Formatting with Large Language Models",
+                "href": "https://arxiv.org/abs/2408.11061"
+            },
+            {
                 "title": "DRAKON",
                 "href": "https://en.wikipedia.org/wiki/DRAKON"
+            },
+            {
+                "title": "Cursor Has Raised $60M",
+                "href": "https://www.cursor.com/blog/series-a"
             },
             {
                 "title": "GPU utilization can be a misleading metric",
@@ -863,10 +883,6 @@
                 "href": "item?id=41322730"
             },
             {
-                "title": "Cursor Has Raised $60M",
-                "href": "https://www.cursor.com/blog/series-a"
-            },
-            {
                 "title": "Ethernet History Deepdive \u2013 Why Do We Have Different Frame Types?",
                 "href": "https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/"
             },
@@ -875,12 +891,12 @@
                 "href": "item?id=41321936"
             },
             {
-                "title": "Making PyPy's GC and JIT produce a sound [video]",
-                "href": "https://www.youtube.com/watch?v=drwJBzDM1jI"
+                "title": "Show HN: FOSD \u2013 Framework of Operating System Development",
+                "href": "https://github.com/fosd-project/FOSD"
             },
             {
-                "title": "StructuredRAG: JSON Response Formatting with Large Language Models",
-                "href": "https://arxiv.org/abs/2408.11061"
+                "title": "Making PyPy's GC and JIT produce a sound [video]",
+                "href": "https://www.youtube.com/watch?v=drwJBzDM1jI"
             },
             {
                 "title": "Vooma (YC W23) is hiring a growth lead",
@@ -901,22 +917,6 @@
             {
                 "title": "Constraining writers in distributed systems",
                 "href": "https://shachaf.net/w/constraining-writers-in-distributed-systems"
-            },
-            {
-                "title": "Show HN: Isaiah \u2013 open-source and self-hosted app to manage everything Docker",
-                "href": "https://github.com/will-moss/isaiah"
-            },
-            {
-                "title": "Hardware Virtualization",
-                "href": "https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/"
-            },
-            {
-                "title": "Data Modeling SaaS Entitlements and Pricing",
-                "href": "https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing"
-            },
-            {
-                "title": "'Virtually intact' wreck believed to be Royal Navy warship torpedoed in WWI",
-                "href": "https://www.theguardian.com/uk-news/article/2024/aug/17/virtually-intact-wreck-off-scotland-believed-to-be-royal-navy-warship-torpedoed-in-wwi"
             }
         ]
     }
