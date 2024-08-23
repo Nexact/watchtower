@@ -19,12 +19,12 @@
                 "href": "https://github.com/xplshn/dbin"
             },
             {
-                "title": "The Only JavaScript Feature That Was Deprecated",
-                "href": "https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated"
-            },
-            {
                 "title": "Aerc: a Well-Crafted Tui for Email",
                 "href": "https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/"
+            },
+            {
+                "title": "The Only JavaScript Feature That Was Deprecated",
+                "href": "https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated"
             },
             {
                 "title": "vpsAdminOS",
@@ -33,6 +33,14 @@
             {
                 "title": "Andries Brouwer on the OOM killer",
                 "href": "https://quuxplusone.github.io/blog/2024/08/22/overcommit/"
+            },
+            {
+                "title": "Adventures building a spreadsheet engine in Python",
+                "href": "https://jamesg.blog/2024/08/21/spreadsheet-engine/"
+            },
+            {
+                "title": "generating cool ids in rails",
+                "href": "https://schpet.com/note/cool-id"
             },
             {
                 "title": "Flux: Refinement types for Rust",
@@ -45,14 +53,6 @@
             {
                 "title": "Hands-on NixOS servers",
                 "href": "https://garnix.io/blog/hosting-nixos"
-            },
-            {
-                "title": "Adventures building a spreadsheet engine in Python",
-                "href": "https://jamesg.blog/2024/08/21/spreadsheet-engine/"
-            },
-            {
-                "title": "generating cool ids in rails",
-                "href": "https://schpet.com/note/cool-id"
             },
             {
                 "title": "Why I avoid using `default` and inline functions in my class declarations",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Hackers now use AppDomain Injection to drop CobaltStrike beacons",
+                "href": "https://www.bleepingcomputer.com/news/security/hackers-now-use-appdomain-injection-to-drop-cobaltstrike-beacons/"
+            },
+            {
                 "title": "US oil giant Halliburton confirms cyberattack behind systems shutdown",
                 "href": "https://www.bleepingcomputer.com/news/security/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/"
             },
@@ -267,10 +271,6 @@
             {
                 "title": "Hackers steal banking creds from iOS, Android users via PWA apps",
                 "href": "https://www.bleepingcomputer.com/news/security/hackers-steal-banking-creds-from-ios-android-users-via-pwa-apps/"
-            },
-            {
-                "title": "Microsoft to roll out Windows Recall to Insiders in October",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/"
             }
         ]
     },
@@ -807,40 +807,60 @@
                 "href": "https://www.webcrumbs.org/frontend-ai"
             },
             {
-                "title": "Nanolog supports logging with 7 ns median latency",
-                "href": "https://github.com/PlatformLab/NanoLog"
-            },
-            {
-                "title": "Show HN: InstantDB \u2013 A Modern Firebase",
-                "href": "https://github.com/instantdb/instant"
-            },
-            {
                 "title": "Launch HN: Moonglow (YC S24) \u2013 Serverless Jupyter Notebooks",
                 "href": "item?id=41329750"
             },
             {
-                "title": "17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist",
-                "href": "https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/"
-            },
-            {
-                "title": "SnapDiagram \u2013 Instantly Convert Hand-Drawn Diagrams to Digital with AI",
-                "href": "https://snapdiagram.xyz/"
+                "title": "Nanolog supports logging with 7 ns median latency",
+                "href": "https://github.com/PlatformLab/NanoLog"
             },
             {
                 "title": "Vega \u2013 A declarative language for interactive visualization designs",
                 "href": "https://vega.github.io/vega/"
             },
             {
-                "title": "The staggering death toll of scientific lies",
-                "href": "https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time"
+                "title": "We need to liberate the Postcode Address File",
+                "href": "https://takes.jamesomalley.co.uk/p/secret-paf-report"
+            },
+            {
+                "title": "OpenSSH Backdoors",
+                "href": "https://blog.isosceles.com/openssh-backdoors/"
+            },
+            {
+                "title": "SnapDiagram \u2013 Instantly Convert Hand-Drawn Diagrams to Digital with AI",
+                "href": "https://snapdiagram.xyz/"
+            },
+            {
+                "title": "17-Year-Old Student Exposes Germany's 'Secret' Pirate Site Blocklist",
+                "href": "https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/"
+            },
+            {
+                "title": "Show HN: Ruroco \u2013 like port knocking, but better",
+                "href": "https://github.com/beac0n/ruroco"
+            },
+            {
+                "title": "Playing Sudoku in TypeScript while the type checker highlights mistakes",
+                "href": "https://github.com/gruhn/typescript-sudoku"
+            },
+            {
+                "title": "DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters",
+                "href": "https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters"
             },
             {
                 "title": "TextBundle",
                 "href": "http://textbundle.org/"
             },
             {
+                "title": "Confessions of a Theoretical Physicist",
+                "href": "https://nautil.us/confessions-of-a-theoretical-physicist-787199/"
+            },
+            {
                 "title": "Claude's API now supports CORS requests, enabling client-side applications",
                 "href": "https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/"
+            },
+            {
+                "title": "Pierre Cartier Has Died",
+                "href": "https://www.lemonde.fr/disparitions/article/2024/08/19/pierre-cartier-mathematicien-francais-est-mort_6286756_3382.html"
             },
             {
                 "title": "Optimisation-dependent IR decisions in Clang",
@@ -851,36 +871,36 @@
                 "href": "https://github.com/w3c/epubcheck"
             },
             {
-                "title": "Pierre Cartier Has Died",
-                "href": "https://www.lemonde.fr/disparitions/article/2024/08/19/pierre-cartier-mathematicien-francais-est-mort_6286756_3382.html"
-            },
-            {
-                "title": "DOJ Sues RealPage for Algorithmic Pricing Scheme That Harms Renters",
-                "href": "https://www.justice.gov/opa/pr/justice-department-sues-realpage-algorithmic-pricing-scheme-harms-millions-american-renters"
+                "title": "The staggering death toll of scientific lies",
+                "href": "https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time"
             },
             {
                 "title": "Python\u2019s Preprocessor",
                 "href": "https://pydong.org/posts/PythonsPreprocessor/"
             },
             {
+                "title": "AI photo editing raises trust issues in photography",
+                "href": "https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9"
+            },
+            {
                 "title": "Evidence stacks up for poisonous books containing toxic dyes",
                 "href": "https://phys.org/news/2024-08-evidence-stacks-poisonous-toxic-dyes.html"
             },
             {
-                "title": "Valve New Employee Handbook (2012) [pdf]",
-                "href": "https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf"
+                "title": "Show HN: InstantDB \u2013 A Modern Firebase",
+                "href": "https://github.com/instantdb/instant"
             },
             {
                 "title": "Tales from the Far Side",
                 "href": "http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html"
             },
             {
-                "title": "Surfer: Centralize all your personal data from online platforms",
-                "href": "https://github.com/CEREBRUS-MAXIMUS/Surfer-Data"
-            },
-            {
                 "title": "The Chancellor's Excellent Questions",
                 "href": "https://montanaskeptic.substack.com/p/the-chancellors-excellent-questions"
+            },
+            {
+                "title": "Surfer: Centralize all your personal data from online platforms",
+                "href": "https://github.com/CEREBRUS-MAXIMUS/Surfer-Data"
             },
             {
                 "title": "Hacker Purity Test (1989)",
@@ -891,32 +911,12 @@
                 "href": "https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how"
             },
             {
-                "title": "Show HN: Ruroco \u2013 like port knocking, but better",
-                "href": "https://github.com/beac0n/ruroco"
-            },
-            {
                 "title": "Continuous reinvention: A brief history of block storage at AWS",
                 "href": "https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html"
             },
             {
-                "title": "Leveraging AI for efficient incident response",
-                "href": "https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/"
-            },
-            {
                 "title": "DRAKON",
                 "href": "https://en.wikipedia.org/wiki/DRAKON"
-            },
-            {
-                "title": "The Katsuification of Britain",
-                "href": "https://www.vittlesmagazine.com/p/the-katsuification-of-britain"
-            },
-            {
-                "title": "What's Going on in Machine Learning? Some Minimal Models",
-                "href": "https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/"
-            },
-            {
-                "title": "What If Data Is a Bad Idea?",
-                "href": "https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html"
             }
         ]
     }
