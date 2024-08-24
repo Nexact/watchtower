@@ -47,12 +47,16 @@
                 "href": "https://jsomers.net/blog/dictionary"
             },
             {
-                "title": "coupling as co-explanation",
-                "href": "https://explaining.software/archive/coupling-as-co-explanation/"
+                "title": "Printing the web, part 2: HTML and CSS for printing books",
+                "href": "https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books"
             },
             {
                 "title": "How to Build a Minimal ZFS NAS without Synology, QNAP, TrueNAS",
                 "href": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
+            },
+            {
+                "title": "coupling as co-explanation",
+                "href": "https://explaining.software/archive/coupling-as-co-explanation/"
             },
             {
                 "title": "JavaScript interpreter, for EYG language, available on npm",
@@ -63,16 +67,12 @@
                 "href": "https://floooh.github.io/2024/08/24/zig-and-emulators.html"
             },
             {
-                "title": "Common Lisp Cookbook",
-                "href": "https://lispcookbook.github.io/cl-cookbook/"
-            },
-            {
                 "title": "I sped up serde_json strings by 20%",
                 "href": "https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/"
             },
             {
-                "title": "Printing the web, part 2: HTML and CSS for printing books",
-                "href": "https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books"
+                "title": "Common Lisp Cookbook",
+                "href": "https://lispcookbook.github.io/cl-cookbook/"
             },
             {
                 "title": "Forgejo is now copyleft, just like Git",
@@ -114,10 +114,6 @@
             {
                 "title": "How 1 Exposed Honeywell API Gave us Control Over an Internal Engineering System",
                 "href": "https://www.reddit.com/r/netsec/comments/1ezfx83/how_1_exposed_honeywell_api_gave_us_control_over/"
-            },
-            {
-                "title": "LLM01: Prompt Injection Explained With Practical Example: Protecting Your LLM from Malicious Input",
-                "href": "https://www.reddit.com/r/netsec/comments/1f06ipo/llm01_prompt_injection_explained_with_practical/"
             },
             {
                 "title": "Splitting the email atom: exploiting parsers to bypass access controls",
@@ -210,6 +206,10 @@
             {
                 "title": "Lil Pwny Rides Again: Streamline Your Active Directory Password Audits with the New 3.2.0 Update",
                 "href": "https://www.reddit.com/r/netsec/comments/1esch7s/lil_pwny_rides_again_streamline_your_active/"
+            },
+            {
+                "title": "RCE in Windows IPv6 Stack (CVE-2024-38063)",
+                "href": "https://www.reddit.com/r/netsec/comments/1es50r1/rce_in_windows_ipv6_stack_cve202438063/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "NASA Smashed into an Asteroid in 2022. The Debris Could End Up Reaching Earth",
+                "href": "https://science.slashdot.org/story/24/08/24/0517222/nasa-smashed-into-an-asteroid-in-2022-the-debris-could-end-up-reaching-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Quantum Internet Prototype Runs For 15 Days Under New York City",
                 "href": "https://tech.slashdot.org/story/24/08/24/1618227/quantum-internet-prototype-runs-for-15-days-under-new-york-city?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Microsoft's Copilot Falsely Accuses Court Reporter of Crimes He Covered",
                 "href": "https://tech.slashdot.org/story/24/08/23/1931257/microsofts-copilot-falsely-accuses-court-reporter-of-crimes-he-covered?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "World-First Lung Cancer Vaccine Trials Launched Across Seven Countries",
-                "href": "https://science.slashdot.org/story/24/08/23/1924239/world-first-lung-cancer-vaccine-trials-launched-across-seven-countries?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,64 +795,68 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "JavaScript Dates Are About to Be Fixed",
+                "title": "JavaScript dates are about to be fixed",
                 "href": "https://docs.timetime.in/blog/js-dates-finally-fixed"
-            },
-            {
-                "title": "Small Strings in Rust: smolstr vs. smartstring",
-                "href": "https://fasterthanli.me/articles/small-strings-in-rust"
             },
             {
                 "title": "Show HN: Visualize database schemas with a single query",
                 "href": "https://github.com/chartdb/chartdb"
             },
             {
-                "title": "Hot Page \u2013 a graphical site builder",
-                "href": "https://hot.page/"
-            },
-            {
-                "title": "NASA Announces Boeing Starliner Crew Will Return on SpaceX Crew-9",
+                "title": "NASA announces Boeing Starliner crew will return on SpaceX Crew-9",
                 "href": "https://twitter.com/NASA/status/1827393397939634503"
-            },
-            {
-                "title": "Did you lose your AirPods?",
-                "href": "https://alexyancey.com/lost-airpods/"
-            },
-            {
-                "title": "OneText (YC W23) Is Hiring a Chief of Staff",
-                "href": "https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff"
-            },
-            {
-                "title": "Software possession for personal use",
-                "href": "https://olano.dev/blog/software-possession-for-personal-use/"
-            },
-            {
-                "title": "Random Thoughts about Unity",
-                "href": "https://aras-p.info/blog/2024/08/11/Random-thoughts-about-Unity/"
             },
             {
                 "title": "Pipe Syntax in SQL",
                 "href": "https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/"
             },
             {
-                "title": "Microwaves: A Haven for Bacterial Diversity",
-                "href": "https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/"
+                "title": "Small Strings in Rust: smolstr vs. smartstring",
+                "href": "https://fasterthanli.me/articles/small-strings-in-rust"
+            },
+            {
+                "title": "Carmack on Oculus, Minecraft, Meta and Microsoft",
+                "href": "https://twitter.com/ID_AA_Carmack/status/1827363452194619692"
+            },
+            {
+                "title": "Hot Page \u2013 a graphical site builder",
+                "href": "https://hot.page/"
+            },
+            {
+                "title": "Golang Interpreter Written in PHP",
+                "href": "https://github.com/tuqqu/go-php"
+            },
+            {
+                "title": "OneText (YC W23) Is Hiring a Chief of Staff",
+                "href": "https://www.ycombinator.com/companies/onetext/jobs/B1RIFNb-founding-chief-of-staff"
+            },
+            {
+                "title": "Did you lose your AirPods?",
+                "href": "https://alexyancey.com/lost-airpods/"
+            },
+            {
+                "title": "Software possession for personal use",
+                "href": "https://olano.dev/blog/software-possession-for-personal-use/"
             },
             {
                 "title": "Implementing React from Scratch",
                 "href": "https://www.rob.directory/blog/react-from-scratch"
             },
             {
+                "title": "Random Thoughts about Unity",
+                "href": "https://aras-p.info/blog/2024/08/11/Random-thoughts-about-Unity/"
+            },
+            {
+                "title": "A $10k stipend is available for anyone moving to Cumberland, MD",
+                "href": "https://www.ci.cumberland.md.us/1787/Choose-Cumberland-Relocation-Program"
+            },
+            {
                 "title": "Async hazard: MMAP is blocking IO",
                 "href": "https://huonw.github.io/blog/2024/08/async-hazard-mmap/"
             },
             {
-                "title": "Moom 4: Next-generation window manager",
-                "href": "https://manytricks.com/blog/?p=6385"
-            },
-            {
-                "title": "ISS Astronauts to Return to Earth on SpaceX Crew Dragon: NASA [video]",
-                "href": "https://www.youtube.com/watch?v=AGOswKRSsHc"
+                "title": "Microwaves: A Haven for Bacterial Diversity",
+                "href": "https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/"
             },
             {
                 "title": "Death Cafe",
@@ -867,16 +871,28 @@
                 "href": "https://www.watchaffinity.co.uk/blog/its-complicated-the-remontoire/"
             },
             {
-                "title": "Starliner astronauts will return to Earth on SpaceX Dragon",
-                "href": "https://twitter.com/SciGuySpace/status/1827393747010908548"
+                "title": "Against all odds, an asteroid mining company appears to be making headway",
+                "href": "https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/"
             },
             {
                 "title": "I sped up serde_json strings by 20%",
                 "href": "https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/"
             },
             {
+                "title": "With Power Comes Great Responsibility Platforms Want to Be Utilities (2021)",
+                "href": "https://www.eff.org/deeplinks/2021/08/utilities-governed-empires"
+            },
+            {
+                "title": "NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew",
+                "href": "https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/"
+            },
+            {
                 "title": "We have reached OpenBSD of Theseus",
                 "href": "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2"
+            },
+            {
+                "title": "You are not dumb, you just lack the prerequisites",
+                "href": "https://lelouch.dev/blog/you-are-probably-not-dumb/"
             },
             {
                 "title": "Author-paid publication fees corrupt science and should be abandoned",
@@ -891,28 +907,12 @@
                 "href": "https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html"
             },
             {
-                "title": "You Are Not Dumb, You Just Lack the Prerequisites",
-                "href": "https://lelouch.dev/blog/you-are-probably-not-dumb/"
+                "title": "Moom 4: Next-generation window manager",
+                "href": "https://manytricks.com/blog/?p=6385"
             },
             {
                 "title": "LM Studio 0.3 \u2013 Discover, download, and run local LLMs",
                 "href": "https://lmstudio.ai/blog/lmstudio-v0.3.0"
-            },
-            {
-                "title": "Japan on edge of EUV lithography chip-making revolution",
-                "href": "https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/"
-            },
-            {
-                "title": "Essential Terminal Commands Every Developer Should Know",
-                "href": "https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know/"
-            },
-            {
-                "title": "An Overview of Datalog (2010)",
-                "href": "https://clojure.github.io/clojure-contrib/doc/datalog.html"
-            },
-            {
-                "title": "OpenSSH Backdoors",
-                "href": "https://blog.isosceles.com/openssh-backdoors/"
             }
         ]
     }
