@@ -35,12 +35,12 @@
                 "href": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/"
             },
             {
-                "title": "Fixing a Bug in Google Chrome as a First-Time Contributor",
-                "href": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
-            },
-            {
                 "title": "JS Dates Are About to Be Fixed",
                 "href": "https://docs.timetime.in/blog/js-dates-finally-fixed/"
+            },
+            {
+                "title": "Fixing a Bug in Google Chrome as a First-Time Contributor",
+                "href": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
             },
             {
                 "title": "If pg_dump is not a backup tool, what is?",
@@ -59,16 +59,20 @@
                 "href": "https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/"
             },
             {
+                "title": "Using search as a primary datastore since the docs said not to",
+                "href": "https://ntietz.com/blog/the-docs-said-no-search-primary/"
+            },
+            {
+                "title": "Predicting the Future of Distributed Systems",
+                "href": "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
+            },
+            {
                 "title": "The queueing shell game",
                 "href": "https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/"
             },
             {
                 "title": "Precedence-aware pretty printing",
                 "href": "https://bernsteinbear.com/blog/precedence-printing/"
-            },
-            {
-                "title": "Predicting the Future of Distributed Systems",
-                "href": "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
             },
             {
                 "title": "Advanced Python: Achieving High Performance with Code Generation",
@@ -97,10 +101,6 @@
             {
                 "title": "Relicensing Monitor: Project Listing",
                 "href": "https://alexsci.com/relicensing-monitor/projects/"
-            },
-            {
-                "title": "Putting a meaningful dent in your error backlog",
-                "href": "https://blog.danslimmon.com/2024/08/15/putting-a-meaningful-dent-in-your-error-backlog/"
             }
         ]
     },
@@ -112,8 +112,20 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
             },
             {
+                "title": "GNU/Linux Sandboxing - A Brief Review",
+                "href": "https://www.reddit.com/r/netsec/comments/1f1oy0s/gnulinux_sandboxing_a_brief_review/"
+            },
+            {
                 "title": "SLUBStick risk assessment for embedded systems",
                 "href": "https://www.reddit.com/r/netsec/comments/1f14cwy/slubstick_risk_assessment_for_embedded_systems/"
+            },
+            {
+                "title": "Request Interceptor - A Lightweight Firefox Extension for intercepting/sending HTTP requests",
+                "href": "https://www.reddit.com/r/netsec/comments/1f0mq3e/request_interceptor_a_lightweight_firefox/"
+            },
+            {
+                "title": "ShellSilo: state-of-the-art tool that converts custom C syntax to syscall assembly/shellcode.",
+                "href": "https://www.reddit.com/r/netsec/comments/1f0i0x6/shellsilo_stateoftheart_tool_that_converts_custom/"
             },
             {
                 "title": "How 1 Exposed Honeywell API Gave us Control Over an Internal Engineering System",
@@ -198,18 +210,6 @@
             {
                 "title": "New phishing technique using udl files",
                 "href": "https://www.reddit.com/r/netsec/comments/1eszry0/new_phishing_technique_using_udl_files/"
-            },
-            {
-                "title": "Mixing watering hole attacks with history leak via CSS",
-                "href": "https://www.reddit.com/r/netsec/comments/1esq1jm/mixing_watering_hole_attacks_with_history_leak/"
-            },
-            {
-                "title": "Entra Id security bypass",
-                "href": "https://www.reddit.com/r/netsec/comments/1estcg3/entra_id_security_bypass/"
-            },
-            {
-                "title": "Lil Pwny Rides Again: Streamline Your Active Directory Password Audits with the New 3.2.0 Update",
-                "href": "https://www.reddit.com/r/netsec/comments/1esch7s/lil_pwny_rides_again_streamline_your_active/"
             }
         ]
     },
@@ -307,6 +307,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Telegram Says CEO Durov Has 'Nothing To Hide'",
+                "href": "https://yro.slashdot.org/story/24/08/26/1351214/telegram-says-ceo-durov-has-nothing-to-hide?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Boeing, Lockheed Martin Consider Selling ULA Space Launch Business",
                 "href": "https://science.slashdot.org/story/24/08/25/2357246/boeing-lockheed-martin-consider-selling-ula-space-launch-business?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -361,10 +365,6 @@
             {
                 "title": "How Reddit Challenges Google and Meta with Ads Based on Topics - Not User Data",
                 "href": "https://tech.slashdot.org/story/24/08/24/0337218/how-reddit-challenges-google-and-meta-with-ads-based-on-topics---not-user-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Linus Torvalds Talks About Rust Adoption and AI",
-                "href": "https://linux.slashdot.org/story/24/08/25/0256228/linus-torvalds-talks-about-rust-adoption-and-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -622,20 +622,36 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "How To Manipulate The Execution Flow Of TOCTOU Attacks",
-                "href": "https://packetstormsecurity.com/news/view/36249/How-To-Manipulate-The-Execution-Flow-Of-TOCTOU-Attacks.html"
+                "title": "Iranian Hackers Target WhatsApp Accounts Of Staffers In Biden, Trump Administrations, Meta Says",
+                "href": "https://packetstormsecurity.com/news/view/36256/Iranian-Hackers-Target-WhatsApp-Accounts-Of-Staffers-In-Biden-Trump-Administrations-Meta-Says.html"
             },
             {
-                "title": "SolarWinds Leaks Credentials In Hotfix",
-                "href": "https://packetstormsecurity.com/news/view/36250/SolarWinds-Leaks-Credentials-In-Hotfix.html"
+                "title": "Microsoft To Host Security Summit After CrowdStrike Disaster",
+                "href": "https://packetstormsecurity.com/news/view/36254/Microsoft-To-Host-Security-Summit-After-CrowdStrike-Disaster.html"
+            },
+            {
+                "title": "US Sues Georgia Tech Over Alleged Cybersecurity Failings",
+                "href": "https://packetstormsecurity.com/news/view/36253/US-Sues-Georgia-Tech-Over-Alleged-Cybersecurity-Failings.html"
+            },
+            {
+                "title": "Major Backdoor In Millions Of RFID Cards Allows Instant Cloning",
+                "href": "https://packetstormsecurity.com/news/view/36255/Major-Backdoor-In-Millions-Of-RFID-Cards-Allows-Instant-Cloning.html"
+            },
+            {
+                "title": "Google Patches Ninth Chrome Zero Day Of 2024",
+                "href": "https://packetstormsecurity.com/news/view/36252/Google-Patches-Ninth-Chrome-Zero-Day-Of-2024.html"
             },
             {
                 "title": "Defenders Get A MoonPeak At North Korea's Malware Backbone",
                 "href": "https://packetstormsecurity.com/news/view/36251/Defenders-Get-A-MoonPeak-At-North-Koreas-Malware-Backbone.html"
             },
             {
-                "title": "Google Patches Ninth Chrome Zero Day Of 2024",
-                "href": "https://packetstormsecurity.com/news/view/36252/Google-Patches-Ninth-Chrome-Zero-Day-Of-2024.html"
+                "title": "SolarWinds Leaks Credentials In Hotfix",
+                "href": "https://packetstormsecurity.com/news/view/36250/SolarWinds-Leaks-Credentials-In-Hotfix.html"
+            },
+            {
+                "title": "How To Manipulate The Execution Flow Of TOCTOU Attacks",
+                "href": "https://packetstormsecurity.com/news/view/36249/How-To-Manipulate-The-Execution-Flow-Of-TOCTOU-Attacks.html"
             },
             {
                 "title": "Atlassian Patches Vulnerabilities In Bamboo, Confluence, Crowd, Jira",
@@ -660,22 +676,6 @@
             {
                 "title": "Cisco Calls For UN To Revisit Cybercrime Convention",
                 "href": "https://packetstormsecurity.com/news/view/36243/Cisco-Calls-For-UN-To-Revisit-Cybercrime-Convention.html"
-            },
-            {
-                "title": "Deadbeat Dad Faked His Own Death By Hacking Government Databases",
-                "href": "https://packetstormsecurity.com/news/view/36242/Deadbeat-Dad-Faked-His-Own-Death-By-Hacking-Government-Databases.html"
-            },
-            {
-                "title": "FlightAware Admits Passwords, SSNs Exposed For Years",
-                "href": "https://packetstormsecurity.com/news/view/36241/FlightAware-Admits-Passwords-SSNs-Exposed-For-Years.html"
-            },
-            {
-                "title": "Cyberattack Disrupts Microchip Manufacturing Facilities",
-                "href": "https://packetstormsecurity.com/news/view/36240/Cyberattack-Disrupts-Microchip-Manufacturing-Facilities.html"
-            },
-            {
-                "title": "Microsoft Copilot Studio Vuln Led To Information Disclosure",
-                "href": "https://packetstormsecurity.com/news/view/36239/Microsoft-Copilot-Studio-Vuln-Led-To-Information-Disclosure.html"
             },
             {
                 "title": "Ray cpu_profile Command Injection",
@@ -791,28 +791,20 @@
                 "href": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
             },
             {
-                "title": "Removing stuff is never obvious yet often better",
-                "href": "https://www.gkogan.co/removing-stuff/"
+                "title": "Mozilla removes telemetry service Adjust from mobile Firefox versions",
+                "href": "https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/"
             },
             {
-                "title": "US dismantles laptop farm used by undercover North Korean IT workers",
-                "href": "https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/"
+                "title": "Removing stuff is never obvious yet often better",
+                "href": "https://www.gkogan.co/removing-stuff/"
             },
             {
                 "title": "Avante.nvim: Use Your Neovim Like Using Cursor AI IDE",
                 "href": "https://github.com/yetone/avante.nvim"
             },
             {
-                "title": "IKEA launches secondhand marketplace to compete with eBay",
-                "href": "https://www.ft.com/content/4b18236f-f2f0-43eb-bb65-5f8d2f30a734"
-            },
-            {
                 "title": "Love them or hate them, this couple reign in Russian literature",
                 "href": "https://www.nytimes.com/2024/08/26/books/larissa-volokhonsky-richard-pevear.html"
-            },
-            {
-                "title": "Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search",
-                "href": "https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c"
             },
             {
                 "title": "Database \"sharding\" came from Ultima Online? (2009)",
@@ -823,6 +815,14 @@
                 "href": "https://github.com/makeecat/Peng"
             },
             {
+                "title": "Activeloop (YC S18) Seeks an AI Search Engineer to Build Most Accurate Search",
+                "href": "https://careers.activeloop.ai/?ashby_jid=0b60f11e-1775-4aed-9a2e-f44df0f3da0c"
+            },
+            {
+                "title": "32M invoices, contracts, patient consent forms, and more exposed to the internet",
+                "href": "https://www.websiteplanet.com/news/servicebridge-breach-report/"
+            },
+            {
                 "title": "Linux Pipes Are Slow",
                 "href": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/"
             },
@@ -831,32 +831,36 @@
                 "href": "https://initialneil.github.io/DEGAS"
             },
             {
-                "title": "Olivetti Programma 101: At the Origins of the Personal Computer",
-                "href": "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/"
+                "title": "Schools are competing with cell phones",
+                "href": "https://apnews.com/article/school-cell-phone-ban-extracurricular-afterschool-4d89f5b7fd7c8f1d5903f8c04f26da54"
             },
             {
-                "title": "Things I Learned from Doing Triathlon in My 70s",
-                "href": "https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/"
+                "title": "Olivetti Programma 101: At the Origins of the Personal Computer",
+                "href": "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/"
             },
             {
                 "title": "Australian employees now have the right to ignore work emails, calls after hours",
                 "href": "https://www.reuters.com/world/asia-pacific/australian-employees-now-have-right-ignore-work-emails-calls-after-hours-2024-08-25/"
             },
             {
-                "title": "Show HN: Support.dev \u2013 a non-trivial Vue and Supabase app",
-                "href": "https://github.com/bwship/support-dev"
+                "title": "Things I Learned from Doing Triathlon in My 70s",
+                "href": "https://www.triathlete.com/culture/7-things-i-learned-doing-triathlon-in-my-70s/"
             },
             {
                 "title": "Rnote \u2013 Sketch and take handwritten notes",
                 "href": "https://github.com/flxzt/rnote"
             },
             {
-                "title": "Pi Pico 2 Extreme Teardown",
-                "href": "http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html"
+                "title": "Show HN: Support.dev \u2013 a non-trivial Vue and Supabase app",
+                "href": "https://github.com/bwship/support-dev"
             },
             {
                 "title": "Stripe Data vs. Open\u2010Source Alternatives: A MRR Example",
                 "href": "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example"
+            },
+            {
+                "title": "Pi Pico 2 Extreme Teardown",
+                "href": "http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html"
             },
             {
                 "title": "Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing",
@@ -871,20 +875,16 @@
                 "href": "https://notgull.net/announcing-dozer/"
             },
             {
-                "title": "Why Does Elisp Suck",
-                "href": "https://www.emacswiki.org/emacs/WhyDoesElispSuck"
-            },
-            {
-                "title": "The Cryptographic Doom Principle (2011)",
-                "href": "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
+                "title": "Strandbeest",
+                "href": "https://www.strandbeest.com/"
             },
             {
                 "title": "BuffDB is a Rust library to simplify multi-plexing on edge devices",
                 "href": "https://github.com/buffdb/buffdb"
             },
             {
-                "title": "Strandbeest",
-                "href": "https://www.strandbeest.com/"
+                "title": "The Cryptographic Doom Principle (2011)",
+                "href": "https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html"
             },
             {
                 "title": "Modern Wardriving (2023)",
@@ -895,12 +895,12 @@
                 "href": "https://www.ijassjournal.com/2020/V3I6/4146575149.pdf"
             },
             {
-                "title": "Emulating the Early Macintosh Floppy Drive",
-                "href": "https://thomasw.dev/post/mac-floppy-emu/"
+                "title": "Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions",
+                "href": "https://arxiv.org/abs/2408.08379"
             },
             {
-                "title": "How WW2 bombs across the Pacific are found and destroyed, decades after war",
-                "href": "https://www.theguardian.com/world/2024/apr/05/ww2-hidden-bombs-clearing-disposal-pacific-marshall-islands-unexploded-ordnance-uxo"
+                "title": "Why Does Elisp Suck",
+                "href": "https://www.emacswiki.org/emacs/WhyDoesElispSuck"
             }
         ]
     }
