@@ -27,6 +27,10 @@
                 "href": "https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/"
             },
             {
+                "title": "How we run migrations across 2,800 microservices",
+                "href": "https://monzo.com/blog/how-we-run-migrations-across-2800-microservices"
+            },
+            {
                 "title": "Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)",
                 "href": "https://www.youtube.com/watch?v=si9iqF5uTFk"
             },
@@ -47,8 +51,20 @@
                 "href": "https://www.jvt.me/posts/2024/08/26/v0/"
             },
             {
+                "title": "Using dtrace with SIP enabled",
+                "href": "https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b"
+            },
+            {
+                "title": "Box64 and RISC-V in 2024",
+                "href": "https://box86.org/2024/08/box64-and-risc-v-in-2024/"
+            },
+            {
                 "title": "Leader Election With S3 Conditional Writes",
                 "href": "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/"
+            },
+            {
+                "title": "ast-grep | structural search/rewrite tool for many languages",
+                "href": "https://ast-grep.github.io/"
             },
             {
                 "title": "If pg_dump is not a backup tool, what is?",
@@ -63,6 +79,10 @@
                 "href": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
             },
             {
+                "title": "Clay: high performance UI layout library in C",
+                "href": "https://github.com/nicbarker/clay"
+            },
+            {
                 "title": "Bootstrap a Linux system from a 512 byte binary seed with 170 steps",
                 "href": "https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst"
             },
@@ -75,32 +95,12 @@
                 "href": "https://buttondown.com/jaffray/archive/languages-without-abstraction/"
             },
             {
-                "title": "Box64 and RISC-V in 2024",
-                "href": "https://box86.org/2024/08/box64-and-risc-v-in-2024/"
-            },
-            {
-                "title": "ast-grep | structural search/rewrite tool for many languages",
-                "href": "https://ast-grep.github.io/"
-            },
-            {
                 "title": "Using StringView / German Style Strings to Make Queries Faster: Part 1 - Reading Parquet",
                 "href": "https://www.influxdata.com/blog/faster-queries-with-stringview-part-one-influxdb/"
             },
             {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/yorupm/what_are_you_doing_this_week"
-            },
-            {
-                "title": "JS Dates Are About to Be Fixed",
-                "href": "https://docs.timetime.in/blog/js-dates-finally-fixed/"
-            },
-            {
-                "title": "They don\u2019t make \u2019em like that any more: Borland Turbo Pascal 7",
-                "href": "https://kevinboone.me/tpwin.html"
-            },
-            {
-                "title": "Using an Old Android as an E-Reader: A More Secure and Flexible Device than a Boox Palma",
-                "href": "https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Hobbyists Discover How To Insert Custom Fonts Into AI-Generated Images",
+                "href": "https://slashdot.org/story/24/08/27/028255/hobbyists-discover-how-to-insert-custom-fonts-into-ai-generated-images?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Stem Cell Therapy Frees Woman From Diabetes",
                 "href": "https://science.slashdot.org/story/24/08/27/056248/stem-cell-therapy-frees-woman-from-diabetes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Telegram Founder Arrest Part of Cybercrime Inquiry, Say Prosecutors",
                 "href": "https://yro.slashdot.org/story/24/08/26/183259/telegram-founder-arrest-part-of-cybercrime-inquiry-say-prosecutors?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "A Lot of New In-car Tech is 'Not Necessary,' Survey Finds",
-                "href": "https://tech.slashdot.org/story/24/08/26/178225/a-lot-of-new-in-car-tech-is-not-necessary-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -803,10 +803,6 @@
                 "href": "https://hamel.dev/blog/posts/dokku/"
             },
             {
-                "title": "FreeBSD-rustdate, a reimplementation of FreeBSD-update",
-                "href": "https://rustdate.over-yonder.net/"
-            },
-            {
                 "title": "Erasure Coding for Distributed Systems",
                 "href": "https://transactional.blog/blog/2024-erasure-coding"
             },
@@ -815,8 +811,8 @@
                 "href": "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/"
             },
             {
-                "title": "Qualcomm Oryon CPU Core Design",
-                "href": "https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/"
+                "title": "FreeBSD-rustdate, a reimplementation of FreeBSD-update",
+                "href": "https://rustdate.over-yonder.net/"
             },
             {
                 "title": "Clojure Desktop UI Framework",
@@ -827,16 +823,28 @@
                 "href": "https://amodernist.com/texts/guix.html"
             },
             {
+                "title": "Tinybox of tinygrad by George Hotz is finally entering production",
+                "href": "https://twitter.com/realgeorgehotz/status/1828197925874463166"
+            },
+            {
+                "title": "Qualcomm Oryon CPU Core Design",
+                "href": "https://chipsandcheese.com/2024/08/26/hot-chips-2024-qualcomms-oryon-core/"
+            },
+            {
                 "title": "Sovereign Tech Fund to Invest \u20ac686k in FreeBSD Infrastructure Modernization",
                 "href": "https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/"
             },
             {
-                "title": "Predicting the Future of Distributed Systems",
-                "href": "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
-            },
-            {
                 "title": "Out of Your Head",
                 "href": "https://nautil.us/out-of-your-head-791745/"
+            },
+            {
+                "title": "RISC-V CPU arrives on a tablet starting at $149",
+                "href": "https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage"
+            },
+            {
+                "title": "Predicting the Future of Distributed Systems",
+                "href": "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
             },
             {
                 "title": "Clay (short for C Layout) is a high performance 2D UI layout library",
@@ -855,16 +863,12 @@
                 "href": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1553-2712.2008.00227.x"
             },
             {
-                "title": "The formatting of Oracle-branded HGST SSDs (2021)",
-                "href": "https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71"
-            },
-            {
-                "title": "RISC-V CPU arrives on a tablet starting at $149",
-                "href": "https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage"
-            },
-            {
                 "title": "Cellar Door: a quest to find the most beautiful word in English",
                 "href": "https://www.cellar-door.co.uk/"
+            },
+            {
+                "title": "The formatting of Oracle-branded HGST SSDs (2021)",
+                "href": "https://www.wanhunglo.com/2021/the-strange-formatting-of-oracle-branded-hgst-ssds-whl-71"
             },
             {
                 "title": "Vim Racer",
@@ -883,8 +887,16 @@
                 "href": "https://arxiv.org/abs/2408.01386"
             },
             {
+                "title": "Roame (YC S23) Is Hiring an iOS Founding Engineer",
+                "href": "https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer"
+            },
+            {
                 "title": "Harvard and MIT's $800M Mistake: The Triple Failure of 2U, EdX, and Axim",
                 "href": "https://www.classcentral.com/report/2u-edx-bankruptcy/"
+            },
+            {
+                "title": "Eating the Birds of America: Audubon's Culinary Reviews of America's Birds",
+                "href": "https://usbirdhistory.com/audubon-eating-americas-birds/"
             },
             {
                 "title": "Launch HN: Parity (YC S24) \u2013 AI for on-call engineers working with Kubernetes",
@@ -893,18 +905,6 @@
             {
                 "title": "Helen Fisher, who researched the brain\u2019s love circuitry, has died",
                 "href": "https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html"
-            },
-            {
-                "title": "Roame (YC S23) Is Hiring an iOS Founding Engineer",
-                "href": "https://www.ycombinator.com/companies/roame/jobs/e8G5FJF-founding-ios-engineer"
-            },
-            {
-                "title": "The Tao of Unicode Sparklines (2021)",
-                "href": "https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/"
-            },
-            {
-                "title": "Eating the Birds of America: Audubon's Culinary Reviews of America's Birds",
-                "href": "https://usbirdhistory.com/audubon-eating-americas-birds/"
             }
         ]
     }
