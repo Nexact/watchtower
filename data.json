@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "The Monospace Web",
-                "href": "https://owickstrom.github.io/the-monospace-web/"
-            },
-            {
                 "title": "\"This Key is Useless Now. Discard?\"",
                 "href": "https://btxx.org/posts/useless-key/"
+            },
+            {
+                "title": "The Monospace Web",
+                "href": "https://owickstrom.github.io/the-monospace-web/"
             },
             {
                 "title": "Zotero, redesigned",
@@ -31,16 +31,16 @@
                 "href": "https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
             },
             {
+                "title": "Libolm Deprecation",
+                "href": "https://matrix.org/blog/2024/08/libolm-deprecation/"
+            },
+            {
                 "title": "WineHQ takes over stewardship of Mono",
                 "href": "https://www.mono-project.com/"
             },
             {
                 "title": "There can't be only one",
                 "href": "https://www.b-list.org/weblog/2024/aug/27/highlander-problem/"
-            },
-            {
-                "title": "Libolm Deprecation",
-                "href": "https://matrix.org/blog/2024/08/libolm-deprecation/"
             },
             {
                 "title": "What programming language is in this <code> block?",
@@ -53,6 +53,10 @@
             {
                 "title": "Go 1.23's new unique package",
                 "href": "https://go.dev/blog/unique"
+            },
+            {
+                "title": "PyPy v7.3.17 release",
+                "href": "https://pypy.org/posts/2024/08/pypy-v7317-release.html"
             },
             {
                 "title": "Function Types in Nix",
@@ -71,28 +75,20 @@
                 "href": "https://github.com/ashishb/wp2hugo"
             },
             {
-                "title": "PyPy v7.3.17 release",
-                "href": "https://pypy.org/posts/2024/08/pypy-v7317-release.html"
-            },
-            {
                 "title": "Compiler front-end infrastructure",
                 "href": "https://github.com/Eliah-Lakhin/lady-deirdre"
-            },
-            {
-                "title": "Cloud Actor-Oriented Database Transactions in Orleans",
-                "href": "https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf"
             },
             {
                 "title": "Working with Protobuf in 2024",
                 "href": "https://kmcd.dev/posts/working-with-protobuf-in-2024/"
             },
             {
-                "title": "Rust dylib rabbit holes",
-                "href": "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
+                "title": "Cloud Actor-Oriented Database Transactions in Orleans",
+                "href": "https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf"
             },
             {
-                "title": "Evaluating a process manager",
-                "href": "https://tinkering.xyz/evaluating-process-manager/"
+                "title": "Rust dylib rabbit holes",
+                "href": "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
             },
             {
                 "title": "Clay: high performance UI layout library in C",
@@ -101,118 +97,14 @@
             {
                 "title": "Rate Limiting, Cells, and GCRA",
                 "href": "https://brandur.org/rate-limiting"
+            },
+            {
+                "title": "How we run migrations across 2,800 microservices",
+                "href": "https://monzo.com/blog/how-we-run-migrations-across-2800-microservices"
             }
         ]
     },
-    {
-        "feedname": "netsec",
-        "items": [
-            {
-                "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
-                "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
-            },
-            {
-                "title": "Microsoft Copilot: From Prompt Injection to Exfiltration of Personal Information",
-                "href": "https://www.reddit.com/r/netsec/comments/1f34sr9/microsoft_copilot_from_prompt_injection_to/"
-            },
-            {
-                "title": "I found 14 CVEs by downloading every Wordpress plugin and scanning all of it with Semgrep - full dataset published if you want to do some sifting yourself, there's plenty of output I haven't looked at.",
-                "href": "https://www.reddit.com/r/netsec/comments/1f2rl2q/i_found_14_cves_by_downloading_every_wordpress/"
-            },
-            {
-                "title": "Exploring inner workings of a random free android VPN",
-                "href": "https://www.reddit.com/r/netsec/comments/1f2u75y/exploring_inner_workings_of_a_random_free_android/"
-            },
-            {
-                "title": "Back to School - Exploiting a Remote Code Execution Vulnerability in Moodle",
-                "href": "https://www.reddit.com/r/netsec/comments/1f2c497/back_to_school_exploiting_a_remote_code_execution/"
-            },
-            {
-                "title": "Vtiger CRM (<= 8.1.0) SQL Injection in MailManager module - Shielder",
-                "href": "https://www.reddit.com/r/netsec/comments/1f36k32/vtiger_crm_810_sql_injection_in_mailmanager/"
-            },
-            {
-                "title": "Vtiger CRM (<= 8.1.0) Broken Access Control in Migration module - Shielder",
-                "href": "https://www.reddit.com/r/netsec/comments/1f36jol/vtiger_crm_810_broken_access_control_in_migration/"
-            },
-            {
-                "title": "Taking the Crossroads: The Versa Director Zero-Day Exploitation",
-                "href": "https://www.reddit.com/r/netsec/comments/1f2j3mp/taking_the_crossroads_the_versa_director_zeroday/"
-            },
-            {
-                "title": "GNU/Linux Sandboxing - A Brief Review",
-                "href": "https://www.reddit.com/r/netsec/comments/1f1oy0s/gnulinux_sandboxing_a_brief_review/"
-            },
-            {
-                "title": "Automated Bug Hunting With Semgrep",
-                "href": "https://www.reddit.com/r/netsec/comments/1f1uxsa/automated_bug_hunting_with_semgrep/"
-            },
-            {
-                "title": "SLUBStick risk assessment for embedded systems",
-                "href": "https://www.reddit.com/r/netsec/comments/1f14cwy/slubstick_risk_assessment_for_embedded_systems/"
-            },
-            {
-                "title": "POC for CVE-2024-38063 (RCE in Windows TCP/IP)",
-                "href": "https://www.reddit.com/r/netsec/comments/1f0vgod/poc_for_cve202438063_rce_in_windows_tcpip/"
-            },
-            {
-                "title": "Request Interceptor - A Lightweight Firefox Extension for intercepting/sending HTTP requests",
-                "href": "https://www.reddit.com/r/netsec/comments/1f0mq3e/request_interceptor_a_lightweight_firefox/"
-            },
-            {
-                "title": "ShellSilo: state-of-the-art tool that converts custom C syntax to syscall assembly/shellcode.",
-                "href": "https://www.reddit.com/r/netsec/comments/1f0i0x6/shellsilo_stateoftheart_tool_that_converts_custom/"
-            },
-            {
-                "title": "How 1 Exposed Honeywell API Gave us Control Over an Internal Engineering System",
-                "href": "https://www.reddit.com/r/netsec/comments/1ezfx83/how_1_exposed_honeywell_api_gave_us_control_over/"
-            },
-            {
-                "title": "Splitting the email atom: exploiting parsers to bypass access controls",
-                "href": "https://www.reddit.com/r/netsec/comments/1ez64zg/splitting_the_email_atom_exploiting_parsers_to/"
-            },
-            {
-                "title": "NTLM Credential Theft in Python Windows Applications \u2013 Horizon3.ai",
-                "href": "https://www.reddit.com/r/netsec/comments/1ezdcbk/ntlm_credential_theft_in_python_windows/"
-            },
-            {
-                "title": "Vulnerabilities in Homepage Dashboard - Anvil Secure",
-                "href": "https://www.reddit.com/r/netsec/comments/1ezgc9v/vulnerabilities_in_homepage_dashboard_anvil_secure/"
-            },
-            {
-                "title": "Gotta cache 'em all: bending the rules of web cache exploitation",
-                "href": "https://www.reddit.com/r/netsec/comments/1eyh7x2/gotta_cache_em_all_bending_the_rules_of_web_cache/"
-            },
-            {
-                "title": "Details about CVE-2024-22263: Spring Cloud Dataflow Arbitrary File Writing",
-                "href": "https://www.reddit.com/r/netsec/comments/1eykor9/details_about_cve202422263_spring_cloud_dataflow/"
-            },
-            {
-                "title": "BLUUID: Firewallas, Diabetics, And\u2026 Bluetooth",
-                "href": "https://www.reddit.com/r/netsec/comments/1ey3ego/bluuid_firewallas_diabetics_and_bluetooth/"
-            },
-            {
-                "title": "Call For Papers - Hackfest 2024 - Quebec City, Canada",
-                "href": "https://www.reddit.com/r/netsec/comments/1exqzc3/call_for_papers_hackfest_2024_quebec_city_canada/"
-            },
-            {
-                "title": "Web Browser Stored Credentials",
-                "href": "https://www.reddit.com/r/netsec/comments/1ewvtqt/web_browser_stored_credentials/"
-            },
-            {
-                "title": "SSRFing the Web with the help of Copilot Studio (Critical Vuln in Microsoft Copilot Studio)",
-                "href": "https://www.reddit.com/r/netsec/comments/1ewv7t5/ssrfing_the_web_with_the_help_of_copilot_studio/"
-            },
-            {
-                "title": "Phrack 71 released",
-                "href": "https://www.reddit.com/r/netsec/comments/1ewcwcr/phrack_71_released/"
-            },
-            {
-                "title": "Sploitify - GTFOBins-like tool for exploits",
-                "href": "https://www.reddit.com/r/netsec/comments/1evz0uv/sploitify_gtfobinslike_tool_for_exploits/"
-            }
-        ]
-    },
+    null,
     {
         "feedname": "bleepingcomputer",
         "items": [
@@ -315,12 +207,16 @@
         "feedname": "slashdot",
         "items": [
             {
-                "title": "Tumblr To Move Its Half a Billion Blogs To WordPress",
-                "href": "https://it.slashdot.org/story/24/08/28/1929200/tumblr-to-move-its-half-a-billion-blogs-to-wordpress?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+                "title": "Telegram CEO Indicted in Paris Court",
+                "href": "https://yro.slashdot.org/story/24/08/28/206217/telegram-ceo-indicted-in-paris-court?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
-                "title": "A Long, Weird FOSS Circle Ends as Microsoft Donates Mono To Wine Project",
-                "href": "https://tech.slashdot.org/story/24/08/28/191229/a-long-weird-foss-circle-ends-as-microsoft-donates-mono-to-wine-project?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+                "title": "OpenAI in Talks for Funding Round Valuing It Above $100 Billion",
+                "href": "https://slashdot.org/story/24/08/28/1949233/openai-in-talks-for-funding-round-valuing-it-above-100-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Tumblr To Move Its Half a Billion Blogs To WordPress",
+                "href": "https://it.slashdot.org/story/24/08/28/1929200/tumblr-to-move-its-half-a-billion-blogs-to-wordpress?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
                 "title": "The World's Call Center Capital Is Gripped by AI Fever - and Fear",
@@ -369,16 +265,16 @@
             {
                 "title": "Apple's CFO Steps Down Following a 10-Year Run",
                 "href": "https://apple.slashdot.org/story/24/08/27/227236/apples-cfo-steps-down-following-a-10-year-run?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Snapchat Now Runs Natively On iPad",
-                "href": "https://apple.slashdot.org/story/24/08/27/2157209/snapchat-now-runs-natively-on-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Fortra security advisory (AV24-486)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av24-486"
+            },
             {
                 "title": "[Control systems] B&R security advisory (AV24-484)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av24-484"
@@ -574,10 +470,6 @@
             {
                 "title": "Android security advisory \u2013 August 2024 Monthly Rollup (AV24-436)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2024-monthly-rollup-av24-436"
-            },
-            {
-                "title": "Ubuntu security advisory (AV24-435)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-435"
             }
         ]
     },
@@ -799,116 +691,116 @@
                 "href": "https://www.dolthub.com/blog/2024-08-23-the-4-chan-go-programmer/"
             },
             {
-                "title": "Maker Skill Trees",
-                "href": "https://github.com/sjpiper145/MakerSkillTree"
-            },
-            {
                 "title": "Window Maker: X11 window manager with the look and feel of the NeXTSTEP UI",
                 "href": "https://www.windowmaker.org/"
             },
             {
-                "title": "The journey of an internet packet: Exploring networks with traceroute",
-                "href": "https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/"
-            },
-            {
-                "title": "Stoke Awarded Contract to Develop Critical Space Mobility Capabilities",
-                "href": "https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/"
-            },
-            {
-                "title": "High-Temperature Gibbs States Are Unentangled and Efficiently Preparable",
-                "href": "https://arxiv.org/abs/2403.16850"
-            },
-            {
-                "title": "Show HN: IPA, a GUI for exploring inner details of PDFs",
-                "href": "https://github.com/seekbytes/IPA"
-            },
-            {
-                "title": "Typing lists and tuples in Elixir",
-                "href": "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
-            },
-            {
-                "title": "A dishwasher can make or break a restaurant (2017)",
-                "href": "https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/"
-            },
-            {
-                "title": "Reflex (YC W23) Is Hiring Python Software Engineers",
-                "href": "https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer"
+                "title": "Maker Skill Trees",
+                "href": "https://github.com/sjpiper145/MakerSkillTree"
             },
             {
                 "title": "Scaling Rails and Postgres to Users at Microsoft: Lessons and Takeaways",
                 "href": "https://stepchange.work/blog/scaling-rails-postgres-to-millions-of-users-at-microsoft-lessons-takeaways"
             },
             {
-                "title": "Formal CHERI: design-time proof of full-scale architecture security properties",
-                "href": "https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/"
+                "title": "New Anti-Toxicity Features on Bluesky",
+                "href": "https://bsky.social/about/blog/08-28-2024-anti-toxicity-features"
             },
             {
-                "title": "Show HN: Every open source tool from the \"What's HN working on\" thread",
-                "href": "https://github.com/getomni-ai/datasets/blob/main/hn_projects.md"
+                "title": "Kotlin for Data Analysis",
+                "href": "https://kotlinlang.org/docs/data-analysis-overview.html"
+            },
+            {
+                "title": "The journey of an internet packet: Exploring networks with traceroute",
+                "href": "https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/"
+            },
+            {
+                "title": "Panasonic Toughbook 40",
+                "href": "https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-40"
+            },
+            {
+                "title": "OpenAI in Talks for Funding Round Valuing It Above $100B",
+                "href": "https://www.wsj.com/tech/ai/openai-in-talks-for-funding-round-valuing-it-above-100-billion-4f0550c5"
+            },
+            {
+                "title": "Show HN: IPA, a GUI for exploring inner details of PDFs",
+                "href": "https://github.com/seekbytes/IPA"
+            },
+            {
+                "title": "High-temperature Gibbs states are unentangled and efficiently preparable",
+                "href": "https://arxiv.org/abs/2403.16850"
+            },
+            {
+                "title": "Reflex (YC W23) Is Hiring Python Software Engineers",
+                "href": "https://www.ycombinator.com/companies/reflex/jobs/CoRbEAk-software-engineer"
+            },
+            {
+                "title": "A dishwasher can make or break a restaurant (2017)",
+                "href": "https://www.washingtonpost.com/sf/style/2017/08/07/chefs-say-a-dishwasher-can-make-or-break-a-restaurant-so-i-signed-up-for-a-shift/"
+            },
+            {
+                "title": "Typing lists and tuples in Elixir",
+                "href": "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
+            },
+            {
+                "title": "Formal CHERI: design-time proof of full-scale architecture security properties",
+                "href": "https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/"
             },
             {
                 "title": "Show HN: Shed Light on Your Go Binary Bloat with Go Size Analyzer",
                 "href": "https://github.com/Zxilly/go-size-analyzer"
             },
             {
-                "title": "After 12 years at Google, I have decided it is time to move on",
-                "href": "https://www.linkedin.com/posts/richard-sproat-3a182411_after-12-years-at-google-18-years-if-you-activity-7233986579529089024--CZW"
+                "title": "Jack Welch Screwed Up GE and Boeing, and with Them Much US Climate Action",
+                "href": "https://cleantechnica.com/2024/08/26/jack-welch-screwed-up-ge-boeing-and-with-them-much-us-climate-action/"
+            },
+            {
+                "title": "Show HN: Every open source tool from the \"What's HN working on\" thread",
+                "href": "https://github.com/getomni-ai/datasets/blob/main/hn_projects.md"
             },
             {
                 "title": "Diffusion models are real-time game engines",
                 "href": "https://gamengen.github.io"
             },
             {
-                "title": "PC Floppy Copy Protection: Formaster Copy-Lock",
-                "href": "https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html"
-            },
-            {
-                "title": "Microsoft donates the Mono Project to the Wine team",
-                "href": "https://www.mono-project.com/"
-            },
-            {
-                "title": "The scalpel: From flint to zirconium-coated steel (2018)",
-                "href": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2018/02/the-history-of-the-scalpel-from-flint-to-zirconium-coated-steel/"
-            },
-            {
-                "title": "COSMIC Alpha Released",
-                "href": "https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/"
-            },
-            {
-                "title": "Interview with Signal President Meredith Whittaker",
-                "href": "https://www.wired.com/story/meredith-whittaker-signal/"
+                "title": "Stoke awarded contract to develop space mobility capabilities",
+                "href": "https://www.stokespace.com/stoke-awarded-contract-to-develop-critical-space-mobility-capabilities/"
             },
             {
                 "title": "Human population dynamics in Paleolithic inferred from fossil dental phenotypes",
                 "href": "https://www.science.org/doi/10.1126/sciadv.adn8129"
             },
             {
-                "title": "Wp2hugo: Best WordPress to Hugo migrator (written in Go)",
-                "href": "https://github.com/ashishb/wp2hugo"
+                "title": "What is the longest known sequence that repeats in Pi? (homelab)",
+                "href": "https://sponaugle.com/wp/math_pi_repeat/"
             },
             {
-                "title": "Show HN: Claude Artifacts\" but creating real web apps",
-                "href": "https://gptengineer.app"
+                "title": "Microsoft donates the Mono Project to the Wine team",
+                "href": "https://www.mono-project.com/"
+            },
+            {
+                "title": "PC Floppy Copy Protection: Formaster Copy-Lock",
+                "href": "https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html"
+            },
+            {
+                "title": "The scalpel: From flint to zirconium-coated steel (2018)",
+                "href": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2018/02/the-history-of-the-scalpel-from-flint-to-zirconium-coated-steel/"
+            },
+            {
+                "title": "Boxxy puts bad Linux applications in a box with only their files",
+                "href": "https://github.com/queer/boxxy"
             },
             {
                 "title": "State and time are the same thing",
                 "href": "https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/"
             },
             {
-                "title": "In Pre-WWII Berlin, the Shape of Your Roof Was a Highly Political Decision",
-                "href": "https://www.atlasobscura.com/articles/the-heated-highly-political-roof-war-that-captivated-berlin-before-world-war-ii"
+                "title": "COSMIC Alpha Released",
+                "href": "https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/"
             },
             {
-                "title": "Sapiens: Foundation for Human Vision Models",
-                "href": "https://arxiv.org/abs/2408.12569"
-            },
-            {
-                "title": "The slow evaporation of the free/open source surplus",
-                "href": "https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/"
-            },
-            {
-                "title": "Alacrity to Federated Cryptography",
-                "href": "https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/"
+                "title": "Show HN: Claude Artifacts\" but creating real web apps",
+                "href": "https://gptengineer.app"
             }
         ]
     }
