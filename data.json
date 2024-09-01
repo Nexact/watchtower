@@ -11,24 +11,28 @@
                 "href": "https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html"
             },
             {
-                "title": "Lesser-known operators in C#",
-                "href": "https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html"
+                "title": "The web's clipboard, and how it stores data of different types",
+                "href": "https://alexharri.com/blog/clipboard"
             },
             {
                 "title": "PlayStation 2 GS emulation \u2013 the final frontier of Vulkan compute emulation",
                 "href": "https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/"
             },
             {
-                "title": "The web's clipboard, and how it stores data of different types",
-                "href": "https://alexharri.com/blog/clipboard"
-            },
-            {
-                "title": "CHERI Myths: I don\u2019t need CHERI if I have safe languages",
-                "href": "https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html"
+                "title": "Lesser-known operators in C#",
+                "href": "https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html"
             },
             {
                 "title": "Was this hermit mathematician a forgotten genius whose ideas could transform AI \u2013 or a lonely madman?",
                 "href": "https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence"
+            },
+            {
+                "title": "Event-Driven Core, Request-Response Shell",
+                "href": "https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html"
+            },
+            {
+                "title": "CHERI Myths: I don\u2019t need CHERI if I have safe languages",
+                "href": "https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html"
             },
             {
                 "title": "SSH CA with device and identity attestation: ssh-tpm-ca-authority",
@@ -39,6 +43,10 @@
                 "href": "https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/"
             },
             {
+                "title": "Why is python shipped with the `python` docker image slower than that of my local machine?",
+                "href": "https://github.com/docker-library/python/issues/825"
+            },
+            {
                 "title": "This month in Servo: tabbed browsing, Windows buffs, devtools, and more",
                 "href": "https://servo.org/blog/2024/08/31/this-month-in-servo/"
             },
@@ -47,8 +55,8 @@
                 "href": "https://pliutau.com/my-first-experience-with-gleam-lang/"
             },
             {
-                "title": "Why is python shipped with the `python` docker image slower than that of my local machine?",
-                "href": "https://github.com/docker-library/python/issues/825"
+                "title": "Understanding Virtual Machine Dispatch through Duality (2023)",
+                "href": "https://noelwelsh.com/posts/understanding-vm-dispatch/"
             },
             {
                 "title": "Enabling DCI.DbC on a Jasper Lake NUC",
@@ -93,14 +101,6 @@
             {
                 "title": "Hurl 5.0.0, the Parallel Edition",
                 "href": "https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html"
-            },
-            {
-                "title": "GCRA: leaky buckets without the buckets",
-                "href": "https://dotat.at/@/2024-08-30-gcra.html"
-            },
-            {
-                "title": "CIEL Is an Extended Lisp",
-                "href": "http://ciel-lang.org/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Was the Arrest of Telegram's CEO Inevitable?",
+                "href": "https://yro.slashdot.org/story/24/09/01/0141216/was-the-arrest-of-telegrams-ceo-inevitable?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Open Source Redis Fork 'Valkey' Has Momentum, Improvements, and Speed, Says Dirk Hohndel",
                 "href": "https://news.slashdot.org/story/24/09/01/072220/open-source-redis-fork-valkey-has-momentum-improvements-and-speed-says-dirk-hohndel?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Google Play Store Can Finally Update Multiple Apps At Once",
                 "href": "https://tech.slashdot.org/story/24/08/31/011243/google-play-store-can-finally-update-multiple-apps-at-once?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Scientists Detect Invisible Electric Field Around Earth For First Time",
-                "href": "https://news.slashdot.org/story/24/08/31/0053205/scientists-detect-invisible-electric-field-around-earth-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -682,118 +682,110 @@
                 "href": "https://packetstormsecurity.com/news/view/36267/Cybercrime-And-Sabotage-Cost-German-Firms-300-Billion-In-Past-Year.html"
             },
             {
-                "title": "Microsoft Windows Deployment Services Unattend Retrieval",
-                "href": "https://packetstormsecurity.com/files/180944/windows_deployment_services.rb.txt"
+                "title": "Citrix ADC (NetScaler) Directory Traversal Scanner",
+                "href": "https://packetstormsecurity.com/files/181080/citrix_dir_traversal.rb.txt"
             },
             {
-                "title": "Memcached Stats Amplification Scanner",
-                "href": "https://packetstormsecurity.com/files/180943/memcached_amp.rb.txt"
+                "title": "Supermicro Onboard IPMI Url_redirect.cgi Authenticated Directory Traversal",
+                "href": "https://packetstormsecurity.com/files/181079/smt_ipmi_url_redirect_traversal.rb.txt"
             },
             {
-                "title": "TFTP Brute Forcer",
-                "href": "https://packetstormsecurity.com/files/180942/tftpbrute.rb.txt"
+                "title": "Binom3 Web Management Login Scanner, Config And Password File Dump",
+                "href": "https://packetstormsecurity.com/files/181078/binom3_login_config_pass_dump.rb.txt"
             },
             {
-                "title": "IpSwitch WhatsUp Gold TFTP Directory Traversal",
-                "href": "https://packetstormsecurity.com/files/180941/ipswitch_whatsupgold_tftp.rb.txt"
+                "title": "HP Intelligent Management BIMS DownloadServlet Directory Traversal",
+                "href": "https://packetstormsecurity.com/files/181077/hp_imc_bims_downloadservlet_traversal.rb.txt"
             },
             {
-                "title": "NetDecision 4.2 TFTP Directory Traversal",
-                "href": "https://packetstormsecurity.com/files/180940/netdecision_tftp.rb.txt"
+                "title": "Barracuda Multiple Product Locale Directory Traversal",
+                "href": "https://packetstormsecurity.com/files/181076/barracuda_directory_traversal.rb.txt"
             },
             {
-                "title": "Oracle XML DB SID Discovery Via Brute Force",
-                "href": "https://packetstormsecurity.com/files/180939/xdb_sid_brute.rb.txt"
+                "title": "WordPress Simple Backup File Read",
+                "href": "https://packetstormsecurity.com/files/181075/wp_simple_backup_file_read.rb.txt"
             },
             {
-                "title": "Oracle ISQLPlus SID Check",
-                "href": "https://packetstormsecurity.com/files/180938/isqlplus_sidbrute.rb.txt"
+                "title": "WordPress Modern Events Calendar SQL Injection Scanner",
+                "href": "https://packetstormsecurity.com/files/181074/wp_modern_events_calendar_sqli.rb.txt"
             },
             {
-                "title": "Oracle Account Discovery",
-                "href": "https://packetstormsecurity.com/files/180937/admin-oracle-oracle_login.rb.txt"
+                "title": "WordPress Loginizer Log SQL Injection Scanner",
+                "href": "https://packetstormsecurity.com/files/181073/wp_loginizer_log_sqli.rb.txt"
             },
             {
-                "title": "Oracle TNS Listener SID Enumeration",
-                "href": "https://packetstormsecurity.com/files/180936/sid_enum.rb.txt"
+                "title": "Emby SSRF HTTP Scanner",
+                "href": "https://packetstormsecurity.com/files/181072/emby_ssrf_scanner.rb.txt"
             },
             {
-                "title": "Oracle TNS Listener Checker",
-                "href": "https://packetstormsecurity.com/files/180935/tnspoison_checker.rb.txt"
+                "title": "Zabbix Server Brute Force Utility",
+                "href": "https://packetstormsecurity.com/files/181071/zabbix_login.rb.txt"
             },
             {
-                "title": "UDP Amplification Scanner",
-                "href": "https://packetstormsecurity.com/files/180934/udp_amplification.rb.txt"
+                "title": "Accellion FTA Statecode Cookie Arbitrary File Read",
+                "href": "https://packetstormsecurity.com/files/181070/accellion_fta_statecode_file_read.rb.txt"
             },
             {
-                "title": "URGENT/11 Scanner, Based On Detection Tool By Armis",
-                "href": "https://packetstormsecurity.com/files/180933/urgent11_check.rb.txt"
+                "title": "ClanSphere 2011.3 Local File Inclusion",
+                "href": "https://packetstormsecurity.com/files/181069/clansphere_traversal.rb.txt"
             },
             {
-                "title": "Cisco IKE Information Disclosure",
-                "href": "https://packetstormsecurity.com/files/180932/cisco_ike_benigncertain.rb.txt"
+                "title": "SurgeNews User Credentials",
+                "href": "https://packetstormsecurity.com/files/181068/surgenews_user_creds.rb.txt"
             },
             {
-                "title": "Etcd Keys API Information Gathering",
-                "href": "https://packetstormsecurity.com/files/180931/open_key_scanner.rb.txt"
+                "title": "LimeSurvey Zip Path Traversals",
+                "href": "https://packetstormsecurity.com/files/181067/limesurvey_zip_traversals.rb.txt"
             },
             {
-                "title": "VMware Server Directory Traversal",
-                "href": "https://packetstormsecurity.com/files/180930/vmware_server_dir_trav.rb.txt"
+                "title": "Apache HTTPD Mod_negotiation Filename Bruter",
+                "href": "https://packetstormsecurity.com/files/181066/mod_negotiation_brute.rb.txt"
             },
             {
-                "title": "VMWare Web Login Scanner",
-                "href": "https://packetstormsecurity.com/files/180929/vmware_http_login.rb.txt"
+                "title": "OpenMind Message-OS Portal Login Brute Force Utility",
+                "href": "https://packetstormsecurity.com/files/181065/openmind_messageos_login.rb.txt"
             },
             {
-                "title": "VMWare Update Manager 4 Directory Traversal",
-                "href": "https://packetstormsecurity.com/files/180928/vmware_update_manager_traversal.rb.txt"
+                "title": "Total.js Prior To 3.2.4 Directory Traversal",
+                "href": "https://packetstormsecurity.com/files/181064/totaljs_traversal.rb.txt"
             },
             {
-                "title": "VMWare Enumerate User Accounts",
-                "href": "https://packetstormsecurity.com/files/180927/vmware_enum_users.rb.txt"
+                "title": "Cisco Ironport Bruteforce Login Utility",
+                "href": "https://packetstormsecurity.com/files/181063/cisco_ironport_enum.rb.txt"
             },
             {
-                "title": "Cisco DLSw Information Disclosure Scanner",
-                "href": "https://packetstormsecurity.com/files/180926/dlsw_leak_capture.rb.txt"
+                "title": "WordPress DukaPress Plugin File Read",
+                "href": "https://packetstormsecurity.com/files/181062/wp_dukapress_file_read.rb.txt"
             },
             {
-                "title": "CVE-2023-21554 QueueJumper - MSMQ Remote Code Execution Check",
-                "href": "https://packetstormsecurity.com/files/180925/cve_2023_21554_queuejumper.rb.txt"
+                "title": "Wordpress Plugin WooCommerce Payments Unauthenticated Admin Creation",
+                "href": "https://packetstormsecurity.com/files/181061/wp_woocommerce_payments_add_user.rb.txt"
             },
             {
-                "title": "Apple Filing Protocol Info Enumerator",
-                "href": "https://packetstormsecurity.com/files/180924/afp_server_info.rb.txt"
+                "title": "WordPress XMLRPC GHOST Scanner",
+                "href": "https://packetstormsecurity.com/files/181060/wordpress_ghost_scanner.rb.txt"
             },
             {
-                "title": "Apple Filing Protocol Login Utility",
-                "href": "https://packetstormsecurity.com/files/180923/afp_login.rb.txt"
+                "title": "Apache Reverse Proxy Bypass Scanner",
+                "href": "https://packetstormsecurity.com/files/181059/rewrite_proxy_bypass.rb.txt"
             },
             {
-                "title": "Brocade Password Hash Enumeration",
-                "href": "https://packetstormsecurity.com/files/180922/brocade_enumhash.rb.txt"
+                "title": "Apache Axis2 Brute Force Utility",
+                "href": "https://packetstormsecurity.com/files/181058/axis_login.rb.txt"
             },
             {
-                "title": "SNMP Windows Username Enumeration",
-                "href": "https://packetstormsecurity.com/files/180921/snmp_enumusers.rb.txt"
+                "title": "Cambium EPMP 1000 Get_chart Command Injection",
+                "href": "https://packetstormsecurity.com/files/181057/epmp1000_get_chart_cmd_exec.rb.txt"
             },
             {
-                "title": "HP LaserJet Printer SNMP Enumeration",
-                "href": "https://packetstormsecurity.com/files/180920/snmp_enum_hp_laserjet.rb.txt"
+                "title": "SAP BusinessObjects User Enumeration",
+                "href": "https://packetstormsecurity.com/files/181056/sap_businessobjects_user_enum.rb.txt"
             }
         ]
     },
     {
         "feedname": "hackernews",
         "items": [
-            {
-                "title": "Why US Nightlife Sucks",
-                "href": "https://darrellowens.substack.com/p/why-us-nightlife-sucks"
-            },
-            {
-                "title": "Show HN: Linkpreview, see how your sites looks in social media and chat apps",
-                "href": "https://linkpreview.xyz"
-            },
             {
                 "title": "Founder Mode",
                 "href": "https://paulgraham.com/foundermode.html"
@@ -803,16 +795,16 @@
                 "href": "https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html"
             },
             {
+                "title": "Show HN: Linkpreview, see how your sites looks in social media and chat apps",
+                "href": "https://linkpreview.xyz"
+            },
+            {
                 "title": "Einstein's Other Theory of Everything",
                 "href": "https://nautil.us/einsteins-other-theory-of-everything-823245/"
             },
             {
                 "title": "Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime",
                 "href": "https://vitaut.net/posts/2024/binary-size/"
-            },
-            {
-                "title": "What 100 Years of Research Says about Ability Grouping and Acceleration [pdf]",
-                "href": "http://www.k12accountability.org/resources/Gifted-Education/GT_Review_of_Ed_Research_Meta_Analysis.pdf"
             },
             {
                 "title": "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
@@ -835,24 +827,16 @@
                 "href": "https://hekint.org/2017/01/25/the-anonymous-olmec-artisan-and-velazquez/"
             },
             {
-                "title": "JSON is usually the least bad option for machine-readable output formats",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONLeastBadFormat"
-            },
-            {
                 "title": "Harder Drive: hard drives we didn't want, or need (2022) [video]",
                 "href": "http://tom7.org/harder/"
-            },
-            {
-                "title": "Anarchy in Sudan has spawned the world\u2019s worst famine in 40 years",
-                "href": "https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years"
             },
             {
                 "title": "Build Your Own Z80 Computer: Design Guidelines and Application (1981)",
                 "href": "https://archive.org/details/BuildYourOwnZ80ComputerSteveCiarcia"
             },
             {
-                "title": "The Starliner spacecraft has started to emit noises",
-                "href": "https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/"
+                "title": "Anarchy in Sudan has spawned the world\u2019s worst famine in 40 years",
+                "href": "https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years"
             },
             {
                 "title": "Did your car witness a crime?",
@@ -867,10 +851,6 @@
                 "href": "https://www.youtube.com/watch?v=jLX1-tNnvEo"
             },
             {
-                "title": "A better HTML input experience (custom elements and the AOM) (2017)",
-                "href": "https://robdodson.me/posts/the-future-of-accessibility-for-custom-elements/"
-            },
-            {
                 "title": "MapRoulette: the micro-tasking tool for OpenStreetMap",
                 "href": "https://maproulette.org/"
             },
@@ -879,12 +859,12 @@
                 "href": "https://docs.percona.com/everest/index.html"
             },
             {
-                "title": "WatchYourLAN: Lightweight Network IP Scanner",
-                "href": "https://github.com/aceberg/WatchYourLAN"
-            },
-            {
                 "title": "Brazil's X ban is sending lots of people to Bluesky",
                 "href": "https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky"
+            },
+            {
+                "title": "WatchYourLAN: Lightweight Network IP Scanner",
+                "href": "https://github.com/aceberg/WatchYourLAN"
             },
             {
                 "title": "Astronomers puzzled by little red galaxies that seem impossibly dense",
@@ -895,16 +875,36 @@
                 "href": "https://fietkau.software/qr"
             },
             {
+                "title": "The Null Pointer",
+                "href": "https://0x0.st/"
+            },
+            {
                 "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
                 "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+            },
+            {
+                "title": "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
+                "href": "https://github.com/velorek1/C-edit"
+            },
+            {
+                "title": "Show HN: Typeform alternative, turns Markdown to forms",
+                "href": "https://blocks.md"
             },
             {
                 "title": "The Design and Implementation of the CPython Virtual Machine",
                 "href": "https://blog.codingconfessions.com/p/cpython-vm-internals"
             },
             {
-                "title": "Show HN: A retro terminal text editor for GNU/Linux coded in C (C-edit)",
-                "href": "https://github.com/velorek1/C-edit"
+                "title": "Epilepsy Protection for VRChat",
+                "href": "https://github.com/LesseVR/EpilepsyProtection"
+            },
+            {
+                "title": "Non-Determinism and Overcount on Modern Hardware Performance Counters [pdf]",
+                "href": "https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf"
+            },
+            {
+                "title": "Is my vision that bad? No, it's just a bug in Apple's Calculator",
+                "href": "https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/"
             }
         ]
     }
