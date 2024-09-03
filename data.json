@@ -15,6 +15,10 @@
                 "href": "https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/"
             },
             {
+                "title": "Licensing is packaging",
+                "href": "https://keygen.sh/blog/licensing-is-packaging/"
+            },
+            {
                 "title": "Departure Mono",
                 "href": "https://departuremono.com/"
             },
@@ -27,44 +31,52 @@
                 "href": "https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/"
             },
             {
-                "title": "Licensing is packaging",
-                "href": "https://keygen.sh/blog/licensing-is-packaging/"
+                "title": "Terminfo, at this point in time, is a net-negative on the terminal ecosystem",
+                "href": "https://twoot.site/@bean/113056942625234032"
             },
             {
                 "title": "In Leak, Facebook Partner Brags About Listening to Your Phone\u2019s Microphone to Serve Ads for Stuff You Mention",
                 "href": "https://futurism.com/the-byte/facebook-partner-phones-listening-microphone"
             },
             {
-                "title": "Terminfo, at this point in time, is a net-negative on the terminal ecosystem",
-                "href": "https://twoot.site/@bean/113056942625234032"
-            },
-            {
-                "title": "zigimports: Unused imports remover for Zig",
-                "href": "https://github.com/tusharsadhwani/zigimports"
-            },
-            {
                 "title": "A TUI for sniffing network traffic using eBPF on Linux",
                 "href": "https://github.com/pythops/oryx"
-            },
-            {
-                "title": "Implementation of Functional Languages Using Custom Hardware (1985)",
-                "href": "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html"
-            },
-            {
-                "title": "Python Programmers' Experience",
-                "href": "https://two-wrongs.com/python-programmers-experience"
-            },
-            {
-                "title": "gRPC: 5 Years Later, Is It Still Worth It?",
-                "href": "https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b"
             },
             {
                 "title": "Is this trait sealed, or not sealed \u2014 that is the question",
                 "href": "https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/"
             },
             {
+                "title": "zigimports: Unused imports remover for Zig",
+                "href": "https://github.com/tusharsadhwani/zigimports"
+            },
+            {
+                "title": "Swift creator Chris Lattner on Mojo & Roc",
+                "href": "https://www.youtube.com/watch?v=ENviIxDTmUA"
+            },
+            {
+                "title": "Python Programmers' Experience",
+                "href": "https://two-wrongs.com/python-programmers-experience"
+            },
+            {
+                "title": "Implementation of Functional Languages Using Custom Hardware (1985)",
+                "href": "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html"
+            },
+            {
+                "title": "gRPC: 5 Years Later, Is It Still Worth It?",
+                "href": "https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b"
+            },
+            {
                 "title": "Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time",
                 "href": "https://oneirical.github.io/gsocfinal/"
+            },
+            {
+                "title": "the limb-metaphor for simplicity",
+                "href": "https://explaining.software/archive/the-limb-metaphor-for-simplicity/"
+            },
+            {
+                "title": "The Fundamental Law Of Software Dependencies",
+                "href": "https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html"
             },
             {
                 "title": "My coding experience with LLM",
@@ -83,24 +95,12 @@
                 "href": "https://mbuffett.com/posts/generating_chess_puzzles/"
             },
             {
-                "title": "the limb-metaphor for simplicity",
-                "href": "https://explaining.software/archive/the-limb-metaphor-for-simplicity/"
-            },
-            {
-                "title": "An overview of Cloudflare's logging pipeline",
-                "href": "https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/"
-            },
-            {
-                "title": "Make Your Own CDN With NetBSD",
-                "href": "https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/"
-            },
-            {
                 "title": "linux, year one",
                 "href": "https://packbat.neocities.org/linux_year_one_twice"
             },
             {
-                "title": "exponential rate limiting",
-                "href": "https://dotat.at/@/2024-09-02-ewma.html"
+                "title": "An overview of Cloudflare's logging pipeline",
+                "href": "https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/"
             }
         ]
     },
@@ -112,12 +112,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
             },
             {
-                "title": "Why bother with argv[0]? It can deceive, break and corrupt your defences",
-                "href": "https://www.reddit.com/r/netsec/comments/1f7yoo4/why_bother_with_argv0_it_can_deceive_break_and/"
-            },
-            {
                 "title": "EUCLEAK is a side-channel vulnerability that requires physical access to a YubiKey 5 Series prior to version 5.7 and (other Infineon based microcontrollers) allowing private key extraction. YSA-2024-03",
                 "href": "https://www.reddit.com/r/netsec/comments/1f86qtf/eucleak_is_a_sidechannel_vulnerability_that/"
+            },
+            {
+                "title": "Why bother with argv[0]? It can deceive, break and corrupt your defences",
+                "href": "https://www.reddit.com/r/netsec/comments/1f7yoo4/why_bother_with_argv0_it_can_deceive_break_and/"
             },
             {
                 "title": "Learning Rust for fun and backdoo-rs",
@@ -380,16 +380,36 @@
         "feedname": "cybercentre",
         "items": [
             {
-                "title": "Dell security advisory (AV24-488)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488"
+                "title": "Mozilla security advisory (AV24-493)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-493"
+            },
+            {
+                "title": "HPE security advisory (AV24-495)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-495"
+            },
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV24-491)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-491"
+            },
+            {
+                "title": "VMware security advisory (AV24-494)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av24-494"
+            },
+            {
+                "title": "Red Hat security advisory (AV24-492)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-492"
+            },
+            {
+                "title": "Ubuntu security advisory (AV24-490)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-490"
             },
             {
                 "title": "IBM security advisory (AV24-489)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-489"
             },
             {
-                "title": "Google Chrome security advisory (AV24-487)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487"
+                "title": "Dell security advisory (AV24-488)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-488"
             },
             {
                 "title": "Fortra security advisory (AV24-486)",
@@ -398,6 +418,10 @@
             {
                 "title": "Cisco security advisory (AV24-485)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-485"
+            },
+            {
+                "title": "Google Chrome security advisory (AV24-487)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-487"
             },
             {
                 "title": "[Control systems] B&R security advisory (AV24-484)",
@@ -554,30 +578,6 @@
             {
                 "title": "HPE security advisory (AV24-446)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-446"
-            },
-            {
-                "title": "Drupal security advisory (AV24-445)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-445"
-            },
-            {
-                "title": "Jenkins security advisory (AV24-444)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av24-444"
-            },
-            {
-                "title": "Cisco security advisory (AV24-443)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-443"
-            },
-            {
-                "title": "HPE security advisory (AV24-442)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-442"
-            },
-            {
-                "title": "Google Chrome security advisory (AV24-441)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-441"
-            },
-            {
-                "title": "HPE security advisory (AV24-440)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-440"
             }
         ]
     },
@@ -791,12 +791,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Chromatone \u2013 Visual Music Language",
-                "href": "https://chromatone.center/"
-            },
-            {
                 "title": "The Engineering of Landfills",
                 "href": "https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills"
+            },
+            {
+                "title": "Chromatone \u2013 Visual Music Language",
+                "href": "https://chromatone.center/"
             },
             {
                 "title": "EUCLEAK Side-Channel Attack on the YubiKey 5 Series",
@@ -807,12 +807,28 @@
                 "href": "https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/"
             },
             {
+                "title": "Show HN: Hestus \u2013 AI Copilot for CAD",
+                "href": "https://www.hestus.co/"
+            },
+            {
+                "title": "For those who hear voices, the \u2018broken brain\u2019 explanation is harmful",
+                "href": "https://aeon.co/essays/how-the-psychiatric-narrative-hinders-those-who-hear-voices"
+            },
+            {
                 "title": "Show HN: Repaint \u2013 a WebGL based website builder",
                 "href": "https://repaint.com"
             },
             {
                 "title": "Synchronizing pong to music with constrained optimization",
                 "href": "https://victortao.substack.com/p/song-pong"
+            },
+            {
+                "title": "Show HN: Epistolary \u2013 Respond to your emails in handwriting",
+                "href": "https://github.com/j6k4m8/epistolary"
+            },
+            {
+                "title": "Formance (YC S21) Is Hiring a Technical Writer",
+                "href": "https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer"
             },
             {
                 "title": "Show HN: PlasCAD: Open-source plasmid editor",
@@ -823,16 +839,20 @@
                 "href": "https://morizbuesing.com/blog/greppability-code-metric/"
             },
             {
-                "title": "Formance (YC S21) Is Hiring a Technical Writer",
-                "href": "https://www.ycombinator.com/companies/formance/jobs/cz7CHvV-technical-writer"
-            },
-            {
                 "title": "Is My Blue Your Blue?",
                 "href": "https://ismy.blue/"
             },
             {
-                "title": "For those who hear voices, the \u2018broken brain\u2019 explanation is harmful",
-                "href": "https://aeon.co/essays/how-the-psychiatric-narrative-hinders-those-who-hear-voices"
+                "title": "Some Advice for How to Make Emacs Tetris Harder (2019)",
+                "href": "https://nickdrozd.github.io/2019/01/14/tetris.html"
+            },
+            {
+                "title": "The Fourier Uncertainty Principles [pdf] (2021)",
+                "href": "https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf"
+            },
+            {
+                "title": "Unveiling Mac Security: Comprehensive Exploration of Sandboxing and AppData TCC",
+                "href": "https://imlzq.com/apple/macos/2024/08/24/Unveiling-Mac-Security-A-Comprehensive-Exploration-of-TCC-Sandboxing-and-App-Data-TCC.html"
             },
             {
                 "title": "IBM 305 RAMAC and the 1960 Winter Olympics",
@@ -843,8 +863,8 @@
                 "href": "https://www.wietzebeukema.nl/blog/why-bother-with-argv0"
             },
             {
-                "title": "The Fourier Uncertainty Principles [pdf] (2021)",
-                "href": "https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf"
+                "title": "Things my girlfriend and I have argued about",
+                "href": "http://www.thingsmygirlfriendandihavearguedabout.com/"
             },
             {
                 "title": "My Blog Engine Is the Erlang Build Tool",
@@ -855,14 +875,6 @@
                 "href": "item?id=41425910"
             },
             {
-                "title": "Steve Ballmer's incorrect binary search interview question",
-                "href": "https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html"
-            },
-            {
-                "title": "A photographer captures life in America's last remaining old-growth forests",
-                "href": "https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests"
-            },
-            {
                 "title": "Show HN: Shehzadi in Peril \u2013 My first ever game",
                 "href": "https://shehzadi.vercel.app"
             },
@@ -871,12 +883,20 @@
                 "href": "https://www.bytedrum.com/posts/art-of-finishing/"
             },
             {
-                "title": "The occult technology of the rollercoaster",
-                "href": "https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster"
+                "title": "Steve Ballmer's incorrect binary search interview question",
+                "href": "https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html"
+            },
+            {
+                "title": "A photographer captures life in America's last remaining old-growth forests",
+                "href": "https://www.npr.org/sections/the-picture-show/2024/09/03/g-s1-5057/photographer-captures-life-in-old-growth-forests"
             },
             {
                 "title": "IPMI",
                 "href": "https://computer.rip/2024-08-31-ipmi.html"
+            },
+            {
+                "title": "The occult technology of the rollercoaster",
+                "href": "https://simonindelicate.substack.com/p/the-occult-technology-of-the-rollercoaster"
             },
             {
                 "title": "Diffusion Is Spectral Autoregression",
@@ -887,28 +907,8 @@
                 "href": "https://www.timeextension.com/news/2024/09/wizardry-co-creator-andrew-greenberg-has-passed-away"
             },
             {
-                "title": "Graph Language Models",
-                "href": "https://aclanthology.org/2024.acl-long.245/"
-            },
-            {
-                "title": "Dickens: The Map",
-                "href": "https://londonist.com/london/maps/dickens-the-ultimate-map-history"
-            },
-            {
-                "title": "Web scraping with GPT-4o: powerful but expensive",
-                "href": "https://blancas.io/blog/ai-web-scraper/"
-            },
-            {
-                "title": "I was asked to leave an event for female founders because I had my baby with me",
-                "href": "https://www.businessinsider.com/asked-leave-event-female-founders-y-combinator-because-baby-2024-9"
-            },
-            {
-                "title": "Jennifer in paradise: the story of the first Photoshopped image (2014)",
-                "href": "https://www.theguardian.com/artanddesign/photography-blog/2014/jun/13/photoshop-first-image-jennifer-in-paradise-photography-artefact-knoll-dullaart"
-            },
-            {
-                "title": "Notes on Distributed Systems for Young Bloods",
-                "href": "https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/"
+                "title": "American Radio Relay League paid $1M ransom payment",
+                "href": "https://databreaches.net/2024/08/27/american-radio-relay-league-paid-1-million-ransom-payment/"
             }
         ]
     }
