@@ -15,6 +15,10 @@
                 "href": "https://www.yubico.com/support/security-advisories/ysa-2024-03/"
             },
             {
+                "title": "Firefox will consider a Rust implementation of JPEG-XL",
+                "href": "https://github.com/mozilla/standards-positions/pull/1064"
+            },
+            {
                 "title": "Greppability is an underrated code metric",
                 "href": "https://morizbuesing.com/blog/greppability-code-metric/"
             },
@@ -25,10 +29,6 @@
             {
                 "title": "It's not Rust, it's FreeBSD (and LLVM)",
                 "href": "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
-            },
-            {
-                "title": "Firefox will consider a Rust implementation of JPEG-XL",
-                "href": "https://github.com/mozilla/standards-positions/pull/1064"
             },
             {
                 "title": "Setting up a cache server for apt packages",
@@ -47,20 +47,20 @@
                 "href": "https://github.com/pythops/oryx"
             },
             {
-                "title": "How to deadlock Tokio application in Rust with just a single mutex",
-                "href": "https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex"
-            },
-            {
                 "title": "The Fundamental Law Of Software Dependencies",
                 "href": "https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html"
             },
             {
-                "title": "Departure Mono",
-                "href": "https://departuremono.com/"
+                "title": "How to deadlock Tokio application in Rust with just a single mutex",
+                "href": "https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex"
             },
             {
                 "title": "gRPC: 5 Years Later, Is It Still Worth It?",
                 "href": "https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b"
+            },
+            {
+                "title": "Departure Mono",
+                "href": "https://departuremono.com/"
             },
             {
                 "title": "zigimports: Unused imports remover for Zig",
@@ -73,6 +73,10 @@
             {
                 "title": "Python Programmers' Experience",
                 "href": "https://two-wrongs.com/python-programmers-experience"
+            },
+            {
+                "title": "In practice, abstractions hide their underlying details",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails"
             },
             {
                 "title": "In Leak, Facebook Partner Brags About Listening to Your Phone\u2019s Microphone to Serve Ads for Stuff You Mention",
@@ -95,12 +99,8 @@
                 "href": "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html"
             },
             {
-                "title": "In practice, abstractions hide their underlying details",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails"
-            },
-            {
-                "title": "How do Fibers Work? A Peek Under the Hood (2019)",
-                "href": "https://www.youtube.com/watch?v=x5_MmZVLiSM"
+                "title": "Landlock: From a security mechanism idea to a widely available implementation",
+                "href": "https://landlock.io/talks/2024-06-06_landlock-article.pdf"
             }
         ]
     },
@@ -795,12 +795,12 @@
                 "href": "https://ninjalab.io/eucleak/"
             },
             {
-                "title": "We built the city of Colombo in Cities:Skylines",
-                "href": "https://github.com/team-watchdog/colombo-skylines"
-            },
-            {
                 "title": "Keeping CALM: When distributed consistency is easy",
                 "href": "https://arxiv.org/abs/1901.01930"
+            },
+            {
+                "title": "We built the city of Colombo in Cities:Skylines",
+                "href": "https://github.com/team-watchdog/colombo-skylines"
             },
             {
                 "title": "Interviewing Tim Sweeney and Neal Stephenson",
@@ -815,32 +815,36 @@
                 "href": "https://www.computerworld.com/article/3496192/court-handcuffs-employees-with-non-compete-agreements-again.html"
             },
             {
-                "title": "The Engineering of Landfills",
-                "href": "https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills"
-            },
-            {
                 "title": "Faster Integer Programming",
                 "href": "https://cacm.acm.org/news/faster-integer-programming/"
             },
             {
-                "title": "Synchronizing Pong to music with constrained optimization",
-                "href": "https://victortao.substack.com/p/song-pong"
+                "title": "The Engineering of Landfills",
+                "href": "https://practical.engineering/blog/2024/9/3/the-hidden-engineering-of-landfills"
+            },
+            {
+                "title": "How to sort your library in exactly 51,271 steps",
+                "href": "https://david.kolo.ski/blog/sort-library-steps-mtg/"
             },
             {
                 "title": "Show HN: Repaint \u2013 a WebGL based website builder",
                 "href": "https://repaint.com"
             },
             {
+                "title": "Synchronizing Pong to music with constrained optimization",
+                "href": "https://victortao.substack.com/p/song-pong"
+            },
+            {
                 "title": "Show HN: Hestus \u2013 AI Copilot for CAD",
                 "href": "https://www.hestus.co/"
             },
             {
-                "title": "Intel: New Core Ultra Processors Deliver Breakthrough Performance",
-                "href": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html"
-            },
-            {
                 "title": "Emerge Tools (YC W21) is hiring a senior front end engineer",
                 "href": "https://www.emergetools.com/careers/jobs/senior-frontend-engineer"
+            },
+            {
+                "title": "Show HN: OBS Live-streaming with 120ms latency",
+                "href": "https://github.com/Glimesh/broadcast-box"
             },
             {
                 "title": "Howm: Personal Wiki for Emacs",
@@ -851,28 +855,28 @@
                 "href": "item?id=41425910"
             },
             {
-                "title": "Navy chiefs conspired to get themselves illegal warship Wi-Fi",
-                "href": "https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/"
+                "title": "Vue 3.5 \u2013 The Vue Point",
+                "href": "https://blog.vuejs.org/posts/vue-3-5"
             },
             {
-                "title": "Show HN: OBS Live-streaming with 120ms latency",
-                "href": "https://github.com/Glimesh/broadcast-box"
+                "title": "Show HN: I'm making an AI scraper called FetchFox",
+                "href": "https://fetchfoxai.com/"
             },
             {
-                "title": "Writing a book in the age of open source",
-                "href": "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel"
+                "title": "Llms.txt",
+                "href": "https://llmstxt.org/"
             },
             {
                 "title": "My Blog Engine Is the Erlang Build Tool",
                 "href": "https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html"
             },
             {
-                "title": "The Fourier Uncertainty Principles [pdf] (2021)",
-                "href": "https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf"
+                "title": "Writing a book in the age of open source",
+                "href": "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel"
             },
             {
-                "title": "Show HN: I'm making an AI scraper called FetchFox",
-                "href": "https://fetchfoxai.com/"
+                "title": "The Fourier Uncertainty Principles [pdf] (2021)",
+                "href": "https://math.uchicago.edu/~may/REU2021/REUPapers/Dubey.pdf"
             },
             {
                 "title": "Greppability is an underrated code metric",
@@ -883,32 +887,28 @@
                 "href": "https://github.com/j6k4m8/epistolary"
             },
             {
-                "title": "Llms.txt",
-                "href": "https://llmstxt.org/"
-            },
-            {
                 "title": "Is My Blue Your Blue?",
                 "href": "https://ismy.blue/"
             },
             {
-                "title": "Vue 3.5 \u2013 The Vue Point",
-                "href": "https://blog.vuejs.org/posts/vue-3-5"
+                "title": "Intel: New Core Ultra Processors Deliver Breakthrough Performance",
+                "href": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200v-series-mobile.html"
+            },
+            {
+                "title": "There's a place for everyone",
+                "href": "https://www.experimental-history.com/p/theres-a-place-for-everyone"
             },
             {
                 "title": "IBM 305 RAMAC and the 1960 Winter Olympics",
                 "href": "https://pncnmnp.github.io/blogs/ibm-ramac-and-1960-winter-olympics.html"
             },
             {
-                "title": "Hot Temperature and High Stakes Performance [pdf]",
-                "href": "https://www3.nd.edu/~nmark/Climate/JParkHotTempHighStakes.pdf"
-            },
-            {
                 "title": "Show HN: Icebreaking AI. A free tool to help you find close friends",
                 "href": "https://www.icebreakinglab.com"
             },
             {
-                "title": "Show HN: Shehzadi in Peril \u2013 My first ever game",
-                "href": "https://shehzadi.vercel.app"
+                "title": "In a first, Phoenix hits 100 straight days of 100-degree heat",
+                "href": "https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/"
             }
         ]
     }
