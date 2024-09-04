@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)",
+                "href": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+            },
+            {
                 "title": "TUI for lobste.rs website",
                 "href": "https://github.com/pythops/lobtui"
             },
             {
                 "title": "Firefox will consider a Rust implementation of JPEG-XL",
                 "href": "https://github.com/mozilla/standards-positions/pull/1064"
-            },
-            {
-                "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)",
-                "href": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
             },
             {
                 "title": "Exploring Goja: A Golang JavaScript Runtime",
@@ -43,12 +43,16 @@
                 "href": "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
             },
             {
+                "title": "Whither the Apple AGX graphics driver?",
+                "href": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
+            },
+            {
                 "title": "retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers",
                 "href": "https://github.com/luke8086/retronews"
             },
             {
-                "title": "Whither the Apple AGX graphics driver?",
-                "href": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
+                "title": "What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints",
+                "href": "https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog"
             },
             {
                 "title": "Things I Wished More Developers Knew About Databases",
@@ -59,8 +63,8 @@
                 "href": "https://www.yubico.com/support/security-advisories/ysa-2024-03/"
             },
             {
-                "title": "What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints",
-                "href": "https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog"
+                "title": "Positions on Generative AI",
+                "href": "https://evantravers.com/articles/2024/09/03/positions-on-generative-ai/"
             },
             {
                 "title": "Expat 2.6.3 released, includes security fixes",
@@ -69,6 +73,10 @@
             {
                 "title": "Nobody Knows How Many Amigas Commodore Sold",
                 "href": "https://www.youtube.com/watch?v=AXCWYKSjHnI"
+            },
+            {
+                "title": "Programming the Convergent WorkSlate's spreadsheet microcassette future",
+                "href": "https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html"
             },
             {
                 "title": "\"SRE\" doesn't seem to mean anything useful any more",
@@ -83,24 +91,16 @@
                 "href": "https://morizbuesing.com/blog/greppability-code-metric/"
             },
             {
-                "title": "In practice, abstractions hide their underlying details",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails"
+                "title": "Dynamicland",
+                "href": "https://dynamicland.org"
             },
             {
-                "title": "Programming the Convergent WorkSlate's spreadsheet microcassette future",
-                "href": "https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html"
+                "title": "Twelve rules for job applications and interviews",
+                "href": "https://vurt.org/articles/twelve-rules/"
             },
             {
-                "title": "Yubikey is the Digital Seat Belt We Need Today",
-                "href": "https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/"
-            },
-            {
-                "title": "A TUI for sniffing network traffic using eBPF on Linux",
-                "href": "https://github.com/pythops/oryx"
-            },
-            {
-                "title": "Small-sized sbrk calls unexpectedly succeed despite low RLIMIT_AS",
-                "href": "https://blog.vashishtha.in/small-sbrk-sizes-with-rlimit/"
+                "title": "script: Making it easy to write shell-like scripts in Go",
+                "href": "https://github.com/bitfield/script"
             }
         ]
     },
@@ -217,6 +217,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microchip Technology confirms data was stolen in cyberattack",
+                "href": "https://www.bleepingcomputer.com/news/security/microchip-technology-confirms-data-was-stolen-in-cyberattack/"
+            },
+            {
+                "title": "Red team tool \u2018MacroPack\u2019 abused in attacks to deploy Brute Ratel",
+                "href": "https://www.bleepingcomputer.com/news/security/red-team-tool-macropack-abused-in-attacks-to-deploy-brute-ratel/"
+            },
+            {
                 "title": "US cracks down on Russian disinformation before 2024 election",
                 "href": "https://www.bleepingcomputer.com/news/security/us-cracks-down-on-russian-disinformation-before-2024-election/"
             },
@@ -259,14 +267,6 @@
             {
                 "title": "New Windows PowerToy launches, repositions apps to saved layouts",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/"
-            },
-            {
-                "title": "FBI warns crypto firms of aggressive social engineering attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/fbi-warns-crypto-firms-of-aggressive-social-engineering-attacks/"
-            },
-            {
-                "title": "Clearview AI fined \u20ac30.5 million for unlawful data collection",
-                "href": "https://www.bleepingcomputer.com/news/legal/clearview-ai-fined-305-million-by-dutch-dpa-for-unlawful-data-collection/"
             }
         ]
     },
@@ -795,16 +795,8 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Kagi Assistant",
-                "href": "https://blog.kagi.com/announcing-assistant"
-            },
-            {
                 "title": "CSS @property and the new style",
                 "href": "https://ryanmulligan.dev/blog/css-property-new-style/"
-            },
-            {
-                "title": "Layman's Guide to Python Built-In Functions \u00b7 Matt Layman",
-                "href": "https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/"
             },
             {
                 "title": "Dynamicland 2024",
@@ -815,36 +807,52 @@
                 "href": "https://github.com/Ligo-Biosciences/AlphaFold3"
             },
             {
+                "title": "A Real Life Off-by-One Error",
+                "href": "https://leejo.github.io/2024/09/01/off_by_one/"
+            },
+            {
                 "title": "The first nuclear clock will test if fundamental constants change",
                 "href": "https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/"
+            },
+            {
+                "title": "Kagi Assistant",
+                "href": "https://blog.kagi.com/announcing-assistant"
+            },
+            {
+                "title": "Snapshottable Stores",
+                "href": "https://dl.acm.org/doi/10.1145/3674637"
             },
             {
                 "title": "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
                 "href": "item?id=41450775"
             },
             {
-                "title": "Internet Archive loses appeal over eBook lending",
-                "href": "https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending"
-            },
-            {
-                "title": "Oakland's new school buses reduce pollution \u2013 and double as giant batteries",
-                "href": "https://grist.org/transportation/oakland-electric-school-buses-battery-storage/"
-            },
-            {
                 "title": "Flower Machine",
                 "href": "https://blog.rahix.de/tags/flower-machine/"
-            },
-            {
-                "title": "sRGB Gamut Clipping (2021)",
-                "href": "https://bottosson.github.io/posts/gamutclipping/"
             },
             {
                 "title": "Show HN: Mem0 \u2013 open-source Memory Layer for AI apps",
                 "href": "https://github.com/mem0ai/mem0"
             },
             {
+                "title": "sRGB Gamut Clipping (2021)",
+                "href": "https://bottosson.github.io/posts/gamutclipping/"
+            },
+            {
                 "title": "DAGitty \u2013 draw and analyze causal diagrams",
                 "href": "https://dagitty.net/"
+            },
+            {
+                "title": "Oakland's new school buses reduce pollution and double as giant batteries",
+                "href": "https://grist.org/transportation/oakland-electric-school-buses-battery-storage/"
+            },
+            {
+                "title": "The Internet Archive has lost its appeal in Hachette vs. Internet Archive",
+                "href": "https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf"
+            },
+            {
+                "title": "Heavy Construction of a Sewage Pump Station \u2013 Ep 3 [video]",
+                "href": "https://www.youtube.com/watch?v=Yd4yxionQpg"
             },
             {
                 "title": "Routed Gothic Font",
@@ -859,60 +867,52 @@
                 "href": "https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/"
             },
             {
-                "title": "Heavy Construction of a Sewage Pump Station \u2013 Ep 3 [video]",
-                "href": "https://www.youtube.com/watch?v=Yd4yxionQpg"
-            },
-            {
-                "title": "Intel Honesty",
-                "href": "https://stratechery.com/2024/intel-honesty/"
+                "title": "Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs",
+                "href": "https://github.com/getzep/graphiti"
             },
             {
                 "title": "ReMarkable Paper Pro",
                 "href": "https://remarkable.com/"
             },
             {
-                "title": "Internet Archive has lost its appeal in Hachette vs. Internet Archive",
-                "href": "https://nitter.poast.org/PublishersWkly/status/1831357570365497379#m"
-            },
-            {
-                "title": "Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs",
-                "href": "https://github.com/getzep/graphiti"
-            },
-            {
-                "title": "Ask HN: Any Recommendations Around Programming on an iPad?",
-                "href": "item?id=41424637"
-            },
-            {
-                "title": "Fake CV lands top 'engineer' in jail for 15 years",
-                "href": "https://www.bbc.com/news/articles/c8er2990ydpo"
+                "title": "Intel Honesty",
+                "href": "https://stratechery.com/2024/intel-honesty/"
             },
             {
                 "title": "'Dancing' raisins \u2212 a simple kitchen experiment",
                 "href": "https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255"
             },
             {
-                "title": "What's functional programming all about? (2017)",
-                "href": "https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html"
+                "title": "Ask HN: Any Recommendations Around Programming on an iPad?",
+                "href": "item?id=41424637"
             },
             {
-                "title": "A systematic approach to deriving incremental type checkers (2020)",
-                "href": "https://dl.acm.org/doi/10.1145/3428195"
+                "title": "California companies wrote their own gig worker law. Now no one is enforcing it",
+                "href": "https://apnews.com/us-news/california-labor-lyft-inc-general-news-906ecb4d94b5e946eab703c562a6bdf0"
             },
             {
                 "title": "Generalized Carlos Scales",
                 "href": "https://arxiv.org/abs/2408.14551"
             },
             {
-                "title": "Avoiding Test-Case Permutation Blowout",
-                "href": "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
-            },
-            {
                 "title": "Show HN: OBS Live-streaming with 120ms latency",
                 "href": "https://github.com/Glimesh/broadcast-box"
             },
             {
-                "title": "The Insecurity of Debian",
-                "href": "https://unix.foo/posts/insecurity-of-debian/"
+                "title": "A systematic approach to deriving incremental type checkers (2020)",
+                "href": "https://dl.acm.org/doi/10.1145/3428195"
+            },
+            {
+                "title": "What's functional programming all about? (2017)",
+                "href": "https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html"
+            },
+            {
+                "title": "Layman's Guide to Python Built-in Functions",
+                "href": "https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/"
+            },
+            {
+                "title": "Fake CV lands top 'engineer' in jail for 15 years",
+                "href": "https://www.bbc.com/news/articles/c8er2990ydpo"
             }
         ]
     }
