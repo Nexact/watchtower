@@ -23,16 +23,20 @@
                 "href": "https://github.com/pythops/lobtui"
             },
             {
-                "title": "It's not Rust, it's FreeBSD (and LLVM)",
-                "href": "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
-            },
-            {
                 "title": "Beyond Ctrl-C: The dark corners of Unix signal handling",
                 "href": "https://sunshowers.io/posts/beyond-ctrl-c-signals/"
             },
             {
+                "title": "It's not Rust, it's FreeBSD (and LLVM)",
+                "href": "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
+            },
+            {
                 "title": "retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers",
                 "href": "https://github.com/luke8086/retronews"
+            },
+            {
+                "title": "Whither the Apple AGX graphics driver?",
+                "href": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
             },
             {
                 "title": "Avoiding Test-Case Permutation Blowout",
@@ -51,16 +55,16 @@
                 "href": "https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog"
             },
             {
+                "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)",
+                "href": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+            },
+            {
                 "title": "Expat 2.6.3 released, includes security fixes",
                 "href": "https://blog.hartwork.org/posts/expat-2-6-3-released/"
             },
             {
-                "title": "Whither the Apple AGX graphics driver?",
-                "href": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
-            },
-            {
-                "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)",
-                "href": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+                "title": "Creating a Git commit: The Hard Way",
+                "href": "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
             },
             {
                 "title": "Greppability is an underrated code metric",
@@ -87,20 +91,16 @@
                 "href": "https://github.com/pythops/oryx"
             },
             {
+                "title": "tetris-sql: Using SQL's Turing Completeness to Build Tetris",
+                "href": "https://github.com/nuno-faria/tetris-sql"
+            },
+            {
                 "title": "Setting up a cache server for apt packages",
                 "href": "https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/"
             },
             {
                 "title": "Interactive NixOS tests",
                 "href": "https://paperless.blog/interactive-nixos-tests"
-            },
-            {
-                "title": "HardenedBSD August 2024 Status Report",
-                "href": "https://hardenedbsd.org/article/shawn-webb/2024-09-03/hardenedbsd-august-2024-status-report"
-            },
-            {
-                "title": "gRPC: 5 Years Later, Is It Still Worth It?",
-                "href": "https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Admins Wonder If the Cloud Was Such a Good Idea After All",
+                "href": "https://slashdot.org/story/24/09/04/1829233/admins-wonder-if-the-cloud-was-such-a-good-idea-after-all?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "In Consumer Hardware, Niche is the New Mainstream",
                 "href": "https://hardware.slashdot.org/story/24/09/04/189234/in-consumer-hardware-niche-is-the-new-mainstream?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Intel's Dow Status Under Threat As Struggling Chipmaker's Shares Plunge",
                 "href": "https://slashdot.org/story/24/09/03/2225253/intels-dow-status-under-threat-as-struggling-chipmakers-shares-plunge?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Bluesky Adds 2 Million New Users After Brazil's X Ban",
-                "href": "https://tech.slashdot.org/story/24/09/03/2216217/bluesky-adds-2-million-new-users-after-brazils-x-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,72 +795,64 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Dynamicland 2024",
-                "href": "https://dynamicland.org/"
+                "title": "CSS @property and the New Style",
+                "href": "https://ryanmulligan.dev/blog/css-property-new-style/"
             },
             {
-                "title": "The coming long-run slowdown in corporate profit growth and stock returns [pdf] (2023)",
-                "href": "https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf"
+                "title": "Dynamicland 2024",
+                "href": "https://dynamicland.org/"
             },
             {
                 "title": "Intel Honesty",
                 "href": "https://stratechery.com/2024/intel-honesty/"
             },
             {
-                "title": "CSS @property and the New Style",
-                "href": "https://ryanmulligan.dev/blog/css-property-new-style/"
-            },
-            {
-                "title": "Coding on iPad using self-hosted VSCode, Caddy, and code-server",
-                "href": "https://tailscale.com/kb/1166/vscode-ipad"
+                "title": "Introduction to Dynamicland (Bret Victor)",
+                "href": "https://dynamicland.org/2024/Intro/"
             },
             {
                 "title": "Show HN: An open-source implementation of AlphaFold3",
                 "href": "https://github.com/Ligo-Biosciences/AlphaFold3"
             },
             {
-                "title": "Show HN: Mem0 \u2013 open-source Memory Layer for AI apps",
-                "href": "https://github.com/mem0ai/mem0"
-            },
-            {
-                "title": "sRGB Gamut Clipping (2021)",
-                "href": "https://bottosson.github.io/posts/gamutclipping/"
-            },
-            {
-                "title": "Bun (YC S19) Is Hiring Systems Engineers in San Francisco",
-                "href": "https://apply.workable.com/oven/j/A7A1388873/"
-            },
-            {
-                "title": "Introduction to Dynamicland (Bret Victor)",
-                "href": "https://dynamicland.org/2024/Intro/"
-            },
-            {
-                "title": "DAGitty \u2013 draw and analyze causal diagrams",
-                "href": "https://dagitty.net/"
+                "title": "Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work",
+                "href": "https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312"
             },
             {
                 "title": "The First Nuclear Clock Will Test If Fundamental Constants Change",
                 "href": "https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/"
             },
             {
-                "title": "Routed Gothic Font",
-                "href": "https://webonastick.com/fonts/routed-gothic/"
+                "title": "sRGB Gamut Clipping (2021)",
+                "href": "https://bottosson.github.io/posts/gamutclipping/"
+            },
+            {
+                "title": "Show HN: Mem0 \u2013 open-source Memory Layer for AI apps",
+                "href": "https://github.com/mem0ai/mem0"
+            },
+            {
+                "title": "Bun (YC S19) Is Hiring Systems Engineers in San Francisco",
+                "href": "https://apply.workable.com/oven/j/A7A1388873/"
             },
             {
                 "title": "What's Functional Programming All About?",
                 "href": "https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html"
             },
             {
-                "title": "Amazon Bans Its Drivers from Moving Their Own Lips Too Much at Work",
-                "href": "https://jalopnik.com/amazon-bans-its-drivers-from-moving-their-own-lips-too-1851639312"
+                "title": "DAGitty \u2013 draw and analyze causal diagrams",
+                "href": "https://dagitty.net/"
             },
             {
-                "title": "Mockingboard 4c+: Because Interrupts Are Hard",
-                "href": "https://blondihacks.com/mockingboard-4c/"
+                "title": "Routed Gothic Font",
+                "href": "https://webonastick.com/fonts/routed-gothic/"
             },
             {
-                "title": "Dolphin Progress Release 2407 and 2409",
-                "href": "https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/"
+                "title": "The coming long-run slowdown in corporate profit growth and stock returns [pdf] (2023)",
+                "href": "https://www.federalreserve.gov/econres/feds/files/2023041pap.pdf"
+            },
+            {
+                "title": "SpaceX Pulls Employees from Brazil, Discourages Travel There",
+                "href": "https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3"
             },
             {
                 "title": "Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs",
@@ -871,44 +863,52 @@
                 "href": "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/"
             },
             {
-                "title": "Physics is unreasonably good at creating new math",
-                "href": "https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/"
+                "title": "Dolphin Progress Release 2407 and 2409",
+                "href": "https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/"
             },
             {
-                "title": "Avoiding Test-Case Permutation Blowout",
-                "href": "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
+                "title": "Physics is unreasonably good at creating new math",
+                "href": "https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/"
             },
             {
                 "title": "We built the city of Colombo in Cities:Skylines",
                 "href": "https://github.com/team-watchdog/colombo-skylines"
             },
             {
-                "title": "'Dancing' raisins \u2212 a simple kitchen experiment",
-                "href": "https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255"
+                "title": "Major book publishers defeat Internet Archive appeal over digital scanning",
+                "href": "https://finance.yahoo.com/news/major-book-publishers-defeat-internet-181817991.html"
             },
             {
                 "title": "EUCLEAK Side-Channel Attack on the YubiKey 5 Series",
                 "href": "https://ninjalab.io/eucleak/"
             },
             {
+                "title": "Internet Archive loses appeal over eBook lending",
+                "href": "https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending"
+            },
+            {
+                "title": "Avoiding Test-Case Permutation Blowout",
+                "href": "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
+            },
+            {
+                "title": "'Dancing' raisins \u2212 a simple kitchen experiment",
+                "href": "https://theconversation.com/dancing-raisins-a-simple-kitchen-experiment-reveals-how-objects-can-extract-energy-from-their-environment-and-come-to-life-223255"
+            },
+            {
                 "title": "Generalized Carlos Scales",
                 "href": "https://arxiv.org/abs/2408.14551"
-            },
-            {
-                "title": "Small asteroid to hit Earth's atmosphere today",
-                "href": "https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/"
-            },
-            {
-                "title": "The Insecurity of Debian",
-                "href": "https://unix.foo/posts/insecurity-of-debian/"
             },
             {
                 "title": "Boom Supersonic's XB-1 prototype aces 2nd test flight",
                 "href": "https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos"
             },
             {
-                "title": "SpaceX Pulls Employees from Brazil, Discourages Travel There",
-                "href": "https://www.wsj.com/business/telecom/spacex-brazil-elon-musk-supreme-court-2acb87e3"
+                "title": "Small asteroid to hit Earth's atmosphere today",
+                "href": "https://earthsky.org/space/small-asteroid-hit-earth-philippines-sept-4-5-2024/"
+            },
+            {
+                "title": "Show HN: OBS Live-streaming with 120ms latency",
+                "href": "https://github.com/Glimesh/broadcast-box"
             },
             {
                 "title": "Programming the Convergent WorkSlate's spreadsheet microcassette future",
