@@ -7,12 +7,12 @@
                 "href": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
             },
             {
-                "title": "TUI for lobste.rs website",
-                "href": "https://github.com/pythops/lobtui"
-            },
-            {
                 "title": "Porting systemd to musl libc-powered Linux",
                 "href": "https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/"
+            },
+            {
+                "title": "TUI for lobste.rs website",
+                "href": "https://github.com/pythops/lobtui"
             },
             {
                 "title": "Dynamicland",
@@ -27,6 +27,14 @@
                 "href": "https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business"
             },
             {
+                "title": "Twelve rules for job applications and interviews",
+                "href": "https://vurt.org/articles/twelve-rules/"
+            },
+            {
+                "title": "Firefox will consider a Rust implementation of JPEG-XL",
+                "href": "https://github.com/mozilla/standards-positions/pull/1064"
+            },
+            {
                 "title": "Whither the Apple AGX graphics driver?",
                 "href": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
             },
@@ -35,20 +43,16 @@
                 "href": "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
             },
             {
-                "title": "Firefox will consider a Rust implementation of JPEG-XL",
-                "href": "https://github.com/mozilla/standards-positions/pull/1064"
-            },
-            {
-                "title": "Twelve rules for job applications and interviews",
-                "href": "https://vurt.org/articles/twelve-rules/"
-            },
-            {
-                "title": "Exploring Goja: A Golang JavaScript Runtime",
-                "href": "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
+                "title": "An Optimization That's Impossible in Rust",
+                "href": "https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/"
             },
             {
                 "title": "Creating a Git commit: The Hard Way",
                 "href": "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
+            },
+            {
+                "title": "Exploring Goja: A Golang JavaScript Runtime",
+                "href": "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
             },
             {
                 "title": "LSP: the good, the bad, and the ugly",
@@ -63,6 +67,10 @@
                 "href": "https://www.youtube.com/watch?v=ENviIxDTmUA"
             },
             {
+                "title": "The Internet Archive Loses Its Appeal of a Major Copyright Case",
+                "href": "https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/"
+            },
+            {
                 "title": "Structs and constructors",
                 "href": "https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors"
             },
@@ -75,6 +83,10 @@
                 "href": "https://www.swebench.com/"
             },
             {
+                "title": "Nobody Knows How Many Amigas Commodore Sold",
+                "href": "https://www.youtube.com/watch?v=AXCWYKSjHnI"
+            },
+            {
                 "title": "Avoiding Test-Case Permutation Blowout",
                 "href": "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
             },
@@ -83,24 +95,12 @@
                 "href": "https://evantravers.com/articles/2024/09/03/positions-on-generative-ai/"
             },
             {
-                "title": "Nobody Knows How Many Amigas Commodore Sold",
-                "href": "https://www.youtube.com/watch?v=AXCWYKSjHnI"
-            },
-            {
                 "title": "Things I Wished More Developers Knew About Databases",
                 "href": "https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78"
             },
             {
                 "title": "Beyond Ctrl-C: The dark corners of Unix signal handling",
                 "href": "https://sunshowers.io/posts/beyond-ctrl-c-signals/"
-            },
-            {
-                "title": "An Optimization That's Impossible in Rust",
-                "href": "https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/"
-            },
-            {
-                "title": "It's not Rust, it's FreeBSD (and LLVM)",
-                "href": "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Discord Lowers Free Upload Limit To 10MB",
+                "href": "https://hardware.slashdot.org/story/24/09/05/0149255/discord-lowers-free-upload-limit-to-10mb?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Saturn's Rings Will Vanish Temporarily In Six Months",
                 "href": "https://science.slashdot.org/story/24/09/05/0132246/saturns-rings-will-vanish-temporarily-in-six-months?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "In Consumer Hardware, Niche is the New Mainstream",
                 "href": "https://hardware.slashdot.org/story/24/09/04/189234/in-consumer-hardware-niche-is-the-new-mainstream?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Internet Archive Digital Lending Isn't Fair Use, 2nd Cir. Says",
-                "href": "https://news.slashdot.org/story/24/09/04/1728215/internet-archive-digital-lending-isnt-fair-use-2nd-cir-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -811,44 +811,40 @@
                 "href": "https://ryanmulligan.dev/blog/css-property-new-style/"
             },
             {
-                "title": "Show HN: Laminar \u2013 Open-Source DataDog + PostHog for LLM Apps, Built in Rust",
-                "href": "https://github.com/lmnr-ai/lmnr"
-            },
-            {
-                "title": "Dynamicland 2024",
-                "href": "https://dynamicland.org/"
+                "title": "The Elements of APIs by John Holdun",
+                "href": "https://johnholdun.com/apis/"
             },
             {
                 "title": "Sequel: The Database Toolkit for Ruby",
                 "href": "https://github.com/jeremyevans/sequel"
             },
             {
+                "title": "Dynamicland 2024",
+                "href": "https://dynamicland.org/"
+            },
+            {
+                "title": "Show HN: Laminar \u2013 Open-Source DataDog + PostHog for LLM Apps, Built in Rust",
+                "href": "https://github.com/lmnr-ai/lmnr"
+            },
+            {
                 "title": "A Real Life Off-by-One Error",
                 "href": "https://leejo.github.io/2024/09/01/off_by_one/"
-            },
-            {
-                "title": "The Elements of APIs by John Holdun",
-                "href": "https://johnholdun.com/apis/"
-            },
-            {
-                "title": "Flexport Is Hiring Engineers in Amsterdam",
-                "href": "https://www.flexport.com/careers/teams/engineering/"
-            },
-            {
-                "title": "Understanding Pgvector's HNSW Index Storage in Postgres",
-                "href": "https://lantern.dev/blog/pgvector-storage"
-            },
-            {
-                "title": "Show HN: An open-source implementation of AlphaFold3",
-                "href": "https://github.com/Ligo-Biosciences/AlphaFold3"
             },
             {
                 "title": "Accelerando (2005)",
                 "href": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"
             },
             {
-                "title": "CSS-only infinite scrolling carousel animation",
-                "href": "https://blog.logto.io/css-only-infinite-scroll"
+                "title": "Understanding Pgvector's HNSW Index Storage in Postgres",
+                "href": "https://lantern.dev/blog/pgvector-storage"
+            },
+            {
+                "title": "Flexport Is Hiring Engineers in Amsterdam",
+                "href": "https://www.flexport.com/careers/teams/engineering/"
+            },
+            {
+                "title": "Show HN: An open-source implementation of AlphaFold3",
+                "href": "https://github.com/Ligo-Biosciences/AlphaFold3"
             },
             {
                 "title": "The first nuclear clock will test if fundamental constants change",
@@ -859,12 +855,12 @@
                 "href": "https://github.com/harsxv/tinystatus"
             },
             {
-                "title": "HIDman Adapting USB devices to work on old computers",
-                "href": "https://github.com/rasteri/HIDman"
+                "title": "CSS-only infinite scrolling carousel animation",
+                "href": "https://blog.logto.io/css-only-infinite-scroll"
             },
             {
-                "title": "Show HN: Wat Dat \u2013 A Firefox Extension for Instant Text Explanations",
-                "href": "https://addons.mozilla.org/en-US/firefox/addon/watdat/"
+                "title": "HIDman Adapting USB devices to work on old computers",
+                "href": "https://github.com/rasteri/HIDman"
             },
             {
                 "title": "Lesser known parts of Python standard library \u2013 Trickster Dev",
@@ -875,8 +871,20 @@
                 "href": "https://www.viksnewsletter.com/p/origami-inspired-phased-arrays"
             },
             {
+                "title": "Software Rasterizing Hair",
+                "href": "https://www.sctheblog.com/blog/hair-software-rasterize/"
+            },
+            {
+                "title": "Show HN: Wat Dat \u2013 A Firefox Extension for Instant Text Explanations",
+                "href": "https://addons.mozilla.org/en-US/firefox/addon/watdat/"
+            },
+            {
                 "title": "The Powerful Potential of Tiny Conservation Plots",
                 "href": "https://www.noemamag.com/the-powerful-potential-of-tiny-conservation-plots/"
+            },
+            {
+                "title": "Activating a Playstation-Only Cheat on PC in Just Nine Bytes",
+                "href": "https://falseceilings.wordpress.com/2020/03/24/activating-a-playstation-only-cheat-on-pc-in-just-nine-bytes/"
             },
             {
                 "title": "Show HN: Mem0 \u2013 open-source Memory Layer for AI apps",
@@ -885,10 +893,6 @@
             {
                 "title": "Kagi Assistant",
                 "href": "https://blog.kagi.com/announcing-assistant"
-            },
-            {
-                "title": "Activating a Playstation-Only Cheat on PC in Just Nine Bytes",
-                "href": "https://falseceilings.wordpress.com/2020/03/24/activating-a-playstation-only-cheat-on-pc-in-just-nine-bytes/"
             },
             {
                 "title": "DAGitty \u2013 draw and analyze causal diagrams",
@@ -905,10 +909,6 @@
             {
                 "title": "Shift Networks",
                 "href": "https://www.jeremykun.com/2024/09/02/shift-networks/"
-            },
-            {
-                "title": "Encounters with the Maverick Archaeologist of the Americas",
-                "href": "https://hakaimagazine.com/features/encounters-with-the-maverick-archaeologist-of-the-americas/"
             },
             {
                 "title": "sRGB Gamut Clipping (2021)",
