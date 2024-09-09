@@ -43,6 +43,10 @@
                 "href": "https://www.datagubbe.se/gnomefiles/"
             },
             {
+                "title": "Coding Together on the Apple II+ (2022)",
+                "href": "https://thecodingtrain.com/tracks/coding-together-apple-ii"
+            },
+            {
                 "title": "Baiting the bot",
                 "href": "https://conspirator0.substack.com/p/baiting-the-bot"
             },
@@ -59,8 +63,8 @@
                 "href": "https://twdev.blog/2024/09/cpp_pkgmng3/"
             },
             {
-                "title": "Coding Together on the Apple II+ (2022)",
-                "href": "https://thecodingtrain.com/tracks/coding-together-apple-ii"
+                "title": "jd: JSON diff and patch",
+                "href": "https://github.com/josephburnett/jd"
             },
             {
                 "title": "Open-source streaming API from ingest to player",
@@ -97,10 +101,6 @@
             {
                 "title": "Changes to `impl Trait` in Rust 2024",
                 "href": "https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html"
-            },
-            {
-                "title": "Arduino CLI 1.0 released - Let's try it with the Raspberry Pi Pico 2",
-                "href": "https://www.cnx-software.com/2024/09/06/arduino-cli-1-0-released-try-raspberry-pi-pico-2/?amp=1"
             }
         ]
     },
@@ -831,12 +831,24 @@
                 "href": "https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/"
             },
             {
+                "title": "DevHub.app \u2013 Developer Utilities for macOS",
+                "href": "https://github.com/jaywcjlove/DevHub"
+            },
+            {
                 "title": "alphaXiv: Open research discussion on top of arXiv",
                 "href": "https://www.alphaxiv.org/"
             },
             {
                 "title": "Core: an experimental new way to write videogames",
                 "href": "https://github.com/damn/core"
+            },
+            {
+                "title": "LLM_transcribe_recording: Bash Helper Using Mlx_whisper",
+                "href": "https://gist.github.com/Olshansk/888533614765cd13139515d55573d676"
+            },
+            {
+                "title": "Analysis of adversarial binary search game",
+                "href": "https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/"
             },
             {
                 "title": "Jd \u2013 JSON Diff and Patch",
@@ -847,22 +859,6 @@
                 "href": "https://www.mdpi.com/2076-393X/12/9/958#"
             },
             {
-                "title": "LLM_transcribe_recording: Bash Helper Using Mlx_whisper",
-                "href": "https://gist.github.com/Olshansk/888533614765cd13139515d55573d676"
-            },
-            {
-                "title": "\u24ff dependencies!",
-                "href": "https://0dependencies.dev/"
-            },
-            {
-                "title": "Analysis of adversarial binary search game",
-                "href": "https://possiblywrong.wordpress.com/2024/09/04/analysis-of-adversarial-binary-search-game/"
-            },
-            {
-                "title": "Charging lithium-ion batteries at high currents first increases lifespan by 50%",
-                "href": "https://www.eurekalert.org/news-releases/1056171"
-            },
-            {
                 "title": "\"Unstripping\" binaries: Restoring debugging information in GDB with Pwndbg",
                 "href": "https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/"
             },
@@ -871,44 +867,48 @@
                 "href": "https://ki-editor.github.io/ki-editor/"
             },
             {
+                "title": "Charging lithium-ion batteries at high currents first increases lifespan by 50%",
+                "href": "https://www.eurekalert.org/news-releases/1056171"
+            },
+            {
                 "title": "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
                 "href": "https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/"
-            },
-            {
-                "title": "Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5",
-                "href": "https://old.reddit.com/r/LocalLLaMA/s/4Ly2yj78aM"
-            },
-            {
-                "title": "Infisical (YC W23) Is Hiring a Developer Who Love Writing",
-                "href": "https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer"
-            },
-            {
-                "title": "Open Props \u2013 Supercharged CSS Variables",
-                "href": "https://open-props.style/"
-            },
-            {
-                "title": "Bringing insights into TCP resets and timeouts to Cloudflare Radar",
-                "href": "https://blog.cloudflare.com/tcp-resets-timeouts/"
-            },
-            {
-                "title": "NTT All-Photonics Network Activated Between Taiwan and Japan",
-                "href": "https://insidehpc.com/2024/08/ntt-all-photonics-network-activated-between-taiwan-and-japan/"
             },
             {
                 "title": "The Problem with the \"Hard Problem\"",
                 "href": "http://edwardfeser.blogspot.com/2024/09/the-problem-with-hard-problem.html"
             },
             {
-                "title": "The Story Behind Fenster",
-                "href": "https://zserge.com/posts/fenster/"
+                "title": "NTT All-Photonics Network Activated Between Taiwan and Japan",
+                "href": "https://insidehpc.com/2024/08/ntt-all-photonics-network-activated-between-taiwan-and-japan/"
+            },
+            {
+                "title": "Bringing insights into TCP resets and timeouts to Cloudflare Radar",
+                "href": "https://blog.cloudflare.com/tcp-resets-timeouts/"
+            },
+            {
+                "title": "Infisical (YC W23) Is Hiring a Developer Who Love Writing",
+                "href": "https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer"
+            },
+            {
+                "title": "Do Programmers Actually Need Touch Typing?",
+                "href": "http://blog.hakanserce.com/post/do-programmers-actually-need-touch-typing/"
+            },
+            {
+                "title": "Open Props \u2013 Supercharged CSS Variables",
+                "href": "https://open-props.style/"
             },
             {
                 "title": "PC Floppy Copy Protection: Softguard Superlok",
                 "href": "https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html"
             },
             {
-                "title": "How a 16th Century Explorer's Sailing Ship Works",
-                "href": "https://www.youtube.com/watch?v=3pYqXrFx6S8"
+                "title": "The Story Behind Fenster",
+                "href": "https://zserge.com/posts/fenster/"
+            },
+            {
+                "title": "Asking the wrong questions (2017)",
+                "href": "https://www.ben-evans.com/benedictevans/2017/01/11/wrongquestions"
             }
         ]
     }
