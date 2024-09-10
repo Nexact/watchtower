@@ -71,16 +71,16 @@
                 "href": "https://www.apple.com/apple-events/"
             },
             {
+                "title": "Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support",
+                "href": "https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches"
+            },
+            {
                 "title": "NSA Releases Internal 1982 Lecture by Computing Pioneer Rear Admiral Grace Hopper",
                 "href": "https://www.youtube.com/watch?v=_bP14OzIJWI"
             },
             {
                 "title": "Windows NT vs. Unix: A design comparison",
                 "href": "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"
-            },
-            {
-                "title": "Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support",
-                "href": "https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches"
             },
             {
                 "title": "Random access string compression with FSST and Rust",
@@ -95,12 +95,12 @@
                 "href": "https://dl.acm.org/doi/10.1145/3589334.3645323"
             },
             {
-                "title": "Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)",
-                "href": "http://utils.foo"
-            },
-            {
                 "title": "Make Your Own Read-Only Device With NetBSD",
                 "href": "https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/"
+            },
+            {
+                "title": "Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)",
+                "href": "http://utils.foo"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Browser Stored Credentials",
                 "href": "https://www.reddit.com/r/netsec/comments/1fde3lk/browser_stored_credentials/"
+            },
+            {
+                "title": "CloudGoat Official Walkthrough Series: \u2018glue_privesc\u2019",
+                "href": "https://www.reddit.com/r/netsec/comments/1fdmcbl/cloudgoat_official_walkthrough_series_glue_privesc/"
             },
             {
                 "title": "Hijacking SQL Server Credentials using Agent Jobs for Domain Privilege Escalation",
@@ -206,10 +210,6 @@
             {
                 "title": "Bypassing airport security via SQL injection",
                 "href": "https://www.reddit.com/r/netsec/comments/1f461wm/bypassing_airport_security_via_sql_injection/"
-            },
-            {
-                "title": "Compromising ByteDance\u2019s Rspack using GitHub Actions Vulnerabilities",
-                "href": "https://www.reddit.com/r/netsec/comments/1f4wwwt/compromising_bytedances_rspack_using_github/"
             }
         ]
     },
@@ -217,8 +217,8 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "Wix.com to block Russian users starting September 12",
-                "href": "https://www.bleepingcomputer.com/news/legal/wixcom-to-block-russian-users-starting-september-12/"
+                "title": "Wix to block Russian users starting September 12",
+                "href": "https://www.bleepingcomputer.com/news/legal/wix-to-block-russian-users-starting-september-12/"
             },
             {
                 "title": "Microsoft to start force-upgrading Windows 22H2 systems next month",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "A Robot Begins Removal of Melted Fuel From the Fukushima Nuclear Plant. It Could Take a Century",
+                "href": "https://slashdot.org/story/24/09/10/1456251/a-robot-begins-removal-of-melted-fuel-from-the-fukushima-nuclear-plant-it-could-take-a-century?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Apple Must Pay $14 Billion Tax Bill To Ireland, EU Court Rules",
                 "href": "https://apple.slashdot.org/story/24/09/10/1559251/apple-must-pay-14-billion-tax-bill-to-ireland-eu-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "James Earl Jones, Beloved Actor and Voice of Darth Vader, Dies",
                 "href": "https://entertainment.slashdot.org/story/24/09/09/227251/james-earl-jones-beloved-actor-and-voice-of-darth-vader-dies?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "US Prepares To Challenge Google's Online Ad Dominance",
-                "href": "https://tech.slashdot.org/story/24/09/09/2112257/us-prepares-to-challenge-googles-online-ad-dominance?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -605,6 +605,10 @@
                 "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-254-01"
             },
             {
+                "title": "Ivanti Releases Security Updates for Endpoint Manager, Cloud Service Application, and Workspace Control",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/09/10/ivanti-releases-security-updates-endpoint-manager-cloud-service-application-and-workspace-control"
+            },
+            {
                 "title": "iniNet Solutions SpiderControl SCADA Web Server",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-254-02"
             },
@@ -623,10 +627,6 @@
             {
                 "title": "Russian Military Cyber Actors Target US and Global Critical Infrastructure",
                 "href": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a"
-            },
-            {
-                "title": "CISA Releases Four Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/09/05/cisa-releases-four-industrial-control-systems-advisories"
             }
         ]
     },
@@ -799,16 +799,12 @@
                 "href": "https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/"
             },
             {
-                "title": "GPTs and Hallucination",
-                "href": "https://queue.acm.org/detail.cfm?id=3688007"
+                "title": "Sapling: Source control that's user-friendly and scalable (2022)",
+                "href": "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
             },
             {
                 "title": "Debugging in the Multiverse",
                 "href": "https://antithesis.com/blog/multiverse_debugging/"
-            },
-            {
-                "title": "Sapling: Source control that's user-friendly and scalable",
-                "href": "https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/"
             },
             {
                 "title": "How We Made Jupyter Notebooks Load 10 Times Faster",
@@ -823,6 +819,18 @@
                 "href": "https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/"
             },
             {
+                "title": "Tomato64: A port of Tomato Firmware to x86_64",
+                "href": "https://tomato64.org/"
+            },
+            {
+                "title": "GPTs and Hallucination",
+                "href": "https://queue.acm.org/detail.cfm?id=3688007"
+            },
+            {
+                "title": "Show HN: YourNextStore \u2013 an open-source Shopify with Stripe as the back end",
+                "href": "https://github.com/yournextstore/yournextstore"
+            },
+            {
                 "title": "PR-Agent \u2014 extension that adds AI chat to code reviews on GitHub",
                 "href": "https://chromewebstore.google.com/detail/pr-agent-ai-powered-code/ephlnjeghhogofkifjloamocljapahnl"
             },
@@ -831,28 +839,20 @@
                 "href": "https://dzhu.page/mathematics/memorizing-100-perfect-squares/"
             },
             {
-                "title": "Results (Don't) Speak for Themselves: A Case for Documentation",
-                "href": "https://www.population.fyi/p/results-dont-speak-for-themselves"
-            },
-            {
-                "title": "Show HN: YourNextStore \u2013 an open-source Shopify with Stripe as the back end",
-                "href": "https://github.com/yournextstore/yournextstore"
-            },
-            {
                 "title": "Don't defer Close() on writable files (2017)",
                 "href": "https://www.joeshaw.org/dont-defer-close-on-writable-files/"
-            },
-            {
-                "title": "Show HN: Free tool to find RSS feeds, even if not linked on the page",
-                "href": "item?id=41499905"
             },
             {
                 "title": "Roame (YC S23) Is Hiring a Chief of Staff",
                 "href": "https://www.ycombinator.com/companies/roame/jobs/dd4pOgQ-chief-of-staff"
             },
             {
-                "title": "Tomato64: A port of Tomato Firmware to x86_64",
-                "href": "https://tomato64.org/"
+                "title": "Show HN: Free tool to find RSS feeds, even if not linked on the page",
+                "href": "item?id=41499905"
+            },
+            {
+                "title": "Going open-source as a VC-Backed company",
+                "href": "https://briefer.cloud/blog/posts/open-source-strategy/"
             },
             {
                 "title": "Windows NT vs. Unix: A design comparison",
@@ -871,20 +871,24 @@
                 "href": "https://harrison.ai/harrison-rad-1/"
             },
             {
-                "title": "Six Ideas for Poland",
-                "href": "https://www.noahpinion.blog/p/six-ideas-for-poland"
-            },
-            {
                 "title": "Our RNG Git Hash Bug",
                 "href": "https://tmendez.dev/posts/rng-git-hash-bug/"
             },
             {
-                "title": "Warner Brothers Cartoon Companion",
+                "title": "Show HN: I built a cheaper ChatGPT alternative that runs on your desktop",
+                "href": "https://www.trynyro.com"
+            },
+            {
+                "title": "Warner Brothers Cartoon Companion (1998)",
                 "href": "http://www.warnercompanion.com/eowbcc-d.html"
             },
             {
                 "title": "Sigrok \u2013 a portable, cross-platform, FOSS signal analysis software suite",
                 "href": "https://sigrok.org/wiki/Main_Page"
+            },
+            {
+                "title": "We're in the brute force phase of AI \u2013 once it ends, demand for GPUs will too",
+                "href": "https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/"
             },
             {
                 "title": "Sqlc: Compile SQL to type-safe code",
@@ -895,10 +899,6 @@
                 "href": "item?id=41490196"
             },
             {
-                "title": "We're in the brute force phase of AI \u2013 once it ends, demand for GPUs will too",
-                "href": "https://www.theregister.com/2024/09/10/brute_force_ai_era_gartner/"
-            },
-            {
                 "title": "B-Trees and Database Indexes",
                 "href": "https://planetscale.com/blog/btrees-and-database-indexes"
             },
@@ -907,12 +907,12 @@
                 "href": "https://www.aps.org/people/cecilia-payne-gaposchkin"
             },
             {
-                "title": "Project Hammer: reduce collusion in the Canadian grocery sector",
-                "href": "https://jacobfilipp.com/hammer/"
+                "title": "Show HN: Free Xcode Extension for GitHub Copilot and Codeium",
+                "href": "item?id=41500638"
             },
             {
-                "title": "Make an LED Blink with Buttons and with Code",
-                "href": "https://docs.viam.com/tutorials/get-started/blink-an-led/"
+                "title": "Project Hammer: reduce collusion in the Canadian grocery sector",
+                "href": "https://jacobfilipp.com/hammer/"
             }
         ]
     }
