@@ -31,6 +31,14 @@
                 "href": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
             },
             {
+                "title": "Update on Native Matrix interoperability with WhatsApp",
+                "href": "https://matrix.org/blog/2024/09/whatsapp-dma/"
+            },
+            {
+                "title": "Building a system like Realtalk",
+                "href": "https://mewo2.com/2024/09/16/"
+            },
+            {
                 "title": "Nix Steering Committee Election 2024",
                 "href": "https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232"
             },
@@ -39,12 +47,12 @@
                 "href": "https://pythonspeed.com/articles/intro-rust-python-extensions/"
             },
             {
-                "title": "Building a system like Realtalk",
-                "href": "https://mewo2.com/2024/09/16/"
-            },
-            {
                 "title": "The HTTP QUERY Method",
                 "href": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html"
+            },
+            {
+                "title": "Blindsided by Rust's Subtyping and Variance",
+                "href": "https://nullderef.com/blog/rust-variance/"
             },
             {
                 "title": "A Spreadsheet and a Debugger walk into a Shell",
@@ -59,10 +67,6 @@
                 "href": "https://gvolpe.com/blog/nixos-server/"
             },
             {
-                "title": "Update on Native Matrix interoperability with WhatsApp",
-                "href": "https://matrix.org/blog/2024/09/whatsapp-dma/"
-            },
-            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/rwxomx/what_are_you_doing_this_week"
             },
@@ -75,12 +79,16 @@
                 "href": "https://jfmengels.net/constraints-and-guarantees/"
             },
             {
+                "title": "Something went wrong",
+                "href": "https://molily.de/something-went-wrong/"
+            },
+            {
                 "title": "MiniLang: A type-safe C successor",
                 "href": "https://github.com/NICUP14/MiniLang"
             },
             {
-                "title": "Something went wrong",
-                "href": "https://molily.de/something-went-wrong/"
+                "title": "Cellguard: Analyze and observe cellular networks to detect surveillance",
+                "href": "https://cellguard.seemoo.de/"
             },
             {
                 "title": "Tiny process execution for humans \u2014 a better child_process",
@@ -91,16 +99,8 @@
                 "href": "https://justin.searls.co/posts/drive-by-active-storage-advice/"
             },
             {
-                "title": "Cellguard: Analyze and observe cellular networks to detect surveillance",
-                "href": "https://cellguard.seemoo.de/"
-            },
-            {
                 "title": "Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra",
                 "href": "https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/"
-            },
-            {
-                "title": "A (more) Modern CSS Reset",
-                "href": "https://piccalil.li/blog/a-more-modern-css-reset/"
             }
         ]
     },
@@ -112,12 +112,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/"
             },
             {
-                "title": "Exploiting Microsoft Kernel Applocker Driver (CVE-2024-38041)",
-                "href": "https://www.reddit.com/r/netsec/comments/1fi49ve/exploiting_microsoft_kernel_applocker_driver/"
-            },
-            {
                 "title": "A vulnerability in LANCOM LCOS web interface (usually listening on port 443) allows a remote attacker to trigger a heap overflow in the service listening on this port",
                 "href": "https://www.reddit.com/r/netsec/comments/1fiuv4y/a_vulnerability_in_lancom_lcos_web_interface/"
+            },
+            {
+                "title": "Exploiting Microsoft Kernel Applocker Driver (CVE-2024-38041)",
+                "href": "https://www.reddit.com/r/netsec/comments/1fi49ve/exploiting_microsoft_kernel_applocker_driver/"
             },
             {
                 "title": "Hacking the Planet - A DEFCON ICS CTF 2024 Retrospective",
@@ -791,16 +791,28 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Signatures of Gravitational Atoms from Black Hole Mergers",
+                "href": "https://physics.aps.org/articles/v17/133"
+            },
+            {
                 "title": "Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra",
                 "href": "https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/"
+            },
+            {
+                "title": "The Centrality of Stupidity in Mathematics",
+                "href": "https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/"
             },
             {
                 "title": "Show HN: Void, an open-source Cursor/GitHub Copilot alternative",
                 "href": "https://voideditor.com"
             },
             {
-                "title": "Signatures of Gravitational Atoms from Black Hole Mergers",
-                "href": "https://physics.aps.org/articles/v17/133"
+                "title": "A Curried Composition Puzzle",
+                "href": "https://franklin.dyer.me/post/212"
+            },
+            {
+                "title": "In 1926, TV Was Mechanical",
+                "href": "https://spectrum.ieee.org/first-tv"
             },
             {
                 "title": "Show HN: Electrico \u2013 Electron Without Node and Chrome (Rust / Wry)",
@@ -811,104 +823,92 @@
                 "href": "https://arxiv.org/abs/2402.12875"
             },
             {
-                "title": "A Curried Composition Puzzle",
-                "href": "https://franklin.dyer.me/post/212"
-            },
-            {
-                "title": "Why to Not Write a Book",
-                "href": "https://gwern.net/book-writing"
+                "title": "User-Space Interrupts (2021)",
+                "href": "https://lwn.net/Articles/871113/"
             },
             {
                 "title": "Launch HN: Silurian (YC S24) \u2013 Simulate the Earth",
                 "href": "item?id=41556519"
             },
             {
-                "title": "User-Space Interrupts (2021)",
-                "href": "https://lwn.net/Articles/871113/"
+                "title": "Why to Not Write a Book",
+                "href": "https://gwern.net/book-writing"
             },
             {
-                "title": "rainfrog \u2013 a database management TUI for Postgres",
+                "title": "Rainfrog \u2013 a database management TUI for Postgres",
                 "href": "https://github.com/achristmascarl/rainfrog"
+            },
+            {
+                "title": "Ncomm \u2013 A node-based robotics framework written in Rust",
+                "href": "https://github.com/N8BWert/ncomm"
             },
             {
                 "title": "Amazon tells employees to return to office five days a week",
                 "href": "https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html"
             },
             {
-                "title": "Ncomm \u2013 a node-based robotics framework written in Rust",
-                "href": "https://github.com/N8BWert/ncomm"
-            },
-            {
                 "title": "Bionicle \u2013 my actual part in its origins (2015)",
                 "href": "https://alastairswinnerton.com/2015/09/07/bionicle-my-actual-part-in-its-origins/"
-            },
-            {
-                "title": "Franzelio: Draw Lines. Make Music. Share Your Instrument",
-                "href": "https://franzelio.franzai.com/"
             },
             {
                 "title": "A Spreadsheet and a Debugger Walk into a Shell",
                 "href": "https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/"
             },
             {
-                "title": "We fine-tuned an LLM to triage and fix insecure code",
-                "href": "https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security"
-            },
-            {
-                "title": "Nyxpsi \u2013 A Next-Gen Network Protocol for Extreme Packet Loss",
-                "href": "https://github.com/nyxpsi/nyxpsi"
-            },
-            {
-                "title": "K340A: The Brain Computer of Chernobyl Duga Radar [video]",
-                "href": "https://www.youtube.com/watch?v=kHiCHRB-RlA"
+                "title": "Show HN: Franzelio \u2013 Draw lines, make music, share your instrument",
+                "href": "https://franzelio.franzai.com/"
             },
             {
                 "title": "Dissecting the gzip format (2011)",
                 "href": "https://www.infinitepartitions.com/art001.html"
             },
             {
-                "title": "The Pragmatic Programmer for Machine Learning",
-                "href": "https://ppml.dev/"
+                "title": "K340A: The Brain Computer of Chernobyl Duga Radar [video]",
+                "href": "https://www.youtube.com/watch?v=kHiCHRB-RlA"
+            },
+            {
+                "title": "A lonely man in his 30s found welcome and community at spin class",
+                "href": "https://longreads.com/2024/09/05/spin-masculinity-loneliness-friendship/"
+            },
+            {
+                "title": "We fine-tuned an LLM to triage and fix insecure code",
+                "href": "https://corgea.com/blog/fine-tuning-for-precision-and-privacy-how-corgea-s-llm-enhances-enterprise-application-security"
             },
             {
                 "title": "Stepwise selection of variables in regression is Evil",
                 "href": "https://freerangestats.info/blog/2024/09/14/stepwise"
             },
             {
+                "title": "Nyxpsi \u2013 A Next-Gen Network Protocol for Extreme Packet Loss",
+                "href": "https://github.com/nyxpsi/nyxpsi"
+            },
+            {
+                "title": "The Pragmatic Programmer for Machine Learning (2023)",
+                "href": "https://ppml.dev/"
+            },
+            {
                 "title": "Michigan Micro Mote (M3) makes history as the smallest computer (2015)",
                 "href": "https://ece.engin.umich.edu/stories/michigan-micro-mote-m3-makes-history-as-the-worlds-smallest-computer"
-            },
-            {
-                "title": "How to succeed in MrBeast production (Leaked PDF)",
-                "href": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/"
-            },
-            {
-                "title": "Intel lost the Sony Playstation business to AMD",
-                "href": "https://www.reuters.com/technology/how-intel-lost-sony-playstation-business-2024-09-16/"
             },
             {
                 "title": "Apple Watch sleep apnea detection gets FDA approval",
                 "href": "https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/"
             },
             {
-                "title": "Datomic and Content Addressable Techniques",
-                "href": "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
+                "title": "How to succeed in MrBeast production (Leaked PDF)",
+                "href": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/"
             },
             {
                 "title": "Fair: A Go library for serving resources fairly",
                 "href": "https://github.com/satmihir/fair"
             },
             {
+                "title": "Datomic and Content Addressable Techniques",
+                "href": "https://www.latacora.com/blog/2024/09/13/datomic-and-content-addressable-techniques/"
+            },
+            {
                 "title": "Fractran: Computer architecture based on the multiplication of fractions",
                 "href": "https://wiki.xxiivv.com/site/fractran.html"
-            },
-            {
-                "title": "Ask HN: Does anyone use sound effects in their dev environment?",
-                "href": "item?id=41519046"
-            },
-            {
-                "title": "Provable Security of Linux-DRBG in the Seedless Robustness Model [pdf]",
-                "href": "https://eprint.iacr.org/2024/1421.pdf"
             }
         ]
     }
