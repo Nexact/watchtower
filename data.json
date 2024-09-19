@@ -23,6 +23,14 @@
                 "href": "https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/"
             },
             {
+                "title": "kl: An interactive Kubernetes log viewer for your terminal",
+                "href": "https://github.com/robinovitch61/kl"
+            },
+            {
+                "title": "\u201cGilded Rose\u201d refactoring kata in Ruby \u2014 as if it is 2024",
+                "href": "https://zverok.space/blog/2024-09-19-gilded_rose.html"
+            },
+            {
                 "title": "Improving rendering performance with CSS content-visibility",
                 "href": "https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/"
             },
@@ -39,14 +47,6 @@
                 "href": "https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/"
             },
             {
-                "title": "kl: An interactive Kubernetes log viewer for your terminal",
-                "href": "https://github.com/robinovitch61/kl"
-            },
-            {
-                "title": "\u201cGilded Rose\u201d refactoring kata in Ruby \u2014 as if it is 2024",
-                "href": "https://zverok.space/blog/2024-09-19-gilded_rose.html"
-            },
-            {
                 "title": "TLA\u207a is more than a DSL for breadth-first search",
                 "href": "https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/"
             },
@@ -55,8 +55,20 @@
                 "href": "https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html"
             },
             {
+                "title": "Ruby-SAML pwned by XML signature wrapping attacks",
+                "href": "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/"
+            },
+            {
                 "title": "Wonderful vi",
                 "href": "https://world.hey.com/dhh/wonderful-vi-a1d034d3"
+            },
+            {
+                "title": "Path Generics in Rust: A Sketch Proposal for Simplicity and Generality",
+                "href": "https://cfallin.org/blog/2024/06/12/rust-path-generics/"
+            },
+            {
+                "title": "Building LLM-powered applications in Go",
+                "href": "https://go.dev/blog/llmpowered"
             },
             {
                 "title": "Update on an upcoming German broadcasting story about Tor/Onion Services",
@@ -79,10 +91,6 @@
                 "href": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/"
             },
             {
-                "title": "Path Generics in Rust: A Sketch Proposal for Simplicity and Generality",
-                "href": "https://cfallin.org/blog/2024/06/12/rust-path-generics/"
-            },
-            {
                 "title": "zml: High performance AI inference stack. Built for production",
                 "href": "https://github.com/zml/zml"
             },
@@ -93,14 +101,6 @@
             {
                 "title": "Goodhart's Law in Software Engineering",
                 "href": "https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/"
-            },
-            {
-                "title": "Ruby-SAML pwned by XML signature wrapping attacks",
-                "href": "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/"
-            },
-            {
-                "title": "Building LLM-powered applications in Go",
-                "href": "https://go.dev/blog/llmpowered"
             }
         ]
     },
@@ -630,20 +630,40 @@
         "feedname": "packetstorm",
         "items": [
             {
+                "title": "FBI Boss Says China Burned Down 260,000 Device Botnet When Confronted By Feds",
+                "href": "https://packetstormsecurity.com/news/view/36358/FBI-Boss-Says-China-Burned-Down-260-000-Device-Botnet-When-Confronted-By-Feds.html"
+            },
+            {
+                "title": "Tor Insists Its Network Is Safe After Conviction Of CSAM Dark Web Admin",
+                "href": "https://packetstormsecurity.com/news/view/36359/Tor-Insists-Its-Network-Is-Safe-After-Conviction-Of-CSAM-Dark-Web-Admin.html"
+            },
+            {
+                "title": "British MPs And International Organizations Hacked On X",
+                "href": "https://packetstormsecurity.com/news/view/36357/British-MPs-And-International-Organizations-Hacked-On-X.html"
+            },
+            {
+                "title": "Russian Troll Farms Turn Up Heat On Presidential Candidates",
+                "href": "https://packetstormsecurity.com/news/view/36356/Russian-Troll-Farms-Turn-Up-Heat-On-Presidential-Candidates.html"
+            },
+            {
+                "title": "Hackers Demand $6 Million From Seattle Airport Operators",
+                "href": "https://packetstormsecurity.com/news/view/36362/Hackers-Demand-6-Million-From-Seattle-Airport-Operators.html"
+            },
+            {
+                "title": "Recent WhatsUp Gold Vulnerabilities Possibly Exploited In Ransomware Attacks",
+                "href": "https://packetstormsecurity.com/news/view/36361/Recent-WhatsUp-Gold-Vulnerabilities-Possibly-Exploited-In-Ransomware-Attacks.html"
+            },
+            {
+                "title": "14 Dead As Hezbollah Walkie Talkies Explode In Second, Deadlier Attack",
+                "href": "https://packetstormsecurity.com/news/view/36360/14-Dead-As-Hezbollah-Walkie-Talkies-Explode-In-Second-Deadlier-Attack.html"
+            },
+            {
+                "title": "UK Activists Targeted With Pegasus Spyware Ask Police To Charge NSO Group",
+                "href": "https://packetstormsecurity.com/news/view/36355/UK-Activists-Targeted-With-Pegasus-Spyware-Ask-Police-To-Charge-NSO-Group.html"
+            },
+            {
                 "title": "Pip Dreams And Security Schemes: Chaos In Your Configuration Files",
                 "href": "https://packetstormsecurity.com/news/view/36354/Pip-Dreams-And-Security-Schemes-Chaos-In-Your-Configuration-Files.html"
-            },
-            {
-                "title": "WhatsApp View Once Fix Gets Defeated In Less Than A Week",
-                "href": "https://packetstormsecurity.com/news/view/36349/WhatsApp-View-Once-Fix-Gets-Defeated-In-Less-Than-A-Week.html"
-            },
-            {
-                "title": "AT&T Fined $13 Million For Data Breach",
-                "href": "https://packetstormsecurity.com/news/view/36350/AT-T-Fined-13-Million-For-Data-Breach.html"
-            },
-            {
-                "title": "CloudImposer Attack Targets Google Cloud Services",
-                "href": "https://packetstormsecurity.com/news/view/36351/CloudImposer-Attack-Targets-Google-Cloud-Services.html"
             },
             {
                 "title": "Apple Suddenly Drops NSO Group Spyware Lawsuit",
@@ -654,36 +674,16 @@
                 "href": "https://packetstormsecurity.com/news/view/36352/11-Dead-Thousands-Injured-In-Explosive-Supply-Chain-Attack-On-Hezbollah-Pagers.html"
             },
             {
-                "title": "Cops Across The World Arrest 51 In Orchestrated Takedown Of Ghost Crime Platform",
-                "href": "https://packetstormsecurity.com/news/view/36348/Cops-Across-The-World-Arrest-51-In-Orchestrated-Takedown-Of-Ghost-Crime-Platform.html"
+                "title": "CloudImposer Attack Targets Google Cloud Services",
+                "href": "https://packetstormsecurity.com/news/view/36351/CloudImposer-Attack-Targets-Google-Cloud-Services.html"
             },
             {
-                "title": "Wait... Did Pagers Get Hacked To Blow People Up?",
-                "href": "https://packetstormsecurity.com/news/view/36347/Wait...-Did-Pagers-Get-Hacked-To-Blow-People-Up.html"
+                "title": "AT&T Fined $13 Million For Data Breach",
+                "href": "https://packetstormsecurity.com/news/view/36350/AT-T-Fined-13-Million-For-Data-Breach.html"
             },
             {
-                "title": "Predator Spyware Kingpins Added To US Sanctions List",
-                "href": "https://packetstormsecurity.com/news/view/36346/Predator-Spyware-Kingpins-Added-To-US-Sanctions-List.html"
-            },
-            {
-                "title": "D-Link Patches Critical Router Vulnerabilities",
-                "href": "https://packetstormsecurity.com/news/view/36345/D-Link-Patches-Critical-Router-Vulnerabilities.html"
-            },
-            {
-                "title": "France Uses Tough, Untested Cybercrime Law To Target Durov",
-                "href": "https://packetstormsecurity.com/news/view/36344/France-Uses-Tough-Untested-Cybercrime-Law-To-Target-Durov.html"
-            },
-            {
-                "title": "Malware Attack Targets US-Taiwan Defense Conference",
-                "href": "https://packetstormsecurity.com/news/view/36343/Malware-Attack-Targets-US-Taiwan-Defense-Conference.html"
-            },
-            {
-                "title": "TikTok Is Getting Its Day In Court",
-                "href": "https://packetstormsecurity.com/news/view/36342/TikTok-Is-Getting-Its-Day-In-Court.html"
-            },
-            {
-                "title": "Ransomware Group Leaks Data Stolen From Kawasaki Motors",
-                "href": "https://packetstormsecurity.com/news/view/36341/Ransomware-Group-Leaks-Data-Stolen-From-Kawasaki-Motors.html"
+                "title": "WhatsApp View Once Fix Gets Defeated In Less Than A Week",
+                "href": "https://packetstormsecurity.com/news/view/36349/WhatsApp-View-Once-Fix-Gets-Defeated-In-Less-Than-A-Week.html"
             },
             {
                 "title": "Ubuntu Security Notice USN-6885-3",
@@ -791,16 +791,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Is Tor still safe to use?",
-                "href": "https://blog.torproject.org/tor-is-still-safe/"
+                "title": "Drift towards danger and the normalization of deviance",
+                "href": "https://risk-engineering.org/concept/Rasmussen-practical-drift"
+            },
+            {
+                "title": "Show HN: Chili. Rust port of Spice, a low-overhead parallelization library",
+                "href": "https://github.com/dragostis/chili"
             },
             {
                 "title": "I Revived 3-Axis CNC Mill G-Code Simulator",
                 "href": "https://github.com/Harvie/cnc-simulator"
             },
             {
-                "title": "Tech Jobs Have Dried Up\u2013-and Aren't Coming Back Soon",
-                "href": "https://www.wsj.com/articles/tech-jobs-artificial-intelligence-cce22393"
+                "title": "Is Tor still safe to use?",
+                "href": "https://blog.torproject.org/tor-is-still-safe/"
             },
             {
                 "title": "Show HN: ts-remove-unused \u2013 Remove unused code from your TypeScript project",
@@ -811,56 +815,40 @@
                 "href": "https://github.com/kyutai-labs/moshi"
             },
             {
-                "title": "Aliens and the Enlightenment",
-                "href": "https://www.historytoday.com/archive/great-debates/aliens-and-enlightenment"
-            },
-            {
                 "title": "Ruby-SAML pwned by XML signature wrapping attacks",
                 "href": "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/"
-            },
-            {
-                "title": "J2ME-Loader: J2ME emulator for Android devices",
-                "href": "https://github.com/nikita36078/J2ME-Loader"
             },
             {
                 "title": "Geometric Search Trees",
                 "href": "https://g-trees.github.io/g_trees/"
             },
             {
-                "title": "Debugging Behind the Iron Curtain (2010)",
-                "href": "https://www.jakepoz.com/debugging-behind-the-iron-curtain/"
+                "title": "J2ME-Loader: J2ME emulator for Android devices",
+                "href": "https://github.com/nikita36078/J2ME-Loader"
             },
             {
                 "title": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
                 "href": "https://github.com/exaloop/codon"
             },
             {
+                "title": "Balance of Power \u2013 By Bradford Morgan White",
+                "href": "https://www.abortretry.fail/p/balance-of-power"
+            },
+            {
                 "title": "Ask HN: My son might be blind \u2013 how to best support",
                 "href": "item?id=41588200"
             },
             {
-                "title": "Open research Europe: Towards a collective open access publishing service",
-                "href": "https://op.europa.eu/en/publication-detail/-/publication/3603e219-6a65-11ef-a8ba-01aa75ed71a1/language-en"
+                "title": "Aliens and the Enlightenment",
+                "href": "https://www.historytoday.com/archive/great-debates/aliens-and-enlightenment"
             },
             {
                 "title": "OpenTelemetry and vendor neutrality: how to build an observability strategy",
                 "href": "https://grafana.com/blog/2024/09/12/opentelemetry-and-vendor-neutrality-how-to-build-an-observability-strategy-with-maximum-flexibility/"
             },
             {
-                "title": "The Dune Shell",
-                "href": "https://adam-mcdaniel.github.io/dune-website/"
-            },
-            {
-                "title": "A overview of binaries, ELF, and NoMMU on Linux",
-                "href": "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
-            },
-            {
-                "title": "LinkedIn is now using everyone's content to train their AI tool",
-                "href": "https://twitter.com/RachelTobac/status/1836471586624540705"
-            },
-            {
-                "title": "Balance of Power \u2013 By Bradford Morgan White",
-                "href": "https://www.abortretry.fail/p/balance-of-power"
+                "title": "Show HN: I've Built an Accounting System",
+                "href": "https://github.com/denys-olleik/accounting"
             },
             {
                 "title": "Text makeup \u2013 a tool to decode and explore Unicode strings",
@@ -871,44 +859,56 @@
                 "href": "https://www.crowdwave.com"
             },
             {
-                "title": "Launch HN: Cerebrium (YC W22) \u2013 Serverless Infrastructure Platform for ML/AI",
-                "href": "item?id=41579777"
-            },
-            {
-                "title": "Show HN: I've Built an Accounting System",
-                "href": "https://github.com/denys-olleik/accounting"
-            },
-            {
-                "title": "Qwen2.5: A Party of Foundation Models",
-                "href": "https://qwenlm.github.io/blog/qwen2.5/"
-            },
-            {
                 "title": "Holding a Program in One's Head (2007)",
                 "href": "https://paulgraham.com/head.html"
-            },
-            {
-                "title": "Knowledge graphs using Ollama and Embeddings to answer and visualizing queries",
-                "href": "https://github.com/punnerud/Local_Knowledge_Graph"
             },
             {
                 "title": "Lichess: Post-Mortem of Our Longest Downtime",
                 "href": "https://lichess.org/@/Lichess/blog/post-mortem-of-our-longest-downtime/XAgG7jbd"
             },
             {
-                "title": "Meticulous (YC S21) is hiring to eliminate UI tests",
-                "href": "item?id=41585449"
-            },
-            {
-                "title": "Microplastics in the olfactory bulb of the human brain",
-                "href": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823787"
-            },
-            {
                 "title": "A Case Study of Reflex Epilepsy Induced by Playing Chess",
                 "href": "https://lichess.org/@/NDpatzer/blog/science-of-chess-a-case-study-of-reflex-epilepsy-induced-by-playing-chess/k08StYb4"
             },
             {
-                "title": "RabbitMQ 4.0",
-                "href": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.1"
+                "title": "Show HN: Sol \u2013 A de-minifier for shell programs",
+                "href": "https://github.com/noperator/sol"
+            },
+            {
+                "title": "Netflix's Key-Value Data Abstraction Layer",
+                "href": "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30"
+            },
+            {
+                "title": "Knowledge graphs using Ollama and Embeddings to answer and visualizing queries",
+                "href": "https://github.com/punnerud/Local_Knowledge_Graph"
+            },
+            {
+                "title": "Have you ever seen soldering this close? [video]",
+                "href": "https://www.youtube.com/watch?v=m3Ny3j5nH0U"
+            },
+            {
+                "title": "Meticulous (YC S21) is hiring to eliminate UI tests",
+                "href": "item?id=41585449"
+            },
+            {
+                "title": "Ask HN: What currently is the best, nerd-friendly, rootable Android phone?",
+                "href": "item?id=41590754"
+            },
+            {
+                "title": "Compile and Run C in JavaScript",
+                "href": "https://bun.sh/blog/compile-and-run-c-in-js"
+            },
+            {
+                "title": "Show HN: Selectric \u2013 macOS Search for Gmail, Outlook, Drive, Slack",
+                "href": "https://selectric.io/"
+            },
+            {
+                "title": "An effective and rapidly degradable disinfectant from disinfection byproducts",
+                "href": "https://www.nature.com/articles/s41467-024-48752-w"
+            },
+            {
+                "title": "Comic Mono",
+                "href": "https://dtinth.github.io/comic-mono-font/"
             }
         ]
     }
