@@ -7,6 +7,10 @@
                 "href": "https://rodarmor.com/blog/whence-newline/"
             },
             {
+                "title": "nanodjango",
+                "href": "https://simonwillison.net/2024/Sep/24/nanodjango/"
+            },
+            {
                 "title": "XKCD 1425 (Tasks) turns ten years old today",
                 "href": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/"
             },
@@ -15,16 +19,40 @@
                 "href": "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/"
             },
             {
-                "title": "nanodjango",
-                "href": "https://simonwillison.net/2024/Sep/24/nanodjango/"
+                "title": "Frog Protocols announced to try and speed up Wayland protocol development",
+                "href": "https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/"
+            },
+            {
+                "title": "The Watermelon Operator",
+                "href": "https://matklad.github.io/2024/09/24/watermelon-operator.html"
             },
             {
                 "title": "Thoughts on Debugging",
                 "href": "https://catskull.net/thoughts-on-debugging.html"
             },
             {
+                "title": "Fedify 1.0.0 released",
+                "href": "https://github.com/dahlia/fedify/discussions/141"
+            },
+            {
+                "title": "Optimizing Guile Scheme",
+                "href": "https://dthompson.us/posts/optimizing-guile-scheme.html"
+            },
+            {
                 "title": "Scheduling threads like Thomas Jefferson",
                 "href": "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
+            },
+            {
+                "title": "Bloom: Optimization-Driven Interactive Diagramming",
+                "href": "https://penrose.cs.cmu.edu/blog/bloom"
+            },
+            {
+                "title": "NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support",
+                "href": "https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization"
+            },
+            {
+                "title": "Post-OCSP certificate revocation in the Web PKI",
+                "href": "https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/"
             },
             {
                 "title": "Winamp Legacy source code",
@@ -35,40 +63,28 @@
                 "href": "https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/"
             },
             {
-                "title": "Frog Protocols announced to try and speed up Wayland protocol development",
-                "href": "https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/"
+                "title": "Three-State Stability",
+                "href": "https://matklad.github.io/2023/02/16/three-state-stability.html"
+            },
+            {
+                "title": "System Initiative is the Future",
+                "href": "https://www.systeminit.com/blog-system-initiative-is-the-future"
             },
             {
                 "title": "lish shell",
                 "href": "https://github.com/nibbula/yew/tree/master/lish"
             },
             {
+                "title": "Binary size: should we use static or dynamic linking?",
+                "href": "https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size"
+            },
+            {
                 "title": "It's Lists All the Way Down",
                 "href": "https://thehistoryoftheweb.com/its-lists-all-the-way-down/"
             },
             {
-                "title": "Three-State Stability",
-                "href": "https://matklad.github.io/2023/02/16/three-state-stability.html"
-            },
-            {
                 "title": "organize images using AI",
                 "href": "https://gist.github.com/rain-1/cafbd3b04876cee936802d4d3a9a490d"
-            },
-            {
-                "title": "The Watermelon Operator",
-                "href": "https://matklad.github.io/2024/09/24/watermelon-operator.html"
-            },
-            {
-                "title": "Optimizing Guile Scheme",
-                "href": "https://dthompson.us/posts/optimizing-guile-scheme.html"
-            },
-            {
-                "title": "Post-OCSP certificate revocation in the Web PKI",
-                "href": "https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/"
-            },
-            {
-                "title": "NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support",
-                "href": "https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization"
             },
             {
                 "title": "Awala: The computer network on which humankind can truly rely",
@@ -83,24 +99,8 @@
                 "href": "https://aartaka.me/c-not-c"
             },
             {
-                "title": "What I tell people new to on-call",
-                "href": "https://ntietz.com/blog/what-i-tell-people-new-to-oncall/"
-            },
-            {
-                "title": "System Initiative is the Future",
-                "href": "https://www.systeminit.com/blog-system-initiative-is-the-future"
-            },
-            {
-                "title": "The Future of Programming Systems - four thoughts",
-                "href": "https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html"
-            },
-            {
-                "title": "A Data-Driven Approach to Writing Better Developer Documentation",
-                "href": "https://www.paradedb.com/blog/improving_documentation"
-            },
-            {
-                "title": "Resource management in Aurora Serverless",
-                "href": "https://www.amazon.science/publications/resource-management-in-aurora-serverless"
+                "title": "Why I still blog after 15 years",
+                "href": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
             }
         ]
     },
@@ -120,8 +120,16 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1foz5ls/exploiting_amd_atdcm64asys_arbitrary_pointer/"
             },
             {
+                "title": "Subdomain search engine",
+                "href": "https://www.reddit.com/r/netsec/comments/1fp91gm/subdomain_search_engine/"
+            },
+            {
                 "title": "CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability Deep-Dive \u2013 Horizon3.ai",
                 "href": "https://www.reddit.com/r/netsec/comments/1fp18du/cve202428987_solarwinds_web_help_desk_hardcoded/"
+            },
+            {
+                "title": "New CVE! Nortek Linear eMerge E3 Pre-Auth RCE!",
+                "href": "https://www.reddit.com/r/netsec/comments/1fp9fcf/new_cve_nortek_linear_emerge_e3_preauth_rce/"
             },
             {
                 "title": "A vulnerability in the Nortek Linear eMerge E3 allows remote unauthenticated attackers to cause the device to execute arbitrary commands",
@@ -202,14 +210,6 @@
             {
                 "title": "Revisiting MiniFilter Abuse Techniques to Blind EDR",
                 "href": "https://www.reddit.com/r/netsec/comments/1fjfqiy/revisiting_minifilter_abuse_techniques_to_blind/"
-            },
-            {
-                "title": "I wrote a password spraying tool to use against M365 accounts which relies on the error messaging from Microsoft to gather additional details against a target.",
-                "href": "https://www.reddit.com/r/netsec/comments/1fjtukb/i_wrote_a_password_spraying_tool_to_use_against/"
-            },
-            {
-                "title": "Taking over Train infrastructure / Traction power substation and lighting systems in Europe",
-                "href": "https://www.reddit.com/r/netsec/comments/1fj0xay/taking_over_train_infrastructure_traction_power/"
             }
         ]
     },
@@ -270,6 +270,10 @@
         "feedname": "krebsonsecurity",
         "items": [
             {
+                "title": "Timeshare Owner? The Mexican Drug Cartels Want You",
+                "href": "https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/"
+            },
+            {
                 "title": "This Windows PowerShell Phish Has Scary Potential",
                 "href": "https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/"
             },
@@ -304,16 +308,24 @@
             {
                 "title": "Local Networks Go Global When Domain Names Collide",
                 "href": "https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/"
-            },
-            {
-                "title": "National Public Data Published Its Own Passwords",
-                "href": "https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/"
             }
         ]
     },
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Meta Unveils AR Glasses Prototype",
+                "href": "https://tech.slashdot.org/story/24/09/25/181226/meta-unveils-ar-glasses-prototype?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Google Complains To EU Over Microsoft Cloud Practices",
+                "href": "https://tech.slashdot.org/story/24/09/25/1729220/google-complains-to-eu-over-microsoft-cloud-practices?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "China-Linked Hackers Breach US Internet Providers in New 'Salt Typhoon' Cyberattack",
+                "href": "https://it.slashdot.org/story/24/09/25/1623228/china-linked-hackers-breach-us-internet-providers-in-new-salt-typhoon-cyberattack?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Google Paid $2.7 Billion To Bring Back an AI Genius Who Quit in Frustration",
                 "href": "https://tech.slashdot.org/story/24/09/25/164213/google-paid-27-billion-to-bring-back-an-ai-genius-who-quit-in-frustration?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -361,18 +373,6 @@
             {
                 "title": "James Cameron Joins Board of Stability AI In Coup For Tech Firm",
                 "href": "https://entertainment.slashdot.org/story/24/09/24/2124251/james-cameron-joins-board-of-stability-ai-in-coup-for-tech-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Human Reviewers Can't Keep Up With Police Bodycam Videos. AI Now Gets the Job",
-                "href": "https://slashdot.org/story/24/09/24/2049204/human-reviewers-cant-keep-up-with-police-bodycam-videos-ai-now-gets-the-job?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Caroline Ellison Sentenced To Two Years In Jail For Role In FTX Fraud, Must Forfeit $11 Billion",
-                "href": "https://slashdot.org/story/24/09/24/2041203/caroline-ellison-sentenced-to-two-years-in-jail-for-role-in-ftx-fraud-must-forfeit-11-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "California Governor Vetoes Bill Requiring Opt-Out Signals For Sale of User Data",
-                "href": "https://yro.slashdot.org/story/24/09/24/2034226/california-governor-vetoes-bill-requiring-opt-out-signals-for-sale-of-user-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -593,6 +593,10 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means"
             },
             {
+                "title": "CISA Warns of Hurricane-Related Scams",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/09/25/cisa-warns-hurricane-related-scams"
+            },
+            {
                 "title": "Alisonic Sibylla",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-268-02"
             },
@@ -619,10 +623,6 @@
             {
                 "title": "Dover Fueling Solutions ProGauge MAGLINK LX CONSOLE",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-268-04"
-            },
-            {
-                "title": "CISA Releases Eight Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-releases-eight-industrial-control-systems-advisories"
             }
         ]
     },
@@ -791,24 +791,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The Lost Language Extensions of MetaWare's High C Compiler",
+                "title": "The lost language extensions of MetaWare's High C compiler (2023)",
                 "href": "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
             },
             {
-                "title": "Why I still blog after 15 years",
-                "href": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
-            },
-            {
-                "title": "Audio Masking",
-                "href": "https://www.cryptomuseum.com/covert/bugs/masking/"
+                "title": "Orion, Our First True Augmented Reality Glasses",
+                "href": "https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/"
             },
             {
                 "title": "Launch HN: Haystack (YC S24) \u2013 Visualize and edit code on an infinite canvas",
                 "href": "https://github.com/haystackeditor/haystack-editor"
             },
             {
+                "title": "Operator algebras and the substructure of space and time",
+                "href": "https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/"
+            },
+            {
+                "title": "Audio Masking",
+                "href": "https://www.cryptomuseum.com/covert/bugs/masking/"
+            },
+            {
                 "title": "Capstone Disassembler Framework",
                 "href": "https://github.com/capstone-engine/capstone"
+            },
+            {
+                "title": "Why I still blog after 15 years",
+                "href": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
+            },
+            {
+                "title": "How to Hack the Breakthrough Prize (Ft. Session Confusion)",
+                "href": "https://varun.ch/breakthrough"
+            },
+            {
+                "title": "Hamming AI (YC S24) Is Hiring a Founding Engineer in SF",
+                "href": "https://www.ycombinator.com/companies/hamming-ai/jobs/vkR1ijZ-founding-engineer"
+            },
+            {
+                "title": "X11-Basic (1991-2020)",
+                "href": "https://x11-basic.sourceforge.net"
+            },
+            {
+                "title": "Show HN: Fast and Exact Algorithm for Image Merging",
+                "href": "https://github.com/C-Naoki/image-stitcher"
             },
             {
                 "title": "NASA spacecraft to probe possibility of life in Europa's salty ocean",
@@ -819,96 +843,72 @@
                 "href": "https://dthompson.us/posts/optimizing-guile-scheme.html"
             },
             {
-                "title": "Scheduling threads like Thomas Jefferson",
-                "href": "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
+                "title": "System Intiative is generally available",
+                "href": "https://www.systeminit.com/blog-system-initiative-is-the-future/"
             },
             {
-                "title": "Show HN: Test your website on 180+ device viewports (with multi-device mode)",
-                "href": "https://viewport-tester.com/"
+                "title": "Scheduling threads like Thomas Jefferson",
+                "href": "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
             },
             {
                 "title": "Rearchitecting: Redis to SQLite",
                 "href": "https://wafris.org/blog/rearchitecting-for-sqlite"
             },
             {
-                "title": "Show HN: Coros \u2013 A Modern C++ Library for Task Parallelism",
-                "href": "https://github.com/mtmucha/coros"
+                "title": "JabRef \u2013 Literature Management",
+                "href": "https://www.jabref.org/"
             },
             {
-                "title": "System Intiative is generally available",
-                "href": "https://www.systeminit.com/blog-system-initiative-is-the-future/"
+                "title": "Show HN: Coros \u2013 A Modern C++ Library for Task Parallelism",
+                "href": "https://github.com/mtmucha/coros"
             },
             {
                 "title": "MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling",
                 "href": "https://menyifang.github.io/projects/MIMO/index.html"
             },
             {
-                "title": "Global EV Charging Points with Open Charge Map",
-                "href": "https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html"
+                "title": "Hack GPON \u2013 how to access, change and edit fibre ONTs",
+                "href": "https://hack-gpon.org/"
             },
             {
                 "title": "FRED: New Zealand open-access and crowdsource database of fossil records",
                 "href": "https://fred.org.nz/"
             },
             {
-                "title": "Hack GPON \u2013 how to access, change and edit fibre ONTs",
-                "href": "https://hack-gpon.org/"
+                "title": "Show HN: King Thirteen: 2048 with chess pieces, in under 13 KB",
+                "href": "https://js13kgames.com/2024/games/king-thirteen"
             },
             {
                 "title": "Insights after 11 years with Datomic [video]",
                 "href": "https://www.youtube.com/watch?v=YSgTQzHYeLU"
             },
             {
-                "title": "On Impactful AI Research",
-                "href": "https://github.com/okhat/blog/blob/main/2024.09.impact.md"
+                "title": "Global EV Charging Points with Open Charge Map",
+                "href": "https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html"
             },
             {
-                "title": "Furnace \u2013 the biggest multi-system chiptune tracker ever made",
-                "href": "https://github.com/tildearrow/furnace"
+                "title": "ButterCMS unreported downtime and security concerns",
+                "href": "https://cside.dev/blog/buttercms-unreported-downtime-and-security-concerns"
             },
             {
                 "title": "Show HN: Hosting my website using my C web server",
                 "href": "https://github.com/cozis/blogtech"
             },
             {
+                "title": "On Impactful AI Research",
+                "href": "https://github.com/okhat/blog/blob/main/2024.09.impact.md"
+            },
+            {
                 "title": "Graph Coloring Methods",
                 "href": "https://graphcoloringmethods.com/"
             },
             {
-                "title": "Google Cloud files complaint due to Microsoft's anti-competitive licensing",
-                "href": "https://cloud.google.com/blog/topics/inside-google-cloud/filing-eu-complaint-against-microsoft-licensing/"
+                "title": "Meta Ray-Ban's updated with real-time AI video, reminders, QR scanning",
+                "href": "https://techcrunch.com/2024/09/25/meta-updates-ray-ban-smart-glasses-with-real-time-ai-video-reminders-and-qr-code-scanning/"
             },
             {
-                "title": "Beyond the route: Introducing granular MTA bus speed data",
-                "href": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data"
-            },
-            {
-                "title": "Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube",
-                "href": "https://geoawesome.com/avoidance-mapping-what-it-is-where-it-fits-in-the-cartography-cube/"
-            },
-            {
-                "title": "Launch HN: Modern Realty (YC S24) \u2013 AI Real Estate Agent for Home Buyers",
-                "href": "item?id=41638199"
-            },
-            {
-                "title": "Ask HN: Platform for 11 year old to create video games?",
-                "href": "item?id=41604950"
-            },
-            {
-                "title": "Working Turing Machine",
-                "href": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
-            },
-            {
-                "title": "The Calculator that spawned the Microprocessor (2009)",
-                "href": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html"
-            },
-            {
-                "title": "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
-                "href": "https://ijc8.me/2024/08/26/gsoc-difflogic/"
-            },
-            {
-                "title": "Death of the Department Store",
-                "href": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
+                "title": "Furnace \u2013 the biggest multi-system chiptune tracker ever made",
+                "href": "https://github.com/tildearrow/furnace"
             }
         ]
     }
