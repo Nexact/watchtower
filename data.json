@@ -15,12 +15,12 @@
                 "href": "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/"
             },
             {
-                "title": "Thoughts on Debugging",
-                "href": "https://catskull.net/thoughts-on-debugging.html"
-            },
-            {
                 "title": "nanodjango",
                 "href": "https://simonwillison.net/2024/Sep/24/nanodjango/"
+            },
+            {
+                "title": "Thoughts on Debugging",
+                "href": "https://catskull.net/thoughts-on-debugging.html"
             },
             {
                 "title": "Winamp Legacy source code",
@@ -55,6 +55,10 @@
                 "href": "https://stanbright.com/time-spent-programming/"
             },
             {
+                "title": "Optimizing Guile Scheme",
+                "href": "https://dthompson.us/posts/optimizing-guile-scheme.html"
+            },
+            {
                 "title": "It's Lists All the Way Down",
                 "href": "https://thehistoryoftheweb.com/its-lists-all-the-way-down/"
             },
@@ -67,8 +71,24 @@
                 "href": "https://ntietz.com/blog/what-i-tell-people-new-to-oncall/"
             },
             {
+                "title": "The only good cloud: is a Google cloud",
+                "href": "https://blog.dijit.sh/gcp-the-only-good-cloud/"
+            },
+            {
+                "title": "The Watermelon Operator",
+                "href": "https://matklad.github.io/2024/09/24/watermelon-operator.html"
+            },
+            {
+                "title": "A Data-Driven Approach to Writing Better Developer Documentation",
+                "href": "https://www.paradedb.com/blog/improving_documentation"
+            },
+            {
                 "title": "Resource management in Aurora Serverless",
                 "href": "https://www.amazon.science/publications/resource-management-in-aurora-serverless"
+            },
+            {
+                "title": "A Brief History of Microprogramming",
+                "href": "https://people.computing.clemson.edu/~mark/uprog.html"
             },
             {
                 "title": "Jetstream: Shrinking the AT Proto Firehose by >99%",
@@ -79,28 +99,8 @@
                 "href": "https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/"
             },
             {
-                "title": "Awala: The computer network on which humankind can truly rely",
-                "href": "https://awala.network/"
-            },
-            {
-                "title": "A Data-Driven Approach to Writing Better Developer Documentation",
-                "href": "https://www.paradedb.com/blog/improving_documentation"
-            },
-            {
                 "title": "A few secure, random bytes without `pgcrypto`",
                 "href": "https://brandur.org/fragments/secure-bytes-without-pgcrypto"
-            },
-            {
-                "title": "What is io_uring?",
-                "href": "https://matklad.github.io/2024/09/32/-what-is-io-uring.html"
-            },
-            {
-                "title": "C++'s next decade",
-                "href": "https://github.com/CppCon/CppCon2024/blob/main/Presentations/Peering_Forward_Cpps_Next_Decade.pdf"
-            },
-            {
-                "title": "Move Fast and Abandon Things",
-                "href": "https://engineersneedart.com/blog/movefast/movefast.html"
             }
         ]
     },
@@ -126,10 +126,6 @@
             {
                 "title": "A vulnerability in the Nortek Linear eMerge E3 allows remote unauthenticated attackers to cause the device to execute arbitrary commands",
                 "href": "https://www.reddit.com/r/netsec/comments/1fp2pbr/a_vulnerability_in_the_nortek_linear_emerge_e3/"
-            },
-            {
-                "title": "Access data in Android app",
-                "href": "https://www.reddit.com/r/netsec/comments/1fp3p20/access_data_in_android_app/"
             },
             {
                 "title": "Open to Exploitation: The Security Risks of Unauthenticated Pager Networks",
@@ -210,6 +206,10 @@
             {
                 "title": "I wrote a password spraying tool to use against M365 accounts which relies on the error messaging from Microsoft to gather additional details against a target.",
                 "href": "https://www.reddit.com/r/netsec/comments/1fjtukb/i_wrote_a_password_spraying_tool_to_use_against/"
+            },
+            {
+                "title": "Taking over Train infrastructure / Traction power substation and lighting systems in Europe",
+                "href": "https://www.reddit.com/r/netsec/comments/1fj0xay/taking_over_train_infrastructure_traction_power/"
             }
         ]
     },
@@ -217,8 +217,8 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "The \"Llama\" is freed: Winamp goes open source after 27 years",
-                "href": "https://www.bleepingcomputer.com/news/software/the-llama-is-freed-winamp-goes-open-source-after-27-years/"
+                "title": "Winamp releases source code, asks for help modernizing the player",
+                "href": "https://www.bleepingcomputer.com/news/software/winamp-releases-source-code-asks-for-help-modernizing-the-player/"
             },
             {
                 "title": "Windows 10 KB5043131 update released with 9 changes and fixes",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "New California Law Requires One-Click Subscription Cancellations",
+                "href": "https://tech.slashdot.org/story/24/09/25/142200/new-california-law-requires-one-click-subscription-cancellations?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Nintendo Japan Plans To Stop Repairing Its Classic Edition Consoles",
                 "href": "https://games.slashdot.org/story/24/09/25/1348250/nintendo-japan-plans-to-stop-repairing-its-classic-edition-consoles?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "CrowdStrike Overhauls Testing and Rollout Procedures To Avoid System Crashes",
                 "href": "https://it.slashdot.org/story/24/09/24/195217/crowdstrike-overhauls-testing-and-rollout-procedures-to-avoid-system-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Online Discounts Are Getting Stingier",
-                "href": "https://news.slashdot.org/story/24/09/24/191203/online-discounts-are-getting-stingier?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -585,6 +585,10 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means"
+            },
+            {
                 "title": "Alisonic Sibylla",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-268-02"
             },
@@ -619,10 +623,6 @@
             {
                 "title": "Versa Networks Releases Advisory for a Vulnerability in Versa Director,\u00a0CVE-2024-45229",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/09/20/versa-networks-releases-advisory-vulnerability-versa-director-cve-2024-45229"
-            },
-            {
-                "title": "IDEC CORPORATION WindLDR and WindO/I-NV4",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-03"
             }
         ]
     },
@@ -791,8 +791,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "The Lost Language Extensions of MetaWare's High C Compiler",
+                "href": "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
+            },
+            {
                 "title": "Why I still blog after 15 years",
                 "href": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
+            },
+            {
+                "title": "Audio Masking",
+                "href": "https://www.cryptomuseum.com/covert/bugs/masking/"
             },
             {
                 "title": "Global EV Charging Points with Open Charge Map",
@@ -811,12 +819,16 @@
                 "href": "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
             },
             {
-                "title": "NASA spacecraft to probe possibility of life in Europa's salty ocean",
-                "href": "https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean"
+                "title": "Show HN: Coros \u2013 A Modern C++ Library for Task Parallelism",
+                "href": "https://github.com/mtmucha/coros"
             },
             {
                 "title": "FRED: New Zealand open-access and crowdsource database of fossil records",
                 "href": "https://fred.org.nz/"
+            },
+            {
+                "title": "NASA spacecraft to probe possibility of life in Europa's salty ocean",
+                "href": "https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean"
             },
             {
                 "title": "Hack GPON \u2013 how to access, change and edit fibre ONTs",
@@ -843,16 +855,12 @@
                 "href": "https://github.com/tildearrow/furnace"
             },
             {
-                "title": "Graph Coloring Methods",
-                "href": "https://graphcoloringmethods.com/"
-            },
-            {
                 "title": "Beyond the route: Introducing granular MTA bus speed data",
                 "href": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data"
             },
             {
-                "title": "Scaling up linear programming with PDLP",
-                "href": "https://research.google/blog/scaling-up-linear-programming-with-pdlp/"
+                "title": "Graph Coloring Methods",
+                "href": "https://graphcoloringmethods.com/"
             },
             {
                 "title": "Avoidance Mapping: What It Is and Where It Fits in the Cartography Cube",
@@ -863,32 +871,36 @@
                 "href": "item?id=41638199"
             },
             {
-                "title": "Working Turing Machine",
-                "href": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
-            },
-            {
                 "title": "Ask HN: Platform for 11 year old to create video games?",
                 "href": "item?id=41604950"
             },
             {
-                "title": "The Calculator that spawned the Microprocessor (2009)",
-                "href": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html"
+                "title": "Working Turing Machine",
+                "href": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
             },
             {
                 "title": "Why Most Published Research Findings Are False (2005)",
                 "href": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
             },
             {
+                "title": "The Calculator that spawned the Microprocessor (2009)",
+                "href": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html"
+            },
+            {
                 "title": "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
                 "href": "https://ijc8.me/2024/08/26/gsoc-difflogic/"
+            },
+            {
+                "title": "Death of the Department Store",
+                "href": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
             },
             {
                 "title": "Show HN: OpenFreeMap \u2013 Open-Source Map Hosting",
                 "href": "https://openfreemap.org/"
             },
             {
-                "title": "Death of the Department Store",
-                "href": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
+                "title": "US Investigating SAP, Carahsoft for Potential Price-Fixing",
+                "href": "https://www.msn.com/en-us/money/other/us-investigating-sap-carahsoft-for-potential-price-fixing/ar-AA1r9LW8"
             },
             {
                 "title": "A Little History of the Anchovy",
@@ -897,18 +909,6 @@
             {
                 "title": "Show HN: Velvet \u2013 Store OpenAI requests in your own DB",
                 "href": "https://www.usevelvet.com"
-            },
-            {
-                "title": "Godot for App Development",
-                "href": "http://tiniuc.com/godot-for-apps/"
-            },
-            {
-                "title": "Doom on a modified rotary phone",
-                "href": "https://tamulaitis.lt/project/dialrhea/"
-            },
-            {
-                "title": "How We Sort the World",
-                "href": "https://thereader.mitpress.mit.edu/how-we-sort-the-world-gregory-murphy-on-the-psychology-of-categories/"
             }
         ]
     }
