@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Winamp Legacy source code",
-                "href": "https://github.com/WinampDesktop/winamp"
-            },
-            {
                 "title": "devenv 1.2: Tasks for convergent configuration with Nix",
                 "href": "https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/"
+            },
+            {
+                "title": "Winamp Legacy source code",
+                "href": "https://github.com/WinampDesktop/winamp"
             },
             {
                 "title": "Time spent programming is often time well spent",
@@ -47,6 +47,10 @@
                 "href": "https://jazco.dev/2024/09/24/jetstream/"
             },
             {
+                "title": "XKCD 1425 (Tasks) turns ten years old today",
+                "href": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/"
+            },
+            {
                 "title": "Real World Performance Gains With Postgres 17 B-tree Bulk Scans",
                 "href": "https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans"
             },
@@ -67,16 +71,16 @@
                 "href": "https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/"
             },
             {
-                "title": "XKCD 1425 (Tasks) turns ten years old today",
-                "href": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/"
-            },
-            {
                 "title": "A few secure, random bytes without `pgcrypto`",
                 "href": "https://brandur.org/fragments/secure-bytes-without-pgcrypto"
             },
             {
                 "title": "Move Fast and Abandon Things",
                 "href": "https://engineersneedart.com/blog/movefast/movefast.html"
+            },
+            {
+                "title": "Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)",
+                "href": "https://archive.org/details/genera-retrospective-1991"
             },
             {
                 "title": "The kind of websites I like",
@@ -97,10 +101,6 @@
             {
                 "title": "My Asus eeePC still rocks in 2024 (with MX Linux)",
                 "href": "https://www.dedoimedo.com/computers/eeepc-2024.html"
-            },
-            {
-                "title": "Hand-wired CPU that natively executes Brainfuck code",
-                "href": "https://www.youtube.com/watch?v=q8G2fWprwyo"
             }
         ]
     },
@@ -795,12 +795,28 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "No more blurry fonts in Linux",
+                "href": "https://blog.aktsbot.in/no-more-blurry-fonts.html"
+            },
+            {
+                "title": "SQL Tips and Tricks",
+                "href": "https://github.com/ben-n93/SQL-tips-and-tricks"
+            },
+            {
+                "title": "Doom on a Modified Rotary Phone",
+                "href": "https://tamulaitis.lt/project/dialrhea/"
+            },
+            {
                 "title": "A new semantic chunking approach for RAG",
                 "href": "https://gpt3experiments.substack.com/p/a-new-chunking-approach-to-rag"
             },
             {
-                "title": "No more blurry fonts in Linux",
-                "href": "https://blog.aktsbot.in/no-more-blurry-fonts.html"
+                "title": "Hack GPON \u2013 how to access, change and edit fibre ONTs",
+                "href": "https://hack-gpon.org/"
+            },
+            {
+                "title": "XBill for PalmOS receives an update after 25 years",
+                "href": "https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html"
             },
             {
                 "title": "Show HN: Hosting my website using my C web server",
@@ -811,28 +827,24 @@
                 "href": "https://github.com/okhat/blog/blob/main/2024.09.impact.md"
             },
             {
-                "title": "Hack GPON \u2013 how to access, change and edit fibre ONTs",
-                "href": "https://hack-gpon.org/"
+                "title": "NIST to forbid requirement of specific passwords character composition",
+                "href": "https://mastodon.social/@LukaszOlejnik/113193089731407165"
             },
             {
                 "title": "Understudied protein blobs have global effects on cell biochemistry",
                 "href": "https://phys.org/news/2024-09-understudied-protein-blobs-global-effects.html"
             },
             {
-                "title": "XBill for PalmOS receives an update after 25 years",
-                "href": "https://ctrl-c.club/~captain/posts/2024-09-24-xbill-for-palmos-receives-an-update-after-25-years.html"
-            },
-            {
                 "title": "Beyond the route: Introducing granular MTA bus speed data",
                 "href": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data"
             },
             {
-                "title": "Furnace \u2013 the biggest multi-system chiptune tracker ever made",
-                "href": "https://github.com/tildearrow/furnace"
-            },
-            {
                 "title": "Insights after 11 years with Datomic [video]",
                 "href": "https://www.youtube.com/watch?v=YSgTQzHYeLU"
+            },
+            {
+                "title": "Furnace \u2013 the biggest multi-system chiptune tracker ever made",
+                "href": "https://github.com/tildearrow/furnace"
             },
             {
                 "title": "The Calculator that spawned the Microprocessor (2009)",
@@ -843,76 +855,64 @@
                 "href": "item?id=41638199"
             },
             {
-                "title": "Why Most Published Research Findings Are False (2005)",
-                "href": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
-            },
-            {
                 "title": "Debian Packaging from First Principles",
                 "href": "https://mikecoats.com/debian-packaging-first-principles-part-1-simple/"
+            },
+            {
+                "title": "Why Most Published Research Findings Are False (2005)",
+                "href": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124"
             },
             {
                 "title": "A Little History of the Anchovy",
                 "href": "https://engelsbergideas.com/reviews/a-little-history-of-the-anchovy/"
             },
             {
-                "title": "MI couple running out of time to prove they found Great Lakes' oldest shipwreck",
-                "href": "https://www.usatoday.com/"
-            },
-            {
                 "title": "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
                 "href": "https://ijc8.me/2024/08/26/gsoc-difflogic/"
-            },
-            {
-                "title": "Winamp Legacy player source code",
-                "href": "https://github.com/WinampDesktop/winamp"
-            },
-            {
-                "title": "Show HN: Velvet \u2013 Store OpenAI requests in your own DB",
-                "href": "https://www.usevelvet.com"
-            },
-            {
-                "title": "Committing to Rust in the Kernel",
-                "href": "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/"
-            },
-            {
-                "title": "Show HN: OpenFreeMap \u2013 Open-Source Map Hosting",
-                "href": "https://openfreemap.org/"
-            },
-            {
-                "title": "Death of the Department Store",
-                "href": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
             },
             {
                 "title": "Why are the violins the biggest section in the orchestra?",
                 "href": "https://phys.org/news/2024-09-violins-biggest-section-orchestra.html"
             },
             {
-                "title": "Radioactive Tape Dispenser (1970s)",
-                "href": "https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html"
+                "title": "MI couple running out of time to prove they found Great Lakes' oldest shipwreck",
+                "href": "https://www.usatoday.com/"
+            },
+            {
+                "title": "Show HN: Velvet \u2013 Store OpenAI requests in your own DB",
+                "href": "https://www.usevelvet.com"
+            },
+            {
+                "title": "Thoughts on Debugging",
+                "href": "https://catskull.net/thoughts-on-debugging.html"
+            },
+            {
+                "title": "Show HN: OpenFreeMap \u2013 Open-Source Map Hosting",
+                "href": "https://openfreemap.org/"
+            },
+            {
+                "title": "Winamp Legacy player source code",
+                "href": "https://github.com/WinampDesktop/winamp"
+            },
+            {
+                "title": "Death of the Department Store",
+                "href": "https://www.lrb.co.uk/the-paper/v46/n18/rosemary-hill/at-the-musee-des-arts-decoratifs"
             },
             {
                 "title": "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
                 "href": "https://github.com/vshymanskyy/wasm2mpy"
             },
             {
-                "title": "Ask HN: Platform for 11 year old to create video games?",
-                "href": "item?id=41604950"
-            },
-            {
-                "title": "Google Cache is fully dead",
-                "href": "https://www.seroundtable.com/google-cache-dead-38112.html"
+                "title": "Radioactive Tape Dispenser (1970s)",
+                "href": "https://www.orau.org/health-physics-museum/collection/consumer/miscellaneous/tape-dispenser.html"
             },
             {
                 "title": "Twitter/X will let people you've blocked see your posts",
                 "href": "https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts"
             },
             {
-                "title": "Working Turing Machine",
-                "href": "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
-            },
-            {
-                "title": "Hacker plants false memories in ChatGPT to steal user data in perpetuity",
-                "href": "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/"
+                "title": "Google Cache is fully dead",
+                "href": "https://www.seroundtable.com/google-cache-dead-38112.html"
             }
         ]
     }
