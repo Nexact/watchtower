@@ -23,6 +23,10 @@
                 "href": "https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7"
             },
             {
+                "title": "PostgreSQL 17 Released",
+                "href": "https://www.postgresql.org/about/news/postgresql-17-released-2936/"
+            },
+            {
                 "title": "Whence '\\n'?",
                 "href": "https://rodarmor.com/blog/whence-newline/"
             },
@@ -35,12 +39,12 @@
                 "href": "https://catskull.net/replies.html"
             },
             {
-                "title": "Frog Protocols announced to try and speed up Wayland protocol development",
-                "href": "https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/"
+                "title": "Introducing TODS \u2013 a typographic and OpenType default stylesheet",
+                "href": "https://clagnut.com/blog/2433/"
             },
             {
-                "title": "PostgreSQL 17 Released",
-                "href": "https://www.postgresql.org/about/news/postgresql-17-released-2936/"
+                "title": "Frog Protocols announced to try and speed up Wayland protocol development",
+                "href": "https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/"
             },
             {
                 "title": "Flexing the Windows RRAS BGP implementation",
@@ -51,12 +55,12 @@
                 "href": "https://simonwillison.net/2024/Sep/24/nanodjango/"
             },
             {
-                "title": "Introducing TODS \u2013 a typographic and OpenType default stylesheet",
-                "href": "https://clagnut.com/blog/2433/"
-            },
-            {
                 "title": "Optimizing Guile Scheme",
                 "href": "https://dthompson.us/posts/optimizing-guile-scheme.html"
+            },
+            {
+                "title": "needed-bits optimizations in guile",
+                "href": "https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile"
             },
             {
                 "title": "The Watermelon Operator",
@@ -75,10 +79,6 @@
                 "href": "https://www.systeminit.com/blog-system-initiative-is-the-future"
             },
             {
-                "title": "needed-bits optimizations in guile",
-                "href": "https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile"
-            },
-            {
                 "title": "llm-interpolate: Interpolate between embedding points with llm",
                 "href": "https://github.com/vagos/llm-interpolate"
             },
@@ -95,12 +95,12 @@
                 "href": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
             },
             {
-                "title": "Table format interoperability, future or fantasy? \u2014",
-                "href": "https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy"
+                "title": "Reproducible Data Science Environments with Nix",
+                "href": "https://cran.r-project.org/web/packages/rix/index.html"
             },
             {
-                "title": "Automattic\u2019s Actionable Misconduct Directed to WP Engine",
-                "href": "https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf"
+                "title": "Table format interoperability, future or fantasy? \u2014",
+                "href": "https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy"
             }
         ]
     },
@@ -266,6 +266,10 @@
         "feedname": "krebsonsecurity",
         "items": [
             {
+                "title": "U.S. Indicts 2 Top Russian Hackers, Sanctions Cryptex",
+                "href": "https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/"
+            },
+            {
                 "title": "Timeshare Owner? The Mexican Drug Cartels Want You",
                 "href": "https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/"
             },
@@ -300,16 +304,16 @@
             {
                 "title": "New 0-Day Attacks Linked to China\u2019s \u2018Volt Typhoon\u2019",
                 "href": "https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/"
-            },
-            {
-                "title": "Local Networks Go Global When Domain Names Collide",
-                "href": "https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/"
             }
         ]
     },
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Tor Project Merges With Tails",
+                "href": "https://yro.slashdot.org/story/24/09/26/1431201/tor-project-merges-with-tails?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "WordPress.org Denies Service To WP Engine",
                 "href": "https://tech.slashdot.org/story/24/09/26/147236/wordpressorg-denies-service-to-wp-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "Russia Blocks OONI Explorer, a Large Open Dataset On Internet Censorship",
                 "href": "https://yro.slashdot.org/story/24/09/25/191225/russia-blocks-ooni-explorer-a-large-open-dataset-on-internet-censorship?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "OpenAI CTO Mira Murati Is Leaving Firm",
-                "href": "https://slashdot.org/story/24/09/25/1959208/openai-cto-mira-murati-is-leaving-firm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -626,20 +626,32 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "Cyberattack On Kansas Water Treatment Facility Investigated By Feds",
-                "href": "https://packetstormsecurity.com/news/view/36387/Cyberattack-On-Kansas-Water-Treatment-Facility-Investigated-By-Feds.html"
+                "title": "NIST Proposes Barring Some Of The Most Nonsensical Password Rules",
+                "href": "https://packetstormsecurity.com/news/view/36397/NIST-Proposes-Barring-Some-Of-The-Most-Nonsensical-Password-Rules.html"
             },
             {
-                "title": "RansomHub Genius Tries To Put The Squeeze On Delaware Libraries",
-                "href": "https://packetstormsecurity.com/news/view/36391/RansomHub-Genius-Tries-To-Put-The-Squeeze-On-Delaware-Libraries.html"
+                "title": "Remote Code Execution, DoS Vulnerabilities Patched In OpenPLC",
+                "href": "https://packetstormsecurity.com/news/view/36394/Remote-Code-Execution-DoS-Vulnerabilities-Patched-In-OpenPLC.html"
             },
             {
-                "title": "Mozilla Hit With Privacy Complaint Over Firefox User Tracking",
-                "href": "https://packetstormsecurity.com/news/view/36389/Mozilla-Hit-With-Privacy-Complaint-Over-Firefox-User-Tracking.html"
+                "title": "China's Salt Typhoon Cyber Spies Are Deep Inside US ISPs",
+                "href": "https://packetstormsecurity.com/news/view/36395/Chinas-Salt-Typhoon-Cyber-Spies-Are-Deep-Inside-US-ISPs.html"
             },
             {
-                "title": "AI-Generated Malware Found In The Wild",
-                "href": "https://packetstormsecurity.com/news/view/36390/AI-Generated-Malware-Found-In-The-Wild.html"
+                "title": "Cisco Patches High Severity Vulnerabilities In IOS",
+                "href": "https://packetstormsecurity.com/news/view/36396/Cisco-Patches-High-Severity-Vulnerabilities-In-IOS.html"
+            },
+            {
+                "title": "Ivanti vTM Flaw Added To Known Exploited Vulnerabilities Catalog",
+                "href": "https://packetstormsecurity.com/news/view/36400/Ivanti-vTM-Flaw-Added-To-Known-Exploited-Vulnerabilities-Catalog.html"
+            },
+            {
+                "title": "Hacker Plants False Memories In ChatGPT To Steal User Data In Perpetuity",
+                "href": "https://packetstormsecurity.com/news/view/36399/Hacker-Plants-False-Memories-In-ChatGPT-To-Steal-User-Data-In-Perpetuity.html"
+            },
+            {
+                "title": "Cyberattack Investigated At UK's Busiest Train Stations",
+                "href": "https://packetstormsecurity.com/news/view/36398/Cyberattack-Investigated-At-UKs-Busiest-Train-Stations.html"
             },
             {
                 "title": "Deloitte Says No Threat To Sensitive Data After Hacker Claims Breach",
@@ -650,36 +662,24 @@
                 "href": "https://packetstormsecurity.com/news/view/36392/CrowdStrike-Changes-Software-Update-System-After-Widespread-Outage.html"
             },
             {
+                "title": "RansomHub Genius Tries To Put The Squeeze On Delaware Libraries",
+                "href": "https://packetstormsecurity.com/news/view/36391/RansomHub-Genius-Tries-To-Put-The-Squeeze-On-Delaware-Libraries.html"
+            },
+            {
+                "title": "AI-Generated Malware Found In The Wild",
+                "href": "https://packetstormsecurity.com/news/view/36390/AI-Generated-Malware-Found-In-The-Wild.html"
+            },
+            {
+                "title": "Mozilla Hit With Privacy Complaint Over Firefox User Tracking",
+                "href": "https://packetstormsecurity.com/news/view/36389/Mozilla-Hit-With-Privacy-Complaint-Over-Firefox-User-Tracking.html"
+            },
+            {
                 "title": "Ivanti Warns Of Second CSA Vuln Exploited In Attacks",
                 "href": "https://packetstormsecurity.com/news/view/36388/Ivanti-Warns-Of-Second-CSA-Vuln-Exploited-In-Attacks.html"
             },
             {
-                "title": "Telegram Will Now Hand Over IP Addresses, Phone Numbers Of Suspects To Cops",
-                "href": "https://packetstormsecurity.com/news/view/36386/Telegram-Will-Now-Hand-Over-IP-Addresses-Phone-Numbers-Of-Suspects-To-Cops.html"
-            },
-            {
-                "title": "Israel's Pager Attacks and Supply Chain Vulnerabilities",
-                "href": "https://packetstormsecurity.com/news/view/36385/Israels-Pager-Attacks-and-Supply-Chain-Vulnerabilities.html"
-            },
-            {
-                "title": "Cyberattack Causes MoneyGram Service Outage",
-                "href": "https://packetstormsecurity.com/news/view/36384/Cyberattack-Causes-MoneyGram-Service-Outage.html"
-            },
-            {
-                "title": "US Disrupts Raptor Train Botnet Of Chinese APT Flax Typhoon",
-                "href": "https://packetstormsecurity.com/news/view/36383/US-Disrupts-Raptor-Train-Botnet-Of-Chinese-APT-Flax-Typhoon.html"
-            },
-            {
-                "title": "11 Million Devices Infected With Botnet Malware Hosted In Google Play",
-                "href": "https://packetstormsecurity.com/news/view/36382/11-Million-Devices-Infected-With-Botnet-Malware-Hosted-In-Google-Play.html"
-            },
-            {
-                "title": "Critical Vulnerabilities In Microchip ASF, MediaTek Expose RCE Risks",
-                "href": "https://packetstormsecurity.com/news/view/36381/Critical-Vulnerabilities-In-Microchip-ASF-MediaTek-Expose-RCE-Risks.html"
-            },
-            {
-                "title": "Move Over, Cobalt Strike. Splinter's The New Post Exploit Menace In Town",
-                "href": "https://packetstormsecurity.com/news/view/36380/Move-Over-Cobalt-Strike.-Splinters-The-New-Post-Exploit-Menace-In-Town.html"
+                "title": "Cyberattack On Kansas Water Treatment Facility Investigated By Feds",
+                "href": "https://packetstormsecurity.com/news/view/36387/Cyberattack-On-Kansas-Water-Treatment-Facility-Investigated-By-Feds.html"
             },
             {
                 "title": "ABB Cylon Aspect 3.07.00 Remote Code Execution",
@@ -787,6 +787,14 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "NKRYPT Sculpture",
+                "href": "https://www.meme.net.au/nkrypt/"
+            },
+            {
+                "title": "The Slow, Painful Death of Agile and Jira",
+                "href": "https://ehandbook.com/the-slow-painful-death-of-agile-and-jira-c8de04e4269a"
+            },
+            {
                 "title": "Xkcd 1425 (Tasks) turns ten years old today",
                 "href": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/"
             },
@@ -795,16 +803,8 @@
                 "href": "https://www.michelecoscia.com/?p=2372"
             },
             {
-                "title": "NKRYPT Sculpture",
-                "href": "https://www.meme.net.au/nkrypt/"
-            },
-            {
                 "title": "AWS Nitro Enclaves: Attack Surface",
                 "href": "https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/"
-            },
-            {
-                "title": "Octopuses seen hunting together with fish, punching those that don't cooperate",
-                "href": "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705"
             },
             {
                 "title": "Orion, our first true augmented reality glasses",
@@ -815,12 +815,12 @@
                 "href": "https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639"
             },
             {
-                "title": "Git-absorb: Git commit \u2013fixup, but automatic",
-                "href": "https://github.com/tummychow/git-absorb"
-            },
-            {
                 "title": "Llama 3.2: Revolutionizing edge AI and vision with open, customizable models",
                 "href": "https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1"
+            },
+            {
+                "title": "Git-absorb: Git commit \u2013fixup, but automatic",
+                "href": "https://github.com/tummychow/git-absorb"
             },
             {
                 "title": "Show HN: Cronexpr, a Rust library to parse and iter crontab expression",
@@ -831,16 +831,40 @@
                 "href": "https://www.ycombinator.com/companies/poka-labs/jobs/ao5FevM-founding-engineer"
             },
             {
+                "title": "Pilots Are Dying of Tiredness. Tech Can't Save Them",
+                "href": "https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/"
+            },
+            {
                 "title": "Hoodmaps: Publicly Annotated City Maps",
                 "href": "https://hoodmaps.com"
+            },
+            {
+                "title": "Octopuses seen hunting together with fish, punching those that don't cooperate",
+                "href": "https://www.nbcnews.com/science/science-news/octopuses-hunt-with-fish-punch-video-rcna171705"
             },
             {
                 "title": "Launch HN: Haystack (YC S24) \u2013 Visualize and edit code on an infinite canvas",
                 "href": "https://github.com/haystackeditor/haystack-editor"
             },
             {
+                "title": "PostgreSQL 17 Released",
+                "href": "https://www.postgresql.org/about/news/postgresql-17-released-2936/"
+            },
+            {
+                "title": "Rents Fall and Listings Increase After Milei Ends Rent Control in Argentina",
+                "href": "https://www.msn.com/en-us/money/realestate/rents-fall-and-listings-increase-after-javier-milei-ends-rent-control-in-argentina/ar-AA1rfZTe"
+            },
+            {
+                "title": "Ask HN: What tools should I use to manage secrets from env files?",
+                "href": "item?id=41629168"
+            },
+            {
                 "title": "Eliminating Memory Safety Vulnerabilities at the Source",
                 "href": "https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html"
+            },
+            {
+                "title": "Sensorwatch pro \u2013 Hackable ARM Cortex M0 brain upgrade for Casio's iconic F-91W",
+                "href": "https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro"
             },
             {
                 "title": "Shizuku: App that lets you use system APIs with higher privileges without root",
@@ -851,60 +875,36 @@
                 "href": "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler"
             },
             {
-                "title": "PostgreSQL 17 Released",
-                "href": "https://www.postgresql.org/about/news/postgresql-17-released-2936/"
+                "title": "Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug",
+                "href": "https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/"
             },
             {
                 "title": "GitHub-events-viewer a.k.a. \"What did I do yesterday?\"",
                 "href": "https://github.com/zbycz/github-events-viewer"
             },
             {
-                "title": "Ask HN: What tools should I use to manage secrets from env files?",
-                "href": "item?id=41629168"
-            },
-            {
                 "title": "Writing Portable Rendering Code with Nvrhi",
                 "href": "https://developer.nvidia.com/blog/writing-portable-rendering-code-with-nvrhi/"
-            },
-            {
-                "title": "Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido",
-                "href": "https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/"
-            },
-            {
-                "title": "Pilots Are Dying of Tiredness. Tech Can't Save Them",
-                "href": "https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/"
-            },
-            {
-                "title": "Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug",
-                "href": "https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/"
-            },
-            {
-                "title": "Another new wasp species discovered by researchers",
-                "href": "https://phys.org/news/2024-09-wasp-species.html"
             },
             {
                 "title": "Timeshare owner? The Mexican drug cartels want you",
                 "href": "https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/"
             },
             {
+                "title": "Moerenuma Park: A Giant, Gorgeous 'Living Sculpture' in Hokkaido",
+                "href": "https://www.tokyoweekender.com/art_and_culture/moerenuma-park-a-giant-gorgeous-living-sculpture-in-hokkaido/"
+            },
+            {
                 "title": "Show HN: Httpdbg \u2013 A tool to trace the HTTP requests sent by your Python code",
                 "href": "https://github.com/cle-b/httpdbg"
             },
             {
+                "title": "Another new wasp species discovered by researchers",
+                "href": "https://phys.org/news/2024-09-wasp-species.html"
+            },
+            {
                 "title": "Why I still blog after 15 years",
                 "href": "https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"
-            },
-            {
-                "title": "How to avoid a BSOD on your 2B dollar spacecraft",
-                "href": "https://clarkwakeland.com/blog/2024/avoiding-a-BSOD-on-your-satellite/"
-            },
-            {
-                "title": "Register Allocation in the Go Compiler",
-                "href": "https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation"
-            },
-            {
-                "title": "Rearchitecting: Redis to SQLite",
-                "href": "https://wafris.org/blog/rearchitecting-for-sqlite"
             }
         ]
     }
