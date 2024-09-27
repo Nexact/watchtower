@@ -35,12 +35,12 @@
                 "href": "https://joshleeb.com/posts/gridclock.html"
             },
             {
-                "title": "How I Built \u201cThe Monospace Web\u201d",
-                "href": "https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html"
-            },
-            {
                 "title": "Few lesser known tricks, quirks and features of C",
                 "href": "https://jorenar.com/blog/less-known-c"
+            },
+            {
+                "title": "How I Built \u201cThe Monospace Web\u201d",
+                "href": "https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html"
             },
             {
                 "title": "OCaml - Dune Developer Preview Updates",
@@ -71,8 +71,16 @@
                 "href": "https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend"
             },
             {
+                "title": "systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought",
+                "href": "https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought"
+            },
+            {
                 "title": "Stop Writing Classes",
                 "href": "https://pyvideo.org/pycon-us-2012/stop-writing-classes.html"
+            },
+            {
+                "title": "Rearchitecting: Redis to SQLite",
+                "href": "https://wafris.org/blog/rearchitecting-for-sqlite"
             },
             {
                 "title": "Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs",
@@ -91,16 +99,8 @@
                 "href": "https://catskull.net/replies.html"
             },
             {
-                "title": "Rearchitecting: Redis to SQLite",
-                "href": "https://wafris.org/blog/rearchitecting-for-sqlite"
-            },
-            {
                 "title": "Eliminating memory safety vulnerabilities at the source",
                 "href": "https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html"
-            },
-            {
-                "title": "Announcing Hotwire Native",
-                "href": "https://dev.37signals.com/announcing-hotwire-native/"
             }
         ]
     },
@@ -116,12 +116,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1fpzmh1/hacking_kia_remotely_controlling_cars_with_just_a/"
             },
             {
-                "title": "Unath RCE in CUPS which triggers after a print job - affects most desktop linux flavors",
-                "href": "https://www.reddit.com/r/netsec/comments/1fq6jon/unath_rce_in_cups_which_triggers_after_a_print/"
-            },
-            {
                 "title": "DNS poisoning in 30M domains caused by the Great Firewall",
                 "href": "https://www.reddit.com/r/netsec/comments/1fqobwj/dns_poisoning_in_30m_domains_caused_by_the_great/"
+            },
+            {
+                "title": "Unath RCE in CUPS which triggers after a print job - affects most desktop linux flavors",
+                "href": "https://www.reddit.com/r/netsec/comments/1fq6jon/unath_rce_in_cups_which_triggers_after_a_print/"
             },
             {
                 "title": "Critical Vulnerabilities Discovered in Automated Tank Gauge Systems - Impact can range from DoS to physical damage.",
@@ -710,20 +710,28 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "NIST Proposes Barring Some Of The Most Nonsensical Password Rules",
-                "href": "https://packetstormsecurity.com/news/view/36397/NIST-Proposes-Barring-Some-Of-The-Most-Nonsensical-Password-Rules.html"
+                "title": "EU Privacy Regulator Fines Meta 91 Million Euros Over Password Storage",
+                "href": "https://packetstormsecurity.com/news/view/36404/EU-Privacy-Regulator-Fines-Meta-91-Million-Euros-Over-Password-Storage.html"
             },
             {
-                "title": "Remote Code Execution, DoS Vulnerabilities Patched In OpenPLC",
-                "href": "https://packetstormsecurity.com/news/view/36394/Remote-Code-Execution-DoS-Vulnerabilities-Patched-In-OpenPLC.html"
+                "title": "Millions Of Kia Cars Were Vulnerable To Remote Hacking",
+                "href": "https://packetstormsecurity.com/news/view/36401/Millions-Of-Kia-Cars-Were-Vulnerable-To-Remote-Hacking.html"
             },
             {
-                "title": "China's Salt Typhoon Cyber Spies Are Deep Inside US ISPs",
-                "href": "https://packetstormsecurity.com/news/view/36395/Chinas-Salt-Typhoon-Cyber-Spies-Are-Deep-Inside-US-ISPs.html"
+                "title": "HPE Patches Three Critical Security Holes In Aruba PAPI",
+                "href": "https://packetstormsecurity.com/news/view/36402/HPE-Patches-Three-Critical-Security-Holes-In-Aruba-PAPI.html"
             },
             {
-                "title": "Cisco Patches High Severity Vulnerabilities In IOS",
-                "href": "https://packetstormsecurity.com/news/view/36396/Cisco-Patches-High-Severity-Vulnerabilities-In-IOS.html"
+                "title": "Ransomware Gang Using Stolen MS Entra ID Creds To Bust Into Cloud",
+                "href": "https://packetstormsecurity.com/news/view/36403/Ransomware-Gang-Using-Stolen-MS-Entra-ID-Creds-To-Bust-Into-Cloud.html"
+            },
+            {
+                "title": "Critical Nvidia Bug Allows Container Escape, Host Takeover",
+                "href": "https://packetstormsecurity.com/news/view/36406/Critical-Nvidia-Bug-Allows-Container-Escape-Host-Takeover.html"
+            },
+            {
+                "title": "Five Eyes Agencies Release Guidance On Detecting Active Directory Intrusions",
+                "href": "https://packetstormsecurity.com/news/view/36405/Five-Eyes-Agencies-Release-Guidance-On-Detecting-Active-Directory-Intrusions.html"
             },
             {
                 "title": "Ivanti vTM Flaw Added To Known Exploited Vulnerabilities Catalog",
@@ -738,32 +746,24 @@
                 "href": "https://packetstormsecurity.com/news/view/36398/Cyberattack-Investigated-At-UKs-Busiest-Train-Stations.html"
             },
             {
+                "title": "NIST Proposes Barring Some Of The Most Nonsensical Password Rules",
+                "href": "https://packetstormsecurity.com/news/view/36397/NIST-Proposes-Barring-Some-Of-The-Most-Nonsensical-Password-Rules.html"
+            },
+            {
+                "title": "Cisco Patches High Severity Vulnerabilities In IOS",
+                "href": "https://packetstormsecurity.com/news/view/36396/Cisco-Patches-High-Severity-Vulnerabilities-In-IOS.html"
+            },
+            {
+                "title": "China's Salt Typhoon Cyber Spies Are Deep Inside US ISPs",
+                "href": "https://packetstormsecurity.com/news/view/36395/Chinas-Salt-Typhoon-Cyber-Spies-Are-Deep-Inside-US-ISPs.html"
+            },
+            {
+                "title": "Remote Code Execution, DoS Vulnerabilities Patched In OpenPLC",
+                "href": "https://packetstormsecurity.com/news/view/36394/Remote-Code-Execution-DoS-Vulnerabilities-Patched-In-OpenPLC.html"
+            },
+            {
                 "title": "Deloitte Says No Threat To Sensitive Data After Hacker Claims Breach",
                 "href": "https://packetstormsecurity.com/news/view/36393/Deloitte-Says-No-Threat-To-Sensitive-Data-After-Hacker-Claims-Breach.html"
-            },
-            {
-                "title": "CrowdStrike Changes Software Update System After Widespread Outage",
-                "href": "https://packetstormsecurity.com/news/view/36392/CrowdStrike-Changes-Software-Update-System-After-Widespread-Outage.html"
-            },
-            {
-                "title": "RansomHub Genius Tries To Put The Squeeze On Delaware Libraries",
-                "href": "https://packetstormsecurity.com/news/view/36391/RansomHub-Genius-Tries-To-Put-The-Squeeze-On-Delaware-Libraries.html"
-            },
-            {
-                "title": "AI-Generated Malware Found In The Wild",
-                "href": "https://packetstormsecurity.com/news/view/36390/AI-Generated-Malware-Found-In-The-Wild.html"
-            },
-            {
-                "title": "Mozilla Hit With Privacy Complaint Over Firefox User Tracking",
-                "href": "https://packetstormsecurity.com/news/view/36389/Mozilla-Hit-With-Privacy-Complaint-Over-Firefox-User-Tracking.html"
-            },
-            {
-                "title": "Ivanti Warns Of Second CSA Vuln Exploited In Attacks",
-                "href": "https://packetstormsecurity.com/news/view/36388/Ivanti-Warns-Of-Second-CSA-Vuln-Exploited-In-Attacks.html"
-            },
-            {
-                "title": "Cyberattack On Kansas Water Treatment Facility Investigated By Feds",
-                "href": "https://packetstormsecurity.com/news/view/36387/Cyberattack-On-Kansas-Water-Treatment-Facility-Investigated-By-Feds.html"
             },
             {
                 "title": "ABB Cylon Aspect 3.07.01 Hard-Coded Credentials",
@@ -871,112 +871,112 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "I've built a city, now it needs residents",
-                "href": "https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents"
-            },
-            {
-                "title": "It's hard to write code for computers, but it's harder to write code for humans",
-                "href": "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html"
-            },
-            {
-                "title": "Money-Laundering Practices in the Online Scam Industry",
-                "href": "https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/"
+                "title": "CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them",
+                "href": "https://larslofgren.com/cnn-usa-today-forbes-marketplace/"
             },
             {
                 "title": "Everything we know about spies is wrong",
                 "href": "https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/"
             },
             {
-                "title": "CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them",
-                "href": "https://larslofgren.com/cnn-usa-today-forbes-marketplace/"
+                "title": "Money-Laundering Practices in the Online Scam Industry",
+                "href": "https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/"
             },
             {
-                "title": "The CRPG Book Project",
-                "href": "https://crpgbook.wordpress.com/"
-            },
-            {
-                "title": "Legalizing Sports Gambling Was a Mistake",
-                "href": "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/"
-            },
-            {
-                "title": "Raft: Understandable Distributed Consensus",
-                "href": "https://thesecretlivesofdata.com/raft/"
+                "title": "It's hard to write code for computers, but it's harder to write code for humans",
+                "href": "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html"
             },
             {
                 "title": "Collaborative Text Editing with e.g.-Walker: Better, Faster, Smaller",
                 "href": "https://arxiv.org/abs/2409.14252"
             },
             {
-                "title": "CouchDB 3.4.1 Released",
-                "href": "https://blog.couchdb.org/2024/09/27/3-4-1/"
+                "title": "The CRPG Book Project",
+                "href": "https://crpgbook.wordpress.com/"
             },
             {
-                "title": "TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'",
-                "href": "https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro"
+                "title": "I've built a city, now it needs residents",
+                "href": "https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents"
             },
             {
-                "title": "MTA Open Data Challenge",
-                "href": "https://new.mta.info/article/mta-open-data-challenge"
+                "title": "Raft: Understandable Distributed Consensus",
+                "href": "https://thesecretlivesofdata.com/raft/"
             },
             {
-                "title": "OpenAI is closing in on raising $6.5B. Largest VC raise in history",
-                "href": "https://www.axios.com/2024/09/20/openai-largest-vc-round"
-            },
-            {
-                "title": "I Am Tired of AI",
-                "href": "https://www.ontestautomation.com/i-am-tired-of-ai/"
-            },
-            {
-                "title": "End of an era: Landsat 7 mission takes final images",
-                "href": "https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images"
-            },
-            {
-                "title": "Our container platform is in production. It has GPUs. Here's an early look",
-                "href": "https://blog.cloudflare.com/container-platform-preview/"
-            },
-            {
-                "title": "HP injects AI into its printers",
-                "href": "https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/"
-            },
-            {
-                "title": "I have 2000 old VHS tapes in my garage and don't know what to do with them",
-                "href": "https://takes.jamesomalley.co.uk/p/my-vhs-nightmare"
-            },
-            {
-                "title": "Imbue (YC S17) Is Hiring a Founding Product Engineer",
-                "href": "item?id=41667178"
-            },
-            {
-                "title": "Japan's humble onigiri took over lunchtimes around the world",
-                "href": "https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom"
-            },
-            {
-                "title": "Hacking Kia: Remotely controlling cars with just a license plate",
-                "href": "https://samcurry.net/hacking-kia"
+                "title": "Legalizing Sports Gambling Was a Mistake",
+                "href": "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/"
             },
             {
                 "title": "Maggie Smith, Star of 'Downton Abbey,' 'Harry Potter,' Dies at 89",
                 "href": "https://variety.com/2024/legit/news/maggie-smith-dead-harry-potter-1236157839/"
             },
             {
-                "title": "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs",
-                "href": "https://arxiv.org/abs/2409.11424"
+                "title": "WordPress Drama: From the Sidelines",
+                "href": "https://eric.mann.blog/wordpress-drama-from-the-sidelines/"
             },
             {
-                "title": "Two kinds of LLM responses: Informational vs. Instructional",
-                "href": "https://shabie.github.io/2024/09/23/two-kinds-llm-responses.html"
+                "title": "MTA Open Data Challenge",
+                "href": "https://new.mta.info/article/mta-open-data-challenge"
+            },
+            {
+                "title": "CouchDB 3.4.1 Released",
+                "href": "https://blog.couchdb.org/2024/09/27/3-4-1/"
+            },
+            {
+                "title": "Japan's humble onigiri took over lunchtimes around the world",
+                "href": "https://www.theguardian.com/world/2024/sep/27/japan-onigiri-rice-boom"
+            },
+            {
+                "title": "TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'",
+                "href": "https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro"
+            },
+            {
+                "title": "Our container platform is in production. It has GPUs. Here's an early look",
+                "href": "https://blog.cloudflare.com/container-platform-preview/"
+            },
+            {
+                "title": "OpenAI is closing in on raising $6.5B. Largest VC raise in history",
+                "href": "https://www.axios.com/2024/09/20/openai-largest-vc-round"
+            },
+            {
+                "title": "End of an era: Landsat 7 mission takes final images",
+                "href": "https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images"
+            },
+            {
+                "title": "HP injects AI into its printers",
+                "href": "https://www.ghacks.net/2024/09/27/print-ai-hp-injects-ai-into-its-printers/"
+            },
+            {
+                "title": "I Am Tired of AI",
+                "href": "https://www.ontestautomation.com/i-am-tired-of-ai/"
+            },
+            {
+                "title": "Imbue (YC S17) Is Hiring a Founding Product Engineer",
+                "href": "item?id=41667178"
             },
             {
                 "title": "Agitating Homemade PCBs with Ease",
                 "href": "https://blog.arduino.cc/2024/09/18/agitating-homemade-pcbs-with-ease/"
             },
             {
+                "title": "I have 2000 old VHS tapes in my garage and don't know what to do with them",
+                "href": "https://takes.jamesomalley.co.uk/p/my-vhs-nightmare"
+            },
+            {
+                "title": "Hacking Kia: Remotely controlling cars with just a license plate",
+                "href": "https://samcurry.net/hacking-kia"
+            },
+            {
+                "title": "EU privacy regulator fines Meta 91M euros over password storage",
+                "href": "https://www.reuters.com/technology/eu-privacy-regulator-fines-meta-91-million-euros-over-password-storage-2024-09-27/"
+            },
+            {
                 "title": "Vanilla OS 2: an immutable distribution to run all software",
                 "href": "https://lwn.net/Articles/989629/"
             },
             {
-                "title": "Small3dlib: Suckless PD 3D software rasterizer",
-                "href": "https://codeberg.org/drummyfish/small3dlib"
+                "title": "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs",
+                "href": "https://arxiv.org/abs/2409.11424"
             },
             {
                 "title": "A pilot project in universal algebra to explore new ways to collaborate",
@@ -987,8 +987,8 @@
                 "href": "https://allthingsopen.org/articles/noisy-zfs-disks"
             },
             {
-                "title": "EU privacy regulator fines Meta 91M euros over password storage",
-                "href": "https://www.reuters.com/technology/eu-privacy-regulator-fines-meta-91-million-euros-over-password-storage-2024-09-27/"
+                "title": "Small3dlib: Suckless PD 3D software rasterizer",
+                "href": "https://codeberg.org/drummyfish/small3dlib"
             }
         ]
     }
