@@ -19,12 +19,16 @@
                 "href": "http://www.linusakesson.net/programming/music-from-scratch/index.php"
             },
             {
+                "title": "OpenFreeMap - Free and Open-Source Map Hosting",
+                "href": "https://openfreemap.org/"
+            },
+            {
                 "title": "Attacking UNIX Systems via CUPS, Part I",
                 "href": "https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/"
             },
             {
-                "title": "OpenFreeMap - Free and Open-Source Map Hosting",
-                "href": "https://openfreemap.org/"
+                "title": "systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought",
+                "href": "https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought"
             },
             {
                 "title": "Tcl/Tk 9.0",
@@ -33,10 +37,6 @@
             {
                 "title": "SQL tips and tricks",
                 "href": "https://github.com/ben-n93/SQL-tips-and-tricks"
-            },
-            {
-                "title": "systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought",
-                "href": "https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought"
             },
             {
                 "title": "Few lesser known tricks, quirks and features of C",
@@ -55,6 +55,14 @@
                 "href": "https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend"
             },
             {
+                "title": "The FIPS Compliance of HKDF",
+                "href": "https://words.filippo.io/dispatches/fips-hkdf/"
+            },
+            {
+                "title": "Stop Writing Classes (2012)",
+                "href": "https://pyvideo.org/pycon-us-2012/stop-writing-classes.html"
+            },
+            {
                 "title": "CouchDB 3.4.1 released",
                 "href": "https://blog.couchdb.org/2024/09/27/3-4-1/"
             },
@@ -63,16 +71,16 @@
                 "href": "https://joshleeb.com/posts/gridclock.html"
             },
             {
-                "title": "Stop Writing Classes (2012)",
-                "href": "https://pyvideo.org/pycon-us-2012/stop-writing-classes.html"
-            },
-            {
                 "title": "Rewriting Rust",
                 "href": "https://josephg.com/blog/rewriting-rust/"
             },
             {
                 "title": "GitHub won't let me turn off 2FA",
                 "href": "https://skye.fyi/2024/09/github-security"
+            },
+            {
+                "title": "Rearchitecting: Redis to SQLite",
+                "href": "https://wafris.org/blog/rearchitecting-for-sqlite"
             },
             {
                 "title": "GPD Pocket 3 mini-laptop review (2021)",
@@ -87,20 +95,12 @@
                 "href": "https://jonathan-frere.com/posts/10-years-of-programming/"
             },
             {
-                "title": "How I Built \u201cThe Monospace Web\u201d",
-                "href": "https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html"
-            },
-            {
-                "title": "Rearchitecting: Redis to SQLite",
-                "href": "https://wafris.org/blog/rearchitecting-for-sqlite"
-            },
-            {
                 "title": "Catching Up On The WordPress WP Engine Sitch",
                 "href": "https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/"
             },
             {
-                "title": "The Flare-On Challenge",
-                "href": "https://flare-on.com/"
+                "title": "How I Built \u201cThe Monospace Web\u201d",
+                "href": "https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html"
             }
         ]
     },
@@ -319,6 +319,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Meta's AI Can Now Talk To You In the Voices of Awkwafina, John Cena, and Judi Dench",
+                "href": "https://meta.slashdot.org/story/24/09/27/2254211/metas-ai-can-now-talk-to-you-in-the-voices-of-awkwafina-john-cena-and-judi-dench?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "AI Avatars Are Doing Job Interviews Now",
+                "href": "https://slashdot.org/story/24/09/27/2232220/ai-avatars-are-doing-job-interviews-now?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Meta Fined $102 Million For Storing 600 Million Passwords In Plain Text",
                 "href": "https://yro.slashdot.org/story/24/09/27/2226229/meta-fined-102-million-for-storing-600-million-passwords-in-plain-text?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,14 +377,6 @@
             {
                 "title": "TSMC Execs Dismiss OpenAI Chief's $7 Trillion Chip Plan as 'Podcasting Bro' Vision",
                 "href": "https://tech.slashdot.org/story/24/09/27/1357209/tsmc-execs-dismiss-openai-chiefs-7-trillion-chip-plan-as-podcasting-bro-vision?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Dell Mandates Five-Day Office Presence For Global Sales Team",
-                "href": "https://slashdot.org/story/24/09/27/1318203/dell-mandates-five-day-office-presence-for-global-sales-team?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Turning OpenAI Into a Real Business Is Tearing It Apart",
-                "href": "https://tech.slashdot.org/story/24/09/27/133234/turning-openai-into-a-real-business-is-tearing-it-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -883,44 +883,52 @@
                 "href": "https://ssoready.com/docs/saml/saml-technical-primer"
             },
             {
-                "title": "How AlphaChip transformed computer chip design",
-                "href": "https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/"
+                "title": "Lion Cove: Intel's P-Core Roars",
+                "href": "https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/"
             },
             {
-                "title": "Python for Inversive and Hyperbolic Geometry",
-                "href": "https://coe.psu.ac.th/ad/invhyper/"
+                "title": "How AlphaChip transformed computer chip design",
+                "href": "https://deepmind.google/discover/blog/how-alphachip-transformed-computer-chip-design/"
             },
             {
                 "title": "Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin",
                 "href": "https://hannahilea.com/blog/cuttle-obsession/"
             },
             {
-                "title": "The Architecture of London Pubs (1966)",
-                "href": "https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/"
+                "title": "Python for Inversive and Hyperbolic Geometry",
+                "href": "https://coe.psu.ac.th/ad/invhyper/"
+            },
+            {
+                "title": "If WordPress is to survive, Matt Mullenweg must be removed",
+                "href": "https://joshcollinsworth.com/blog/fire-matt"
             },
             {
                 "title": "It's hard to write code for computers, but it's harder to write code for humans",
                 "href": "https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html"
             },
             {
-                "title": "Refactoring Python with Tree-sitter and Jedi",
-                "href": "https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/"
+                "title": "The Architecture of London Pubs (1966)",
+                "href": "https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/"
+            },
+            {
+                "title": "Unplanned Exposure During Diving in the Spent Nuclear Fuel Pool",
+                "href": "https://isoe-network.net/publications/pub-proceedings/symposia/north-american-tc-symposia/fort-lauderdale-usa-january-2011/slides-14/session-iv-1/1756-ritter2011-ppt/file.html"
             },
             {
                 "title": "MTA Open Data Challenge",
                 "href": "https://new.mta.info/article/mta-open-data-challenge"
             },
             {
+                "title": "I Am Tired of AI",
+                "href": "https://www.ontestautomation.com/i-am-tired-of-ai/"
+            },
+            {
+                "title": "Refactoring Python with Tree-sitter and Jedi",
+                "href": "https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/"
+            },
+            {
                 "title": "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
                 "href": "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer"
-            },
-            {
-                "title": "Ceefax and the Birth of Interactive TV",
-                "href": "https://www.bbc.com/articles/cvg360rr91zo"
-            },
-            {
-                "title": "Lion Cove: Intel's P-Core Roars",
-                "href": "https://chipsandcheese.com/2024/09/27/lion-cove-intels-p-core-roars/"
             },
             {
                 "title": "Collaborative text editing with Eg-Walker: Better, faster, smaller",
@@ -931,16 +939,20 @@
                 "href": "https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/"
             },
             {
-                "title": "Raft: Understandable Distributed Consensus (2014)",
-                "href": "https://thesecretlivesofdata.com/raft/"
+                "title": "Ceefax and the Birth of Interactive TV",
+                "href": "https://www.bbc.com/articles/cvg360rr91zo"
             },
             {
                 "title": "My MEGA65 is finally here",
                 "href": "https://lyonsden.net/my-mega65-is-finally-here/"
             },
             {
-                "title": "AMD Unveils Its First Small Language Model AMD-135M",
-                "href": "https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368"
+                "title": "Raft: Understandable Distributed Consensus (2014)",
+                "href": "https://thesecretlivesofdata.com/raft/"
+            },
+            {
+                "title": "US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks",
+                "href": "https://www.reuters.com/legal/litigation/us-trademark-office-cancels-marvel-dcs-super-hero-marks-2024-09-26/"
             },
             {
                 "title": "Greenwich: an experiment in collaborative links",
@@ -951,12 +963,12 @@
                 "href": "https://www.quadratichq.com/javascript"
             },
             {
-                "title": "I Am Tired of AI",
-                "href": "https://www.ontestautomation.com/i-am-tired-of-ai/"
+                "title": "AMD Unveils Its First Small Language Model AMD-135M",
+                "href": "https://community.amd.com/t5/ai/amd-unveils-its-first-small-language-model-amd-135m/ba-p/711368"
             },
             {
-                "title": "Preventing app removal on iOS",
-                "href": "https://tinycoder.pika.page/posts/you-can-prevent-your-app-from-being-removed"
+                "title": "Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL",
+                "href": "https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/"
             },
             {
                 "title": "The CRPG Book Project (2023)",
@@ -971,28 +983,16 @@
                 "href": "https://anttwo.github.io/frosting/"
             },
             {
-                "title": "Tandem OLED is OLED's latest weapon in holding off MicroLED, QDEL",
-                "href": "https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/"
-            },
-            {
                 "title": "CNN and USA Today have fake websites, I believe Forbes Marketplace runs them",
                 "href": "https://larslofgren.com/cnn-usa-today-forbes-marketplace/"
             },
             {
+                "title": "Preventing app removal on iOS",
+                "href": "https://tinycoder.pika.page/posts/you-can-prevent-your-app-from-being-removed"
+            },
+            {
                 "title": "Behind OpenAI's plan to make A.I. flow like electricity",
                 "href": "https://www.nytimes.com/2024/09/25/business/openai-plan-electricity.html"
-            },
-            {
-                "title": "Guide to implementing 2D platformers (2012)",
-                "href": "http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/"
-            },
-            {
-                "title": "The best $4 ever spent",
-                "href": "https://papanotes.com/the-best-4-ever-spent"
-            },
-            {
-                "title": "Legalizing sports gambling was a mistake",
-                "href": "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/"
             }
         ]
     }
