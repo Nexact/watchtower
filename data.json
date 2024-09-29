@@ -15,6 +15,10 @@
                 "href": "https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/"
             },
             {
+                "title": "Notes on the Crystal language",
+                "href": "https://wiki.alopex.li/CrystalNotes"
+            },
+            {
                 "title": "Everything you need to know about Python 3.13 \u2013 JIT and GIL went up the hill",
                 "href": "https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/"
             },
@@ -23,36 +27,32 @@
                 "href": "https://ia.net/topics/our-android-app-is-frozen-in-carbonite"
             },
             {
-                "title": "DOOM in the iOS Photos app (kind of)",
-                "href": "https://eieio.games/nonsense/game-15-doom-ios-photos-app/"
-            },
-            {
                 "title": "Shredding Code",
                 "href": "https://registerspill.thorstenball.com/p/skin-shedding-code"
             },
             {
-                "title": "Control structures",
-                "href": "https://xavierleroy.org/CdF/2023-2024/"
+                "title": "DOOM in the iOS Photos app (kind of)",
+                "href": "https://eieio.games/nonsense/game-15-doom-ios-photos-app/"
             },
             {
                 "title": "Notes from Dynamicland: Geokit (2018)",
                 "href": "https://omar.website/posts/notes-from-dynamicland-geokit/"
             },
             {
-                "title": "Godot for App Development",
-                "href": "http://tiniuc.com/godot-for-apps/"
-            },
-            {
                 "title": "Changelogs and Release Notes",
                 "href": "https://harihareswara.net/posts/2024/changelogs-and-release-notes/"
             },
             {
-                "title": "It is never too late to write your own blazingly fast C++ command-line utilities",
-                "href": "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
+                "title": "Control structures",
+                "href": "https://xavierleroy.org/CdF/2023-2024/"
             },
             {
-                "title": "CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping",
-                "href": "https://blog.codingconfessions.com/p/cpython-runtime-internals"
+                "title": "Godot for App Development",
+                "href": "http://tiniuc.com/godot-for-apps/"
+            },
+            {
+                "title": "It is never too late to write your own blazingly fast C++ command-line utilities",
+                "href": "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
             },
             {
                 "title": "Iterators in Go",
@@ -61,6 +61,14 @@
             {
                 "title": "The Secret Lives of Data",
                 "href": "https://visual.ofcoder.com/"
+            },
+            {
+                "title": "CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping",
+                "href": "https://blog.codingconfessions.com/p/cpython-runtime-internals"
+            },
+            {
+                "title": "Matrix conference: On current developments, the state of open source and more",
+                "href": "https://www.heise.de/en/news/Matrix-conference-On-current-developments-the-state-of-open-source-and-more-9951334.html"
             },
             {
                 "title": "Unbackslash",
@@ -93,14 +101,6 @@
             {
                 "title": "How not to change PostgreSQL column type",
                 "href": "https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/"
-            },
-            {
-                "title": "CSS @property and the New Style",
-                "href": "https://ryanmulligan.dev/blog/css-property-new-style/"
-            },
-            {
-                "title": "Knowledge Graphs \u2013 Tracking the historical events that lead to the interweaving of data and knowledge",
-                "href": "https://cacm.acm.org/research/knowledge-graphs/"
             }
         ]
     },
@@ -887,60 +887,56 @@
                 "href": "https://www.jjinux.com/2024/09/notions-mid-life-crisis.html"
             },
             {
-                "title": "The perils of transition to 64-bit time_t",
-                "href": "https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/"
-            },
-            {
                 "title": "Four more health care workers ill after caring for bird flu case in Missouri",
                 "href": "https://www.statnews.com/2024/09/27/bird-flu-missouri-four-more-healthcare-workers/"
             },
             {
-                "title": "Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane",
-                "href": "http://www.righto.com/2024/09/f4-attitude-indicator.html"
+                "title": "The perils of transition to 64-bit time_t",
+                "href": "https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/"
             },
             {
                 "title": "FFT-based ocean-wave rendering, implemented in Godot",
                 "href": "https://github.com/2Retr0/GodotOceanWaves"
             },
             {
+                "title": "Reverse-engineering a three-axis attitude indicator from the F-4 fighter plane",
+                "href": "http://www.righto.com/2024/09/f4-attitude-indicator.html"
+            },
+            {
                 "title": "The Little Typer (2018)",
                 "href": "https://thelittletyper.com/"
-            },
-            {
-                "title": "Show HN: Mitata \u2013 Benchmarking tooling for JavaScript",
-                "href": "https://github.com/evanwashere/mitata"
-            },
-            {
-                "title": "Autossh \u2013 automatically restart SSH sessions and tunnels",
-                "href": "https://github.com/Autossh/autossh"
             },
             {
                 "title": "Show HN: Open-source app builder for comfy workflows",
                 "href": "https://github.com/ViewComfy/ViewComfy"
             },
             {
-                "title": "SpaceX launches rescue mission for 2 NASA astronauts who are stuck on the ISS",
-                "href": "https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b"
-            },
-            {
-                "title": "SunVox: Powerful Modular Synthesizer and DAW",
-                "href": "https://www.warmplace.ru/soft/sunvox/"
-            },
-            {
-                "title": "The human heart shows signs of ageing after just a month in space",
-                "href": "https://www.nature.com/articles/d41586-024-03105-x"
-            },
-            {
-                "title": "How Discord stores trillions of messages",
-                "href": "https://discord.com/blog/how-discord-stores-trillions-of-messages"
-            },
-            {
                 "title": "Show HN: Iceoryx2 \u2013 Fast IPC Library for Rust, C++, and C",
                 "href": "https://ekxide.io/blog/iceoryx2-0-4-release/"
             },
             {
+                "title": "Autossh \u2013 automatically restart SSH sessions and tunnels",
+                "href": "https://github.com/Autossh/autossh"
+            },
+            {
+                "title": "Show HN: Mitata \u2013 Benchmarking tooling for JavaScript",
+                "href": "https://github.com/evanwashere/mitata"
+            },
+            {
+                "title": "Theattyr: A terminal theater for playing VT100 art and animations",
+                "href": "https://github.com/orhun/theattyr"
+            },
+            {
                 "title": "Science-based games and explorable explanations",
                 "href": "https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/"
+            },
+            {
+                "title": "The Design of Text Editors",
+                "href": "https://arxiv.org/abs/2008.06030"
+            },
+            {
+                "title": "SunVox: Powerful Modular Synthesizer and DAW",
+                "href": "https://www.warmplace.ru/soft/sunvox/"
             },
             {
                 "title": "If AI seems smarter, it's thanks to smarter human trainers",
@@ -951,48 +947,52 @@
                 "href": "https://github.com/fzyzcjy/dart_interactive"
             },
             {
-                "title": "MtCellEdit \u2013 Lightweight Spreadsheet Program",
-                "href": "https://www.marktyler.org/ced/"
+                "title": "The U.S. is approving citizenship applications at the fastest speed in years",
+                "href": "https://www.msn.com/en-us/news/us/with-an-election-looming-the-us-is-approving-citizenship-applications-at-the-fastest-speed-in-years/ar-AA1rf4FU"
             },
             {
-                "title": "Surprising sounds could cause riskier decision-making",
-                "href": "https://news.yale.edu/2024/09/17/surprising-sounds-could-cause-riskier-decision-making"
+                "title": "How Discord stores trillions of messages",
+                "href": "https://discord.com/blog/how-discord-stores-trillions-of-messages"
+            },
+            {
+                "title": "MtCellEdit \u2013 Lightweight Spreadsheet Program",
+                "href": "https://www.marktyler.org/ced/"
             },
             {
                 "title": "Amusing Ourselves to Death (2014)",
                 "href": "https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html"
             },
             {
-                "title": "New laser could cram GPS alternative into a shoebox",
-                "href": "https://spectrum.ieee.org/alternative-for-gps"
-            },
-            {
-                "title": "Walking on the Moon in Cologne: Europe's lunar life simulator",
-                "href": "https://today.rtl.lu/news/science-and-environment/a/2234777.html"
+                "title": "Man-in-the-Middle PCB Unlocks HP Ink Cartridges",
+                "href": "https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/"
             },
             {
                 "title": "Possible Cluster of Human Bird-Flu Infections Expands in Missouri",
                 "href": "https://www.nytimes.com/2024/09/27/health/bird-flu-cluster-missouri.html"
             },
             {
-                "title": "Everything you need to know about Python 3.13 \u2013 JIT and GIL went up the hill",
-                "href": "https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/"
-            },
-            {
-                "title": "Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)",
-                "href": "https://icon.me/careers"
+                "title": "Walking on the Moon in Cologne: Europe's lunar life simulator",
+                "href": "https://today.rtl.lu/news/science-and-environment/a/2234777.html"
             },
             {
                 "title": "Building a compile-time SIMD optimized smoothing filter",
                 "href": "https://scientificcomputing.rs/2024/talks/raz.html"
             },
             {
+                "title": "Everything you need to know about Python 3.13 \u2013 JIT and GIL went up the hill",
+                "href": "https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/"
+            },
+            {
                 "title": "A few secure, random bytes without `pgcrypto`",
                 "href": "https://brandur.org/fragments/secure-bytes-without-pgcrypto"
             },
             {
-                "title": "Researchers seeing little evidence of benefit from co pilots",
-                "href": "https://www.cio.com/article/3540579/devs-gaining-little-if-anything-from-ai-coding-assistants.html"
+                "title": "Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC)",
+                "href": "https://icon.me/careers"
+            },
+            {
+                "title": "Role of Deliberate Practice in the Development of Creativity (2014)",
+                "href": "https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content"
             }
         ]
     }
