@@ -3,20 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Building a robust frontend using progressive enhancement",
-                "href": "https://www.gov.uk/service-manual/technology/using-progressive-enhancement"
-            },
-            {
                 "title": "Rust needs a web framework for lazy developers",
                 "href": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
             },
             {
-                "title": "Don\u2019t believe the hype: AGI is far from inevitable",
-                "href": "https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable"
-            },
-            {
                 "title": "Safety Goggles for Alchemists: The Path towards Safer Transmute",
                 "href": "https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/"
+            },
+            {
+                "title": "Building a robust frontend using progressive enhancement",
+                "href": "https://www.gov.uk/service-manual/technology/using-progressive-enhancement"
+            },
+            {
+                "title": "Don\u2019t believe the hype: AGI is far from inevitable",
+                "href": "https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable"
             },
             {
                 "title": "How 1 Software Engineer Outperforms 138 - Lichess Case Study",
@@ -35,12 +35,24 @@
                 "href": "https://github.com/TypeError/secure"
             },
             {
+                "title": "No such thing as exactly-once delivery",
+                "href": "https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/"
+            },
+            {
                 "title": "Prep: Golang comptime. Pure blasphemy",
                 "href": "https://github.com/pijng/prep"
             },
             {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week"
+            },
+            {
                 "title": "The Public Domain Problem",
                 "href": "https://dpk.land/pubdmn.txt"
+            },
+            {
+                "title": "Why Your Rails-like Framework Is Not Widely Used",
+                "href": "https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/"
             },
             {
                 "title": "runit-2.2.0 available",
@@ -51,8 +63,12 @@
                 "href": "https://wunkolo.github.io/post/2024/09/vecint-average-color/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week"
+                "title": "Eliminating Intermediate Array Allocations",
+                "href": "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/"
+            },
+            {
+                "title": "Making my Nvim Feel More Like Helix with Mini.nvim",
+                "href": "https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/"
             },
             {
                 "title": "Any interesting tech blogs outside the usual software/web dev circle?",
@@ -63,20 +79,16 @@
                 "href": "https://media.ccc.de/v/all-systems-go-2024-276-varlink-now-"
             },
             {
-                "title": "Beyond multi-core parallelism: faster Mandelbrot with SIMD",
-                "href": "https://pythonspeed.com/articles/optimizing-with-simd/"
-            },
-            {
                 "title": "Use of Prolog for developing a new programming language (1992)",
                 "href": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5dbee7f876ccb6331d1fb4dcdc7f7a4744801804"
             },
             {
-                "title": "go-sqlite3: Go bindings to SQLite using wazero",
-                "href": "https://github.com/ncruces/go-sqlite3"
+                "title": "Beyond multi-core parallelism: faster Mandelbrot with SIMD",
+                "href": "https://pythonspeed.com/articles/optimizing-with-simd/"
             },
             {
-                "title": "Eliminating Intermediate Array Allocations",
-                "href": "https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/"
+                "title": "go-sqlite3: Go bindings to SQLite using wazero",
+                "href": "https://github.com/ncruces/go-sqlite3"
             },
             {
                 "title": "Notes on the Crystal language",
@@ -89,18 +101,6 @@
             {
                 "title": "Type-erased generic functions for C: A modest non-proposal",
                 "href": "https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal"
-            },
-            {
-                "title": "Gentle intro to type-level recursion in Rust (2017)",
-                "href": "https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting"
-            },
-            {
-                "title": "Code Generation in Rust vs C++26",
-                "href": "https://brevzin.github.io/c++/2024/09/30/annotations/"
-            },
-            {
-                "title": "Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)",
-                "href": "https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine (part 3)",
                 "href": "https://www.reddit.com/r/netsec/comments/1fsq4u6/iconv_set_the_charset_to_rce_exploiting_the_glibc/"
+            },
+            {
+                "title": "Finding classes for exploiting Unsafe Reflection vulnerabilities in Java with Joern",
+                "href": "https://www.reddit.com/r/netsec/comments/1fsyqmw/finding_classes_for_exploiting_unsafe_reflection/"
             },
             {
                 "title": "Probing Slack Workspaces for Authentication Information and other Treats",
@@ -206,16 +210,16 @@
             {
                 "title": "Hertz leaks 60,000 insurance claim reports on their claims website",
                 "href": "https://www.reddit.com/r/netsec/comments/1fjttul/hertz_leaks_60000_insurance_claim_reports_on/"
-            },
-            {
-                "title": "Vulnerabilities in Open Source C2 Frameworks",
-                "href": "https://www.reddit.com/r/netsec/comments/1fk27w9/vulnerabilities_in_open_source_c2_frameworks/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Verizon outage: iPhones, Android devices stuck in SOS mode",
+                "href": "https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/"
+            },
             {
                 "title": "Media giant AFP hit by cyberattack impacting news delivery services",
                 "href": "https://www.bleepingcomputer.com/news/security/media-giant-afp-hit-by-cyberattack-impacting-news-delivery-services/"
@@ -255,10 +259,6 @@
             {
                 "title": "Windows 11 KB5043145 update released with 13 changes and fixes",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-released-with-13-changes-and-fixes/"
-            },
-            {
-                "title": "CUPS flaws enable Linux remote code execution, but there\u2019s a catch",
-                "href": "https://www.bleepingcomputer.com/news/security/cups-flaws-enable-linux-remote-code-execution-but-theres-a-catch/"
             }
         ]
     },
@@ -310,6 +310,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Verizon Cellphone Users Report Outages Across the US",
+                "href": "https://news.slashdot.org/story/24/09/30/164215/verizon-cellphone-users-report-outages-across-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Songs by Adele, Bob Dylan, Green Day, Many More Blocked by YouTube in Legal Dispute",
                 "href": "https://news.slashdot.org/story/24/09/30/1414227/songs-by-adele-bob-dylan-green-day-many-more-blocked-by-youtube-in-legal-dispute?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "America's FDA Approves First New Drug for Schizophrenia in Over 30 Years",
                 "href": "https://science.slashdot.org/story/24/09/29/0614206/americas-fda-approves-first-new-drug-for-schizophrenia-in-over-30-years?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Clean Energy Should Get Cheaper and Grow Even Faster",
-                "href": "https://news.slashdot.org/story/24/09/29/0456250/clean-energy-should-get-cheaper-and-grow-even-faster?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -581,6 +581,10 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/09/30/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+            },
+            {
                 "title": "Advantech ADAM-5630",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-270-02"
             },
@@ -695,10 +699,6 @@
             {
                 "title": "VMware Releases Security Advisory for VMware Cloud Foundation and vCenter Server",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/09/19/vmware-releases-security-advisory-vmware-cloud-foundation-and-vcenter-server"
-            },
-            {
-                "title": "Apple Releases Security Updates for Multiple Products",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/09/18/apple-releases-security-updates-multiple-products"
             }
         ]
     },
@@ -867,8 +867,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Liquid Foundation Models: Our First Series of Generative AI Models",
+                "href": "https://www.liquid.ai/liquid-foundation-models"
+            },
+            {
                 "title": "Bop Spotter",
                 "href": "https://walzr.com/bop-spotter"
+            },
+            {
+                "title": "Library of Congress Pre-1915 Japanese Woodblock Prints and Drawings",
+                "href": "https://www.loc.gov/collections/japanese-fine-prints-pre-1915/about-this-collection/"
             },
             {
                 "title": "Launch HN: Inkeep (YC W23) \u2013 Copilot for Support (Think Cursor for Help Desks)",
@@ -883,16 +891,16 @@
                 "href": "https://github.com/mediar-ai/screenpipe"
             },
             {
-                "title": "The Paradox of the Distance Runner",
-                "href": "https://newrepublic.com/article/185452/paradox-distance-runner-women-books"
-            },
-            {
                 "title": "Normans and Slavery: Breaking the Bonds",
                 "href": "https://www.historytoday.com/archive/normans-and-slavery-breaking-bonds"
             },
             {
                 "title": "Gavin Newsom vetoes SB 1047",
                 "href": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf"
+            },
+            {
+                "title": "Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)",
+                "href": "https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x"
             },
             {
                 "title": "Keep Track: 3D Satellite Toolkit",
@@ -903,24 +911,16 @@
                 "href": "https://www.sciencedaily.com/releases/2024/09/240905120923.htm"
             },
             {
-                "title": "Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe)",
-                "href": "https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x"
-            },
-            {
                 "title": "NotebookLM's automatically generated podcasts are surprisingly effective",
                 "href": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/"
-            },
-            {
-                "title": "How we built ngrok's data platform",
-                "href": "https://ngrok.com/blog-post/how-we-built-ngroks-data-platform"
             },
             {
                 "title": "The Physics of Colliding Balls",
                 "href": "https://vanhunteradams.com/Pico/Galton/Collisions.html"
             },
             {
-                "title": "The True Weight of Medieval Weapons \u2013 Fact and Fiction",
-                "href": "https://warfantasy.wordpress.com/2024/09/29/the-true-weight-of-medieval-weapons-fact-and-fiction/"
+                "title": "How we built ngrok's data platform",
+                "href": "https://ngrok.com/blog-post/how-we-built-ngroks-data-platform"
             },
             {
                 "title": "Y Combinator Traded Prestige for Growth",
@@ -931,20 +931,12 @@
                 "href": "https://rodneybrooks.com/tips-for-building-and-deploying-robots/"
             },
             {
-                "title": "Vanishing Culture: Preserving Cookbooks",
-                "href": "https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/"
-            },
-            {
-                "title": "The Dogma of Otherness (1986)",
-                "href": "https://www.davidbrin.com/nonfiction/dogmaofotherness.html"
-            },
-            {
                 "title": "Map with public fruit trees",
                 "href": "https://mundraub.org/map"
             },
             {
-                "title": "A Taxonomy of Tech Debt (2018)",
-                "href": "https://technology.riotgames.com/news/taxonomy-tech-debt"
+                "title": "The Dogma of Otherness (1986)",
+                "href": "https://www.davidbrin.com/nonfiction/dogmaofotherness.html"
             },
             {
                 "title": "Awala: The computer network on which humankind can rely",
@@ -955,6 +947,10 @@
                 "href": "https://csrc.nist.gov/Projects/interoperable-randomness-beacons/beacon-20"
             },
             {
+                "title": "A Taxonomy of Tech Debt (2018)",
+                "href": "https://technology.riotgames.com/news/taxonomy-tech-debt"
+            },
+            {
                 "title": "Sitina1 Open-Source Camera",
                 "href": "https://gitlab.com/zephray/sitina1"
             },
@@ -963,12 +959,16 @@
                 "href": "https://benn.substack.com/p/do-ai-companies-work"
             },
             {
-                "title": "Ask HN: What are you working on (September 2024)?",
-                "href": "item?id=41690087"
+                "title": "Vanishing Culture: Preserving Cookbooks",
+                "href": "https://blog.archive.org/2024/09/30/vanishing-culture-preserving-cookbooks/"
             },
             {
                 "title": "Is English a \u201ccreole Language\u201d?",
                 "href": "https://languagelog.ldc.upenn.edu/nll/?p=66229"
+            },
+            {
+                "title": "Ask HN: What are you working on (September 2024)?",
+                "href": "item?id=41690087"
             },
             {
                 "title": "FDA approves a novel drug for schizophrenia",
@@ -979,8 +979,8 @@
                 "href": "https://nolanlawson.com/2024/09/28/web-components-are-okay/"
             },
             {
-                "title": "When To Do What You Love",
-                "href": "https://paulgraham.com/when.html"
+                "title": "Dikembe Mutombo has died at age 58",
+                "href": "https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html"
             },
             {
                 "title": "A Bendy RISC-V Processor",
