@@ -23,6 +23,10 @@
                 "href": "https://pigweed.dev/docs/blog/05-coroutines.html"
             },
             {
+                "title": "Rust GPU: The future of GPU programming",
+                "href": "https://rust-gpu.github.io/"
+            },
+            {
                 "title": "Can You Get Root With Only a Cigarette Lighter?",
                 "href": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html"
             },
@@ -39,10 +43,6 @@
                 "href": "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
             },
             {
-                "title": "Rust GPU: The future of GPU programming",
-                "href": "https://rust-gpu.github.io/"
-            },
-            {
                 "title": "An app I built as a high school student to learn SQL with realistic data",
                 "href": "https://sandboxsql.com"
             },
@@ -53,6 +53,10 @@
             {
                 "title": "Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation",
                 "href": "https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/"
+            },
+            {
+                "title": "Engineers are not fans of technologies",
+                "href": "https://jerf.org/iri/post/2024/not_about_python/"
             },
             {
                 "title": "What's New in Ruby on Rails 8",
@@ -73,10 +77,6 @@
             {
                 "title": "Windows dynamic linking depends on the active code page",
                 "href": "https://nullprogram.com/blog/2024/10/07/"
-            },
-            {
-                "title": "Engineers are not fans of technologies",
-                "href": "https://jerf.org/iri/post/2024/not_about_python/"
             },
             {
                 "title": "Why I use TLA+ and not(TLA+)",
@@ -110,6 +110,14 @@
             {
                 "title": "/r/netsec's Q4 2024 Information Security Hiring Thread",
                 "href": "https://www.reddit.com/r/netsec/comments/1fvayj6/rnetsecs_q4_2024_information_security_hiring/"
+            },
+            {
+                "title": "Docker Zombie Layers: Why Deleted Layers Can Still Haunt You",
+                "href": "https://www.reddit.com/r/netsec/comments/1fyx92f/docker_zombie_layers_why_deleted_layers_can_still/"
+            },
+            {
+                "title": "Open Sourcing Venator \u2013 a kubernetes-native threat detection system",
+                "href": "https://www.reddit.com/r/netsec/comments/1fyx5u9/open_sourcing_venator_a_kubernetesnative_threat/"
             },
             {
                 "title": "Monocle on Chronicles - Talkback automated infosec aggregator with a newsletter",
@@ -202,14 +210,6 @@
             {
                 "title": "Critical Vulnerabilities in WatchGuard SSO Agent",
                 "href": "https://www.reddit.com/r/netsec/comments/1fp22nm/critical_vulnerabilities_in_watchguard_sso_agent/"
-            },
-            {
-                "title": "Exploiting AMD atdcm64a.sys arbitrary pointer dereference - Part 1",
-                "href": "https://www.reddit.com/r/netsec/comments/1foz5ls/exploiting_amd_atdcm64asys_arbitrary_pointer/"
-            },
-            {
-                "title": "CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability Deep-Dive \u2013 Horizon3.ai",
-                "href": "https://www.reddit.com/r/netsec/comments/1fp18du/cve202428987_solarwinds_web_help_desk_hardcoded/"
             }
         ]
     },
@@ -883,32 +883,32 @@
                 "href": "https://www.nobelprize.org/prizes/physics/2024/summary/"
             },
             {
-                "title": "An illustrated proof of the CAP theorem (2018)",
-                "href": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"
+                "title": "They trained artificial neural networks using physics",
+                "href": "https://www.nobelprize.org/prizes/physics/2024/press-release/"
             },
             {
-                "title": "Video Surveillance with YOLO+llava",
-                "href": "https://github.com/PsyChip/machina"
+                "title": "An illustrated proof of the CAP theorem (2018)",
+                "href": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"
             },
             {
                 "title": "Unseen Thunderbirds film reels found in garden shed",
                 "href": "https://www.bbc.co.uk/news/articles/c1e848ewnlno"
             },
             {
+                "title": "Video Surveillance with YOLO+llava",
+                "href": "https://github.com/PsyChip/machina"
+            },
+            {
                 "title": "Jazz \u2013 Apps with Distributed State",
                 "href": "https://jazz.tools/"
             },
             {
-                "title": "Kernighan's Lever (2012)",
-                "href": "https://www.linusakesson.net/programming/kernighans-lever/index.php"
-            },
-            {
-                "title": "Nobel Prize goes to John Hopfield and Geoffrey Hinton work on machine learning",
-                "href": "https://www.bbc.co.uk/news/articles/c62r02z75jyo"
-            },
-            {
                 "title": "Stay in the Gap",
                 "href": "https://everythingchanges.us/blog/stay-in-the-gap/"
+            },
+            {
+                "title": "Kernighan's Lever (2012)",
+                "href": "https://www.linusakesson.net/programming/kernighans-lever/index.php"
             },
             {
                 "title": "Can you get root with only a cigarette lighter?",
@@ -927,12 +927,20 @@
                 "href": "https://www.npr.org/sections/goats-and-soda/2024/10/05/g-s1-6411/electronics-public-health-waste-ghana-phones-computers"
             },
             {
+                "title": "Engineering Geology of the BART System (2000)",
+                "href": "http://sonic.net/~mly/www.geolith.com/bart/"
+            },
+            {
                 "title": "Wigle.net: All the networks, found by everyone",
                 "href": "https://wigle.net/"
             },
             {
                 "title": "Show HN: Running Game Boy ROMs on the STM32 ARM Cortex Microcontroller",
                 "href": "https://github.com/jnz/stm32boy"
+            },
+            {
+                "title": "The costs of the i386 to x86-64 upgrade",
+                "href": "https://blogsystem5.substack.com/p/x86-64-programming-models"
             },
             {
                 "title": "Ask HN: Good Online Maths Communities?",
@@ -947,14 +955,6 @@
                 "href": "https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/"
             },
             {
-                "title": "The costs of the i386 to x86-64 upgrade",
-                "href": "https://blogsystem5.substack.com/p/x86-64-programming-models"
-            },
-            {
-                "title": "Engineering Geology of the BART System (2000)",
-                "href": "http://sonic.net/~mly/www.geolith.com/bart/"
-            },
-            {
                 "title": "Homemade AI Drone Software Finds People When Search and Rescue Teams Can't",
                 "href": "https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/"
             },
@@ -963,20 +963,20 @@
                 "href": "https://johncostella.com/magic/"
             },
             {
-                "title": "The Wobbly Table Theorem (2022)",
-                "href": "https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/"
-            },
-            {
                 "title": "Longwriter \u2013 Increase llama3.1 output to 10k words",
                 "href": "https://github.com/THUDM/LongWriter"
             },
             {
-                "title": "Show HN: Compiling C in the browser using WebAssembly",
-                "href": "https://wasmer.io/posts/clang-in-browser"
-            },
-            {
                 "title": "The million-dollar mystery of milk.com",
                 "href": "https://thehustle.co/originals/the-million-dollar-mystery-of-milk.com"
+            },
+            {
+                "title": "The Wobbly Table Theorem (2022)",
+                "href": "https://people.math.harvard.edu/~knill/teaching/math1a_2011/exhibits/wobblytable/"
+            },
+            {
+                "title": "Show HN: Compiling C in the browser using WebAssembly",
+                "href": "https://wasmer.io/posts/clang-in-browser"
             },
             {
                 "title": "US antitrust case against Amazon to move forward",
