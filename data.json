@@ -35,6 +35,10 @@
                 "href": "https://docs.python.org/3.13/whatsnew/3.13.html"
             },
             {
+                "title": "An app I built as a high school student to learn SQL with realistic data",
+                "href": "https://sandboxsql.com"
+            },
+            {
                 "title": "Rust is rolling off the Volvo assembly line",
                 "href": "https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line"
             },
@@ -47,16 +51,12 @@
                 "href": "https://www.linusakesson.net/programming/kernighans-lever/index.php"
             },
             {
-                "title": "An app I built as a high school student to learn SQL with realistic data",
-                "href": "https://sandboxsql.com"
+                "title": "Windows dynamic linking depends on the active code page",
+                "href": "https://nullprogram.com/blog/2024/10/07/"
             },
             {
                 "title": "Some gems I like",
                 "href": "https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/"
-            },
-            {
-                "title": "Windows dynamic linking depends on the active code page",
-                "href": "https://nullprogram.com/blog/2024/10/07/"
             },
             {
                 "title": "Z.200 : CHILL - The ITU-T Programming Language",
@@ -79,6 +79,10 @@
                 "href": "https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/"
             },
             {
+                "title": "Tartufo searches through git repositories for high entropy strings and secrets",
+                "href": "https://github.com/godaddy/tartufo"
+            },
+            {
                 "title": "Can You Get Root With Only a Cigarette Lighter?",
                 "href": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html"
             },
@@ -91,16 +95,12 @@
                 "href": "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
             },
             {
+                "title": "Why don\u2019t compilers warn for const T f()?",
+                "href": "https://quuxplusone.github.io/blog/2024/10/07/wqual-class-return-type/"
+            },
+            {
                 "title": "Miscellaneous notes on Steam Deck reshells, mods, and screen replacements",
                 "href": "https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html"
-            },
-            {
-                "title": "Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation",
-                "href": "https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/"
-            },
-            {
-                "title": "What's New in Ruby on Rails 8",
-                "href": "https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html"
             }
         ]
     },
@@ -114,6 +114,14 @@
             {
                 "title": "Docker Zombie Layers: Why Deleted Layers Can Still Haunt You",
                 "href": "https://www.reddit.com/r/netsec/comments/1fyx92f/docker_zombie_layers_why_deleted_layers_can_still/"
+            },
+            {
+                "title": "EKUwu: Not just another AD CS ESC",
+                "href": "https://www.reddit.com/r/netsec/comments/1fz6vgc/ekuwu_not_just_another_ad_cs_esc/"
+            },
+            {
+                "title": "Ivanti Connect Secure - Authenticated RCE via OpenSSL CRLF Injection (CVE-2024-37404)",
+                "href": "https://www.reddit.com/r/netsec/comments/1fz6uay/ivanti_connect_secure_authenticated_rce_via/"
             },
             {
                 "title": "Monocle on Chronicles - Talkback automated infosec aggregator with a newsletter",
@@ -202,14 +210,6 @@
             {
                 "title": "Hacking Kia: Remotely Controlling Cars With Just a License Plate",
                 "href": "https://www.reddit.com/r/netsec/comments/1fpzmh1/hacking_kia_remotely_controlling_cars_with_just_a/"
-            },
-            {
-                "title": "Unath RCE in CUPS which triggers after a print job - affects most desktop linux flavors",
-                "href": "https://www.reddit.com/r/netsec/comments/1fq6jon/unath_rce_in_cups_which_triggers_after_a_print/"
-            },
-            {
-                "title": "Critical Vulnerabilities Discovered in Automated Tank Gauge Systems - Impact can range from DoS to physical damage.",
-                "href": "https://www.reddit.com/r/netsec/comments/1fphl80/critical_vulnerabilities_discovered_in_automated/"
             }
         ]
     },
@@ -891,100 +891,80 @@
                 "href": "https://blog.eriksen.com.br/en/introducing-kotlin-money"
             },
             {
-                "title": "What is \"founder mode\"?",
-                "href": "https://tomblomfield.com/post/763715798246227968/what-is-founder-mode"
-            },
-            {
-                "title": "Alternatives to cosine similarity",
-                "href": "https://tomhazledine.com/cosine-similarity-alternatives/"
-            },
-            {
                 "title": "Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]",
                 "href": "https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf"
-            },
-            {
-                "title": "A Language of Beautiful Impurity",
-                "href": "https://www.edwest.co.uk/p/a-language-of-beautiful-impurity"
-            },
-            {
-                "title": "Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video",
-                "href": "https://www.sievedata.com/"
-            },
-            {
-                "title": "(Re)Using rustc components in gccrs",
-                "href": "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
             },
             {
                 "title": "A Working Turing Machine Hits Lego Ideas",
                 "href": "https://www.theregister.com/2024/10/05/lego_ideas_turing_machine/"
             },
             {
-                "title": "I want to break some laws too",
-                "href": "https://snats.xyz/pages/articles/breaking_some_laws.html"
+                "title": "(Re)Using rustc components in gccrs",
+                "href": "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
             },
             {
-                "title": "Improving Parquet Dedupe on Hugging Face Hub",
-                "href": "https://huggingface.co/blog/improve_parquet_dedupe"
+                "title": "Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video",
+                "href": "https://www.sievedata.com/"
+            },
+            {
+                "title": "A Language of Beautiful Impurity",
+                "href": "https://www.edwest.co.uk/p/a-language-of-beautiful-impurity"
             },
             {
                 "title": "From GLSL to WGSL: the future of shaders on the Web (2021)",
                 "href": "https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/"
             },
             {
-                "title": "Unseen Thunderbirds film reels found in garden shed",
-                "href": "https://www.bbc.co.uk/news/articles/c1e848ewnlno"
+                "title": "The Static Site Paradox",
+                "href": "https://kristoff.it/blog/static-site-paradox/"
             },
             {
                 "title": "Daemonization in Unix programs is probably about restarting programs",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts"
             },
             {
-                "title": "The Static Site Paradox",
-                "href": "https://kristoff.it/blog/static-site-paradox/"
-            },
-            {
-                "title": "Teen achieves first NES Tetris \"rebirth,\" proves endless play is possible",
-                "href": "https://arstechnica.com/gaming/2024/10/nes-tetris-first-ever-rebirth-loops-past-level-255-and-back-to-zero/"
-            },
-            {
-                "title": "The missing middle: firms in developing countries",
-                "href": "https://asteriskmag.com/issues/07/want-growth-kill-small-businesses"
-            },
-            {
-                "title": "$61 kit turns any Hot Wheels into a remote-controlled drift car",
-                "href": "https://www.thedrive.com/news/this-61-kit-turns-any-hot-wheels-into-a-remote-controlled-drift-car"
-            },
-            {
-                "title": "An illustrated proof of the CAP theorem (2018)",
-                "href": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"
+                "title": "Unseen Thunderbirds film reels found in garden shed",
+                "href": "https://www.bbc.co.uk/news/articles/c1e848ewnlno"
             },
             {
                 "title": "Do U.S. ports need more automation?",
                 "href": "https://www.construction-physics.com/p/do-us-ports-need-more-automation"
             },
             {
-                "title": "Video Surveillance with YOLO+llava",
-                "href": "https://github.com/PsyChip/machina"
+                "title": "Improving Parquet Dedupe on Hugging Face Hub",
+                "href": "https://huggingface.co/blog/improve_parquet_dedupe"
             },
             {
-                "title": "Kernighan's Lever (2012)",
-                "href": "https://www.linusakesson.net/programming/kernighans-lever/index.php"
+                "title": "An illustrated proof of the CAP theorem (2018)",
+                "href": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"
+            },
+            {
+                "title": "The missing middle: firms in developing countries",
+                "href": "https://asteriskmag.com/issues/07/want-growth-kill-small-businesses"
             },
             {
                 "title": "A popular but wrong way to convert a string to uppercase or lowercase",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345"
             },
             {
-                "title": "iPhone Mirroring at work may expose employees\u2019 personal information",
-                "href": "https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/"
+                "title": "Video Surveillance with YOLO+llava",
+                "href": "https://github.com/PsyChip/machina"
             },
             {
                 "title": "The real data wall is billions of years of evolution",
                 "href": "https://dynomight.substack.com/p/data-wall"
             },
             {
+                "title": "Kernighan's Lever (2012)",
+                "href": "https://www.linusakesson.net/programming/kernighans-lever/index.php"
+            },
+            {
                 "title": "PostScript 1.0 \u2013 A Code Study",
                 "href": "https://ztoz.blog/posts/postscript-code/"
+            },
+            {
+                "title": "iPhone Mirroring at work may expose employees\u2019 personal information",
+                "href": "https://www.sevcosecurity.com/iphone-mirroring-expose-employee-personal-information/"
             },
             {
                 "title": "Could we build a computer designed to last at least fifty years?",
@@ -993,6 +973,26 @@
             {
                 "title": "ABC News hacks into popular robot vacuum, watches owner through camera",
                 "href": "https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020"
+            },
+            {
+                "title": "Prioritize Through Purpose",
+                "href": "https://belowwaterlevel.com/2024/10/05/prioritize-through-purpose/"
+            },
+            {
+                "title": "Hello, Perceptron (2023)",
+                "href": "https://matt.might.net/articles/hello-perceptron/"
+            },
+            {
+                "title": "Show HN: Squey, an open-source GPU-accelerated data visualization software",
+                "href": "https://squey.org"
+            },
+            {
+                "title": "Multi-tenant SAML in an afternoon",
+                "href": "https://tylerrussell.dev/2024/10/07/multi-tenant-saml-in-an-afternoon-using-ssoready/"
+            },
+            {
+                "title": "Virtualizing iOS on Apple Silicon",
+                "href": "https://nickb.website/blog/virtualizing-ios-on-apple-silicon"
             }
         ]
     }
