@@ -39,16 +39,20 @@
                 "href": "https://docs.python.org/3.13/whatsnew/3.13.html"
             },
             {
+                "title": "Modern PATH environment variable",
+                "href": "https://blog.izissise.net/posts/env-path/"
+            },
+            {
                 "title": "An app I built as a high school student to learn SQL with realistic data",
                 "href": "https://sandboxsql.com"
             },
             {
-                "title": "Rust is rolling off the Volvo assembly line",
-                "href": "https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line"
-            },
-            {
                 "title": "Rust GPU: The future of GPU programming",
                 "href": "https://rust-gpu.github.io/"
+            },
+            {
+                "title": "Rust is rolling off the Volvo assembly line",
+                "href": "https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line"
             },
             {
                 "title": "Kernighan's lever",
@@ -97,10 +101,6 @@
             {
                 "title": "Inweb: a modern system for literate programming",
                 "href": "https://ganelson.github.io/inweb/inweb/index.html"
-            },
-            {
-                "title": "Building a Single-Page App with htmx",
-                "href": "https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/"
             }
         ]
     },
@@ -128,12 +128,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1fyvket/monocle_on_chronicles_talkback_automated_infosec/"
             },
             {
-                "title": "Launched Today: The NHI Index",
-                "href": "https://www.reddit.com/r/netsec/comments/1fz2u1j/launched_today_the_nhi_index/"
-            },
-            {
                 "title": "Open Sourcing Venator \u2013 a kubernetes-native threat detection system",
                 "href": "https://www.reddit.com/r/netsec/comments/1fyx5u9/open_sourcing_venator_a_kubernetesnative_threat/"
+            },
+            {
+                "title": "Launched Today: The NHI Index",
+                "href": "https://www.reddit.com/r/netsec/comments/1fz2u1j/launched_today_the_nhi_index/"
             },
             {
                 "title": "Hacking Windows through iTunes - Local Privilege Escalation 0-day (CVE-2024\u201344193)",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "New Mamba 2FA bypass service targets Microsoft 365 accounts",
+                "href": "https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/"
+            },
+            {
                 "title": "Microsoft fixes Remote Desktop issues caused by Windows Server update",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-issues-caused-by-windows-server-update/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Ukrainian pleads guilty to operating Raccoon Stealer malware",
                 "href": "https://www.bleepingcomputer.com/news/security/ukrainian-pleads-guilty-to-operating-raccoon-stealer-malware/"
-            },
-            {
-                "title": "Microsoft: Word deletes some documents instead of saving them",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/"
             }
         ]
     },
@@ -383,6 +383,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Adobe security advisory (AV24\u2013573)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av24-573"
+            },
             {
                 "title": "Ivanti security advisory (AV24-572)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av24-572"
@@ -578,10 +582,6 @@
             {
                 "title": "Dell security advisory (AV24-524)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-524"
-            },
-            {
-                "title": "[Control systems] CISA ICS security advisories (AV24-523)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-523"
             }
         ]
     },
@@ -599,6 +599,10 @@
             {
                 "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/10/08/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+            },
+            {
+                "title": "Adobe Releases Security Updates for Multiple Products",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/10/08/adobe-releases-security-updates-multiple-products"
             },
             {
                 "title": "Avoid Scams After Disaster Strikes",
@@ -703,10 +707,6 @@
             {
                 "title": "Moxa MXview One",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-268-05"
-            },
-            {
-                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/09/24/cisa-adds-one-known-exploited-vulnerability-catalog"
             }
         ]
     },
@@ -895,10 +895,6 @@
                 "href": "https://arxiv.org/abs/2410.05258"
             },
             {
-                "title": "Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says",
-                "href": "https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html"
-            },
-            {
                 "title": "From GLSL to WGSL: the future of shaders on the Web (2021)",
                 "href": "https://dmnsgn.me/blog/from-glsl-to-wgsl-the-future-of-shaders-on-the-web/"
             },
@@ -911,52 +907,60 @@
                 "href": "https://www.theregister.com/2024/10/05/lego_ideas_turing_machine/"
             },
             {
-                "title": "Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]",
-                "href": "https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf"
-            },
-            {
                 "title": "Canvases versus Documents",
                 "href": "https://kaiwenwang.com/writing/canvases-versus-documents"
+            },
+            {
+                "title": "Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]",
+                "href": "https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf"
             },
             {
                 "title": "Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video",
                 "href": "https://www.sievedata.com/"
             },
             {
-                "title": "How to Delete Your 23andMe Data Amid the Company's Turmoil",
-                "href": "https://lifehacker.com/health/how-to-delete-23andme-data"
-            },
-            {
                 "title": "Unicode shenanigans: Martine \u00c3\u00a9crit en UTF-8",
                 "href": "https://blog.poisson.chat/posts/2024-10-05-unicode-shenanigans.html"
-            },
-            {
-                "title": "(Re)Using rustc components in gccrs",
-                "href": "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
             },
             {
                 "title": "The Static Site Paradox",
                 "href": "https://kristoff.it/blog/static-site-paradox/"
             },
             {
-                "title": "A Language of Beautiful Impurity",
-                "href": "https://www.edwest.co.uk/p/a-language-of-beautiful-impurity"
+                "title": "(Re)Using rustc components in gccrs",
+                "href": "https://rust-gcc.github.io/2024/09/20/reusing-rustc-components.html"
             },
             {
-                "title": "Unseen Thunderbirds film reels found in garden shed",
-                "href": "https://www.bbc.co.uk/news/articles/c1e848ewnlno"
+                "title": "How to Delete Your 23andMe Data Amid the Company's Turmoil",
+                "href": "https://lifehacker.com/health/how-to-delete-23andme-data"
             },
             {
                 "title": "Daemonization in Unix programs is probably about restarting programs",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/DaemonizationAndRestarts"
             },
             {
+                "title": "A Language of Beautiful Impurity",
+                "href": "https://www.edwest.co.uk/p/a-language-of-beautiful-impurity"
+            },
+            {
                 "title": "Building a robust data synchronization framework with Rails",
                 "href": "https://pcreux.com/2024/10/07/rails-data-sync-service.html"
             },
             {
+                "title": "Unseen Thunderbirds film reels found in garden shed",
+                "href": "https://www.bbc.co.uk/news/articles/c1e848ewnlno"
+            },
+            {
                 "title": "The missing middle: firms in developing countries",
                 "href": "https://asteriskmag.com/issues/07/want-growth-kill-small-businesses"
+            },
+            {
+                "title": "Lead drinking-water pipes must be replaced nationwide, EPA says",
+                "href": "https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html"
+            },
+            {
+                "title": "A popular but wrong way to convert a string to uppercase or lowercase",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345"
             },
             {
                 "title": "Do U.S. ports need more automation?",
@@ -967,16 +971,8 @@
                 "href": "https://dynomight.substack.com/p/data-wall"
             },
             {
-                "title": "A popular but wrong way to convert a string to uppercase or lowercase",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345"
-            },
-            {
                 "title": "An illustrated proof of the CAP theorem (2018)",
                 "href": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/"
-            },
-            {
-                "title": "Video Surveillance with YOLO+llava",
-                "href": "https://github.com/PsyChip/machina"
             },
             {
                 "title": "ABC News hacks into popular robot vacuum, watches owner through camera",
@@ -985,6 +981,10 @@
             {
                 "title": "PostScript 1.0 \u2013 A Code Study",
                 "href": "https://ztoz.blog/posts/postscript-code/"
+            },
+            {
+                "title": "Video Surveillance with YOLO+llava",
+                "href": "https://github.com/PsyChip/machina"
             },
             {
                 "title": "Kernighan's Lever (2012)",
