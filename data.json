@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "pipe: authenticated pubsub over ssh",
-                "href": "https://pipe.pico.sh"
-            },
-            {
                 "title": "Announcing Deno 2",
                 "href": "https://deno.com/blog/v2.0"
             },
             {
+                "title": "pipe: authenticated pubsub over ssh",
+                "href": "https://pipe.pico.sh"
+            },
+            {
                 "title": "My negative views on Rust",
                 "href": "https://chrisdone.com/posts/rust/"
+            },
+            {
+                "title": "Two Workflow Tips",
+                "href": "https://matklad.github.io/2024/10/08/two-tips.html"
             },
             {
                 "title": "Why I use KDE",
@@ -23,28 +27,24 @@
                 "href": "https://osa1.net/posts/2024-10-09-oop-good.html"
             },
             {
-                "title": "Two Workflow Tips",
-                "href": "https://matklad.github.io/2024/10/08/two-tips.html"
-            },
-            {
                 "title": "Building Real-Time Global Illumination",
                 "href": "https://jason.today/gi"
-            },
-            {
-                "title": "Internet Archive Hacked (probably)",
-                "href": "https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/"
-            },
-            {
-                "title": "A modest critique of Htmx",
-                "href": "https://chrisdone.com/posts/htmx-critique/"
             },
             {
                 "title": "5 Years Later: The First Win",
                 "href": "https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay"
             },
             {
+                "title": "A modest critique of Htmx",
+                "href": "https://chrisdone.com/posts/htmx-critique/"
+            },
+            {
                 "title": "GCC 15 un-deprecates Itanium IA-64 Linux support",
                 "href": "https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium"
+            },
+            {
+                "title": "Proposed roadmap for introducing CHERI into Android",
+                "href": "https://infosec.exchange/@david_chisnall/113277021212365322"
             },
             {
                 "title": "Modern PATH environment variable",
@@ -59,16 +59,16 @@
                 "href": "https://explaining.software/archive/structures-as-paths/"
             },
             {
-                "title": "Proposed roadmap for introducing CHERI into Android",
-                "href": "https://infosec.exchange/@david_chisnall/113277021212365322"
-            },
-            {
                 "title": "Apple Passwords\u2019 Generated Strong Password Format",
                 "href": "https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/"
             },
             {
                 "title": "Performance measurements of IPC in Rust",
                 "href": "https://pranitha.rs/posts/rust-ipc-ping-pong/"
+            },
+            {
+                "title": "Building Text UIs in Rust (Interview)",
+                "href": "https://www.youtube.com/watch?v=CNVmIocyDOQ"
             },
             {
                 "title": "Addition is all you need for energy efficient language models",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "CISA says critical Fortinet RCE flaw now exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/"
+            },
+            {
                 "title": "Crypto-stealing malware campaign infects 28,000 people",
                 "href": "https://www.bleepingcomputer.com/news/cryptocurrency/crypto-stealing-malware-campaign-infects-28-000-people/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Microsoft fixes Remote Desktop issues caused by Windows Server update",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-issues-caused-by-windows-server-update/"
-            },
-            {
-                "title": "Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/"
             }
         ]
     },
@@ -875,16 +875,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Internet Archive: Security breach alert",
+                "href": "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message"
+            },
+            {
                 "title": "Dookie Demastered",
                 "href": "https://www.dookiedemastered.com/"
             },
             {
-                "title": "An n-ball Between n-balls",
-                "href": "https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls"
-            },
-            {
                 "title": "On 17th century \"cocaine\"",
                 "href": "https://resobscura.substack.com/p/on-17th-century-cocaine"
+            },
+            {
+                "title": "An n-ball Between n-balls",
+                "href": "https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls"
             },
             {
                 "title": "The Internet Archive takes over foreign dissertations from Leiden University",
@@ -895,48 +899,44 @@
                 "href": "https://github.com/andrearaponi/dito"
             },
             {
-                "title": "Internet Archive Hacked (Probably)",
-                "href": "https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/"
-            },
-            {
-                "title": "Internet Archive: Security breach alert",
-                "href": "https://archive.org/"
-            },
-            {
-                "title": "Software Engineer Pay Heatmap Across the US",
-                "href": "https://levels.fyi/heatmap"
-            },
-            {
-                "title": "Chemistry Nobel: Computational protein design and protein structure prediction",
-                "href": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/"
+                "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
+                "href": "https://til.simonwillison.net/homebrew/no-verify-attestations"
             },
             {
                 "title": "Quantum Advantage for NP Approximation",
                 "href": "https://scottaaronson.blog/?p=8375"
             },
             {
-                "title": "Warm Handoffs",
-                "href": "https://luckymike.dev/posts/warm-handoffs/"
+                "title": "Software Engineer Pay Heatmap Across the US",
+                "href": "https://levels.fyi/heatmap"
             },
             {
                 "title": "Zod: TypeScript-first schema validation with static type inference",
                 "href": "https://zod.dev/"
             },
             {
-                "title": "Motion (YC W20) is hiring our first customer success manager",
-                "href": "https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn"
+                "title": "Chemistry Nobel: Computational protein design and protein structure prediction",
+                "href": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/"
+            },
+            {
+                "title": "Warm Handoffs",
+                "href": "https://luckymike.dev/posts/warm-handoffs/"
+            },
+            {
+                "title": "Wordpress.org Now Requires You Denounce Affiliation with WP Engine to Log In",
+                "href": "https://www.404media.co/wordpress-checkbox-login-wp-engine/"
+            },
+            {
+                "title": "My negative views on Rust (2023)",
+                "href": "https://chrisdone.com/posts/rust/"
             },
             {
                 "title": "Show HN: Donobu \u2013 Mac App for Web Automation and Testing",
                 "href": "https://www.donobu.com/"
             },
             {
-                "title": "Command Line Tools I Like (2022)",
-                "href": "https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/"
-            },
-            {
-                "title": "Wordpress.org Now Requires You Denounce Affiliation with WP Engine to Log In",
-                "href": "https://www.404media.co/wordpress-checkbox-login-wp-engine/"
+                "title": "Motion (YC W20) is hiring our first customer success manager",
+                "href": "https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn"
             },
             {
                 "title": "US weighs Google break-up in landmark antitrust case",
@@ -947,12 +947,24 @@
                 "href": "https://finetunedb.com"
             },
             {
-                "title": "Working Set Size Estimation (2018)",
-                "href": "https://www.brendangregg.com/wss.html"
+                "title": "Command Line Tools I Like (2022)",
+                "href": "https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/"
             },
             {
                 "title": "Addition Is All You Need for Energy-Efficient Language Models",
                 "href": "https://arxiv.org/abs/2410.00907"
+            },
+            {
+                "title": "Show HN: I made an SSH tunnel manager to learn Go",
+                "href": "https://github.com/alebeck/boring"
+            },
+            {
+                "title": "A DIY photographer built his own full-frame camera and open-sourced the project",
+                "href": "https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera"
+            },
+            {
+                "title": "Working Set Size Estimation (2018)",
+                "href": "https://www.brendangregg.com/wss.html"
             },
             {
                 "title": "How Waffle House helps Southerners and FEMA judge a storm's severity",
@@ -963,36 +975,24 @@
                 "href": "https://news.artnet.com/art-world-archives/gustav-klimt-gold-2543498"
             },
             {
-                "title": "Show HN: I made an SSH tunnel manager to learn Go",
-                "href": "https://github.com/alebeck/boring"
+                "title": "The mystery of why left-handers are so much rarer (2016)",
+                "href": "https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer"
             },
             {
                 "title": "Press Conference: Professor Geoffrey Hinton, Nobel Prize in Physics 2024 [video]",
                 "href": "https://www.youtube.com/watch?v=H7DgMFqrON0"
             },
             {
-                "title": "The mystery of why left-handers are so much rarer (2016)",
-                "href": "https://www.bbc.com/future/article/20160930-the-mystery-of-why-left-handers-are-so-much-rarer"
-            },
-            {
                 "title": "Who died and left the US $7B?",
                 "href": "https://sherwood.news/power/who-died-and-left-the-us-7-billion-fayez-sarofim/"
-            },
-            {
-                "title": "My negative views on Rust (2023)",
-                "href": "https://chrisdone.com/posts/rust/"
-            },
-            {
-                "title": "The Open Source AI Definition RC1 Is Available for Comments",
-                "href": "https://opensource.org/blog/the-open-source-ai-definition-v-1-0-rc1-is-available-for-comments"
             },
             {
                 "title": "50 Years of Queries",
                 "href": "https://cacm.acm.org/research/50-years-of-queries/"
             },
             {
-                "title": "Show HN: Itineraries.io \u2013 I built a joint trip planner in between surgeries",
-                "href": "https://itineraries.io"
+                "title": "John Carmack on inlined code (2014)",
+                "href": "http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html"
             }
         ]
     }
