@@ -112,6 +112,10 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1fvayj6/rnetsecs_q4_2024_information_security_hiring/"
             },
             {
+                "title": "Measuring Detection Coverage",
+                "href": "https://www.reddit.com/r/netsec/comments/1g0dn5n/measuring_detection_coverage/"
+            },
+            {
                 "title": "Palo Alto Expedition: From N-Day to Full Compromise \u2013 Horizon3.ai",
                 "href": "https://www.reddit.com/r/netsec/comments/1fzwbfe/palo_alto_expedition_from_nday_to_full_compromise/"
             },
@@ -206,10 +210,6 @@
             {
                 "title": "Vesta Admin Takeover: Exploiting Reduced Seed Entropy in bash $RANDOM",
                 "href": "https://www.reddit.com/r/netsec/comments/1ftjurr/vesta_admin_takeover_exploiting_reduced_seed/"
-            },
-            {
-                "title": "Finding classes for exploiting Unsafe Reflection vulnerabilities in Java with Joern",
-                "href": "https://www.reddit.com/r/netsec/comments/1fsyqmw/finding_classes_for_exploiting_unsafe_reflection/"
             }
         ]
     },
@@ -891,92 +891,76 @@
                 "href": "https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/"
             },
             {
-                "title": "How to make Product give a shit about your architecture proposal",
-                "href": "https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/"
-            },
-            {
                 "title": "You Don\u2019t Know Jack about Bandwidth",
                 "href": "https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/"
-            },
-            {
-                "title": "WASM Is the New CGI",
-                "href": "https://roborooter.com/post/wasm-is-the-new-cgi/"
             },
             {
                 "title": "On 17th century \"cocaine\"",
                 "href": "https://resobscura.substack.com/p/on-17th-century-cocaine"
             },
             {
-                "title": "An n-ball Between n-balls",
-                "href": "https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls"
-            },
-            {
-                "title": "A DIY photographer built his own full-frame camera and open-sourced the project",
-                "href": "https://www.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera"
-            },
-            {
-                "title": "Tcl the Misunderstood (2006)",
-                "href": "http://antirez.com/articoli/tclmisunderstood.html"
+                "title": "How to make Product give a shit about your architecture proposal",
+                "href": "https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/"
             },
             {
                 "title": "Mozilla fixes Firefox zero-day actively exploited in attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/"
             },
             {
-                "title": "Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86",
-                "href": "https://en.wikipedia.org/wiki/Ratan_Tata"
-            },
-            {
-                "title": "Gboard Double Sided Version",
-                "href": "https://github.com/google/mozc-devices/tree/master/mozc-doublesided"
-            },
-            {
-                "title": "Dito \u2013 an advanced Layer 7 reverse proxy server written in Go",
-                "href": "https://github.com/andrearaponi/dito"
-            },
-            {
-                "title": "Zod: TypeScript-first schema validation with static type inference",
-                "href": "https://zod.dev/"
-            },
-            {
-                "title": "7/67 Children Receiving Skysona Gene Therapy Develop Blood Cancer",
-                "href": "https://www.nejm.org/doi/full/10.1056/NEJMoa2405541"
-            },
-            {
-                "title": "Ask HN: Tech Stack Behind the Claude App?",
-                "href": "item?id=41795712"
+                "title": "An n-ball Between n-balls",
+                "href": "https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls"
             },
             {
                 "title": "The Ultimate Guide to Error Handling in Python",
                 "href": "https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python"
             },
             {
-                "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
-                "href": "https://til.simonwillison.net/homebrew/no-verify-attestations"
+                "title": "WASM Is the New CGI",
+                "href": "https://roborooter.com/post/wasm-is-the-new-cgi/"
             },
             {
-                "title": "Show HN: FinetuneDB \u2013 AI fine-tuning platform to create custom LLMs",
-                "href": "https://finetunedb.com"
+                "title": "Gboard Double Sided Version",
+                "href": "https://github.com/google/mozc-devices/tree/master/mozc-doublesided"
             },
             {
-                "title": "Warm Handoffs",
-                "href": "https://luckymike.dev/posts/warm-handoffs/"
+                "title": "Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86",
+                "href": "https://en.wikipedia.org/wiki/Ratan_Tata"
+            },
+            {
+                "title": "Zod: TypeScript-first schema validation with static type inference",
+                "href": "https://zod.dev/"
+            },
+            {
+                "title": "Dito \u2013 an advanced Layer 7 reverse proxy server written in Go",
+                "href": "https://github.com/andrearaponi/dito"
+            },
+            {
+                "title": "What the (2021)",
+                "href": "https://articles.foletta.org/post/2021-04-19-what-the/"
             },
             {
                 "title": "The Strict Aliasing Situation Is Pretty Bad (2016)",
                 "href": "https://blog.regehr.org/archives/1307"
             },
             {
+                "title": "Show HN: FinetuneDB \u2013 AI fine-tuning platform to create custom LLMs",
+                "href": "https://finetunedb.com"
+            },
+            {
+                "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
+                "href": "https://til.simonwillison.net/homebrew/no-verify-attestations"
+            },
+            {
+                "title": "Using Paid Ads to Grow Elite Hoops as an Indie and 11 Other Lessons",
+                "href": "https://www.swiftjectivec.com/elite-hoops-gaining-users-as-an-indie-app-with-paid-ads-and-lessons-learned/"
+            },
+            {
                 "title": "Quantum Advantage for NP Approximation",
                 "href": "https://scottaaronson.blog/?p=8375"
             },
             {
-                "title": "Porch Pirates Are Stealing AT&T iPhones Delivered by FedEx",
-                "href": "https://www.wsj.com/business/logistics/porch-pirates-att-iphone-fedex-279ff419"
-            },
-            {
-                "title": "What the (2021)",
-                "href": "https://articles.foletta.org/post/2021-04-19-what-the/"
+                "title": "Warm Handoffs",
+                "href": "https://luckymike.dev/posts/warm-handoffs/"
             },
             {
                 "title": "Software spotlight: Cassette software for the IBM PC",
@@ -993,6 +977,22 @@
             {
                 "title": "50 Years of Queries",
                 "href": "https://cacm.acm.org/research/50-years-of-queries/"
+            },
+            {
+                "title": "John Carmack on inlined code (2014)",
+                "href": "http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html"
+            },
+            {
+                "title": "The Internet Archive takes over foreign dissertations from Leiden University",
+                "href": "https://www.library.universiteitleiden.nl/news/2024/10/he-internet-archive-takes-over-foreign-dissertations-from-ubl"
+            },
+            {
+                "title": "US weighs Google break-up in landmark antitrust case",
+                "href": "https://www.ft.com/content/f6e84608-e0e5-48c5-a0eb-dde7675fb608"
+            },
+            {
+                "title": "What Is LibreDrive (2019)",
+                "href": "https://forum.makemkv.com/forum/viewtopic.php?t=18856"
             }
         ]
     }
