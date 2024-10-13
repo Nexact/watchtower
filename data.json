@@ -15,12 +15,12 @@
                 "href": "https://youtu.be/rbu7Zu5X1zI"
             },
             {
-                "title": "The Road to OCIv2 Images: What's Wrong with Tar? (2019)",
-                "href": "https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar"
-            },
-            {
                 "title": "Exploring Typst, a new typesetting system similar to LaTeX",
                 "href": "https://blog.jreyesr.com/posts/typst/"
+            },
+            {
+                "title": "The Road to OCIv2 Images: What's Wrong with Tar? (2019)",
+                "href": "https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar"
             },
             {
                 "title": "A Dictionary of Single-Letter Variable Names",
@@ -39,28 +39,20 @@
                 "href": "https://dl.acm.org/doi/10.1145/3689746"
             },
             {
-                "title": "A Small Experiment in Async Rust",
-                "href": "https://ochagavia.nl/blog/an-experiment-in-async-rust/"
-            },
-            {
-                "title": "A history of Clojure (2020)",
-                "href": "https://dl.acm.org/doi/abs/10.1145/3386321"
+                "title": "Dafny Standard Libraries",
+                "href": "https://dafny.org/blog/2023/12/20/standard-libraries/"
             },
             {
                 "title": "Are MathJax and KaTeX competitors?",
                 "href": "https://groups.google.com/g/mathjax-users/c/aboJLMb50uQ/m/Y77FexF_AwAJ"
             },
             {
-                "title": "Dafny Standard Libraries",
-                "href": "https://dafny.org/blog/2023/12/20/standard-libraries/"
+                "title": "A Small Experiment in Async Rust",
+                "href": "https://ochagavia.nl/blog/an-experiment-in-async-rust/"
             },
             {
-                "title": "Newtypes are better than abstract type synonyms",
-                "href": "https://prophetlabs.de/posts/newtypes.html"
-            },
-            {
-                "title": "FFI type mismatches in Rust for Linux",
-                "href": "https://lwn.net/SubscriberLink/993163/91519b806455b8ec/"
+                "title": "A history of Clojure (2020)",
+                "href": "https://dl.acm.org/doi/abs/10.1145/3386321"
             },
             {
                 "title": "Virtual-Memory Assisted Buffer Management",
@@ -71,12 +63,20 @@
                 "href": "https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024"
             },
             {
-                "title": "Adapting Plan 9's listen to GNU Guix",
-                "href": "https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html"
+                "title": "Newtypes are better than abstract type synonyms",
+                "href": "https://prophetlabs.de/posts/newtypes.html"
             },
             {
                 "title": "Dataflow and Columns and WASM, Oh My",
                 "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md"
+            },
+            {
+                "title": "FFI type mismatches in Rust for Linux",
+                "href": "https://lwn.net/SubscriberLink/993163/91519b806455b8ec/"
+            },
+            {
+                "title": "Adapting Plan 9's listen to GNU Guix",
+                "href": "https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html"
             },
             {
                 "title": "Idol, an IDL and binary encoding for zero-copy local IPC",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "North Carolina Maker of High-Purity Quartz Back Operating After Hurricane",
+                "href": "https://news.slashdot.org/story/24/10/13/0012204/north-carolina-maker-of-high-purity-quartz-back-operating-after-hurricane?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "California Newspaper Creates AI-Powered 'News Assistant' for Kamala Harris Info",
                 "href": "https://politics.slashdot.org/story/24/10/12/1823237/california-newspaper-creates-ai-powered-news-assistant-for-kamala-harris-info?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Physicists Generated Sound Waves That Travel In One Direction Only",
                 "href": "https://science.slashdot.org/story/24/10/11/2230246/physicists-generated-sound-waves-that-travel-in-one-direction-only?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Bluesky Is Now Courting Threads Users",
-                "href": "https://tech.slashdot.org/story/24/10/11/2221242/bluesky-is-now-courting-threads-users?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -879,36 +879,48 @@
                 "href": "https://blog.jreyesr.com/posts/typst/"
             },
             {
-                "title": "Two never-before-seen tools, from same group, infect air-gapped devices",
-                "href": "https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/"
+                "title": "G\u00f6del Agent: A Self-Referential Agent Framework for Recursive Self-Improvement",
+                "href": "https://arxiv.org/abs/2410.04444"
             },
             {
-                "title": "FAA grants SpaceX Starship Flight 5 license",
-                "href": "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001"
+                "title": "Flux is fast and it's open source",
+                "href": "https://replicate.com/blog/flux-is-fast-and-open-source"
+            },
+            {
+                "title": "Two never-before-seen tools, from same group, infect air-gapped devices",
+                "href": "https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/"
             },
             {
                 "title": "Every bug/quirk of the Windows resource compiler (rc.exe), probably",
                 "href": "https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/"
             },
             {
+                "title": "FAA grants SpaceX Starship Flight 5 license",
+                "href": "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001"
+            },
+            {
                 "title": "Germany's 49-euro ticket resulted in significant shift from road to rail",
                 "href": "https://www.mcc-berlin.net/en/news/information/information-detail/article/49-euro-ticket-resulted-in-significant-modal-shift-from-road-to-rail.html"
             },
             {
-                "title": "Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8)",
-                "href": "https://blog.scaledcode.com/blog/analyzing-new-unique-id/"
+                "title": "Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps",
+                "href": "https://github.com/lifeiteng/OmniSenseVoice"
+            },
+            {
+                "title": "Who are AMD, Intel's new manycore monster CPUs for?",
+                "href": "https://www.theregister.com/2024/10/07/risk_of_manycore_cpus/"
+            },
+            {
+                "title": "Washington's 'Forgotten Giant' Volcano Stirs: Surge in Quakes Prompts Monitoring",
+                "href": "https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873"
             },
             {
                 "title": "Show HN: AOO \u2013 C++ library for real-time audio streaming and messaging",
                 "href": "https://aoo.iem.sh/"
             },
             {
-                "title": "A mountain? Multistorey car park? Both? Inside Shanghai's \u00a3225M summit",
-                "href": "https://www.theguardian.com/artanddesign/2024/sep/30/twin-hills-shanghai-nipple-mountains-multistorey-car-park"
-            },
-            {
-                "title": "Washington's 'Forgotten Giant' Volcano Stirs: Surge in Quakes Prompts Monitoring",
-                "href": "https://gizmodo.com/washingtons-forgotten-giant-volcano-stirs-surge-in-quakes-prompts-increased-monitoring-2000509873"
+                "title": "The 1/8th Sleep",
+                "href": "https://near.blog/the-1-8th-sleep/"
             },
             {
                 "title": "How I animate 3Blue1Brown [video]",
@@ -923,10 +935,6 @@
                 "href": "https://github.com/stenzek/duckstation"
             },
             {
-                "title": "First Greenhouse Gas Plumes Detected with NASA-Designed Instrument",
-                "href": "https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/"
-            },
-            {
                 "title": "Google Ads announces 11-year data retention policy",
                 "href": "https://searchengineland.com/google-ads-11-year-data-retention-policy-447465"
             },
@@ -935,24 +943,28 @@
                 "href": "https://www.illinoisfishinghub.com/lake-michigan-stonehenge/"
             },
             {
-                "title": "PayPal (USA) will automatically share data about you to participating stores",
-                "href": "https://www.paypal.com/us/legalhub/upcoming-policies-full"
+                "title": "A mountain? Multistorey car park? Both? Inside Shanghai's \u00a3225M summit",
+                "href": "https://www.theguardian.com/artanddesign/2024/sep/30/twin-hills-shanghai-nipple-mountains-multistorey-car-park"
             },
             {
                 "title": "Psilocybin bests SSRI for major depression in first long-term comparison",
                 "href": "https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77"
             },
             {
+                "title": "Putting a full power search engine in Ecto",
+                "href": "https://moosie.us/parade_db_ecto"
+            },
+            {
+                "title": "PayPal (USA) will automatically share data about you to participating stores",
+                "href": "https://www.paypal.com/us/legalhub/upcoming-policies-full"
+            },
+            {
                 "title": "IcePanel (YC W23) is hiring full stack engineers in Vancouver",
                 "href": "https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer"
             },
             {
-                "title": "Machine learning and information theory concepts towards an AI Mathematician",
-                "href": "https://arxiv.org/abs/2403.04571"
-            },
-            {
-                "title": "Putting a full power search engine in Ecto",
-                "href": "https://moosie.us/parade_db_ecto"
+                "title": "First Greenhouse Gas Plumes Detected with NASA-Designed Instrument",
+                "href": "https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/"
             },
             {
                 "title": "Ask HN: If you were rewriting Emacs from scratch, what would you do differently?",
@@ -967,28 +979,16 @@
                 "href": "https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/"
             },
             {
+                "title": "Machine learning and information theory concepts towards an AI Mathematician",
+                "href": "https://arxiv.org/abs/2403.04571"
+            },
+            {
+                "title": "In a rare disclosure, The Pentagon provides an update on the X-37B spaceplane",
+                "href": "https://arstechnica.com/space/2024/10/the-us-militarys-x-37b-spaceplane-is-preparing-for-a-novel-space-maneuver/"
+            },
+            {
                 "title": "Entropy Explained, with Sheep (2016)",
                 "href": "https://www.engineersedge.com/thermodynamics/entropy_explained_with_sheep_15961.htm"
-            },
-            {
-                "title": "Turkish language has a gossip tense",
-                "href": "https://twitter.com/esesci/status/1843769276471349698"
-            },
-            {
-                "title": "Six transplant patients in Brazil contract HIV from infected organs",
-                "href": "https://www.reuters.com/world/americas/six-transplant-patients-brazil-contract-hiv-infected-organs-2024-10-11/"
-            },
-            {
-                "title": "Christopher Columbus' remains found after 500 years as DNA analysis ends mystery",
-                "href": "https://www.the-express.com/news/world-news/151431/christopher-columbus-remains-found-500-years-dna-analysis"
-            },
-            {
-                "title": "AMD's Turin: 5th Gen EPYC Launched",
-                "href": "https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched"
-            },
-            {
-                "title": "Show HN: Self-Hostable Algolia DocSearch Replacement",
-                "href": "https://github.com/fastrepl/canary"
             }
         ]
     }
