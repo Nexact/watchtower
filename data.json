@@ -27,6 +27,10 @@
                 "href": "https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/"
             },
             {
+                "title": "A Missing IDE Feature: Fold Method Bodies by Default",
+                "href": "https://matklad.github.io/2024/10/14/missing-ide-feature.html"
+            },
+            {
                 "title": "LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite",
                 "href": "https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html"
             },
@@ -47,8 +51,8 @@
                 "href": "https://9to5mac.com/2024/10/14/new-passkeys-import-export/"
             },
             {
-                "title": "A Missing IDE Feature: Fold Method Bodies by Default",
-                "href": "https://matklad.github.io/2024/10/14/missing-ide-feature.html"
+                "title": "Rogue Legacy code is now source available",
+                "href": "https://github.com/flibitijibibo/RogueLegacy1/"
             },
             {
                 "title": "The Stallman Report",
@@ -59,10 +63,6 @@
                 "href": "https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/"
             },
             {
-                "title": "Rogue Legacy code is now source available",
-                "href": "https://github.com/flibitijibibo/RogueLegacy1/"
-            },
-            {
                 "title": "Why `Pin` is a part of trait signatures (and why that's a problem)",
                 "href": "https://blog.yoshuawuyts.com/why-pin/"
             },
@@ -71,12 +71,12 @@
                 "href": "https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks"
             },
             {
-                "title": "a protocol for reliable notifications over a 1 bit fallible connection",
-                "href": "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
-            },
-            {
                 "title": "JPEG XL\u2019s Modular Mode Explained",
                 "href": "https://cloudinary.com/blog/jpeg-xls-modular-mode-explained"
+            },
+            {
+                "title": "a protocol for reliable notifications over a 1 bit fallible connection",
+                "href": "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
             },
             {
                 "title": "Introduction to UX/RT (2022)",
@@ -871,16 +871,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Let Google Decide",
-                "href": "https://cupofsquid.com/post/not-real/"
-            },
-            {
                 "title": "Sqlite3 WebAssembly",
                 "href": "https://sqlite.org/wasm/doc/trunk/index.md"
             },
             {
                 "title": "Show HN: Graphite, a Blender-inspired 2D procedural design Rust app",
                 "href": "https://graphite.rs/"
+            },
+            {
+                "title": "FIDO Alliance publishes new spec to let users move passkeys across providers",
+                "href": "https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/"
             },
             {
                 "title": "Redbox left PII on decommissioned machines",
@@ -903,40 +903,56 @@
                 "href": "https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/"
             },
             {
-                "title": "Asterinas: OS kernel written in Rust and providing Linux-compatible ABI",
-                "href": "https://github.com/asterinas/asterinas"
+                "title": "Eye Contact Correction: Redirecting the eyes to look at the camera",
+                "href": "https://www.sievedata.com/functions/sieve/eye-contact-correction"
             },
             {
-                "title": "FreeBSD/EC2 boot performance over time",
-                "href": "https://www.daemonology.net/freebsd-ec2-boot-performance/"
+                "title": "Asterinas: OS kernel written in Rust and providing Linux-compatible ABI",
+                "href": "https://github.com/asterinas/asterinas"
             },
             {
                 "title": "Why don't we use awnings anymore (2022)",
                 "href": "https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/"
             },
             {
+                "title": "FreeBSD/EC2 boot performance over time",
+                "href": "https://www.daemonology.net/freebsd-ec2-boot-performance/"
+            },
+            {
                 "title": "Medical student's apparent celiac disease responded to giardiasis treatment",
                 "href": "https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/"
-            },
-            {
-                "title": "Mothbox 4.0",
-                "href": "https://digital-naturalism-laboratories.github.io/Mothbox/"
-            },
-            {
-                "title": "Apple introduces iPad\u00a0mini built for Apple\u00a0Intelligence",
-                "href": "https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/"
             },
             {
                 "title": "Show HN: Pumpkin \u2013 A Modern Minecraft server written in Rust",
                 "href": "https://github.com/Snowiiii/Pumpkin"
             },
             {
+                "title": "Apple introduces iPad\u00a0mini built for Apple\u00a0Intelligence",
+                "href": "https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/"
+            },
+            {
+                "title": "Mothbox 4.0",
+                "href": "https://digital-naturalism-laboratories.github.io/Mothbox/"
+            },
+            {
+                "title": "Try to fix it one level deeper",
+                "href": "https://matklad.github.io/2024/09/06/fix-one-level-deeper.html"
+            },
+            {
                 "title": "How ham radio endures",
                 "href": "https://www.zdnet.com/home-and-office/networking/how-ham-radio-endures-and-remains-a-disaster-lifeline-in-the-iphone-era/"
             },
             {
-                "title": "The richest people borrow against their stock (2021)",
-                "href": "https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/"
+                "title": "Let Google decide",
+                "href": "https://cupofsquid.com/post/not-real/"
+            },
+            {
+                "title": "Damas-Hindley-Milner inference two ways",
+                "href": "https://bernsteinbear.com/blog/type-inference/"
+            },
+            {
+                "title": "Australian coal plant in 'extraordinary' survival experiment",
+                "href": "https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504"
             },
             {
                 "title": "Cofounder Mode: My tactical guide to finding a cofounder",
@@ -947,48 +963,32 @@
                 "href": "https://ftwa.mathix.dev/"
             },
             {
-                "title": "The Sundial Cannon of \u00c5tvidaberg (2017)",
-                "href": "https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html"
-            },
-            {
-                "title": "National Archives Pushes Google Gemini AI on Employees",
-                "href": "https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/"
-            },
-            {
-                "title": "Life expectancy rise in rich countries slows down: took 30 years to prove",
-                "href": "https://www.nature.com/articles/d41586-024-03244-1"
-            },
-            {
-                "title": "Internet Archive Services are \"temporarily offline\"",
-                "href": "https://archive.org/"
-            },
-            {
-                "title": "Show HN: A Markdown-based alternative to package.json scripts and makefiles",
-                "href": "https://github.com/tzador/x.md"
+                "title": "The richest people borrow against their stock (2021)",
+                "href": "https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/"
             },
             {
                 "title": "Show HN: Mermaid ASCII Diagrams",
                 "href": "https://mermaid-ascii.art/"
             },
             {
-                "title": "Australian coal plant in 'extraordinary' survival experiment",
-                "href": "https://www.abc.net.au/news/2024-10-13/australian-coal-plant-in-extraordinary-survival-experiment/104461504"
+                "title": "Life expectancy rise in rich countries slows down: took 30 years to prove",
+                "href": "https://www.nature.com/articles/d41586-024-03244-1"
+            },
+            {
+                "title": "National Archives Pushes Google Gemini AI on Employees",
+                "href": "https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/"
             },
             {
                 "title": "Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates",
                 "href": "https://www.ycombinator.com/companies/zep-ai/jobs"
             },
             {
-                "title": "Beyond Dune: Accelerating with EVM Query Language",
-                "href": "https://www.eql.sh/blog/how-is-it-different-from-dune"
+                "title": "Show HN: A Markdown-based alternative to package.json scripts and makefiles",
+                "href": "https://github.com/tzador/x.md"
             },
             {
-                "title": "Big advance on simple-sounding math problem was a century in the making",
-                "href": "https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/"
-            },
-            {
-                "title": "Forscape \u2013 A Language and Editor for Scientific Computation",
-                "href": "https://github.com/JohnDTill/Forscape"
+                "title": "The Sundial Cannon of \u00c5tvidaberg (2017)",
+                "href": "https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html"
             }
         ]
     }
