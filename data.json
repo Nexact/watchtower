@@ -59,6 +59,10 @@
                 "href": "https://minds.md/zakirullin/cognitive#full"
             },
             {
+                "title": "In the future using top-level await might be a BC break in Node",
+                "href": "https://evertpot.com/using-top-level-await-is-bc-break/"
+            },
+            {
                 "title": "OpenHCL: the new, open source paravisor",
                 "href": "https://techcommunity.microsoft.com/t5/windows-os-platform-blog/openhcl-the-new-open-source-paravisor/ba-p/4273172"
             },
@@ -75,12 +79,12 @@
                 "href": "https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/"
             },
             {
-                "title": "Discovering features and information via HTTP OPTIONS",
-                "href": "https://evertpot.com/discovering-features-with-http-options/"
-            },
-            {
                 "title": "P3477R0: There are exactly 8 bits in a byte",
                 "href": "https://isocpp.org/files/papers/P3477R0.html"
+            },
+            {
+                "title": "Discovering features and information via HTTP OPTIONS",
+                "href": "https://evertpot.com/discovering-features-with-http-options/"
             },
             {
                 "title": "Escaping the Chrome sandbox through DevTools",
@@ -97,10 +101,6 @@
             {
                 "title": "Pumps - eager streams for rust",
                 "href": "https://github.com/alexpusch/pumps_rs"
-            },
-            {
-                "title": "75x faster: optimizing the Ion compiler backend",
-                "href": "https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html"
             }
         ]
     },
@@ -116,10 +116,6 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1g5k9ke/escaping_the_chrome_sandbox_through_devtools/"
             },
             {
-                "title": "ONBUILD COPY . /var/www/pwned/",
-                "href": "https://www.reddit.com/r/netsec/comments/1g65wy1/onbuild_copy_varwwwpwned/"
-            },
-            {
                 "title": "CVE-2024-45844: Privilege escalation in F5 BIG-IP",
                 "href": "https://www.reddit.com/r/netsec/comments/1g5okub/cve202445844_privilege_escalation_in_f5_bigip/"
             },
@@ -130,6 +126,10 @@
             {
                 "title": "DEF CON 32 talk recordings",
                 "href": "https://www.reddit.com/r/netsec/comments/1g5lvzj/def_con_32_talk_recordings/"
+            },
+            {
+                "title": "ONBUILD COPY . /var/www/pwned/",
+                "href": "https://www.reddit.com/r/netsec/comments/1g65wy1/onbuild_copy_varwwwpwned/"
             },
             {
                 "title": "DEF CON 32 - OH MY DC Abusing OIDC all the way to your cloud - Aviad Hahami",
@@ -871,72 +871,76 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Smart pointers for the kernel",
+                "href": "https://lwn.net/Articles/992055/"
+            },
+            {
                 "title": "Crokinole",
                 "href": "https://pudding.cool/2024/10/crokinole/"
             },
             {
-                "title": "Use Prolog to improve LLM's reasoning",
-                "href": "https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning"
-            },
-            {
-                "title": "Grandmaster-Level Chess Without Search",
+                "title": "Grandmaster-level chess without search",
                 "href": "https://github.com/google-deepmind/searchless_chess"
-            },
-            {
-                "title": "Show HN: Tamagotchi-Like Characters for AI Assistants \u2013 All in JavaScript",
-                "href": "https://github.com/Barqawiz/Tamagotchi"
             },
             {
                 "title": "NotebookLM launches feature to customize and guide audio overviews",
                 "href": "https://blog.google/technology/ai/notebooklm-update-october-2024/"
             },
             {
-                "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-                "href": "item?id=41870887"
+                "title": "Show HN: Tamagotchi-like characters for AI assistants in JavaScript",
+                "href": "https://github.com/Barqawiz/Tamagotchi"
             },
             {
-                "title": "The Fifth Generation Project in Japan",
-                "href": "https://www.sjsu.edu/faculty/watkins/5thgen.htm"
+                "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+                "href": "item?id=41870887"
             },
             {
                 "title": "Gamedev in Lisp. Part 2: Dungeons and Interfaces",
                 "href": "https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2"
             },
             {
-                "title": "C++ proposal: There are 8 bits in a byte",
-                "href": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html"
+                "title": "Use Prolog to improve LLM's reasoning",
+                "href": "https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning"
             },
             {
-                "title": "Removing PGP from PyPI",
-                "href": "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
+                "title": "The Fifth Generation Project in Japan (1992)",
+                "href": "https://www.sjsu.edu/faculty/watkins/5thgen.htm"
             },
             {
                 "title": "Amplification of electromagnetic fields by a rotating body",
                 "href": "https://www.nature.com/articles/s41467-024-49689-w"
             },
             {
-                "title": "Why Does Everyone Run Ancient Postgres Versions?",
-                "href": "https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions"
+                "title": "C++ proposal: There are exactly 8 bits in a byte",
+                "href": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html"
+            },
+            {
+                "title": "A benchmark of three different floating point packages for the 6809",
+                "href": "https://boston.conman.org/2024/10/13.1"
             },
             {
                 "title": "Cats are (almost) liquid",
                 "href": "https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8"
             },
             {
-                "title": "The Border Crisis Won't Be Solved at the Border",
-                "href": "https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/"
-            },
-            {
-                "title": "Unit tests as documentation",
-                "href": "https://www.thecoder.cafe/p/unit-tests-as-documentation"
+                "title": "Why does everyone run ancient Postgres versions?",
+                "href": "https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions"
             },
             {
                 "title": "Deriving the Kelly Criterion to Maximise Profits",
                 "href": "https://obrhubr.org/kelly-criterion"
             },
             {
-                "title": "Wayland Apps in WireGuard Docker Containers",
-                "href": "https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/"
+                "title": "Unit tests as documentation",
+                "href": "https://www.thecoder.cafe/p/unit-tests-as-documentation"
+            },
+            {
+                "title": "DHL Pioneered the Sharing Economy",
+                "href": "https://www.flexport.com/blog/dhl-bills-of-lading/"
+            },
+            {
+                "title": "SOFA - Start Often Finish rArely",
+                "href": "https://tilde.town/~dozens/sofa/"
             },
             {
                 "title": "Inkscape 1.4 Released",
@@ -947,7 +951,7 @@
                 "href": "https://mathenchant.wordpress.com/2024/10/17/industrious-dice/"
             },
             {
-                "title": "Tubeworms live beneath the planetary crust around deep-sea vents",
+                "title": "Tubeworms live around deep-sea vents",
                 "href": "https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents"
             },
             {
@@ -955,40 +959,36 @@
                 "href": "https://www.crunchydata.com/blog/pg_parquet-an-extension-to-connect-postgres-and-parquet"
             },
             {
+                "title": "Show HN: I wrote an autodiff in C++ and implemented LeNet with it",
+                "href": "https://gitlab.com/mebassett/quixotic-learning/-/tree/master"
+            },
+            {
+                "title": "Austin 3.7 \u2013 Python frame stack sampler for CPython",
+                "href": "https://github.com/P403n1x87/austin"
+            },
+            {
                 "title": "AI Mathematical Olympiad \u2013 Progress Prize 2",
                 "href": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2"
-            },
-            {
-                "title": "Show HN: Gomponents, HTML components in pure Go",
-                "href": "https://www.gomponents.com"
-            },
-            {
-                "title": "How I failed to make a game: Raycasting on the GBA",
-                "href": "https://mcejp.github.io/2024/10/16/gba-raycasting.html"
             },
             {
                 "title": "Adobe's new image rotation tool is one of the most impressive AI tools seen",
                 "href": "https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen"
             },
             {
+                "title": "How I failed to make a game: Raycasting on the GBA",
+                "href": "https://mcejp.github.io/2024/10/16/gba-raycasting.html"
+            },
+            {
+                "title": "Show HN: Gomponents, HTML components in pure Go",
+                "href": "https://www.gomponents.com"
+            },
+            {
                 "title": "Emit",
                 "href": "https://re.factorcode.org/2024/10/emit.html"
             },
             {
-                "title": "The Prompt() Function: Use the Power of LLMs with SQL",
-                "href": "https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/"
-            },
-            {
-                "title": "Diabetes Breakthrough: New Treatment Eliminates Insulin for 86% of Patients",
+                "title": "Type 2 diabetes: New treatment eliminates insulin for 86% of patients",
                 "href": "https://scitechdaily.com/diabetes-breakthrough-new-treatment-eliminates-insulin-for-86-of-patients/"
-            },
-            {
-                "title": "A protocol for reliable notifications over a 1 bit fallible connection",
-                "href": "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
-            },
-            {
-                "title": "Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)",
-                "href": "https://www.ycombinator.com/companies/optery/jobs"
             }
         ]
     }
