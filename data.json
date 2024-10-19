@@ -23,12 +23,16 @@
                 "href": "https://lilymara.xyz/posts/2024/01/transit-kindle/"
             },
             {
+                "title": "I've been writing software for the last 25 years. Here some things I learned so far",
+                "href": "https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far"
+            },
+            {
                 "title": "Yes, Go Does Have Exceptions",
                 "href": "https://kristoff.it/blog/go-exceptions/"
             },
             {
-                "title": "I've been writing software for the last 25 years. Here some things I learned so far",
-                "href": "https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far"
+                "title": "superlinker: a tool for reinterpreting ELF executables and shared libraries",
+                "href": "https://github.com/whitequark/superlinker"
             },
             {
                 "title": "Focus on decisions, not tasks",
@@ -39,6 +43,14 @@
                 "href": "https://rubymamistvalove.com/block-editor"
             },
             {
+                "title": "Programming language semantics: It\u2019s easy as 1,2,3",
+                "href": "https://people.cs.nott.ac.uk/pszgmh/123.pdf"
+            },
+            {
+                "title": "You could have invented denotational semantics",
+                "href": "https://langdev.stackexchange.com/a/2021/1445"
+            },
+            {
                 "title": "My NumPy Year: Creating a DType for the Next Generation of Scientific Computing | Quansight Consulting",
                 "href": "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
             },
@@ -47,20 +59,8 @@
                 "href": "https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7"
             },
             {
-                "title": "superlinker: a tool for reinterpreting ELF executables and shared libraries",
-                "href": "https://github.com/whitequark/superlinker"
-            },
-            {
                 "title": "Announcing Rust 1.82.0",
                 "href": "https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html"
-            },
-            {
-                "title": "Programming language semantics: It\u2019s easy as 1,2,3",
-                "href": "https://people.cs.nott.ac.uk/pszgmh/123.pdf"
-            },
-            {
-                "title": "You could have invented denotational semantics",
-                "href": "https://langdev.stackexchange.com/a/2021/1445"
             },
             {
                 "title": "In the future using top-level await might be a backwards compatibility break in Node",
@@ -79,6 +79,10 @@
                 "href": "https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend"
             },
             {
+                "title": "TLA+ Wiki",
+                "href": "https://docs.tlapl.us"
+            },
+            {
                 "title": "Decoding Europa Clipper",
                 "href": "https://destevez.net/2024/10/decoding-europa-clipper/"
             },
@@ -93,10 +97,6 @@
             {
                 "title": "Welcome to transputer.net (2007)",
                 "href": "https://transputer.net/"
-            },
-            {
-                "title": "TLA+ Wiki",
-                "href": "https://docs.tlapl.us"
             },
             {
                 "title": "Understanding DNS resolution on Linux and Kubernetes",
@@ -879,6 +879,10 @@
                 "href": "https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme"
             },
             {
+                "title": "'They refused to let me go': Japanese turn to resignation agencies to quit jobs",
+                "href": "https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life"
+            },
+            {
                 "title": "Show HN: How to leverage Claude's capabilities with interactive visualization",
                 "href": "https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst"
             },
@@ -887,8 +891,8 @@
                 "href": "https://pehringer.info/go_plan9_memo.html"
             },
             {
-                "title": "PhotoDNA",
-                "href": "https://en.wikipedia.org/wiki/PhotoDNA"
+                "title": "A Simple open-source Phone programmable with Arduino",
+                "href": "https://www.wiphone.io"
             },
             {
                 "title": "4K Gaming on Raspberry Pi [video]",
@@ -897,6 +901,10 @@
             {
                 "title": "Code that helped end Apartheid",
                 "href": "https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/"
+            },
+            {
+                "title": "PhotoDNA",
+                "href": "https://en.wikipedia.org/wiki/PhotoDNA"
             },
             {
                 "title": "JSON Patch",
@@ -911,20 +919,12 @@
                 "href": "https://www.dannydutch.com/post/doctor-fukushi-masaichi-and-the-art-of-preserving-tattooed-skin"
             },
             {
-                "title": "A Simple open-source Phone programmable with Arduino",
-                "href": "https://www.wiphone.io"
+                "title": "Cross-Process Spectre Exploitation",
+                "href": "https://grsecurity.net/cross_process_spectre_exploitation"
             },
             {
                 "title": "Focus on decisions, not tasks",
                 "href": "https://technicalwriting.dev/strategy/decisions.html"
-            },
-            {
-                "title": "Strep A kills half a million per year; why don't we have a vaccine?",
-                "href": "https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine"
-            },
-            {
-                "title": "Cross-Process Spectre Exploitation",
-                "href": "https://grsecurity.net/cross_process_spectre_exploitation"
             },
             {
                 "title": "Running an open source app: Usage, costs and community donations",
@@ -935,20 +935,24 @@
                 "href": "https://text.tchncs.de/ioi/in-todays-interconnected-world-user-authentication-plays-a-critical-role-in"
             },
             {
-                "title": "Getting a Japanese CERO age rating for your game costs extra per platform",
-                "href": "https://automaton-media.com/en/news/getting-a-japanese-cero-age-rating-for-your-game-is-not-only-expensive-but-costs-extra-per-platform-giving-small-creators-a-very-hard-time/"
+                "title": "Compiling Bigloo Scheme to WebAssembly",
+                "href": "https://blogs.igalia.com/compilers/2023/05/10/compiling-bigloo-scheme-to-webassembly/"
             },
             {
                 "title": "Where the Digital Sidewalk Ends",
                 "href": "https://www.smolways.com/post/where-the-digital-sidewalk-ends"
             },
             {
-                "title": "Using static websites for tiny archives",
-                "href": "https://alexwlchan.net/2024/static-websites/"
+                "title": "Steve's Jujutsu Tutorial",
+                "href": "https://steveklabnik.github.io/jujutsu-tutorial/"
             },
             {
-                "title": "Teaching old assert() new Tricks",
-                "href": "https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/"
+                "title": "Getting a Japanese CERO age rating for your game costs extra per platform",
+                "href": "https://automaton-media.com/en/news/getting-a-japanese-cero-age-rating-for-your-game-is-not-only-expensive-but-costs-extra-per-platform-giving-small-creators-a-very-hard-time/"
+            },
+            {
+                "title": "Using static websites for tiny archives",
+                "href": "https://alexwlchan.net/2024/static-websites/"
             },
             {
                 "title": "Why conventional wisdom on health care is wrong (a primer) (2020)",
@@ -963,28 +967,24 @@
                 "href": "https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521"
             },
             {
-                "title": "Cuba's grid goes offline with blackout after a major power plant fails",
-                "href": "https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b"
-            },
-            {
-                "title": "Steve's Jujutsu Tutorial",
-                "href": "https://steveklabnik.github.io/jujutsu-tutorial/"
-            },
-            {
-                "title": "Penguin Random House underscores copyright protection in AI rebuff",
-                "href": "https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff"
+                "title": "Teaching old assert() new Tricks",
+                "href": "https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/"
             },
             {
                 "title": "Ask HN: Founders, what was the major sourcing channel for your first 100 users?",
                 "href": "item?id=41862332"
             },
             {
-                "title": "I Hate the Letter F",
-                "href": "https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu"
-            },
-            {
                 "title": "The Making of Micro Machines",
                 "href": "https://readonlymemory.com/the-making-of-micro-machines/"
+            },
+            {
+                "title": "My solar-powered and self-hosted website",
+                "href": "https://dri.es/my-solar-powered-and-self-hosted-website"
+            },
+            {
+                "title": "Penguin Random House underscores copyright protection in AI rebuff",
+                "href": "https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff"
             },
             {
                 "title": "Distro (YC S24) is hiring a tech lead",
