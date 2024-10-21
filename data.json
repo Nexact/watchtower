@@ -31,16 +31,16 @@
                 "href": "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
             },
             {
+                "title": "Mac Programming for Dummies (1999)",
+                "href": "https://devnonsense.com/posts/mac-programming-for-dummies/"
+            },
+            {
                 "title": "The IPv6 Transition",
                 "href": "https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html"
             },
             {
                 "title": "Yet another open source Spotify client, written in Go",
                 "href": "https://github.com/devgianlu/go-librespot"
-            },
-            {
-                "title": "Mac Programming for Dummies (1999)",
-                "href": "https://devnonsense.com/posts/mac-programming-for-dummies/"
             },
             {
                 "title": "How is this website so fast?",
@@ -61,6 +61,14 @@
             {
                 "title": "Debian changes OpenSSH packaging",
                 "href": "https://lwn.net/Articles/991088/"
+            },
+            {
+                "title": "Introduction to Zig",
+                "href": "https://pedropark99.github.io/zig-book/"
+            },
+            {
+                "title": "Clear up your Rails controllers with before_action wrappers",
+                "href": "https://buttondown.com/kaspth/archive/clear-up-your-rails-controllers-with/"
             },
             {
                 "title": "Memory Safety without Lifetime Parameters",
@@ -93,14 +101,6 @@
             {
                 "title": "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
                 "href": "https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF"
-            },
-            {
-                "title": "C-Reduce, a C and C++ program reducer",
-                "href": "https://github.com/csmith-project/creduce"
-            },
-            {
-                "title": "whippet: A work-in-progress garbage collector for Guile",
-                "href": "https://github.com/wingo/whippet/"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "1-click Exploit in South Korea's biggest mobile chat app",
                 "href": "https://www.reddit.com/r/netsec/comments/1g81avh/1click_exploit_in_south_koreas_biggest_mobile/"
+            },
+            {
+                "title": "Attacking APIs using JSON Injection",
+                "href": "https://www.reddit.com/r/netsec/comments/1g8ey01/attacking_apis_using_json_injection/"
             },
             {
                 "title": "Escaping the Chrome Sandbox Through DevTools",
@@ -206,10 +210,6 @@
             {
                 "title": "MITRE Blog Post: Emulating complete, realistic attack chains with the new Caldera Bounty Hunter plugin",
                 "href": "https://www.reddit.com/r/netsec/comments/1fzq4t8/mitre_blog_post_emulating_complete_realistic/"
-            },
-            {
-                "title": "Exploiting AMD atdcm64a.sys arbitrary pointer dereference - Part 3",
-                "href": "https://www.reddit.com/r/netsec/comments/1fzqy2r/exploiting_amd_atdcm64asys_arbitrary_pointer/"
             }
         ]
     },
@@ -327,8 +327,8 @@
                 "href": "https://apple.slashdot.org/story/24/10/20/2023223/can-we-turn-off-ai-tools-from-google-microsoft-apple-and-meta-sometimes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
-                "title": "How WatchTowr Explored the Complexity of Vulnerability in a Secure Firewall Appliance",
-                "href": "https://it.slashdot.org/story/24/10/20/1955241/how-watchtowr-explored-the-complexity-of-vulnerability-in-a-secure-firewall-appliance?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+                "title": "How WatchTowr Explored the Complexity of a Vulnerability in a Secure Firewall Appliance",
+                "href": "https://it.slashdot.org/story/24/10/20/1955241/how-watchtowr-explored-the-complexity-of-a-vulnerability-in-a-secure-firewall-appliance?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
                 "title": "NASA's Artemis Mission To Moon Unveils New Spacesuit Designed By Prada",
@@ -871,48 +871,52 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "WebGPU-Based WiFi Simulator",
-                "href": "https://wifi-solver.com"
+                "title": "3D-Printed Active Electronics",
+                "href": "https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015"
             },
             {
-                "title": "A Console-Friendly Pastebin with binary support",
-                "href": "https://paste.c-net.org/"
+                "title": "Memory Safety Without Lifetime Parameters",
+                "href": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html"
             },
             {
                 "title": "Show HN: HN Update \u2013 Hourly News Broadcast of Top HN Stories",
                 "href": "https://hnup.date/"
             },
             {
+                "title": "WebGPU-Based WiFi Simulator",
+                "href": "https://wifi-solver.com"
+            },
+            {
                 "title": "Drasi: Microsoft's open source data processing platform for event-driven systems",
                 "href": "https://github.com/drasi-project/drasi-platform"
+            },
+            {
+                "title": "A Console-Friendly Pastebin with binary support",
+                "href": "https://paste.c-net.org/"
             },
             {
                 "title": "Kurt Vonnegut's lost board game published",
                 "href": "https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview"
             },
             {
-                "title": "Show HN: Create mind maps to learn new things using AI",
-                "href": "https://github.com/aotakeda/learn-thing"
-            },
-            {
                 "title": "Mosaic REALMAP: Explore Prague in detail with 1.26M images",
                 "href": "https://www.mosaic51.com/featured/mosaic-realmap-explore-prague-in-unprecedented-detail-with-1-26-million-images/"
-            },
-            {
-                "title": "How to do distributed locking (2016)",
-                "href": "https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html"
             },
             {
                 "title": "Sampling with SQL",
                 "href": "https://blog.moertel.com/posts/2024-08-23-sampling-with-sql.html"
             },
             {
-                "title": "C-Motive's electrostatic motors use printed circuit boards instead of magnets",
-                "href": "https://www.c-motive.com/technology/"
-            },
-            {
                 "title": "The AI Investment Boom",
                 "href": "https://www.apricitas.io/p/the-ai-investment-boom"
+            },
+            {
+                "title": "How to do distributed locking (2016)",
+                "href": "https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html"
+            },
+            {
+                "title": "C-Motive's electrostatic motors use printed circuit boards instead of magnets",
+                "href": "https://www.c-motive.com/technology/"
             },
             {
                 "title": "The Ultimate Conditional Syntax",
@@ -923,24 +927,8 @@
                 "href": "https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/"
             },
             {
-                "title": "Google's AI prophet fast tracks singularity prediction",
-                "href": "https://www.independent.co.uk/tech/ai-singularity-date-ray-kurzweil-google-b2511847.html"
-            },
-            {
                 "title": "The IPv6 Transition",
                 "href": "https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html"
-            },
-            {
-                "title": "Using Euro coins as weights (2004)",
-                "href": "https://www.rubinghscience.org/surv/euroweights1.html"
-            },
-            {
-                "title": "VersaTiles \u2013 a complete FLOSS map stack",
-                "href": "https://versatiles.org/"
-            },
-            {
-                "title": "The Part of PostgreSQL We Hate the Most (2023)",
-                "href": "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
             },
             {
                 "title": "Microsoft said it lost weeks of security logs for its customers' cloud products",
@@ -951,44 +939,56 @@
                 "href": "https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8"
             },
             {
-                "title": "The empire of C++ strikes back with Safe C++ blueprint",
-                "href": "https://www.theregister.com/2024/09/16/safe_c_plusplus/"
+                "title": "Using Euro coins as weights (2004)",
+                "href": "https://www.rubinghscience.org/surv/euroweights1.html"
             },
             {
-                "title": "Blocking code is a leaky abstraction",
-                "href": "https://notgull.net/blocking-leaky/"
-            },
-            {
-                "title": "Show HN: Semantic Macros Text Editor",
-                "href": "https://samtxt.samrawal.com/"
-            },
-            {
-                "title": "Scratches in 2001: A Space Osyssey (2018)",
-                "href": "https://aphelis.net/scratches-kubrick-2001-space-odyssey/"
-            },
-            {
-                "title": "The History of the Barcode",
-                "href": "https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist"
-            },
-            {
-                "title": "All-optical switch device paves way for faster fiber-optic communication",
-                "href": "https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html"
-            },
-            {
-                "title": "David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.",
-                "href": "https://www.youtube.com/watch?v=P_vbYmPm_zU"
+                "title": "The Part of PostgreSQL We Hate the Most (2023)",
+                "href": "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
             },
             {
                 "title": "If you're curious why every username is a domain, it's because users are sites",
                 "href": "https://bsky.app/profile/pfrazee.com/post/3l6xwi52zti2y"
             },
             {
-                "title": "Today is Ubuntu's 20th Anniversary",
-                "href": "https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html"
+                "title": "The History of the Barcode",
+                "href": "https://www.bbc.com/future/article/20241018-barcodes-at-75-how-black-and-white-lines-went-into-space-and-stoked-fears-of-the-antichrist"
+            },
+            {
+                "title": "Blocking code is a leaky abstraction",
+                "href": "https://notgull.net/blocking-leaky/"
+            },
+            {
+                "title": "Show HN: Create mind maps to learn new things using AI",
+                "href": "https://github.com/aotakeda/learn-thing"
+            },
+            {
+                "title": "VersaTiles \u2013 a complete FLOSS map stack",
+                "href": "https://versatiles.org/"
+            },
+            {
+                "title": "Scratches in 2001: A Space Osyssey (2018)",
+                "href": "https://aphelis.net/scratches-kubrick-2001-space-odyssey/"
+            },
+            {
+                "title": "David Lynch Interview Project: 121 Episodes from 20k-Mile Road Trip Across U.S.",
+                "href": "https://www.youtube.com/watch?v=P_vbYmPm_zU"
+            },
+            {
+                "title": "All-optical switch device paves way for faster fiber-optic communication",
+                "href": "https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html"
             },
             {
                 "title": "555 Timer Circuits",
                 "href": "https://www.555-timer-circuits.com/"
+            },
+            {
+                "title": "Show HN: Semantic Macros Text Editor",
+                "href": "https://samtxt.samrawal.com/"
+            },
+            {
+                "title": "Today is Ubuntu's 20th Anniversary",
+                "href": "https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html"
             }
         ]
     }
