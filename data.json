@@ -27,12 +27,20 @@
                 "href": "https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide"
             },
             {
+                "title": "Use data that looks like data",
+                "href": "https://registerspill.thorstenball.com/p/use-data-that-looks-like-data"
+            },
+            {
                 "title": "20 years of Linux on the Desktop (part 1)",
                 "href": "https://ploum.net/2024-10-20-20years-linux-desktop-part1.html"
             },
             {
-                "title": "Use data that looks like data",
-                "href": "https://registerspill.thorstenball.com/p/use-data-that-looks-like-data"
+                "title": "Announcing Determinate Nix",
+                "href": "https://determinate.systems/posts/announcing-determinate-nix/"
+            },
+            {
+                "title": "Debug Go core dumps with delve: export byte slices",
+                "href": "https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/"
             },
             {
                 "title": "Jujutsu in practice",
@@ -47,16 +55,16 @@
                 "href": "https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/"
             },
             {
-                "title": "Announcing Determinate Nix",
-                "href": "https://determinate.systems/posts/announcing-determinate-nix/"
-            },
-            {
                 "title": "An opinionated beginner's guide to Haskell in mid-2019 (2019)",
                 "href": "https://typesanitizer.com/blog/haskell-opinions-2019.html"
             },
             {
                 "title": "Wired\u2019s Attack on (\u201cPrivacy\u201d|[SimpleX Chat])",
                 "href": "https://simplex.chat/blog/20241016-wired-attack-on-privacy.html"
+            },
+            {
+                "title": "Modular Borrowing Without Ownership or Linear Types",
+                "href": "https://2024.splashcon.org/details/iwaco-2024-papers/5/Modular-Borrowing-Without-Ownership-or-Linear-Types"
             },
             {
                 "title": "Naming Conventions That Need to Die (2018)",
@@ -67,24 +75,24 @@
                 "href": "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
             },
             {
-                "title": "Modular Borrowing Without Ownership or Linear Types",
-                "href": "https://2024.splashcon.org/details/iwaco-2024-papers/5/Modular-Borrowing-Without-Ownership-or-Linear-Types"
-            },
-            {
-                "title": "Debug Go core dumps with delve: export byte slices",
-                "href": "https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/"
+                "title": "Taming the buck with a Type III compensator",
+                "href": "https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator"
             },
             {
                 "title": "MIME types and atom bombs",
                 "href": "https://evanhahn.com/mime-types-and-atom-bombs/"
             },
             {
+                "title": "\u2018Reflections on Trusting Trust\u2019, but completely by accident this time",
+                "href": "https://secret.club/2024/10/21/unnecessarily-exhaustice-rca.html"
+            },
+            {
                 "title": "UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market",
                 "href": "https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf"
             },
             {
-                "title": "Taming the buck with a Type III compensator",
-                "href": "https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator"
+                "title": "The Crime Messenger: How Sky ECC Phones Became a Tool of the Criminal Trade",
+                "href": "https://www.occrp.org/en/project/the-crime-messenger"
             },
             {
                 "title": "There is no such thing as a global method (in Ruby)",
@@ -93,14 +101,6 @@
             {
                 "title": "Tauri 2.0 Stable Release",
                 "href": "https://tauri.app/blog/tauri-20/"
-            },
-            {
-                "title": "Naming things (2021)",
-                "href": "https://wiki.dpk.io/naming-things.html"
-            },
-            {
-                "title": "The Crime Messenger: How Sky ECC Phones Became a Tool of the Criminal Trade",
-                "href": "https://www.occrp.org/en/project/the-crime-messenger"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Anthropic's AI Model Gains Computer Control in New Upgrade",
+                "href": "https://slashdot.org/story/24/10/22/168256/anthropics-ai-model-gains-computer-control-in-new-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Democrats Press For Criminal Charges Against Tax Prep Firms Over Data Sharing",
                 "href": "https://news.slashdot.org/story/24/10/22/1511245/democrats-press-for-criminal-charges-against-tax-prep-firms-over-data-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Arkansas May Have Vast Lithium Reserves, Researchers Say",
                 "href": "https://hardware.slashdot.org/story/24/10/21/1915242/arkansas-may-have-vast-lithium-reserves-researchers-say?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Tim Cook Knows Apple Isn't First in AI but Says 'It's About Being the Best'",
-                "href": "https://apple.slashdot.org/story/24/10/21/1750249/tim-cook-knows-apple-isnt-first-in-ai-but-says-its-about-being-the-best?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -762,6 +762,54 @@
                 "href": "https://packetstormsecurity.com/news/view/36492/Microsoft-macOS-Vulnerability-Potentially-Exploited-In-Adware-Attacks.html"
             },
             {
+                "title": "Debian Security Advisory 5795-1",
+                "href": "https://packetstormsecurity.com/files/182306/dsa-5795-1.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5794-1",
+                "href": "https://packetstormsecurity.com/files/182305/dsa-5794-1.txt"
+            },
+            {
+                "title": "ABB Cylon Aspect 3.08.01 persistenceManagerAjax.php Command Injection",
+                "href": "https://packetstormsecurity.com/files/182304/ZSL-2024-5846.txt"
+            },
+            {
+                "title": "DTLS ClientHello Race Conditions In WebRTC Implementations",
+                "href": "https://packetstormsecurity.com/files/182303/webrtc-hello-race-conditions-paper.pdf"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7080-1",
+                "href": "https://packetstormsecurity.com/files/182302/USN-7080-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7078-1",
+                "href": "https://packetstormsecurity.com/files/182301/USN-7078-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7072-2",
+                "href": "https://packetstormsecurity.com/files/182300/USN-7072-2.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7062-2",
+                "href": "https://packetstormsecurity.com/files/182299/USN-7062-2.txt"
+            },
+            {
+                "title": "Linux Dangling PFN Mapping / Use-After-Free",
+                "href": "https://packetstormsecurity.com/files/182298/GS20241022366053091.tgz"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7042-3",
+                "href": "https://packetstormsecurity.com/files/182297/USN-7042-3.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-8014-03",
+                "href": "https://packetstormsecurity.com/files/182296/RHSA-2024-8014-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-7759-03",
+                "href": "https://packetstormsecurity.com/files/182295/RHSA-2024-7759-03.txt"
+            },
+            {
                 "title": "Ubuntu Security Notice USN-7077-1",
                 "href": "https://packetstormsecurity.com/files/182294/USN-7077-1.txt"
             },
@@ -812,54 +860,6 @@
             {
                 "title": "Ubuntu Security Notice USN-7028-2",
                 "href": "https://packetstormsecurity.com/files/182282/USN-7028-2.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-7059-2",
-                "href": "https://packetstormsecurity.com/files/182281/USN-7059-2.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-8116-03",
-                "href": "https://packetstormsecurity.com/files/182280/RHSA-2024-8116-03.txt"
-            },
-            {
-                "title": "ABB Cylon Aspect 3.08.01 networkDiagAjax.php Remote Network Utility Execution",
-                "href": "https://packetstormsecurity.com/files/182279/ZSL-2024-5844.txt"
-            },
-            {
-                "title": "SofaWiki 3.9.2 Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/182278/sofawiki392r-xss.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-7073-1",
-                "href": "https://packetstormsecurity.com/files/182277/USN-7073-1.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-8180-03",
-                "href": "https://packetstormsecurity.com/files/182276/RHSA-2024-8180-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-8179-03",
-                "href": "https://packetstormsecurity.com/files/182275/RHSA-2024-8179-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-8129-03",
-                "href": "https://packetstormsecurity.com/files/182274/RHSA-2024-8129-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-8128-03",
-                "href": "https://packetstormsecurity.com/files/182273/RHSA-2024-8128-03.txt"
-            },
-            {
-                "title": "SofaWiki 3.9.2 Cross Site Scripting",
-                "href": "https://packetstormsecurity.com/files/182272/sofawiki392-xss.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-8127-03",
-                "href": "https://packetstormsecurity.com/files/182271/RHSA-2024-8127-03.txt"
-            },
-            {
-                "title": "SofaWiki 3.9.2 Shell Upload",
-                "href": "https://packetstormsecurity.com/files/182270/sofawiki392-shell.txt"
             }
         ]
     },
@@ -867,20 +867,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-                "href": "https://www.anthropic.com/news/3-5-models-and-computer-use"
-            },
-            {
                 "title": "Show HN: Rust Web Framework",
                 "href": "https://github.com/levkk/rwf"
             },
             {
-                "title": "Tog's Paradox",
-                "href": "https://www.votito.com/methods/togs-paradox/"
+                "title": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+                "href": "https://www.anthropic.com/news/3-5-models-and-computer-use"
             },
             {
-                "title": "One Plus One Equals Two (2006)",
-                "href": "https://blog.plover.com/math/PM.html"
+                "title": "Tog's Paradox",
+                "href": "https://www.votito.com/methods/togs-paradox/"
             },
             {
                 "title": "FTC's rule banning fake online reviews goes into effect",
@@ -899,20 +895,28 @@
                 "href": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/"
             },
             {
-                "title": "MQTT turns 25",
-                "href": "https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/"
+                "title": "We built a new powerful JSON data type for ClickHouse",
+                "href": "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse"
+            },
+            {
+                "title": "One Plus One Equals Two (2006)",
+                "href": "https://blog.plover.com/math/PM.html"
+            },
+            {
+                "title": "Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs",
+                "href": "https://arxiv.org/abs/2410.13857"
             },
             {
                 "title": "Understanding Gaussians",
                 "href": "https://gestalt.ink/gaussians"
             },
             {
-                "title": "Just want simple TLS for your .internal network?",
-                "href": "https://github.com/nh2/internal-contstrained-pki"
+                "title": "MQTT turns 25",
+                "href": "https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/"
             },
             {
-                "title": "Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs",
-                "href": "https://arxiv.org/abs/2410.13857"
+                "title": "Just want simple TLS for your .internal network?",
+                "href": "https://github.com/nh2/internal-contstrained-pki"
             },
             {
                 "title": "MixRank (YC S11) Is Hiring Software Engineers and Ex-Founders Globally",
@@ -927,24 +931,20 @@
                 "href": "https://spectrum.ieee.org/patent-engineer-lesley-ann-knee"
             },
             {
-                "title": "Learning to Learn",
-                "href": "https://kevin.the.li/posts/learning-to-learn/"
-            },
-            {
-                "title": "Writing a Mathematica Interpreter in Typescript",
-                "href": "https://www.spakhm.com/ts-wolfram"
-            },
-            {
                 "title": "The Journal of Open Source Software",
                 "href": "https://joss.theoj.org"
+            },
+            {
+                "title": "Learning to Learn",
+                "href": "https://kevin.the.li/posts/learning-to-learn/"
             },
             {
                 "title": "An amateur historian has discovered a long-lost short story by Bram Stoker",
                 "href": "https://www.bbc.com/news/articles/c4g9119l64qo"
             },
             {
-                "title": "Probabalistic Spin Glass (2022)",
-                "href": "https://bytepawn.com/probabilistic-spin-glass-conclusion.html"
+                "title": "Writing a Mathematica Interpreter in Typescript",
+                "href": "https://www.spakhm.com/ts-wolfram"
             },
             {
                 "title": "Show HN: Data Formulator \u2013\u00a0AI-powered data visualization from Microsoft Research",
@@ -955,20 +955,28 @@
                 "href": "https://civet.dev/"
             },
             {
-                "title": "Against /Tmp",
-                "href": "https://dotat.at/@/2024-10-22-tmp.html"
+                "title": "Probabalistic Spin Glass (2022)",
+                "href": "https://bytepawn.com/probabilistic-spin-glass-conclusion.html"
+            },
+            {
+                "title": "Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost",
+                "href": "https://imageupscaler.io/"
             },
             {
                 "title": "A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending",
                 "href": "https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending"
             },
             {
+                "title": "Against /Tmp",
+                "href": "https://dotat.at/@/2024-10-22-tmp.html"
+            },
+            {
                 "title": "Building a Game with the Real Engine",
                 "href": "https://novalis.org/blog/2024-10-18-building-a-game-with-the-real-engine.html"
             },
             {
-                "title": "Mind Wandering: More than a Bad Habit (2018) [pdf]",
-                "href": "https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/202._mind_wandering.pdf"
+                "title": "Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python",
+                "href": "https://github.com/plasma-umass/scalene"
             },
             {
                 "title": "When machines could see you",
@@ -977,14 +985,6 @@
             {
                 "title": "New discovery reveals how diatoms capture CO2 so effectively",
                 "href": "https://www.unibas.ch/en/News-Events/News/Uni-Research/New-discovery-reveals-how-diatoms-capture-CO2-so-effectively-.html"
-            },
-            {
-                "title": "Scalene: A high-performance, high-precision CPU, GPU, memory profiler for Python",
-                "href": "https://github.com/plasma-umass/scalene"
-            },
-            {
-                "title": "Anthropic Claude 3.5 Sonnet and Haiku",
-                "href": "https://twitter.com/anthropicai/status/1848742740420341988"
             }
         ]
     }
