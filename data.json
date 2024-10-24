@@ -15,20 +15,20 @@
                 "href": "https://registerspill.thorstenball.com/p/rust-prism"
             },
             {
-                "title": "Against /tmp",
-                "href": "https://dotat.at/@/2024-10-22-tmp.html"
-            },
-            {
                 "title": "Async Rust in Three Parts",
                 "href": "https://jacko.io/async_intro.html"
             },
             {
-                "title": "Ghostty 1.0 is Coming",
-                "href": "https://mitchellh.com/writing/ghostty-is-coming"
+                "title": "Against /tmp",
+                "href": "https://dotat.at/@/2024-10-22-tmp.html"
             },
             {
                 "title": "Announcing Toasty, an async ORM for Rust",
                 "href": "https://tokio.rs/blog/2024-10-23-announcing-toasty"
+            },
+            {
+                "title": "Ghostty 1.0 is Coming",
+                "href": "https://mitchellh.com/writing/ghostty-is-coming"
             },
             {
                 "title": "Why do arrays start at 0?",
@@ -39,16 +39,24 @@
                 "href": "https://explaining.software/archive/making-things-better/"
             },
             {
-                "title": "The Halloween Problem in Databases",
-                "href": "https://en.wikipedia.org/wiki/Halloween_Problem"
-            },
-            {
                 "title": "On the Importance of Typing Fast (2023)",
                 "href": "https://www.rugu.dev/en/blog/on-typing-fast/"
             },
             {
+                "title": "The Halloween Problem in Databases",
+                "href": "https://en.wikipedia.org/wiki/Halloween_Problem"
+            },
+            {
                 "title": "Rustls Outperforms OpenSSL and BoringSSL",
                 "href": "https://www.memorysafety.org/blog/rustls-performance-outperforms/"
+            },
+            {
+                "title": "The Global Surveillance Free-for-All in Mobile Ad Data",
+                "href": "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
+            },
+            {
+                "title": "Compressed Apache Arrow Tables Over HTTP",
+                "href": "https://felipe.rs/2024/10/23/arrow-over-http/"
             },
             {
                 "title": "New powerful JSON data type for ClickHouse",
@@ -61,10 +69,6 @@
             {
                 "title": "Our optimizers need a rethink",
                 "href": "https://typesanitizer.com/blog/rethink-optimizers.html"
-            },
-            {
-                "title": "The Global Surveillance Free-for-All in Mobile Ad Data",
-                "href": "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
             },
             {
                 "title": "Using Nix to Fuzz Test a PDF Parser",
@@ -97,10 +101,6 @@
             {
                 "title": "Solving the Mystery of ARM7TDMI Multiply Carry Flag",
                 "href": "https://bmchtech.github.io/post/multiply/"
-            },
-            {
-                "title": "Adding row polymorphism to Damas-Hindley-Milner",
-                "href": "https://bernsteinbear.com/blog/row-poly/"
             }
         ]
     },
@@ -124,12 +124,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1ga3q6r/sql_injection_polyglots_nastystereocom/"
             },
             {
-                "title": "Auth RCE in multiple Xerox printer series",
-                "href": "https://www.reddit.com/r/netsec/comments/1ga5ume/auth_rce_in_multiple_xerox_printer_series/"
-            },
-            {
                 "title": "Using Nix to Fuzz Test a PDF Parser",
                 "href": "https://www.reddit.com/r/netsec/comments/1gacmet/using_nix_to_fuzz_test_a_pdf_parser/"
+            },
+            {
+                "title": "Auth RCE in multiple Xerox printer series",
+                "href": "https://www.reddit.com/r/netsec/comments/1ga5ume/auth_rce_in_multiple_xerox_printer_series/"
             },
             {
                 "title": "The EMBA binary analyzer addresses SBOMs with new release - SBOMdorado v1.5.0 is available",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Norway To Increase Minimum Age Limit On Social Media To 15 To Protect Children",
+                "href": "https://tech.slashdot.org/story/24/10/23/2228202/norway-to-increase-minimum-age-limit-on-social-media-to-15-to-protect-children?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Huawei Makes Divorce From Android Official With HarmonyOS NEXT Launch",
                 "href": "https://slashdot.org/story/24/10/23/2221234/huawei-makes-divorce-from-android-official-with-harmonyos-next-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Foursquare To Kill Its City Guide App",
                 "href": "https://slashdot.org/story/24/10/23/1137243/foursquare-to-kill-its-city-guide-app?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Why is Apple So Bad at Marketing Its TV Shows?",
-                "href": "https://apple.slashdot.org/story/24/10/23/1229226/why-is-apple-so-bad-at-marketing-its-tv-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -871,12 +871,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Show HN: Wall-mounted diffusion mirror that turns reflections into paintings",
+                "href": "https://www.matthieulc.com/posts/pablonet/"
+            },
+            {
                 "title": "Everything I built with Claude Artifacts this week",
                 "href": "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
             },
             {
-                "title": "Show HN: Wall-mounted diffusion mirror that turns reflections into paintings",
-                "href": "https://www.matthieulc.com/posts/pablonet/"
+                "title": "After 16 years of development, Postbox Inc. is winding down its operations",
+                "href": "https://support.postbox-inc.com/hc/en-us/articles/26988085310103-Postbox-has-been-acquired-by-eM-Client"
             },
             {
                 "title": "Playstation Vita Architecture (Part 1)",
@@ -887,12 +891,20 @@
                 "href": "https://www.davidreis.me/2024/what-happens-when-you-make-a-move-in-lichess"
             },
             {
+                "title": "NetGuard \u2013 rootless Android outbound per-app OSS firewall, like LittleSnitch",
+                "href": "https://netguard.me/"
+            },
+            {
+                "title": "Ask HN: Is It Wrong to Use My Personal Laptop for Work?",
+                "href": "item?id=41924045"
+            },
+            {
                 "title": "Show HN: Open-source low-code email editor",
                 "href": "https://github.com/dittofeed/dittofeed/tree/main/packages/emailo"
             },
             {
-                "title": "Taming the buck with a Type III compensator",
-                "href": "https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator"
+                "title": "It has been [33] days since the last Hubris kernel bug",
+                "href": "https://hubris.oxide.computer/bugs/"
             },
             {
                 "title": "Probably pay attention to tokenizers",
@@ -903,92 +915,80 @@
                 "href": "https://pypy.org/posts/2024/10/jit-peephole-dsl.html"
             },
             {
-                "title": "My NumPy year: Creating a DType for the next generation of scientific computing",
-                "href": "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
-            },
-            {
-                "title": "Parks on the Air",
-                "href": "https://parksontheair.com/index.html"
-            },
-            {
-                "title": "Launch HN: GPT Driver (YC S21) \u2013 End-to-end app testing in natural language",
-                "href": "item?id=41924787"
+                "title": "Irreproducible Results",
+                "href": "https://kk.org/thetechnium/irreproducible/"
             },
             {
                 "title": "Async Rust in Three Parts",
                 "href": "https://jacko.io/async_intro.html"
             },
             {
-                "title": "Show HN: A macOS Client for HuggingFace Chat",
-                "href": "https://github.com/huggingface/chat-macOS"
+                "title": "Launch HN: GPT Driver (YC S21) \u2013 End-to-end app testing in natural language",
+                "href": "item?id=41924787"
+            },
+            {
+                "title": "Parks on the Air",
+                "href": "https://parksontheair.com/index.html"
+            },
+            {
+                "title": "My NumPy year: Creating a DType for the next generation of scientific computing",
+                "href": "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
+            },
+            {
+                "title": "Taming the buck with a Type III compensator",
+                "href": "https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator"
             },
             {
                 "title": "Show HN: I built a task manager that separates \"do\" and \"due\" dates",
                 "href": "https://apps.apple.com/us/app/zesfy-planner-calendar/id6479947874"
             },
             {
-                "title": "Irreproducible Results",
-                "href": "https://kk.org/thetechnium/irreproducible/"
+                "title": "Reinforcement Learning: An Introduction (2018)",
+                "href": "http://incompleteideas.net/book/the-book-2nd.html"
             },
             {
                 "title": "Bulk optimization of queries in Postgres",
                 "href": "https://substack.com/home/post/p-150506520"
             },
             {
-                "title": "Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure",
-                "href": "https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/"
-            },
-            {
-                "title": "Reinforcement Learning: An Introduction (2018)",
-                "href": "http://incompleteideas.net/book/the-book-2nd.html"
-            },
-            {
-                "title": "It has been [33] days since the last Hubris kernel bug",
-                "href": "https://hubris.oxide.computer/bugs/"
-            },
-            {
-                "title": "GitButler now supports first class conflicts, making rebasing less annoying",
-                "href": "https://blog.gitbutler.com/fearless-rebasing/"
+                "title": "The Tragedy of Google Books (2017)",
+                "href": "https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/"
             },
             {
                 "title": "Seeing faces in things: A model and dataset for pareidolia",
                 "href": "https://mhamilton.net/facesinthings"
             },
             {
+                "title": "Fearless SSH: Short-lived certificates bring Zero Trust to infrastructure",
+                "href": "https://blog.cloudflare.com/intro-access-for-infrastructure-ssh/"
+            },
+            {
                 "title": "Goldman and Apple 'illegally sidestepped' obligations to credit-card customers",
                 "href": "https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html"
-            },
-            {
-                "title": "The Tragedy of Google Books (2017)",
-                "href": "https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/"
-            },
-            {
-                "title": "Tesla has been testing a robotaxi service in the Bay Area for most of the year",
-                "href": "https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees"
-            },
-            {
-                "title": "DawVert \u2013 a DAW project file converter",
-                "href": "https://github.com/SatyrDiamond/DawVert"
             },
             {
                 "title": "The Incredible Machine (1968) [video]",
                 "href": "https://www.youtube.com/watch?v=iwVu2BWLZqA"
             },
             {
-                "title": "Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine",
-                "href": "https://github.com/corbt/agent.exe"
+                "title": "DawVert \u2013 a DAW project file converter",
+                "href": "https://github.com/SatyrDiamond/DawVert"
             },
             {
                 "title": "Shanghai Before the Foreigners",
                 "href": "https://jaapgrolleman.com/shanghai-before-the-foreigners/"
             },
             {
-                "title": "The global surveillance free-for-all in mobile ad data",
-                "href": "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
+                "title": "Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine",
+                "href": "https://github.com/corbt/agent.exe"
             },
             {
-                "title": "Toasty, an Async ORM for Rust",
-                "href": "https://tokio.rs/blog/2024-10-23-announcing-toasty"
+                "title": "Show HN: Srcbook \u2013 Self-hosted alternative to AI app builders",
+                "href": "https://github.com/srcbookdev/srcbook/blob/main/README.md"
+            },
+            {
+                "title": "The global surveillance free-for-all in mobile ad data",
+                "href": "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
             }
         ]
     }
