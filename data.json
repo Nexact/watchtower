@@ -47,6 +47,14 @@
                 "href": "https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/"
             },
             {
+                "title": "Type Tailoring",
+                "href": "https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf"
+            },
+            {
+                "title": "Why did you write a new RTOS for CHERIoT?",
+                "href": "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
+            },
+            {
                 "title": "Rust Prism",
                 "href": "https://registerspill.thorstenball.com/p/rust-prism"
             },
@@ -55,8 +63,8 @@
                 "href": "https://security.apple.com/blog/pcc-security-research/"
             },
             {
-                "title": "Why did you write a new RTOS for CHERIoT?",
-                "href": "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
+                "title": "Introducing quantized Llama models with increased speed and a reduced memory footprint",
+                "href": "https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/"
             },
             {
                 "title": "The Structure of a Programming Language Revolution (2012)",
@@ -67,10 +75,6 @@
                 "href": "https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/"
             },
             {
-                "title": "Type Tailoring",
-                "href": "https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf"
-            },
-            {
                 "title": "Announcing Toasty, an async ORM for Rust",
                 "href": "https://tokio.rs/blog/2024-10-23-announcing-toasty"
             },
@@ -79,28 +83,24 @@
                 "href": "https://www.artmann.co/articles/react-on-the-server-is-not-php"
             },
             {
-                "title": "Introducing quantized Llama models with increased speed and a reduced memory footprint",
-                "href": "https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/"
-            },
-            {
                 "title": "Request-reply in Postgres",
                 "href": "https://blog.sequinstream.com/request-reply-in-postgres/"
+            },
+            {
+                "title": "A line map for Milano's trams in TeX",
+                "href": "https://stuebinm.eu/posts/milano-tram-network.html"
             },
             {
                 "title": "Using Rust in Non-Rust Servers to Improve Performance",
                 "href": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
             },
             {
-                "title": "Our container platform is in production. It has GPUs. Here\u2019s an early look",
-                "href": "https://blog.cloudflare.com/container-platform-preview/"
+                "title": "Private Cloud Compute Security Guide",
+                "href": "https://security.apple.com/documentation/private-cloud-compute"
             },
             {
-                "title": "SERVFAIL: the first 100 days",
-                "href": "https://sdomi.pl/weblog/22-servfail-the-first-100-days/"
-            },
-            {
-                "title": "Automated Verification of Go Programs via Bounded Model Checking (2021)",
-                "href": "https://pure.royalholloway.ac.uk/ws/portalfiles/portal/43117606/main.pdf"
+                "title": "A Typed Foundation for Directional Logic Programming",
+                "href": "https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Apple creates Private Cloud Compute VM to let researchers find bugs",
+                "href": "https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/"
+            },
+            {
                 "title": "Henry Schein discloses data breach a year after ransomware attack",
                 "href": "https://www.bleepingcomputer.com/news/security/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Lazarus hackers used fake DeFi game to exploit Google Chrome zero-day",
                 "href": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-used-fake-defi-game-to-exploit-google-chrome-zero-day/"
-            },
-            {
-                "title": "Google to let businesses create curated Chrome Web Stores for extensions",
-                "href": "https://www.bleepingcomputer.com/news/google/google-to-let-businesses-create-curated-chrome-web-stores-for-extensions/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Georgian Authorities Raid Homes of Disinformation Researchers Ahead of Elections",
+                "href": "https://politics.slashdot.org/story/24/10/24/2024241/georgian-authorities-raid-homes-of-disinformation-researchers-ahead-of-elections?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Amazon To Shut Down Speedy Brick-and-Mortar Delivery Service",
                 "href": "https://slashdot.org/story/24/10/24/2020220/amazon-to-shut-down-speedy-brick-and-mortar-delivery-service?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Journals With High Rates of Suspicious Papers Flagged By Science-Integrity Startup",
                 "href": "https://science.slashdot.org/story/24/10/24/0155247/journals-with-high-rates-of-suspicious-papers-flagged-by-science-integrity-startup?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Humanoid Robot Is the 'Fastest In the World' Thanks To Pair of Sneakers",
-                "href": "https://hardware.slashdot.org/story/24/10/24/0147247/humanoid-robot-is-the-fastest-in-the-world-thanks-to-pair-of-sneakers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -883,40 +883,44 @@
                 "href": "https://www.circle-lang.org/draft-profiles.html"
             },
             {
-                "title": "Security research on Private Cloud Compute",
-                "href": "https://security.apple.com/blog/pcc-security-research/"
-            },
-            {
                 "title": "Brush \u2013 A new compatible Gaussian splatting engine",
                 "href": "https://github.com/ArthurBrussee/brush"
+            },
+            {
+                "title": "Security research on Private Cloud Compute",
+                "href": "https://security.apple.com/blog/pcc-security-research/"
             },
             {
                 "title": "Zigler: Zig NIFs in Elixir",
                 "href": "https://github.com/E-xyza/zigler"
             },
             {
-                "title": "Show HN: TypeSchema \u2013 A JSON specification to describe data models",
-                "href": "https://typeschema.org/"
-            },
-            {
                 "title": "Post World War II Food",
                 "href": "https://www.nps.gov/articles/post-wwii-food.htm"
-            },
-            {
-                "title": "Viva Labs (YC W22) is hiring a video/image AI research lead",
-                "href": "https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead"
             },
             {
                 "title": "Never Missing the Train Again",
                 "href": "https://lilymara.xyz/posts/2024/01/transit-kindle/"
             },
             {
-                "title": "The Lion of St. Mark's Square in Venice Is Chinese",
-                "href": "https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/"
+                "title": "Show HN: TypeSchema \u2013 A JSON specification to describe data models",
+                "href": "https://typeschema.org/"
+            },
+            {
+                "title": "Viva Labs (YC W22) is hiring a video/image AI research lead",
+                "href": "https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead"
             },
             {
                 "title": "Show HN: 2048 turned 10 this year, I built an updated version to celebrate",
                 "href": "https://play2048.co"
+            },
+            {
+                "title": "The Lion of St. Mark's Square in Venice Is Chinese",
+                "href": "https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/"
+            },
+            {
+                "title": "Show HN: The Best Free Online Teleprompter?",
+                "href": "https://iphoneteleprompter.com/"
             },
             {
                 "title": "Data viz project that maps all earthquakes by magnitude",
@@ -931,28 +935,32 @@
                 "href": "https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/"
             },
             {
-                "title": "Rider is now free for non-commercial use",
-                "href": "https://www.jetbrains.com/rider/"
-            },
-            {
-                "title": "BYD EV teardown in Japan reveals secrets to its affordability",
-                "href": "https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/"
-            },
-            {
                 "title": "Self-Documenting Code",
                 "href": "https://lackofimagination.org/2024/10/self-documenting-code/"
             },
             {
-                "title": "Claude Computer Use \u2013 Is Vision the Ultimate API?",
-                "href": "https://www.thariq.io/blog/claudecomputer/"
+                "title": "Rider is now free for non-commercial use",
+                "href": "https://www.jetbrains.com/rider/"
+            },
+            {
+                "title": "Working with Igalia to Improve RISC-V LLVM Continuous Integration",
+                "href": "https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/"
             },
             {
                 "title": "The Anvil Text Editor",
                 "href": "http://anvil-editor.net/"
             },
             {
-                "title": "Fast Development with Zed and Dev Containers",
-                "href": "https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635"
+                "title": "BYD EV teardown in Japan reveals secrets to its affordability",
+                "href": "https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/"
+            },
+            {
+                "title": "Claude Computer Use \u2013 Is Vision the Ultimate API?",
+                "href": "https://www.thariq.io/blog/claudecomputer/"
+            },
+            {
+                "title": "Show HN: Desktop Sandbox for Secure Cloud Computer Use",
+                "href": "https://github.com/e2b-dev/desktop"
             },
             {
                 "title": "LibLISA \u2013 Instruction Discovery and Analysis on x86-64",
@@ -963,28 +971,20 @@
                 "href": "https://arxiv.org/abs/2410.18004"
             },
             {
+                "title": "Fast Development with Zed and Dev Containers",
+                "href": "https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635"
+            },
+            {
                 "title": "Show HN: PreCog AI \u2013 Automatic AI Model Selection for Any Task",
                 "href": "https://precog.ubik.studio/"
-            },
-            {
-                "title": "Working with Igalia to Improve RISC-V LLVM Continuous Integration",
-                "href": "https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/"
-            },
-            {
-                "title": "Quit Social Media (2016)",
-                "href": "https://calnewport.com/quit-social-media/"
-            },
-            {
-                "title": "Show HN: Desktop Sandbox for Secure Cloud Computer Use",
-                "href": "https://github.com/e2b-dev/desktop"
             },
             {
                 "title": "Why did you write a new RTOS for CHERIoT?",
                 "href": "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
             },
             {
-                "title": "Calculating the norm of a complex number",
-                "href": "https://eli.thegreenplace.net/2024/calculating-the-norm-of-a-complex-number/"
+                "title": "Quit Social Media (2016)",
+                "href": "https://calnewport.com/quit-social-media/"
             },
             {
                 "title": "Show HN: RF Hunter \u2013 Find hidden cameras and other devices",
