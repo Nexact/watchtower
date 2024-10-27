@@ -19,12 +19,12 @@
                 "href": "https://bokwoon.com/posts/1khtfep-an-ode-to-vim/"
             },
             {
-                "title": "Robots.txt pitfalls: what I learned the hard way",
-                "href": "https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard"
-            },
-            {
                 "title": "Using less memory to look up IP addresses in Mess With DNS",
                 "href": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"
+            },
+            {
+                "title": "Robots.txt pitfalls: what I learned the hard way",
+                "href": "https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard"
             },
             {
                 "title": "Typeset: An HTML pre-proces\u00adsor for web ty\u00adpog\u00adra\u00adphy",
@@ -35,20 +35,28 @@
                 "href": "http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html"
             },
             {
+                "title": "Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware",
+                "href": "https://www.vldb.org/pvldb/vol17/p2115-leis.pdf"
+            },
+            {
                 "title": "Transaction Isolation in Postgres, explained",
                 "href": "https://www.thenile.dev/blog/transaction-isolation-postgres"
+            },
+            {
+                "title": "Mutation Testing Better Than Coverage",
+                "href": "https://youtu.be/Ed6Ocs3U1v4"
             },
             {
                 "title": "Understanding Round Robin DNS",
                 "href": "https://blog.hyperknot.com/p/understanding-round-robin-dns"
             },
             {
-                "title": "The Basics",
-                "href": "https://registerspill.thorstenball.com/p/the-basics"
-            },
-            {
                 "title": "Rudimentary 3D on the 2D HTML Canvas",
                 "href": "https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html"
+            },
+            {
+                "title": "The Basics",
+                "href": "https://registerspill.thorstenball.com/p/the-basics"
             },
             {
                 "title": "The Zero Click Internet",
@@ -93,14 +101,6 @@
             {
                 "title": "Why those particular integer multiplies?",
                 "href": "https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/"
-            },
-            {
-                "title": "Improving SSH's security with SSHFP DNS records (2022)",
-                "href": "https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/"
-            },
-            {
-                "title": "Classic 3D videogame shadow techniques",
-                "href": "https://30fps.net/pages/videogame-shadows/"
             }
         ]
     },
@@ -114,10 +114,6 @@
             {
                 "title": "Retrofitting encrypted firmware is a Bad Idea\u2122",
                 "href": "https://www.reddit.com/r/netsec/comments/1gda1sp/retrofitting_encrypted_firmware_is_a_bad_idea/"
-            },
-            {
-                "title": "Scammers blackmail people using 'digital arrest'",
-                "href": "https://www.reddit.com/r/netsec/comments/1gdh6lp/scammers_blackmail_people_using_digital_arrest/"
             },
             {
                 "title": "Multiple vulnerabilities in the Realtek card reader driver. Affects Dell, Lenovo, etc",
@@ -210,6 +206,10 @@
             {
                 "title": "Spoofing Internal Packets for Multihomed Linux Devices - Anvil Secure",
                 "href": "https://www.reddit.com/r/netsec/comments/1g59ma3/spoofing_internal_packets_for_multihomed_linux/"
+            },
+            {
+                "title": "DTLS \"ClientHello\" Race Conditions in WebRTC Implementations",
+                "href": "https://www.reddit.com/r/netsec/comments/1g50ou4/dtls_clienthello_race_conditions_in_webrtc/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Europe's Crooks Keep Blowing up ATMs",
+                "href": "https://news.slashdot.org/story/24/10/27/1856215/europes-crooks-keep-blowing-up-atms?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Iceland's Plan to Drill Into a Volcano to Test 'Limitless' Supercharged Geothermal Energy",
                 "href": "https://news.slashdot.org/story/24/10/27/0921212/icelands-plan-to-drill-into-a-volcano-to-test-limitless-supercharged-geothermal-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Researchers Develop New Lithium Extraction Method With 'Nearly Double the Performance'",
                 "href": "https://hardware.slashdot.org/story/24/10/26/0427225/researchers-develop-new-lithium-extraction-method-with-nearly-double-the-performance?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Egyptian Blogger/Developer Still Held in Prison 28 Days After His Release Date",
-                "href": "https://yro.slashdot.org/story/24/10/26/0312259/egyptian-bloggerdeveloper-still-held-in-prison-28-days-after-his-release-date?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -875,32 +875,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "A Chopin waltz unearthed after nearly 200 years",
-                "href": "https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html"
-            },
-            {
-                "title": "NewPipe on Linux, Using Android_translation_layer",
-                "href": "https://flathub.org/apps/net.newpipe.NewPipe"
-            },
-            {
-                "title": "You-get: Dumb downloader that scrapes the web",
-                "href": "https://github.com/soimort/you-get"
+                "title": "Oxfam says close to $41B in World Bank climate finance unaccounted for",
+                "href": "https://www.ifcreview.com/news/2024/october/green-finance-oxfam-says-close-to-41-billion-in-world-bank-climate-finance-unaccounted-for/"
             },
             {
                 "title": "Ibis, the Federated Wikipedia Alternative",
                 "href": "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative"
             },
             {
+                "title": "Using SQLite as Storage for Web Server Static Content",
+                "href": "https://clace.io/blog/sqlite/"
+            },
+            {
+                "title": "NewPipe on Linux, Using Android_translation_layer",
+                "href": "https://flathub.org/apps/net.newpipe.NewPipe"
+            },
+            {
                 "title": "Old Vintage Computing Research: The MIPS ThinkPad, Kind Of",
                 "href": "http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html"
             },
             {
-                "title": "Inside the Transport for London cyberattack",
-                "href": "https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport"
+                "title": "A Chopin waltz unearthed after nearly 200 years",
+                "href": "https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html"
             },
             {
-                "title": "Using SQLite as Storage for Web Server Static Content",
-                "href": "https://clace.io/blog/sqlite/"
+                "title": "You-get: Dumb downloader that scrapes the web",
+                "href": "https://github.com/soimort/you-get"
+            },
+            {
+                "title": "Inside the Transport for London cyberattack",
+                "href": "https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport"
             },
             {
                 "title": "What is the first American graphic novel?",
@@ -919,12 +923,16 @@
                 "href": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"
             },
             {
+                "title": "Freenet: A decentralized alternative to world wide web",
+                "href": "https://freenet.org/"
+            },
+            {
                 "title": "'Visual clutter' alters information flow in the brain",
                 "href": "https://news.yale.edu/2024/10/22/visual-clutter-alters-information-flow-brain"
             },
             {
-                "title": "ModelKit: Transforming AI/ML artifact sharing and management across lifecycles",
-                "href": "https://kitops.ml/docs/modelkit/intro.html"
+                "title": "Long-term tracking of social structure in groups of rats",
+                "href": "https://www.nature.com/articles/s41598-024-72437-5"
             },
             {
                 "title": "Rapamycin: One Drug, Many Effects (2014)",
@@ -935,48 +943,48 @@
                 "href": "https://github.com/antirez/load81"
             },
             {
-                "title": "The unreleased Commodore HHC-4's identity",
-                "href": "http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html"
+                "title": "What Is a Raspberry Pi AI Kit?",
+                "href": "https://raspberrytips.com/what-is-raspberry-pi-ai-kit/"
             },
             {
                 "title": "School is Not Enough: Learning is a consequence of doing",
                 "href": "https://map.simonsarris.com/p/school-is-not-enough"
             },
             {
-                "title": "Chiplet Marketplace, Sustainability Top Discussions at OCP Summit",
-                "href": "https://www.eetimes.com/chiplet-marketplace-sustainability-top-discussions-at-ocp-summit/"
-            },
-            {
-                "title": "Long-term tracking of social structure in groups of rats",
-                "href": "https://www.nature.com/articles/s41598-024-72437-5"
-            },
-            {
                 "title": "The Prophet of Cyberspace (2016)",
                 "href": "https://www.filfre.net/2016/11/the-prophet-of-cyberspace/"
-            },
-            {
-                "title": "Amphion: An open-source audio, music, and speech generation toolkit",
-                "href": "https://github.com/open-mmlab/Amphion"
-            },
-            {
-                "title": "What Is a Raspberry Pi AI Kit?",
-                "href": "https://raspberrytips.com/what-is-raspberry-pi-ai-kit/"
-            },
-            {
-                "title": "Highest-Voltage Electron Gun",
-                "href": "https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/"
             },
             {
                 "title": "Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces",
                 "href": "https://arxiv.org/abs/2410.09918"
             },
             {
-                "title": "In some scientific papers, words expressing uncertainty have decreased (2023)",
-                "href": "https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased"
-            },
-            {
                 "title": "Pollen: A publishing system written in Racket",
                 "href": "https://docs.racket-lang.org/pollen/"
+            },
+            {
+                "title": "Chiplet Marketplace, Sustainability Top Discussions at OCP Summit",
+                "href": "https://www.eetimes.com/chiplet-marketplace-sustainability-top-discussions-at-ocp-summit/"
+            },
+            {
+                "title": "The unreleased Commodore HHC-4's identity",
+                "href": "http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html"
+            },
+            {
+                "title": "Amphion: An open-source audio, music, and speech generation toolkit",
+                "href": "https://github.com/open-mmlab/Amphion"
+            },
+            {
+                "title": "Highest-Voltage Electron Gun",
+                "href": "https://news.stonybrook.edu/university/sbu-helping-bnl-develop-the-worlds-highest-voltage-electron-gun/"
+            },
+            {
+                "title": "Show HN: Ezcrypt \u2013 A file encryption tool (simple, strong, public domain)",
+                "href": "https://codeberg.org/ezcrypt/ezcrypt"
+            },
+            {
+                "title": "In some scientific papers, words expressing uncertainty have decreased (2023)",
+                "href": "https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased"
             },
             {
                 "title": "I discovered mysterious hidden signals on a public radio channel (2013) [video]",
@@ -985,14 +993,6 @@
             {
                 "title": "Typeset: An HTML pre-proces\u00adsor for web ty\u00adpog\u00adra\u00adphy",
                 "href": "https://typeset.lllllllllllllllll.com/"
-            },
-            {
-                "title": "How 'Factorio' seduced Silicon Valley and me",
-                "href": "https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e"
-            },
-            {
-                "title": "Understanding Round Robin DNS",
-                "href": "https://blog.hyperknot.com/p/understanding-round-robin-dns"
             }
         ]
     }
