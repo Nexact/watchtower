@@ -47,6 +47,10 @@
                 "href": "https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/"
             },
             {
+                "title": "malloc(0) & realloc(\u2026\uff0c0) != 0",
+                "href": "https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html"
+            },
+            {
                 "title": "RIP botsin.space",
                 "href": "https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/"
             },
@@ -59,6 +63,14 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion"
             },
             {
+                "title": "Time-based retention strategies in Postgres",
+                "href": "https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/"
+            },
+            {
+                "title": "Make It Ephemeral: Software Should Decay and Lose Data",
+                "href": "https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/"
+            },
+            {
                 "title": "You can now run prompts against images, audio and video in your terminal using LLM",
                 "href": "https://simonwillison.net/2024/Oct/29/llm-multi-modal/"
             },
@@ -67,20 +79,16 @@
                 "href": "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html"
             },
             {
-                "title": "malloc(0) & realloc(\u2026\uff0c0) != 0",
-                "href": "https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html"
-            },
-            {
-                "title": "Make It Ephemeral: Software Should Decay and Lose Data",
-                "href": "https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/"
-            },
-            {
                 "title": "Object to Your Information Being Used for AI at Meta (WhatsApp)",
                 "href": "https://www.facebook.com/help/contact/2503286619871400"
             },
             {
                 "title": "1BRC: Nerd Sniping the Java Community",
                 "href": "https://www.infoq.com/presentations/1brc/"
+            },
+            {
+                "title": "Generative AI and the Programmer",
+                "href": "https://asthasr.github.io/posts/generative-ai/"
             },
             {
                 "title": "Un-Deprecate <big>: my plea to the w3c",
@@ -93,14 +101,6 @@
             {
                 "title": "Wimsey: fast, lightweight and easy data contract library (supporting Pandas, Polars, Arrow + more, via narwhals)",
                 "href": "https://benrutter.github.io/wimsey/"
-            },
-            {
-                "title": "A free and open source map of the world, deployable as a single static file",
-                "href": "https://protomaps.com/"
-            },
-            {
-                "title": "Set me right on whether caring is even possible",
-                "href": "https://rachelbythebay.com/w/2024/10/29/test/"
             }
         ]
     },
@@ -122,6 +122,10 @@
             {
                 "title": "Using AFL++ on bug bounty programs: an example with Gnome libsoup",
                 "href": "https://www.reddit.com/r/netsec/comments/1gflu6j/using_afl_on_bug_bounty_programs_an_example_with/"
+            },
+            {
+                "title": "Can't trust any VPN these days",
+                "href": "https://www.reddit.com/r/netsec/comments/1gfpdxb/cant_trust_any_vpn_these_days/"
             },
             {
                 "title": "What Are My OPTIONS? CyberPanel v2.3.6 pre-auth RCE",
@@ -206,10 +210,6 @@
             {
                 "title": "Attacking APIs using JSON Injection",
                 "href": "https://www.reddit.com/r/netsec/comments/1g8ey01/attacking_apis_using_json_injection/"
-            },
-            {
-                "title": "1-click Exploit in South Korea's biggest mobile chat app",
-                "href": "https://www.reddit.com/r/netsec/comments/1g81avh/1click_exploit_in_south_koreas_biggest_mobile/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Fired Employee Allegedly Hacked Disney World's Menu System to Alter Peanut Allergy Information",
+                "href": "https://it.slashdot.org/story/24/10/30/1434212/fired-employee-allegedly-hacked-disney-worlds-menu-system-to-alter-peanut-allergy-information?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Dropbox is Laying Off 20% of Its Staff",
                 "href": "https://slashdot.org/story/24/10/30/1416240/dropbox-is-laying-off-20-of-its-staff?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Crypto Firm Consensys To Cut 20% of Workforce Amid Regulatory Headwinds",
                 "href": "https://tech.slashdot.org/story/24/10/29/183252/crypto-firm-consensys-to-cut-20-of-workforce-amid-regulatory-headwinds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple Moves the M4 Mac Mini's Power Button To the Bottom",
-                "href": "https://apple.slashdot.org/story/24/10/29/1748248/apple-moves-the-m4-mac-minis-power-button-to-the-bottom?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -766,114 +766,110 @@
                 "href": "https://packetstormsecurity.com/news/view/36523/AWS-Breaks-Up-Massive-Russian-Phishing-Operation.html"
             },
             {
-                "title": "GNU Privacy Guard 2.4.6",
-                "href": "https://packetstormsecurity.com/files/182372/gnupg-2.4.6.tar.bz2"
+                "title": "Debian Security Advisory 5800-1",
+                "href": "https://packetstormsecurity.com/files/182411/dsa-5800-1.txt"
             },
             {
-                "title": "Xerox Printers Authenticated Remote Code Execution",
-                "href": "https://packetstormsecurity.com/files/182371/SA-20241023-0.txt"
+                "title": "Ubuntu Security Notice USN-7085-1",
+                "href": "https://packetstormsecurity.com/files/182410/USN-7085-1.txt"
             },
             {
-                "title": "ABB Cylon Aspect 3.08.01 Active Debug Data Exposure",
-                "href": "https://packetstormsecurity.com/files/182370/ZSL-2024-5851.txt"
+                "title": "Ubuntu Security Notice USN-7084-1",
+                "href": "https://packetstormsecurity.com/files/182409/USN-7084-1.txt"
             },
             {
-                "title": "Booked Scheduler 2.8.5 Cross Site Scripting / Open Redirection",
-                "href": "https://packetstormsecurity.com/files/182369/bookedscheduluer285-xssredirect.txt"
+                "title": "WordPress WP-Automatic SQL Injection",
+                "href": "https://packetstormsecurity.com/files/182408/wp_automatic_sqli_to_rce.rb.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7064-2",
-                "href": "https://packetstormsecurity.com/files/182368/USN-7064-2.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Username Enumeration",
+                "href": "https://packetstormsecurity.com/files/182407/ZSL-2024-5859.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-8",
-                "href": "https://packetstormsecurity.com/files/182367/APPLE-SA-10-28-2024-8.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Information Disclosure",
+                "href": "https://packetstormsecurity.com/files/182406/ZSL-2024-5858.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-7",
-                "href": "https://packetstormsecurity.com/files/182366/APPLE-SA-10-28-2024-7.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Unauthenticated Remote SSH Service Control",
+                "href": "https://packetstormsecurity.com/files/182405/ZSL-2024-5857.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-6",
-                "href": "https://packetstormsecurity.com/files/182365/APPLE-SA-10-28-2024-6.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Denial Of Service",
+                "href": "https://packetstormsecurity.com/files/182404/ZSL-2024-5856.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-5",
-                "href": "https://packetstormsecurity.com/files/182364/APPLE-SA-10-28-2024-5.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Unauthenticated Project Download",
+                "href": "https://packetstormsecurity.com/files/182403/ZSL-2024-5855.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-4",
-                "href": "https://packetstormsecurity.com/files/182363/APPLE-SA-10-28-2024-4.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Servlet Inclusion Authentication Bypass",
+                "href": "https://packetstormsecurity.com/files/182402/ZSL-2024-5854.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-3",
-                "href": "https://packetstormsecurity.com/files/182362/APPLE-SA-10-28-2024-3.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Unauthenticated Credential Disclosure",
+                "href": "https://packetstormsecurity.com/files/182401/ZSL-2024-5853.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-2",
-                "href": "https://packetstormsecurity.com/files/182361/APPLE-SA-10-28-2024-2.txt"
+                "title": "ABB Cylon Aspect 3.08.01 jsonProxy.php Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/182400/ZSL-2024-5852.txt"
             },
             {
-                "title": "Apple Security Advisory 10-28-2024-1",
-                "href": "https://packetstormsecurity.com/files/182360/APPLE-SA-10-28-2024-1.txt"
+                "title": "Red Hat Security Advisory 2024-8617-03",
+                "href": "https://packetstormsecurity.com/files/182399/RHSA-2024-8617-03.txt"
             },
             {
-                "title": "UP-RESULT PRO 1.0 SQL Injection",
-                "href": "https://packetstormsecurity.com/files/182359/upresultpro10-sql.txt"
+                "title": "Red Hat Security Advisory 2024-8616-03",
+                "href": "https://packetstormsecurity.com/files/182398/RHSA-2024-8616-03.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-8317-03",
-                "href": "https://packetstormsecurity.com/files/182358/RHSA-2024-8317-03.txt"
+                "title": "Red Hat Security Advisory 2024-8614-03",
+                "href": "https://packetstormsecurity.com/files/182397/RHSA-2024-8614-03.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-8315-03",
-                "href": "https://packetstormsecurity.com/files/182357/RHSA-2024-8315-03.txt"
+                "title": "Red Hat Security Advisory 2024-8613-03",
+                "href": "https://packetstormsecurity.com/files/182396/RHSA-2024-8613-03.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-8314-03",
-                "href": "https://packetstormsecurity.com/files/182356/RHSA-2024-8314-03.txt"
+                "title": "Red Hat Security Advisory 2024-8577-03",
+                "href": "https://packetstormsecurity.com/files/182395/RHSA-2024-8577-03.txt"
             },
             {
-                "title": "Botan C++ Crypto Algorithms Library 3.6.1",
-                "href": "https://packetstormsecurity.com/files/182355/Botan-3.6.1.tar.xz"
+                "title": "Red Hat Security Advisory 2024-8572-03",
+                "href": "https://packetstormsecurity.com/files/182394/RHSA-2024-8572-03.txt"
             },
             {
-                "title": "Debian Security Advisory 5799-1",
-                "href": "https://packetstormsecurity.com/files/182354/dsa-5799-1.txt"
+                "title": "Red Hat Security Advisory 2024-8567-03",
+                "href": "https://packetstormsecurity.com/files/182393/RHSA-2024-8567-03.txt"
             },
             {
-                "title": "Debian Security Advisory 5798-1",
-                "href": "https://packetstormsecurity.com/files/182353/dsa-5798-1.txt"
+                "title": "Red Hat Security Advisory 2024-8563-03",
+                "href": "https://packetstormsecurity.com/files/182392/RHSA-2024-8563-03.txt"
             },
             {
-                "title": "Debian Security Advisory 5797-1",
-                "href": "https://packetstormsecurity.com/files/182352/dsa-5797-1.txt"
+                "title": "Red Hat Security Advisory 2024-8546-03",
+                "href": "https://packetstormsecurity.com/files/182391/RHSA-2024-8546-03.txt"
             },
             {
-                "title": "Debian Security Advisory 5796-1",
-                "href": "https://packetstormsecurity.com/files/182351/dsa-5796-1.txt"
+                "title": "Red Hat Security Advisory 2024-8543-03",
+                "href": "https://packetstormsecurity.com/files/182390/RHSA-2024-8543-03.txt"
             },
             {
-                "title": "ABB Cylon Aspect 3.08.01 getApplicationNamesJS.php Building/Project Name Exposure",
-                "href": "https://packetstormsecurity.com/files/182350/ZSL-2024-5850.txt"
+                "title": "Red Hat Security Advisory 2024-8534-03",
+                "href": "https://packetstormsecurity.com/files/182389/RHSA-2024-8534-03.txt"
             },
             {
-                "title": "Red Hat Security Advisory 2024-8235-03",
-                "href": "https://packetstormsecurity.com/files/182349/RHSA-2024-8235-03.txt"
+                "title": "Red Hat Security Advisory 2024-8533-03",
+                "href": "https://packetstormsecurity.com/files/182388/RHSA-2024-8533-03.txt"
             },
             {
-                "title": "Faraday 5.8.0",
-                "href": "https://packetstormsecurity.com/files/182348/faraday-5.8.0.tar.gz"
+                "title": "Red Hat Security Advisory 2024-8528-03",
+                "href": "https://packetstormsecurity.com/files/182387/RHSA-2024-8528-03.txt"
             }
         ]
     },
     {
         "feedname": "hackernews",
         "items": [
-            {
-                "title": "M4 MacBook Pro",
-                "href": "https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/"
-            },
             {
                 "title": "Internal representations of LLMs encode information about truthfulness",
                 "href": "https://arxiv.org/abs/2410.02707"
@@ -891,16 +887,8 @@
                 "href": "https://30fps.net/pages/videogame-shadows/"
             },
             {
-                "title": "Astral: Next-Gen Python Tooling",
-                "href": "https://astral.sh/"
-            },
-            {
-                "title": "Pg_analytics is now PostgreSQL Licensed",
-                "href": "https://github.com/paradedb/pg_analytics"
-            },
-            {
-                "title": "Gross Apple Marketing",
-                "href": "https://jonathanbuys.com/Gross_Apple_Marketing/"
+                "title": "M4 MacBook Pro",
+                "href": "https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/"
             },
             {
                 "title": "Launch HN: FlyCode (YC S22) \u2013 Stop losing revenue due to failed payments",
@@ -923,36 +911,28 @@
                 "href": "https://github.com/atiriko/Music"
             },
             {
-                "title": "AMD Q3'2024 Financials",
-                "href": "https://morethanmoore.substack.com/p/amd-q32024-financials"
-            },
-            {
                 "title": "The Secret Father of Modern Computing (2023)",
                 "href": "https://every.to/the-crazy-ones/the-secret-father-of-modern-computing"
-            },
-            {
-                "title": "What's new in Fedora KDE 41",
-                "href": "https://fedoramagazine.org/whats-new-in-fedora-kde-41/"
-            },
-            {
-                "title": "The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild",
-                "href": "https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/"
             },
             {
                 "title": "Wazuh \u2013 open-source Security Platform",
                 "href": "https://wazuh.com/"
             },
             {
-                "title": "EPA cancels pesticide shown to be harmful to unborn babies",
-                "href": "https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/"
+                "title": "Bridging Search and Recommendation in Generative Retrieval",
+                "href": "https://dl.acm.org/doi/10.1145/3640457.3688123"
+            },
+            {
+                "title": "The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild",
+                "href": "https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/"
             },
             {
                 "title": "Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)",
                 "href": "https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer"
             },
             {
-                "title": "Bridging Search and Recommendation in Generative Retrieval",
-                "href": "https://dl.acm.org/doi/10.1145/3640457.3688123"
+                "title": "Thunderbird for Android Now Available",
+                "href": "https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/"
             },
             {
                 "title": "GitHub cuts AI deals with Google, Anthropic",
@@ -967,28 +947,48 @@
                 "href": "https://rebrickable.com/rebricknet/submit/"
             },
             {
-                "title": "1BRC Coding Challenge: Nerd Sniping the Java Community",
-                "href": "https://www.infoq.com/presentations/1brc/"
-            },
-            {
-                "title": "Thunderbird for Android Now Available",
-                "href": "https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/"
-            },
-            {
-                "title": "OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition",
-                "href": "https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/"
+                "title": "Async Rust is not safe with io_uring",
+                "href": "https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring"
             },
             {
                 "title": "Vector databases are the wrong abstraction",
                 "href": "https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/"
             },
             {
-                "title": "Async Rust is not safe with io_uring",
-                "href": "https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring"
+                "title": "1BRC Coding Challenge: Nerd Sniping the Java Community",
+                "href": "https://www.infoq.com/presentations/1brc/"
+            },
+            {
+                "title": "OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition",
+                "href": "https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/"
             },
             {
                 "title": "Writing in Pictures: Richard Scarry and the art of children's literature",
                 "href": "https://yalereview.org/article/chris-ware-richard-scarry"
+            },
+            {
+                "title": "Down with Meritocracy (2001)",
+                "href": "https://www.theguardian.com/politics/2001/jun/29/comment"
+            },
+            {
+                "title": "Eighteen Years of ABI Stability",
+                "href": "https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/"
+            },
+            {
+                "title": "Hobby CAD, CNC machining, and resin casting (2015)",
+                "href": "https://lcamtuf.coredump.cx/gcnc/full/"
+            },
+            {
+                "title": "EPA cancels pesticide shown to be harmful to unborn babies",
+                "href": "https://www.thenewlede.org/2024/10/epa-cancels-pesticide-shown-to-be-harmful-to-unborn-babies/"
+            },
+            {
+                "title": "Launch HN: Integuru (YC W24) \u2013 Reverse-engineer internal APIs using LLMs",
+                "href": "https://github.com/Integuru-AI/Integuru"
+            },
+            {
+                "title": "Plants find light using gaps between their cells",
+                "href": "https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/"
             }
         ]
     }
