@@ -19,12 +19,20 @@
                 "href": "https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/"
             },
             {
+                "title": "How on Earth does ^.?$|^(..+?)\\1+$ produce primes?",
+                "href": "https://www.youtube.com/watch?v=5vbk0TwkokM"
+            },
+            {
                 "title": "Matrix 2.0 is here",
                 "href": "https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/"
             },
             {
                 "title": "The Dual Nature of Events in Event-Driven Architecture",
                 "href": "https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html"
+            },
+            {
+                "title": "Running a million empty tests",
+                "href": "https://kodare.net/2024/10/31/a-million-tests.html"
             },
             {
                 "title": "Async Rust is not safe with io_uring",
@@ -39,24 +47,24 @@
                 "href": "https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/"
             },
             {
-                "title": "How on Earth does ^.?$|^(..+?)\\1+$ produce primes?",
-                "href": "https://www.youtube.com/watch?v=5vbk0TwkokM"
-            },
-            {
-                "title": "A simple shared email inbox for teams",
-                "href": "https://letsjelly.com"
+                "title": "Nginx Explorer - File listing",
+                "href": "https://blog.izissise.net/posts/ngxp-listing/"
             },
             {
                 "title": "On Crafting Painterly Shaders",
                 "href": "https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738"
             },
             {
+                "title": "A simple shared email inbox for teams",
+                "href": "https://letsjelly.com"
+            },
+            {
                 "title": "Cats vs dogs (HDR gain map test)",
                 "href": "https://gregbenzphotography.com/hdr-photos/cats-vs-dogs-hdr-gain-map-test/"
             },
             {
-                "title": "Running a million empty tests",
-                "href": "https://kodare.net/2024/10/31/a-million-tests.html"
+                "title": "How This Blog Does IndieWeb",
+                "href": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/"
             },
             {
                 "title": "Syncthing Android app discontinued",
@@ -75,8 +83,8 @@
                 "href": "https://joshleeb.com/posts/status-update-2024-oct.html"
             },
             {
-                "title": "How This Blog Does IndieWeb",
-                "href": "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/"
+                "title": "Zed - SSH Remoting is Here",
+                "href": "https://zed.dev/blog/remote-development"
             },
             {
                 "title": "Generative AI and the Programmer",
@@ -93,14 +101,6 @@
             {
                 "title": "Port forwarding between your local machine and Kubernetes",
                 "href": "https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/"
-            },
-            {
-                "title": "Time-based retention strategies in Postgres",
-                "href": "https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/"
-            },
-            {
-                "title": "Observability in distributed systems",
-                "href": "https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/"
             }
         ]
     },
@@ -871,16 +871,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Zed: SSH Remoting Is Here",
-                "href": "https://zed.dev/blog/remote-development"
-            },
-            {
-                "title": "Rust and C++ with Steve Klabnik and Herb Sutter",
-                "href": "https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/"
-            },
-            {
                 "title": "OpenZFS deduplication is good now and you shouldn't use it",
                 "href": "https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/"
+            },
+            {
+                "title": "SSH Remoting",
+                "href": "https://zed.dev/blog/remote-development"
             },
             {
                 "title": "It might be possible to detect gravitons after all",
@@ -895,16 +891,16 @@
                 "href": "https://arxiv.org/abs/2410.21333"
             },
             {
-                "title": "AI Flame Graphs",
-                "href": "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html"
-            },
-            {
                 "title": "How React, Vue, and Angular Work \u2013 Core Principles in One File",
                 "href": "https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce"
             },
             {
-                "title": "A comparison of Rust's borrow checker to the one in C#",
-                "href": "https://em-tg.github.io/csborrow/"
+                "title": "AI Flame Graphs",
+                "href": "https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html"
+            },
+            {
+                "title": "Rust and C++ with Steve Klabnik and Herb Sutter [audio]",
+                "href": "https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/"
             },
             {
                 "title": "Google CEO says more than a quarter of the company's new code is created by AI",
@@ -915,40 +911,48 @@
                 "href": "https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/"
             },
             {
-                "title": "Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)",
-                "href": "https://www.clipboardhealth.com/engineering"
-            },
-            {
                 "title": "Cooking with black plastic is particularly crucial to avoid",
                 "href": "https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/"
-            },
-            {
-                "title": "Sabine Baring-Gould's Book of Were-Wolves (1865)",
-                "href": "https://publicdomainreview.org/collection/the-book-of-were-wolves/"
             },
             {
                 "title": "Steam games will need to disclose kernel-level anti-cheat on store pages",
                 "href": "https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/"
             },
             {
+                "title": "Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)",
+                "href": "https://www.clipboardhealth.com/engineering"
+            },
+            {
                 "title": "Crafting Painterly Shaders",
                 "href": "https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/"
+            },
+            {
+                "title": "A comparison of Rust\u2019s borrow checker to the one in C#",
+                "href": "https://em-tg.github.io/csborrow/"
             },
             {
                 "title": "Cerebras Trains Llama Models to Leap over GPUs",
                 "href": "https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/"
             },
             {
+                "title": "Sabine Baring-Gould's Book of Were-Wolves (1865)",
+                "href": "https://publicdomainreview.org/collection/the-book-of-were-wolves/"
+            },
+            {
                 "title": "SimpleQA",
                 "href": "https://openai.com/index/introducing-simpleqa/"
             },
             {
-                "title": "What's new with Robinhood, our in-house load balancing service",
-                "href": "https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service"
+                "title": "The Frankfurt Kitchen (2011)",
+                "href": "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/"
             },
             {
                 "title": "Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]",
                 "href": "https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf"
+            },
+            {
+                "title": "What's new with Robinhood, our in-house load balancing service",
+                "href": "https://dropbox.tech/infrastructure/robinhood-in-house-load-balancing-service"
             },
             {
                 "title": "Pushing the frontiers of audio generation",
@@ -963,32 +967,28 @@
                 "href": "item?id=41994658"
             },
             {
-                "title": "The Frankfurt Kitchen (2011)",
-                "href": "https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/"
-            },
-            {
                 "title": "Australia/Lord_Howe is the weirdest timezone",
                 "href": "https://ssoready.com/blog/engineering/truths-programmers-timezones/"
-            },
-            {
-                "title": "Ask HN: Alternative to Emacs with undo-tree functionality?",
-                "href": "item?id=41954030"
             },
             {
                 "title": "M4 MacBook Pro",
                 "href": "https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/"
             },
             {
-                "title": "An Italian 'fruit detective' who investigates centuries-old paintings",
-                "href": "https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/"
-            },
-            {
                 "title": "Show HN: AI OmniGen \u2013 AI Image Generator with Consistent Visuals",
                 "href": "https://aiomnigen.com"
             },
             {
+                "title": "An Italian 'fruit detective' who investigates centuries-old paintings",
+                "href": "https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/"
+            },
+            {
                 "title": "1BRC Coding Challenge: Nerd Sniping the Java Community",
                 "href": "https://www.infoq.com/presentations/1brc/"
+            },
+            {
+                "title": "Ask HN: Alternative to Emacs with undo-tree functionality?",
+                "href": "item?id=41954030"
             }
         ]
     }
