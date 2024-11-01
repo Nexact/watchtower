@@ -27,6 +27,10 @@
                 "href": "https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/"
             },
             {
+                "title": "DuckDB over Pandas/Polars",
+                "href": "https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/"
+            },
+            {
                 "title": "Texture-less Text Rendering",
                 "href": "https://poniesandlight.co.uk/reflect/debug_print_text/"
             },
@@ -35,8 +39,8 @@
                 "href": "https://gitlab.com/edent/activity-bot/"
             },
             {
-                "title": "DuckDB over Pandas/Polars",
-                "href": "https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/"
+                "title": "The CRAPL: An academic-strength open source license",
+                "href": "https://matt.might.net/articles/crapl/"
             },
             {
                 "title": "Hotwire is... boring",
@@ -47,20 +51,20 @@
                 "href": "https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend"
             },
             {
-                "title": "Checking linearizability in Go",
-                "href": "https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html"
-            },
-            {
                 "title": "ISO/IEC 9899:2024",
                 "href": "https://www.iso.org/standard/82075.html"
             },
             {
-                "title": "Separation of concerns in a bug tracker",
-                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/"
+                "title": "Checking linearizability in Go",
+                "href": "https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html"
             },
             {
                 "title": "Everyone is wrong about that Slack flowchart",
                 "href": "https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart"
+            },
+            {
+                "title": "Separation of concerns in a bug tracker",
+                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/"
             },
             {
                 "title": "cil: C Intermediate Language",
@@ -71,6 +75,18 @@
                 "href": "https://www.youtube.com/watch?v=i3yVqWYFbCE"
             },
             {
+                "title": "This Development-cycle in Cargo: 1.83",
+                "href": "https://blog.rust-lang.org/inside-rust/2024/10/31/this-development-cycle-in-cargo-1.83.html"
+            },
+            {
+                "title": "Migrating in-place from PostgreSQL to MySQL",
+                "href": "https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html"
+            },
+            {
+                "title": "Why Pascal Deserves a Second Look",
+                "href": "https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/"
+            },
+            {
                 "title": "Hurmet: A notebook for calculations",
                 "href": "https://hurmet.org/sample"
             },
@@ -79,28 +95,12 @@
                 "href": "https://zed.dev/blog/remote-development"
             },
             {
-                "title": "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
-                "href": "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
+                "title": "Unicode codepoints that expand or contract when case is changed in UTF-8",
+                "href": "https://gist.github.com/rendello/d37552507a389656e248f3255a618127"
             },
             {
-                "title": "Purity is Great for Collaboration",
-                "href": "https://mccd.space/posts/purity/"
-            },
-            {
-                "title": "The CRAPL: An academic-strength open source license",
-                "href": "https://matt.might.net/articles/crapl/"
-            },
-            {
-                "title": "This Development-cycle in Cargo: 1.83",
-                "href": "https://blog.rust-lang.org/inside-rust/2024/10/31/this-development-cycle-in-cargo-1.83.html"
-            },
-            {
-                "title": "Cramming Solitaire onto a Nintendo E-Reader card",
-                "href": "https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/"
-            },
-            {
-                "title": "ASCII control characters in my terminal",
-                "href": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/"
+                "title": "Sets, types and type checking",
+                "href": "https://kaleidawave.github.io/posts/sets-types-and-type-checking/"
             }
         ]
     },
@@ -384,6 +384,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "Microsoft Edge security advisory (AV24-626)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626"
+            },
+            {
                 "title": "Google Chrome security advisory (AV24-625)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625"
             },
@@ -578,10 +582,6 @@
             {
                 "title": "GitLab security advisory (AV24-579)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-579"
-            },
-            {
-                "title": "Palo Alto Networks security advisory (AV24-578)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av24-578"
             }
         ]
     },
@@ -879,52 +879,80 @@
                 "href": "https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/"
             },
             {
+                "title": "The Cult of Microsoft",
+                "href": "https://www.wheresyoured.at/the-cult-of-microsoft/"
+            },
+            {
                 "title": "Ask HN: Who is hiring? (November 2024)",
                 "href": "item?id=42017580"
             },
             {
-                "title": "Alexander the Great's tunic identified in royal tomb at Vergina",
-                "href": "https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract"
-            },
-            {
-                "title": "The Elimination Strategy \u2013 Why More Makes Your SaaS Worth Less",
-                "href": "https://slimsaas.com/blog/elimination-strategy/"
+                "title": "Alexander the Great's tunic identified in royal tomb at Vergina?",
+                "href": "https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503"
             },
             {
                 "title": "Notepad++ is 21 years old",
                 "href": "https://learnhub.top/celebrating-21-years-of-notepad-the-legendary-journey-of-our-favorite-text-editor/"
             },
             {
-                "title": "Broadwell's EDRAM: VCache Before VCache Was Cool",
-                "href": "https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache"
+                "title": "A 22 percent increase in the German minimum wage: nothing crazy",
+                "href": "https://paperswithcode.com/paper/a-22-percent-increase-in-the-german-minimum"
             },
             {
-                "title": "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters",
-                "href": "https://arxiv.org/abs/2410.23168"
+                "title": "Broadwell's EDRAM: VCache Before VCache Was Cool",
+                "href": "https://chipsandcheese.com/p/broadwells-edram-vcache-before-vcache"
             },
             {
                 "title": "The Shell Hater's Handbook",
                 "href": "https://shellhaters.org/talk"
             },
             {
+                "title": "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters",
+                "href": "https://arxiv.org/abs/2410.23168"
+            },
+            {
+                "title": "The Elimination Strategy \u2013 Why More Makes Your SaaS Worth Less",
+                "href": "https://slimsaas.com/blog/elimination-strategy/"
+            },
+            {
                 "title": "Make It Yourself",
                 "href": "https://makeityourself.org/"
             },
             {
-                "title": "Ink: React for Interactive CLI Apps",
-                "href": "https://github.com/vadimdemedes/ink"
-            },
-            {
-                "title": "Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS",
-                "href": "https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5"
+                "title": "Ask HN: Who wants to be hired? (November 2024)",
+                "href": "item?id=42017578"
             },
             {
                 "title": "Recursion, Tidy Stars, and Water Lilies",
                 "href": "https://planktonvalhalla.com/20241030-recursion-tidy-stars-and-water-lilies/"
             },
             {
-                "title": "Half of Young Voters Say They've Lied about Which Candidates They Support",
-                "href": "https://www.msn.com/en-us/news/politics/half-of-young-voters-say-they-ve-lied-about-which-candidates-they-support-new-poll-finds/ar-AA1thZks"
+                "title": "Ubuntu Hoping to Remove Qt 5 Before Ubuntu 26.04 LTS",
+                "href": "https://www.phoronix.com/news/Ubuntu-Hopes-Removing-Qt-5"
+            },
+            {
+                "title": "Ink: React for Interactive CLI Apps",
+                "href": "https://github.com/vadimdemedes/ink"
+            },
+            {
+                "title": "Tell HN: We (Causal) got acquired \u2013 thank you HN",
+                "href": "item?id=42019192"
+            },
+            {
+                "title": "Math and puzzle fans find magic in Martin Gardner's legacy",
+                "href": "https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/"
+            },
+            {
+                "title": "Ethernet at NANOG 92",
+                "href": "https://www.potaroo.net/ispcol/2024-10/ethernet.html"
+            },
+            {
+                "title": "Implementing a Tiny CPU Rasterizer",
+                "href": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html"
+            },
+            {
+                "title": "Using Large Language Models to Catch Vulnerabilities",
+                "href": "https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html"
             },
             {
                 "title": "Iceberg A-68: The story of how a mega-berg transformed the ocean",
@@ -935,18 +963,6 @@
                 "href": "https://pixspeed.com/"
             },
             {
-                "title": "Math and puzzle fans find magic in Martin Gardner's legacy",
-                "href": "https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/"
-            },
-            {
-                "title": "Using Large Language Models to Catch Vulnerabilities",
-                "href": "https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html"
-            },
-            {
-                "title": "An Update on Apple M1/M2 GPU Drivers",
-                "href": "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
-            },
-            {
                 "title": "The Dual Nature of Events in Event-Driven Architecture",
                 "href": "https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html"
             },
@@ -955,44 +971,28 @@
                 "href": "https://ruwix.com/blog/34x34x34-rubiks-cube-record/"
             },
             {
+                "title": "Show HN: Autotab Instruct \u2013 Claude Computer Use with Guardrails for Reliability",
+                "href": "item?id=42019000"
+            },
+            {
                 "title": "Oasis: A Universe in a Transformer",
                 "href": "https://oasis-model.github.io/"
-            },
-            {
-                "title": "Notes for an Annotation SDK (2021)",
-                "href": "https://blog.jonudell.net/2021/09/03/notes-for-an-annotation-sdk/"
-            },
-            {
-                "title": "Implementing a Tiny CPU Rasterizer",
-                "href": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html"
-            },
-            {
-                "title": "Embeddings are underrated",
-                "href": "https://technicalwriting.dev/data/embeddings.html"
-            },
-            {
-                "title": "Show HN: Ratarmount 1.0.0 \u2013 Rapid access to large archives via a FUSE filesystem",
-                "href": "https://github.com/mxmlnkn/ratarmount"
             },
             {
                 "title": "Throbac: THrifty Roman numeral BAckwards-looking Computer",
                 "href": "https://mitmuseum.mit.edu/collections/object/2007.030.011"
             },
             {
+                "title": "Notes for an annotation SDK (2021)",
+                "href": "https://blog.jonudell.net/2021/09/03/notes-for-an-annotation-sdk/"
+            },
+            {
                 "title": "Pythagora (GPT Pilot) (YC W24) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world"
             },
             {
-                "title": "Iconic Gun-Makers Gave Sensitive Customer Information to Political Operatives",
-                "href": "https://www.propublica.org/article/gunmakers-owners-sensitive-personal-information-glock-remington-nssf"
-            },
-            {
-                "title": "Using the Strangler Fig with Mobile Apps",
-                "href": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html"
-            },
-            {
-                "title": "A new dental scam is to pull healthy teeth to sell you expensive fake ones",
-                "href": "https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/"
+                "title": "Embeddings are underrated",
+                "href": "https://technicalwriting.dev/data/embeddings.html"
             }
         ]
     }
