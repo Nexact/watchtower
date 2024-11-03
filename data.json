@@ -19,16 +19,16 @@
                 "href": "https://avi.im/blag/2024/disaggregated-storage/"
             },
             {
-                "title": "Moving my game project from C to the Odin language",
-                "href": "https://akselmo.dev/posts/moving-from-c-to-odin/"
+                "title": "Say the prime",
+                "href": "https://saytheprime.com/"
             },
             {
                 "title": "Breaking CityHash64, MurmurHash2/3, wyhash, and more",
                 "href": "https://orlp.net/blog/breaking-hash-functions/"
             },
             {
-                "title": "Say the prime",
-                "href": "https://saytheprime.com/"
+                "title": "Moving my game project from C to the Odin language",
+                "href": "https://akselmo.dev/posts/moving-from-c-to-odin/"
             },
             {
                 "title": "qcp: QUIC File Copy",
@@ -37,6 +37,10 @@
             {
                 "title": "CSS sprite sheet animations",
                 "href": "https://leanrada.com/notes/css-sprite-sheets/"
+            },
+            {
+                "title": "Time Standards Reference",
+                "href": "https://geometrian.com/programming/reference/timestds/index.php"
             },
             {
                 "title": "m4 crimes for metaprogramming Processing",
@@ -51,6 +55,14 @@
                 "href": "https://mikemcquaid.com/ruby-on-guard-rails/"
             },
             {
+                "title": "The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client",
+                "href": "https://github.com/thelounge/thelounge"
+            },
+            {
+                "title": "RRB Vector: A Practical General Purpose Immutable Sequence",
+                "href": "https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b"
+            },
+            {
                 "title": "A game to understand AI alignment by making paperclips",
                 "href": "https://www.decisionproblem.com/paperclips/index2.html"
             },
@@ -59,16 +71,8 @@
                 "href": "https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/"
             },
             {
-                "title": "The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client",
-                "href": "https://github.com/thelounge/thelounge"
-            },
-            {
-                "title": "Time Standards Reference",
-                "href": "https://geometrian.com/programming/reference/timestds/index.php"
-            },
-            {
-                "title": "RRB Vector: A Practical General Purpose Immutable Sequence",
-                "href": "https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b"
+                "title": "Matrix and XMPP: Thoughts on Improving Messaging Protocols \u2013 Part 1",
+                "href": "https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/"
             },
             {
                 "title": "Summarization-Based Document IDs for Generative Retrieval with Language Models",
@@ -79,8 +83,12 @@
                 "href": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown"
             },
             {
-                "title": "Matrix and XMPP: Thoughts on Improving Messaging Protocols \u2013 Part 1",
-                "href": "https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/"
+                "title": "Ractor - A Rust actor framework",
+                "href": "https://slawlor.github.io/ractor/quickstart/"
+            },
+            {
+                "title": "An update on Apple M1/M2 GPU drivers",
+                "href": "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
             },
             {
                 "title": "IRC Today hosted IRC bouncer",
@@ -89,14 +97,6 @@
             {
                 "title": "smolweb HTML specification",
                 "href": "https://smolweb.org/specs/index.html"
-            },
-            {
-                "title": "An update on Apple M1/M2 GPU drivers",
-                "href": "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
-            },
-            {
-                "title": "Ractor - A Rust actor framework",
-                "href": "https://slawlor.github.io/ractor/quickstart/"
             },
             {
                 "title": "Deer Text Format - the system powering this site, and how it can work for you",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "New 'Open Source AI Definition' Criticized for Not Opening Training Data",
+                "href": "https://news.slashdot.org/story/24/11/03/0257241/new-open-source-ai-definition-criticized-for-not-opening-training-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Invisible, Super Stretchy Nanofibers Discovered In Natural Spider Silk",
                 "href": "https://science.slashdot.org/story/24/11/02/2333223/invisible-super-stretchy-nanofibers-discovered-in-natural-spider-silk?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "How America's Export Controls Failed to Keep Cutting-Edge AI Chips from China's Huawei",
                 "href": "https://hardware.slashdot.org/story/24/11/02/0540218/how-americas-export-controls-failed-to-keep-cutting-edge-ai-chips-from-chinas-huawei?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Threads Soars to 275 Million Monthly Users, Says Zuckerberg",
-                "href": "https://tech.slashdot.org/story/24/11/02/0247249/threads-soars-to-275-million-monthly-users-says-zuckerberg?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -875,32 +875,48 @@
                 "href": "https://spectrum.ieee.org/touchscreens"
             },
             {
-                "title": "Create block devices on your computer backed by Redstone Memory",
-                "href": "https://github.com/williambl/blockblockdevice"
+                "title": "I couldn't find a free, no-login, no-AI checklist app\u2013so I built one",
+                "href": "https://lalacheck.fly.dev/"
             },
             {
-                "title": "Unix core utilities implemented in Haskell",
-                "href": "https://github.com/Gandalf-/coreutils"
+                "title": "Create block devices on your computer backed by Redstone Memory",
+                "href": "https://github.com/williambl/blockblockdevice"
             },
             {
                 "title": "A React Renderer for Gnome JavaScript",
                 "href": "https://github.com/react-gjs/renderer"
             },
             {
-                "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
-                "href": "item?id=42034242"
+                "title": "Unix core utilities implemented in Haskell",
+                "href": "https://github.com/Gandalf-/coreutils"
             },
             {
                 "title": "Speed, scale and reliability: 25 years of Google datacenter networking evolution",
                 "href": "https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking"
             },
             {
-                "title": "Venvstacks: Virtual Environment Stacks for Python",
-                "href": "https://lmstudio.ai/blog/venvstacks"
+                "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
+                "href": "item?id=42034242"
             },
             {
                 "title": "Big Data for the Leviathan",
                 "href": "https://www.lrb.co.uk/the-paper/v46/n20/tom-johnson/big-data-for-the-leviathan"
+            },
+            {
+                "title": "Programming Languages That Blew My Mind (2023)",
+                "href": "https://yoric.github.io/post/programming-languages-that-blew-my-mind/"
+            },
+            {
+                "title": "The AP has called winners in elections for more than 170 years. How it's done",
+                "href": "https://apnews.com/article/ap-race-calls-presidential-election-winners-0fd480f8ba2f37d0439b76e0c7071413"
+            },
+            {
+                "title": "Venvstacks: Virtual Environment Stacks for Python",
+                "href": "https://lmstudio.ai/blog/venvstacks"
+            },
+            {
+                "title": "Turn your phone or tablet into a chess clock",
+                "href": "https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock"
             },
             {
                 "title": "Get me out of data hell",
@@ -919,10 +935,6 @@
                 "href": "https://cedardb.com/blog/overflow_handling/"
             },
             {
-                "title": "If you need the money, don't take the job",
-                "href": "https://bitfieldconsulting.com/posts/need-money"
-            },
-            {
                 "title": "Eighty Years of the Finite Element Method (2022)",
                 "href": "https://link.springer.com/article/10.1007/s11831-022-09740-9"
             },
@@ -935,12 +947,16 @@
                 "href": "https://railsatscale.com/2024-10-23-next-generation-oob-gc/"
             },
             {
+                "title": "If you need the money, don't take the job",
+                "href": "https://bitfieldconsulting.com/posts/need-money"
+            },
+            {
                 "title": "Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)",
                 "href": "https://arxiv.org/abs/2111.08566"
             },
             {
-                "title": "Turn your phone or tablet into a chess clock",
-                "href": "https://akkartik.itch.io/carousel/devlog/826196/turn-your-phone-or-tablet-into-a-chess-clock"
+                "title": "Matrix 2.0 Is Here",
+                "href": "https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit"
             },
             {
                 "title": "SpawELO \u2013 small free matchmaking system for LAN parties",
@@ -959,8 +975,12 @@
                 "href": "https://github.com/rbbydotdev/someday"
             },
             {
-                "title": "Intel might be too big to fail",
-                "href": "https://www.tomshardware.com/tech-industry/intel-might-be-too-big-to-fail-washington-policymakers-are-already-discussing-potential-solutions-if-the-chipmaker-cannot-recover"
+                "title": "Ask HN: What would you preserve if the internet were to go down tomorrow?",
+                "href": "item?id=42030832"
+            },
+            {
+                "title": "Prisma Postgres \u2013 Runs on bare metal and unikernels",
+                "href": "https://www.prisma.io/blog/announcing-prisma-postgres-early-access"
             },
             {
                 "title": "Preserving the history of retiring cruise ships",
@@ -969,26 +989,6 @@
             {
                 "title": "Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free",
                 "href": "https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking"
-            },
-            {
-                "title": "Prisma Postgres \u2013 Runs on bare metal and unikernels",
-                "href": "https://www.prisma.io/blog/announcing-prisma-postgres-early-access"
-            },
-            {
-                "title": "Ask HN: What would you preserve if the internet were to go down tomorrow?",
-                "href": "item?id=42030832"
-            },
-            {
-                "title": "Matrix 2.0 Is Here",
-                "href": "https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit"
-            },
-            {
-                "title": "Colorado scrambles to change voting-system passwords after accidental leak",
-                "href": "https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/"
-            },
-            {
-                "title": "Security flaws found in Nvidia GeForce GPUs",
-                "href": "https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html"
             }
         ]
     }
