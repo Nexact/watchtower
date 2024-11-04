@@ -23,10 +23,6 @@
                 "href": "https://lobste.rs/s/e5tt97/what_are_you_doing_this_week"
             },
             {
-                "title": "Highlighting Text in Links with Text Fragments",
-                "href": "https://calebhearth.com/l/text-fragments"
-            },
-            {
                 "title": "A Map of Sync",
                 "href": "https://stack.convex.dev/a-map-of-sync"
             },
@@ -35,12 +31,24 @@
                 "href": "https://kevinboone.me/systemd_embedded.html"
             },
             {
+                "title": "Highlighting Text in Links with Text Fragments",
+                "href": "https://calebhearth.com/l/text-fragments"
+            },
+            {
                 "title": "C++, Complexity, and Compiler Bugs",
                 "href": "https://azeemba.com/posts/cpp-complexity-compiler-bugs.html"
             },
             {
                 "title": "A Language A Day - A Collection Of Brief Overviews To 21 Programming Languages",
                 "href": "https://andrewshitov.com/2024/11/02/a-language-a-day/"
+            },
+            {
+                "title": "A conceptual model of ATProto and ActivityPub",
+                "href": "https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/"
+            },
+            {
+                "title": "Parsing arguments in Rust with no dependencies",
+                "href": "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
             },
             {
                 "title": "Magical Fibonacci Formulae",
@@ -55,16 +63,16 @@
                 "href": "https://adamwulf.me/2022/04/atomic-attributes-in-local-first-sync/"
             },
             {
+                "title": "swift-format GitHub Action",
+                "href": "https://calebhearth.com/l/swift-format-github-action"
+            },
+            {
                 "title": "What has case distinction but is neither uppercase nor lowercase?",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
             },
             {
-                "title": "Parsing arguments in Rust with no dependencies",
-                "href": "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
-            },
-            {
-                "title": "A conceptual model of ATProto and ActivityPub",
-                "href": "https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/"
+                "title": "Object Pools",
+                "href": "https://famicom.party/book/17-objectpools/"
             },
             {
                 "title": "Macros, Safety, and SOA",
@@ -73,10 +81,6 @@
             {
                 "title": "In Search of Types",
                 "href": "https://www.humprog.org/%7Estephen/papers/kell14in-author-version.pdf"
-            },
-            {
-                "title": "swift-format GitHub Action",
-                "href": "https://calebhearth.com/l/swift-format-github-action"
             },
             {
                 "title": "Rust's Most Subtle Syntax",
@@ -89,10 +93,6 @@
             {
                 "title": "Ranging over functions in Go 1.23",
                 "href": "https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/"
-            },
-            {
-                "title": "Object Pools",
-                "href": "https://famicom.party/book/17-objectpools/"
             },
             {
                 "title": "linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "FFmpeg Devs Boast of Up To 94x Performance Boost After Implementing Handwritten AVX-512 Assembly Code",
+                "href": "https://news.slashdot.org/story/24/11/04/2140206/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Perplexity Will Show Live US Election Results Despite AI Accuracy Warnings",
                 "href": "https://politics.slashdot.org/story/24/11/04/2130256/perplexity-will-show-live-us-election-results-despite-ai-accuracy-warnings?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "L.A. County Sues Pepsi and Coca-Cola Over Their Role in the Plastic Pollution Crisis",
                 "href": "https://yro.slashdot.org/story/24/11/04/0354205/la-county-sues-pepsi-and-coca-cola-over-their-role-in-the-plastic-pollution-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "What Happened After Remote Workers Were Offered $10,000 to Move to Tulsa?",
-                "href": "https://it.slashdot.org/story/24/11/04/0451226/what-happened-after-remote-workers-were-offered-10000-to-move-to-tulsa?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -875,12 +875,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Albertsons kills rural grocers with land use restrictions",
-                "href": "https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers"
+                "title": "US Forest Service Decision to Halt Prescribed Burns in CA Is History Repeating",
+                "href": "https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/"
             },
             {
                 "title": "Diagrams \u00b7 Diagram as Code",
                 "href": "https://diagrams.mingrammer.com/"
+            },
+            {
+                "title": "Albertsons kills rural grocers with land use restrictions",
+                "href": "https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers"
+            },
+            {
+                "title": "Escape the Surveillance Web with Gemini",
+                "href": "https://john.soban.ski/gemini.html"
             },
             {
                 "title": "Alonzo Church: Architect of computer intelligence",
@@ -895,60 +903,52 @@
                 "href": "https://jarosz.dev/article/writing-secure-go-code/"
             },
             {
-                "title": "Perplexity CEO offers AI company's services to replace striking NYT staff",
-                "href": "https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/"
-            },
-            {
-                "title": "FFmpeg up to 94x performance boost after implementing handwritten assembly code",
-                "href": "https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code"
+                "title": "Machines of Loving Grace",
+                "href": "https://www.clunyjournal.com/p/machines-of-loving-grace"
             },
             {
                 "title": "DataChain: DBT for Unstructured Data",
                 "href": "https://github.com/iterative/datachain"
             },
             {
+                "title": "Show HN: Convert any website into a React component",
+                "href": "https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp"
+            },
+            {
                 "title": "Blog Writing for Developers (2023)",
                 "href": "https://rmoff.net/2023/07/19/blog-writing-for-developers/"
             },
             {
-                "title": "Show HN: Convert any website into a React component",
-                "href": "https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp"
+                "title": "Data Commons",
+                "href": "https://datacommons.org/"
             },
             {
                 "title": "What should a logo for NeXT look like? (1986)",
                 "href": "https://www.paulrand.design/work/NeXT-Computers.html"
             },
             {
-                "title": "Machines of Loving Grace",
-                "href": "https://www.clunyjournal.com/p/machines-of-loving-grace"
-            },
-            {
-                "title": "Back to the future: Writing 6502 assembler with Amazon Q Developer",
-                "href": "https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer"
-            },
-            {
-                "title": "Generative AI Has an E-Waste Problem",
-                "href": "https://spectrum.ieee.org/e-waste"
+                "title": "All Talks from the Matrix Conference",
+                "href": "https://matrix.org/blog/2024/10/29/matrixconf/"
             },
             {
                 "title": "Facebook Building Subsea Cable That Will Encompass the World",
                 "href": "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html"
             },
             {
-                "title": "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
-                "href": "https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer"
+                "title": "Back to the future: Writing 6502 assembler with Amazon Q Developer",
+                "href": "https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer"
             },
             {
                 "title": "New York Times Tech Guild goes on strike",
                 "href": "https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/"
             },
             {
-                "title": "Designing a Home Radio Telescope for 21 Cm Emission",
-                "href": "https://arxiv.org/abs/2411.00057"
+                "title": "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
+                "href": "https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer"
             },
             {
-                "title": "All Talks from the Matrix Conference",
-                "href": "https://matrix.org/blog/2024/10/29/matrixconf/"
+                "title": "Designing a Home Radio Telescope for 21 Cm Emission",
+                "href": "https://arxiv.org/abs/2411.00057"
             },
             {
                 "title": "A change of heart regarding employee metrics",
@@ -959,28 +959,20 @@
                 "href": "https://www.ucdavis.edu/news/roots-fear-understanding-amygdala"
             },
             {
-                "title": "Limitations of frame pointer unwinding",
-                "href": "https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding"
-            },
-            {
-                "title": "Virtual archaeology: Recreating the first PC I ever used (2022)",
-                "href": "https://fabulous.systems/posts/2022/12/virtual-archaeology-recreating-my-first-computer/"
-            },
-            {
                 "title": "We're Leaving Kubernetes",
                 "href": "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
-            },
-            {
-                "title": "Cheap Thrills, an album cover by Robert Crumb (2020)",
-                "href": "https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/"
             },
             {
                 "title": "The Varieties of Mystical Experience",
                 "href": "https://www.bookforum.com/print/3102/the-varieties-of-mystical-experience-61361"
             },
             {
-                "title": "Unfortunate things about performance reviews (2021)",
-                "href": "http://rachelbythebay.com/w/2021/02/19/perf/"
+                "title": "Limitations of frame pointer unwinding",
+                "href": "https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding"
+            },
+            {
+                "title": "Cheap Thrills, an album cover by Robert Crumb (2020)",
+                "href": "https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/"
             },
             {
                 "title": "Is the Q source the origin of the Gospels?",
@@ -991,8 +983,16 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal"
             },
             {
-                "title": "Diet-dependent host metabolite shape gut microbiota to protect from autoimmunity",
-                "href": "https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01242-7"
+                "title": "Unfortunate things about performance reviews (2021)",
+                "href": "http://rachelbythebay.com/w/2021/02/19/perf/"
+            },
+            {
+                "title": "Quincy Jones has died",
+                "href": "https://apnews.com/article/quincy-jones-dead-a9e31c7e39c448d8971519f47a22dd21"
+            },
+            {
+                "title": "Virtual archaeology: Recreating the first PC I ever used (2022)",
+                "href": "https://fabulous.systems/posts/2022/12/virtual-archaeology-recreating-my-first-computer/"
             }
         ]
     }
