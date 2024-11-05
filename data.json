@@ -23,6 +23,10 @@
                 "href": "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
             },
             {
+                "title": "Thinking About Recipe Formats More Than Anyone Should",
+                "href": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
+            },
+            {
                 "title": "Developer Survey 2024",
                 "href": "https://gleam.run//news/developer-survey-2024/"
             },
@@ -35,12 +39,24 @@
                 "href": "https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/"
             },
             {
+                "title": "How the New sqlite3_rsync Utility Works",
+                "href": "https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works"
+            },
+            {
                 "title": "We\u2019re leaving Kubernetes",
                 "href": "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
             },
             {
-                "title": "Thinking About Recipe Formats More Than Anyone Should",
-                "href": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
+                "title": "Principles of Dependent Type Theory",
+                "href": "https://www.danielgratzer.com/papers/type-theory-book.pdf"
+            },
+            {
+                "title": "Hanami 2.2: Persistence pays off",
+                "href": "https://hanamirb.org/blog/2024/11/05/hanami-220/"
+            },
+            {
+                "title": "C++ Shared Pointer Thread-Safety",
+                "href": "https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/"
             },
             {
                 "title": "Nginx Explorer - Cookie Authentication",
@@ -51,36 +67,20 @@
                 "href": "https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/"
             },
             {
-                "title": "How the New sqlite3_rsync Utility Works",
-                "href": "https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works"
-            },
-            {
-                "title": "Principles of Dependent Type Theory",
-                "href": "https://www.danielgratzer.com/papers/type-theory-book.pdf"
-            },
-            {
-                "title": "C++ Shared Pointer Thread-Safety",
-                "href": "https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/"
-            },
-            {
-                "title": "Hanami 2.2: Persistence pays off",
-                "href": "https://hanamirb.org/blog/2024/11/05/hanami-220/"
+                "title": "The rise of advanced build systems",
+                "href": "https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/"
             },
             {
                 "title": "Simple trick to save environment and money when using GitHub Actions",
                 "href": "https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions"
             },
             {
-                "title": "Why systemd is a problem for embedded Linux",
-                "href": "https://kevinboone.me/systemd_embedded.html"
-            },
-            {
-                "title": "The rise of advanced build systems",
-                "href": "https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/"
-            },
-            {
                 "title": "Why GCP is More Usable for Developers",
                 "href": "https://tonym.us/why-gcp-is-more-usable-for-developers.html"
+            },
+            {
+                "title": "Why systemd is a problem for embedded Linux",
+                "href": "https://kevinboone.me/systemd_embedded.html"
             },
             {
                 "title": "Low-Poly Image Generation using Evolutionary Algorithms in Ruby",
@@ -91,16 +91,16 @@
                 "href": "https://jarosz.dev/article/writing-secure-go-code/"
             },
             {
-                "title": "A Map of Sync",
-                "href": "https://stack.convex.dev/a-map-of-sync"
-            },
-            {
                 "title": "Long Distance Relationships",
                 "href": "https://matt.blwt.io/post/long-distance-relationships/"
             },
             {
-                "title": "Parsing arguments in Rust with no dependencies",
-                "href": "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
+                "title": "CheriBSD - Memory safety for FreeBSD without rewriting",
+                "href": "https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s"
+            },
+            {
+                "title": "CSS One-Liners to Improve (Almost) Every Project",
+                "href": "https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project#limit-content-width"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "US warns of last-minute Iranian and Russian election influence ops",
+                "href": "https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/"
+            },
+            {
                 "title": "Suspect behind Snowflake data-theft attacks arrested in Canada",
                 "href": "https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Cisco says DevHub site leak won\u2019t enable future breaches",
                 "href": "https://www.bleepingcomputer.com/news/security/cisco-says-devhub-site-leak-wont-enable-future-breaches/"
-            },
-            {
-                "title": "Meet Interlock \u2014 The new ransomware targeting FreeBSD servers",
-                "href": "https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/"
             }
         ]
     },
@@ -883,72 +883,60 @@
                 "href": "https://nap.nationalacademies.org/read/26982/chapter/1"
             },
             {
-                "title": "Show HN: rallyup \u2013 Lightweight Wake-on-LAN Scheduler",
-                "href": "https://github.com/darwindarak/rallyup"
-            },
-            {
                 "title": "Hacker Fab",
                 "href": "https://docs.hackerfab.org/hacker-fab-space"
+            },
+            {
+                "title": "Show HN: rallyup \u2013 Lightweight Wake-on-LAN Scheduler",
+                "href": "https://github.com/darwindarak/rallyup"
             },
             {
                 "title": "Netflix Europe offices raided in tax fraud probe",
                 "href": "https://www.bbc.co.uk/news/articles/cwy1vze09wwo"
             },
             {
-                "title": "New documentary reveals that 21,000 laborers have died working Saudi Vision 2030",
-                "href": "https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/"
+                "title": "Will Plants Grow on the Moon?",
+                "href": "https://worldsensorium.com/will-plants-grow-on-the-moon/"
+            },
+            {
+                "title": "Show HN: Varse \u2013 Simple remote application config",
+                "href": "https://github.com/varse-io/varse"
             },
             {
                 "title": "We Shall Fight in the Buttery \u2013 Oxford's War 1939\u20131945",
                 "href": "https://literaryreview.co.uk/we-shall-fight-in-the-buttery"
             },
             {
-                "title": "Show HN: Varse \u2013 Simple remote server variables",
-                "href": "https://github.com/varse-io/varse"
-            },
-            {
                 "title": "World\u2019s oldest tree? Genetic analysis traces evolution of iconic Pando forest",
                 "href": "https://www.nature.com/articles/d41586-024-03570-4"
-            },
-            {
-                "title": "What if they are all wrong? (2020)",
-                "href": "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/"
-            },
-            {
-                "title": "Scalable self-improvement for compiler optimization",
-                "href": "https://research.google/blog/scalable-self-improvement-for-compiler-optimization/"
             },
             {
                 "title": "Boeing Ends Crippling Strike as Workers Accept Latest Offer",
                 "href": "https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer"
             },
             {
-                "title": "Will Plants Grow on the Moon?",
-                "href": "https://worldsensorium.com/will-plants-grow-on-the-moon/"
+                "title": "Scalable self-improvement for compiler optimization",
+                "href": "https://research.google/blog/scalable-self-improvement-for-compiler-optimization/"
             },
             {
-                "title": "World's First Wooden Satellite Heads to Space in Mars Exploration Test",
-                "href": "https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719"
+                "title": "What if they are all wrong? (2020)",
+                "href": "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/"
             },
             {
                 "title": "Diagram as Code",
                 "href": "https://diagrams.mingrammer.com/"
             },
             {
-                "title": "When Projects Stop",
-                "href": "https://thefoggiest.dev/2024/10/31/when-projects-stop"
+                "title": "World's First Wooden Satellite Heads to Space in Mars Exploration Test",
+                "href": "https://news.sky.com/story/worlds-first-wooden-satellite-heads-to-space-in-mars-exploration-test-13248719"
             },
             {
-                "title": "The future belongs to those who prepare like Dwarkesh Patel",
-                "href": "https://meridian.mercury.com/dwarkesh-patel"
+                "title": "New documentary reveals that 21,000 laborers have died working Saudi Vision 2030",
+                "href": "https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/"
             },
             {
                 "title": "Alonzo Church: Architect of computer intelligence",
                 "href": "https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect"
-            },
-            {
-                "title": "Facebook building subsea cable that will encompass the world",
-                "href": "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html"
             },
             {
                 "title": "Machines of Loving Grace",
@@ -963,36 +951,48 @@
                 "href": "https://jarosz.dev/article/writing-secure-go-code/"
             },
             {
-                "title": "Low-poly image generation using evolutionary algorithms in Ruby (2023)",
-                "href": "https://thomascountz.com/2023/07/30/low-poly-image-generation"
-            },
-            {
                 "title": "Show HN: Convert any website into a React component",
                 "href": "https://chromewebstore.google.com/detail/html-to-react-figma-by-ma/chgehghmhgihgmpmdjpolhkcnhkokdfp"
             },
             {
-                "title": "The Roots of Fear: Understanding the Amygdala",
-                "href": "https://www.ucdavis.edu/news/roots-fear-understanding-amygdala"
+                "title": "Low-poly image generation using evolutionary algorithms in Ruby (2023)",
+                "href": "https://thomascountz.com/2023/07/30/low-poly-image-generation"
+            },
+            {
+                "title": "Facebook building subsea cable that will encompass the world",
+                "href": "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html"
             },
             {
                 "title": "Netnews: The Origin Story [pdf]",
                 "href": "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
             },
             {
-                "title": "DB48X: High Performance Scientific Calculator, Reinvented",
-                "href": "http://48calc.org/"
+                "title": "The Roots of Fear: Understanding the Amygdala",
+                "href": "https://www.ucdavis.edu/news/roots-fear-understanding-amygdala"
             },
             {
                 "title": "State of Python 3.13 Performance: Free-Threading",
                 "href": "https://codspeed.io/blog/state-of-python-3-13-performance-free-threading"
             },
             {
+                "title": "DB48X: High Performance Scientific Calculator, Reinvented",
+                "href": "http://48calc.org/"
+            },
+            {
+                "title": "The future belongs to those who prepare like Dwarkesh Patel",
+                "href": "https://meridian.mercury.com/dwarkesh-patel"
+            },
+            {
                 "title": "Pagination widows, or, why I'm embarrassed about my eBook (2023)",
                 "href": "https://clagnut.com/blog/2426"
             },
             {
-                "title": "It's called a dance floor",
-                "href": "https://www.seekhifi.com/its-called-a-dance-floor/"
+                "title": "USFS decision to halt prescribed burns in California is history repeating",
+                "href": "https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/"
+            },
+            {
+                "title": "Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF)",
+                "href": "https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer"
             }
         ]
     }
