@@ -11,12 +11,20 @@
                 "href": "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
             },
             {
+                "title": "Zig's (.{}){} syntax",
+                "href": "https://www.openmymind.net/Zigs-weird-syntax/"
+            },
+            {
                 "title": "HTML link, or button, that is the question",
                 "href": "https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/"
             },
             {
                 "title": "We\u2019re leaving Kubernetes",
                 "href": "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
+            },
+            {
+                "title": "comin: GitOps For NixOS Machines",
+                "href": "https://github.com/nlewo/comin"
             },
             {
                 "title": "C++ Shared Pointer Thread-Safety",
@@ -27,6 +35,10 @@
                 "href": "https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/"
             },
             {
+                "title": "Principles of Dependent Type Theory",
+                "href": "https://www.danielgratzer.com/papers/type-theory-book.pdf"
+            },
+            {
                 "title": "Nginx Explorer - Cookie Authentication",
                 "href": "https://blog.izissise.net/posts/ngxp-cookie-auth/"
             },
@@ -35,32 +47,32 @@
                 "href": "https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions"
             },
             {
-                "title": "comin: GitOps For NixOS Machines",
-                "href": "https://github.com/nlewo/comin"
-            },
-            {
-                "title": "Principles of Dependent Type Theory",
-                "href": "https://www.danielgratzer.com/papers/type-theory-book.pdf"
+                "title": "Why systemd is a problem for embedded Linux",
+                "href": "https://kevinboone.me/systemd_embedded.html"
             },
             {
                 "title": "Why GCP is More Usable for Developers",
                 "href": "https://tonym.us/why-gcp-is-more-usable-for-developers.html"
             },
             {
-                "title": "Why systemd is a problem for embedded Linux",
-                "href": "https://kevinboone.me/systemd_embedded.html"
+                "title": "Low-Poly Image Generation using Evolutionary Algorithms in Ruby",
+                "href": "https://thomascountz.com/2023/07/30/low-poly-image-generation"
             },
             {
                 "title": "A Map of Sync",
                 "href": "https://stack.convex.dev/a-map-of-sync"
             },
             {
-                "title": "Highlighting Text in Links with Text Fragments",
-                "href": "https://calebhearth.com/l/text-fragments"
-            },
-            {
                 "title": "Parsing arguments in Rust with no dependencies",
                 "href": "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
+            },
+            {
+                "title": "Long Distance Relationships",
+                "href": "https://matt.blwt.io/post/long-distance-relationships/"
+            },
+            {
+                "title": "Highlighting Text in Links with Text Fragments",
+                "href": "https://calebhearth.com/l/text-fragments"
             },
             {
                 "title": "What are you doing this week?",
@@ -71,12 +83,8 @@
                 "href": "https://jarosz.dev/article/writing-secure-go-code/"
             },
             {
-                "title": "Long Distance Relationships",
-                "href": "https://matt.blwt.io/post/long-distance-relationships/"
-            },
-            {
-                "title": "Zig's (.{}){} syntax",
-                "href": "https://www.openmymind.net/Zigs-weird-syntax/"
+                "title": "Object Pools",
+                "href": "https://famicom.party/book/17-objectpools/"
             },
             {
                 "title": "HashML-DSA considered harmful",
@@ -91,16 +99,8 @@
                 "href": "https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652"
             },
             {
-                "title": "Low-Poly Image Generation using Evolutionary Algorithms in Ruby",
-                "href": "https://thomascountz.com/2023/07/30/low-poly-image-generation"
-            },
-            {
                 "title": "ZX81 3D Monster Maze disassembly (2020)",
                 "href": "http://www.fruitcake.plus.com/Sinclair/ZX81/Disassemblies/MonsterMaze.htm"
-            },
-            {
-                "title": "Object Pools",
-                "href": "https://famicom.party/book/17-objectpools/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Meta Permits Its AI Models To Be Used For US Military Purposes",
+                "href": "https://news.slashdot.org/story/24/11/05/043209/meta-permits-its-ai-models-to-be-used-for-us-military-purposes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "US Regulator Rejects Bid To Boost Nuclear Power To Amazon Data Center",
                 "href": "https://hardware.slashdot.org/story/24/11/05/0357243/us-regulator-rejects-bid-to-boost-nuclear-power-to-amazon-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Netflix Bullish on Gen AI for Games After Laying Off Human Game Developers",
                 "href": "https://games.slashdot.org/story/24/11/04/1840220/netflix-bullish-on-gen-ai-for-games-after-laying-off-human-game-developers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Newest Device To Run Doom: Nintendo's Alarm Clock",
-                "href": "https://games.slashdot.org/story/24/11/04/1834206/newest-device-to-run-doom-nintendos-alarm-clock?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -875,36 +875,48 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Show HN: Spinup \u2013 Lightweight Wake-on-LAN Scheduler",
+                "href": "https://github.com/darwindarak/rallyup"
+            },
+            {
                 "title": "World's oldest tree? Genetic analysis traces evolution of iconic Pando forest",
                 "href": "https://www.nature.com/articles/d41586-024-03570-4"
             },
             {
-                "title": "Show HN: IMDb SQL Best Movie Finder",
-                "href": "https://www.imdb-sql.com/"
+                "title": "Google Is Now Watermarking Its AI-Generated Text",
+                "href": "https://spectrum.ieee.org/watermark"
             },
             {
                 "title": "Diagram as Code",
                 "href": "https://diagrams.mingrammer.com/"
             },
             {
+                "title": "Math's 'Bunkbed Conjecture' Has Been Debunked",
+                "href": "https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/"
+            },
+            {
                 "title": "Alonzo Church: Architect of computer intelligence",
                 "href": "https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect"
+            },
+            {
+                "title": "Show HN: IMDb SQL Best Movie Finder",
+                "href": "https://www.imdb-sql.com/"
             },
             {
                 "title": "Pagination widows, or, why I'm embarrassed about my eBook (2023)",
                 "href": "https://clagnut.com/blog/2426"
             },
             {
-                "title": "Low-poly image generation using evolutionary algorithms in Ruby",
+                "title": "Low-poly image generation using evolutionary algorithms in Ruby (2023)",
                 "href": "https://thomascountz.com/2023/07/30/low-poly-image-generation"
-            },
-            {
-                "title": "Machines of Loving Grace",
-                "href": "https://www.clunyjournal.com/p/machines-of-loving-grace"
             },
             {
                 "title": "Facebook building subsea cable that will encompass the world",
                 "href": "https://subseacables.blogspot.com/2024/10/breaking-story-facebook-building-subsea.html"
+            },
+            {
+                "title": "Machines of Loving Grace",
+                "href": "https://www.clunyjournal.com/p/machines-of-loving-grace"
             },
             {
                 "title": "Writing secure Go code",
@@ -913,6 +925,10 @@
             {
                 "title": "Blog Writing for Developers (2023)",
                 "href": "https://rmoff.net/2023/07/19/blog-writing-for-developers/"
+            },
+            {
+                "title": "Avoiding recompilation hell in Elixir with mix xref",
+                "href": "https://r.ena.to/blog/avoiding-recompilation-hell-in-elixir-with-mix-xref/"
             },
             {
                 "title": "Show HN: Convert any website into a React component",
@@ -927,28 +943,24 @@
                 "href": "https://blog.codingconfessions.com/p/gpu-computing"
             },
             {
-                "title": "Aldebaran 1959 Spacecraft Concept (2010)",
-                "href": "https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html"
-            },
-            {
                 "title": "The Roots of Fear: Understanding the Amygdala",
                 "href": "https://www.ucdavis.edu/news/roots-fear-understanding-amygdala"
             },
             {
-                "title": "Avoiding recompilation hell in Elixir with mix xref",
-                "href": "https://r.ena.to/blog/avoiding-recompilation-hell-in-elixir-with-mix-xref/"
+                "title": "Bird wings inspire new approach to flight safety",
+                "href": "https://engineering.princeton.edu/news/2024/10/28/bird-wings-inspire-new-approach-flight-safety"
             },
             {
-                "title": "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
-                "href": "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
+                "title": "Aldebaran 1959 Spacecraft Concept (2010)",
+                "href": "https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html"
             },
             {
                 "title": "USFS Decision to Halt Prescribed Burns in California is History Repeating",
                 "href": "https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/"
             },
             {
-                "title": "Math's 'Bunkbed Conjecture' Has Been Debunked",
-                "href": "https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/"
+                "title": "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
+                "href": "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
             },
             {
                 "title": "Data Commons",
@@ -963,36 +975,24 @@
                 "href": "https://www.paulrand.design/work/NeXT-Computers.html"
             },
             {
-                "title": "We're Leaving Kubernetes",
-                "href": "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
-            },
-            {
                 "title": "Netnews: The Origin Story [pdf]",
                 "href": "https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf"
+            },
+            {
+                "title": "We're Leaving Kubernetes",
+                "href": "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
             },
             {
                 "title": "DataChain: DBT for Unstructured Data",
                 "href": "https://github.com/iterative/datachain"
             },
             {
-                "title": "The Backrooms Wiki",
-                "href": "https://daytenrose.substack.com/p/26-the-backrooms-wiki"
-            },
-            {
                 "title": "It's called a dance floor",
                 "href": "https://www.seekhifi.com/its-called-a-dance-floor/"
             },
             {
-                "title": "Back to the future: Writing 6502 assembler with Amazon Q Developer",
-                "href": "https://community.aws/content/2oEqDGCIsQwoPrL3wjoSReyHnan/back-to-the-future-writing-6502-assembler-with-amazon-q-developer"
-            },
-            {
-                "title": "How the British Airways' breach kickstarted today's web security challenge",
-                "href": "https://baways.com/"
-            },
-            {
-                "title": "Scientists glue two proteins together, driving cancer cells to self-destruct",
-                "href": "https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html"
+                "title": "The Backrooms Wiki",
+                "href": "https://daytenrose.substack.com/p/26-the-backrooms-wiki"
             }
         ]
     }
