@@ -19,24 +19,32 @@
                 "href": "https://www.openmymind.net/Zigs-weird-syntax/"
             },
             {
-                "title": "The Unreasonable Effectiveness of Naming Integers",
-                "href": "https://ziglang.org/devlog/2024/#2024-11-04"
+                "title": "Implementing distributed pooling in Elixir",
+                "href": "https://samrat.me/elixir-distributed-pooling/"
             },
             {
                 "title": "Upcoming changes to the DNSSEC root trust anchor",
                 "href": "https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html"
             },
             {
+                "title": "The Unreasonable Effectiveness of Naming Integers",
+                "href": "https://ziglang.org/devlog/2024/#2024-11-04"
+            },
+            {
                 "title": "I'm bored and want a FOSS project to write code for",
                 "href": "https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for"
             },
             {
-                "title": "Implementing distributed pooling in Elixir",
-                "href": "https://samrat.me/elixir-distributed-pooling/"
+                "title": "Blog Post: How to Add a Blazor Server App to an ASP.NET Model/Controller Web API",
+                "href": "https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API"
             },
             {
                 "title": "Thinking About Recipe Formats More Than Anyone Should",
                 "href": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
+            },
+            {
+                "title": "Thoughts on Improving Messaging Protocols \u2014 Part 2, Matrix",
+                "href": "https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/"
             },
             {
                 "title": "Vegetation in COD:BO4",
@@ -57,10 +65,6 @@
             {
                 "title": "What I wish I had known as a programmer moving to Berlin",
                 "href": "https://wickedchicken.github.io/post/programmer-in-berlin/"
-            },
-            {
-                "title": "Thoughts on Improving Messaging Protocols \u2014 Part 2, Matrix",
-                "href": "https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/"
             },
             {
                 "title": "Hanami 2.2: Persistence pays off",
@@ -97,10 +101,6 @@
             {
                 "title": "On That Okta LDAP Bug",
                 "href": "https://matt.blwt.io/post/on-that-okta-ldap-bug/"
-            },
-            {
-                "title": "CheriBSD - Memory safety for FreeBSD without rewriting",
-                "href": "https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "Upcoming hardening in PHP",
                 "href": "https://www.reddit.com/r/netsec/comments/1gkvkkt/upcoming_hardening_in_php/"
+            },
+            {
+                "title": "Breaking Down Multipart Parsers: File upload validation bypass",
+                "href": "https://www.reddit.com/r/netsec/comments/1gl2sr9/breaking_down_multipart_parsers_file_upload/"
             },
             {
                 "title": "Escalating from Reader to Contributor in Azure API Management pt II",
@@ -206,10 +210,6 @@
             {
                 "title": "Using AFL++ on bug bounty programs: an example with Gnome libsoup",
                 "href": "https://www.reddit.com/r/netsec/comments/1gflu6j/using_afl_on_bug_bounty_programs_an_example_with/"
-            },
-            {
-                "title": "Cracking into a Just Eat / Takeaway.com terminal with an NFC card",
-                "href": "https://www.reddit.com/r/netsec/comments/1gf8fsq/cracking_into_a_just_eat_takeawaycom_terminal/"
             }
         ]
     },
@@ -875,96 +875,100 @@
                 "href": "https://security.apple.com/documentation/private-cloud-compute/"
             },
             {
-                "title": "Show HN: SuperSplat \u2013 open-source 3D Gaussian Splat Editor",
-                "href": "https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false"
-            },
-            {
                 "title": "Show HN: Aide, an open-source AI native IDE",
                 "href": "https://aide.dev/"
+            },
+            {
+                "title": "Show HN: SuperSplat \u2013 open-source 3D Gaussian Splat Editor",
+                "href": "https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false"
             },
             {
                 "title": "New images of Jupiter",
                 "href": "https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16"
             },
             {
+                "title": "Show HN: Hacker News frontpage as a print newspaper that you can personalize",
+                "href": "https://yourhackernews.com/"
+            },
+            {
                 "title": "Useful built-in macOS command-line utilities",
                 "href": "https://weiyen.net/articles/useful-macos-cmd-line-utilities"
-            },
-            {
-                "title": "Powering the Mars Base",
-                "href": "https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/"
-            },
-            {
-                "title": "Title drops in movies",
-                "href": "https://www.titledrops.net/"
             },
             {
                 "title": "Model Predictive Control in the Browser with WebAssembly",
                 "href": "https://garethx.com/posts/cart-pole-mpc/"
             },
             {
-                "title": "Kernel optimization with BOLT (binary optimization and layout tool)",
-                "href": "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
+                "title": "Title drops in movies",
+                "href": "https://www.titledrops.net/"
             },
             {
-                "title": "AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache",
-                "href": "https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux"
+                "title": "Powering the Mars Base",
+                "href": "https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/"
             },
             {
                 "title": "Switch 2 will be backwards compatible with Switch, Nintendo confirms",
                 "href": "https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/"
             },
             {
+                "title": "Kernel optimization with BOLT (binary optimization and layout tool)",
+                "href": "https://lwn.net/SubscriberLink/993828/eb9b437bf7604da3/"
+            },
+            {
                 "title": "Trump wins presidency for second time",
                 "href": "https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/"
             },
             {
-                "title": "98.css \u2013 A design system for building faithful recreations of old UIs",
-                "href": "https://jdan.github.io/98.css/"
+                "title": "AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache",
+                "href": "https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux"
             },
             {
                 "title": "Monorepo \u2013 Our Experience",
                 "href": "https://ente.io/blog/monorepo-retrospective/"
             },
             {
-                "title": "What has case distinction but is neither uppercase nor lowercase?",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
+                "title": "98.css \u2013 A design system for building faithful recreations of old UIs",
+                "href": "https://jdan.github.io/98.css/"
             },
             {
                 "title": "Upcoming changes to the DNSSEC root trust anchor",
                 "href": "https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html"
             },
             {
-                "title": "Why the deep learning boom caught almost everyone by surprise",
-                "href": "https://www.understandingai.org/p/why-the-deep-learning-boom-caught"
+                "title": "What has case distinction but is neither uppercase nor lowercase?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
             },
             {
                 "title": "Only 5.3% of US welders are women. After years as a professor, I became one",
                 "href": "https://theconversation.com/only-5-3-of-welders-in-the-us-are-women-after-years-as-a-writing-professor-i-became-one-heres-what-i-learned-240431"
             },
             {
-                "title": "EU opens antitrust investigation into anticompetitive practices by Corning",
-                "href": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681"
-            },
-            {
-                "title": "Defibrillation devices save lives using 1k times less electricity",
-                "href": "https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html"
-            },
-            {
-                "title": "3D Rotation Design",
-                "href": "https://www.mattkeeter.com/projects/rotation/"
+                "title": "Why the deep learning boom caught almost everyone by surprise",
+                "href": "https://www.understandingai.org/p/why-the-deep-learning-boom-caught"
             },
             {
                 "title": "Fact [pdf]",
                 "href": "https://ranjitjhala.github.io/static/fact_dsl.pdf"
             },
             {
-                "title": "It's raining PFAS in South Florida \u2013 study",
-                "href": "https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678"
+                "title": "EU opens antitrust investigation into anticompetitive practices by Corning",
+                "href": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681"
+            },
+            {
+                "title": "3D Rotation Design",
+                "href": "https://www.mattkeeter.com/projects/rotation/"
+            },
+            {
+                "title": "Defibrillation devices save lives using 1k times less electricity",
+                "href": "https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html"
             },
             {
                 "title": "Superstreamer \u2013 OSS streaming toolkit from video source to player",
                 "href": "https://github.com/matvp91/superstreamer"
+            },
+            {
+                "title": "It's raining PFAS in South Florida \u2013 study",
+                "href": "https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678"
             },
             {
                 "title": "GoToSocial WASM-based SQLite driver and BSD",
@@ -977,10 +981,6 @@
             {
                 "title": "Tracker Beeper (2022)",
                 "href": "https://berthub.eu/articles/posts/tracker-beeper/"
-            },
-            {
-                "title": "Nulls: Revisiting null representation in modern columnar formats",
-                "href": "https://dl.acm.org/doi/10.1145/3662010.3663452"
             },
             {
                 "title": "Unix Programmer's Manual Third Edition [pdf] (1973)",
