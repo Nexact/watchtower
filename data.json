@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Implementing distributed pooling in Elixir",
+                "href": "https://samrat.me/elixir-distributed-pooling/"
+            },
+            {
                 "title": "We can have a different web",
                 "href": "https://www.citationneeded.news/we-can-have-a-different-web/"
             },
             {
                 "title": "Turing kicked us out of Heaven (2023)",
                 "href": "https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/"
-            },
-            {
-                "title": "Implementing distributed pooling in Elixir",
-                "href": "https://samrat.me/elixir-distributed-pooling/"
             },
             {
                 "title": "Localized, web-based, markdown, note-taking app inspired by textpod",
@@ -25,6 +25,10 @@
             {
                 "title": "Why Podia doesn\u2019t use review apps anymore",
                 "href": "https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore"
+            },
+            {
+                "title": "Perhaps Rust needs \"defer\"",
+                "href": "https://gaultier.github.io/blog/perhaps_rust_needs_defer.html"
             },
             {
                 "title": "Upcoming changes to the DNSSEC root trust anchor",
@@ -47,12 +51,12 @@
                 "href": "https://ziglang.org/devlog/2024/#2024-11-04"
             },
             {
-                "title": "Blog Post: How to Add a Blazor Server App to an ASP.NET Model/Controller Web API",
-                "href": "https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API"
-            },
-            {
                 "title": "Vegetation in COD:BO4",
                 "href": "https://c0de517e.com/015_vegetation_system.htm"
+            },
+            {
+                "title": "Blog Post: How to Add a Blazor Server App to an ASP.NET Model/Controller Web API",
+                "href": "https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API"
             },
             {
                 "title": "GoToSocial WASM-based SQLite driver and BSD",
@@ -79,12 +83,12 @@
                 "href": "https://hanamirb.org/blog/2024/11/05/hanami-220/"
             },
             {
-                "title": "On That Okta LDAP Bug",
-                "href": "https://matt.blwt.io/post/on-that-okta-ldap-bug/"
-            },
-            {
                 "title": "MinPin: yet another pin proposal",
                 "href": "https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/"
+            },
+            {
+                "title": "On That Okta LDAP Bug",
+                "href": "https://matt.blwt.io/post/on-that-okta-ldap-bug/"
             },
             {
                 "title": "How the New sqlite3_rsync Utility Works",
@@ -97,10 +101,6 @@
             {
                 "title": "Demystifying secure NFS",
                 "href": "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
-            },
-            {
-                "title": "ShareMyScreen - see how J experts write a program",
-                "href": "https://code.jsoftware.com/wiki/ShareMyScreen"
             }
         ]
     },
@@ -116,12 +116,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1gkxji4/hacking_700_million_electronic_arts_accounts/"
             },
             {
-                "title": "Breaking Down Multipart Parsers: File upload validation bypass",
-                "href": "https://www.reddit.com/r/netsec/comments/1gl2sr9/breaking_down_multipart_parsers_file_upload/"
-            },
-            {
                 "title": "Upcoming hardening in PHP",
                 "href": "https://www.reddit.com/r/netsec/comments/1gkvkkt/upcoming_hardening_in_php/"
+            },
+            {
+                "title": "Breaking Down Multipart Parsers: File upload validation bypass",
+                "href": "https://www.reddit.com/r/netsec/comments/1gl2sr9/breaking_down_multipart_parsers_file_upload/"
             },
             {
                 "title": "Escalating from Reader to Contributor in Azure API Management pt II",
@@ -376,6 +376,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "Drupal security advisory (AV24-636)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636"
+            },
+            {
                 "title": "Cisco security advisory (AV24-635)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635"
             },
@@ -570,10 +574,6 @@
             {
                 "title": "Mozilla security advisory (AV24-588)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-588"
-            },
-            {
-                "title": "[Control systems] CISA ICS security advisories (AV24\u2013587)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-587"
             }
         ]
     },
@@ -871,14 +871,6 @@
                 "href": "https://www.spacex.com/launches/mission/?missionId=starship-flight-6"
             },
             {
-                "title": "ChatGPT now on chat.com",
-                "href": "https://chat.com/"
-            },
-            {
-                "title": "WebSockets cost us $1M on our AWS bill",
-                "href": "https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill"
-            },
-            {
                 "title": "Private Cloud Compute Security Guide",
                 "href": "https://security.apple.com/documentation/private-cloud-compute/"
             },
@@ -903,24 +895,36 @@
                 "href": "https://weiyen.net/articles/useful-macos-cmd-line-utilities"
             },
             {
-                "title": "Learning not to trust the All-In podcast",
-                "href": "https://passingtime.substack.com/p/learning-not-to-trust-the-all-in"
-            },
-            {
-                "title": "Model Predictive Control in the Browser with WebAssembly",
-                "href": "https://garethx.com/posts/cart-pole-mpc/"
-            },
-            {
-                "title": "Title drops in movies",
-                "href": "https://www.titledrops.net/"
+                "title": "WebSockets cost us $1M on our AWS bill",
+                "href": "https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill"
             },
             {
                 "title": "Solving the Siberian Crater Mystery",
                 "href": "https://nautil.us/the-mystery-of-the-siberian-craters-1051317/"
             },
             {
+                "title": "Title drops in movies",
+                "href": "https://www.titledrops.net/"
+            },
+            {
+                "title": "Model Predictive Control in the Browser with WebAssembly",
+                "href": "https://garethx.com/posts/cart-pole-mpc/"
+            },
+            {
+                "title": "Japan's declining births on track to fall below 700k",
+                "href": "https://www.asahi.com/ajw/articles/15497062"
+            },
+            {
+                "title": "Learning not to trust the All-In podcast",
+                "href": "https://passingtime.substack.com/p/learning-not-to-trust-the-all-in"
+            },
+            {
                 "title": "Monorepo \u2013 Our Experience",
                 "href": "https://ente.io/blog/monorepo-retrospective/"
+            },
+            {
+                "title": "Show HN: Term-Lisp \u2013 A Lisp, based on pattern matching and term rewriting",
+                "href": "https://github.com/abuseofnotation/termlisp"
             },
             {
                 "title": "Kernel optimization with BOLT (binary optimization and layout tool)",
@@ -931,16 +935,20 @@
                 "href": "https://thehill.com/homenews/campaign/4969061-trump-wins-presidential-election/"
             },
             {
-                "title": "Show HN: Term-Lisp \u2013 A Lisp, based on pattern matching and term rewriting",
-                "href": "https://github.com/abuseofnotation/termlisp"
+                "title": "Switch 2 will be backwards compatible with Switch",
+                "href": "https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/"
             },
             {
                 "title": "98.css \u2013 A design system for building faithful recreations of old UIs",
                 "href": "https://jdan.github.io/98.css/"
             },
             {
-                "title": "Switch 2 will be backwards compatible with Switch",
-                "href": "https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/"
+                "title": "The truth about latchkey kids",
+                "href": "https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids"
+            },
+            {
+                "title": "Politicians are Jungian symbols, policies are facades",
+                "href": "https://ofthetwodreams.substack.com/p/humans-live-and-die-by-their-myths"
             },
             {
                 "title": "Only 5.3% of US welders are women. After years as a professor, I became one",
@@ -951,16 +959,24 @@
                 "href": "https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/"
             },
             {
+                "title": "Forget CDK and AWS's insane costs. Pulumi and DigitalOcean to the rescue",
+                "href": "https://github.com/stoix-dev/stoix-cloud-saver"
+            },
+            {
                 "title": "AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache",
                 "href": "https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux"
+            },
+            {
+                "title": "3D Rotation Design",
+                "href": "https://www.mattkeeter.com/projects/rotation/"
             },
             {
                 "title": "Upcoming changes to the DNSSEC root trust anchor",
                 "href": "https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html"
             },
             {
-                "title": "3D Rotation Design",
-                "href": "https://www.mattkeeter.com/projects/rotation/"
+                "title": "What has case distinction but is neither uppercase nor lowercase?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
             },
             {
                 "title": "Breaking the image: a 12th-century Ai Weiwei?",
@@ -969,22 +985,6 @@
             {
                 "title": "Powering the Mars Base",
                 "href": "https://caseyhandmer.wordpress.com/2024/11/05/powering-the-mars-base/"
-            },
-            {
-                "title": "What has case distinction but is neither uppercase nor lowercase?",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
-            },
-            {
-                "title": "Show HN: Aide, an open-source AI native IDE",
-                "href": "https://aide.dev/"
-            },
-            {
-                "title": "Defibrillation devices save lives using 1k times less electricity",
-                "href": "https://phys.org/news/2024-11-defibrillation-devices-electricity-optimized.html"
-            },
-            {
-                "title": "EU opens antitrust investigation into anticompetitive practices by Corning",
-                "href": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5681"
             }
         ]
     }
