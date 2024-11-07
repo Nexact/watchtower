@@ -19,12 +19,12 @@
                 "href": "https://thephd.dev/the-big-array-size-survey-for-c"
             },
             {
-                "title": "PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages",
-                "href": "https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052"
-            },
-            {
                 "title": "An Opinionated Guide to Keyboard Thumb Keys",
                 "href": "https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/"
+            },
+            {
+                "title": "PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages",
+                "href": "https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052"
             },
             {
                 "title": "Proposal for a Django project template",
@@ -33,6 +33,10 @@
             {
                 "title": "FreeBSD 2024 Q3 Status Report",
                 "href": "https://www.freebsd.org/status/report-2024-07-2024-09/"
+            },
+            {
+                "title": "CORAL: a Rust-like Borrow Checker for C",
+                "href": "https://github.com/tiagodusilva/coral"
             },
             {
                 "title": "determination: Rust typecheckers for System F and System F-omega",
@@ -59,6 +63,10 @@
                 "href": "https://dz4k.com/2024/fruit-credits/"
             },
             {
+                "title": "Yellow Scream (2024)",
+                "href": "https://hannahilea.com/blog/yellow-scream-2024/"
+            },
+            {
                 "title": "A Science of Concurrent Programs",
                 "href": "https://lamport.azurewebsites.net/tla/science-book.html"
             },
@@ -75,12 +83,16 @@
                 "href": "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
             },
             {
-                "title": "Yellow Scream (2024)",
-                "href": "https://hannahilea.com/blog/yellow-scream-2024/"
-            },
-            {
                 "title": "Visualizing binary files with ImHex's DSL, the \"pattern language\"",
                 "href": "https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html"
+            },
+            {
+                "title": "Bringing faster exceptions to Rust",
+                "href": "https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/"
+            },
+            {
+                "title": "Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch",
+                "href": "https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch"
             },
             {
                 "title": "oss-sec: shell wildcard expansion (un)safety",
@@ -89,18 +101,6 @@
             {
                 "title": "Exploring Postgres's arena allocator by writing an HTTP server from scratch",
                 "href": "https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch"
-            },
-            {
-                "title": "Perhaps Rust needs \"defer\"",
-                "href": "https://gaultier.github.io/blog/perhaps_rust_needs_defer.html"
-            },
-            {
-                "title": "Visualising software architecture with the C4 model (2019)",
-                "href": "https://www.youtube.com/watch?v=x2-rSnhpw0g"
-            },
-            {
-                "title": "Implementing distributed pooling in Elixir",
-                "href": "https://samrat.me/elixir-distributed-pooling/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "North Korean hackers use new macOS malware against crypto firms",
+                "href": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-against-crypto-firms/"
+            },
+            {
                 "title": "CISA warns of critical Palo Alto Networks bug exploited in attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/"
             },
@@ -255,10 +259,6 @@
             {
                 "title": "Germany drafts law to protect researchers who find security flaws",
                 "href": "https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/"
-            },
-            {
-                "title": "Google Cloud to make MFA mandatory by the end of 2025",
-                "href": "https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/"
             }
         ]
     },
@@ -871,12 +871,12 @@
                 "href": "item?id=42078536"
             },
             {
-                "title": "Bird Flu Infections Undetected",
-                "href": "https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/"
-            },
-            {
                 "title": "Using Ghidra and Python to reverse engineer Ecco the Dolphin",
                 "href": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin"
+            },
+            {
+                "title": "Bird Flu Infections Undetected",
+                "href": "https://www.statnews.com/2024/11/07/bird-flu-farm-worker-infections-undetected-cdc-study/"
             },
             {
                 "title": "AI for real-time fusion plasma behavior prediction and manipulation",
@@ -907,6 +907,10 @@
                 "href": "https://bunny.net/blog/introducing-bunny-edge-scripting-a-better-way-to-build-and-deploy-applications-at-the-edge/"
             },
             {
+                "title": "Trump's likely FCC chair wrote Project 2025 chapter on how he'd run the agency",
+                "href": "https://arstechnica.com/tech-policy/2024/11/trumps-likely-fcc-chair-wrote-project-2025-chapter-on-how-hed-run-the-agency/"
+            },
+            {
                 "title": "Imaging shapes of atomic nuclei in high-energy nuclear collisions",
                 "href": "https://www.nature.com/articles/s41586-024-08097-2"
             },
@@ -915,16 +919,28 @@
                 "href": "https://theamericanscholar.org/masters-of-horror-and-magic/"
             },
             {
-                "title": "I'm not mutable, I'm partially instantiated",
-                "href": "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
+                "title": "Toronto crypto company CEO kidnapped, held for $1M ransom before being released",
+                "href": "https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679"
             },
             {
                 "title": "Hyperlight: Virtual machine-based security for functions at scale",
                 "href": "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
             },
             {
+                "title": "I'm not mutable, I'm partially instantiated",
+                "href": "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
+            },
+            {
+                "title": "Five minutes of exercise a day could lower blood pressure",
+                "href": "https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html"
+            },
+            {
                 "title": "Excerpts from a conversation about personal information management",
                 "href": "https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/"
+            },
+            {
+                "title": "Show HN: Directional antenna alignment using phone motion sensors",
+                "href": "https://star.conor.link/"
             },
             {
                 "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
@@ -935,56 +951,40 @@
                 "href": "https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/"
             },
             {
-                "title": "Five minutes of exercise a day could lower blood pressure",
-                "href": "https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html"
-            },
-            {
-                "title": "Toronto crypto company CEO kidnapped, held for $1M ransom before being released",
-                "href": "https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679"
+                "title": "Linux Syscall Support",
+                "href": "https://chromium.googlesource.com/linux-syscall-support/"
             },
             {
                 "title": "Kagi Translate",
                 "href": "https://blog.kagi.com/kagi-translate"
             },
             {
-                "title": "Linux Syscall Support",
-                "href": "https://chromium.googlesource.com/linux-syscall-support/"
-            },
-            {
                 "title": "A counter-intuitive guide to better leadership",
                 "href": "https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership"
-            },
-            {
-                "title": "Bluesky's at Protocol: Pros and Cons for Developers",
-                "href": "https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/"
-            },
-            {
-                "title": "Physics-informed Shadowgraph Network: End-to-end Density Field Reconstruction",
-                "href": "https://arxiv.org/abs/2410.20203"
             },
             {
                 "title": "Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js)",
                 "href": "https://www.workatastartup.com/companies/optery"
             },
             {
-                "title": "Richard A. Cash, who saved millions from dehydration, has died",
-                "href": "https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html"
-            },
-            {
-                "title": "DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos",
-                "href": "https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264"
+                "title": "Bluesky's at Protocol: Pros and Cons for Developers",
+                "href": "https://thenewstack.io/blueskys-at-protocol-pros-and-cons-for-developers/"
             },
             {
                 "title": "Automat",
                 "href": "https://automat.org"
             },
             {
-                "title": "URAvatar: Universal Relightable Gaussian Codec Avatars",
-                "href": "https://junxuan-li.github.io/urgca-website/"
+                "title": "DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos",
+                "href": "https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264"
             },
             {
-                "title": "Passport Photos",
-                "href": "https://maxsiedentopf.com/passport-photos/"
+                "title": "Richard A. Cash, who saved millions from dehydration, has died",
+                "href": "https://www.nytimes.com/2024/11/02/science/richard-cash-dead.html"
+            },
+            {
+                "title": "Physics-informed Shadowgraph Network: End-to-end Density Field Reconstruction",
+                "href": "https://arxiv.org/abs/2410.20203"
             }
         ]
     }
