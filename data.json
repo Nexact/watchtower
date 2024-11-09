@@ -3,10 +3,6 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "PSA: SQLite does not do checksums",
-                "href": "https://avi.im/blag/2024/sqlite-bit-flip/"
-            },
-            {
                 "title": "Building Bridges to C++",
                 "href": "https://www.circle-lang.org/interop.html"
             },
@@ -21,6 +17,10 @@
             {
                 "title": "Known Attacks On Elliptic Curve Cryptography",
                 "href": "https://github.com/elikaski/ECC_Attacks"
+            },
+            {
+                "title": "PSA: SQLite does not do checksums",
+                "href": "https://avi.im/blag/2024/sqlite-bit-flip/"
             },
             {
                 "title": "How to self-host all of Bluesky (except the AppView (for now))",
@@ -57,6 +57,10 @@
             {
                 "title": "Announcing Planet Nix",
                 "href": "https://discourse.nixos.org/t/announcing-planet-nix/55350"
+            },
+            {
+                "title": "Discussion: Adding memory regions to Go",
+                "href": "https://github.com/golang/go/discussions/70257"
             },
             {
                 "title": "Desktop icons are surprisingly hard",
@@ -97,10 +101,6 @@
             {
                 "title": "Creating a Brainrot Language Server in Golang",
                 "href": "https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/"
-            },
-            {
-                "title": "gccrs: An alternative compiler for Rust",
-                "href": "https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html"
             }
         ]
     },
@@ -887,6 +887,10 @@
                 "href": "https://github.com/dandavison/delta"
             },
             {
+                "title": "SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup",
+                "href": "https://hanlab.mit.edu/blog/svdquant"
+            },
+            {
                 "title": "Texture-Less Text Rendering",
                 "href": "https://poniesandlight.co.uk/reflect/debug_print_text/"
             },
@@ -895,16 +899,16 @@
                 "href": "https://www.asimov.press/p/mitochondria"
             },
             {
-                "title": "SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup",
-                "href": "https://hanlab.mit.edu/blog/svdquant"
-            },
-            {
                 "title": "Obtainium: Get Android App Updates Directly from the Source",
                 "href": "https://obtainium.imranr.dev/"
             },
             {
                 "title": "Multiple new macOS sandbox escape vulnerabilities",
                 "href": "https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/"
+            },
+            {
+                "title": "Memories are not only in the brain, human cell study finds",
+                "href": "https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html"
             },
             {
                 "title": "In Memory of Stiver",
@@ -919,16 +923,12 @@
                 "href": "https://www.nature.com/articles/d41586-024-03357-7#ref-CR1"
             },
             {
-                "title": "Memories are not only in the brain, human cell study finds",
-                "href": "https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html"
+                "title": "Stabilizing the Obra Dinn 1-bit dithering process (2017)",
+                "href": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"
             },
             {
                 "title": "The Saturn V FUELDRAULIC Gimbal System (1963)",
                 "href": "https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system"
-            },
-            {
-                "title": "Stabilizing the Obra Dinn 1-bit dithering process (2017)",
-                "href": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"
             },
             {
                 "title": "Segmenting Credit Card Customers with K-Means: A Fun Dive into Clustering",
@@ -943,24 +943,28 @@
                 "href": "https://github.com/CISOfy/lynis"
             },
             {
-                "title": "Optimize Database Performance in Ruby on Rails and ActiveRecord",
-                "href": "https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html"
-            },
-            {
                 "title": "Money was never the end goal \u2013 mrdoob \u2013 threejs creator",
                 "href": "https://twitter.com/mrdoob/status/1854662365163536613"
             },
             {
-                "title": "Iterative \u03b1-(de)blending and Stochastic Interpolants",
-                "href": "http://nicktasios.nl/posts/iterative-alpha-deblending/"
+                "title": "Scientist treated her own cancer with viruses she grew in the lab",
+                "href": "https://www.nature.com/articles/d41586-024-03647-0"
+            },
+            {
+                "title": "Why Pg_dump Is Amazing",
+                "href": "http://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html"
             },
             {
                 "title": "Making Electronic Calipers",
                 "href": "https://kevinlynagh.com/calipertron/"
             },
             {
-                "title": "Scientist treated her own cancer with viruses she grew in the lab",
-                "href": "https://www.nature.com/articles/d41586-024-03647-0"
+                "title": "Iterative \u03b1-(de)blending and Stochastic Interpolants",
+                "href": "http://nicktasios.nl/posts/iterative-alpha-deblending/"
+            },
+            {
+                "title": "Optimize Database Performance in Ruby on Rails and ActiveRecord",
+                "href": "https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html"
             },
             {
                 "title": "I quit Google to work for myself (2018)",
@@ -983,12 +987,8 @@
                 "href": "https://asterogue.com"
             },
             {
-                "title": "Funding restored for man-page maintenance",
-                "href": "https://lwn.net/Articles/997193/"
-            },
-            {
-                "title": "Python Logic Simulation Library",
-                "href": "https://github.com/cjdrake/seqlogic"
+                "title": "Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory",
+                "href": "https://www.getzep.com/careers"
             }
         ]
     }
