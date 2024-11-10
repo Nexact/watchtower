@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "PSA: SQLite does not do checksums",
-                "href": "https://avi.im/blag/2024/sqlite-bit-flip/"
-            },
-            {
                 "title": "An alternative idea for a typed language living alongside/inside JavaScript",
                 "href": "https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html"
+            },
+            {
+                "title": "PSA: SQLite does not do checksums",
+                "href": "https://avi.im/blag/2024/sqlite-bit-flip/"
             },
             {
                 "title": "Regular Restarts Are Good, Actually",
@@ -27,8 +27,16 @@
                 "href": "https://www.circle-lang.org/interop.html"
             },
             {
+                "title": "When Machine Learning Tells the Wrong Story",
+                "href": "https://jackcook.com/2024/11/09/bigger-fish.html"
+            },
+            {
                 "title": "Discussion: Adding memory regions to Go",
                 "href": "https://github.com/golang/go/discussions/70257"
+            },
+            {
+                "title": "The BPF instruction set architecture is now RFC 9669",
+                "href": "https://lwn.net/Articles/997002/"
             },
             {
                 "title": "Tone of Life",
@@ -39,8 +47,8 @@
                 "href": "https://github.com/elikaski/ECC_Attacks"
             },
             {
-                "title": "The BPF instruction set architecture is now RFC 9669",
-                "href": "https://lwn.net/Articles/997002/"
+                "title": "Unused keys in vim",
+                "href": "https://vim.fandom.com/wiki/Unused_keys"
             },
             {
                 "title": "How to self-host all of Bluesky (except the AppView (for now))",
@@ -93,14 +101,6 @@
             {
                 "title": "Rootless Root (2003)",
                 "href": "http://www.catb.org/~esr/writings/unix-koans/"
-            },
-            {
-                "title": "The case of a program that crashed on its first instruction",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490"
-            },
-            {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Is There New Evidence for a 9th Planet - Planet X?",
+                "href": "https://science.slashdot.org/story/24/11/09/067233/is-there-new-evidence-for-a-9th-planet---planet-x?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "How the Majority of Strokes Could Be Prevented",
                 "href": "https://science.slashdot.org/story/24/11/09/2220224/how-the-majority-of-strokes-could-be-prevented?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Pirating 'The Pirate Bay' TV Series Is Ironically Difficult",
                 "href": "https://yro.slashdot.org/story/24/11/08/2321220/pirating-the-pirate-bay-tv-series-is-ironically-difficult?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Hackers Are Sending Fraudulent Police Data Requests To Tech Giants To Steal People's Private Information",
-                "href": "https://yro.slashdot.org/story/24/11/08/231226/hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -879,40 +879,40 @@
                 "href": "https://docs.visprex.com/"
             },
             {
-                "title": "NYC Subway Station Layouts",
-                "href": "http://www.projectsubwaynyc.com/gallery"
+                "title": "IronCalc \u2013 Open-Source Spreadsheet Engine",
+                "href": "https://www.ironcalc.com/"
             },
             {
                 "title": "Show HN: Jaws \u2013 a JavaScript to WASM ahead-of-time compiler",
                 "href": "https://github.com/drogus/jaws"
             },
             {
-                "title": "IronCalc \u2013 Open-Source Spreadsheet Engine",
-                "href": "https://www.ironcalc.com/"
+                "title": "Zig's (.{}){} Syntax",
+                "href": "https://www.openmymind.net/Zigs-weird-syntax/"
+            },
+            {
+                "title": "NYC Subway Station Layouts",
+                "href": "http://www.projectsubwaynyc.com/gallery"
             },
             {
                 "title": "Early Cascade Injection: From Windows process creation to stealthy injection",
                 "href": "https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/"
             },
             {
-                "title": "Grim Fandango",
-                "href": "https://www.filfre.net/2024/11/grim-fandango/"
+                "title": "Mergiraf: a syntax-aware merge driver for Git",
+                "href": "https://mergiraf.org/"
             },
             {
-                "title": "Zig's (.{}){} Syntax",
-                "href": "https://www.openmymind.net/Zigs-weird-syntax/"
+                "title": "Grim Fandango",
+                "href": "https://www.filfre.net/2024/11/grim-fandango/"
             },
             {
                 "title": "FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI",
                 "href": "https://epochai.org/frontiermath/the-benchmark"
             },
             {
-                "title": "Mergiraf: a syntax-aware merge driver for Git",
-                "href": "https://mergiraf.org/"
-            },
-            {
-                "title": "With AI, the future of augmented reality is in your ears",
-                "href": "https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/"
+                "title": "LLMs have reached a point of diminishing returns",
+                "href": "https://garymarcus.substack.com/p/confirmed-llms-have-indeed-reached"
             },
             {
                 "title": "Show HN: HTML-to-Markdown \u2013 convert entire websites to Markdown with Golang/CLI",
@@ -923,32 +923,20 @@
                 "href": "https://jackcook.com/2024/11/09/bigger-fish.html"
             },
             {
-                "title": "You too can write a book",
-                "href": "https://parentheticallyspeaking.org/articles/write-a-book/"
-            },
-            {
                 "title": "Scientist treated her own cancer with viruses she grew in the lab",
                 "href": "https://www.nature.com/articles/d41586-024-03647-0"
+            },
+            {
+                "title": "You too can write a book",
+                "href": "https://parentheticallyspeaking.org/articles/write-a-book/"
             },
             {
                 "title": "Texture-Less Text Rendering",
                 "href": "https://poniesandlight.co.uk/reflect/debug_print_text/"
             },
             {
-                "title": "Trellis (YC W24) is hiring eng to turn documents into database",
-                "href": "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
-            },
-            {
-                "title": "Somebody moved UK's oldest satellite",
-                "href": "https://www.bbc.co.uk/news/articles/cpwrr58801yo"
-            },
-            {
-                "title": "ML analysis tracks the evolution of 16th-century European astronomical thought",
-                "href": "https://phys.org/news/2024-10-machine-analysis-tracks-evolution-16th.html"
-            },
-            {
-                "title": "SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup",
-                "href": "https://hanlab.mit.edu/blog/svdquant"
+                "title": "With AI, the future of augmented reality is in your ears",
+                "href": "https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/"
             },
             {
                 "title": "HPV vaccination: How the world can eliminate cervical cancer",
@@ -959,8 +947,24 @@
                 "href": "https://obtainium.imranr.dev/"
             },
             {
+                "title": "Trellis (YC W24) is hiring eng to turn documents into database",
+                "href": "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
+            },
+            {
+                "title": "SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup",
+                "href": "https://hanlab.mit.edu/blog/svdquant"
+            },
+            {
                 "title": "Ticketmaster\u2019s attempt to game arbitration services fails",
                 "href": "https://blog.ericgoldman.org/archives/2024/10/ticketmasters-gaming-of-arbitration-services-fails-heckman-v-live-nation.htm"
+            },
+            {
+                "title": "HashML-DSA Considered Harmful",
+                "href": "https://keymaterial.net/2024/11/05/hashml-dsa-considered-harmful/"
+            },
+            {
+                "title": "Somebody moved UK's oldest satellite",
+                "href": "https://www.bbc.co.uk/news/articles/cpwrr58801yo"
             },
             {
                 "title": "Since the '60s, Ford has stored cars underground in a Kansas City cave",
@@ -971,10 +975,6 @@
                 "href": "https://mattlakeman.org/2024/11/08/notes-on-guyana/"
             },
             {
-                "title": "The Saturn V FUELDRAULIC Gimbal System (1963)",
-                "href": "https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system"
-            },
-            {
                 "title": "Can humans say the largest prime number before we find the next one?",
                 "href": "https://saytheprime.com/"
             },
@@ -983,8 +983,8 @@
                 "href": "https://www.abortretry.fail/p/a-brief-history-of-cyrix"
             },
             {
-                "title": "Using Two ReMarkables",
-                "href": "https://www.ohrg.org/using-two-remarkables"
+                "title": "The Saturn V FUELDRAULIC Gimbal System (1963)",
+                "href": "https://www.powermotiontech.com/hydraulics/hydraulic-fluids/article/21887406/the-saturn-v-fueldraulic-gimbal-system"
             },
             {
                 "title": "Memories are not only in the brain, human cell study finds",
