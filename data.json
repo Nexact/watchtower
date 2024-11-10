@@ -31,6 +31,14 @@
                 "href": "https://jackcook.com/2024/11/09/bigger-fish.html"
             },
             {
+                "title": "Visualizing local election results with Datasette, Observable and MapLibre GL",
+                "href": "https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/"
+            },
+            {
+                "title": "Everything I've learned so far about running local LLMs",
+                "href": "https://nullprogram.com/blog/2024/11/10/"
+            },
+            {
                 "title": "The Pythonic Emptiness",
                 "href": "https://blog.codingconfessions.com/p/the-pythonic-emptiness"
             },
@@ -39,12 +47,12 @@
                 "href": "https://www.circle-lang.org/interop.html"
             },
             {
-                "title": "Everything I've learned so far about running local LLMs",
-                "href": "https://nullprogram.com/blog/2024/11/10/"
-            },
-            {
                 "title": "The BPF instruction set architecture is now RFC 9669",
                 "href": "https://lwn.net/Articles/997002/"
+            },
+            {
+                "title": "Everybody Codes",
+                "href": "https://everybody.codes/home"
             },
             {
                 "title": "RISC-V Vector Extension overview",
@@ -65,10 +73,6 @@
             {
                 "title": "Algol 68 \u2013 A Retrospective",
                 "href": "https://accu.org/journals/overload/26/148/james_2586/"
-            },
-            {
-                "title": "Everybody Codes",
-                "href": "https://everybody.codes/home"
             },
             {
                 "title": "Book Review: For the Love of Go (2023)",
@@ -97,10 +101,6 @@
             {
                 "title": "Algol-68 seemed like a good idea \u2013 until it wasn\u2019t",
                 "href": "https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/"
-            },
-            {
-                "title": "Rust's Sneaky Deadlock With `if let` Blocks",
-                "href": "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
             }
         ]
     },
@@ -871,48 +871,48 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Audio Decomposition \u2013 open-source seperation of music to constituent instruments",
+                "href": "https://matthew-bird.com/blogs/Audio-Decomposition.html"
+            },
+            {
                 "title": "OpenCoder: Open Cookbook for Top-Tier Code Large Language Models",
                 "href": "https://opencoder-llm.github.io/"
             },
             {
-                "title": "Audio Decomposition \u2013 open-source seperation of music to constituent instruments",
-                "href": "https://matthew-bird.com/blogs/Audio-Decomposition.html"
+                "title": "Andrej Karpathy on learning (should never be fun)",
+                "href": "https://twitter.com/karpathy/status/1756380066580455557"
             },
             {
                 "title": "IronCalc \u2013 Open-Source Spreadsheet Engine",
                 "href": "https://www.ironcalc.com/"
             },
             {
-                "title": "Shaderblocks: Block-based image editing",
-                "href": "https://thejenkinscomic.net/shaderblocks/"
-            },
-            {
-                "title": "NYC Subway Station Layouts",
-                "href": "http://www.projectsubwaynyc.com/gallery"
-            },
-            {
                 "title": "Mind-Bending Soviet Era Oil Rig City on the Caspian Sea",
                 "href": "https://www.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html"
-            },
-            {
-                "title": "Show HN: Visprex \u2013 Open-source, in-browser data visualisation tool for CSV files",
-                "href": "https://docs.visprex.com/"
-            },
-            {
-                "title": "Physical Intelligence's first generalist policy AI can finally do your laundry",
-                "href": "https://www.physicalintelligence.company/blog/pi0"
-            },
-            {
-                "title": "Show HN: Jaws \u2013 a JavaScript to WASM ahead-of-time compiler",
-                "href": "https://github.com/drogus/jaws"
             },
             {
                 "title": "Story Structure 101: Super Basic Shit",
                 "href": "https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit"
             },
             {
-                "title": "Pushed Authorization Requests (Par) in Asp.net Core 9",
-                "href": "https://nestenius.se/net/pushed-authorization-requests-par-in-asp-net-core-9/"
+                "title": "Shaderblocks: Block-based image editing",
+                "href": "https://thejenkinscomic.net/shaderblocks/"
+            },
+            {
+                "title": "Show HN: Visprex \u2013 Open-source, in-browser data visualisation tool for CSV files",
+                "href": "https://docs.visprex.com/"
+            },
+            {
+                "title": "NYC Subway Station Layouts",
+                "href": "http://www.projectsubwaynyc.com/gallery"
+            },
+            {
+                "title": "Show HN: Jaws \u2013 a JavaScript to WASM ahead-of-time compiler",
+                "href": "https://github.com/drogus/jaws"
+            },
+            {
+                "title": "Physical Intelligence's first generalist policy AI can finally do your laundry",
+                "href": "https://www.physicalintelligence.company/blog/pi0"
             },
             {
                 "title": "FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI",
@@ -923,40 +923,60 @@
                 "href": "https://mergiraf.org/"
             },
             {
-                "title": "Zig's (.{}){} Syntax",
-                "href": "https://www.openmymind.net/Zigs-weird-syntax/"
+                "title": "Pushed Authorization Requests (Par) in Asp.net Core 9",
+                "href": "https://nestenius.se/net/pushed-authorization-requests-par-in-asp-net-core-9/"
             },
             {
                 "title": "Measuring keyboard-to-photon latency with a light sensor (2023)",
                 "href": "https://thume.ca/2020/05/20/making-a-latency-tester/"
             },
             {
-                "title": "A skeleton made from the bones of at least eight people thousands of years apart",
-                "href": "https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/"
+                "title": "Zig's (.{}){} Syntax",
+                "href": "https://www.openmymind.net/Zigs-weird-syntax/"
             },
             {
-                "title": "Hard Cases for a Handle Theory",
-                "href": "https://www.cabinetmagazine.org/issues/68/dolven.php"
+                "title": "19th Century Map Shows a Fictional Country Created by a Con Man",
+                "href": "https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais"
+            },
+            {
+                "title": "M4 and M4 Pro Mac minis are probably Apple's best Mac minis",
+                "href": "https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/"
+            },
+            {
+                "title": "High Power Mode for M4 Pro Macs",
+                "href": "https://mjtsai.com/blog/2024/11/08/high-power-mode-for-m4-pro-macs/"
             },
             {
                 "title": "GenMC: Model checking for concurrent C programs",
                 "href": "https://plv.mpi-sws.org/genmc/"
             },
             {
+                "title": "A skeleton made from the bones of at least eight people thousands of years apart",
+                "href": "https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/"
+            },
+            {
                 "title": "Show HN: HTML-to-Markdown \u2013 convert entire websites to Markdown with Golang/CLI",
                 "href": "https://github.com/JohannesKaufmann/html-to-markdown"
             },
             {
-                "title": "Grim Fandango",
-                "href": "https://www.filfre.net/2024/11/grim-fandango/"
+                "title": "Hard Cases for a Handle Theory",
+                "href": "https://www.cabinetmagazine.org/issues/68/dolven.php"
             },
             {
                 "title": "When machine learning tells the wrong story",
                 "href": "https://jackcook.com/2024/11/09/bigger-fish.html"
             },
             {
+                "title": "Grim Fandango",
+                "href": "https://www.filfre.net/2024/11/grim-fandango/"
+            },
+            {
                 "title": "Early Cascade Injection: From Windows process creation to stealthy injection",
                 "href": "https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/"
+            },
+            {
+                "title": "Ousterhout's Dichotomy",
+                "href": "https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy"
             },
             {
                 "title": "Texture-Less Text Rendering",
@@ -967,28 +987,8 @@
                 "href": "https://obtainium.imranr.dev/"
             },
             {
-                "title": "Scientist treated her own cancer with viruses she grew in the lab",
-                "href": "https://www.nature.com/articles/d41586-024-03647-0"
-            },
-            {
                 "title": "Somebody moved the UK's oldest satellite in the mid 1970s, but no one knows who",
                 "href": "https://www.bbc.co.uk/news/articles/cpwrr58801yo"
-            },
-            {
-                "title": "You too can write a book",
-                "href": "https://parentheticallyspeaking.org/articles/write-a-book/"
-            },
-            {
-                "title": "Since the '60s, Ford has stored cars underground in a Kansas City cave",
-                "href": "https://www.hagerty.com/media/automotive-history/since-the-60s-ford-has-stored-cars-underground-in-a-kansas-city-cave/"
-            },
-            {
-                "title": "Notes on Guyana",
-                "href": "https://mattlakeman.org/2024/11/08/notes-on-guyana/"
-            },
-            {
-                "title": "Show HN: Dracan \u2013 Open-source, 1:1 proxy with simple filtering/validation config",
-                "href": "https://github.com/Veinar/dracan"
             }
         ]
     }
