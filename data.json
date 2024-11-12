@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Jepsen: Bufstream 0.1.0",
-                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
-            },
-            {
                 "title": "PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished",
                 "href": "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
+            },
+            {
+                "title": "Jepsen: Bufstream 0.1.0",
+                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
             },
             {
                 "title": "Jujutsu: A Haven for Mercurial Users at Mozilla",
@@ -35,28 +35,36 @@
                 "href": "https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/"
             },
             {
-                "title": "fmt.Sprintf vs String Concat",
-                "href": "https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/"
-            },
-            {
                 "title": "Using portable SIMD in stable Rust",
                 "href": "https://pythonspeed.com/articles/simd-stable-rust/"
             },
             {
-                "title": "Playing Bad Apple over RSS",
-                "href": "https://ersei.net/en/blog/bad-apple-rss"
+                "title": "fmt.Sprintf vs String Concat",
+                "href": "https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/"
+            },
+            {
+                "title": "Go Turns 15",
+                "href": "https://go.dev/blog/15years"
             },
             {
                 "title": "Hyperlight - Running functions in virtual machines",
                 "href": "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
             },
             {
-                "title": "Secret Service Says You Agreed To Be Tracked With Location Data",
-                "href": "https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/"
+                "title": "Playing Bad Apple over RSS",
+                "href": "https://ersei.net/en/blog/bad-apple-rss"
             },
             {
                 "title": "Hot Tub Monitoring with Home Assistant and ESPHome",
                 "href": "https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/"
+            },
+            {
+                "title": "What does f(x) mean in C++?",
+                "href": "https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html"
+            },
+            {
+                "title": "Secret Service Says You Agreed To Be Tracked With Location Data",
+                "href": "https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/"
             },
             {
                 "title": "Adopting Bazel for Web at Scale",
@@ -71,16 +79,20 @@
                 "href": "https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/"
             },
             {
-                "title": "How I ship projects at big tech companies",
-                "href": "https://www.seangoedecke.com/how-to-ship/"
-            },
-            {
                 "title": "The CVM Algorithm",
                 "href": "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
             },
             {
+                "title": "How I ship projects at big tech companies",
+                "href": "https://www.seangoedecke.com/how-to-ship/"
+            },
+            {
                 "title": "Binary vector embeddings are so cool",
                 "href": "https://emschwartz.me/binary-vector-embeddings-are-so-cool/"
+            },
+            {
+                "title": "Cognitive load is what matters",
+                "href": "https://zakirullin.md/cognitive"
             },
             {
                 "title": "Typed ENV Vars for Valid Environments from Dev to Production",
@@ -89,18 +101,6 @@
             {
                 "title": "Bus Number - The github plugin my coworkers asked me not to write",
                 "href": "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html"
-            },
-            {
-                "title": "Attack of the Evil Baristas",
-                "href": "https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853"
-            },
-            {
-                "title": "NetBSD on a ROCK64 Board",
-                "href": "https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/"
-            },
-            {
-                "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
-                "href": "https://ankush.dev/p/neumann_architecture"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "23andMe To Lay Off 40% of Its Workforce, Discontinue All Therapy Programs",
+                "href": "https://science.slashdot.org/story/24/11/12/2124247/23andme-to-lay-off-40-of-its-workforce-discontinue-all-therapy-programs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Open Source Project DeFlock Is Mapping License Plate Surveillance Cameras All Over the World",
                 "href": "https://yro.slashdot.org/story/24/11/12/2115209/open-source-project-deflock-is-mapping-license-plate-surveillance-cameras-all-over-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "LG's New Stretchable Display Can Grow By 50%",
                 "href": "https://hardware.slashdot.org/story/24/11/12/0215255/lgs-new-stretchable-display-can-grow-by-50?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "SpaceX To Attempt Daring Orbital Refueling Test of Starship",
-                "href": "https://science.slashdot.org/story/24/11/12/0211208/spacex-to-attempt-daring-orbital-refueling-test-of-starship?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -879,36 +879,44 @@
                 "href": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible"
             },
             {
-                "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
-                "href": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking"
-            },
-            {
                 "title": "The Fall 2024 Workforce Index Shows AI Hype Is Cooling",
                 "href": "https://slack.com/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling?nojsmode=1"
+            },
+            {
+                "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
+                "href": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking"
             },
             {
                 "title": "Spin 3.0 \u2013 open-source tooling for building and running WASM apps",
                 "href": "https://www.fermyon.com/blog/introducing-spin-v3"
             },
             {
-                "title": "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
-                "href": "https://community-scripts.github.io/ProxmoxVE/"
+                "title": "Five Unusual Raku Features",
+                "href": "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"
             },
             {
                 "title": "Voice acting in Space Quest V",
                 "href": "https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod"
             },
             {
+                "title": "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
+                "href": "https://community-scripts.github.io/ProxmoxVE/"
+            },
+            {
                 "title": "Show HN: Jelly \u2013 A simpler shared inbox for small teams",
                 "href": "https://letsjelly.com/"
             },
             {
-                "title": "Visualizing World War II",
-                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+                "title": "Carving Your Space",
+                "href": "https://heather-buchel.com/blog/2024/11/carving-space/"
             },
             {
                 "title": "Nowadays (YC S23) Is Hiring",
                 "href": "item?id=42119674"
+            },
+            {
+                "title": "Visualizing World War II",
+                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
             },
             {
                 "title": "A mistake that killed Japan's software industry? (2023)",
@@ -919,48 +927,40 @@
                 "href": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/"
             },
             {
-                "title": "Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands",
-                "href": "https://github.com/olivierloverde/gmail-agent"
-            },
-            {
-                "title": "Carving Your Space",
-                "href": "https://heather-buchel.com/blog/2024/11/carving-space/"
-            },
-            {
                 "title": "How do you juggle WFH with a baby?",
                 "href": "https://subscribe.marissagoldberg.com/posts/how-do-you-juggle-wfh-with-a-baby"
-            },
-            {
-                "title": "Russian family lived alone in the Siberian wilderness for 40 years (2013)",
-                "href": "https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/"
-            },
-            {
-                "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
-                "href": "https://aidantr.github.io/files/AI_innovation.pdf"
-            },
-            {
-                "title": "Leaving and Waving",
-                "href": "https://deannadikeman.com/leaving-and-waving"
-            },
-            {
-                "title": "Spotify's Car Thing, due for bricking, is getting an open source second life",
-                "href": "https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/"
-            },
-            {
-                "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
-                "href": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
-            },
-            {
-                "title": "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
-                "href": "https://github.com/hyperdxio/hyperdx/tree/v2"
             },
             {
                 "title": "Show HN: Stretch My Time Off \u2013 An Algorithm to Optimize Your Vacation Days",
                 "href": "https://stretchmytimeoff.com"
             },
             {
-                "title": "Spanish police arrest ex-fraud chief after \u20ac20M found in walls of his house",
-                "href": "https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house"
+                "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
+                "href": "https://aidantr.github.io/files/AI_innovation.pdf"
+            },
+            {
+                "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
+                "href": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
+            },
+            {
+                "title": "Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands",
+                "href": "https://github.com/olivierloverde/gmail-agent"
+            },
+            {
+                "title": "Spotify's Car Thing, due for bricking, is getting an open source second life",
+                "href": "https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/"
+            },
+            {
+                "title": "Russian family lived alone in the Siberian wilderness for 40 years (2013)",
+                "href": "https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/"
+            },
+            {
+                "title": "Thinking About Recipe Formats More Than Anyone Should",
+                "href": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
+            },
+            {
+                "title": "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
+                "href": "https://github.com/hyperdxio/hyperdx/tree/v2"
             },
             {
                 "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
@@ -971,6 +971,10 @@
                 "href": "https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/"
             },
             {
+                "title": "Spanish police arrest ex-fraud chief after \u20ac20M found in walls of his house",
+                "href": "https://www.theguardian.com/world/2024/nov/12/spanish-police-arrest-ex-fraud-chief-after-20m-found-in-walls-of-his-house"
+            },
+            {
                 "title": "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
                 "href": "https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html"
             },
@@ -979,20 +983,16 @@
                 "href": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
             },
             {
-                "title": "Jepsen: Bufstream 0.1",
-                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
-            },
-            {
                 "title": "What I wish someone told me about Postgres",
                 "href": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
             },
             {
-                "title": "Large language models in national security applications",
-                "href": "https://arxiv.org/abs/2407.03453"
+                "title": "Jepsen: Bufstream 0.1",
+                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
             },
             {
-                "title": "Defensive Communication (1961)",
-                "href": "https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html"
+                "title": "Large language models in national security applications",
+                "href": "https://arxiv.org/abs/2407.03453"
             }
         ]
     }
