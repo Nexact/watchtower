@@ -31,6 +31,10 @@
                 "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/"
             },
             {
+                "title": "PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished",
+                "href": "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
+            },
+            {
                 "title": "3rd edition of Ross Anderson\u2019s Security Engineering book now freely available for download",
                 "href": "https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/"
             },
@@ -67,20 +71,24 @@
                 "href": "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
             },
             {
-                "title": "PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished",
-                "href": "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
+                "title": "Adopting Bazel for Web at Scale",
+                "href": "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
+            },
+            {
+                "title": "Typed ENV Vars for Valid Environments from Dev to Production",
+                "href": "https://runme.dev/blog/typed-env-vars"
             },
             {
                 "title": "Bus Number - The github plugin my coworkers asked me not to write",
                 "href": "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html"
             },
             {
-                "title": "Attack of the Evil Baristas",
-                "href": "https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853"
+                "title": "Secret Service Says You Agreed To Be Tracked With Location Data",
+                "href": "https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/"
             },
             {
-                "title": "Typed ENV Vars for Valid Environments from Dev to Production",
-                "href": "https://runme.dev/blog/typed-env-vars"
+                "title": "Attack of the Evil Baristas",
+                "href": "https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853"
             },
             {
                 "title": "NetBSD on a ROCK64 Board",
@@ -93,14 +101,6 @@
             {
                 "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
                 "href": "https://ankush.dev/p/neumann_architecture"
-            },
-            {
-                "title": "Adopting Bazel for Web at Scale",
-                "href": "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
-            },
-            {
-                "title": "What RSS reader do you use?",
-                "href": "https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "D-Link won\u2019t fix critical bug in 60,000 exposed EoL modems",
+                "href": "https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/"
+            },
+            {
                 "title": "Windows 10 KB5046613 update released with fixes for printer bugs",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046613-update-released-with-fixes-for-printer-bugs/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Amazon confirms employee data breach after vendor hack",
                 "href": "https://www.bleepingcomputer.com/news/security/amazon-confirms-employee-data-breach-after-vendor-hack/"
-            },
-            {
-                "title": "Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/"
             }
         ]
     },
@@ -879,16 +879,20 @@
                 "href": "https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users"
             },
             {
-                "title": "Visualizing World War II",
-                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
-            },
-            {
                 "title": "Show HN: Jelly \u2013 A Simpler Shared Inbox for Small Teams",
                 "href": "https://letsjelly.com/"
             },
             {
+                "title": "Visualizing World War II",
+                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+            },
+            {
                 "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
                 "href": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking"
+            },
+            {
+                "title": "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
+                "href": "https://community-scripts.github.io/ProxmoxVE/"
             },
             {
                 "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
@@ -915,24 +919,16 @@
                 "href": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/"
             },
             {
-                "title": "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
-                "href": "https://community-scripts.github.io/ProxmoxVE/"
+                "title": "Jepsen: Bufstream 0.1",
+                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
             },
             {
                 "title": "Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase",
                 "href": "item?id=42117277"
             },
             {
-                "title": "Jepsen: Bufstream 0.1",
-                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
-            },
-            {
                 "title": "Large language models in national security applications",
                 "href": "https://arxiv.org/abs/2407.03453"
-            },
-            {
-                "title": "Mom jailed for letting 10-year-old walk alone to town",
-                "href": "https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/"
             },
             {
                 "title": "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
@@ -947,6 +943,10 @@
                 "href": "https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html"
             },
             {
+                "title": "Mom jailed for letting 10-year-old walk alone to town",
+                "href": "https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/"
+            },
+            {
                 "title": "Revealing causal links in complex systems: New algorithm shows hidden influences",
                 "href": "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html"
             },
@@ -955,36 +955,32 @@
                 "href": "https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html"
             },
             {
-                "title": "Blame the Gerbils",
-                "href": "https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils"
-            },
-            {
-                "title": "Peng quadrotor autonomy framework visualized in the browser",
-                "href": "https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd"
-            },
-            {
-                "title": "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
-                "href": "https://github.com/hyperdxio/hyperdx/tree/v2"
-            },
-            {
                 "title": "Two upstart search engines are teaming up to take on Google",
                 "href": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
+            },
+            {
+                "title": "Blame the Gerbils",
+                "href": "https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils"
             },
             {
                 "title": "Bribery is largely subject to circumstance: study",
                 "href": "https://english.elpais.com/science-tech/2024-11-11/what-science-reveals-about-our-tendency-toward-corruption.html"
             },
             {
-                "title": "A neurology ICU nurse on AI in hospitals",
-                "href": "https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/"
-            },
-            {
-                "title": "Anton Seder's the Animal in Decorative Art (1896)",
-                "href": "https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/"
+                "title": "Peng quadrotor autonomy framework visualized in the browser",
+                "href": "https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd"
             },
             {
                 "title": "What I wish someone told me about Postgres",
                 "href": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
+            },
+            {
+                "title": "A neurology ICU nurse on AI in hospitals",
+                "href": "https://www.codastory.com/stayonthestory/nursing-ai-hospitals-robots-capture/"
+            },
+            {
+                "title": "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
+                "href": "https://github.com/hyperdxio/hyperdx/tree/v2"
             },
             {
                 "title": "Islands of the Feral Pigs",
@@ -993,6 +989,10 @@
             {
                 "title": "All the data can be yours: reverse engineering APIs",
                 "href": "https://jero.zone/posts/reverse-engineering-apis"
+            },
+            {
+                "title": "Anton Seder's the Animal in Decorative Art (1896)",
+                "href": "https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/"
             }
         ]
     }
