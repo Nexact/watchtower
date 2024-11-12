@@ -23,20 +23,20 @@
                 "href": "https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification"
             },
             {
-                "title": "Using portable SIMD in stable Rust",
-                "href": "https://pythonspeed.com/articles/simd-stable-rust/"
-            },
-            {
                 "title": "Playing Bad Apple over RSS",
                 "href": "https://ersei.net/en/blog/bad-apple-rss"
             },
             {
-                "title": "There is no road from here to there",
-                "href": "https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426"
+                "title": "Using portable SIMD in stable Rust",
+                "href": "https://pythonspeed.com/articles/simd-stable-rust/"
             },
             {
                 "title": "Announcing .NET 9",
                 "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/"
+            },
+            {
+                "title": "There is no road from here to there",
+                "href": "https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426"
             },
             {
                 "title": "VMware Fusion and Workstation now free for all users",
@@ -63,6 +63,10 @@
                 "href": "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html"
             },
             {
+                "title": "Security Engineering - A Guide to Building Dependable Distributed Systems",
+                "href": "https://www.cl.cam.ac.uk/archive/rja14/book.html"
+            },
+            {
                 "title": "Attack of the Evil Baristas",
                 "href": "https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853"
             },
@@ -71,12 +75,12 @@
                 "href": "https://runme.dev/blog/typed-env-vars"
             },
             {
-                "title": "Security Engineering - A Guide to Building Dependable Distributed Systems",
-                "href": "https://www.cl.cam.ac.uk/archive/rja14/book.html"
-            },
-            {
                 "title": "Hot Tub Monitoring with Home Assistant and ESPHome",
                 "href": "https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/"
+            },
+            {
+                "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
+                "href": "https://ankush.dev/p/neumann_architecture"
             },
             {
                 "title": "NetBSD on a ROCK64 Board",
@@ -89,10 +93,6 @@
             {
                 "title": "What RSS reader do you use?",
                 "href": "https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use"
-            },
-            {
-                "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
-                "href": "https://ankush.dev/p/neumann_architecture"
             },
             {
                 "title": "fmt.Sprintf vs String Concat",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 91 flaws",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/"
+            },
+            {
                 "title": "Windows 11 KB5046617 and KB5046633 cumulative updates released",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046617-and-kb5046633-cumulative-updates-released/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Halliburton reports $35 million loss after ransomware attack",
                 "href": "https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/"
-            },
-            {
-                "title": "Windows 11 is adding a 'Share' button to the Start menu and Taskbar",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/"
             }
         ]
     },
@@ -383,6 +383,18 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Red Hat security advisory (AV24-642)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-642"
+            },
+            {
+                "title": "Ubuntu security advisory (AV24-641)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-641"
+            },
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV24-640)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-640"
+            },
             {
                 "title": "IBM security advisory (AV24-639)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-639"
@@ -570,24 +582,20 @@
             {
                 "title": "F5 security advisory (AV24-594)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av24-594"
-            },
-            {
-                "title": "Atlassian security advisory (AV24-593)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av24-593"
-            },
-            {
-                "title": "[Control systems] ABB security advisory (AV24-592)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av24-592"
-            },
-            {
-                "title": "Oracle security advisory \u2013 October 2024 quarterly rollup (AV24-591)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2024-quarterly-rollup-av24-591"
             }
         ]
     },
     {
         "feedname": "cisa",
         "items": [
+            {
+                "title": "CISA Releases Five Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories"
+            },
+            {
+                "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+            },
             {
                 "title": "Citrix Releases Security Updates for NetScaler and Citrix Session Recording",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/citrix-releases-security-updates-netscaler-and-citrix-session-recording"
@@ -597,40 +605,28 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-02"
             },
             {
-                "title": "CISA, FBI, NSA, and International Partners Release Joint Advisory on 2023 Top Routinely Exploited Vulnerabilities",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-fbi-nsa-and-international-partners-release-joint-advisory-2023-top-routinely-exploited"
-            },
-            {
-                "title": "Subnet Solutions PowerSYSTEM Center",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-01"
-            },
-            {
-                "title": "CISA Releases Five Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-releases-five-industrial-control-systems-advisories"
+                "title": "Rockwell Automation FactoryTalk View ME",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-03"
             },
             {
                 "title": "JCDC\u2019s Collaborative Efforts Enhance Cybersecurity for the 2024 Olympic and Paralympic Games",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/jcdcs-collaborative-efforts-enhance-cybersecurity-2024-olympic-and-paralympic-games"
             },
             {
+                "title": "Ivanti Releases Security Updates for Multiple Products",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/ivanti-releases-security-updates-multiple-products"
+            },
+            {
+                "title": "CISA, FBI, NSA, and International Partners Release Joint Advisory on 2023 Top Routinely Exploited Vulnerabilities",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/12/cisa-fbi-nsa-and-international-partners-release-joint-advisory-2023-top-routinely-exploited"
+            },
+            {
                 "title": "2023 Top Routinely Exploited Vulnerabilities",
                 "href": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a"
             },
             {
-                "title": "Rockwell Automation FactoryTalk View ME",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-03"
-            },
-            {
-                "title": "CISA Releases Three Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories"
-            },
-            {
-                "title": "Beckhoff Automation TwinCAT Package Manager",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-01"
-            },
-            {
-                "title": "Bosch Rexroth IndraDrive",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-03"
+                "title": "Subnet Solutions PowerSYSTEM Center",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-317-01"
             },
             {
                 "title": "Delta Electronics DIAScreen",
@@ -639,6 +635,18 @@
             {
                 "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+            },
+            {
+                "title": "CISA Releases Three Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/07/cisa-releases-three-industrial-control-systems-advisories"
+            },
+            {
+                "title": "Bosch Rexroth IndraDrive",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-03"
+            },
+            {
+                "title": "Beckhoff Automation TwinCAT Package Manager",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-312-01"
             },
             {
                 "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -699,14 +707,6 @@
             {
                 "title": "VIMESA VHF/FM Transmitter Blue Plus",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-01"
-            },
-            {
-                "title": "CISA, US, and International Partners Release Joint Guidance to Assist Software Manufacturers with Safe Software Deployment Processes",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-us-and-international-partners-release-joint-guidance-assist-software-manufacturers-safe"
-            },
-            {
-                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog"
             }
         ]
     },
@@ -875,44 +875,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Visualizing World War II",
-                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+                "title": "Visualizing 13M Bluesky Users",
+                "href": "https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users"
             },
             {
                 "title": "Large Language Models in National Security Applications",
                 "href": "https://arxiv.org/abs/2407.03453"
             },
             {
+                "title": "Visualizing World War II",
+                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+            },
+            {
                 "title": "Enzymatic degradation, recycling, and upcycling of movable crosslinked polymers",
                 "href": "https://www.cell.com/chem/fulltext/S2451-9294(24)00494-7"
-            },
-            {
-                "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
-                "href": "https://ankush.dev/p/neumann_architecture"
-            },
-            {
-                "title": "Leaving and Waving",
-                "href": "https://deannadikeman.com/leaving-and-waving"
             },
             {
                 "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
                 "href": "https://aidantr.github.io/files/AI_innovation.pdf"
             },
             {
-                "title": "How I ship projects at big tech companies",
-                "href": "https://www.seangoedecke.com/how-to-ship/"
+                "title": "Leaving and Waving",
+                "href": "https://deannadikeman.com/leaving-and-waving"
             },
             {
-                "title": "Peng quadrotor autonomy framework visualized in the browser",
-                "href": "https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd"
+                "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
+                "href": "https://ankush.dev/p/neumann_architecture"
+            },
+            {
+                "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
+                "href": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
+            },
+            {
+                "title": "How I ship projects at big tech companies",
+                "href": "https://www.seangoedecke.com/how-to-ship/"
             },
             {
                 "title": "Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase",
                 "href": "item?id=42117277"
             },
             {
-                "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
-                "href": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
+                "title": "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
+                "href": "https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html"
             },
             {
                 "title": "Tinfoil.com \u2013 Dedicated to the preservation of early recorded sounds",
@@ -927,40 +931,20 @@
                 "href": "https://jepsen.io/analyses/bufstream-0.1.0"
             },
             {
-                "title": "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
-                "href": "https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html"
-            },
-            {
-                "title": "The Future of Programming: Copilots vs. Agents (Part I)",
-                "href": "https://eastwind.substack.com/p/the-future-of-programming-copilots"
-            },
-            {
                 "title": "Defensive Communication (1961)",
                 "href": "https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html"
-            },
-            {
-                "title": "Blame the Gerbils",
-                "href": "https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils"
             },
             {
                 "title": "I Don't Have Spotify",
                 "href": "https://github.com/sjdonado/idonthavespotify"
             },
             {
+                "title": "Blame the Gerbils",
+                "href": "https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils"
+            },
+            {
                 "title": "Revealing causal links in complex systems: New algorithm shows hidden influences",
                 "href": "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html"
-            },
-            {
-                "title": "Waymo One is now open to all in Los Angeles",
-                "href": "https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/"
-            },
-            {
-                "title": "The EdTech Revolution Has Failed",
-                "href": "https://www.afterbabel.com/p/the-edtech-revolution-has-failed"
-            },
-            {
-                "title": "Anton Seder's the Animal in Decorative Art (1896)",
-                "href": "https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/"
             },
             {
                 "title": "Improving Steam Client Stability on Linux",
@@ -971,20 +955,36 @@
                 "href": "https://hakaimagazine.com/features/islands-of-the-feral-pigs/"
             },
             {
-                "title": "All the data can be yours: reverse engineering APIs",
-                "href": "https://jero.zone/posts/reverse-engineering-apis"
+                "title": "Peng quadrotor autonomy framework visualized in the browser",
+                "href": "https://rerun.io/viewer?url=https%3A%2F%2Fyangrobotics.com%2Ffiles%2Fpeng_v0.5.3_demo.rrd"
             },
             {
-                "title": "Shfla: Shoegaze Hierarchical Fractal Language Architecture",
-                "href": "https://github.com/Tetraslam/SHFLA"
+                "title": "Anton Seder's the Animal in Decorative Art (1896)",
+                "href": "https://publicdomainreview.org/collection/das-thier-in-der-decorativen-kunst/"
+            },
+            {
+                "title": "The EdTech Revolution Has Failed",
+                "href": "https://www.afterbabel.com/p/the-edtech-revolution-has-failed"
+            },
+            {
+                "title": "All the data can be yours: reverse engineering APIs",
+                "href": "https://jero.zone/posts/reverse-engineering-apis"
             },
             {
                 "title": "What I wish someone told me about Postgres",
                 "href": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
             },
             {
+                "title": "Shfla: Shoegaze Hierarchical Fractal Language Architecture",
+                "href": "https://github.com/Tetraslam/SHFLA"
+            },
+            {
                 "title": "Show HN: Visual inference exploration and experimentation playground",
                 "href": "https://github.com/devidw/inferit"
+            },
+            {
+                "title": "Waymo One is now open to all in Los Angeles",
+                "href": "https://waymo.com/blog/2024/11/waymo-one-open-to-all-in-los-angeles/"
             },
             {
                 "title": "Bus Number \u2013 The GitHub plugin my coworkers asked me not to write",
