@@ -43,20 +43,20 @@
                 "href": "https://pythonspeed.com/articles/simd-stable-rust/"
             },
             {
-                "title": "Adopting Bazel for Web at Scale",
-                "href": "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
-            },
-            {
                 "title": "fmt.Sprintf vs String Concat",
                 "href": "https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/"
+            },
+            {
+                "title": "What does f(x) mean in C++?",
+                "href": "https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html"
             },
             {
                 "title": "Hyperlight - Running functions in virtual machines",
                 "href": "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
             },
             {
-                "title": "What does f(x) mean in C++?",
-                "href": "https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html"
+                "title": "Adopting Bazel for Web at Scale",
+                "href": "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
             },
             {
                 "title": "Playing Bad Apple over RSS",
@@ -65,6 +65,10 @@
             {
                 "title": "Hot Tub Monitoring with Home Assistant and ESPHome",
                 "href": "https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/"
+            },
+            {
+                "title": "Typed ENV Vars for Valid Environments from Dev to Production",
+                "href": "https://runme.dev/blog/typed-env-vars"
             },
             {
                 "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
@@ -79,12 +83,12 @@
                 "href": "https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/"
             },
             {
-                "title": "The CVM Algorithm",
-                "href": "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
+                "title": "Abusing Ubuntu 24.04 features for root privilege escalation",
+                "href": "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
             },
             {
-                "title": "Typed ENV Vars for Valid Environments from Dev to Production",
-                "href": "https://runme.dev/blog/typed-env-vars"
+                "title": "The CVM Algorithm",
+                "href": "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
             },
             {
                 "title": "How I ship projects at big tech companies",
@@ -97,10 +101,6 @@
             {
                 "title": "NetBSD on a ROCK64 Board",
                 "href": "https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/"
-            },
-            {
-                "title": "Bus Number - The github plugin my coworkers asked me not to write",
-                "href": "https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Citrix Virtual Apps and Desktops (XEN) Unauthenticated Remote Code execution",
                 "href": "https://www.reddit.com/r/netsec/comments/1gppo5i/citrix_virtual_apps_and_desktops_xen/"
+            },
+            {
+                "title": "Announcing a New Probely Chapter, As We Join Snyk's Family",
+                "href": "https://www.reddit.com/r/netsec/comments/1gq16kb/announcing_a_new_probely_chapter_as_we_join_snyks/"
             },
             {
                 "title": "Everyday Ghidra: Ghidra Data Types\u2014 When to Create Custom GDTs \u2014 Part 1",
@@ -206,10 +210,6 @@
             {
                 "title": "Multiple Vulnerabilities found in Portainer using CodeQL",
                 "href": "https://www.reddit.com/r/netsec/comments/1ggnr2x/multiple_vulnerabilities_found_in_portainer_using/"
-            },
-            {
-                "title": "\u201cCrossBarking\u201d \u2014 Exploiting a 0-Day Opera Vulnerability with a Cross-Browser Extension Store Attack",
-                "href": "https://www.reddit.com/r/netsec/comments/1gg92im/crossbarking_exploiting_a_0day_opera/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "New Thermal Material Provides 72% Better Cooling Than Conventional Paste",
+                "href": "https://hardware.slashdot.org/story/24/11/12/2228231/new-thermal-material-provides-72-better-cooling-than-conventional-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Spotify's Car Thing, Due For Bricking, Is Getting an Open Source Second Life",
                 "href": "https://entertainment.slashdot.org/story/24/11/12/2211212/spotifys-car-thing-due-for-bricking-is-getting-an-open-source-second-life?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Retailers Explore Radio-Emitting Threads To Combat Surging Theft",
                 "href": "https://tech.slashdot.org/story/24/11/12/1545233/retailers-explore-radio-emitting-threads-to-combat-surging-theft?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Pakistan Limits Outdoor Activities, Market Hours To Curb Air Pollution-Related Illness",
-                "href": "https://news.slashdot.org/story/24/11/12/1538253/pakistan-limits-outdoor-activities-market-hours-to-curb-air-pollution-related-illness?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -887,88 +887,104 @@
                 "href": "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/"
             },
             {
-                "title": "Spin 3.0 \u2013 open-source tooling for building and running WASM apps",
-                "href": "https://www.fermyon.com/blog/introducing-spin-v3"
-            },
-            {
                 "title": "Rust's Sneaky Deadlock With `if let` Blocks",
                 "href": "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
             },
             {
-                "title": "M4 Mac mini's efficiency",
-                "href": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible"
+                "title": "Spin 3.0 \u2013 open-source tooling for building and running WASM apps",
+                "href": "https://www.fermyon.com/blog/introducing-spin-v3"
             },
             {
                 "title": "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
                 "href": "https://community-scripts.github.io/ProxmoxVE/"
             },
             {
-                "title": "Voice acting in Space Quest V",
-                "href": "https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod"
-            },
-            {
                 "title": "Visualizing World War II",
                 "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
-            },
-            {
-                "title": "Thinking about recipe formats more than anyone should",
-                "href": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
-            },
-            {
-                "title": "Show HN: Jelly \u2013 A simpler shared inbox for small teams",
-                "href": "https://letsjelly.com/"
-            },
-            {
-                "title": "A mistake that killed Japan's software industry? (2023)",
-                "href": "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/"
-            },
-            {
-                "title": "Show HN: Stretch My Time Off \u2013 An Algorithm to Optimize Your Vacation Days",
-                "href": "https://stretchmytimeoff.com"
-            },
-            {
-                "title": "Nowadays (YC S23) Is Hiring",
-                "href": "item?id=42119674"
-            },
-            {
-                "title": "Carving your space",
-                "href": "https://heather-buchel.com/blog/2024/11/carving-space/"
-            },
-            {
-                "title": "Ohmaps: your image montage is a resistor network",
-                "href": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/"
-            },
-            {
-                "title": "Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands",
-                "href": "https://github.com/olivierloverde/gmail-agent"
-            },
-            {
-                "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
-                "href": "https://aidantr.github.io/files/AI_innovation.pdf"
             },
             {
                 "title": "Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos",
                 "href": "https://allthatsinteresting.com/glyptodon-fossils"
             },
             {
+                "title": "Voice acting in Space Quest V",
+                "href": "https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod"
+            },
+            {
+                "title": "M4 Mac mini's efficiency",
+                "href": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible"
+            },
+            {
+                "title": "Show HN: Jelly \u2013 A simpler shared inbox for small teams",
+                "href": "https://letsjelly.com/"
+            },
+            {
+                "title": "Show HN: Stretch My Time Off \u2013 An Algorithm to Optimize Your Vacation Days",
+                "href": "https://stretchmytimeoff.com"
+            },
+            {
+                "title": "A mistake that killed Japan's software industry? (2023)",
+                "href": "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/"
+            },
+            {
+                "title": "An unusual Google Keyboard bug",
+                "href": "https://weiyen.net/articles/an-unusual-google-keyboard-bug"
+            },
+            {
+                "title": "Nowadays (YC S23) Is Hiring",
+                "href": "item?id=42119674"
+            },
+            {
+                "title": "Ohmaps: your image montage is a resistor network",
+                "href": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/"
+            },
+            {
+                "title": "Spirit Airlines is filing for bankruptcy",
+                "href": "https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80"
+            },
+            {
+                "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
+                "href": "https://aidantr.github.io/files/AI_innovation.pdf"
+            },
+            {
                 "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
                 "href": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
             },
             {
-                "title": "Russian family lived alone in the Siberian wilderness for 40 years (2013)",
-                "href": "https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/"
+                "title": "Gmail AI Agent: Automate Your Inbox with AI-Powered Telegram Commands",
+                "href": "https://github.com/olivierloverde/gmail-agent"
+            },
+            {
+                "title": "Carving your space",
+                "href": "https://heather-buchel.com/blog/2024/11/carving-space/"
+            },
+            {
+                "title": "Two upstart search engines are teaming up to take on Google",
+                "href": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
             },
             {
                 "title": "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
                 "href": "https://github.com/hyperdxio/hyperdx/tree/v2"
             },
             {
+                "title": "Russian family lived alone in the Siberian wilderness for 40 years (2013)",
+                "href": "https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/"
+            },
+            {
+                "title": "Kibi \u2013 A text editor in less than 1024 lines of code, written in Rust",
+                "href": "https://terminaltrove.com/kibi/"
+            },
+            {
+                "title": "Ask HN: How to deal with a serious mental health breakdown?",
+                "href": "item?id=42121630"
+            },
+            {
                 "title": "Spotify's Car Thing, due for bricking, is getting an open source second life",
                 "href": "https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/"
             },
             {
-                "title": "Two upstart search engines are teaming up to take on Google",
-                "href": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
+                "title": "What I wish someone told me about Postgres",
+                "href": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
             },
             {
                 "title": "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
@@ -977,22 +993,6 @@
             {
                 "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
                 "href": "https://ankush.dev/p/neumann_architecture"
-            },
-            {
-                "title": "What I wish someone told me about Postgres",
-                "href": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
-            },
-            {
-                "title": "Jepsen: Bufstream 0.1",
-                "href": "https://jepsen.io/analyses/bufstream-0.1.0"
-            },
-            {
-                "title": "Defensive Communication (1961)",
-                "href": "https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html"
-            },
-            {
-                "title": "Revealing causal links in complex systems: New algorithm shows hidden influences",
-                "href": "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html"
             }
         ]
     }
