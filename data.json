@@ -27,6 +27,10 @@
                 "href": "https://go.dev/blog/15years"
             },
             {
+                "title": "Flaunting the Internet Protocols with Tunnels",
+                "href": "https://www.macchaffee.com/blog/2024/tunneling/"
+            },
+            {
                 "title": "Rust needs an official specification",
                 "href": "https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification"
             },
@@ -39,28 +43,24 @@
                 "href": "https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/"
             },
             {
-                "title": "Flaunting the Internet Protocols with Tunnels",
-                "href": "https://www.macchaffee.com/blog/2024/tunneling/"
-            },
-            {
                 "title": "fmt.Sprintf vs String Concat",
                 "href": "https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/"
-            },
-            {
-                "title": "Using portable SIMD in stable Rust",
-                "href": "https://pythonspeed.com/articles/simd-stable-rust/"
             },
             {
                 "title": "What does f(x) mean in C++?",
                 "href": "https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html"
             },
             {
-                "title": "Hyperlight - Running functions in virtual machines",
-                "href": "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
-            },
-            {
                 "title": "Adopting Bazel for Web at Scale",
                 "href": "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
+            },
+            {
+                "title": "Using portable SIMD in stable Rust",
+                "href": "https://pythonspeed.com/articles/simd-stable-rust/"
+            },
+            {
+                "title": "Hyperlight - Running functions in virtual machines",
+                "href": "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
             },
             {
                 "title": "Playing Bad Apple over RSS",
@@ -69,6 +69,10 @@
             {
                 "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
                 "href": "https://simonwillison.net/2024/Nov/12/qwen25-coder/"
+            },
+            {
+                "title": "Typed ENV Vars for Valid Environments from Dev to Production",
+                "href": "https://runme.dev/blog/typed-env-vars"
             },
             {
                 "title": "Hot Tub Monitoring with Home Assistant and ESPHome",
@@ -83,10 +87,6 @@
                 "href": "https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/"
             },
             {
-                "title": "Typed ENV Vars for Valid Environments from Dev to Production",
-                "href": "https://runme.dev/blog/typed-env-vars"
-            },
-            {
                 "title": "There is no road from here to there",
                 "href": "https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426"
             },
@@ -95,12 +95,12 @@
                 "href": "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
             },
             {
-                "title": "How I ship projects at big tech companies",
-                "href": "https://www.seangoedecke.com/how-to-ship/"
+                "title": "Dijkstra\u2019s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s \u2014 early 1960s",
+                "href": "https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf"
             },
             {
-                "title": "Binary vector embeddings are so cool",
-                "href": "https://emschwartz.me/binary-vector-embeddings-are-so-cool/"
+                "title": "How I ship projects at big tech companies",
+                "href": "https://www.seangoedecke.com/how-to-ship/"
             }
         ]
     },
@@ -875,7 +875,7 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Why Docker Compose Falls Short as Self-Hosting Scales",
+                "title": "Docker Compose Isn't Enough",
                 "href": "https://blog.tealok.tech/post/docker-compose-isnt-enough/"
             },
             {
@@ -887,24 +887,20 @@
                 "href": "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"
             },
             {
-                "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
-                "href": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking"
-            },
-            {
-                "title": "Why you're bad at giving feedback",
+                "title": "Delivering actionable feedback",
                 "href": "https://posthog.com/newsletter/how-to-give-feedback"
             },
             {
-                "title": "3600 MHz Raspberry Pi 5 with Liquid Nitrogen",
-                "href": "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/"
+                "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
+                "href": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking"
             },
             {
                 "title": "How to delegate effectively as your responsibility grows",
                 "href": "https://www.hitsubscribe.com/how-to-delegate-effectively-as-your-responsibility-grows/"
             },
             {
-                "title": "Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini",
-                "href": "https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores"
+                "title": "3600 MHz Raspberry Pi 5 with Liquid Nitrogen",
+                "href": "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/"
             },
             {
                 "title": "Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds",
@@ -919,44 +915,56 @@
                 "href": "https://www.fermyon.com/blog/introducing-spin-v3"
             },
             {
-                "title": "Rust's Sneaky Deadlock With `if let` Blocks",
-                "href": "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
-            },
-            {
-                "title": "Show HN: Proxmox VE Helper Scripts: Make managing your Proxmox homelab a breeze",
-                "href": "https://community-scripts.github.io/ProxmoxVE/"
+                "title": "We Built a Self-Healing System to Survive a Concurrency Bug at Netflix",
+                "href": "https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug"
             },
             {
                 "title": "Show HN: Stretch My Time Off \u2013 An Algorithm to Optimize Your Vacation Days",
                 "href": "https://stretchmytimeoff.com"
             },
             {
-                "title": "Visualizing World War II",
-                "href": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/"
+                "title": "Manjaro is experimenting with **opt-out telemetry",
+                "href": "https://discuss.privacyguides.net/t/manjaro-is-experimenting-with-opt-out-telemetry/22305"
             },
             {
-                "title": "M4 Mac mini's efficiency",
-                "href": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible"
+                "title": "Show HN: Proxmox VE Helper Scripts",
+                "href": "https://community-scripts.github.io/ProxmoxVE/"
+            },
+            {
+                "title": "Eventually consistent plain text accounting",
+                "href": "https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/"
+            },
+            {
+                "title": "Rust's Sneaky Deadlock With `if let` Blocks",
+                "href": "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
+            },
+            {
+                "title": "Thinking about recipe formats more than anyone should",
+                "href": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
+            },
+            {
+                "title": "No GPS required: our app can now locate underground trains",
+                "href": "https://blog.transitapp.com/go-underground/"
             },
             {
                 "title": "A mistake that killed Japan's software industry? (2023)",
                 "href": "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/"
             },
             {
-                "title": "Manjaro is experimenting with **opt-out telemetry",
-                "href": "https://discuss.privacyguides.net/t/manjaro-is-experimenting-with-opt-out-telemetry/22305"
+                "title": "M4 Mac mini's efficiency",
+                "href": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible"
+            },
+            {
+                "title": "Nowadays (YC S23) Is Hiring",
+                "href": "item?id=42119674"
             },
             {
                 "title": "Voice acting in Space Quest V",
                 "href": "https://github.com/cdb-boop/Space-Quest-V-Voice-Acting-Mod"
             },
             {
-                "title": "Spirit Airlines is filing for bankruptcy",
-                "href": "https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80"
-            },
-            {
-                "title": "Nowadays (YC S23) Is Hiring",
-                "href": "item?id=42119674"
+                "title": "Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini",
+                "href": "https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores"
             },
             {
                 "title": "Show HN: Jelly \u2013 A simpler shared inbox for small teams",
@@ -975,20 +983,12 @@
                 "href": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master"
             },
             {
-                "title": "Eventually consistent plain text accounting",
-                "href": "https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/"
-            },
-            {
-                "title": "Carving your space",
-                "href": "https://heather-buchel.com/blog/2024/11/carving-space/"
-            },
-            {
                 "title": "Two upstart search engines are teaming up to take on Google",
                 "href": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/"
             },
             {
-                "title": "Ohmaps: your image montage is a resistor network",
-                "href": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/"
+                "title": "Carving your space",
+                "href": "https://heather-buchel.com/blog/2024/11/carving-space/"
             },
             {
                 "title": "What I wish someone told me about Postgres",
