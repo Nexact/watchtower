@@ -35,16 +35,16 @@
                 "href": "https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/"
             },
             {
+                "title": "go-safeweb: Secure-by-default HTTP servers in Go",
+                "href": "https://github.com/google/go-safeweb"
+            },
+            {
                 "title": "Zig Reproduced Without Binaries",
                 "href": "https://jakstys.lt/2024/zig-reproduced-without-binaries/"
             },
             {
                 "title": "Swift *almost* does a really cool thing I want",
                 "href": "https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/"
-            },
-            {
-                "title": "go-safeweb: Secure-by-default HTTP servers in Go",
-                "href": "https://github.com/google/go-safeweb"
             },
             {
                 "title": "Five Unusual Raku Features",
@@ -55,20 +55,28 @@
                 "href": "https://ahal.ca/blog/2024/jujutsu-mercurial-haven/"
             },
             {
-                "title": "Go Turns 15",
-                "href": "https://go.dev/blog/15years"
-            },
-            {
                 "title": "Complex for Whom?",
                 "href": "https://notes.billmill.org/link_blog/2024/11/Complex_for_Whom_.html"
+            },
+            {
+                "title": "BetterBufRead: Faster Reads in Rust",
+                "href": "https://graphallthethings.com/posts/better-buf-read"
+            },
+            {
+                "title": "Implementing a Container Runtime Part 1: Spawning Processes on Linux",
+                "href": "https://maelstrom-software.com/blog/spawning-processes-on-linux/"
+            },
+            {
+                "title": "Bloat beneath Python\u2019s Scales: A Fine-Grained Inter-Project Dependency Analysis",
+                "href": "https://dl.acm.org/doi/10.1145/3660821"
             },
             {
                 "title": "An Object Sync Engine for Local-first Apps",
                 "href": "https://stack.convex.dev/object-sync-engine"
             },
             {
-                "title": "Implementing a Container Runtime Part 1: Spawning Processes on Linux",
-                "href": "https://maelstrom-software.com/blog/spawning-processes-on-linux/"
+                "title": "Go Turns 15",
+                "href": "https://go.dev/blog/15years"
             },
             {
                 "title": "Platforms Need New Building Blocks",
@@ -89,14 +97,6 @@
             {
                 "title": "PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished",
                 "href": "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
-            },
-            {
-                "title": "Coding for a Finite World (2023)",
-                "href": "https://yoric.github.io/post/coding-for-a-finite-world/"
-            },
-            {
-                "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
-                "href": "https://simonwillison.net/2024/Nov/12/qwen25-coder/"
             },
             {
                 "title": "Complex for Whom?",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Apple Faces UK 'iCloud Monopoly' Compensation Claim Worth $3.8 Million",
+                "href": "https://yro.slashdot.org/story/24/11/14/0555231/apple-faces-uk-icloud-monopoly-compensation-claim-worth-38-million?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Missed Deadlines Lead People To Judge Work More Harshly, Study Says",
                 "href": "https://science.slashdot.org/story/24/11/14/067226/missed-deadlines-lead-people-to-judge-work-more-harshly-study-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Dutch Publisher's AI Translation Plan Sparks Industry Backlash",
                 "href": "https://slashdot.org/story/24/11/13/117203/dutch-publishers-ai-translation-plan-sparks-industry-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Clues To Windows Intelligence Found in Windows 11 Builds",
-                "href": "https://tech.slashdot.org/story/24/11/13/120222/clues-to-windows-intelligence-found-in-windows-11-builds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -871,84 +871,64 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Gwern Branwen \u2013 How an Anonymous Researcher Predicted AI's Trajectory",
-                "href": "https://www.dwarkeshpatel.com/p/gwern-branwen"
-            },
-            {
-                "title": "I Followed the Official AWS Amplify Guide and Was Charged $1,100",
-                "href": "https://elliott-king.github.io/2024/10/amplify-overcharge/"
-            },
-            {
                 "title": "MomBoard: E-ink display for a parent with amnesia",
                 "href": "https://jan.miksovsky.com/posts/2024/11-12-momboard"
-            },
-            {
-                "title": "Lessons from My First Exit",
-                "href": "https://mtlynch.io/lessons-from-my-first-exit/"
-            },
-            {
-                "title": "The Impact of Jungle Music in 90s Video Game Development",
-                "href": "https://pikuma.com/blog/jungle-music-video-game-drum-bass"
             },
             {
                 "title": "The geometry of data: the missing metric tensor and the Stein score [Part II]",
                 "href": "https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/"
             },
             {
+                "title": "Lessons from My First Exit",
+                "href": "https://mtlynch.io/lessons-from-my-first-exit/"
+            },
+            {
                 "title": "BERTs Are Generative In-Context Learners",
                 "href": "https://arxiv.org/abs/2406.04823"
             },
             {
-                "title": "Safe and efficient C++ interoperability via non-escapable types and lifetimes",
-                "href": "https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426"
-            },
-            {
-                "title": "Go-Safeweb",
-                "href": "https://github.com/google/go-safeweb"
+                "title": "The Impact of Jungle Music in 90s Video Game Development",
+                "href": "https://pikuma.com/blog/jungle-music-video-game-drum-bass"
             },
             {
                 "title": "DeepL Voice: Real-time voice translations for global collaboration",
                 "href": "https://www.deepl.com/en/products/voice"
             },
             {
+                "title": "Go-Safeweb",
+                "href": "https://github.com/google/go-safeweb"
+            },
+            {
+                "title": "Safe and efficient C++ interoperability via non-escapable types and lifetimes",
+                "href": "https://forums.swift.org/t/safe-and-efficient-c-interoperability-via-non-escapable-types-and-lifetimes/75426"
+            },
+            {
+                "title": "Interview with gwern",
+                "href": "https://www.dwarkeshpatel.com/p/gwern-branwen"
+            },
+            {
                 "title": "Smaller Than Pixel Art: Sub-Pixel Art [video]",
                 "href": "https://www.youtube.com/watch?v=SlS3FOmKUbE"
-            },
-            {
-                "title": "The closest open-source alternatives to Notion and Miro",
-                "href": "https://github.com/toeverything/AFFiNE/releases/tag/v0.18.0"
-            },
-            {
-                "title": "DeepComputing: Early Access Program for RISC-V Mainboard for Framework Laptop 13",
-                "href": "https://deepcomputing.io/deepcomputing-launches-early-access-program-for-dc-roma-risc-v-mainboard-for-framework-laptop-13/"
-            },
-            {
-                "title": "GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics",
-                "href": "https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/"
-            },
-            {
-                "title": "Watermark Anything",
-                "href": "https://github.com/facebookresearch/watermark-anything"
             },
             {
                 "title": "Abusing Ubuntu 24.04 features for root privilege escalation",
                 "href": "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
             },
             {
-                "title": "The Beginner's Guide to Visual Prompt Injections (2023)",
-                "href": "https://www.lakera.ai/blog/visual-prompt-injections"
+                "title": "Watermark Anything",
+                "href": "https://github.com/facebookresearch/watermark-anything"
             },
             {
-                "title": "WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly",
-                "href": "https://labs.leaningtech.com/blog/webvm-20"
-            },
-            {
-                "title": "C Gibberish to English",
-                "href": "https://cdecl.org/"
+                "title": "Control iPhone with the movement of your eyes Support (SG)",
+                "href": "https://support.apple.com/en-sg/guide/iphone/iph66057d0f6/ios"
             },
             {
                 "title": "A cycling desk / Zwifting with a split keyboard",
                 "href": "https://www.ohrg.org/cycling-typing"
+            },
+            {
+                "title": "C Gibberish to English",
+                "href": "https://cdecl.org/"
             },
             {
                 "title": "NASA Investigates Laser-Beam Welding in a Vacuum for In-Space Manufacturing",
@@ -959,36 +939,56 @@
                 "href": "https://www.tangramvision.com/blog/five-learnings-from-15-years-in-perception"
             },
             {
-                "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
-                "href": "https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/"
-            },
-            {
-                "title": "New elliptic curve breaks 18-year-old record",
-                "href": "https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/"
-            },
-            {
-                "title": "Choose Boring Technology and LLMs",
-                "href": "https://www.maragu.dev/blog/choose-boring-technology-and-llms"
-            },
-            {
                 "title": "Francois Chollet is leaving Google",
                 "href": "https://developers.googleblog.com/en/farewell-and-thank-you-for-the-continued-partnership-francois-chollet/"
-            },
-            {
-                "title": "The Argonaut Octopus Has Mastered the Free Ride",
-                "href": "https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride"
-            },
-            {
-                "title": "Reflex (YC W23) Is Hiring Software Engineers (San Francisco)",
-                "href": "https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer"
             },
             {
                 "title": "The First Virtual Meeting Was in 1916",
                 "href": "https://spectrum.ieee.org/virtual-meeting"
             },
             {
-                "title": "Debian Junior Desktop live image",
-                "href": "https://get.debian.org/images/weekly-live-builds/amd64/iso-hybrid/"
+                "title": "The Argonaut Octopus Has Mastered the Free Ride",
+                "href": "https://defector.com/the-argonaut-octopus-has-mastered-the-free-ride"
+            },
+            {
+                "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+                "href": "https://worldsensorium.com/branching-beyond-leonardo-the-evolution-of-tree-architecture-theory/"
+            },
+            {
+                "title": "The anomalous state of Uranus's magnetosphere during the Voyager 2 flyby",
+                "href": "https://www.nature.com/articles/s41550-024-02389-3"
+            },
+            {
+                "title": "Contracts for C++ (DbC) [pdf]",
+                "href": "https://isocpp.org/files/papers/P2900R6.pdf"
+            },
+            {
+                "title": "How we built the Black Friday Cyber Monday 2023 globe",
+                "href": "https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe"
+            },
+            {
+                "title": "Show HN: Konga Beat \u2013 A custom track editor for Donkey Konga 2 and 3",
+                "href": "https://www.kongabeat.com/"
+            },
+            {
+                "title": "Hosting a hobby project without credit card and How I did it",
+                "href": "https://smileplease.mataroa.blog/blog/hosting-a-hobby-project-without-card/"
+            },
+            {
+                "title": "A Mathematician in a School of Art",
+                "href": "https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss"
+            },
+            {
+                "title": "PRC Targeting of Commercial Telecommunications Infrastructure",
+                "href": "https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure"
+            },
+            {
+                "title": "Diffusion models are evolutionary algorithms",
+                "href": "https://gonzoml.substack.com/p/diffusion-models-are-evolutionary"
+            },
+            {
+                "title": "From BSP to ESP \u2013 How S3ctor Abused Quake Editors to Redefine the Morrowind Mod",
+                "href": "https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/"
             }
         ]
     }
