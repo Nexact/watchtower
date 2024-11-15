@@ -11,16 +11,20 @@
                 "href": "https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud"
             },
             {
-                "title": "macOS Tips",
-                "href": "https://blog.xoria.org/macos-tips/"
-            },
-            {
                 "title": "A Linux Desktop for the family",
                 "href": "https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/"
             },
             {
+                "title": "macOS Tips",
+                "href": "https://blog.xoria.org/macos-tips/"
+            },
+            {
                 "title": "A rustc soundness bug in the wild",
                 "href": "https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild"
+            },
+            {
+                "title": "Announcing Prometheus 3.0",
+                "href": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -31,6 +35,10 @@
                 "href": "https://jan.miksovsky.com/posts/2024/11-12-momboard"
             },
             {
+                "title": "You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths",
+                "href": "https://htmx.org/essays/you-cant/"
+            },
+            {
                 "title": "I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)",
                 "href": "https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c"
             },
@@ -39,20 +47,12 @@
                 "href": "https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/"
             },
             {
-                "title": "Announcing Prometheus 3.0",
-                "href": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
-            },
-            {
                 "title": "Cycling while typing",
                 "href": "https://www.ohrg.org/cycling-typing"
             },
             {
                 "title": "Why is std::pin::Pin so weird?",
                 "href": "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
-            },
-            {
-                "title": "You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths",
-                "href": "https://htmx.org/essays/you-cant/"
             },
             {
                 "title": "Plan 9 history and development (2023)",
@@ -79,12 +79,16 @@
                 "href": "https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/"
             },
             {
-                "title": "Music production on POWER: an adventure in porting",
-                "href": "https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html"
+                "title": "Implementing Type Systems as Macros",
+                "href": "https://lambdaland.org/posts/2023-08-14_types_with_macros/"
             },
             {
                 "title": "AWS Lambda turns 10: A rare look at the doc that started it",
                 "href": "https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html"
+            },
+            {
+                "title": "Music production on POWER: an adventure in porting",
+                "href": "https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html"
             },
             {
                 "title": "BetterBufRead: Faster Reads in Rust",
@@ -97,10 +101,6 @@
             {
                 "title": "Final Encoding in RPython Interpreters",
                 "href": "https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html"
-            },
-            {
-                "title": "Why Do We Like Functional Programming?",
-                "href": "https://functionalsoftware.se/posts/why-do-we-like-functional-programming"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "Reproducing CVE-2024-10979: A Step-by-Step Guide",
                 "href": "https://www.reddit.com/r/netsec/comments/1gruidt/reproducing_cve202410979_a_stepbystep_guide/"
+            },
+            {
+                "title": "Open-Source PowerHuntShares.v2 - Find Shares, Extract Passwords, and Fingerprint with LLM",
+                "href": "https://www.reddit.com/r/netsec/comments/1grxbca/opensource_powerhuntsharesv2_find_shares_extract/"
             },
             {
                 "title": "PAN-SA-2024-0015 Critical Security Bulletin: Ensure Access to Management Interface is Secured",
@@ -206,10 +210,6 @@
             {
                 "title": "32 vulnerabilities in IBM Security Verify Access",
                 "href": "https://www.reddit.com/r/netsec/comments/1gj9uv4/32_vulnerabilities_in_ibm_security_verify_access/"
-            },
-            {
-                "title": "Introducing lightyear: a new way to dump files in PHP",
-                "href": "https://www.reddit.com/r/netsec/comments/1gj9v9j/introducing_lightyear_a_new_way_to_dump_files_in/"
             }
         ]
     },
@@ -887,12 +887,8 @@
                 "href": "https://dustri.org/b/upcoming-hardening-in-php.html"
             },
             {
-                "title": "Something weird is happening with LLMs and chess",
-                "href": "https://dynomight.substack.com/p/chess"
-            },
-            {
-                "title": "A New Kind of Mitochondria",
-                "href": "https://www.nature.com/articles/s41586-024-08146-w.epdf?sharing_token=4QYg6VHeQaDTI9Wwks8PYNRgN0jAjWel9jnR3ZoTv0PJ6bGFcBs6wE6X3JprtTRqTeKtpBkwHnIL8H5aG27XoOR6MuZFsyFrkMbp2_PGc88iLVhweBMFOEAyWrn-BD9wKc2pnMTQxGWPpD1Gtx9A-cII9rLjKoM-2yEpQatkk7g%3D"
+                "title": "Manual for Larry Tesler's PUB markup language.",
+                "href": "https://www.nomodes.com/history/pub-manual"
             },
             {
                 "title": "A mental model for Linux file, hard and soft links",
@@ -903,8 +899,12 @@
                 "href": "https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd"
             },
             {
-                "title": "Manual for Larry Tesler's PUB markup language.",
-                "href": "https://www.nomodes.com/history/pub-manual"
+                "title": "Something weird is happening with LLMs and chess",
+                "href": "https://dynomight.substack.com/p/chess"
+            },
+            {
+                "title": "Virality in cartography: What makes a map go viral?",
+                "href": "https://geoawesome.com/viral-cartography-what-makes-map-go-viral/"
             },
             {
                 "title": "The OpenFlexure 3D printable microscope",
@@ -927,12 +927,12 @@
                 "href": "https://www.nature.com/articles/d41586-024-03491-2"
             },
             {
-                "title": "SQLite Index Visualization",
-                "href": "https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/"
-            },
-            {
                 "title": "Old Vintage Computing Research: Dusting Off Dreamcast Linux",
                 "href": "http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html"
+            },
+            {
+                "title": "SQLite Index Visualization",
+                "href": "https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/"
             },
             {
                 "title": "PyPI now supports digital attestations",
@@ -951,10 +951,6 @@
                 "href": "https://www.theparisreview.org/blog/2014/09/17/extreme-extreme/"
             },
             {
-                "title": "The Internet Gopher from Minnesota",
-                "href": "https://www.abortretry.fail/p/the-internet-gopher-from-minnesota"
-            },
-            {
                 "title": "I want my deaf daughter to have the best of both worlds",
                 "href": "https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds"
             },
@@ -967,12 +963,12 @@
                 "href": "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
             },
             {
-                "title": "The Onion buys Infowars",
-                "href": "https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html"
+                "title": "The Internet Gopher from Minnesota",
+                "href": "https://www.abortretry.fail/p/the-internet-gopher-from-minnesota"
             },
             {
-                "title": "I tried every top email marketing tool",
-                "href": "https://www.sitebuilderreport.com/email-marketing-tools/"
+                "title": "The Onion buys Infowars",
+                "href": "https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html"
             },
             {
                 "title": "SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]",
@@ -985,6 +981,10 @@
             {
                 "title": "BERTs Are Generative In-Context Learners",
                 "href": "https://arxiv.org/abs/2406.04823"
+            },
+            {
+                "title": "The geometry of data: the missing metric tensor and the Stein score [Part II]",
+                "href": "https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/"
             }
         ]
     }
