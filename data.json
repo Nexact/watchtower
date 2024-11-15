@@ -19,10 +19,6 @@
                 "href": "https://blog.xoria.org/macos-tips/"
             },
             {
-                "title": "Announcing Prometheus 3.0",
-                "href": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
-            },
-            {
                 "title": "You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths",
                 "href": "https://htmx.org/essays/you-cant/"
             },
@@ -31,12 +27,16 @@
                 "href": "https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend"
             },
             {
-                "title": "A rustc soundness bug in the wild",
-                "href": "https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild"
+                "title": "Announcing Prometheus 3.0",
+                "href": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
             },
             {
                 "title": "Why is std::pin::Pin so weird?",
                 "href": "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
+            },
+            {
+                "title": "A rustc soundness bug in the wild",
+                "href": "https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild"
             },
             {
                 "title": "I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)",
@@ -51,12 +51,16 @@
                 "href": "https://lambdaland.org/posts/2023-08-14_types_with_macros/"
             },
             {
+                "title": "Cycling while typing",
+                "href": "https://www.ohrg.org/cycling-typing"
+            },
+            {
                 "title": "Attestations: A new generation of signatures on PyPI",
                 "href": "https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/"
             },
             {
-                "title": "Cycling while typing",
-                "href": "https://www.ohrg.org/cycling-typing"
+                "title": "Thoughts on Django\u2019s Core",
+                "href": "https://buttondown.com/carlton/archive/thoughts-on-djangos-core"
             },
             {
                 "title": "How Westwood VQA works",
@@ -79,14 +83,6 @@
                 "href": "http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1"
             },
             {
-                "title": "Fuzzing the PHP Interpreter via Dataflow Fusion",
-                "href": "https://arxiv.org/pdf/2410.21713"
-            },
-            {
-                "title": "Unexpected Keyboard: Android keyboard with all the keys",
-                "href": "https://github.com/Julow/Unexpected-Keyboard"
-            },
-            {
                 "title": "What makes concurrency so hard?",
                 "href": "https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/"
             },
@@ -95,12 +91,16 @@
                 "href": "https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html"
             },
             {
-                "title": "Amazon S3 now supports up to 1 million buckets per AWS account",
-                "href": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/"
+                "title": "Fuzzing the PHP Interpreter via Dataflow Fusion",
+                "href": "https://arxiv.org/pdf/2410.21713"
             },
             {
-                "title": "BetterBufRead: Faster Reads in Rust",
-                "href": "https://graphallthethings.com/posts/better-buf-read"
+                "title": "Unexpected Keyboard: Android keyboard with all the keys",
+                "href": "https://github.com/Julow/Unexpected-Keyboard"
+            },
+            {
+                "title": "Amazon S3 now supports up to 1 million buckets per AWS account",
+                "href": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Cloud Migration Is Back (If You Ignore the Actual Numbers)",
+                "href": "https://it.slashdot.org/story/24/11/15/166250/cloud-migration-is-back-if-you-ignore-the-actual-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Virgin Media O2 Deploys AI Decoy To Waste Scammers' Time",
                 "href": "https://slashdot.org/story/24/11/15/1531244/virgin-media-o2-deploys-ai-decoy-to-waste-scammers-time?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Japanese Government To Invest $65 Billion To Support Domestic Chip Sector",
                 "href": "https://yro.slashdot.org/story/24/11/14/2126202/japanese-government-to-invest-65-billion-to-support-domestic-chip-sector?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Academic Papers Yanked After Authors Found To Have Used Unlicensed Software",
-                "href": "https://science.slashdot.org/story/24/11/14/2047223/academic-papers-yanked-after-authors-found-to-have-used-unlicensed-software?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -871,12 +871,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Seer: A GUI front end to GDB for Linux",
-                "href": "https://github.com/epasveer/seer"
-            },
-            {
                 "title": "The Battle Line at Louvain",
                 "href": "https://www.privatdozent.co/p/the-battle-line-at-louvain-1914"
+            },
+            {
+                "title": "Seer: A GUI front end to GDB for Linux",
+                "href": "https://github.com/epasveer/seer"
             },
             {
                 "title": "Show HN: OnAir \u2013 create link, receive calls",
@@ -885,6 +885,10 @@
             {
                 "title": "MomBoard: E-ink display for a parent with amnesia",
                 "href": "https://jan.miksovsky.com/posts/2024/11-12-momboard"
+            },
+            {
+                "title": "Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub",
+                "href": "https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/"
             },
             {
                 "title": "Manual for Larry Tesler's PUB markup language.",
@@ -903,14 +907,6 @@
                 "href": "https://dynomight.substack.com/p/chess"
             },
             {
-                "title": "Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub",
-                "href": "https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/"
-            },
-            {
-                "title": "Modern Treasury (YC S18) Is Hiring a Product Designer",
-                "href": "https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd"
-            },
-            {
                 "title": "In Memoriam: Thomas E. Kurtz, 1928\u20132024",
                 "href": "https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"
             },
@@ -921,6 +917,10 @@
             {
                 "title": "The OpenFlexure 3D printable microscope",
                 "href": "https://openflexure.org/"
+            },
+            {
+                "title": "Modern Treasury (YC S18) Is Hiring a Product Designer",
+                "href": "https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd"
             },
             {
                 "title": "FBDetect: Catching Tiny Performance Regressions at Hyperscale [pdf]",
@@ -955,20 +955,16 @@
                 "href": "https://www.theguardian.com/world/2024/nov/12/food-source-famine-leningrad-seed-bank-nikolai-vavilov"
             },
             {
+                "title": "Please, Stop the Coding Challenges",
+                "href": "https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/"
+            },
+            {
                 "title": "Visual Basic 6 IDE recreated in C#",
                 "href": "https://github.com/BAndysc/AvaloniaVisualBasic6"
             },
             {
-                "title": "Three-Quarters of U.S. Adults Are Now Overweight or Obese",
-                "href": "https://www.nytimes.com/2024/11/14/well/obesity-epidemic-america.html"
-            },
-            {
                 "title": "Implementing Signal's Double Ratchet algorithm (2020)",
                 "href": "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
-            },
-            {
-                "title": "Extreme, Extreme! The literature of laughing gas. (2014)",
-                "href": "https://www.theparisreview.org/blog/2014/09/17/extreme-extreme/"
             },
             {
                 "title": "The Internet Gopher from Minnesota",
@@ -979,6 +975,10 @@
                 "href": "https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html"
             },
             {
+                "title": "Extreme, Extreme! The literature of laughing gas. (2014)",
+                "href": "https://www.theparisreview.org/blog/2014/09/17/extreme-extreme/"
+            },
+            {
                 "title": "SqueakJS: A modern and practical Smalltalk that runs in any browser (2014) [pdf]",
                 "href": "https://freudenbergs.de/vanessa/publications/Freudenberg-2014-SqueakJS.pdf"
             },
@@ -987,8 +987,8 @@
                 "href": "https://arxiv.org/abs/2406.04823"
             },
             {
-                "title": "Analysis of economic and productivity losses caused by cookie banners in Europe",
-                "href": "https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html"
+                "title": "The geometry of data: the missing metric tensor and the Stein score [Part II]",
+                "href": "https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/"
             }
         ]
     }
