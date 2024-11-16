@@ -27,12 +27,28 @@
                 "href": "https://htmx.org/essays/you-cant/"
             },
             {
+                "title": "SuperC: parsing all of C by taming the preprocessor",
+                "href": "https://paulgazzillo.com/papers/pldi12.pdf"
+            },
+            {
                 "title": "Huawei develops 72TB SSD-tape hybrid storage device",
                 "href": "https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb"
             },
             {
                 "title": "Announcing Prometheus 3.0",
                 "href": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
+            },
+            {
+                "title": "Implementation of an Out-of-order RISC-V Vector Unit",
+                "href": "https://www.youtube.com/watch?v=WzID6kk8RNs"
+            },
+            {
+                "title": "DuckDB Optimizers: The Low-Key MVP",
+                "href": "https://duckdb.org/2024/11/14/optimizers.html"
+            },
+            {
+                "title": "Making robots plan faster with SIMD and Rust",
+                "href": "https://claytonwramsey.com/blog/captree"
             },
             {
                 "title": "An Introduction to Residuality Theory",
@@ -51,16 +67,16 @@
                 "href": "https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/"
             },
             {
-                "title": "Implementation of an Out-of-order RISC-V Vector Unit",
-                "href": "https://www.youtube.com/watch?v=WzID6kk8RNs"
-            },
-            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend"
             },
             {
                 "title": "Retrofitting spatial safety to hundreds of millions of lines of C++",
                 "href": "https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1"
+            },
+            {
+                "title": "How Westwood VQA works",
+                "href": "https://30fps.net/pages/vqa/"
             },
             {
                 "title": "Thoughts on Django\u2019s Core",
@@ -83,24 +99,8 @@
                 "href": "https://gliimly.github.io/"
             },
             {
-                "title": "How Westwood VQA works",
-                "href": "https://30fps.net/pages/vqa/"
-            },
-            {
                 "title": "Why is std::pin::Pin so weird?",
                 "href": "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
-            },
-            {
-                "title": "I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)",
-                "href": "https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c"
-            },
-            {
-                "title": "A rustc soundness bug in the wild",
-                "href": "https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild"
-            },
-            {
-                "title": "Fuzzing the PHP Interpreter via Dataflow Fusion",
-                "href": "https://arxiv.org/pdf/2410.21713"
             }
         ]
     },
@@ -875,6 +875,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Yggdrasil Network",
+                "href": "https://yggdrasil-network.github.io/"
+            },
+            {
                 "title": "Kyanos: eBPF-based network issue analysis tool",
                 "href": "https://github.com/hengyoush/kyanos"
             },
@@ -883,32 +887,28 @@
                 "href": "https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm"
             },
             {
-                "title": "Yggdrasil Network",
-                "href": "https://yggdrasil-network.github.io/"
+                "title": "Artificial Intelligence for Quantum Computing",
+                "href": "https://arxiv.org/abs/2411.09131"
             },
             {
                 "title": "Nixie Tubes",
                 "href": "https://danyk.cz/digitrony_en.html"
             },
             {
-                "title": "Artificial Intelligence for Quantum Computing",
-                "href": "https://arxiv.org/abs/2411.09131"
+                "title": "MomBoard: E-ink display for a parent with amnesia",
+                "href": "https://jan.miksovsky.com/posts/2024/11-12-momboard"
             },
             {
                 "title": "Tsugaru OS \u2013 A New Free FM-Towns OS",
                 "href": "https://github.com/captainys/FreeTOWNSOS"
             },
             {
-                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-            },
-            {
-                "title": "MomBoard: E-ink display for a parent with amnesia",
-                "href": "https://jan.miksovsky.com/posts/2024/11-12-momboard"
-            },
-            {
                 "title": "The Taming of the Screw (2000)",
                 "href": "https://americanhistory.si.edu/subs/anglesdangles/taming.html"
+            },
+            {
+                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
             },
             {
                 "title": "Hackers use ZIP file concatenation to evade detection",
@@ -927,10 +927,6 @@
                 "href": "https://closingwtf.com"
             },
             {
-                "title": "The Structure of a Worldview",
-                "href": "https://www.allcatsarefemale.com/p/the-structure-of-a-worldview"
-            },
-            {
                 "title": "Show HN: ZQDGR a Script Runner for Golang",
                 "href": "https://github.com/juls0730/zqdgr"
             },
@@ -947,28 +943,32 @@
                 "href": "https://onair.io/"
             },
             {
+                "title": "Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs",
+                "href": "https://github.com/pex-tool/pex"
+            },
+            {
                 "title": "Four-wave mixing could boost optical communications in space",
                 "href": "https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/"
             },
             {
-                "title": "Qualcomm RISCs, Arm Pulls: The Legal Battle for the Future of Client Computing",
-                "href": "https://thechipletter.substack.com/p/qualcomm-riscs-arm-pulls-the-legal"
-            },
-            {
-                "title": "Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs",
-                "href": "https://github.com/pex-tool/pex"
+                "title": "A next generation catalog of cultivated bananas",
+                "href": "https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10581"
             },
             {
                 "title": "Emit-C: A time travelling programming language",
                 "href": "https://github.com/nimrag-b/emiT-C"
             },
             {
+                "title": "Seer: A GUI front end to GDB for Linux",
+                "href": "https://github.com/epasveer/seer"
+            },
+            {
                 "title": "The Battle Line at Louvain",
                 "href": "https://www.privatdozent.co/p/the-battle-line-at-louvain-1914"
             },
             {
-                "title": "Seer: A GUI front end to GDB for Linux",
-                "href": "https://github.com/epasveer/seer"
+                "title": "The Structure of a Worldview",
+                "href": "https://www.allcatsarefemale.com/p/the-structure-of-a-worldview"
             },
             {
                 "title": "Thomas E. Kurtz has died",
@@ -983,16 +983,16 @@
                 "href": "https://github.com/heroseh/hcc"
             },
             {
-                "title": "Photo Editor for Cats",
-                "href": "https://www.afloat.boats/posts/skittles/"
+                "title": "Pleasant Debugging with GDB and DDD",
+                "href": "https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html"
             },
             {
                 "title": "Go-taskflow: A taskflow-like General-purpose Task-parallel Programming Framework",
                 "href": "https://github.com/noneback/go-taskflow"
             },
             {
-                "title": "Pleasant Debugging with GDB and DDD",
-                "href": "https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html"
+                "title": "Photo Editor for Cats",
+                "href": "https://www.afloat.boats/posts/skittles/"
             }
         ]
     }
