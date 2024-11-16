@@ -35,16 +35,16 @@
                 "href": "https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/"
             },
             {
+                "title": "Making robots plan faster with SIMD and Rust",
+                "href": "https://claytonwramsey.com/blog/captree"
+            },
+            {
                 "title": "Protecting Signal Keys on Desktop",
                 "href": "https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/"
             },
             {
                 "title": "DuckDB Optimizers: The Low-Key MVP",
                 "href": "https://duckdb.org/2024/11/14/optimizers.html"
-            },
-            {
-                "title": "Making robots plan faster with SIMD and Rust",
-                "href": "https://claytonwramsey.com/blog/captree"
             },
             {
                 "title": "You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "ISS Astronauts are Safe.  But NASA and Russia Disagree on How to Fix Leak",
+                "href": "https://science.slashdot.org/story/24/11/16/1650241/iss-astronauts-are-safe-but-nasa-and-russia-disagree-on-how-to-fix-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "'Automotive Grade Linux' Will Promote Open Source Program Offices for Automakers",
                 "href": "https://tech.slashdot.org/story/24/11/16/0659221/automotive-grade-linux-will-promote-open-source-program-offices-for-automakers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Ask Slashdot: Have AI Coding Tools Killed the Joy of Programming?",
                 "href": "https://developers.slashdot.org/story/24/11/15/2138239/ask-slashdot-have-ai-coding-tools-killed-the-joy-of-programming?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Laundry-Sorting Robot Spurs AI Hopes and Fears At Europe's Biggest Tech Event",
-                "href": "https://hardware.slashdot.org/story/24/11/15/2133254/laundry-sorting-robot-spurs-ai-hopes-and-fears-at-europes-biggest-tech-event?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -883,52 +883,60 @@
                 "href": "https://yggdrasil-network.github.io/"
             },
             {
+                "title": "Blizzard-made Warcraft 1&2 remasters look like Zynga games made by blind duck",
+                "href": "https://www.rockpapershotgun.com/blizzard-just-quietly-released-warcraft-1-and-2-remasters-and-they-look-like-zynga-games-made-by-a-blind-duck"
+            },
+            {
                 "title": "The easiest way to create a README",
                 "href": "https://readme.so"
-            },
-            {
-                "title": "Ask HN: What open source projects need help?",
-                "href": "item?id=42157556"
-            },
-            {
-                "title": "YC is wrong about LLMs for chip design",
-                "href": "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
-            },
-            {
-                "title": "DuckDB Optimizers: The Low-Key MVP",
-                "href": "https://duckdb.org/2024/11/14/optimizers.html"
             },
             {
                 "title": "Thoughtworks Technology Radar Oct 2024 \u2013 From Coding Assistance to AI Evolution",
                 "href": "https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/"
             },
             {
-                "title": "Numpyro: Probabilistic programming with NumPy powered by Jax",
-                "href": "https://github.com/pyro-ppl/numpyro"
+                "title": "DuckDB Optimizers: The Low-Key MVP",
+                "href": "https://duckdb.org/2024/11/14/optimizers.html"
             },
             {
-                "title": "Show HN: Android Dev Quest \u2013 A puzzle game solvable only using developer tools",
-                "href": "https://www.androiddev.quest/"
-            },
-            {
-                "title": "A Case Against the Placebo Effect",
-                "href": "https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/"
+                "title": "Ask HN: What open source projects need help?",
+                "href": "item?id=42157556"
             },
             {
                 "title": "SICP The only computer science book worth reading twice (2010)",
                 "href": "https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/"
             },
             {
+                "title": "Numpyro: Probabilistic programming with NumPy powered by Jax",
+                "href": "https://github.com/pyro-ppl/numpyro"
+            },
+            {
+                "title": "Show HN: I built a(nother) house optimized for LAN parties",
+                "href": "https://lanparty.house/"
+            },
+            {
+                "title": "Statistical Rethinking (2024 Edition)",
+                "href": "https://github.com/rmcelreath/stat_rethinking_2024"
+            },
+            {
+                "title": "Show HN: Android Dev Quest \u2013 A puzzle game solvable only using developer tools",
+                "href": "https://www.androiddev.quest/"
+            },
+            {
+                "title": "YC is wrong about LLMs for chip design",
+                "href": "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
+            },
+            {
+                "title": "Dtype_dispatch: a macro that defines macros that define enums and match them",
+                "href": "https://graphallthethings.com/posts/dtype-dispatch"
+            },
+            {
                 "title": "Kyanos: eBPF-based network issue analysis tool",
                 "href": "https://github.com/hengyoush/kyanos"
             },
             {
-                "title": "M4 Macs can't virtualise older macOS",
-                "href": "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"
-            },
-            {
-                "title": "Biological Miracle \u2013 Wood Frog",
-                "href": "https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm"
+                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
             },
             {
                 "title": "Casio has released a ring in the form of its iconic watch",
@@ -939,20 +947,20 @@
                 "href": "https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article"
             },
             {
-                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+                "title": "M4 Macs can't virtualise older macOS",
+                "href": "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"
+            },
+            {
+                "title": "Four Dead in Fire as Tesla Doors Fail to Open After Crash",
+                "href": "https://myelectricsparks.com/four-dead-tesla-doors-fail-open-crash-fire/"
             },
             {
                 "title": "Nixie Tubes (2015)",
                 "href": "https://danyk.cz/digitrony_en.html"
             },
             {
-                "title": "MomBoard: E-ink display for a parent with amnesia",
-                "href": "https://jan.miksovsky.com/posts/2024/11-12-momboard"
-            },
-            {
-                "title": "Stephen Spoonamore suggests presidential vote manipulated in swing states",
-                "href": "https://substack.com/home/post/p-151721941"
+                "title": "A Case Against the Placebo Effect",
+                "href": "https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/"
             },
             {
                 "title": "Tsugaru OS \u2013 A New Free FM-Towns OS",
@@ -963,20 +971,8 @@
                 "href": "https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461"
             },
             {
-                "title": "Show HN: I built a(nother) house optimized for LAN parties",
-                "href": "https://lanparty.house/"
-            },
-            {
                 "title": "The Taming of the Screw (2000)",
                 "href": "https://americanhistory.si.edu/subs/anglesdangles/taming.html"
-            },
-            {
-                "title": "Chimpanzees' performance on computer tasks changes when people watching them",
-                "href": "https://www.cell.com/iscience/fulltext/S2589-0042(24)02416-7"
-            },
-            {
-                "title": "Dtype_dispatch: a macro that defines macros that define enums and match them",
-                "href": "https://graphallthethings.com/posts/dtype-dispatch"
             },
             {
                 "title": "Show HN: ZQDGR a Script Runner for Golang",
@@ -989,6 +985,10 @@
             {
                 "title": "A next generation catalog of cultivated bananas",
                 "href": "https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10581"
+            },
+            {
+                "title": "James Webb Space Telescope Finds Evidence for Alternate Theory of Gravity",
+                "href": "https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/"
             }
         ]
     }
