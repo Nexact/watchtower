@@ -19,6 +19,10 @@
                 "href": "https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"
             },
             {
+                "title": "Incremental builds in Nix and garnix",
+                "href": "https://garnix.io/blog/incremental-builds"
+            },
+            {
                 "title": "Exploring Effect in TypeScript: Simplifying Async and Error Handling",
                 "href": "https://www.tweag.io/blog/2024-11-07-typescript-effect/"
             },
@@ -27,8 +31,8 @@
                 "href": "https://paulgazzillo.com/papers/pldi12.pdf"
             },
             {
-                "title": "Incremental builds in Nix and garnix",
-                "href": "https://garnix.io/blog/incremental-builds"
+                "title": "Making robots plan faster with SIMD and Rust",
+                "href": "https://claytonwramsey.com/blog/captree"
             },
             {
                 "title": "Buggy code is biased code",
@@ -43,12 +47,12 @@
                 "href": "https://duckdb.org/2024/11/14/optimizers.html"
             },
             {
-                "title": "Making robots plan faster with SIMD and Rust",
-                "href": "https://claytonwramsey.com/blog/captree"
-            },
-            {
                 "title": "Announcing Prometheus 3.0",
                 "href": "https://prometheus.io/blog/2024/11/14/prometheus-3-0/"
+            },
+            {
+                "title": "Implementation of an Out-of-order RISC-V Vector Unit",
+                "href": "https://www.youtube.com/watch?v=WzID6kk8RNs"
             },
             {
                 "title": "Huawei develops 72TB SSD-tape hybrid storage device",
@@ -67,10 +71,6 @@
                 "href": "https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/"
             },
             {
-                "title": "Implementation of an Out-of-order RISC-V Vector Unit",
-                "href": "https://www.youtube.com/watch?v=WzID6kk8RNs"
-            },
-            {
                 "title": "In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928\u20132024",
                 "href": "https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"
             },
@@ -87,16 +87,16 @@
                 "href": "https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1"
             },
             {
+                "title": "Thoughts on Django\u2019s Core",
+                "href": "https://buttondown.com/carlton/archive/thoughts-on-djangos-core"
+            },
+            {
                 "title": "How Westwood VQA works",
                 "href": "https://30fps.net/pages/vqa/"
             },
             {
                 "title": "Implementing Type Systems as Macros",
                 "href": "https://lambdaland.org/posts/2023-08-14_types_with_macros/"
-            },
-            {
-                "title": "Thoughts on Django\u2019s Core",
-                "href": "https://buttondown.com/carlton/archive/thoughts-on-djangos-core"
             },
             {
                 "title": "macOS Tips",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Does Casio's New Calculator Watch Take You Back To 6th Grade Math Class?",
+                "href": "https://science.slashdot.org/story/24/11/16/0435220/does-casios-new-calculator-watch-take-you-back-to-6th-grade-math-class?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "AI Lab PleIAs Releases Fully Open Dataset, as AMD, Ai2 Release Open AI Models",
                 "href": "https://news.slashdot.org/story/24/11/16/0326222/ai-lab-pleias-releases-fully-open-dataset-as-amd-ai2-release-open-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "FTC Reports 50% Drop in Unwanted Call Complaints Since 2021",
                 "href": "https://news.slashdot.org/story/24/11/15/1934225/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The Rich Country With the Worst Mobile-Phone Service",
-                "href": "https://tech.slashdot.org/story/24/11/15/1921227/the-rich-country-with-the-worst-mobile-phone-service?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -871,36 +871,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "A Case Against the Placebo Effect",
-                "href": "https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/"
+                "title": "YC is wrong about LLMs for chip design",
+                "href": "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
             },
             {
                 "title": "Yggdrasil Network",
                 "href": "https://yggdrasil-network.github.io/"
             },
             {
-                "title": "M4 Macs can't virtualise older macOS",
-                "href": "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"
-            },
-            {
-                "title": "YC is wrong about LLMs for chip design",
-                "href": "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
-            },
-            {
                 "title": "DuckDB Optimizers: The Low-Key MVP",
                 "href": "https://duckdb.org/2024/11/14/optimizers.html"
+            },
+            {
+                "title": "A Case Against the Placebo Effect",
+                "href": "https://carcinisation.com/2024/11/13/a-case-against-the-placebo-effect/"
+            },
+            {
+                "title": "The easiest way to create a README",
+                "href": "https://readme.so"
+            },
+            {
+                "title": "M4 Macs can't virtualise older macOS",
+                "href": "https://eclecticlight.co/2024/11/14/m4-macs-cant-virtualise-older-macos/"
             },
             {
                 "title": "Thoughtworks Technology Radar Oct 2024 \u2013 From Coding Assistance to AI Evolution",
                 "href": "https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/"
             },
             {
-                "title": "Show HN: Android Dev Quest \u2013 A puzzle game solvable only using developer tools",
-                "href": "https://www.androiddev.quest/"
-            },
-            {
                 "title": "Numpyro: Probabilistic programming with NumPy powered by Jax",
                 "href": "https://github.com/pyro-ppl/numpyro"
+            },
+            {
+                "title": "Show HN: Android Dev Quest \u2013 A puzzle game solvable only using developer tools",
+                "href": "https://www.androiddev.quest/"
             },
             {
                 "title": "Kyanos: eBPF-based network issue analysis tool",
@@ -911,6 +915,18 @@
                 "href": "https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm"
             },
             {
+                "title": "Apple Smells Blood in the Water",
+                "href": "https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/"
+            },
+            {
+                "title": "Casio has released a ring in the form of its iconic watch",
+                "href": "https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"
+            },
+            {
+                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+            },
+            {
                 "title": "A new vulnerability on IPv6 parsing in linux",
                 "href": "https://nvd.nist.gov/vuln/detail/CVE-2024-50252"
             },
@@ -919,12 +935,8 @@
                 "href": "https://danyk.cz/digitrony_en.html"
             },
             {
-                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-            },
-            {
-                "title": "Casio has released a ring in the form of its iconic watch",
-                "href": "https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"
+                "title": "The Bluesky Bubble: This is a relapse, not a fix",
+                "href": "https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/"
             },
             {
                 "title": "MomBoard: E-ink display for a parent with amnesia",
@@ -935,20 +947,12 @@
                 "href": "https://github.com/captainys/FreeTOWNSOS"
             },
             {
-                "title": "The Taming of the Screw (2000)",
-                "href": "https://americanhistory.si.edu/subs/anglesdangles/taming.html"
-            },
-            {
                 "title": "Artificial Intelligence for Quantum Computing",
                 "href": "https://arxiv.org/abs/2411.09131"
             },
             {
-                "title": "Apple Smells Blood in the Water",
-                "href": "https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/"
-            },
-            {
-                "title": "The Bluesky Bubble: This is a relapse, not a fix",
-                "href": "https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/"
+                "title": "The Taming of the Screw (2000)",
+                "href": "https://americanhistory.si.edu/subs/anglesdangles/taming.html"
             },
             {
                 "title": "Hackers use ZIP file concatenation to evade detection",
@@ -963,16 +967,16 @@
                 "href": "https://github.com/juls0730/zqdgr"
             },
             {
-                "title": "Llama-OCR: Document to Markdown",
-                "href": "https://llamaocr.com/"
-            },
-            {
                 "title": "Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs",
                 "href": "https://closingwtf.com"
             },
             {
-                "title": "A next generation catalog of cultivated bananas",
-                "href": "https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10581"
+                "title": "Llama-OCR: Document to Markdown",
+                "href": "https://llamaocr.com/"
+            },
+            {
+                "title": "We're going to see the return of diseases we have controlled for decades",
+                "href": "https://geneticliteracyproject.org/2024/11/08/viewpoint-vaccine-opponent-and-conspiracy-theorist-rfk-jr-poised-to-remake-us-health-policy-in-this-twisted-vision/"
             },
             {
                 "title": "C++ Template Macroprogramming versus Lisp Macros",
@@ -983,12 +987,8 @@
                 "href": "https://onair.io/"
             },
             {
-                "title": "Pex: A tool for generating .pex (Python EXecutable) files, lock files and venvs",
-                "href": "https://github.com/pex-tool/pex"
-            },
-            {
-                "title": "Four-wave mixing could boost optical communications in space",
-                "href": "https://physicsworld.com/a/four-wave-mixing-could-boost-optical-communications-in-space/"
+                "title": "A next generation catalog of cultivated bananas",
+                "href": "https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10581"
             }
         ]
     }
