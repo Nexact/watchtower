@@ -19,6 +19,14 @@
                 "href": "https://garnix.io/blog/incremental-builds"
             },
             {
+                "title": "Making robots plan faster with SIMD and Rust",
+                "href": "https://claytonwramsey.com/blog/captree"
+            },
+            {
+                "title": "SuperC: parsing all of C by taming the preprocessor",
+                "href": "https://paulgazzillo.com/papers/pldi12.pdf"
+            },
+            {
                 "title": "Exploring Effect in TypeScript: Simplifying Async and Error Handling",
                 "href": "https://www.tweag.io/blog/2024-11-07-typescript-effect/"
             },
@@ -27,16 +35,12 @@
                 "href": "https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"
             },
             {
-                "title": "SuperC: parsing all of C by taming the preprocessor",
-                "href": "https://paulgazzillo.com/papers/pldi12.pdf"
-            },
-            {
                 "title": "Buggy code is biased code",
                 "href": "https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/"
             },
             {
-                "title": "Making robots plan faster with SIMD and Rust",
-                "href": "https://claytonwramsey.com/blog/captree"
+                "title": "The Secret Behind Valve's Flickering Lights",
+                "href": "https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/"
             },
             {
                 "title": "Protecting Signal Keys on Desktop",
@@ -47,8 +51,16 @@
                 "href": "https://duckdb.org/2024/11/14/optimizers.html"
             },
             {
+                "title": "The Monads Hurt My Head --- But Not Anymore (2009)",
+                "href": "https://golem.ph.utexas.edu/category/2009/07/the_monads_hurt_my_head_but_no.html"
+            },
+            {
                 "title": "You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths",
                 "href": "https://htmx.org/essays/you-cant/"
+            },
+            {
+                "title": "An Introduction to Residuality Theory",
+                "href": "https://www.youtube.com/watch?v=1KHXAWLSMqE"
             },
             {
                 "title": "James Gleick's Chaos: The Software",
@@ -65,14 +77,6 @@
             {
                 "title": "Implementation of an Out-of-order RISC-V Vector Unit",
                 "href": "https://www.youtube.com/watch?v=WzID6kk8RNs"
-            },
-            {
-                "title": "An Introduction to Residuality Theory",
-                "href": "https://www.youtube.com/watch?v=1KHXAWLSMqE"
-            },
-            {
-                "title": "The Monads Hurt My Head --- But Not Anymore (2009)",
-                "href": "https://golem.ph.utexas.edu/category/2009/07/the_monads_hurt_my_head_but_no.html"
             },
             {
                 "title": "In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928\u20132024",
@@ -97,10 +101,6 @@
             {
                 "title": "Thoughts on Django\u2019s Core",
                 "href": "https://buttondown.com/carlton/archive/thoughts-on-djangos-core"
-            },
-            {
-                "title": "How Westwood VQA works",
-                "href": "https://30fps.net/pages/vqa/"
             }
         ]
     },
@@ -875,20 +875,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Astronomers find 2 galaxies aligned where their gravity acts as a compound lens",
+                "title": "Two galaxies aligned in a way where their gravity acts as a compound lens",
                 "href": "https://phys.org/news/2024-11-astronomers-galaxies-aligned-gravity-compound.html"
-            },
-            {
-                "title": "Logica \u2013 Declarative logic programming language for data",
-                "href": "https://logica.dev/"
             },
             {
                 "title": "James Webb Space Telescope finds evidence for alternate theory of gravity",
                 "href": "https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/"
             },
             {
+                "title": "Logica \u2013 Declarative logic programming language for data",
+                "href": "https://logica.dev/"
+            },
+            {
                 "title": "SICP: The only computer science book worth reading twice? (2010)",
                 "href": "https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/"
+            },
+            {
+                "title": "Show HN: I built a(nother) house optimized for LAN parties",
+                "href": "https://lanparty.house/"
             },
             {
                 "title": "Military's UFO-hunting aerial surveillance system detailed in report",
@@ -899,10 +903,6 @@
                 "href": "https://github.com/rmcelreath/stat_rethinking_2024"
             },
             {
-                "title": "Show HN: I built a(nother) house optimized for LAN parties",
-                "href": "https://lanparty.house/"
-            },
-            {
                 "title": "Yggdrasil Network",
                 "href": "https://yggdrasil-network.github.io/"
             },
@@ -911,56 +911,52 @@
                 "href": "https://phys.org/news/2024-11-bullying-problem-incidence-primary-schools.html"
             },
             {
-                "title": "New haptic patch transmits complexity of touch to the skin",
-                "href": "https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html"
-            },
-            {
                 "title": "Optimizers: The Low-Key MVP",
                 "href": "https://duckdb.org/2024/11/14/optimizers.html"
-            },
-            {
-                "title": "Numpyro: Probabilistic programming with NumPy powered by Jax",
-                "href": "https://github.com/pyro-ppl/numpyro"
             },
             {
                 "title": "Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson",
                 "href": "https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461"
             },
             {
-                "title": "Is the UK's liver transplant matching algorithm biased against younger patients?",
-                "href": "https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching"
+                "title": "Numpyro: Probabilistic programming with NumPy powered by Jax",
+                "href": "https://github.com/pyro-ppl/numpyro"
+            },
+            {
+                "title": "New haptic patch transmits complexity of touch to the skin",
+                "href": "https://techxplore.com/news/2024-11-haptic-patch-transmits-complexity-skin.html"
             },
             {
                 "title": "I tried every top email marketing tool",
                 "href": "https://www.sitebuilderreport.com/email-marketing-tools/"
             },
             {
-                "title": "The race to commercialise nuclear-powered batteries",
-                "href": "https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article"
-            },
-            {
                 "title": "Don't Look Twice: Faster Video Transformers with Run-Length Tokenization",
                 "href": "https://rccchoudhury.github.io/rlt/"
             },
             {
-                "title": "Show HN: Android Dev Quest \u2013 A puzzle game solvable only using developer tools",
-                "href": "https://www.androiddev.quest/"
+                "title": "AI isn't unleashing imaginations, it's outsourcing them",
+                "href": "https://www.theguardian.com/technology/2024/nov/16/ai-isnt-about-unleashing-our-imaginations-its-about-outsourcing-them-the-real-purpose-is-profit"
             },
             {
-                "title": "Twitter is the worst global social network\u2013except for all the others",
-                "href": "https://cfenollosa.com/blog/twitter-is-the-worst-global-social-network--except-for-all-the-others.html"
+                "title": "Is the UK's liver transplant matching algorithm biased against younger patients?",
+                "href": "https://www.aisnakeoil.com/p/does-the-uks-liver-transplant-matching"
+            },
+            {
+                "title": "Virtual Shoe Museum",
+                "href": "https://virtualshoemuseum.com/"
+            },
+            {
+                "title": "The race to commercialise nuclear-powered batteries",
+                "href": "https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article"
             },
             {
                 "title": "C Compiler to SPIR-V",
                 "href": "https://github.com/heroseh/hcc"
             },
             {
-                "title": "Kyanos: eBPF-based network issue analysis tool",
-                "href": "https://github.com/hengyoush/kyanos"
-            },
-            {
-                "title": "Casio has released a ring in the form of its iconic watch",
-                "href": "https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"
+                "title": "Show HN: Android Dev Quest \u2013 A puzzle game solvable only using developer tools",
+                "href": "https://www.androiddev.quest/"
             },
             {
                 "title": "PermitFlow (YC W22) is hiring senior/staff engineers in NYC",
@@ -971,28 +967,32 @@
                 "href": "https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html"
             },
             {
-                "title": "Surveillance and the history of 19th-century wearable tech",
-                "href": "https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/"
+                "title": "Kyanos: eBPF-based network issue analysis tool",
+                "href": "https://github.com/hengyoush/kyanos"
             },
             {
-                "title": "Readme.so \u2013 Easy way to create a README",
-                "href": "https://readme.so"
+                "title": "Casio has released a ring in the form of its iconic watch",
+                "href": "https://www.theverge.com/2024/11/15/24297261/casio-smart-ring-digital-watch-crw-001-1jr"
+            },
+            {
+                "title": "Where Does the Magic Go as We Grow Older? (2020)",
+                "href": "https://medium.com/mindfully-speaking/where-does-the-magic-go-as-we-grow-older-15d467212efe"
+            },
+            {
+                "title": "Surveillance and the history of 19th-century wearable tech",
+                "href": "https://thereader.mitpress.mit.edu/surveillance-and-the-secret-history-of-19th-century-wearable-tech/"
             },
             {
                 "title": "YC is wrong about LLMs for chip design",
                 "href": "https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design"
             },
             {
-                "title": "Dtype_dispatch: a macro that defines macros that define enums and match them",
-                "href": "https://graphallthethings.com/posts/dtype-dispatch"
-            },
-            {
-                "title": "Ask HN: What open source projects need help?",
-                "href": "item?id=42157556"
-            },
-            {
                 "title": "Nixie Tubes (2015)",
                 "href": "https://danyk.cz/digitrony_en.html"
+            },
+            {
+                "title": "Dtype_dispatch: a macro that defines macros that define enums and match them",
+                "href": "https://graphallthethings.com/posts/dtype-dispatch"
             }
         ]
     }
