@@ -15,6 +15,10 @@
                 "href": "https://blog.xoria.org/n-times-faster/"
             },
             {
+                "title": "Gleam v1.6.0 released",
+                "href": "https://gleam.run/news/context-aware-compilation/"
+            },
+            {
                 "title": "The missing text focused programming environment",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment"
             },
@@ -23,8 +27,8 @@
                 "href": "https://austinhenley.com/blog/mirrorlang.html"
             },
             {
-                "title": "Gleam v1.6.0 released",
-                "href": "https://gleam.run/news/context-aware-compilation/"
+                "title": "Threads Beat Async/Await",
+                "href": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/"
             },
             {
                 "title": "Traceroute isn't real",
@@ -35,36 +39,32 @@
                 "href": "https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/"
             },
             {
-                "title": "Gotraceui",
-                "href": "https://gotraceui.dev/"
-            },
-            {
                 "title": "chawan: TUI Web Browser",
                 "href": "https://sr.ht/~bptato/chawan/"
             },
             {
-                "title": "Against best practices",
-                "href": "https://www.arp242.net/best-practices.html"
+                "title": "Gotraceui",
+                "href": "https://gotraceui.dev/"
             },
             {
-                "title": "Threads Beat Async/Await",
-                "href": "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/"
-            },
-            {
-                "title": "Reverse Engineering iOS 18 Inactivity Reboot",
-                "href": "https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html"
-            },
-            {
-                "title": "NAT is inevitable even with IPv6",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT"
+                "title": "A Walk with LuaJIT",
+                "href": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
             },
             {
                 "title": "httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD",
                 "href": "https://httpd.rocks"
             },
             {
-                "title": "A Walk with LuaJIT",
-                "href": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
+                "title": "Against best practices",
+                "href": "https://www.arp242.net/best-practices.html"
+            },
+            {
+                "title": "NAT is inevitable even with IPv6",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT"
+            },
+            {
+                "title": "Reverse Engineering iOS 18 Inactivity Reboot",
+                "href": "https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html"
             },
             {
                 "title": "The Knight Lore rendering algorithm",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Trump Picks Carr To Head FCC With Pledge To Fight 'Censorship Cartel'",
+                "href": "https://news.slashdot.org/story/24/11/18/1445208/trump-picks-carr-to-head-fcc-with-pledge-to-fight-censorship-cartel?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "AI Investments Are Booming, but Venture-Firm Profits Are at a Historic Low",
                 "href": "https://news.slashdot.org/story/24/11/18/1322218/ai-investments-are-booming-but-venture-firm-profits-are-at-a-historic-low?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Is Remote Working Causing an Exodus to the Exurbs?",
                 "href": "https://it.slashdot.org/story/24/11/16/2058247/is-remote-working-causing-an-exodus-to-the-exurbs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "New Model Calculates Chances of Intelligent Beings In Our Universe and Beyond",
-                "href": "https://science.slashdot.org/story/24/11/16/1845222/new-model-calculates-chances-of-intelligent-beings-in-our-universe-and-beyond?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -710,24 +710,48 @@
         "feedname": "packetstorm",
         "items": [
             {
-                "title": "Palo Alto Networks Confirms New Firewall Zero-Day Exploitation",
-                "href": "https://packetstormsecurity.com/news/view/36601/Palo-Alto-Networks-Confirms-New-Firewall-Zero-Day-Exploitation.html"
+                "title": "300 Drinking Systems In US Exposed To Disruptive, Damaging Hacker Attacks",
+                "href": "https://packetstormsecurity.com/news/view/36606/300-Drinking-Systems-In-US-Exposed-To-Disruptive-Damaging-Hacker-Attacks.html"
+            },
+            {
+                "title": "Will Passkeys Ever Replace Passwords?  Can They?",
+                "href": "https://packetstormsecurity.com/news/view/36604/Will-Passkeys-Ever-Replace-Passwords-Can-They.html"
+            },
+            {
+                "title": "Swiss Cheesed Off As Postal Service Used To Spread Malware",
+                "href": "https://packetstormsecurity.com/news/view/36605/Swiss-Cheesed-Off-As-Postal-Service-Used-To-Spread-Malware.html"
+            },
+            {
+                "title": "NSO Operates Its Spyware, Legal Documents Reveal",
+                "href": "https://packetstormsecurity.com/news/view/36607/NSO-Operates-Its-Spyware-Legal-Documents-Reveal.html"
+            },
+            {
+                "title": "Discontinued GeoVision Products Targeted In Botnet Attacks",
+                "href": "https://packetstormsecurity.com/news/view/36609/Discontinued-GeoVision-Products-Targeted-In-Botnet-Attacks.html"
+            },
+            {
+                "title": "Ransomware Attack On Oklahoma Medical Center Impacts 133,000",
+                "href": "https://packetstormsecurity.com/news/view/36608/Ransomware-Attack-On-Oklahoma-Medical-Center-Impacts-133-000.html"
             },
             {
                 "title": "Webscout Is Worth Checking Out",
                 "href": "https://packetstormsecurity.com/news/view/36603/Webscout-Is-Worth-Checking-Out.html"
             },
             {
-                "title": "Known Brand, Gov Domains Hijacked Via Sitting Ducks Attacks",
-                "href": "https://packetstormsecurity.com/news/view/36599/Known-Brand-Gov-Domains-Hijacked-Via-Sitting-Ducks-Attacks.html"
+                "title": "Microsoft Power Pages Misconfigurations Exposing Sensitive Data",
+                "href": "https://packetstormsecurity.com/news/view/36602/Microsoft-Power-Pages-Misconfigurations-Exposing-Sensitive-Data.html"
+            },
+            {
+                "title": "Palo Alto Networks Confirms New Firewall Zero-Day Exploitation",
+                "href": "https://packetstormsecurity.com/news/view/36601/Palo-Alto-Networks-Confirms-New-Firewall-Zero-Day-Exploitation.html"
             },
             {
                 "title": "Fortinet Patches VPN Flaw That Provided Privilege Escalation",
                 "href": "https://packetstormsecurity.com/news/view/36600/Fortinet-Patches-VPN-Flaw-That-Provided-Privilege-Escalation.html"
             },
             {
-                "title": "Microsoft Power Pages Misconfigurations Exposing Sensitive Data",
-                "href": "https://packetstormsecurity.com/news/view/36602/Microsoft-Power-Pages-Misconfigurations-Exposing-Sensitive-Data.html"
+                "title": "Known Brand, Gov Domains Hijacked Via Sitting Ducks Attacks",
+                "href": "https://packetstormsecurity.com/news/view/36599/Known-Brand-Gov-Domains-Hijacked-Via-Sitting-Ducks-Attacks.html"
             },
             {
                 "title": "Man Gets 5 Years For Laundering Crypto From Bitfinex Hack",
@@ -742,28 +766,72 @@
                 "href": "https://packetstormsecurity.com/news/view/36596/CISA-FBI-Confirm-China-Hacked-Telecoms-To-Spy.html"
             },
             {
-                "title": "Two Men Charged For Hacking US Tax Preparation Firms",
-                "href": "https://packetstormsecurity.com/news/view/36595/Two-Men-Charged-For-Hacking-US-Tax-Preparation-Firms.html"
+                "title": "Pyload Remote Code Execution",
+                "href": "https://packetstormsecurity.com/files/182692/pyload_js2py_cve_2024_39205.rb.txt"
             },
             {
-                "title": "Iranian Threat Group Targets Aerospace Workers With Fake Job Lures",
-                "href": "https://packetstormsecurity.com/news/view/36594/Iranian-Threat-Group-Targets-Aerospace-Workers-With-Fake-Job-Lures.html"
+                "title": "Gentoo Linux Security Advisory 202411-09",
+                "href": "https://packetstormsecurity.com/files/182691/glsa-202411-09.txt"
             },
             {
-                "title": "Air National Guardsman Gets 15 Years For Leaking Docs On Discord",
-                "href": "https://packetstormsecurity.com/news/view/36593/Air-National-Guardsman-Gets-15-Years-For-Leaking-Docs-On-Discord.html"
+                "title": "Gentoo Linux Security Advisory 202411-08",
+                "href": "https://packetstormsecurity.com/files/182690/glsa-202411-08.txt"
             },
             {
-                "title": "Citrix, Cisco, Fortinet Zero-Days Among 2023's Most Exploited Vulnerabilities",
-                "href": "https://packetstormsecurity.com/news/view/36592/Citrix-Cisco-Fortinet-Zero-Days-Among-2023s-Most-Exploited-Vulnerabilities.html"
+                "title": "Gentoo Linux Security Advisory 202411-07",
+                "href": "https://packetstormsecurity.com/files/182689/glsa-202411-07.txt"
             },
             {
-                "title": "Ivanti Patches 50 Vulnerabilities Across Several Products",
-                "href": "https://packetstormsecurity.com/news/view/36591/Ivanti-Patches-50-Vulnerabilities-Across-Several-Products.html"
+                "title": "Debian Security Advisory 5814-1",
+                "href": "https://packetstormsecurity.com/files/182688/dsa-5814-1.txt"
             },
             {
-                "title": "Intel And AMD Have Released Many Advisories",
-                "href": "https://packetstormsecurity.com/news/view/36590/Intel-And-AMD-Have-Released-Many-Advisories.html"
+                "title": "Debian Security Advisory 5813-1",
+                "href": "https://packetstormsecurity.com/files/182687/dsa-5813-1.txt"
+            },
+            {
+                "title": "SOPlanning 1.52.01 Remote Code Execution",
+                "href": "https://packetstormsecurity.com/files/182686/soplanning15201-exec.txt"
+            },
+            {
+                "title": "Debian Security Advisory 5812-1",
+                "href": "https://packetstormsecurity.com/files/182685/dsa-5812-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7108-1",
+                "href": "https://packetstormsecurity.com/files/182684/USN-7108-1.txt"
+            },
+            {
+                "title": "Ubuntu Security Notice USN-7106-1",
+                "href": "https://packetstormsecurity.com/files/182683/USN-7106-1.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9680-03",
+                "href": "https://packetstormsecurity.com/files/182682/RHSA-2024-9680-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9654-03",
+                "href": "https://packetstormsecurity.com/files/182681/RHSA-2024-9654-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9653-03",
+                "href": "https://packetstormsecurity.com/files/182680/RHSA-2024-9653-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9644-03",
+                "href": "https://packetstormsecurity.com/files/182679/RHSA-2024-9644-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9637-03",
+                "href": "https://packetstormsecurity.com/files/182678/RHSA-2024-9637-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9627-03",
+                "href": "https://packetstormsecurity.com/files/182677/RHSA-2024-9627-03.txt"
+            },
+            {
+                "title": "Red Hat Security Advisory 2024-9624-03",
+                "href": "https://packetstormsecurity.com/files/182676/RHSA-2024-9624-03.txt"
             },
             {
                 "title": "Ubuntu Security Notice USN-7089-6",
@@ -796,74 +864,6 @@
             {
                 "title": "Ubuntu Security Notice USN-7110-1",
                 "href": "https://packetstormsecurity.com/files/182668/USN-7110-1.txt"
-            },
-            {
-                "title": "Siemens Energy Omnivise T3000 8.2 SP3 Privilege Escalation / File Download",
-                "href": "https://packetstormsecurity.com/files/182667/SA-20241112-0.txt"
-            },
-            {
-                "title": "TX Text Control .NET Server For ASP.NET Arbitrary File Read / Write",
-                "href": "https://packetstormsecurity.com/files/182666/txtextcontrol-fileread.txt"
-            },
-            {
-                "title": "GravCMS 1.10.7 Arbitrary YAML Write / Update",
-                "href": "https://packetstormsecurity.com/files/182664/cve-2021-21425-main.zip"
-            },
-            {
-                "title": "PHP-CGI Argument Injection Remote Code Execution",
-                "href": "https://packetstormsecurity.com/files/182663/CVE-2024-4577-RCE-PoC-main.zip"
-            },
-            {
-                "title": "PHP-CGI Argument Injection Susceptibility Scanner",
-                "href": "https://packetstormsecurity.com/files/182662/CVE-2024-4577-checker-main.zip"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-7109-1",
-                "href": "https://packetstormsecurity.com/files/182661/USN-7109-1.txt"
-            },
-            {
-                "title": "Ubuntu Security Notice USN-7107-1",
-                "href": "https://packetstormsecurity.com/files/182660/USN-7107-1.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9601-03",
-                "href": "https://packetstormsecurity.com/files/182659/RHSA-2024-9601-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9583-03",
-                "href": "https://packetstormsecurity.com/files/182658/RHSA-2024-9583-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9579-03",
-                "href": "https://packetstormsecurity.com/files/182657/RHSA-2024-9579-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9573-03",
-                "href": "https://packetstormsecurity.com/files/182656/RHSA-2024-9573-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9572-03",
-                "href": "https://packetstormsecurity.com/files/182655/RHSA-2024-9572-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9571-03",
-                "href": "https://packetstormsecurity.com/files/182654/RHSA-2024-9571-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9566-03",
-                "href": "https://packetstormsecurity.com/files/182653/RHSA-2024-9566-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9559-03",
-                "href": "https://packetstormsecurity.com/files/182652/RHSA-2024-9559-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9554-03",
-                "href": "https://packetstormsecurity.com/files/182651/RHSA-2024-9554-03.txt"
-            },
-            {
-                "title": "Red Hat Security Advisory 2024-9552-03",
-                "href": "https://packetstormsecurity.com/files/182650/RHSA-2024-9552-03.txt"
             }
         ]
     },
@@ -875,28 +875,32 @@
                 "href": "https://museumofbadart.org/"
             },
             {
-                "title": "Phonetic Matching",
-                "href": "https://smoores.dev/post/phonetic_matching/"
+                "title": "I was banned from the hCaptcha accessibility account for not being blind (2023)",
+                "href": "https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"
             },
             {
-                "title": "Show HN: Nova JavaScript Engine",
-                "href": "https://github.com/trynova/nova"
+                "title": "The most helpful charity isn't what you think",
+                "href": "https://benthams.substack.com/p/the-best-charity-isnt-what-you-think"
+            },
+            {
+                "title": "Bhutan, after prioritizing happiness, now faces an existential crisis",
+                "href": "https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/"
             },
             {
                 "title": "Reactive HTML Notebooks",
                 "href": "https://maxbo.me/a-html-file-is-all-you-need.html"
             },
             {
+                "title": "Phonetic Matching",
+                "href": "https://smoores.dev/post/phonetic_matching/"
+            },
+            {
                 "title": "Fortran II Hypersource",
                 "href": "https://texdraft.github.io/fortran/fortran.html"
             },
             {
-                "title": "I was banned from the hCaptcha accessibility account for not being blind",
-                "href": "https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"
-            },
-            {
-                "title": "Bhutan, after prioritizing happiness, now faces an existential crisis",
-                "href": "https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/"
+                "title": "Show HN: Nova JavaScript Engine",
+                "href": "https://github.com/trynova/nova"
             },
             {
                 "title": "LLaVA-O1: Let Vision Language Models Reason Step-by-Step",
@@ -905,6 +909,10 @@
             {
                 "title": "GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation",
                 "href": "https://nirvanalan.github.io/projects/GA/"
+            },
+            {
+                "title": "Libobscura",
+                "href": "https://dorotac.eu/posts/libobscura/"
             },
             {
                 "title": "Electron Spins: a special case of Chromium mods",
@@ -923,12 +931,8 @@
                 "href": "https://github.com/DocumindHQ/documind"
             },
             {
-                "title": "$500k Pay, Easy Hours: How Dermatology Became the 'It' Job in Medicine",
-                "href": "https://www.wsj.com/lifestyle/careers/dermatology-jobs-salary-young-doctors-174cfe53"
-            },
-            {
-                "title": "Undergrad thought he had mastered Unix in weeks. Then he discovered rm -RF",
-                "href": "https://www.theregister.com/2024/11/18/who_me/"
+                "title": "Mystery fault takes out undersea internet cable between Germany and Finland",
+                "href": "https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html"
             },
             {
                 "title": "It's time to replace TCP in the datacenter (2023)",
@@ -939,40 +943,36 @@
                 "href": "https://rishimehta.xyz/2024/11/17/alphaproofs-greatest-hits.html"
             },
             {
-                "title": "We are shutting down Ondsel",
-                "href": "https://ondsel.com/blog/goodbye/"
+                "title": "Faking Shaders III: Tixyland",
+                "href": "https://garten.salat.dev/fake-shaders3.html"
             },
             {
-                "title": "You could have designed state of the art positional encoding",
-                "href": "https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"
+                "title": "We are shutting down Ondsel",
+                "href": "https://ondsel.com/blog/goodbye/"
             },
             {
                 "title": "The withering dream of a cheap American electric car",
                 "href": "https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113"
             },
             {
+                "title": "You could have designed state of the art positional encoding",
+                "href": "https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"
+            },
+            {
+                "title": "Show HN: Dumbo \u2013 Hono inspired framework for PHP",
+                "href": "https://github.com/notrab/dumbo"
+            },
+            {
                 "title": "Mapping the Ionosphere with Phones",
                 "href": "https://www.nature.com/articles/s41586-024-08072-x"
-            },
-            {
-                "title": "Faking Shaders III: Tixyland",
-                "href": "https://garten.salat.dev/fake-shaders3.html"
-            },
-            {
-                "title": "Solar-powered desalination system requires no extra batteries",
-                "href": "https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008"
-            },
-            {
-                "title": "ChibiHash: Small, Fast 64 bit hash function",
-                "href": "https://nrk.neocities.org/articles/chibihash"
             },
             {
                 "title": "Show HN: The App I Built to Help Manage My Diabetes",
                 "href": "https://apps.apple.com/gb/app/islet-diabetes/id6453168642"
             },
             {
-                "title": "Garak, LLM Vulnerability Scanner",
-                "href": "https://github.com/NVIDIA/garak"
+                "title": "ChibiHash: Small, Fast 64 bit hash function",
+                "href": "https://nrk.neocities.org/articles/chibihash"
             },
             {
                 "title": "An alternative construction of Shannon entropy",
@@ -987,8 +987,8 @@
                 "href": "https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/"
             },
             {
-                "title": "Constraints in Go",
-                "href": "https://bitfieldconsulting.com/posts/constraints"
+                "title": "Garak, LLM Vulnerability Scanner",
+                "href": "https://github.com/NVIDIA/garak"
             }
         ]
     }
