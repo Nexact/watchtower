@@ -31,16 +31,20 @@
                 "href": "https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507"
             },
             {
-                "title": "ChatGPT is Slipping",
-                "href": "https://adriano.fyi/posts/chatgpt-is-slipping/"
-            },
-            {
                 "title": "Adding Apple's Globe key to a QMK-powered keyboard",
                 "href": "https://skip.house/blog/qmk-globe-key"
             },
             {
+                "title": "ChatGPT is Slipping",
+                "href": "https://adriano.fyi/posts/chatgpt-is-slipping/"
+            },
+            {
                 "title": "How Many Values Does a Boolean Have? (2020)",
                 "href": "https://danilafe.com/blog/boolean_values/"
+            },
+            {
+                "title": "Build your own SQLite in Rust, Part 3: SQL parsing 101",
+                "href": "https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101"
             },
             {
                 "title": "The missing text focused programming environment",
@@ -51,28 +55,32 @@
                 "href": "https://blog.xoria.org/n-times-faster/"
             },
             {
-                "title": "Build your own SQLite in Rust, Part 3: SQL parsing 101",
-                "href": "https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101"
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/3orteb/what_are_you_doing_this_week"
             },
             {
                 "title": "A Walk with LuaJIT",
                 "href": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/3orteb/what_are_you_doing_this_week"
+                "title": "chawan: TUI Web Browser",
+                "href": "https://sr.ht/~bptato/chawan/"
             },
             {
                 "title": "Introducing DjangoVer",
                 "href": "https://www.b-list.org/weblog/2024/nov/18/djangover/"
             },
             {
-                "title": "chawan: TUI Web Browser",
-                "href": "https://sr.ht/~bptato/chawan/"
-            },
-            {
                 "title": "Optimization adventures: making a parallel Rust workload 10x faster with (or without) Rayon",
                 "href": "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"
+            },
+            {
+                "title": "Story-time: C++, bounds checking, performance, and compilers",
+                "href": "https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/"
+            },
+            {
+                "title": "[...] Bandwidth [...] is now a solvable problem",
+                "href": "https://queue.acm.org/detail.cfm?id=3674953"
             },
             {
                 "title": "Gotraceui",
@@ -87,20 +95,12 @@
                 "href": "https://arxiv.org/pdf/2210.00714"
             },
             {
-                "title": "Story-time: C++, bounds checking, performance, and compilers",
-                "href": "https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/"
+                "title": "raylib v5.5",
+                "href": "https://github.com/raysan5/raylib/discussions/4503"
             },
             {
                 "title": "Against best practices",
                 "href": "https://www.arp242.net/best-practices.html"
-            },
-            {
-                "title": "RE: your application environment variables",
-                "href": "https://edoput.it/2024/11/18/your-application-environment-variables.html"
-            },
-            {
-                "title": "[...] Bandwidth [...] is now a solvable problem",
-                "href": "https://queue.acm.org/detail.cfm?id=3674953"
             }
         ]
     },
@@ -319,6 +319,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "London Bus Crashes Are the Result of an Unsafe Model",
+                "href": "https://news.slashdot.org/story/24/11/19/015228/london-bus-crashes-are-the-result-of-an-unsafe-model?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "'El Capitan' Ranked Most Powerful Supercomputer In the World",
+                "href": "https://tech.slashdot.org/story/24/11/19/0012214/el-capitan-ranked-most-powerful-supercomputer-in-the-world?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Roblox No Longer Allows Users Under 13 To Message Others Outside of Games",
                 "href": "https://games.slashdot.org/story/24/11/18/222246/roblox-no-longer-allows-users-under-13-to-message-others-outside-of-games?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,14 +377,6 @@
             {
                 "title": "Trump Picks Carr To Head FCC With Pledge To Fight 'Censorship Cartel'",
                 "href": "https://news.slashdot.org/story/24/11/18/1445208/trump-picks-carr-to-head-fcc-with-pledge-to-fight-censorship-cartel?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AI Investments Are Booming, but Venture-Firm Profits Are at a Historic Low",
-                "href": "https://news.slashdot.org/story/24/11/18/1322218/ai-investments-are-booming-but-venture-firm-profits-are-at-a-historic-low?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The Rust Foundation Wants to Improve Rust and C++ Interoperability",
-                "href": "https://developers.slashdot.org/story/24/11/18/046228/the-rust-foundation-wants-to-improve-rust-and-c-interoperability?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -875,6 +875,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Llama 3.1 405B now runs at 969 tokens/s on Cerebras Inference",
+                "href": "https://cerebras.ai/blog/llama-405b-inference"
+            },
+            {
                 "title": "Launch HN: Regatta Storage (YC F24) \u2013 Turn S3 into a local-like, POSIX cloud FS",
                 "href": "item?id=42174204"
             },
@@ -887,16 +891,20 @@
                 "href": "https://blog.google/outreach-initiatives/education/google-scholar-20-years/"
             },
             {
+                "title": "Show HN: Venmo Unofficial API",
+                "href": "https://github.com/Integuru-AI/Venmo-Unofficial-API"
+            },
+            {
                 "title": "MailCatcher runs a super simple SMTP server",
                 "href": "https://mailcatcher.me/"
             },
             {
-                "title": "A BBC navigation bar component broke depending on the external monitor",
-                "href": "https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/"
+                "title": "Maslow 4: Large format CNC routing made accessible",
+                "href": "https://www.maslowcnc.com"
             },
             {
-                "title": "Don't sit on the toilet for more than 10 minutes, doctors warn",
-                "href": "https://www.cnn.com/2024/11/12/health/phones-on-toilet-wellness/index.html"
+                "title": "A BBC navigation bar component broke depending on the external monitor",
+                "href": "https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/"
             },
             {
                 "title": "Air traffic failure caused by two locations 3600nm apart sharing 3-letter code",
@@ -907,8 +915,12 @@
                 "href": "https://jvernay.fr/en/blog/skyline-2d-packer/implementation/"
             },
             {
-                "title": "Show HN: Venmo Unofficial API",
-                "href": "https://github.com/Integuru-AI/Venmo-Unofficial-API"
+                "title": "Hyperfine: A command-line benchmarking tool",
+                "href": "https://github.com/sharkdp/hyperfine"
+            },
+            {
+                "title": "Two undersea cables in Baltic Sea disrupted",
+                "href": "https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html"
             },
             {
                 "title": "Show HN: Tips.io \u2013 A Tailwind playground with AI, page management, and theming",
@@ -923,76 +935,64 @@
                 "href": "https://mazzo.li/posts/uring-multiplex.html"
             },
             {
-                "title": "Two undersea cables in Baltic Sea disrupted",
-                "href": "https://www.cnn.com/2024/11/18/europe/undersea-cable-disrupted-germany-finland-intl/index.html"
-            },
-            {
-                "title": "Reactive HTML Notebooks",
-                "href": "https://maxbo.me/a-html-file-is-all-you-need.html"
+                "title": "Histogramming Bytes with Positional Popcount",
+                "href": "http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html"
             },
             {
                 "title": "Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling",
                 "href": "https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling"
             },
             {
-                "title": "Towards Nyquist Learners",
-                "href": "https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85"
+                "title": "Reactive HTML Notebooks",
+                "href": "https://maxbo.me/a-html-file-is-all-you-need.html"
             },
             {
                 "title": "Is Chrome the New IE? (2023)",
                 "href": "https://www.magiclasso.co/insights/is-chrome-the-new-ie/"
             },
             {
-                "title": "Histogramming Bytes with Positional Popcount",
-                "href": "http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html"
+                "title": "'Achilles heel' of antibiotic-resistant bacteria discovered",
+                "href": "https://studyfinds.org/achilles-heel-antibiotic-resistant-bacteria/"
+            },
+            {
+                "title": "Towards Nyquist Learners",
+                "href": "https://gwern.net/doc/www/arxiv.org/89f378d0e61fc00754c5e6d175e644578593d372.pdf#page=85"
             },
             {
                 "title": "LLaVA-O1: Let Vision Language Models Reason Step-by-Step",
                 "href": "https://arxiv.org/abs/2411.10440"
             },
             {
-                "title": "AMD now has more compute on the top 500 than Nvidia",
-                "href": "https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/"
-            },
-            {
-                "title": "DNA testing company vanishes along with its customers' genetic data",
-                "href": "https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data"
+                "title": "Playful, intricate Japanese leaf art \u2013 in pictures \u2013 Art and design",
+                "href": "https://www.theguardian.com/artanddesign/gallery/2024/nov/16/what-a-carve-up-playful-intricate-japanese-leaf-art-in-pictures"
             },
             {
                 "title": "JGS ASCII ART gallery (2001)",
                 "href": "https://oldcompcz.github.io/jgs/joan_stark/index-2.html"
             },
             {
-                "title": "End-to-End Tour of Text Layout/Rendering (2015)",
-                "href": "http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html"
-            },
-            {
-                "title": "A programmable FPGA SoM in the tiny microSD form factor",
-                "href": "https://www.crowdsupply.com/signaloid/signaloid-c0-microsd"
+                "title": "AMD now has more compute on the top 500 than Nvidia",
+                "href": "https://www.nextplatform.com/2024/11/18/amd-now-has-more-compute-on-the-top500-than-nvidia/"
             },
             {
                 "title": "Against Best Practices",
                 "href": "https://www.arp242.net/best-practices.html"
             },
             {
+                "title": "A programmable FPGA SoM in the tiny microSD form factor",
+                "href": "https://www.crowdsupply.com/signaloid/signaloid-c0-microsd"
+            },
+            {
                 "title": "Show HN: Nova JavaScript Engine",
                 "href": "https://github.com/trynova/nova"
             },
             {
-                "title": "An Uncanny Moat",
-                "href": "https://www.boristhebrave.com/2024/11/15/an-uncanny-moat/"
+                "title": "DNA testing company vanishes along with its customers' genetic data",
+                "href": "https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data"
             },
             {
-                "title": "Libobscura",
-                "href": "https://dorotac.eu/posts/libobscura/"
-            },
-            {
-                "title": "Extending the context length to 1M tokens",
-                "href": "https://qwenlm.github.io/blog/qwen2.5-turbo/"
-            },
-            {
-                "title": "Illegally logged wood from Cambodia likely ending up in U.S. homes",
-                "href": "https://news.mongabay.com/short-article/illegally-logged-wood-from-cambodia-likely-ending-up-in-u-s-homes/"
+                "title": "End-to-End Tour of Text Layout/Rendering (2015)",
+                "href": "http://litherum.blogspot.com/2015/02/end-to-end-tour-of-text-rendering.html"
             }
         ]
     }
