@@ -27,20 +27,24 @@
                 "href": "https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are"
             },
             {
+                "title": "Harmful Practices Considered Best",
+                "href": "https://zakhary.dev/blog/considered-harmful"
+            },
+            {
                 "title": "On \"Safe\" C++",
                 "href": "https://izzys.casa/2024/11/on-safe-cxx/"
             },
             {
-                "title": "Harmful Practices Considered Best",
-                "href": "https://zakhary.dev/blog/considered-harmful"
+                "title": "Running web browsers in a FreeBSD jail",
+                "href": "https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/"
             },
             {
                 "title": "Gleam v1.6.0 released",
                 "href": "https://gleam.run/news/context-aware-compilation/"
             },
             {
-                "title": "Running web browsers in a FreeBSD jail",
-                "href": "https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/"
+                "title": "Loop targets",
+                "href": "https://nedbatchelder.com/blog/202411/loop_targets.html"
             },
             {
                 "title": "I was banned from the hCaptcha accessibility account for not being blind (2023)",
@@ -51,12 +55,12 @@
                 "href": "https://skip.house/blog/qmk-globe-key"
             },
             {
-                "title": "Loop targets",
-                "href": "https://nedbatchelder.com/blog/202411/loop_targets.html"
-            },
-            {
                 "title": "The Prequel to SQL is SEQUEL",
                 "href": "https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/"
+            },
+            {
+                "title": "Original ChipWits FORTH Code Open Sourced",
+                "href": "https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/"
             },
             {
                 "title": "Hyrum's Law in Golang",
@@ -65,6 +69,10 @@
             {
                 "title": "raylib v5.5",
                 "href": "https://github.com/raysan5/raylib/discussions/4503"
+            },
+            {
+                "title": "How to use Common Lisp on NixOS with C libraries",
+                "href": "https://honza.pokorny.ca/2024/11/how-to-use-common-lisp-on-nixos-with-c-libraries/"
             },
             {
                 "title": "Threads Beat Async/Await",
@@ -93,14 +101,6 @@
             {
                 "title": "Display/KMS Meeting at XDC 2024: Detailed Report",
                 "href": "https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024"
-            },
-            {
-                "title": "What if Kubernetes was a Compiler Target?",
-                "href": "https://www.youtube.com/watch?v=QcYsGytNBe8"
-            },
-            {
-                "title": "Reading the Generalized Isolation Level Definitions paper with Alloy",
-                "href": "https://surfingcomplexity.blog/2024/11/18/reading-the-generalized-isolation-level-definitions-paper-with-alloy/"
             }
         ]
     },
@@ -210,6 +210,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft Rolls Out Recovery Tools After CrowdStrike Incident",
+                "href": "https://it.slashdot.org/story/24/11/19/180210/microsoft-rolls-out-recovery-tools-after-crowdstrike-incident?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "The US Patent and Trademark Office Banned Staff From Using Generative AI",
                 "href": "https://yro.slashdot.org/story/24/11/19/1648219/the-us-patent-and-trademark-office-banned-staff-from-using-generative-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -264,10 +268,6 @@
             {
                 "title": "Twenty Is Building an Open Source Alternative To Salesforce",
                 "href": "https://news.slashdot.org/story/24/11/19/0025251/twenty-is-building-an-open-source-alternative-to-salesforce?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "London Bus Crashes Are the Result of an Unsafe Model",
-                "href": "https://news.slashdot.org/story/24/11/19/015228/london-bus-crashes-are-the-result-of-an-unsafe-model?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -766,6 +766,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Open Riak \u2013 open, modern Riak fork",
+                "href": "https://github.com/OpenRiak"
+            },
+            {
                 "title": "Show HN: Physically accurate black hole simulation using your iPhone camera",
                 "href": "https://apps.apple.com/us/app/black-hole-vision/id6737292448"
             },
@@ -778,32 +782,44 @@
                 "href": "https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html"
             },
             {
+                "title": "El Capitan: New Supercomputer Is the Fastest in the World",
+                "href": "https://spectrum.ieee.org/supercomputer-for-nukes"
+            },
+            {
+                "title": "TigerEye (YC S22) Is Hiring a Full Stack Engineer",
+                "href": "https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b"
+            },
+            {
+                "title": "Bottles of OOP now available in Python",
+                "href": "https://sandimetz.com/99bottles"
+            },
+            {
                 "title": "Show HN: Rust library for numerical integration of real-valued functions",
                 "href": "https://github.com/mtantaoui/Integrate"
-            },
-            {
-                "title": "How to Build a Chess Engine and Fail",
-                "href": "https://obrhubr.org/chess-engine"
-            },
-            {
-                "title": "Developing a D-20 Watch for Tabletop Roleplaying Games",
-                "href": "https://timestoptech.com/blogs/super-twisted/dungeons-development-of-the-d-20-watch"
-            },
-            {
-                "title": "A subtle layout bug in Google Search: When CJK text-wrapping meets float",
-                "href": "https://likang.dev/posts/google-search-bug/"
             },
             {
                 "title": "The Analog Thing: Analog Computing for the Future",
                 "href": "https://the-analog-thing.org/"
             },
             {
+                "title": "Developing a D-20 Watch for Tabletop Roleplaying Games",
+                "href": "https://timestoptech.com/blogs/super-twisted/dungeons-development-of-the-d-20-watch"
+            },
+            {
+                "title": "FLTK 1.4 Released",
+                "href": "https://www.fltk.org/articles.php?L1955"
+            },
+            {
+                "title": "A subtle layout bug in Google Search: When CJK text-wrapping meets float",
+                "href": "https://likang.dev/posts/google-search-bug/"
+            },
+            {
                 "title": "Shift Left Is the Tip of the Iceberg",
                 "href": "https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/"
             },
             {
-                "title": "Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley",
-                "href": "https://www.justpaid.ai/careers#roles"
+                "title": "How to Build a Chess Engine and Fail",
+                "href": "https://obrhubr.org/chess-engine"
             },
             {
                 "title": "Typesetting and printing a family memoir (2017)",
@@ -834,8 +850,8 @@
                 "href": "https://github.com/circlemind-ai/fast-graphrag"
             },
             {
-                "title": "A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams",
-                "href": "https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning"
+                "title": "The Data Engineering Handbook",
+                "href": "https://github.com/DataExpert-io/data-engineer-handbook"
             },
             {
                 "title": "Maslow 4: Large format CNC routing made accessible",
@@ -854,36 +870,20 @@
                 "href": "https://blog.google/outreach-initiatives/education/google-scholar-20-years/"
             },
             {
+                "title": "A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams",
+                "href": "https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning"
+            },
+            {
                 "title": "Austen and Darwin converged on the question of beauty",
                 "href": "https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty"
             },
             {
-                "title": "Why I hate the index finger (1980)",
-                "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2997957/"
-            },
-            {
-                "title": "Uno Platform Studio Featuring Hot Design",
-                "href": "https://platform.uno/blog/uno-platform-studio-featuring-hot-design/"
+                "title": "Tech-vexed: how digital life threatens our capacity for awe",
+                "href": "https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe"
             },
             {
                 "title": "Hyperfine: A command-line benchmarking tool",
                 "href": "https://github.com/sharkdp/hyperfine"
-            },
-            {
-                "title": "DOJ will push Google to sell off Chrome",
-                "href": "https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly"
-            },
-            {
-                "title": "MailCatcher runs a super simple SMTP server",
-                "href": "https://mailcatcher.me/"
-            },
-            {
-                "title": "The tragedy of running an old Node project",
-                "href": "https://abdisalan.com/posts/tragedy-running-old-node-project/"
-            },
-            {
-                "title": "Tech-vexed: how digital life threatens our capacity for awe",
-                "href": "https://aeon.co/essays/tech-vexed-how-digital-life-threatens-our-capacity-for-awe"
             }
         ]
     }
