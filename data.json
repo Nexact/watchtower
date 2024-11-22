@@ -27,6 +27,10 @@
                 "href": "https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being"
             },
             {
+                "title": "How I Model SwiftUI Views",
+                "href": "https://calebhearth.com/l/how-i-model-views"
+            },
+            {
                 "title": "FreeBSD 14 on a Laptop",
                 "href": "https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/"
             },
@@ -47,12 +51,24 @@
                 "href": "https://stuartschechter.org/posts/password-history/"
             },
             {
+                "title": "Key Transparency and the Right to be Forgotten",
+                "href": "https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/"
+            },
+            {
+                "title": "Explaining Effects and Effect Handlers with EYG",
+                "href": "https://www.youtube.com/watch?v=DiehtDWF8fU"
+            },
+            {
                 "title": "Khronos Group Launches Slang Initiative",
                 "href": "https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia"
             },
             {
                 "title": "Cloudflare Workflows (public Beta)",
                 "href": "https://developers.cloudflare.com/workflows/"
+            },
+            {
+                "title": "Baby's second garbage collector",
+                "href": "https://jennyjams.net/blog/copygc/"
             },
             {
                 "title": "Jainja: a JVM written in Java",
@@ -63,8 +79,8 @@
                 "href": "http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html"
             },
             {
-                "title": "Baby's second garbage collector",
-                "href": "https://jennyjams.net/blog/copygc/"
+                "title": "The Case for a High-level Kernel-Bypass I/O Abstraction",
+                "href": "https://irenezhang.net/blog/2019/05/21/demikernel.html"
             },
             {
                 "title": "A multi-emulator Gameboy tracer",
@@ -85,22 +101,6 @@
             {
                 "title": "Handling Cookies is a Minefield",
                 "href": "https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/"
-            },
-            {
-                "title": "BEAM's bright future with Gleam (and JavaScript?)",
-                "href": "https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s"
-            },
-            {
-                "title": "gopkgview - Go dependency visualization",
-                "href": "https://github.com/grishy/gopkgview"
-            },
-            {
-                "title": "Building a first-class exchange architecture with CoralSequencer",
-                "href": "https://www.coralblocks.com/index.php/building-a-first-class-exchange-architecture-with-coralsequencer/"
-            },
-            {
-                "title": "The Case for a High-level Kernel-Bypass I/O Abstraction",
-                "href": "https://irenezhang.net/blog/2019/05/21/demikernel.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Amazon Doubles Investment in AI Startup Anthropic To $8 Billion",
+                "href": "https://slashdot.org/story/24/11/22/1552251/amazon-doubles-investment-in-ai-startup-anthropic-to-8-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "OpenAI Considers Taking on Google With Browser",
                 "href": "https://tech.slashdot.org/story/24/11/22/1421209/openai-considers-taking-on-google-with-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Jim Zemlin, 'Head Janitor of Open Source,' Marks 20 Years At Linux Foundation",
                 "href": "https://linux.slashdot.org/story/24/11/21/2022220/jim-zemlin-head-janitor-of-open-source-marks-20-years-at-linux-foundation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microsoft Bombards Windows 10 Users With Full-Screen Ads for Upgrade",
-                "href": "https://tech.slashdot.org/story/24/11/21/2021226/microsoft-bombards-windows-10-users-with-full-screen-ads-for-upgrade?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -766,114 +766,110 @@
                 "href": "https://packetstormsecurity.com/news/view/36622/MITRE-Updates-List-Of-25-Most-Dangerous-Software-Vulnerabilities.html"
             },
             {
-                "title": "Ivanti EPM Agent Portal Command Execution",
-                "href": "https://packetstormsecurity.com/files/182719/ivanti_agent_portal_cmdexec.rb.txt"
+                "title": "CUPS IPP Attributes LAN Remote Code Execution",
+                "href": "https://packetstormsecurity.com/files/182767/cups_ipp_remote_code_execution.rb.txt"
             },
             {
-                "title": "Judge0 Sandbox Escape",
-                "href": "https://packetstormsecurity.com/files/182718/judge0_sandbox_escape_cve_2024_28189.rb.txt"
+                "title": "ProjectSend R1605 Unauthenticated Remote Code Execution",
+                "href": "https://packetstormsecurity.com/files/182766/projectsend_unauth_rce.rb.txt"
             },
             {
-                "title": "Wireshark Analyzer 4.4.2",
-                "href": "https://packetstormsecurity.com/files/182717/wireshark-4.4.2.tar.xz"
+                "title": "needrestart Local Privilege Escalation",
+                "href": "https://packetstormsecurity.com/files/182765/QSA-needrestart.txt"
             },
             {
-                "title": "Falco 0.39.2",
-                "href": "https://packetstormsecurity.com/files/182716/falco-0.39.2.tar.gz"
+                "title": "fronsetia 1.1 Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/182764/fronsetia11-xss.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7118-1",
-                "href": "https://packetstormsecurity.com/files/182715/USN-7118-1.txt"
+                "title": "fronsetia 1.1 XML Injection",
+                "href": "https://packetstormsecurity.com/files/182763/fronsetia11-xml.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7091-2",
-                "href": "https://packetstormsecurity.com/files/182714/USN-7091-2.txt"
+                "title": "PowerVR psProcessHandleBase Reuse",
+                "href": "https://packetstormsecurity.com/files/182762/GS2024112242451726.tgz"
             },
             {
-                "title": "Zeek 6.0.9",
-                "href": "https://packetstormsecurity.com/files/182713/zeek-6.0.9.tar.gz"
+                "title": "Linux 6.6 Race Condition",
+                "href": "https://packetstormsecurity.com/files/182761/GS20241122371047675.txt"
             },
             {
-                "title": "Debian Security Advisory 5816-1",
-                "href": "https://packetstormsecurity.com/files/182712/dsa-5816-1.txt"
+                "title": "Korenix JetPort 5601 1.2 Path Traversal",
+                "href": "https://packetstormsecurity.com/files/182760/UAS-20241118-1.txt"
             },
             {
-                "title": "Debian Security Advisory 5815-1",
-                "href": "https://packetstormsecurity.com/files/182711/dsa-5815-1.txt"
+                "title": "SEH utnserver Pro 20.1.22 Cross Site Scripting",
+                "href": "https://packetstormsecurity.com/files/182759/UAS-20241118-0.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7123-1",
-                "href": "https://packetstormsecurity.com/files/182710/USN-7123-1.txt"
+                "title": "Faraday 5.9.0",
+                "href": "https://packetstormsecurity.com/files/182758/faraday-5.9.0.tar.gz"
             },
             {
-                "title": "Ubuntu Security Notice USN-7121-2",
-                "href": "https://packetstormsecurity.com/files/182709/USN-7121-2.txt"
+                "title": "Ubuntu Security Notice USN-7015-6",
+                "href": "https://packetstormsecurity.com/files/182757/USN-7015-6.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7120-2",
-                "href": "https://packetstormsecurity.com/files/182708/USN-7120-2.txt"
+                "title": "Ubuntu Security Notice USN-7120-3",
+                "href": "https://packetstormsecurity.com/files/182756/USN-7120-3.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7122-1",
-                "href": "https://packetstormsecurity.com/files/182707/USN-7122-1.txt"
+                "title": "Debian Security Advisory 5812-2",
+                "href": "https://packetstormsecurity.com/files/182755/dsa-5812-2.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7121-1",
-                "href": "https://packetstormsecurity.com/files/182706/USN-7121-1.txt"
+                "title": "Proxmark3 4.19552 Custom Firmware",
+                "href": "https://packetstormsecurity.com/files/182754/proxmark3-4.19552.tar.gz"
             },
             {
-                "title": "Ubuntu Security Notice USN-7120-1",
-                "href": "https://packetstormsecurity.com/files/182705/USN-7120-1.txt"
+                "title": "Apple Web Content Filter Bypass",
+                "href": "https://packetstormsecurity.com/files/182753/NBL-001.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7119-1",
-                "href": "https://packetstormsecurity.com/files/182704/USN-7119-1.txt"
+                "title": "Red Hat Security Advisory 2024-9806-03",
+                "href": "https://packetstormsecurity.com/files/182752/RHSA-2024-9806-03.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7089-7",
-                "href": "https://packetstormsecurity.com/files/182703/USN-7089-7.txt"
+                "title": "Apple Security Advisory 11-19-2024-5",
+                "href": "https://packetstormsecurity.com/files/182751/APPLE-SA-11-19-2024-5.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7117-1",
-                "href": "https://packetstormsecurity.com/files/182702/USN-7117-1.txt"
+                "title": "Red Hat Security Advisory 2024-9738-03",
+                "href": "https://packetstormsecurity.com/files/182750/RHSA-2024-9738-03.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7115-1",
-                "href": "https://packetstormsecurity.com/files/182701/USN-7115-1.txt"
+                "title": "Red Hat Security Advisory 2024-9729-03",
+                "href": "https://packetstormsecurity.com/files/182749/RHSA-2024-9729-03.txt"
             },
             {
-                "title": "WordPress Really Simple Security Authentication Bypass",
-                "href": "https://packetstormsecurity.com/files/182700/wprss-bypass.zip"
+                "title": "Red Hat Security Advisory 2024-9690-03",
+                "href": "https://packetstormsecurity.com/files/182748/RHSA-2024-9690-03.txt"
             },
             {
-                "title": "Palo Alto PAN-OS Authentication Bypass / Remote Command Execution",
-                "href": "https://packetstormsecurity.com/files/182699/CVE-2024-0012-POC-main.zip"
+                "title": "Apple Security Advisory 11-19-2024-4",
+                "href": "https://packetstormsecurity.com/files/182747/APPLE-SA-11-19-2024-4.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7116-1",
-                "href": "https://packetstormsecurity.com/files/182698/USN-7116-1.txt"
+                "title": "Red Hat Security Advisory 2024-9689-03",
+                "href": "https://packetstormsecurity.com/files/182746/RHSA-2024-9689-03.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7015-5",
-                "href": "https://packetstormsecurity.com/files/182697/USN-7015-5.txt"
+                "title": "Red Hat Security Advisory 2024-9679-03",
+                "href": "https://packetstormsecurity.com/files/182745/RHSA-2024-9679-03.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7114-1",
-                "href": "https://packetstormsecurity.com/files/182696/USN-7114-1.txt"
+                "title": "Red Hat Security Advisory 2024-9678-03",
+                "href": "https://packetstormsecurity.com/files/182744/RHSA-2024-9678-03.txt"
             },
             {
-                "title": "Ubuntu Security Notice USN-7104-1",
-                "href": "https://packetstormsecurity.com/files/182695/USN-7104-1.txt"
+                "title": "Apple Security Advisory 11-19-2024-3",
+                "href": "https://packetstormsecurity.com/files/182743/APPLE-SA-11-19-2024-3.txt"
             }
         ]
     },
     {
         "feedname": "hackernews",
         "items": [
-            {
-                "title": "What Made Dostoevsky's Work Immortal",
-                "href": "https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal"
-            },
             {
                 "title": "Show HN: A Marble Madness-inspired WebGL game we built for Netlify",
                 "href": "https://5-million-devs.netlify.com/"
@@ -891,20 +887,24 @@
                 "href": "https://www.goto10retro.com/p/faster-atari-st-digital-magazine"
             },
             {
-                "title": "From string to AST: parsing",
-                "href": "https://kubuszok.com/2019/from-string-to-ast-parsing/"
-            },
-            {
                 "title": "TIL: Some surprising code execution sources in bash",
                 "href": "https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash"
             },
             {
-                "title": "A \u201cmeta-optics\u201d camera that is the size of a grain of salt",
-                "href": "https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/"
+                "title": "What Made Dostoevsky's Work Immortal",
+                "href": "https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal"
+            },
+            {
+                "title": "From string to AST: parsing",
+                "href": "https://kubuszok.com/2019/from-string-to-ast-parsing/"
             },
             {
                 "title": "Prince Nico Mbarga\u2019s biggest hit outsold any of The Beatles\u2019",
                 "href": "https://www.narratively.com/p/his-biggest-hit-sold-more-copies-than-any-of-the-beatles-so-why-havent-you-heard-of-him"
+            },
+            {
+                "title": "A \u201cmeta-optics\u201d camera that is the size of a grain of salt",
+                "href": "https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/"
             },
             {
                 "title": "Show HN: Llama 3.2 Interpretability with Sparse Autoencoders",
@@ -915,6 +915,10 @@
                 "href": "https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/"
             },
             {
+                "title": "Autoflow, a Graph RAG based and conversational knowledge base tool",
+                "href": "https://github.com/pingcap/autoflow"
+            },
+            {
                 "title": "A C++ Mixin System",
                 "href": "https://jennyjams.net/blog/cpp-mixin/"
             },
@@ -923,36 +927,36 @@
                 "href": "https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer"
             },
             {
-                "title": "Autoflow, a Graph RAG based and conversational knowledge base tool",
-                "href": "https://github.com/pingcap/autoflow"
-            },
-            {
-                "title": "Do Large Language Models learn world models or just surface statistics? (2023)",
-                "href": "https://thegradient.pub/othello/"
-            },
-            {
                 "title": "NeuralDEM \u2013 Real-Time Simulation of Industrial Particulate Flows",
                 "href": "https://nx-ai.github.io/NeuralDEM/"
-            },
-            {
-                "title": "Key Transparency and the Right to Be Forgotten",
-                "href": "https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/"
             },
             {
                 "title": "Show HN: OnePageGA \u2013 Simple dashboard for GA4 like Plausible",
                 "href": "https://onepagega.com"
             },
             {
-                "title": "Bayesian Neural Networks",
-                "href": "https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/"
+                "title": "Do Large Language Models learn world models or just surface statistics? (2023)",
+                "href": "https://thegradient.pub/othello/"
             },
             {
                 "title": "OK, I can partly explain the LLM chess weirdness now",
                 "href": "https://dynomight.net/more-chess/"
             },
             {
+                "title": "Bayesian Neural Networks",
+                "href": "https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/"
+            },
+            {
+                "title": "Key Transparency and the Right to Be Forgotten",
+                "href": "https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/"
+            },
+            {
                 "title": "What's Next for WebGPU",
                 "href": "https://developer.chrome.com/blog/next-for-webgpu"
+            },
+            {
+                "title": "The Surprising Social Lives of Pythons",
+                "href": "https://www.nytimes.com/2024/11/13/science/ball-pythons-social-snakes.html"
             },
             {
                 "title": "The FORTH code for Chipwits is released in the game's 40th anniversary",
@@ -963,12 +967,16 @@
                 "href": "https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core"
             },
             {
-                "title": "Mechanically strong yet metabolizable plastic breaks down in seawater",
-                "href": "https://www.science.org/doi/abs/10.1126/science.ado1782?af=R"
-            },
-            {
                 "title": "Growing Music: musical interpretations of L-Systems (2023) [pdf]",
                 "href": "https://ccrma.stanford.edu/~elisse/256A/final/growing%20music%20-%20musical%20interpretations%20of%20l-systems.pdf"
+            },
+            {
+                "title": "Why so many families are \"drowning in toys\"",
+                "href": "https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism"
+            },
+            {
+                "title": "Mechanically strong yet metabolizable plastic breaks down in seawater",
+                "href": "https://www.science.org/doi/abs/10.1126/science.ado1782?af=R"
             },
             {
                 "title": "Machiavelli and the Emergence of the Private Study",
@@ -977,14 +985,6 @@
             {
                 "title": "WhisperNER: Unified Open Named Entity and Speech Recognition",
                 "href": "https://arxiv.org/abs/2409.08107"
-            },
-            {
-                "title": "Traits are a local maximum",
-                "href": "https://thunderseethe.dev/posts/traits-are-a-local-maxima/"
-            },
-            {
-                "title": "Interactive Visual Sorting",
-                "href": "https://mszula.github.io/visual-sorting/"
             },
             {
                 "title": "Fun with Logitech MX900 Bluetooth receivers (2006)",
