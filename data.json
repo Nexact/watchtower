@@ -15,6 +15,10 @@
                 "href": "https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr"
             },
             {
+                "title": "How Tailscale's infrastructure team stays small",
+                "href": "https://tailscale.com/blog/infra-team-stays-small"
+            },
+            {
                 "title": "SQLite's use of Tcl",
                 "href": "https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html"
             },
@@ -27,16 +31,20 @@
                 "href": "https://github.com/susam/hello"
             },
             {
+                "title": "A Reintroduction to Programming",
+                "href": "https://www.0de5.net/explore"
+            },
+            {
                 "title": "Dissecting m8trix",
                 "href": "https://tilde.town/~dzwdz/blog/m8trix.html"
             },
             {
-                "title": "How Tailscale's infrastructure team stays small",
-                "href": "https://tailscale.com/blog/infra-team-stays-small"
-            },
-            {
                 "title": "Introduction to Bismuth VM",
                 "href": "https://enikofox.com/posts/introduction-to-bismuth-vm/"
+            },
+            {
+                "title": "Privilege escalation vulnerabilities don't really matter",
+                "href": "https://wheybags.com/blog/privesc.html"
             },
             {
                 "title": "Why am I writing a JavaScript toolchain in Zig?",
@@ -55,16 +63,20 @@
                 "href": "https://www.youtube.com/watch?v=HAe6TvbwXJw"
             },
             {
-                "title": "A Reintroduction to Programming",
-                "href": "https://www.0de5.net/explore"
+                "title": "Improving the approachability of data-race safety",
+                "href": "https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md"
+            },
+            {
+                "title": "React Server Components: A Bad Idea?",
+                "href": "https://ishankbg.dev/archive/react-server-components-a-bad-idea/"
+            },
+            {
+                "title": "Achieving warp speed with Rust (2017)",
+                "href": "https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1"
             },
             {
                 "title": "Self-Hosting Isn't a Solution; It's A Patch",
                 "href": "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/"
-            },
-            {
-                "title": "Improving the approachability of data-race safety",
-                "href": "https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md"
             },
             {
                 "title": "What's coming in Go 1.24",
@@ -89,18 +101,6 @@
             {
                 "title": "Naming things",
                 "href": "https://wiki.dpk.land/Naming_things"
-            },
-            {
-                "title": "New jless(8) FreeBSD Jails List/Manage Tool",
-                "href": "https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/"
-            },
-            {
-                "title": "A Cumulative Culture Theory for Developer Problem-Solving",
-                "href": "https://osf.io/preprints/psyarxiv/tfjyw"
-            },
-            {
-                "title": "What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?",
-                "href": "https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Verify the Rust's Standard Library's 7,500 Unsafe Functions - and Win 'Financial Rewards'",
+                "href": "https://developers.slashdot.org/story/24/11/23/2327203/verify-the-rusts-standard-librarys-7500-unsafe-functions---and-win-financial-rewards?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Does GitHub Copilot Improve Code Quality?",
                 "href": "https://developers.slashdot.org/story/24/11/23/1855203/does-github-copilot-improve-code-quality?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "China Wiretaps Americans in 'Worst Hack in Our Nation's History'",
                 "href": "https://yro.slashdot.org/story/24/11/22/2336254/china-wiretaps-americans-in-worst-hack-in-our-nations-history?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Economist Makes the Case For Slow Level 1 EV Charging",
-                "href": "https://hardware.slashdot.org/story/24/11/22/2343228/economist-makes-the-case-for-slow-level-1-ev-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -887,12 +887,12 @@
                 "href": "https://www.science.org/doi/10.1126/sciadv.adn9188"
             },
             {
-                "title": "Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)",
-                "href": "https://lupyuen.github.io/articles/ci4"
-            },
-            {
                 "title": "Antenna Diodes in the Pentium Processor",
                 "href": "http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html"
+            },
+            {
+                "title": "Continuous Integration Dashboard for Apache NuttX RTOS (Prometheus and Grafana)",
+                "href": "https://lupyuen.github.io/articles/ci4"
             },
             {
                 "title": "Highest-resolution images ever captured of the sun\u2019s surface",
@@ -903,24 +903,28 @@
                 "href": "https://libera.chat/news/llm-etiquette"
             },
             {
-                "title": "CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US",
-                "href": "https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html"
-            },
-            {
                 "title": "Size and albedo of the largest detected Oort-cloud object",
                 "href": "https://arxiv.org/abs/2201.13188"
+            },
+            {
+                "title": "A century later, a taped message solves the mystery of a WWI doughboy's death",
+                "href": "https://www.washingtonpost.com/history/2024/11/18/foster-stevens-wwi-armistice-belleau-wood-meuse-argonne-offensive/"
             },
             {
                 "title": "A short introduction to Interval Tree Clocks",
                 "href": "https://blog.separateconcerns.com/2017-05-07-itc.html"
             },
             {
-                "title": "Stack Analyser: detect technologies used inside a repo",
-                "href": "https://github.com/specfy/stack-analyser"
+                "title": "Anti-scale: a response to AI in journalism",
+                "href": "https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism"
             },
             {
                 "title": "The remarkable life and astonishing times of Dwight Smith Young",
                 "href": "https://historyonthefox.wordpress.com/2014/04/06/the-remarkable-life-and-astonishing-times-of-dwight-smith-young/"
+            },
+            {
+                "title": "Stack Analyser: detect technologies used inside a repo",
+                "href": "https://github.com/specfy/stack-analyser"
             },
             {
                 "title": "OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP",
@@ -931,68 +935,64 @@
                 "href": "https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/"
             },
             {
+                "title": "Music as Language (2019) [pdf]",
+                "href": "https://omelkonian.github.io/data/publications/music-grammars.pdf"
+            },
+            {
                 "title": "The Physics of Butterfly Wings",
                 "href": "https://johncarlosbaez.wordpress.com/2015/08/11/the-physics-of-butterfly-wings/"
+            },
+            {
+                "title": "1 Dataset. 100 Visualizations",
+                "href": "https://100.datavizproject.com/"
+            },
+            {
+                "title": "Three hundred words you can spell on a calculator [pdf]",
+                "href": "https://www.mathsquad.com/calculatorwords.pdf"
             },
             {
                 "title": "Quake 3 Source Code Review: Network Model (2012)",
                 "href": "https://fabiensanglard.net/quake3/network.php"
             },
             {
-                "title": "Music as Language (2019) [pdf]",
-                "href": "https://omelkonian.github.io/data/publications/music-grammars.pdf"
-            },
-            {
                 "title": "Energy is frame-dependent, infrastructure of energy is frame-independent (2020)",
                 "href": "https://noswampcoolers.blogspot.com/2020/04/energy-is-frame-dependent.html"
-            },
-            {
-                "title": "A silly science prize changed my career",
-                "href": "https://www.nature.com/articles/d41586-024-03756-w"
-            },
-            {
-                "title": "MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX",
-                "href": "https://docs.maxxinteractive.com/"
-            },
-            {
-                "title": "Wordpress.org released Secure Custom Fields \"PRO\" version with ACF pro features",
-                "href": "https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/"
-            },
-            {
-                "title": "Baby\u2019s Second Garbage Collector",
-                "href": "https://jennyjams.net/blog/copygc/"
             },
             {
                 "title": "Dear sir, you have built a compiler (2022)",
                 "href": "https://rachit.pl/post/you-have-built-a-compiler/"
             },
             {
+                "title": "MaXX Interactive Desktop -- the little brother of the great SGI Desktop on IRIX",
+                "href": "https://docs.maxxinteractive.com/"
+            },
+            {
                 "title": "Computer Networking Fundamentals \u2013 Learning Series (2023)",
                 "href": "https://iximiuz.com/en/series/computer-networking-fundamentals/"
             },
             {
-                "title": "9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot",
-                "href": "https://www.phoronix.com/news/9elements-SkylakeX-Coreboot"
-            },
-            {
-                "title": "Alloy Automation (YC W20) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager"
+                "title": "Baby\u2019s Second Garbage Collector",
+                "href": "https://jennyjams.net/blog/copygc/"
             },
             {
                 "title": "How to give a senior leader feedback (without getting fired)",
                 "href": "https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired"
             },
             {
+                "title": "A silly science prize changed my career",
+                "href": "https://www.nature.com/articles/d41586-024-03756-w"
+            },
+            {
+                "title": "AI PCs make users less productive",
+                "href": "https://www.theregister.com/2024/11/22/ai_pcs_productivity/"
+            },
+            {
+                "title": "RGFW: Single-header C99 window abstraction library",
+                "href": "https://github.com/ColleagueRiley/RGFW"
+            },
+            {
                 "title": "Writes Large Correct Programs (2008)",
                 "href": "https://www.johndcook.com/blog/2008/09/19/writes-large-correct-programs/"
-            },
-            {
-                "title": "An Idaho County Will Publish Everyone's Ballots to Combat Mistrust",
-                "href": "https://www.nytimes.com/2024/11/23/us/ballots-election-boise-idaho.html"
-            },
-            {
-                "title": "Reverse engineers bust sleazy gig work platform",
-                "href": "https://pluralistic.net/2024/11/23/hack-the-class-war/"
             }
         ]
     }
