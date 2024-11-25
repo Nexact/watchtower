@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Dear friend, you have built a Kubernetes",
-                "href": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
-            },
-            {
                 "title": "The two factions of C++",
                 "href": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
             },
             {
+                "title": "Dear friend, you have built a Kubernetes",
+                "href": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
+            },
+            {
                 "title": "Petnames: A humane approach to secure, decentralized naming",
                 "href": "https://files.spritely.institute/papers/petnames.html"
+            },
+            {
+                "title": "Codin' Dirty",
+                "href": "https://htmx.org/essays/codin-dirty/"
             },
             {
                 "title": "Announcing Nio: An async runtime for Rust",
@@ -21,10 +25,6 @@
             {
                 "title": "Zero Disk Architecture",
                 "href": "https://avi.im/blag/2024/zero-disk-architecture/"
-            },
-            {
-                "title": "Codin' Dirty",
-                "href": "https://htmx.org/essays/codin-dirty/"
             },
             {
                 "title": "Configuring VSCode with Nix on macOS",
@@ -51,6 +51,10 @@
                 "href": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/"
             },
             {
+                "title": "How I configure my Git identities",
+                "href": "https://www.benji.dog/articles/git-config/"
+            },
+            {
                 "title": "Mark\u2013Scavenge: Waiting for Trash to Take Itself Out",
                 "href": "https://inside.java/2024/11/22/mark-scavenge-gc/"
             },
@@ -59,12 +63,20 @@
                 "href": "https://andydote.co.uk/2024/11/24/print-debugging-tracing/"
             },
             {
-                "title": "Privilege escalation vulnerabilities don't really matter",
-                "href": "https://wheybags.com/blog/privesc.html"
-            },
-            {
                 "title": "FLENG 22 - a compiler for FHGC, Strand, PCN and KL1",
                 "href": "http://www.call-with-current-continuation.org/fleng/fleng.html"
+            },
+            {
+                "title": "Coalescence: making LLM inference 5x faster",
+                "href": "https://blog.dottxt.co/coalescence.html"
+            },
+            {
+                "title": "Theory-building and why employee churn is lethal to software companies",
+                "href": "https://www.baldurbjarnason.com/2022/theory-building/"
+            },
+            {
+                "title": "Privilege escalation vulnerabilities don't really matter",
+                "href": "https://wheybags.com/blog/privesc.html"
             },
             {
                 "title": "Lecture 16: Relational Algebra",
@@ -83,24 +95,12 @@
                 "href": "https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/"
             },
             {
-                "title": "Coalescence: making LLM inference 5x faster",
-                "href": "https://blog.dottxt.co/coalescence.html"
-            },
-            {
                 "title": "The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access",
                 "href": "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/"
             },
             {
                 "title": "Breaking out of VRChat using a Unity bug",
                 "href": "https://khang06.github.io/vrcescape/"
-            },
-            {
-                "title": "open-interpreter: A natural language interface for computers",
-                "href": "https://github.com/OpenInterpreter/open-interpreter"
-            },
-            {
-                "title": "How Tailscale's infrastructure team stays small",
-                "href": "https://tailscale.com/blog/infra-team-stays-small"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "How JWT Libraries Block Algorithm Confusion: Key Lessons for Code Review",
                 "href": "https://www.reddit.com/r/netsec/comments/1gz9h92/how_jwt_libraries_block_algorithm_confusion_key/"
+            },
+            {
+                "title": "Ruby 3.4 Universal RCE Deserialization Gadget Chain / nastystereo.com",
+                "href": "https://www.reddit.com/r/netsec/comments/1gzbq94/ruby_34_universal_rce_deserialization_gadget/"
             },
             {
                 "title": "Handling Cookies is a Minefield",
@@ -206,10 +210,6 @@
             {
                 "title": "Unpatched Remote Code Execution in Gogs",
                 "href": "https://www.reddit.com/r/netsec/comments/1gs68x5/unpatched_remote_code_execution_in_gogs/"
-            },
-            {
-                "title": "Reproducing CVE-2024-10979: A Step-by-Step Guide",
-                "href": "https://www.reddit.com/r/netsec/comments/1gruidt/reproducing_cve202410979_a_stepbystep_guide/"
             }
         ]
     },
@@ -887,19 +887,23 @@
                 "href": "https://www.starlink.com/business/direct-to-cell"
             },
             {
+                "title": "A Day in the Life: The Global BGP Table",
+                "href": "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/"
+            },
+            {
                 "title": "This website is hosted on Bluesky",
                 "href": "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/"
             },
             {
-                "title": "A Day in the Life: The Global BGP Table",
-                "href": "https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/"
+                "title": "I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever",
+                "href": "https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0"
             },
             {
                 "title": "Making Your Connection Bad",
                 "href": "https://www.5snb.club/posts/2024/making-your-connection-bad/"
             },
             {
-                "title": "OCaml Syntax Sucks",
+                "title": "OCaml Syntax Sucks (2016)",
                 "href": "http://xahlee.info/comp/ocaml_let_syntax.html"
             },
             {
@@ -907,12 +911,20 @@
                 "href": "https://sqlitestudio.pl/"
             },
             {
-                "title": "Slow Email (2008)",
-                "href": "http://notes-from-a-sticky-wicket.blogspot.com/2008/03/my-slow-email-movement.html"
-            },
-            {
                 "title": "The Nearest Neighbor Attack",
                 "href": "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/"
+            },
+            {
+                "title": "Creating Your Own Programming Language \u2013 Laurence Tratt [video]",
+                "href": "https://www.youtube.com/watch?v=Q2UDHY5as90"
+            },
+            {
+                "title": "The Two Factions of C++",
+                "href": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
+            },
+            {
+                "title": "Chemists Create World's Thinnest Spaghetti",
+                "href": "https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html"
             },
             {
                 "title": "Wildlife monitoring technologies used to intimidate and spy on women",
@@ -923,76 +935,64 @@
                 "href": "https://www.sqlite.org/lang_with.html#outlandish_recursive_query_examples"
             },
             {
-                "title": "Chemists Create World's Thinnest Spaghetti",
-                "href": "https://phys.org/news/2024-11-chemists-world-thinnest-spaghetti.html"
-            },
-            {
-                "title": "Reweb: Visual website builder for Next.js and Tailwind",
-                "href": "https://www.reweb.so/"
-            },
-            {
                 "title": "Denmark will plant 1B trees and convert 10% of farmland into forest",
                 "href": "https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908"
-            },
-            {
-                "title": "Pushing AMD's Infinity Fabric to Its Limit",
-                "href": "https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its"
             },
             {
                 "title": "Monitor replacement \u2013 using a projector for a home office setup",
                 "href": "https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae"
             },
             {
-                "title": "How the Ivy League Broke America",
-                "href": "https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/"
+                "title": "It's a bird, it's a plane, it's Super Cassette Vision",
+                "href": "https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html"
             },
             {
-                "title": "Full LLM training and evaluation toolkit",
-                "href": "https://github.com/huggingface/smollm"
+                "title": "Pushing AMD's Infinity Fabric to Its Limit",
+                "href": "https://chipsandcheese.com/p/pushing-amds-infinity-fabric-to-its"
             },
             {
                 "title": "WireGuard: Beyond the most basic configuration",
                 "href": "https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/"
             },
             {
-                "title": "It's a bird, it's a plane, it's Super Cassette Vision",
-                "href": "https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html"
-            },
-            {
                 "title": "The size of BYD's factory",
                 "href": "https://twitter.com/taylorogan/status/1859146242519167249"
+            },
+            {
+                "title": "Full LLM training and evaluation toolkit",
+                "href": "https://github.com/huggingface/smollm"
+            },
+            {
+                "title": "Reweb: Visual website builder for Next.js and Tailwind",
+                "href": "https://www.reweb.so/"
             },
             {
                 "title": "Charset=\"WTF-8\"",
                 "href": "https://wtf-8.xn--stpie-k0a81a.com/"
             },
             {
-                "title": "2007 Boston Mooninite Panic",
-                "href": "https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic"
+                "title": "How the Ivy League Broke America",
+                "href": "https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/"
             },
             {
-                "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
-                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+                "title": "2007 Boston Mooninite Panic",
+                "href": "https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic"
             },
             {
                 "title": "Mark\u2013Scavenge: Waiting for Trash to Take Itself Out",
                 "href": "https://inside.java/2024/11/22/mark-scavenge-gc/"
             },
             {
-                "title": "NASA: Mystery of Life's Handedness Deepens",
-                "href": "https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/"
-            },
-            {
                 "title": "Dear friend, you have built a Kubernetes",
                 "href": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
             },
             {
-                "title": "Dec(k)-Month 2: A Decker Game Jam",
-                "href": "https://itch.io/jam/deck-month-2"
+                "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
             },
             {
-                "title": "The $5000 Compression Challenge (2001)",
-                "href": "https://www.patrickcraig.co.uk/other/compression.htm"
+                "title": "NASA: Mystery of Life's Handedness Deepens",
+                "href": "https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/"
             }
         ]
     }
