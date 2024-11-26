@@ -11,10 +11,6 @@
                 "href": "https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/"
             },
             {
-                "title": "major fly.io outage",
-                "href": "https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791"
-            },
-            {
                 "title": "Terminology isn't universal",
                 "href": "https://ntietz.com/blog/terminology-isnt-universal/"
             },
@@ -39,6 +35,10 @@
                 "href": "https://neohaskell.org/"
             },
             {
+                "title": "LLVM-powered devirtualization",
+                "href": "https://blog.thalium.re/posts/llvm-powered-devirtualization/"
+            },
+            {
                 "title": "SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity",
                 "href": "https://github.com/Juniper/libslax/wiki"
             },
@@ -47,20 +47,16 @@
                 "href": "https://blog.xoria.org/macos-tips-threading/"
             },
             {
-                "title": "LLVM-powered devirtualization",
-                "href": "https://blog.thalium.re/posts/llvm-powered-devirtualization/"
-            },
-            {
                 "title": "Understanding SIMD: Infinite Complexity of Trivial Problems",
                 "href": "https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems"
             },
             {
-                "title": "Theory-building and why employee churn is lethal to software companies",
-                "href": "https://www.baldurbjarnason.com/2022/theory-building/"
-            },
-            {
                 "title": "Guix User and Contributor Survey",
                 "href": "https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//"
+            },
+            {
+                "title": "Theory-building and why employee churn is lethal to software companies",
+                "href": "https://www.baldurbjarnason.com/2022/theory-building/"
             },
             {
                 "title": "PostgreSQL Hacking Workshop - December 2024",
@@ -79,16 +75,16 @@
                 "href": "https://www.benji.dog/articles/git-config/"
             },
             {
+                "title": "Shipping is Capturing Value",
+                "href": "https://jmduke.com/posts/post/what-is-shipping/"
+            },
+            {
                 "title": "untls: Reexposes a TCP over TLS port as a local TCP port",
                 "href": "https://github.com/lucasew/untls"
             },
             {
                 "title": "Is there a good open-source combined CRM and CMS for political organising?",
                 "href": "https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms"
-            },
-            {
-                "title": "Shipping is Capturing Value",
-                "href": "https://jmduke.com/posts/post/what-is-shipping/"
             },
             {
                 "title": "This Website is Hosted on Bluesky",
@@ -101,6 +97,10 @@
             {
                 "title": "So you want to write a KMail plugin?",
                 "href": "http://datagirl.xyz/posts/kontact_plugin_writing.html"
+            },
+            {
+                "title": "Rustlantis: Randomized Differential Testing of the Rust Compiler",
+                "href": "https://www.ralfj.de/blog/2024/11/25/rustlantis.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "USPTO Petitioned To Cancel Oracle's JavaScript Trademark",
+                "href": "https://developers.slashdot.org/story/24/11/26/1312213/uspto-petitioned-to-cancel-oracles-javascript-trademark?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Video Game Console Makers Confront Performance Ceiling",
                 "href": "https://games.slashdot.org/story/24/11/26/135259/video-game-console-makers-confront-performance-ceiling?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,16 +373,16 @@
             {
                 "title": "Indonesia Says Apple's $100 Million Investment Proposal Inadequate",
                 "href": "https://apple.slashdot.org/story/24/11/25/2119227/indonesia-says-apples-100-million-investment-proposal-inadequate?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "SUSE Unveils Major Rebranding, New Data-Protecting AI Platform",
-                "href": "https://linux.slashdot.org/story/24/11/25/2112247/suse-unveils-major-rebranding-new-data-protecting-ai-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Mozilla security advisory (AV24-680)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-680"
+            },
             {
                 "title": "HPE security advisory (AV24-679)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-679"
@@ -574,10 +578,6 @@
             {
                 "title": "Android security advisory \u2013 November 2024 Monthly Rollup (AV24-632)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632"
-            },
-            {
-                "title": "[Control systems] CISA ICS security advisories (AV24-631)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631"
             }
         ]
     },
@@ -585,32 +585,48 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "Hitachi Energy MicroSCADA Pro/X SYS600",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-04"
+            },
+            {
+                "title": "Schneider Electric EcoStruxure Control Expert, EcoStruxure Process Expert, and Modicon M340, M580 and M580 Safety PLCs",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-03"
+            },
+            {
+                "title": "Schneider Electric PowerLogic PM55xx and PowerLogic PM8ECC",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-01"
+            },
+            {
+                "title": "Schneider Electric PowerLogic P5",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-02"
+            },
+            {
+                "title": "Hitachi Energy RTU500 Scripting Interface",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-05"
+            },
+            {
+                "title": "CISA Releases Six Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/26/cisa-releases-six-industrial-control-systems-advisories"
+            },
+            {
                 "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/25/cisa-adds-one-known-exploited-vulnerability-catalog"
+            },
+            {
+                "title": "OSCAT Basic Library",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-02"
+            },
+            {
+                "title": "Schneider Electric Modicon M340, MC80, and Momentum Unity M1E",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-03"
             },
             {
                 "title": "CISA Releases Seven Industrial Control Systems Advisories",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/21/cisa-releases-seven-industrial-control-systems-advisories"
             },
             {
-                "title": "Enhancing Cyber Resilience: Insights from CISA Red Team Assessment of a US Critical Infrastructure Sector Organization",
-                "href": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a"
-            },
-            {
-                "title": "Schneider Electric Modicon M340, MC80, and Momentum Unity M1E",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-04"
-            },
-            {
                 "title": "Schneider Electric PowerLogic PM5300 Series",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-06"
-            },
-            {
-                "title": "Schneider Electric EcoStruxure IT Gateway",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-05"
-            },
-            {
-                "title": "CISA Releases Insights from Red Team Assessment of a U.S. Critical Infrastructure Sector Organization",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/21/cisa-releases-insights-red-team-assessment-us-critical-infrastructure-sector-organization"
             },
             {
                 "title": "Automated Logic WebCTRL Premium Server",
@@ -621,16 +637,32 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/21/cisa-adds-three-known-exploited-vulnerabilities-catalog"
             },
             {
-                "title": "OSCAT Basic Library",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-02"
-            },
-            {
                 "title": "mySCADA myPRO Manager",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-07"
             },
             {
+                "title": "CISA Releases Insights from Red Team Assessment of a U.S. Critical Infrastructure Sector Organization",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/21/cisa-releases-insights-red-team-assessment-us-critical-infrastructure-sector-organization"
+            },
+            {
+                "title": "Schneider Electric EcoStruxure IT Gateway",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-05"
+            },
+            {
                 "title": "Schneider Electric Modicon M340, MC80, and Momentum Unity M1E",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-03"
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-04"
+            },
+            {
+                "title": "Enhancing Cyber Resilience: Insights from CISA Red Team Assessment of a US Critical Infrastructure Sector Organization",
+                "href": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a"
+            },
+            {
+                "title": "2024 CWE Top 25 Most Dangerous Software Weaknesses",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/20/2024-cwe-top-25-most-dangerous-software-weaknesses"
+            },
+            {
+                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
             },
             {
                 "title": "CISA and Partners Release Update to BianLian Ransomware Cybersecurity Advisory",
@@ -641,24 +673,16 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/20/usda-releases-success-story-detailing-implementation-phishing-resistant-multi-factor-authentication"
             },
             {
-                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/20/cisa-adds-two-known-exploited-vulnerabilities-catalog"
-            },
-            {
-                "title": "2024 CWE Top 25 Most Dangerous Software Weaknesses",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/20/2024-cwe-top-25-most-dangerous-software-weaknesses"
-            },
-            {
                 "title": "Apple Releases Security Updates for Multiple Products",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/20/apple-releases-security-updates-multiple-products"
             },
             {
-                "title": "CISA Releases One Industrial Control Systems Advisory",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/19/cisa-releases-one-industrial-control-systems-advisory"
-            },
-            {
                 "title": "Mitsubishi Electric MELSEC iQ-F Series",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-324-01"
+            },
+            {
+                "title": "CISA Releases One Industrial Control Systems Advisory",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/11/19/cisa-releases-one-industrial-control-systems-advisory"
             },
             {
                 "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
@@ -669,36 +693,12 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-02"
             },
             {
-                "title": "Siemens RUGGEDCOM CROSSBOW",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-01"
-            },
-            {
-                "title": "Siemens Mendix Runtime",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-12"
-            },
-            {
-                "title": "Siemens Spectrum Power 7",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-09"
-            },
-            {
-                "title": "Rockwell Automation Verve Reporting (Update A)",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-13"
-            },
-            {
                 "title": "Siemens SINEC NMS",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-04"
             },
             {
                 "title": "Siemens Solid Edge",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-05"
-            },
-            {
-                "title": "Siemens TeleControl Server",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-10"
-            },
-            {
-                "title": "Siemens SIMATIC CP",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-319-11"
             },
             {
                 "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
@@ -871,28 +871,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Nobody knows why ultra-processed foods are bad for you",
-                "href": "https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you"
-            },
-            {
                 "title": "A solution to The Onion problem of J. Kenji Lopez-Alt (2021)",
                 "href": "https://medium.com/@drspoulsen/a-solution-to-the-onion-problem-of-j-kenji-l%C3%B3pez-alt-c3c4ab22e67c"
+            },
+            {
+                "title": "We can mine asteroids for space food",
+                "href": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035"
             },
             {
                 "title": "Henry James and H.G. Wells (1958)",
                 "href": "https://www.bopsecrets.org/rexroth/essays/james-wells.htm"
             },
             {
-                "title": "Show HN: SQLite Plugin for Jekyll",
-                "href": "https://github.com/captn3m0/jekyll-sqlite"
-            },
-            {
                 "title": "LLVM-Powered Devirtualization",
                 "href": "https://blog.thalium.re/posts/llvm-powered-devirtualization/"
             },
             {
-                "title": "We can mine asteroids for space food",
-                "href": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/how-we-can-mine-asteroids-for-space-food/9EF3C4FA6F32368D09994EB7910C7035"
+                "title": "Show HN: SQLite Plugin for Jekyll",
+                "href": "https://github.com/captn3m0/jekyll-sqlite"
+            },
+            {
+                "title": "California's most neglected group of students: the gifted ones",
+                "href": "https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted"
+            },
+            {
+                "title": "Launch HN: Human Layer (YC F24) \u2013 Human-in-the-Loop API for AI Systems",
+                "href": "item?id=42247368"
             },
             {
                 "title": "Show HN: Silent Poems, creative coding \u2013 Visual expression of unspoken thoughts",
@@ -919,6 +923,10 @@
                 "href": "https://www.vice.com/en/article/worlds-first-ever-cyber-cafe-cyberia-london/"
             },
             {
+                "title": "Golang and Containers Perf Gotcha \u2013 Gomaxprocs",
+                "href": "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs"
+            },
+            {
                 "title": "Y Combinator often backs startups that duplicate other YC companies, data shows",
                 "href": "https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/"
             },
@@ -927,32 +935,28 @@
                 "href": "https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar"
             },
             {
-                "title": "Golang and Containers Perf Gotcha \u2013 Gomaxprocs",
-                "href": "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs"
-            },
-            {
-                "title": "The Crime Messenger",
-                "href": "https://www.cbc.ca/newsinteractives/features/the-crime-messenger"
+                "title": "Tunable ultrasound propagation in microscale metamaterials",
+                "href": "https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120"
             },
             {
                 "title": "Revisiting the DOS Memory Models",
                 "href": "https://blogsystem5.substack.com/p/dos-memory-models"
             },
             {
+                "title": "The Crime Messenger",
+                "href": "https://www.cbc.ca/newsinteractives/features/the-crime-messenger"
+            },
+            {
                 "title": "'The Best of All Possible Worlds' Review: Leibniz Lives Again",
                 "href": "https://www.wsj.com/arts-culture/books/the-best-of-all-possible-worlds-review-leibniz-lives-again-647be296"
             },
             {
-                "title": "Show HN: Gemini LLM corrects ASR YouTube transcripts",
-                "href": "https://ldenoue.github.io/readabletranscripts/"
-            },
-            {
-                "title": "Tunable ultrasound propagation in microscale metamaterials",
-                "href": "https://news.mit.edu/2024/tunable-ultrasound-propagation-microscale-metamaterials-1120"
-            },
-            {
                 "title": "Poisoning the Day",
                 "href": "https://ashore.io/journal/crossover-creativity/poisoning-the-day"
+            },
+            {
+                "title": "Show HN: Gemini LLM corrects ASR YouTube transcripts",
+                "href": "https://ldenoue.github.io/readabletranscripts/"
             },
             {
                 "title": "Guide to 3D Print Motorized Rotation Mounts for Optical Applications (2021)",
@@ -971,12 +975,12 @@
                 "href": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"
             },
             {
-                "title": "The Mystery of the AFIPS Orphans (2006) [pdf]",
-                "href": "https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf"
+                "title": "Nobody knows why ultra-processed foods are bad for you",
+                "href": "https://www.economist.com/science-and-technology/2024/11/25/scientists-are-learning-why-ultra-processed-foods-are-bad-for-you"
             },
             {
-                "title": "Medicare Pays Different Prices for the Same Drug",
-                "href": "https://www.wsj.com/health/healthcare/medicare-pays-wildly-different-prices-for-the-same-drug-b20fa58c"
+                "title": "The Mystery of the AFIPS Orphans (2006) [pdf]",
+                "href": "https://archive.computerhistory.org/resources/text/Study_Collection/062303137.05.01.acc.pdf"
             },
             {
                 "title": "Computing with Time: Microarchitectural Weird Machines",
@@ -985,10 +989,6 @@
             {
                 "title": "Show HN: I am Building a Producthunt alternative",
                 "href": "https://huntlie.com"
-            },
-            {
-                "title": "Solving Boolean satisfiability and integer programming with Python packaging",
-                "href": "https://mmaaz.ca/writings/pipip.html"
             }
         ]
     }
