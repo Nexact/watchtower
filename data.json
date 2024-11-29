@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "jank is now running on LLVM IR",
+                "href": "https://jank-lang.org/blog/2024-11-29-llvm-ir/"
+            },
+            {
                 "title": "Storing times for human events",
                 "href": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/"
             },
@@ -11,16 +15,12 @@
                 "href": "https://interactionmagic.com/UX-LEGO-Interfaces/"
             },
             {
-                "title": "jank is now running on LLVM IR",
-                "href": "https://jank-lang.org/blog/2024-11-29-llvm-ir/"
+                "title": "Why pipes sometimes get \"stuck\": buffering",
+                "href": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
             },
             {
                 "title": "I stan clearing maps, no cap",
                 "href": "https://philpearl.github.io/post/map_clearing_and_size/"
-            },
-            {
-                "title": "Why pipes sometimes get \"stuck\": buffering",
-                "href": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
             },
             {
                 "title": "Using Pandoc and Typst to Produce PDFs",
@@ -43,12 +43,20 @@
                 "href": "https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend"
             },
             {
+                "title": "The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP",
+                "href": "https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html"
+            },
+            {
                 "title": "Why Can't We Make Simple Software?",
                 "href": "https://youtu.be/czzAVuVz7u4"
             },
             {
                 "title": "Meilisearch Indexes Embeddings 7x Faster with Binary Quantization",
                 "href": "https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization"
+            },
+            {
+                "title": "Breaking the 4chan CAPTCHA",
+                "href": "https://www.nullpt.rs/breaking-the-4chan-captcha"
             },
             {
                 "title": "How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks",
@@ -83,24 +91,16 @@
                 "href": "https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2"
             },
             {
-                "title": "Quick takes on the latest Cloudflare public incident write-up",
-                "href": "https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/"
-            },
-            {
                 "title": "Gleam's Lustre is Frontend Development's Endgame",
                 "href": "https://blog.nestful.app/p/gleams-lustre-is-frontend-developments"
             },
             {
+                "title": "Quick takes on the latest Cloudflare public incident write-up",
+                "href": "https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/"
+            },
+            {
                 "title": "Evaluating Human Factors Beyond Lines of Code",
                 "href": "https://blog.sigplan.org/2024/11/21/evaluating-human-factors-beyond-lines-of-code/"
-            },
-            {
-                "title": "How to run your own Bluesky PDS server from home",
-                "href": "https://youtu.be/7-VJvf39xVE"
-            },
-            {
-                "title": "Introduction to retrogame programming with Pyxel",
-                "href": "https://blog.garambrogne.net/pyxel-initiation-en.html"
             }
         ]
     },
@@ -887,24 +887,16 @@
                 "href": "https://specificsuggestions.com"
             },
             {
-                "title": "The Influence of Bell Labs",
-                "href": "https://www.construction-physics.com/p/the-influence-of-bell-labs"
-            },
-            {
                 "title": "jank is now running on LLVM IR",
                 "href": "https://jank-lang.org/blog/2024-11-29-llvm-ir/"
             },
             {
+                "title": "The Influence of Bell Labs",
+                "href": "https://www.construction-physics.com/p/the-influence-of-bell-labs"
+            },
+            {
                 "title": "Brits are scrolling away from X and aren't that interested in AI",
                 "href": "https://www.theregister.com/2024/11/29/ofcom_online_nation/"
-            },
-            {
-                "title": "Calmy Leon \u2013 The Ultimate Relaxing Music and Sound Generator",
-                "href": "https://calmyleon.com/"
-            },
-            {
-                "title": "Buy Nothing Day",
-                "href": "https://buynothingday.co.uk/"
             },
             {
                 "title": "Chinese pebble-bed nuclear reactor passes \"meltdown\" test",
@@ -915,12 +907,20 @@
                 "href": "https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems"
             },
             {
-                "title": "Borgo Programming Language",
-                "href": "https://borgo-lang.github.io/"
+                "title": "Calmy Leon \u2013 The Ultimate Relaxing Music and Sound Generator",
+                "href": "https://calmyleon.com/"
             },
             {
                 "title": "Engineers do not get to make startup mistakes when they build ledgers",
                 "href": "https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup"
+            },
+            {
+                "title": "Borgo Programming Language",
+                "href": "https://borgo-lang.github.io/"
+            },
+            {
+                "title": "Rust: Tools (early access edition)",
+                "href": "https://bitfieldconsulting.com/books/rust-tools"
             },
             {
                 "title": "Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI",
@@ -931,44 +931,52 @@
                 "href": "https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/PrioritizeWorkAtTheTaskLevel.html"
             },
             {
-                "title": "CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels",
-                "href": "https://arxiv.org/abs/2411.00873"
+                "title": "Buy Nothing Day",
+                "href": "https://buynothingday.co.uk/"
+            },
+            {
+                "title": "Summary of \"Improvising cellular playgrounds in Realtalk\", Aug 2023 [video]",
+                "href": "https://www.youtube.com/watch?v=Osn3JXaT3W8"
             },
             {
                 "title": "Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI",
                 "href": "https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/"
             },
             {
-                "title": "US house prices in 1950 vs. 2024, accounting for inflation",
-                "href": "https://brilliantmaps.com/us-houses-prices-1950-2024/"
+                "title": "The UX of Lego Interface Panels (2020)",
+                "href": "https://interactionmagic.com/UX-LEGO-Interfaces/"
+            },
+            {
+                "title": "CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels",
+                "href": "https://arxiv.org/abs/2411.00873"
             },
             {
                 "title": "How We Got the Lithium-Ion Battery",
                 "href": "https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery"
             },
             {
-                "title": "The UX of Lego Interface Panels (2020)",
-                "href": "https://interactionmagic.com/UX-LEGO-Interfaces/"
-            },
-            {
-                "title": "How fast does Java compile?",
-                "href": "https://mill-build.org/mill/comparisons/java-compile.html"
+                "title": "Perhaps acquiring Pixelmator is about competing with Creative Cloud",
+                "href": "https://daringfireball.net/linked/2024/11/25/apple-creative-cloud"
             },
             {
                 "title": "ASML Twinscan EXE:5000 Lego Set",
                 "href": "https://asmlstore.com/products/twinscan-exe-5000-lego-set"
             },
             {
-                "title": "Perhaps acquiring Pixelmator is about competing with Creative Cloud",
-                "href": "https://daringfireball.net/linked/2024/11/25/apple-creative-cloud"
+                "title": "Ask HN: Platform for senior devs to learn other programming languages?",
+                "href": "item?id=42276995"
             },
             {
-                "title": "Rust: Tools (early access edition)",
-                "href": "https://bitfieldconsulting.com/books/rust-tools"
+                "title": "How fast does Java compile?",
+                "href": "https://mill-build.org/mill/comparisons/java-compile.html"
             },
             {
                 "title": "German WWII Soldier Grave Found with Mesolithic Tools, Roman and Byzantine Coins",
                 "href": "https://www.labrujulaverde.com/en/2024/11/german-wwii-soldiers-grave-found-in-poland-with-mesolithic-tools-roman-and-byzantine-coins-and-other-artifacts/"
+            },
+            {
+                "title": "Oldest US firearm unearthed in Arizona, a bronze cannon linked to Coronado",
+                "href": "https://phys.org/news/2024-11-oldest-firearm-unearthed-arizona-bronze.html"
             },
             {
                 "title": "Show HN: Vince \u2013 A self hosted alternative to Google Analytics",
@@ -977,14 +985,6 @@
             {
                 "title": "A statistical approach to model evaluations",
                 "href": "https://www.anthropic.com/research/statistical-approach-to-model-evals"
-            },
-            {
-                "title": "Show HN: Screen Sharing in the Browser",
-                "href": "https://github.com/tonghohin/screen-sharing"
-            },
-            {
-                "title": "Oldest US firearm unearthed in Arizona, a bronze cannon linked to Coronado",
-                "href": "https://phys.org/news/2024-11-oldest-firearm-unearthed-arizona-bronze.html"
             }
         ]
     }
