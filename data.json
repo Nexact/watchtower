@@ -27,12 +27,12 @@
                 "href": "https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/"
             },
             {
-                "title": "When Postgres is not enough: PostgreSQL vs YDB",
-                "href": "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31"
-            },
-            {
                 "title": "The Next Generation of the Heroku Platform",
                 "href": "https://blog.heroku.com/next-generation-heroku-platform"
+            },
+            {
+                "title": "When Postgres is not enough: PostgreSQL vs YDB",
+                "href": "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31"
             },
             {
                 "title": "Legacy Safety: The Wroc\u0142aw C++ Meeting",
@@ -43,20 +43,40 @@
                 "href": "https://pikuma.com/blog/how-to-make-ps1-graphics"
             },
             {
-                "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
-                "href": "https://ntietz.com/blog/evolving-ergo-setup/"
+                "title": "New era of slop security reports for open source",
+                "href": "https://sethmlarson.dev/slop-security-reports"
+            },
+            {
+                "title": "Designing Wild's incremental linking",
+                "href": "https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html"
             },
             {
                 "title": "Thoughts on DuckDB's Grammar Patching Thing",
                 "href": "https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/"
             },
             {
+                "title": "Phoenix LiveView 1.0.0 is here! - Phoenix Blog",
+                "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released"
+            },
+            {
+                "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
+                "href": "https://ntietz.com/blog/evolving-ergo-setup/"
+            },
+            {
+                "title": "Amazon S3 Tables",
+                "href": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-tables-apache-iceberg-tables-analytics-workloads/"
+            },
+            {
                 "title": "Atari Floppy Disk Copy Protection",
                 "href": "http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf"
             },
             {
-                "title": "Designing Wild's incremental linking",
-                "href": "https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html"
+                "title": "Precomputation",
+                "href": "https://jamesg.blog/2024/11/01/precomputation/"
+            },
+            {
+                "title": "EmacsConf 2024",
+                "href": "https://emacsconf.org/2024/"
             },
             {
                 "title": ".NET Support on Heroku",
@@ -71,10 +91,6 @@
                 "href": "http://beyondloom.com/blog/breakout.html"
             },
             {
-                "title": "EmacsConf 2024",
-                "href": "https://emacsconf.org/2024/"
-            },
-            {
                 "title": "Debian on Mellanox SN2700 (32x100G) (2023)",
                 "href": "https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/"
             },
@@ -83,24 +99,8 @@
                 "href": "https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html"
             },
             {
-                "title": "Amazon S3 Tables",
-                "href": "https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-tables-apache-iceberg-tables-analytics-workloads/"
-            },
-            {
                 "title": "FreeBSD 14.2-RELEASE Announcement",
                 "href": "https://www.freebsd.org/releases/14.2R/announce/"
-            },
-            {
-                "title": "Democratizing Software",
-                "href": "https://wryl.tech/log/2024/democratizing-software.html"
-            },
-            {
-                "title": "mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries",
-                "href": "https://github.com/zigalenarcic/mangl"
-            },
-            {
-                "title": "Distributed Erlang",
-                "href": "https://vereis.com/posts/disterl_inbox"
             }
         ]
     },
@@ -883,10 +883,6 @@
                 "href": "https://www.armaansahni.com/game/"
             },
             {
-                "title": "FTC takes action against Gravy Analytics, Venntel for selling location data",
-                "href": "https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers"
-            },
-            {
                 "title": "The Tube Computer",
                 "href": "https://www.thetubecomputer.com/"
             },
@@ -895,16 +891,28 @@
                 "href": "https://skia-canvas.org/"
             },
             {
-                "title": "My brand new digitizing workflow using a 25 year old film scanner",
-                "href": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"
+                "title": "Making a parallel Rust workload 10x faster with (or without) Rayon",
+                "href": "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"
+            },
+            {
+                "title": "FTC takes action against Gravy Analytics, Venntel for selling location data",
+                "href": "https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers"
             },
             {
                 "title": "Creating a Proxmox or QEMU ChromeOS Flex VM",
                 "href": "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"
             },
             {
+                "title": "My brand new digitizing workflow using a 25 year old film scanner",
+                "href": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"
+            },
+            {
                 "title": "Openlayer (YC S21) is looking for top-tier design engineers",
                 "href": "https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer"
+            },
+            {
+                "title": "Phoenix LiveView 1.0.0 is here",
+                "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"
             },
             {
                 "title": "Amazon Nova",
@@ -915,6 +923,10 @@
                 "href": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"
             },
             {
+                "title": "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
+                "href": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
+            },
+            {
                 "title": "Tweaking Stunt Island's 30-year-old 3D engine",
                 "href": "https://annali.netlify.app/2024/11/20/tweaking-stunt-island"
             },
@@ -923,20 +935,8 @@
                 "href": "item?id=42307393"
             },
             {
-                "title": "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
-                "href": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
-            },
-            {
-                "title": "Making a parallel Rust workload 10x faster with (or without) Rayon",
-                "href": "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"
-            },
-            {
                 "title": "Lessons I learned working at an art gallery",
                 "href": "https://www.henrikkarlsson.xyz/p/art-gallery"
-            },
-            {
-                "title": "Text Editing Hates You Too (2019)",
-                "href": "https://lord.io/text-editing-hates-you-too/"
             },
             {
                 "title": "Student rocket group shatters amateur space record",
@@ -947,12 +947,12 @@
                 "href": "https://kaiec.github.io/EstyJS/"
             },
             {
-                "title": "MyTimeMachine: Personalized Facial Age Transformation",
-                "href": "https://mytimemachine.github.io"
+                "title": "Text Editing Hates You Too (2019)",
+                "href": "https://lord.io/text-editing-hates-you-too/"
             },
             {
-                "title": "The Curse of Markdown",
-                "href": "https://codehike.org/blog/the-curse-of-markdown"
+                "title": "MyTimeMachine: Personalized Facial Age Transformation",
+                "href": "https://mytimemachine.github.io"
             },
             {
                 "title": "On-scalp printing of personalized electroencephalography e-tattoos",
@@ -963,6 +963,14 @@
                 "href": "https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/"
             },
             {
+                "title": "The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright",
+                "href": "https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/"
+            },
+            {
+                "title": "The Curse of Markdown",
+                "href": "https://codehike.org/blog/the-curse-of-markdown"
+            },
+            {
                 "title": "Vintage digicams are an artistic statement",
                 "href": "https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/"
             },
@@ -971,24 +979,16 @@
                 "href": "https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/"
             },
             {
-                "title": "The Porsche Macan EV Is Being Recalled Because Its Headlights Are Too Bright",
-                "href": "https://insideevs.com/news/742893/porsche-macan-electric-ev-recall-headlights/"
-            },
-            {
                 "title": "MTA's A.I. bus cameras issue mistaken parking violations",
                 "href": "https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/"
             },
             {
-                "title": "Show HN: I built an AI tool to analyze SEC filings the minute they're released",
-                "href": "https://docdelta.ca"
+                "title": "Amazon Aurora DSQL",
+                "href": "https://aws.amazon.com/rds/aurora/dsql/"
             },
             {
                 "title": "Rust in QEMU Roadmap",
                 "href": "https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/"
-            },
-            {
-                "title": "What does LETTER. do in LISTRD in FAP from 196x?",
-                "href": "https://drive.google.com/file/d/1zAJ2zX9WaeR7Ui8F88ZNFZtI5Q-Ow5sb/edit"
             }
         ]
     }
