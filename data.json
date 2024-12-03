@@ -15,20 +15,20 @@
                 "href": "https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html"
             },
             {
-                "title": ".NET Support on Heroku",
-                "href": "https://blog.heroku.com/dotnet-support-on-heroku"
-            },
-            {
                 "title": "Legacy Safety: The Wroc\u0142aw C++ Meeting",
                 "href": "https://cor3ntin.github.io/posts/profiles/"
             },
             {
-                "title": "A KeyLogger using eBPF",
-                "href": "https://github.com/pythops/tamanoir"
+                "title": ".NET Support on Heroku",
+                "href": "https://blog.heroku.com/dotnet-support-on-heroku"
             },
             {
                 "title": "Democratizing Software",
                 "href": "https://wryl.tech/log/2024/democratizing-software.html"
+            },
+            {
+                "title": "A KeyLogger using eBPF",
+                "href": "https://github.com/pythops/tamanoir"
             },
             {
                 "title": "Experimenting with Rust, Nix, K6 and Parca",
@@ -41,6 +41,10 @@
             {
                 "title": "Atomics for Humans",
                 "href": "https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e"
+            },
+            {
+                "title": "mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries",
+                "href": "https://github.com/zigalenarcic/mangl"
             },
             {
                 "title": "FreeBSD 14.2-RELEASE Announcement",
@@ -57,10 +61,6 @@
             {
                 "title": "The Linux Kernel Driver Interface",
                 "href": "https://www.kernel.org/doc/Documentation/process/stable-api-nonsense.rst"
-            },
-            {
-                "title": "mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries",
-                "href": "https://github.com/zigalenarcic/mangl"
             },
             {
                 "title": "You Have One Voice",
@@ -87,6 +87,10 @@
                 "href": "https://lobste.rs/s/auqekq/what_are_you_doing_this_week"
             },
             {
+                "title": "SQL best practices \u2013 don\u2019t compare count(*) with 0",
+                "href": "https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/"
+            },
+            {
                 "title": "New features in Linux 6.10 contributed by Pernosco",
                 "href": "https://pernos.co/blog/linux-kernel-additions/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "SQLite Index Visualization: Search",
                 "href": "https://mrsuh.com/articles/2024/sqlite-index-visualization-search/"
-            },
-            {
-                "title": "Macros in Dart",
-                "href": "https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md"
             }
         ]
     },
@@ -879,12 +879,16 @@
                 "href": "https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact"
             },
             {
-                "title": "High School Student's First App \u2013 NWS Weather Report",
-                "href": "https://weatherreportnow.com/"
-            },
-            {
                 "title": "Show HN: Copper \u2013 Open-source robotics in Rust with deterministic log replay",
                 "href": "https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log"
+            },
+            {
+                "title": "USC Student Rocket Group Shatters International Amateur Space Record",
+                "href": "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
+            },
+            {
+                "title": "Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone)",
+                "href": "https://www.ycombinator.com/companies/kapa-ai/jobs"
             },
             {
                 "title": "Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program",
@@ -899,16 +903,24 @@
                 "href": "item?id=42297424"
             },
             {
-                "title": "Show HN: Open-sourced (road) traffic counting application",
-                "href": "https://github.com/asfarley/vtc_lfs"
-            },
-            {
                 "title": "World Labs: Generate 3D worlds from a single image",
                 "href": "https://www.worldlabs.ai/blog"
             },
             {
+                "title": "Show HN: Open-sourced (road) traffic counting application",
+                "href": "https://github.com/asfarley/vtc_lfs"
+            },
+            {
+                "title": "Distributed Erlang",
+                "href": "https://vereis.com/posts/disterl_inbox"
+            },
+            {
                 "title": "Rust in QEMU Roadmap",
                 "href": "https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/"
+            },
+            {
+                "title": "High School Student's First App \u2013 NWS Weather Report",
+                "href": "https://weatherreportnow.com/"
             },
             {
                 "title": "Accelerated AI Inference via Dynamic Execution Methods",
@@ -919,12 +931,8 @@
                 "href": "https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215"
             },
             {
-                "title": "USC Student Rocket Group Shatters International Amateur Space Record",
-                "href": "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
-            },
-            {
-                "title": "Distributed Erlang",
-                "href": "https://vereis.com/posts/disterl_inbox"
+                "title": "Twice-Yearly HIV Shot Shows 100% Effectiveness in Women",
+                "href": "https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de"
             },
             {
                 "title": "Optimality of Gerver's Sofa",
@@ -939,48 +947,40 @@
                 "href": "https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster"
             },
             {
-                "title": "Show HN: Flow \u2013 A dynamic task engine for building AI agents",
-                "href": "https://github.com/lmnr-ai/flow"
+                "title": "Every board game rulebook is awful [pdf]",
+                "href": "https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view"
             },
             {
                 "title": "Ask HN: Who wants to be hired? (December 2024)",
                 "href": "item?id=42297422"
             },
             {
-                "title": "FizzBuzz in Powerchords",
-                "href": "https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/"
-            },
-            {
-                "title": "Every board game rulebook is awful [pdf]",
-                "href": "https://drive.google.com/file/d/1nkHWqYre866xihxN3MnHr5YFzY4gQWDT/view"
-            },
-            {
-                "title": "Twice-Yearly HIV Shot Shows 100% Effectiveness in Women",
-                "href": "https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de"
+                "title": "Show HN: Flow \u2013 A dynamic task engine for building AI agents",
+                "href": "https://github.com/lmnr-ai/flow"
             },
             {
                 "title": "Ethiopian wolves reported to feed on nectar",
                 "href": "https://www.ox.ac.uk/news/2024-11-22-ethiopian-wolves-reported-feed-nectar-first-time"
             },
             {
-                "title": "Show HN: Book and change flights with one email",
-                "href": "https://www.bonbook.co/showhn"
-            },
-            {
                 "title": "Intel announces retirement of Pat Gelsinger",
                 "href": "https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"
+            },
+            {
+                "title": "FizzBuzz in Powerchords",
+                "href": "https://tehruhn.github.io/posts/2024/12/fizzbuzz-in-powerchords/"
+            },
+            {
+                "title": "Show HN: Book and change flights with one email",
+                "href": "https://www.bonbook.co/showhn"
             },
             {
                 "title": "Unlocking the power of time-series data with multimodal models",
                 "href": "https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/"
             },
             {
-                "title": "A Collection of Kaleidoscope Schemes, Sourced from the WayBack Machine.",
-                "href": "https://kaleidoscope.hryjksn.com/"
-            },
-            {
-                "title": "Landlords Are Using AI to Raise Rents \u2013 and Cities Are Starting to Push Back",
-                "href": "https://themarkup.org/locked-out/2024/12/02/landlords-are-using-ai-to-raise-rents-and-cities-are-starting-to-push-back"
+                "title": "Kenya and \"the decline of the greatest coffee\" (2021)",
+                "href": "https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/"
             }
         ]
     }
