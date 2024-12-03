@@ -27,40 +27,48 @@
                 "href": "https://blog.heroku.com/next-generation-heroku-platform"
             },
             {
-                "title": "How PlayStation graphics & visual artefacts work",
-                "href": "https://pikuma.com/blog/how-to-make-ps1-graphics"
-            },
-            {
                 "title": "Legacy Safety: The Wroc\u0142aw C++ Meeting",
                 "href": "https://cor3ntin.github.io/posts/profiles/"
+            },
+            {
+                "title": "How PlayStation graphics & visual artefacts work",
+                "href": "https://pikuma.com/blog/how-to-make-ps1-graphics"
             },
             {
                 "title": "Thoughts on DuckDB's Grammar Patching Thing",
                 "href": "https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/"
             },
             {
-                "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
-                "href": "https://ntietz.com/blog/evolving-ergo-setup/"
+                "title": "Designing Wild's incremental linking",
+                "href": "https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html"
             },
             {
-                "title": "Breakout in Decker, Three Ways",
-                "href": "http://beyondloom.com/blog/breakout.html"
+                "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
+                "href": "https://ntietz.com/blog/evolving-ergo-setup/"
             },
             {
                 "title": ".NET Support on Heroku",
                 "href": "https://blog.heroku.com/dotnet-support-on-heroku"
             },
             {
+                "title": "When Postgres is not enough: PostgreSQL vs YDB",
+                "href": "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31"
+            },
+            {
+                "title": "Breakout in Decker, Three Ways",
+                "href": "http://beyondloom.com/blog/breakout.html"
+            },
+            {
                 "title": "Atari Floppy Disk Copy Protection",
                 "href": "http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf"
             },
             {
-                "title": "Designing Wild's incremental linking",
-                "href": "https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html"
-            },
-            {
                 "title": "Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)",
                 "href": "https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html"
+            },
+            {
+                "title": "Why Go slices still surprise me",
+                "href": "https://build-your-own.org/blog/20241125_go_slice_surprise/"
             },
             {
                 "title": "Debian on Mellanox SN2700 (32x100G) (2023)",
@@ -71,12 +79,12 @@
                 "href": "https://www.freebsd.org/releases/14.2R/announce/"
             },
             {
-                "title": "Democratizing Software",
-                "href": "https://wryl.tech/log/2024/democratizing-software.html"
+                "title": "EmacsConf 2024",
+                "href": "https://emacsconf.org/2024/"
             },
             {
-                "title": "When Postgres is not enough: PostgreSQL vs YDB",
-                "href": "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31"
+                "title": "Democratizing Software",
+                "href": "https://wryl.tech/log/2024/democratizing-software.html"
             },
             {
                 "title": "Distributed Erlang",
@@ -87,20 +95,12 @@
                 "href": "https://mtlynch.io/notes/simple-go-web-service-nixos/"
             },
             {
-                "title": "EmacsConf 2024",
-                "href": "https://emacsconf.org/2024/"
-            },
-            {
                 "title": "mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries",
                 "href": "https://github.com/zigalenarcic/mangl"
             },
             {
                 "title": "Database of LLMOps and GenAI implementation and architecture notes",
                 "href": "https://www.zenml.io/llmops-database"
-            },
-            {
-                "title": "Domains listening to many other domains in Event-Driven Architecture",
-                "href": "https://www.reactivesystems.eu/2024/11/30/not-all-commands-are-equal.html"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Cloudflare\u2019s developer domains increasingly abused by threat actors",
+                "href": "https://www.bleepingcomputer.com/news/security/cloudflares-developer-domains-increasingly-abused-by-threat-actors/"
+            },
+            {
                 "title": "US shares tips to block hackers behind recent telecom breaches",
                 "href": "https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/"
             },
@@ -255,10 +259,6 @@
             {
                 "title": "Mozilla really wants you to set Firefox as default Windows browser",
                 "href": "https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/"
-            },
-            {
-                "title": "Google Chrome\u2019s AI feature lets you quickly check website trustworthiness",
-                "href": "https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/"
             }
         ]
     },
@@ -871,79 +871,75 @@
                 "href": "https://www.thetubecomputer.com/"
             },
             {
-                "title": "Stephen King to Shut Down His 3 Radio Stations in Maine",
-                "href": "https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html"
-            },
-            {
                 "title": "Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support",
                 "href": "https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette"
             },
             {
-                "title": "Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node",
+                "title": "Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node",
                 "href": "https://skia-canvas.org/"
-            },
-            {
-                "title": "Tweaking Stunt Island's 30-year-old 3D Engine",
-                "href": "https://annali.netlify.app/2024/11/20/tweaking-stunt-island"
-            },
-            {
-                "title": "My Brand New Digitizing Workflow Using a 25 Year Old Film Scanner",
-                "href": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"
-            },
-            {
-                "title": "Amazon Nova",
-                "href": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
-            },
-            {
-                "title": "Phishers Love New TLDs Like .shop, .top and .xyz",
-                "href": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"
-            },
-            {
-                "title": "\u2018With brain preservation, nobody has to die\u2019",
-                "href": "https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal"
-            },
-            {
-                "title": "Text Editing Hates You Too (2019)",
-                "href": "https://lord.io/text-editing-hates-you-too/"
-            },
-            {
-                "title": "Launch HN: Vocera (YC F24) \u2013 Testing and Observability for Voice AI",
-                "href": "item?id=42307393"
-            },
-            {
-                "title": "Lessons I learned working at an art gallery",
-                "href": "https://www.henrikkarlsson.xyz/p/art-gallery"
-            },
-            {
-                "title": "Stack Auth (YC S24), open-source Auth0 alternative, is hiring Founding SWEs",
-                "href": "item?id=42308388"
-            },
-            {
-                "title": "TOC MyTimeMachine: Personalized Facial Age Transformation",
-                "href": "https://mytimemachine.github.io"
-            },
-            {
-                "title": "We switched from Next.js to Astro (and why it might interest you)",
-                "href": "https://www.datocms.com/blog/why-we-switched-to-astro"
-            },
-            {
-                "title": "On-scalp printing of personalized electroencephalography e-tattoos",
-                "href": "https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"
-            },
-            {
-                "title": "EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)",
-                "href": "https://kaiec.github.io/EstyJS/"
-            },
-            {
-                "title": "Webhooks Are Harder Than They Seem",
-                "href": "https://www.svix.com/blog/webhooks-are-harder-than-they-seem/"
             },
             {
                 "title": "Show HN: I built an AI tool to analyze SEC filings the minute they're released",
                 "href": "https://docdelta.ca"
             },
             {
-                "title": "USC Student Rocket Group Shatters International Amateur Space Record",
+                "title": "My brand new digitizing workflow using a 25 year old film scanner",
+                "href": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"
+            },
+            {
+                "title": "Text Editing Hates You Too (2019)",
+                "href": "https://lord.io/text-editing-hates-you-too/"
+            },
+            {
+                "title": "Openlayer (YC S21) is looking for top-tier design engineers",
+                "href": "https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer"
+            },
+            {
+                "title": "Amazon Nova",
+                "href": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
+            },
+            {
+                "title": "Tweaking Stunt Island's 30-year-old 3D engine",
+                "href": "https://annali.netlify.app/2024/11/20/tweaking-stunt-island"
+            },
+            {
+                "title": "Egoless Engineering",
+                "href": "https://egoless.engineering"
+            },
+            {
+                "title": "Phishers Love New TLDs Like .shop, .top and .xyz",
+                "href": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"
+            },
+            {
+                "title": "EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)",
+                "href": "https://kaiec.github.io/EstyJS/"
+            },
+            {
+                "title": "Launch HN: Vocera (YC F24) \u2013 Testing and Observability for Voice AI",
+                "href": "item?id=42307393"
+            },
+            {
+                "title": "\u2018With brain preservation, nobody has to die\u2019",
+                "href": "https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal"
+            },
+            {
+                "title": "Lessons I learned working at an art gallery",
+                "href": "https://www.henrikkarlsson.xyz/p/art-gallery"
+            },
+            {
+                "title": "On-scalp printing of personalized electroencephalography e-tattoos",
+                "href": "https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"
+            },
+            {
+                "title": "The Curse of Markdown",
+                "href": "https://codehike.org/blog/the-curse-of-markdown"
+            },
+            {
+                "title": "MyTimeMachine: Personalized Facial Age Transformation",
+                "href": "https://mytimemachine.github.io"
+            },
+            {
+                "title": "Student rocket group shatters amateur space record",
                 "href": "https://viterbischool.usc.edu/news/2024/11/usc-student-rocket-group-shatters-international-amateur-space-record/"
             },
             {
@@ -951,40 +947,44 @@
                 "href": "https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1"
             },
             {
-                "title": "The Curse of Markdown",
-                "href": "https://codehike.org/blog/the-curse-of-markdown"
-            },
-            {
                 "title": "Ask HN: Payment processing for micro SaaS outside USA?",
                 "href": "item?id=42224141"
+            },
+            {
+                "title": "Stephen King to shut down his 3 radio stations in Maine",
+                "href": "https://www.nytimes.com/2024/12/03/arts/stephen-king-maine-radio-stations.html"
+            },
+            {
+                "title": "Ask HN: Who is hiring? (December 2024)",
+                "href": "item?id=42297424"
             },
             {
                 "title": "Amazon Aurora DSQL",
                 "href": "https://aws.amazon.com/rds/aurora/dsql/"
             },
             {
-                "title": "OpenAI reveals why ChatGPT won't say \"David Mayer\"",
-                "href": "https://www.neowin.net/news/openai-finally-reveals-why-chatgpt-wont-say-david-meyer/"
-            },
-            {
-                "title": "AI poetry is indistinguishable from human poetry and is rated more favorably",
-                "href": "https://www.nature.com/articles/s41598-024-76900-1"
+                "title": "FTC Bans Location Data Company That Powers the Surveillance Ecosystem",
+                "href": "https://www.404media.co/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem/"
             },
             {
                 "title": "'I'm running a Mud so I can learn C programming ' (1993)",
                 "href": "https://raw.githubusercontent.com/alexmchale/merc-mud/refs/heads/master/doc/hacker.txt"
             },
             {
-                "title": "MTA's A.I. bus cameras issue mistaken parking violations",
-                "href": "https://www.nbcnewyork.com/investigations/mta-bus-camera-issue-mistake-parking-violations/6020986/"
-            },
-            {
-                "title": "FTC Bans Location Data Company That Powers the Surveillance Ecosystem",
-                "href": "https://www.404media.co/ftc-bans-location-data-company-that-powers-the-surveillance-ecosystem/"
+                "title": "AI poetry is indistinguishable from human poetry and is rated more favorably",
+                "href": "https://www.nature.com/articles/s41598-024-76900-1"
             },
             {
                 "title": "Rust in QEMU Roadmap",
                 "href": "https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/"
+            },
+            {
+                "title": "We switched from Next.js to Astro (and why it might interest you)",
+                "href": "https://www.datocms.com/blog/why-we-switched-to-astro"
+            },
+            {
+                "title": "Vintage digicams aren't just a fad. They're an artistic statement",
+                "href": "https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/"
             }
         ]
     }
