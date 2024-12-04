@@ -19,56 +19,60 @@
                 "href": "https://build-your-own.org/blog/20241125_go_slice_surprise/"
             },
             {
-                "title": "New era of slop security reports for open source",
-                "href": "https://sethmlarson.dev/slop-security-reports"
+                "title": "A Brief Introduction to OCI Containers on FreeBSD",
+                "href": "https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers"
             },
             {
-                "title": "Phoenix LiveView 1.0.0 is here! - Phoenix Blog",
-                "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released"
+                "title": "New era of slop security reports for open source",
+                "href": "https://sethmlarson.dev/slop-security-reports"
             },
             {
                 "title": "The Return of Procedural Programming",
                 "href": "https://www.youtube.com/watch?v=vQPHtAxOZZw"
             },
             {
-                "title": "A Brief Introduction to OCI Containers on FreeBSD",
-                "href": "https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers"
-            },
-            {
-                "title": "8 months of OCaml after 8 years of Haskell in production",
-                "href": "https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html"
-            },
-            {
-                "title": "The Next Generation of the Heroku Platform",
-                "href": "https://blog.heroku.com/next-generation-heroku-platform"
+                "title": "Phoenix LiveView 1.0.0 is here! - Phoenix Blog",
+                "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released"
             },
             {
                 "title": "Precomputation",
                 "href": "https://jamesg.blog/2024/11/01/precomputation/"
             },
             {
-                "title": "SQL best practices \u2013 don\u2019t compare count(*) with 0",
-                "href": "https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/"
+                "title": "8 months of OCaml after 8 years of Haskell in production",
+                "href": "https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html"
             },
             {
                 "title": "Thoughts on DuckDB's Grammar Patching Thing",
                 "href": "https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/"
             },
             {
-                "title": "Rust9x update: Rust 1.84.0-beta",
-                "href": "https://seri.tools/blog/rust9x-1-84/"
+                "title": "The Next Generation of the Heroku Platform",
+                "href": "https://blog.heroku.com/next-generation-heroku-platform"
+            },
+            {
+                "title": "SQL best practices \u2013 don\u2019t compare count(*) with 0",
+                "href": "https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/"
             },
             {
                 "title": "How PlayStation graphics & visual artefacts work",
                 "href": "https://pikuma.com/blog/how-to-make-ps1-graphics"
             },
             {
-                "title": "When Postgres is not enough: PostgreSQL vs YDB",
-                "href": "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31"
-            },
-            {
                 "title": "Designing Wild's incremental linking",
                 "href": "https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html"
+            },
+            {
+                "title": "Rust9x update: Rust 1.84.0-beta",
+                "href": "https://seri.tools/blog/rust9x-1-84/"
+            },
+            {
+                "title": "Certificate Authorities and the Fragility of Internet Safety",
+                "href": "https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html"
+            },
+            {
+                "title": "When Postgres is not enough: PostgreSQL vs YDB",
+                "href": "https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31"
             },
             {
                 "title": "Legacy Safety: The Wroc\u0142aw C++ Meeting",
@@ -95,10 +99,6 @@
                 "href": "https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/"
             },
             {
-                "title": ".NET Support on Heroku",
-                "href": "https://blog.heroku.com/dotnet-support-on-heroku"
-            },
-            {
                 "title": "Breakout in Decker, Three Ways",
                 "href": "http://beyondloom.com/blog/breakout.html"
             }
@@ -114,6 +114,10 @@
             {
                 "title": "OAuth Labs: OAuth 2.0 Vulnerabilites",
                 "href": "https://www.reddit.com/r/netsec/comments/1h5oxpx/oauth_labs_oauth_20_vulnerabilites/"
+            },
+            {
+                "title": "XS-Leaks through Speculation Rules",
+                "href": "https://www.reddit.com/r/netsec/comments/1h67fge/xsleaks_through_speculation_rules/"
             },
             {
                 "title": "A step-by-step intro to Client Side Path-Traversal with Eval Villain",
@@ -206,10 +210,6 @@
             {
                 "title": "Introducing NachoVPN: One VPN Server to Pwn Them All",
                 "href": "https://www.reddit.com/r/netsec/comments/1h0d7fc/introducing_nachovpn_one_vpn_server_to_pwn_them/"
-            },
-            {
-                "title": "The Curious Case of nltest and LmOwfPassword/NtOwfPassword",
-                "href": "https://www.reddit.com/r/netsec/comments/1h0jpga/the_curious_case_of_nltest_and/"
             }
         ]
     },
@@ -871,12 +871,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Egoless Engineering",
-                "href": "https://egoless.engineering"
-            },
-            {
                 "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
                 "href": "https://www.armaansahni.com/game/"
+            },
+            {
+                "title": "Egoless Engineering",
+                "href": "https://egoless.engineering"
             },
             {
                 "title": "Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support",
@@ -887,6 +887,10 @@
                 "href": "https://github.com/glojurelang/glojure"
             },
             {
+                "title": "A Particle Physics Course for High-School Students",
+                "href": "https://ppc.web.cern.ch/"
+            },
+            {
                 "title": "Skia Canvas: Browserless implementation of the HTML Canvas drawing API for node",
                 "href": "https://skia-canvas.org/"
             },
@@ -895,24 +899,52 @@
                 "href": "https://www.thetubecomputer.com/"
             },
             {
+                "title": "Voice Activity Detection in Elixir with Membran",
+                "href": "https://underjord.io/voice-activity-detection-elixir-membrane.html"
+            },
+            {
                 "title": "Making a parallel Rust workload 10x faster with (or without) Rayon",
                 "href": "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"
+            },
+            {
+                "title": "EmacsConf 2024",
+                "href": "https://emacsconf.org/2024/"
             },
             {
                 "title": "Creating a Proxmox or QEMU ChromeOS Flex VM",
                 "href": "https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html"
             },
             {
-                "title": "Phoenix LiveView 1.0.0 is here",
-                "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"
-            },
-            {
                 "title": "Show HN: My C compiler compiled itself",
                 "href": "https://github.com/keyvank/30cc"
             },
             {
+                "title": "Phoenix LiveView 1.0.0 is here",
+                "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"
+            },
+            {
+                "title": "Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant",
+                "href": "https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger"
+            },
+            {
+                "title": "Rust library for building no-boilerplate CLI apps",
+                "href": "https://github.com/JeffrayZhang/terse-cli"
+            },
+            {
                 "title": "Dependency management fatigue, or why I ditched React for Go+HTMX+Templ",
                 "href": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
+            },
+            {
+                "title": "Phishers Love New TLDs Like .shop, .top and .xyz",
+                "href": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"
+            },
+            {
+                "title": "EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)",
+                "href": "https://kaiec.github.io/EstyJS/"
+            },
+            {
+                "title": "Openlayer (YC S21) is looking for top-tier design engineers",
+                "href": "https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer"
             },
             {
                 "title": "FTC takes action against Gravy Analytics, Venntel for selling location data",
@@ -923,28 +955,20 @@
                 "href": "https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html"
             },
             {
-                "title": "Rust library for building no-boilerplate CLI apps",
-                "href": "https://github.com/JeffrayZhang/terse-cli"
-            },
-            {
-                "title": "EstyJS 2.0 (emulator for the Atari ST, written in 100% pure JavaScript)",
-                "href": "https://kaiec.github.io/EstyJS/"
-            },
-            {
-                "title": "Phishers Love New TLDs Like .shop, .top and .xyz",
-                "href": "https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/"
-            },
-            {
                 "title": "My brand new digitizing workflow using a 25 year old film scanner",
                 "href": "https://blog.vladovince.com/my-brand-new-digitizing-workflow-using-a-25-year-old-film-scanner/"
             },
             {
-                "title": "Openlayer (YC S21) is looking for top-tier design engineers",
-                "href": "https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer"
+                "title": "Show HN: Book and change flights with one email",
+                "href": "https://www.bonbook.co/showhn"
             },
             {
                 "title": "A new home for Python-build-standalone",
                 "href": "https://astral.sh/blog/python-build-standalone"
+            },
+            {
+                "title": "Launch HN: Vocera (YC F24) \u2013 Testing and Observability for Voice AI",
+                "href": "item?id=42307393"
             },
             {
                 "title": "Information Batteries (2021) [pdf]",
@@ -955,40 +979,16 @@
                 "href": "https://annali.netlify.app/2024/11/20/tweaking-stunt-island"
             },
             {
-                "title": "Launch HN: Vocera (YC F24) \u2013 Testing and Observability for Voice AI",
-                "href": "item?id=42307393"
-            },
-            {
                 "title": "Amazon Nova",
                 "href": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
             },
             {
-                "title": "Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant",
-                "href": "https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger"
-            },
-            {
-                "title": "The Curse of Markdown",
-                "href": "https://codehike.org/blog/the-curse-of-markdown"
+                "title": "Gratitude Despite the Odds",
+                "href": "https://mariakonnikova.substack.com/p/gratitude-despite-the-odds"
             },
             {
                 "title": "Automated reasoning to remove LLM hallucinations",
                 "href": "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/"
-            },
-            {
-                "title": "On-scalp printing of personalized electroencephalography e-tattoos",
-                "href": "https://www.cell.com/cell-biomaterials/fulltext/S3050-5623(24)00004-7"
-            },
-            {
-                "title": "California teacher dies from suspected rabid bat bite",
-                "href": "https://ktla.com/news/california/california-teacher-dies-from-suspect-rabid-bat-bite/"
-            },
-            {
-                "title": "MyTimeMachine: Personalized Facial Age Transformation",
-                "href": "https://mytimemachine.github.io"
-            },
-            {
-                "title": "Text Editing Hates You Too (2019)",
-                "href": "https://lord.io/text-editing-hates-you-too/"
             }
         ]
     }
