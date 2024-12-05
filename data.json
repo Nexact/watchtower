@@ -7,20 +7,20 @@
                 "href": "https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/"
             },
             {
-                "title": "Speeding up Ruby by rewriting C in Ruby",
-                "href": "https://jpcamara.com/2024/12/01/speeding-up-ruby.html"
-            },
-            {
                 "title": "Praise to scdoc to generate man pages",
                 "href": "https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/"
             },
             {
-                "title": "Egoless Engineering",
-                "href": "https://egoless.engineering/"
+                "title": "Speeding up Ruby by rewriting C in Ruby",
+                "href": "https://jpcamara.com/2024/12/01/speeding-up-ruby.html"
             },
             {
                 "title": "First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)",
                 "href": "https://simonwillison.net/2024/Dec/4/amazon-nova/"
+            },
+            {
+                "title": "Egoless Engineering",
+                "href": "https://egoless.engineering/"
             },
             {
                 "title": "A Brief Introduction to OCI Containers on FreeBSD",
@@ -39,6 +39,10 @@
                 "href": "https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/"
             },
             {
+                "title": "Structured binding upgrades in C++26",
+                "href": "https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html"
+            },
+            {
                 "title": "A complex bug with a \u2e22simple\u2e23 fix",
                 "href": "https://blog.plover.com/prog/bug/timing.html"
             },
@@ -47,28 +51,32 @@
                 "href": "https://www.youtube.com/watch?v=xgmGK0_KyKc"
             },
             {
-                "title": "Structured binding upgrades in C++26",
-                "href": "https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html"
+                "title": "PyMyFlySpy: track your flight using its headrest data",
+                "href": "https://robertheaton.com/pymyflyspy/"
             },
             {
                 "title": "AES-GCM and breaking it on nonce reuse",
                 "href": "https://frereit.de/aes_gcm/"
             },
             {
-                "title": "PyMyFlySpy: track your flight using its headrest data",
-                "href": "https://robertheaton.com/pymyflyspy/"
-            },
-            {
                 "title": "The Return of Procedural Programming",
                 "href": "https://www.youtube.com/watch?v=vQPHtAxOZZw"
+            },
+            {
+                "title": "Transferring Python Build Standalone Stewardship to Astral",
+                "href": "https://gregoryszorc.com/blog/2024/12/03/transferring-python-build-standalone-stewardship-to-astral/"
+            },
+            {
+                "title": "The EYG Language with Peter Saxton",
+                "href": "https://www.youtube.com/watch?v=w7mHY7CW51o&t=96s"
             },
             {
                 "title": "Precomputation",
                 "href": "https://jamesg.blog/2024/11/01/precomputation/"
             },
             {
-                "title": "Transferring Python Build Standalone Stewardship to Astral",
-                "href": "https://gregoryszorc.com/blog/2024/12/03/transferring-python-build-standalone-stewardship-to-astral/"
+                "title": "Why I Hate Language Benchmarks",
+                "href": "https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/"
             },
             {
                 "title": "Introducing Amazon Aurora DSQL",
@@ -83,10 +91,6 @@
                 "href": "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released"
             },
             {
-                "title": "Why I Hate Language Benchmarks",
-                "href": "https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/"
-            },
-            {
                 "title": "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ",
                 "href": "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "What's up with Lobste.rs blocking the Brave browser?",
                 "href": "https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave"
-            },
-            {
-                "title": "Why Go slices still surprise me",
-                "href": "https://build-your-own.org/blog/20241125_go_slice_surprise/"
             }
         ]
     },
@@ -730,12 +730,12 @@
                 "href": "https://kevinboone.me/dx7.html"
             },
             {
-                "title": "Sitters and Standers",
-                "href": "https://pudding.cool/2024/11/sitters-standers/"
+                "title": "Move semantics in Rust, C++, and Hylo",
+                "href": "https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo"
             },
             {
-                "title": "Oscilloscope Music N-Spheres",
-                "href": "https://oscilloscopemusic.com/watch/n-spheres"
+                "title": "Sitters and Standers",
+                "href": "https://pudding.cool/2024/11/sitters-standers/"
             },
             {
                 "title": "AI helps researchers dig through old maps to find lost oil and gas wells",
@@ -746,16 +746,16 @@
                 "href": "https://github.com/outerbase/studio"
             },
             {
+                "title": "Oscilloscope Music N-Spheres",
+                "href": "https://oscilloscopemusic.com/watch/n-spheres"
+            },
+            {
                 "title": "Native dual-range input",
                 "href": "https://muffinman.io/blog/native-dual-range-input/"
             },
             {
                 "title": "The story of Rogue",
                 "href": "https://spillhistorie.no/the-story-of-rogue/"
-            },
-            {
-                "title": "Show HN: I combined spaced repetition with emails so you can remember anything",
-                "href": "https://www.ginkgonotes.com/"
             },
             {
                 "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -766,16 +766,24 @@
                 "href": "https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b"
             },
             {
+                "title": "Show HN: I combined spaced repetition with emails so you can remember anything",
+                "href": "https://www.ginkgonotes.com/"
+            },
+            {
                 "title": "WASM-4: Build retro games using WebAssembly for a fantasy console",
                 "href": "https://wasm4.org/"
             },
             {
-                "title": "IMG_0001",
-                "href": "https://walzr.com/IMG_0001/"
+                "title": "VectorChord: Store 400k Vectors for $1 in PostgreSQL",
+                "href": "https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql"
             },
             {
                 "title": "Speeding up Ruby by rewriting C in Ruby",
                 "href": "https://jpcamara.com/2024/12/01/speeding-up-ruby.html"
+            },
+            {
+                "title": "IMG_0001",
+                "href": "https://walzr.com/IMG_0001/"
             },
             {
                 "title": "How the Arpanet Protocols Worked",
@@ -786,14 +794,6 @@
                 "href": "item?id=42319315"
             },
             {
-                "title": "VectorChord: Store 400k Vectors for $1 in PostgreSQL",
-                "href": "https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql"
-            },
-            {
-                "title": "AggiesBCI \u2013 brain-controlled wheelchair converts thoughts to real-world movement",
-                "href": "https://yusiali.com/projects/AggiesBCI/"
-            },
-            {
                 "title": "Show HN: A 5th order motion planner with PH spline blending, written in Ada",
                 "href": "https://600f3559.prunt-docs.pages.dev/"
             },
@@ -802,12 +802,16 @@
                 "href": "https://gwern.net/harberger"
             },
             {
-                "title": "The Hoare Cube",
-                "href": "https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/"
+                "title": "AggiesBCI \u2013 brain-controlled wheelchair converts thoughts to real-world movement",
+                "href": "https://yusiali.com/projects/AggiesBCI/"
             },
             {
                 "title": "AI hallucinations: Why LLMs make things up (and how to fix it)",
                 "href": "https://www.kapa.ai/blog/ai-hallucination"
+            },
+            {
+                "title": "The Hoare Cube",
+                "href": "https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/"
             },
             {
                 "title": "How Typing Transformed Nietzsche's Consciousness",
@@ -828,10 +832,6 @@
             {
                 "title": "The ambiguous witness of Dietrich Bonhoeffer (2014)",
                 "href": "https://newcriterion.com/article/the-ambiguous-witness-of-dietrich-bonhoeffer/"
-            },
-            {
-                "title": "Bringing the Instructions to the Data",
-                "href": "https://mattpo.pe/posts/sql-llvm/"
             }
         ]
     }
