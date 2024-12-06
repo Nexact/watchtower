@@ -19,6 +19,10 @@
                 "href": "https://minimalmodeling.substack.com/p/historically-4nf-explanations-are"
             },
             {
+                "title": "Start With the Go Standard Library",
+                "href": "https://matthewsanabria.dev/posts/start-with-the-go-standard-library/"
+            },
+            {
                 "title": "frood, an Alpine initramfs NAS",
                 "href": "https://words.filippo.io/dispatches/frood/"
             },
@@ -31,12 +35,12 @@
                 "href": "https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html"
             },
             {
-                "title": "A simple live calculator with tree-sitter + cranelift jit",
-                "href": "https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit"
-            },
-            {
                 "title": "funding.json - an open manifest for describing financial requirements for FOSS projects",
                 "href": "https://floss.fund/funding-manifest/"
+            },
+            {
+                "title": "A simple live calculator with tree-sitter + cranelift jit",
+                "href": "https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -63,16 +67,16 @@
                 "href": "https://groups.google.com/g/lua-l/c/UxDZSQEYbiA"
             },
             {
-                "title": "Start With the Go Standard Library",
-                "href": "https://matthewsanabria.dev/posts/start-with-the-go-standard-library/"
-            },
-            {
-                "title": "\u201cCommunicating Chorrectly with a Choreography\u201d is out",
-                "href": "https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/"
+                "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
+                "href": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/"
             },
             {
                 "title": "Alpine Linux 3.21",
                 "href": "https://alpinelinux.org/posts/Alpine-3.21.0-released.html"
+            },
+            {
+                "title": "\u201cCommunicating Chorrectly with a Choreography\u201d is out",
+                "href": "https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/"
             },
             {
                 "title": "The Acton Programming Language",
@@ -93,10 +97,6 @@
             {
                 "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
                 "href": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/"
-            },
-            {
-                "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
-                "href": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/"
             },
             {
                 "title": "Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations",
@@ -217,6 +217,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Blue Yonder SaaS giant breached by Termite ransomware gang",
+                "href": "https://www.bleepingcomputer.com/news/security/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/"
+            },
+            {
+                "title": "New Windows zero-day exposes NTLM credentials, gets unofficial patch",
+                "href": "https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/"
+            },
+            {
                 "title": "Crypto-stealing malware posing as a meeting app targets Web3 pros",
                 "href": "https://www.bleepingcomputer.com/news/security/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/"
             },
@@ -255,14 +263,6 @@
             {
                 "title": "Microsoft says having a TPM is \"non-negotiable\" for Windows 11",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/"
-            },
-            {
-                "title": "White House: Salt Typhoon hacked telcos in dozens of countries",
-                "href": "https://www.bleepingcomputer.com/news/security/white-house-salt-typhoon-hacked-telcos-in-dozens-of-countries/"
-            },
-            {
-                "title": "FBI shares tips on how to tackle AI-powered fraud schemes",
-                "href": "https://www.bleepingcomputer.com/news/security/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Google, Other OpenAI Rivals Make Their Own Big Announcements",
+                "href": "https://tech.slashdot.org/story/24/12/06/0145252/google-other-openai-rivals-make-their-own-big-announcements?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Mozilla Announces 'JavaScriptmas' - Daily Coding Challenges with a Chance at Prizes",
                 "href": "https://tech.slashdot.org/story/24/12/04/0138255/mozilla-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Could Evidence of Primordial Black Holes Be Hiding in Plain Sight?",
                 "href": "https://science.slashdot.org/story/24/12/04/2223255/could-evidence-of-primordial-black-holes-be-hiding-in-plain-sight?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Music Sector Workers Will Lose Nearly a Quarter of Their Income to AI in 4 Years, Study Suggests",
-                "href": "https://entertainment.slashdot.org/story/24/12/05/038224/music-sector-workers-will-lose-nearly-a-quarter-of-their-income-to-ai-in-4-years-study-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -710,20 +710,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Install Docker Natively on Android Phone and Use It as a Home Server",
+                "title": "Install postmarketOS on Android phone and use Docker as a home server",
                 "href": "https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/"
+            },
+            {
+                "title": "The Unplanned Impact of Mathematics (2011)",
+                "href": "https://www.nature.com/articles/475166a"
+            },
+            {
+                "title": "We fixed our documentation with the Di\u00e1taxis framework",
+                "href": "https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/"
             },
             {
                 "title": "Show HN: BunkerWeb \u2013 The Open-Source Web Application Firewall (WAF)",
                 "href": "https://github.com/bunkerity/bunkerweb"
             },
             {
-                "title": "The Unplanned Impact of Mathematics",
-                "href": "https://www.nature.com/articles/475166a"
-            },
-            {
-                "title": "We fixed our documentation with the Di\u00e1taxis framework",
-                "href": "https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/"
+                "title": "TikTok divestment law upheld by federal appeals court",
+                "href": "https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html"
             },
             {
                 "title": "Show HN: Hacker Herald \u2013 like HN but with crowdsourced pics and subtitles",
@@ -738,14 +742,6 @@
                 "href": "https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine"
             },
             {
-                "title": "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
-                "href": "https://github.com/trailbaseio/trailbase"
-            },
-            {
-                "title": "Debian opens a can of username worms",
-                "href": "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
-            },
-            {
                 "title": "Romania cancels election after systems targeted in cyberattacks",
                 "href": "https://www.techradar.com/pro/romania-cancels-election-after-systems-targeted-in-cyberattacks-over-85-000-times"
             },
@@ -754,20 +750,24 @@
                 "href": "https://phys.org/news/2024-11-rna-crispr-reveals-hundreds-noncoding.html"
             },
             {
-                "title": "ChatGPT Pro",
-                "href": "https://openai.com/index/introducing-chatgpt-pro/"
+                "title": "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
+                "href": "https://github.com/trailbaseio/trailbase"
+            },
+            {
+                "title": "Debian opens a can of username worms",
+                "href": "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/"
             },
             {
                 "title": "Portland airport grows with expansive mass timber roof canopy",
                 "href": "https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/"
             },
             {
-                "title": "TikTok divestment law upheld by federal appeals court",
-                "href": "https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html"
-            },
-            {
                 "title": "RankScience (YC W17) is hiring to supercharge SEO for startups",
                 "href": "https://remotejobs.org/companies/rankscience-remote-jobs"
+            },
+            {
+                "title": "Contradictions in photography advice",
+                "href": "https://medium.com/@shacker/photography-contradictions-0566b7fce9fc"
             },
             {
                 "title": "Can a Comma Solve a Crime?",
@@ -778,32 +778,40 @@
                 "href": "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail"
             },
             {
-                "title": "Show HN: Piazza, syncing the web in a vectorized DB",
-                "href": "http://piazza.tech"
-            },
-            {
                 "title": "Constraints Are Good: Python's Metadata Dilemma",
                 "href": "https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/"
+            },
+            {
+                "title": "Faux Friendship (2009)",
+                "href": "https://www.utne.com/mind-and-body/faux-friendship-facebook/"
             },
             {
                 "title": "The 70% problem: Hard truths about AI-assisted coding",
                 "href": "https://addyo.substack.com/p/the-70-problem-hard-truths-about"
             },
             {
-                "title": "Contradictions in Photography Advice",
-                "href": "https://medium.com/@shacker/photography-contradictions-0566b7fce9fc"
-            },
-            {
-                "title": "Gordon Letwin OS/2 Usenet post (1995)",
-                "href": "https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post"
+                "title": "Show HN: Piazza, syncing the web in a vectorized DB",
+                "href": "http://piazza.tech"
             },
             {
                 "title": "There Are No More Dogs in Antarctica",
                 "href": "https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html"
             },
             {
+                "title": "Gordon Letwin OS/2 Usenet post (1995)",
+                "href": "https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post"
+            },
+            {
                 "title": "Reverse engineering the Ravensburger TipToi pen",
                 "href": "https://github.com/entropia/tip-toi-reveng"
+            },
+            {
+                "title": "Sensible SQLite Defaults",
+                "href": "https://briandouglas.ie/sqlite-defaults/"
+            },
+            {
+                "title": "Rivian Is Opening Its Charging Network to Other EVs",
+                "href": "https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs"
             },
             {
                 "title": "Gitlab names Bill Staples as new CEO",
@@ -814,20 +822,12 @@
                 "href": "https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/"
             },
             {
-                "title": "Rivian Is Opening Its Charging Network to Other EVs",
-                "href": "https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs"
-            },
-            {
-                "title": "Sensible SQLite Defaults",
-                "href": "https://briandouglas.ie/sqlite-defaults/"
+                "title": "Why is printer ink so expensive?",
+                "href": "https://www.digitalrightsbytes.org/topics/why-is-printer-ink-so-expensive"
             },
             {
                 "title": "Lossless Log Aggregation \u2013 Reduce Log Volume by 99% Without Dropping Data",
                 "href": "https://bit.kevinslin.com/p/lossless-log-aggregation"
-            },
-            {
-                "title": "PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning",
-                "href": "https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/"
             }
         ]
     }
