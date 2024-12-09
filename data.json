@@ -15,16 +15,20 @@
                 "href": "https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/"
             },
             {
+                "title": "Himalaya, CLI to manage emails: v1.0.0",
+                "href": "https://github.com/pimalaya/himalaya"
+            },
+            {
+                "title": "Memory-safe PNG decoders now vastly outperform C PNG libraries",
+                "href": "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
+            },
+            {
                 "title": "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
                 "href": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
             },
             {
                 "title": "How to Think About Time",
                 "href": "https://errorprone.info/docs/time"
-            },
-            {
-                "title": "Memory-safe PNG decoders now vastly outperform C PNG libraries",
-                "href": "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
             },
             {
                 "title": "Douglas Crockford Is Not Your Dad",
@@ -35,40 +39,36 @@
                 "href": "https://rubenerd.com/the-rule-of-least-client-side-complexity/"
             },
             {
-                "title": "Himalaya, CLI to manage emails: v1.0.0",
-                "href": "https://github.com/pimalaya/himalaya"
+                "title": "Parsing MIDI messages in Rust",
+                "href": "https://www.ntietz.com/blog/parsing-midi-rust/"
             },
             {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/okuhp0/what_are_you_doing_this_week"
             },
             {
-                "title": "Parsing MIDI messages in Rust",
-                "href": "https://www.ntietz.com/blog/parsing-midi-rust/"
-            },
-            {
-                "title": "What are the Magical Clocks for?",
-                "href": "https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/"
+                "title": "Rust Futures are not guaranteed to be lazy",
+                "href": "https://swatinem.de/blog/non-lazy-futures/"
             },
             {
                 "title": "TOML for configuration",
                 "href": "https://blog.nonstopio.com/toml-for-configuration-d6472e730997"
             },
             {
-                "title": "Rust Futures are not guaranteed to be lazy",
-                "href": "https://swatinem.de/blog/non-lazy-futures/"
-            },
-            {
                 "title": "Apple\u2019s use of Swift and SwiftUI in iOS 18",
                 "href": "https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/"
             },
             {
-                "title": "Parsing millions of URLs per second",
-                "href": "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296"
+                "title": "What are the Magical Clocks for?",
+                "href": "https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/"
             },
             {
                 "title": "C has its limits. If you know where to look",
                 "href": "https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/"
+            },
+            {
+                "title": "Parsing millions of URLs per second",
+                "href": "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296"
             },
             {
                 "title": "Dual_EC_DRBG with Justin Schuh and Matthew Green",
@@ -77,6 +77,10 @@
             {
                 "title": "Protected mode support in the original Windows 3.0 was basically a 1-man skunkworks project",
                 "href": "https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/"
+            },
+            {
+                "title": "Building a Tiny CDN With pyinfra and Chimera Linux",
+                "href": "https://www.wezm.net/v2/posts/2024/tiny-cdn/"
             },
             {
                 "title": "qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt",
@@ -97,10 +101,6 @@
             {
                 "title": "How do I pay the publisher of a web page?",
                 "href": "https://sethmlarson.dev/how-to-i-pay-for-a-web-page"
-            },
-            {
-                "title": "testing/synctest experiment for time and concurrency testing",
-                "href": "https://danp.net/posts/synctest-experiment/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "IT Giant Favored Indian H-1B Workers Over US Employees",
+                "href": "https://it.slashdot.org/story/24/12/09/2131229/it-giant-favored-indian-h-1b-workers-over-us-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "OpenAI Launches Sora Video Generator",
                 "href": "https://slashdot.org/story/24/12/09/2122253/openai-launches-sora-video-generator?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Elon Musk's X Upgrades Grok AI Chatbot with Image Generating",
                 "href": "https://tech.slashdot.org/story/24/12/08/1944206/elon-musks-x-upgrades-grok-ai-chatbot-with-image-generating?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Small AI Chip Maker Marvell is Now More Valuable Than Intel",
-                "href": "https://hardware.slashdot.org/story/24/12/08/1753204/small-ai-chip-maker-marvell-is-now-more-valuable-than-intel?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -722,108 +722,108 @@
                 "href": "https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/"
             },
             {
-                "title": "Fire Risk Assessment of Battery Home Storage Compared to General House Fires",
-                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517"
-            },
-            {
                 "title": "Trellis \u2013 3D mesh generative model",
                 "href": "https://trellis3d.github.io/"
+            },
+            {
+                "title": "Fire Risk Assessment of Battery Home Storage Compared to General House Fires",
+                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517"
             },
             {
                 "title": "Himalaya: CLI to Manage Emails",
                 "href": "https://github.com/pimalaya/himalaya"
             },
             {
-                "title": "The Theory and Technique of Electronic Music (2006)",
-                "href": "https://msp.ucsd.edu/techniques.htm"
+                "title": "Bazel 8.0 Released",
+                "href": "https://github.com/bazelbuild/bazel/releases/tag/8.0.0"
             },
             {
-                "title": "Software Developer Arrested in Connection with Murder of Healthcare Executive",
-                "href": "https://www.bbc.com/news/articles/cp9nxee2r0do"
+                "title": "The Theory and Technique of Electronic Music (2006)",
+                "href": "https://msp.ucsd.edu/techniques.htm"
             },
             {
                 "title": "Task-Specific LLM Evals That Do and Don't Work",
                 "href": "https://eugeneyan.com/writing/evals/"
             },
             {
-                "title": "God Plays Chess (2018)",
-                "href": "https://en.chessbase.com/post/how-god-plays-chess"
-            },
-            {
                 "title": "Compromising OpenWrt Supply Chain",
                 "href": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
             },
             {
-                "title": "Kafka's Screwball Tragedy: Investigations of a Philosophical Dog",
-                "href": "https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/"
+                "title": "LLM Abstraction levels inspired by Fish Eye lens",
+                "href": "https://wattenberger.com/thoughts/fish-eye"
             },
             {
                 "title": "A simple way to scale pixel art games",
                 "href": "https://30fps.net/pages/pixelart-scaling/"
             },
             {
-                "title": "Atoms for Peace: Learning to Love the Bomb",
-                "href": "https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb"
+                "title": "I made a satellite ion thruster [video]",
+                "href": "https://www.youtube.com/watch?v=dfYSBlV90NQ"
             },
             {
-                "title": "unverified",
-                "href": "https://www.youtube.com/watch?v=bdhs9g3Wwg0"
+                "title": "Kafka's Screwball Tragedy: Investigations of a Philosophical Dog",
+                "href": "https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/"
+            },
+            {
+                "title": "AI Company That Made Robots for Children Went Bust and Now the Robots Are Dying",
+                "href": "https://aftermath.site/moxie-robot-ai-dying-llm-embodied"
+            },
+            {
+                "title": "Atoms for Peace: Learning to Love the Bomb",
+                "href": "https://www.historytoday.com/archive/history-matters/atoms-peace-learning-love-bomb"
             },
             {
                 "title": "Noise Filtering Using \u20ac1 Filter (2020)",
                 "href": "https://jaantollander.com/post/noise-filtering-using-one-euro-filter/"
             },
             {
-                "title": "MagiskSSH \u2013 SSH server on Android without Termux",
-                "href": "https://gitlab.com/d4rcm4rc/MagiskSSH"
+                "title": "Knight TV Resurrection (2018)",
+                "href": "http://pdp-6.net/knight-tv/knight-tv.html"
             },
             {
                 "title": "Starlark Programming Language",
                 "href": "https://starlark-lang.org/"
             },
             {
-                "title": "Knight TV Resurrection (2018)",
-                "href": "http://pdp-6.net/knight-tv/knight-tv.html"
+                "title": "MagiskSSH \u2013 SSH server on Android without Termux",
+                "href": "https://gitlab.com/d4rcm4rc/MagiskSSH"
             },
             {
                 "title": "True Crime: Allan Pinkerton's Thirty Years a Detective (1884)",
                 "href": "https://publicdomainreview.org/collection/pinkerton-thirty-years-a-detective/"
             },
             {
-                "title": "Laylo (YC S20) Is Hiring an Account Manager in EU/UK",
-                "href": "https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager"
+                "title": "God Plays Chess (2018)",
+                "href": "https://en.chessbase.com/post/how-god-plays-chess"
             },
             {
-                "title": "I made a satellite ion thruster [video]",
-                "href": "https://www.youtube.com/watch?v=dfYSBlV90NQ"
+                "title": "Laylo (YC S20) Is Hiring an Account Manager in EU/UK",
+                "href": "https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager"
             },
             {
                 "title": "A woman appeared on the English stage on this day in 1660",
                 "href": "https://www.smithsonianmag.com/smart-news/a-woman-appeared-on-the-english-stage-for-the-first-time-on-this-day-in-1660-transforming-the-world-of-theater-forever-180985557/"
             },
             {
-                "title": "Mise: Dev tools, env vars, task runner",
-                "href": "https://github.com/jdx/mise"
-            },
-            {
                 "title": "China's Salt Typhoon recorded top American officials' calls, says White House",
                 "href": "https://www.theregister.com/2024/12/09/white_house_salt_typhoon/"
+            },
+            {
+                "title": "Mise: Dev tools, env vars, task runner",
+                "href": "https://github.com/jdx/mise"
             },
             {
                 "title": "Efficient Track Anything",
                 "href": "https://yformer.github.io/efficient-track-anything/"
             },
             {
+                "title": "Show HN: Ternary Computer System",
+                "href": "https://www.ternary-computing.com/history/CPU-History.html"
+            },
+            {
                 "title": "How to Reverse Engineer a 12 EUR Intel PCIe FPGA Card IBM 98Y2610",
                 "href": "https://www.circuitvalley.com/2024/12/how-to-reverse-engineering-12-eur-intel-fpga-board.html"
-            },
-            {
-                "title": "1,600 days of a failed hobby data science project",
-                "href": "https://lellep.xyz/blog/failed-data-science-project.html"
-            },
-            {
-                "title": "How much do I need to change my face to avoid facial recognition?",
-                "href": "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755"
             }
         ]
     }
