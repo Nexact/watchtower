@@ -31,12 +31,16 @@
                 "href": "https://asindu.xyz/posts/switching-to-firefox/"
             },
             {
+                "title": "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
+                "href": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
+            },
+            {
                 "title": "The errors of TeX",
                 "href": "https://yurichev.com/mirrors/knuth1989.pdf"
             },
             {
-                "title": "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
-                "href": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
+                "title": "Data structures as jigs for programmers (Go edition) \u2013 Daniel Lemire's blog",
+                "href": "https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/"
             },
             {
                 "title": "OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts",
@@ -97,10 +101,6 @@
             {
                 "title": "Maliciously crafted GitHub branch name embeds crypto miner into a released package",
                 "href": "https://github.com/ultralytics/ultralytics/issues/18027"
-            },
-            {
-                "title": "Designing a const `array::from_fn` in stable Rust",
-                "href": "https://13ros27.github.io/blog/const-array-from-fn/"
             }
         ]
     },
@@ -714,36 +714,40 @@
                 "href": "https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/"
             },
             {
-                "title": "Lethal Dose of 55 Substances",
-                "href": "https://www.visualistan.com/2021/03/the-lethal-doses-of-55-substances.html"
+                "title": "Y2K",
+                "href": "https://www.y2k.movie/"
             },
             {
-                "title": "CT Scans of New vs. Used SawStop",
-                "href": "https://www.lumafield.com/article/new-vs-used-sawstop"
+                "title": "How to Create Intelligently Self-Modifying Software (Framework Release Soon)",
+                "href": "https://github.com/EricArthurBlair1010/semantic_inference_programming_information"
             },
             {
                 "title": "Good union types in Go would probably need types without a zero value",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues"
             },
             {
+                "title": "CT Scans of New vs. Used SawStop",
+                "href": "https://www.lumafield.com/article/new-vs-used-sawstop"
+            },
+            {
                 "title": "The Smallest Thing in Go",
                 "href": "https://bitfieldconsulting.com/posts/iota"
-            },
-            {
-                "title": "JSON5 \u2013 JSON for Humans",
-                "href": "https://json5.org/"
-            },
-            {
-                "title": "Y2K",
-                "href": "https://www.y2k.movie/"
             },
             {
                 "title": "1,600 days of a failed hobby data science project",
                 "href": "https://lellep.xyz/blog/failed-data-science-project.html"
             },
             {
+                "title": "The Hexagonal Tiling Honeycomb",
+                "href": "https://arxiv.org/abs/2412.00048"
+            },
+            {
                 "title": "Efficient Track Anything",
                 "href": "https://yformer.github.io/efficient-track-anything/"
+            },
+            {
+                "title": "JSON5 \u2013 JSON for Humans",
+                "href": "https://json5.org/"
             },
             {
                 "title": "Chuck E. Cheese's animatronics band bows out",
@@ -758,32 +762,28 @@
                 "href": "https://github.com/jdx/mise"
             },
             {
-                "title": "Misinformation fuels outrage and mindless social-media shares \u2013 study",
-                "href": "https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share"
-            },
-            {
-                "title": "How to Create Intelligently Self-Modifying Software (Framework Release Soon)",
-                "href": "https://github.com/EricArthurBlair1010/semantic_inference_programming_information"
-            },
-            {
                 "title": "Show HN: A portable hash map in C",
                 "href": "https://github.com/e-dant/salmagundi"
+            },
+            {
+                "title": "Black Hat Rust",
+                "href": "https://github.com/skerkour/black-hat-rust"
             },
             {
                 "title": "Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4",
                 "href": "https://hackerone.com/reports/2887487"
             },
             {
-                "title": "Replace Philips Hue Automation with Home Assistant's",
-                "href": "https://blog.frankel.ch/home-assistant/3/"
-            },
-            {
                 "title": "How much do I need to change my face to avoid facial recognition?",
                 "href": "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755"
             },
             {
-                "title": "Black Hat Rust",
-                "href": "https://github.com/skerkour/black-hat-rust"
+                "title": "Replace Philips Hue Automation with Home Assistant's",
+                "href": "https://blog.frankel.ch/home-assistant/3/"
+            },
+            {
+                "title": "Misinformation fuels outrage and mindless social-media shares \u2013 study",
+                "href": "https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share"
             },
             {
                 "title": "The Rules of Programming (2023)",
@@ -794,18 +794,6 @@
                 "href": "https://cut-the-crab.streamlit.app/"
             },
             {
-                "title": "How to measure frequency response of a speaker at home",
-                "href": "https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/"
-            },
-            {
-                "title": "The Hexagonal Tiling Honeycomb",
-                "href": "https://arxiv.org/abs/2412.00048"
-            },
-            {
-                "title": "2M MPH galaxy smash-up seen in unprecedented detail",
-                "href": "https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html"
-            },
-            {
                 "title": "VictoriaLogs: A Grafana Dashboard for AWS VPC Flow Logs \u2013 Migrating from Grafan",
                 "href": "https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki/"
             },
@@ -814,16 +802,28 @@
                 "href": "https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/"
             },
             {
-                "title": "A Year of WordHopper \u2013 Modern DOS Game Development Retrospective",
-                "href": "https://kokoscript.com/2024/015.html"
+                "title": "2M MPH galaxy smash-up seen in unprecedented detail",
+                "href": "https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html"
             },
             {
                 "title": "Derivative at a Discontinuity",
                 "href": "https://alok.github.io/2024/09/28/discontinuous-derivative/"
             },
             {
+                "title": "A Year of WordHopper \u2013 Modern DOS Game Development Retrospective",
+                "href": "https://kokoscript.com/2024/015.html"
+            },
+            {
+                "title": "How to measure frequency response of a speaker at home",
+                "href": "https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/"
+            },
+            {
                 "title": "Testosterone, sexual desire and courtship efforts association in young men",
                 "href": "https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508"
+            },
+            {
+                "title": "Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention",
+                "href": "https://github.com/singlr-ai/nocaptcha"
             }
         ]
     }
