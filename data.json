@@ -35,16 +35,20 @@
                 "href": "https://yurichev.com/mirrors/knuth1989.pdf"
             },
             {
+                "title": "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
+                "href": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
+            },
+            {
+                "title": "OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts",
+                "href": "https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds"
+            },
+            {
                 "title": "testing/synctest experiment for time and concurrency testing",
                 "href": "https://danp.net/posts/synctest-experiment/"
             },
             {
                 "title": "VictoriaLogs: a Grafana dashboard for AWS VPC Flow Logs \u2013 migrating from Grafana Loki",
                 "href": "https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki"
-            },
-            {
-                "title": "OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts",
-                "href": "https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds"
             },
             {
                 "title": "Defusing AGPL-3 With Batch Processing",
@@ -97,10 +101,6 @@
             {
                 "title": "Designing a const `array::from_fn` in stable Rust",
                 "href": "https://13ros27.github.io/blog/const-array-from-fn/"
-            },
-            {
-                "title": "How to manage services in FreeBSD jails with Ansible",
-                "href": "https://tudorr.ro/blog/ansible-service-in-jail/"
             }
         ]
     },
@@ -597,6 +597,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Compromising OpenWrt Supply Chain",
+                "href": "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
+            },
+            {
                 "title": "Why Gelsinger was wrong for Intel",
                 "href": "https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/"
             },
@@ -605,76 +609,76 @@
                 "href": "https://www.lumafield.com/article/new-vs-used-sawstop"
             },
             {
-                "title": "Y2K",
-                "href": "https://www.y2k.movie/"
+                "title": "JSON5 \u2013 JSON for Humans",
+                "href": "https://json5.org/"
             },
             {
-                "title": "Good union types in Go would probably need types without a zero value",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues"
+                "title": "Y2K",
+                "href": "https://www.y2k.movie/"
             },
             {
                 "title": "The Smallest Thing in Go",
                 "href": "https://bitfieldconsulting.com/posts/iota"
             },
             {
-                "title": "JSON5 \u2013 JSON for Humans",
-                "href": "https://json5.org/"
-            },
-            {
-                "title": "Black Hat Rust",
-                "href": "https://github.com/skerkour/black-hat-rust"
-            },
-            {
-                "title": "Misinformation fuels outrage and mindless social-media shares \u2013 study",
-                "href": "https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share"
+                "title": "Good union types in Go would probably need types without a zero value",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesAndZeroValues"
             },
             {
                 "title": "1,600 days of a failed hobby data science project",
                 "href": "https://lellep.xyz/blog/failed-data-science-project.html"
             },
             {
-                "title": "Chuck E. Cheese's animatronics band bows out",
-                "href": "https://spectrum.ieee.org/chuck-e-cheese-animatronics"
+                "title": "Misinformation fuels outrage and mindless social-media shares \u2013 study",
+                "href": "https://insight.kellogg.northwestern.edu/article/feeling-outraged-think-twice-before-hitting-share"
             },
             {
-                "title": "Show HN: A portable hash map in C",
-                "href": "https://github.com/e-dant/salmagundi"
+                "title": "Black Hat Rust",
+                "href": "https://github.com/skerkour/black-hat-rust"
+            },
+            {
+                "title": "Chuck E. Cheese's animatronics band bows out",
+                "href": "https://spectrum.ieee.org/chuck-e-cheese-animatronics"
             },
             {
                 "title": "Broward Co. to vacate convictions for buying crack made by Sheriff's Office",
                 "href": "https://cbs12.com/news/local/broward-county-to-vacate-convictions-for-people-who-bought-crack-made-by-sheriffs-office-supreme-court-reverse-sting-1993-ruling-state-attorney"
             },
             {
-                "title": "Mise: Dev tools, env vars, task runner",
-                "href": "https://github.com/jdx/mise"
-            },
-            {
-                "title": "How much do I need to change my face to avoid facial recognition?",
-                "href": "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755"
-            },
-            {
-                "title": "Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4",
-                "href": "https://hackerone.com/reports/2887487"
-            },
-            {
-                "title": "The Rules of Programming (2023)",
-                "href": "https://www.therulesofprogramming.com"
-            },
-            {
-                "title": "Show HN: Cut the crap \u2013 remove AI bullshit from websites",
-                "href": "https://cut-the-crab.streamlit.app/"
-            },
-            {
-                "title": "Replace Philips Hue Automation with Home Assistant's",
-                "href": "https://blog.frankel.ch/home-assistant/3/"
+                "title": "Show HN: A portable hash map in C",
+                "href": "https://github.com/e-dant/salmagundi"
             },
             {
                 "title": "Efficient Track Anything",
                 "href": "https://yformer.github.io/efficient-track-anything/"
             },
             {
-                "title": "2M MPH galaxy smash-up seen in unprecedented detail",
-                "href": "https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html"
+                "title": "Mise: Dev tools, env vars, task runner",
+                "href": "https://github.com/jdx/mise"
+            },
+            {
+                "title": "Replace Philips Hue Automation with Home Assistant's",
+                "href": "https://blog.frankel.ch/home-assistant/3/"
+            },
+            {
+                "title": "Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4",
+                "href": "https://hackerone.com/reports/2887487"
+            },
+            {
+                "title": "How to measure frequency response of a speaker at home",
+                "href": "https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/"
+            },
+            {
+                "title": "How much do I need to change my face to avoid facial recognition?",
+                "href": "https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755"
+            },
+            {
+                "title": "Show HN: Cut the crap \u2013 remove AI bullshit from websites",
+                "href": "https://cut-the-crab.streamlit.app/"
+            },
+            {
+                "title": "The Rules of Programming (2023)",
+                "href": "https://www.therulesofprogramming.com"
             },
             {
                 "title": "A Year of WordHopper \u2013 Modern DOS Game Development Retrospective",
@@ -689,6 +693,10 @@
                 "href": "https://news.utexas.edu/2024/11/27/researchers-use-ai-to-turn-sound-recordings-into-accurate-street-images/"
             },
             {
+                "title": "2M MPH galaxy smash-up seen in unprecedented detail",
+                "href": "https://phys.org/news/2024-11-million-mph-galaxy-unprecedented.html"
+            },
+            {
                 "title": "Derivative at a Discontinuity",
                 "href": "https://alok.github.io/2024/09/28/discontinuous-derivative/"
             },
@@ -697,24 +705,16 @@
                 "href": "https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508"
             },
             {
-                "title": "Blizzard Changed Their Mind, Then GOG Humiliated Them [video]",
-                "href": "https://www.youtube.com/watch?v=csyF67DwI4w"
-            },
-            {
-                "title": "Ask HN: What are the best programmable holiday lights?",
-                "href": "item?id=42341809"
+                "title": "Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize",
+                "href": "https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize"
             },
             {
                 "title": "Show HN: Replace CAPTCHAs with WebAuthn passkeys for bot prevention",
                 "href": "https://github.com/singlr-ai/nocaptcha"
             },
             {
-                "title": "Science Fiction Writer Ted Chiang Wins Pen/Malamud Prize",
-                "href": "https://www.npr.org/2024/12/07/nx-s1-5191694/science-fiction-writer-ted-chiang-wins-pen-malamud-prize"
-            },
-            {
-                "title": "Zizmor would have caught the Ultralytics workflow vulnerability",
-                "href": "https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection"
+                "title": "Ask HN: What are the best programmable holiday lights?",
+                "href": "item?id=42341809"
             }
         ]
     }
