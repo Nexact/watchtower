@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "I can now run a GPT-4 class model on my laptop",
-                "href": "https://simonwillison.net/2024/Dec/9/llama-33-70b/"
-            },
-            {
                 "title": "Memory-safe PNG decoders now vastly outperform C PNG libraries",
                 "href": "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
+            },
+            {
+                "title": "I can now run a GPT-4 class model on my laptop",
+                "href": "https://simonwillison.net/2024/Dec/9/llama-33-70b/"
             },
             {
                 "title": "Reducing CO\u2082 emissions with faster software",
@@ -19,10 +19,6 @@
                 "href": "https://github.com/pimalaya/himalaya"
             },
             {
-                "title": "The Shepherd 1.0.0 released: the init system written in Scheme",
-                "href": "https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/"
-            },
-            {
                 "title": "Common Misconceptions about Compilers",
                 "href": "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
             },
@@ -31,12 +27,20 @@
                 "href": "https://ashleemboyer.com/blog/pull-request-template/"
             },
             {
+                "title": "The Shepherd 1.0.0 released: the init system written in Scheme",
+                "href": "https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/"
+            },
+            {
                 "title": "Tree Calculus",
                 "href": "https://treecalcul.us"
             },
             {
                 "title": "Filesystems can tell the kernel to panic",
                 "href": "https://infosec.exchange/@wdormann/113625346544970814"
+            },
+            {
+                "title": "Lobelia URL State Codecs: for encoding arbitrary state trees into URL parameters and back again",
+                "href": "https://github.com/Lobelia-Earth/url-state-codecs"
             },
             {
                 "title": "An experimental (e)shell pager",
@@ -87,20 +91,16 @@
                 "href": "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296"
             },
             {
+                "title": "PyPIM: Integrating Digital Processing-in-Memory from Microarchitectural Design to Python Tensors",
+                "href": "https://arxiv.org/html/2308.14007v2"
+            },
+            {
                 "title": "Quantum error correction below the surface code threshold",
                 "href": "https://arxiv.org/html/2408.13687v1"
             },
             {
                 "title": "The AI we deserve",
                 "href": "https://www.bostonreview.net/forum/the-ai-we-deserve/"
-            },
-            {
-                "title": "Parsing MIDI messages in Rust",
-                "href": "https://www.ntietz.com/blog/parsing-midi-rust/"
-            },
-            {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/okuhp0/what_are_you_doing_this_week"
             }
         ]
     },
@@ -476,6 +476,34 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "MOBATIME Network Master Clock",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-01"
+            },
+            {
+                "title": "Horner Automation Cscape",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-05"
+            },
+            {
+                "title": "Rockwell Automation Arena",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-06"
+            },
+            {
+                "title": "CISA Releases Seven Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-releases-seven-industrial-control-systems-advisories"
+            },
+            {
+                "title": "Schneider Electric EcoStruxure Foxboro DCS Core Control Services",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-02"
+            },
+            {
+                "title": "National Instruments LabVIEW",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-04"
+            },
+            {
+                "title": "Schneider Electric FoxRTU Station",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-03"
+            },
+            {
                 "title": "ASD\u2019s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/asds-acsc-cisa-and-us-and-international-partners-release-guidance-choosing-secure-and-verifiable"
             },
@@ -488,12 +516,12 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/cisco-releases-security-updates-nx-os-software"
             },
             {
-                "title": "CISA Releases Two Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/cisa-releases-two-industrial-control-systems-advisories"
-            },
-            {
                 "title": "AutomationDirect C-More EA9 Programming Software",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-340-01"
+            },
+            {
+                "title": "CISA Releases Two Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/cisa-releases-two-industrial-control-systems-advisories"
             },
             {
                 "title": "CISA Releases New Public Version of CDM Data Model Document",
@@ -508,28 +536,16 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-05"
             },
             {
-                "title": "Open Automation Software",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-03"
-            },
-            {
                 "title": "Fuji Electric Tellus Lite V-Simulator",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-06"
             },
             {
+                "title": "Open Automation Software",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-03"
+            },
+            {
                 "title": "Ruijie Reyee OS (Update A)",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-01"
-            },
-            {
-                "title": "CISA Releases Eight Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-releases-eight-industrial-control-systems-advisories"
-            },
-            {
-                "title": "CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-and-partners-release-joint-guidance-prc-affiliated-threat-actor-compromising-networks-global"
-            },
-            {
-                "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-adds-three-known-exploited-vulnerabilities-catalog"
             },
             {
                 "title": "ICONICS and Mitsubishi Electric Products",
@@ -540,60 +556,44 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-02"
             },
             {
-                "title": "Hitachi Energy MicroSCADA Pro/X SYS600",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-04"
+                "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-adds-three-known-exploited-vulnerabilities-catalog"
             },
             {
-                "title": "Schneider Electric EcoStruxure Control Expert, EcoStruxure Process Expert, and Modicon M340, M580 and M580 Safety PLCs",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-03"
+                "title": "CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-and-partners-release-joint-guidance-prc-affiliated-threat-actor-compromising-networks-global"
             },
             {
-                "title": "Schneider Electric PowerLogic PM55xx and PowerLogic PM8ECC",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-01"
-            },
-            {
-                "title": "Schneider Electric PowerLogic P5",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-02"
-            },
-            {
-                "title": "Hitachi Energy RTU500 Scripting Interface",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-05"
+                "title": "CISA Releases Eight Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-releases-eight-industrial-control-systems-advisories"
             },
             {
                 "title": "CISA Releases Six Industrial Control Systems Advisories",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/26/cisa-releases-six-industrial-control-systems-advisories"
             },
             {
+                "title": "Hitachi Energy RTU500 Scripting Interface",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-05"
+            },
+            {
+                "title": "Schneider Electric PowerLogic P5",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-02"
+            },
+            {
+                "title": "Hitachi Energy MicroSCADA Pro/X SYS600",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-04"
+            },
+            {
+                "title": "Schneider Electric PowerLogic PM55xx and PowerLogic PM8ECC",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-01"
+            },
+            {
+                "title": "Schneider Electric EcoStruxure Control Expert, EcoStruxure Process Expert, and Modicon M340, M580 and M580 Safety PLCs",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-03"
+            },
+            {
                 "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/25/cisa-adds-one-known-exploited-vulnerability-catalog"
-            },
-            {
-                "title": "CISA Releases Seven Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/21/cisa-releases-seven-industrial-control-systems-advisories"
-            },
-            {
-                "title": "Schneider Electric PowerLogic PM5300 Series",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-06"
-            },
-            {
-                "title": "mySCADA myPRO Manager",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-07"
-            },
-            {
-                "title": "OSCAT Basic Library",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-02"
-            },
-            {
-                "title": "CISA Releases Insights from Red Team Assessment of a U.S. Critical Infrastructure Sector Organization",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/21/cisa-releases-insights-red-team-assessment-us-critical-infrastructure-sector-organization"
-            },
-            {
-                "title": "Schneider Electric EcoStruxure IT Gateway",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-326-05"
-            },
-            {
-                "title": "Enhancing Cyber Resilience: Insights from CISA Red Team Assessment of a US Critical Infrastructure Sector Organization",
-                "href": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a"
             }
         ]
     },
@@ -605,6 +605,18 @@
                 "href": "item?id=42377018"
             },
             {
+                "title": "Colour in the Middle Ages",
+                "href": "https://www.medievalists.net/2024/06/colour-middle-ages/"
+            },
+            {
+                "title": "Show HN: HackerNews-new-jobs \u2013 insights into fresh and recurring job ads",
+                "href": "https://github.com/nemanjam/hn-new-jobs"
+            },
+            {
+                "title": "The Depths of Wikipedians",
+                "href": "https://asteriskmag.com/issues/08/the-depths-of-wikipedians"
+            },
+            {
                 "title": "Tree Calculus",
                 "href": "https://treecalcul.us/"
             },
@@ -613,24 +625,20 @@
                 "href": "https://blog.google/technology/research/google-willow-quantum-chip/"
             },
             {
-                "title": "Oldest known wild bird lays egg at 74",
-                "href": "https://www.bbc.co.uk/news/articles/c86w9n4jlvwo"
-            },
-            {
                 "title": "Sora is here",
                 "href": "https://openai.com/index/sora-is-here/"
             },
             {
-                "title": "BareMetal OS",
-                "href": "https://github.com/ReturnInfinity/BareMetal-OS"
-            },
-            {
-                "title": "Show HN: HackerNews-new-jobs \u2013 insights into fresh and recurring job ads",
-                "href": "https://github.com/nemanjam/hn-new-jobs"
+                "title": "Oldest known wild bird lays egg at 74",
+                "href": "https://www.bbc.co.uk/news/articles/c86w9n4jlvwo"
             },
             {
                 "title": "Semiconductors and Modern Industrial Policy",
                 "href": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81"
+            },
+            {
+                "title": "BareMetal OS",
+                "href": "https://github.com/ReturnInfinity/BareMetal-OS"
             },
             {
                 "title": "Debanking (and Debunking?)",
@@ -665,24 +673,20 @@
                 "href": "https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/"
             },
             {
-                "title": "Piskel \u2013 Free online editor for animated sprites and pixel art",
-                "href": "https://www.piskelapp.com/"
+                "title": "Wolfram Notebook Assistant",
+                "href": "https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/"
+            },
+            {
+                "title": "Xylella Fastidiosa: A crisis brewing in Europe's olive groves",
+                "href": "https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/"
             },
             {
                 "title": "The Theory and Technique of Electronic Music (2006)",
                 "href": "https://msp.ucsd.edu/techniques.htm"
             },
             {
-                "title": "Wolfram Notebook Assistant",
-                "href": "https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/"
-            },
-            {
                 "title": "Pierre Schaeffer looking back on his career in musique concr\u00e8te (1987)",
                 "href": "https://paul.mycpanel.princeton.edu/music242/shaefferinterview.html"
-            },
-            {
-                "title": "Xylella Fastidiosa: A crisis brewing in Europe's olive groves",
-                "href": "https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/"
             },
             {
                 "title": "Himalaya: CLI to Manage Emails",
@@ -693,32 +697,28 @@
                 "href": "https://www.bbc.com/news/articles/cp9nxee2r0do"
             },
             {
-                "title": "The Age of Chiplets Is Upon Us",
-                "href": "https://www.eetimes.com/the-age-of-chiplets-is-upon-us/"
-            },
-            {
                 "title": "Task-specific LLM evals that do and don't work",
                 "href": "https://eugeneyan.com/writing/evals/"
             },
             {
-                "title": "Show HN: I made Gyroscopic Gyro Sandwiches",
-                "href": "https://transistor-man.com/gyroscopic_gyros.html"
+                "title": "The Age of Chiplets Is Upon Us",
+                "href": "https://www.eetimes.com/the-age-of-chiplets-is-upon-us/"
             },
             {
                 "title": "Show HN: Ternary Computer System",
                 "href": "https://www.ternary-computing.com/history/CPU-History.html"
             },
             {
-                "title": "Zen and the Art of Aibo Engineering",
-                "href": "https://spectrum.ieee.org/aibo"
-            },
-            {
-                "title": "A simple way to scale pixel art games",
-                "href": "https://30fps.net/pages/pixelart-scaling/"
+                "title": "Show HN: I made Gyroscopic Gyro Sandwiches",
+                "href": "https://transistor-man.com/gyroscopic_gyros.html"
             },
             {
                 "title": "How life goes on after an earthquake: The \u2018Lego schools\u2019 of Lombok",
                 "href": "https://www.aljazeera.com/features/2024/7/7/how-life-goes-on-after-an-earthquake-the-lego-schools-of-lombok"
+            },
+            {
+                "title": "A simple way to scale pixel art games",
+                "href": "https://30fps.net/pages/pixelart-scaling/"
             }
         ]
     }
