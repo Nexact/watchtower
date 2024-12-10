@@ -7,12 +7,12 @@
                 "href": "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
             },
             {
-                "title": "I can now run a GPT-4 class model on my laptop",
-                "href": "https://simonwillison.net/2024/Dec/9/llama-33-70b/"
-            },
-            {
                 "title": "Common Misconceptions about Compilers",
                 "href": "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
+            },
+            {
+                "title": "I can now run a GPT-4 class model on my laptop",
+                "href": "https://simonwillison.net/2024/Dec/9/llama-33-70b/"
             },
             {
                 "title": "Filesystems can tell the kernel to panic",
@@ -43,6 +43,14 @@
                 "href": "https://github.com/Lobelia-Earth/url-state-codecs"
             },
             {
+                "title": "What are your favorite non-standard CLI utilities/applications",
+                "href": "https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli"
+            },
+            {
+                "title": "Limbo: A complete rewrite of SQLite in Rust",
+                "href": "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"
+            },
+            {
                 "title": "An experimental (e)shell pager",
                 "href": "https://lmno.lol/alvaro/an-experimental-e-shell-pager"
             },
@@ -55,8 +63,16 @@
                 "href": "https://swatinem.de/blog/non-lazy-futures/"
             },
             {
+                "title": "From where I left - <antirez>",
+                "href": "https://antirez.com/news/144"
+            },
+            {
                 "title": "Building a Tiny CDN With pyinfra and Chimera Linux",
                 "href": "https://www.wezm.net/v2/posts/2024/tiny-cdn/"
+            },
+            {
+                "title": "Mozilla Firefox removes \"Do Not Track\"",
+                "href": "https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/"
             },
             {
                 "title": "Binary Versioning 1.0.0",
@@ -85,22 +101,6 @@
             {
                 "title": "The rule of least client-side complexity",
                 "href": "https://rubenerd.com/the-rule-of-least-client-side-complexity/"
-            },
-            {
-                "title": "Parsing millions of URLs per second",
-                "href": "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296"
-            },
-            {
-                "title": "PyPIM: Integrating Digital Processing-in-Memory from Microarchitectural Design to Python Tensors",
-                "href": "https://arxiv.org/html/2308.14007v2"
-            },
-            {
-                "title": "Quantum error correction below the surface code threshold",
-                "href": "https://arxiv.org/html/2408.13687v1"
-            },
-            {
-                "title": "The AI we deserve",
-                "href": "https://www.bostonreview.net/forum/the-ai-we-deserve/"
             }
         ]
     },
@@ -120,12 +120,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1hawxkh/an_offensive_rust_encore/"
             },
             {
-                "title": "Performing Android Static Analysis 101-A Complete Guide for Beginners - Laburity",
-                "href": "https://www.reddit.com/r/netsec/comments/1hb24rs/performing_android_static_analysis_101a_complete/"
-            },
-            {
                 "title": "Write, debug and execute BOFs with bof-launcher library (part 1)",
                 "href": "https://www.reddit.com/r/netsec/comments/1hazxbw/write_debug_and_execute_bofs_with_boflauncher/"
+            },
+            {
+                "title": "Performing Android Static Analysis 101-A Complete Guide for Beginners - Laburity",
+                "href": "https://www.reddit.com/r/netsec/comments/1hb24rs/performing_android_static_analysis_101a_complete/"
             },
             {
                 "title": "The Ruby on Rails _json Juggling Attack",
@@ -714,12 +714,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Launch HN: Double (YC W24) \u2013 Index Investing with 0% Expense Ratios",
-                "href": "item?id=42377018"
-            },
-            {
                 "title": "From where I left",
                 "href": "https://antirez.com/news/144"
+            },
+            {
+                "title": "The Google Willow Thing",
+                "href": "https://scottaaronson.blog/?p=8525"
+            },
+            {
+                "title": "Launch HN: Double (YC W24) \u2013 Index Investing with 0% Expense Ratios",
+                "href": "item?id=42377018"
             },
             {
                 "title": "Training LLMs to Reason in a Continuous Latent Space",
@@ -734,24 +738,20 @@
                 "href": "https://www.medievalists.net/2024/06/colour-middle-ages/"
             },
             {
-                "title": "The Google Willow Thing",
-                "href": "https://scottaaronson.blog/?p=8525"
+                "title": "I Use AI 100 Times per Hour",
+                "href": "https://tomtunguz.com/ai-use-in-one-afternoon/"
             },
             {
                 "title": "Show HN: HackerNews-new-jobs \u2013 insights into fresh and recurring job ads",
                 "href": "https://github.com/nemanjam/hn-new-jobs"
             },
             {
-                "title": "I Use AI 100 Times per Hour",
-                "href": "https://tomtunguz.com/ai-use-in-one-afternoon/"
+                "title": "From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler",
+                "href": "https://github.com/hikettei/Caten"
             },
             {
                 "title": "Tree Calculus",
                 "href": "https://treecalcul.us/"
-            },
-            {
-                "title": "From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler",
-                "href": "https://github.com/hikettei/Caten"
             },
             {
                 "title": "Willow, Our Quantum Chip",
@@ -766,8 +766,24 @@
                 "href": "https://openai.com/index/sora-is-here/"
             },
             {
+                "title": "AI model for near-instant image creation on consumer-grade hardware",
+                "href": "https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware"
+            },
+            {
                 "title": "Oldest known wild bird lays egg at 74",
                 "href": "https://www.bbc.co.uk/news/articles/c86w9n4jlvwo"
+            },
+            {
+                "title": "Firefox removes \"do not track\" feature support",
+                "href": "https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/"
+            },
+            {
+                "title": "Ask HN: Git Alternatives \u2013 Sapling vs. Jj",
+                "href": "item?id=42351436"
+            },
+            {
+                "title": "AI slop is already invading Oregon's local journalism",
+                "href": "https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/"
             },
             {
                 "title": "BareMetal OS",
@@ -778,16 +794,20 @@
                 "href": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.38.4.81"
             },
             {
-                "title": "Mysterious, mathematical origins of world\u2019s most unusually shaped national flag",
-                "href": "https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html"
-            },
-            {
                 "title": "ALICE finds first ever evidence of the antimatter partner of hyperhelium-4",
                 "href": "https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4"
             },
             {
                 "title": "Debanking (and Debunking?)",
                 "href": "https://www.bitsaboutmoney.com/archive/debanking-and-debunking/"
+            },
+            {
+                "title": "Mysterious, mathematical origins of world\u2019s most unusually shaped national flag",
+                "href": "https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html"
+            },
+            {
+                "title": "Parsing Millions of DNS Records Per Second",
+                "href": "https://github.com/NLnetLabs/simdzone"
             },
             {
                 "title": "Common misconceptions about compilers",
@@ -798,40 +818,20 @@
                 "href": "https://trellis3d.github.io/"
             },
             {
-                "title": "Parsing Millions of DNS Records Per Second",
-                "href": "https://github.com/NLnetLabs/simdzone"
+                "title": "Show HN: I made Gyroscopic Gyro Sandwiches",
+                "href": "https://transistor-man.com/gyroscopic_gyros.html"
             },
             {
                 "title": "Long Convolutions via Polynomial Multiplication",
                 "href": "https://hazyresearch.stanford.edu/blog/2023-12-11-conv-tutorial"
             },
             {
-                "title": "Show HN: I made Gyroscopic Gyro Sandwiches",
-                "href": "https://transistor-man.com/gyroscopic_gyros.html"
-            },
-            {
-                "title": "LLM abstraction levels inspired by fish eye lens",
-                "href": "https://wattenberger.com/thoughts/fish-eye"
-            },
-            {
                 "title": "Wolfram Notebook Assistant",
                 "href": "https://writings.stephenwolfram.com/2024/12/useful-to-the-point-of-being-revolutionary-introducing-wolfram-notebook-assistant/"
             },
             {
-                "title": "Fire risk assessment of battery home storage compared to general house fires",
-                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4995517"
-            },
-            {
-                "title": "New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader",
-                "href": "https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/"
-            },
-            {
-                "title": "Xylella Fastidiosa: A crisis brewing in Europe's olive groves",
-                "href": "https://www.everymansci.com/society/xylella-fastidiosa-and-olive-oil-a-billion-euro-crisis-brewing-in-europes-olive-groves/"
-            },
-            {
-                "title": "The Theory and Technique of Electronic Music (2006)",
-                "href": "https://msp.ucsd.edu/techniques.htm"
+                "title": "LLM abstraction levels inspired by fish eye lens",
+                "href": "https://wattenberger.com/thoughts/fish-eye"
             }
         ]
     }
