@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Limbo: A complete rewrite of SQLite in Rust",
+                "href": "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"
+            },
+            {
                 "title": "Memory-safe PNG decoders now vastly outperform C PNG libraries",
                 "href": "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
             },
@@ -11,20 +15,16 @@
                 "href": "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
             },
             {
+                "title": "What are your favorite non-standard CLI utilities/applications",
+                "href": "https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli"
+            },
+            {
                 "title": "Filesystems can tell the kernel to panic",
                 "href": "https://infosec.exchange/@wdormann/113625346544970814"
             },
             {
                 "title": "I can now run a GPT-4 class model on my laptop",
                 "href": "https://simonwillison.net/2024/Dec/9/llama-33-70b/"
-            },
-            {
-                "title": "What are your favorite non-standard CLI utilities/applications",
-                "href": "https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli"
-            },
-            {
-                "title": "Limbo: A complete rewrite of SQLite in Rust",
-                "href": "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"
             },
             {
                 "title": "Tree Calculus",
@@ -43,16 +43,16 @@
                 "href": "https://github.com/pimalaya/himalaya"
             },
             {
+                "title": "From where I left",
+                "href": "https://antirez.com/news/144"
+            },
+            {
                 "title": "The Shepherd 1.0.0 released: the init system written in Scheme",
                 "href": "https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/"
             },
             {
                 "title": "Lobelia URL State Codecs: for encoding arbitrary state trees into URL parameters and back again",
                 "href": "https://github.com/Lobelia-Earth/url-state-codecs"
-            },
-            {
-                "title": "From where I left",
-                "href": "https://antirez.com/news/144"
             },
             {
                 "title": "Decentralised Open Indexes for Discovery (DOID)",
@@ -124,12 +124,12 @@
                 "href": "https://www.reddit.com/r/netsec/comments/1hazxbw/write_debug_and_execute_bofs_with_boflauncher/"
             },
             {
-                "title": "Performing Android Static Analysis 101-A Complete Guide for Beginners - Laburity",
-                "href": "https://www.reddit.com/r/netsec/comments/1hb24rs/performing_android_static_analysis_101a_complete/"
-            },
-            {
                 "title": "The Ruby on Rails _json Juggling Attack",
                 "href": "https://www.reddit.com/r/netsec/comments/1hay1ut/the_ruby_on_rails_json_juggling_attack/"
+            },
+            {
+                "title": "Performing Android Static Analysis 101-A Complete Guide for Beginners - Laburity",
+                "href": "https://www.reddit.com/r/netsec/comments/1hb24rs/performing_android_static_analysis_101a_complete/"
             },
             {
                 "title": "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
@@ -593,44 +593,56 @@
         "feedname": "cisa",
         "items": [
             {
-                "title": "MOBATIME Network Master Clock",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-01"
-            },
-            {
-                "title": "Horner Automation Cscape",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-05"
-            },
-            {
-                "title": "Rockwell Automation Arena",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-06"
-            },
-            {
-                "title": "CISA Releases Seven Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-releases-seven-industrial-control-systems-advisories"
-            },
-            {
                 "title": "Schneider Electric EcoStruxure Foxboro DCS Core Control Services",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-02"
-            },
-            {
-                "title": "National Instruments LabVIEW",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-04"
             },
             {
                 "title": "Schneider Electric FoxRTU Station",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-03"
             },
             {
-                "title": "ASD\u2019s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/asds-acsc-cisa-and-us-and-international-partners-release-guidance-choosing-secure-and-verifiable"
+                "title": "Microsoft Releases December 2024 Security Updates",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/10/microsoft-releases-december-2024-security-updates"
+            },
+            {
+                "title": "MOBATIME Network Master Clock",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-01"
+            },
+            {
+                "title": "CISA Releases Seven Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-releases-seven-industrial-control-systems-advisories"
+            },
+            {
+                "title": "National Instruments LabVIEW",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-04"
+            },
+            {
+                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/10/cisa-adds-one-known-exploited-vulnerability-catalog"
+            },
+            {
+                "title": "Rockwell Automation Arena",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-06"
+            },
+            {
+                "title": "Adobe Releases Security Updates for Multiple Products",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/10/adobe-releases-security-updates-multiple-products"
+            },
+            {
+                "title": "Horner Automation Cscape",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-345-05"
+            },
+            {
+                "title": "Cisco Releases Security Updates for NX-OS Software",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/cisco-releases-security-updates-nx-os-software"
             },
             {
                 "title": "Planet Technology Planet WGS-804HPT",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-340-02"
             },
             {
-                "title": "Cisco Releases Security Updates for NX-OS Software",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/cisco-releases-security-updates-nx-os-software"
+                "title": "ASD\u2019s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/asds-acsc-cisa-and-us-and-international-partners-release-guidance-choosing-secure-and-verifiable"
             },
             {
                 "title": "AutomationDirect C-More EA9 Programming Software",
@@ -641,24 +653,24 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/05/cisa-releases-two-industrial-control-systems-advisories"
             },
             {
-                "title": "CISA Releases New Public Version of CDM Data Model Document",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/04/cisa-releases-new-public-version-cdm-data-model-document"
-            },
-            {
                 "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/04/cisa-adds-one-known-exploited-vulnerability-catalog"
+            },
+            {
+                "title": "CISA Releases New Public Version of CDM Data Model Document",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/04/cisa-releases-new-public-version-cdm-data-model-document"
             },
             {
                 "title": "Fuji Electric Monitouch V-SFT",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-05"
             },
             {
-                "title": "Fuji Electric Tellus Lite V-Simulator",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-06"
-            },
-            {
                 "title": "Open Automation Software",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-03"
+            },
+            {
+                "title": "Fuji Electric Tellus Lite V-Simulator",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-338-06"
             },
             {
                 "title": "Ruijie Reyee OS (Update A)",
@@ -685,6 +697,10 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/03/cisa-releases-eight-industrial-control-systems-advisories"
             },
             {
+                "title": "Hitachi Energy MicroSCADA Pro/X SYS600",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-04"
+            },
+            {
                 "title": "CISA Releases Six Industrial Control Systems Advisories",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/11/26/cisa-releases-six-industrial-control-systems-advisories"
             },
@@ -695,22 +711,6 @@
             {
                 "title": "Schneider Electric PowerLogic P5",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-02"
-            },
-            {
-                "title": "Hitachi Energy MicroSCADA Pro/X SYS600",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-04"
-            },
-            {
-                "title": "Schneider Electric PowerLogic PM55xx and PowerLogic PM8ECC",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-01"
-            },
-            {
-                "title": "Schneider Electric EcoStruxure Control Expert, EcoStruxure Process Expert, and Modicon M340, M580 and M580 Safety PLCs",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-331-03"
-            },
-            {
-                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/11/25/cisa-adds-one-known-exploited-vulnerability-catalog"
             }
         ]
     },
@@ -742,32 +742,36 @@
                 "href": "https://arxiv.org/abs/2412.06769"
             },
             {
+                "title": "AI model for near-instant image creation on consumer-grade hardware",
+                "href": "https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware"
+            },
+            {
                 "title": "The Depths of Wikipedians",
                 "href": "https://asteriskmag.com/issues/08/the-depths-of-wikipedians"
+            },
+            {
+                "title": "Digital consumption keeps me from getting better at my job",
+                "href": "http://sibervepunk.com/digital-consumption.html"
             },
             {
                 "title": "Colour in the Middle Ages",
                 "href": "https://www.medievalists.net/2024/06/colour-middle-ages/"
             },
             {
-                "title": "AI model for near-instant image creation on consumer-grade hardware",
-                "href": "https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware"
-            },
-            {
-                "title": "U.S. math scores drop on major international test",
-                "href": "https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/"
+                "title": "AI slop is already invading Oregon's local journalism",
+                "href": "https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/"
             },
             {
                 "title": "Devin is now generally available",
                 "href": "https://www.cognition.ai/blog/devin-generally-available"
             },
             {
-                "title": "AI slop is already invading Oregon's local journalism",
-                "href": "https://www.opb.org/article/2024/12/09/artificial-intelligence-local-news-oregon-ashland/"
+                "title": "Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage",
+                "href": "https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368"
             },
             {
-                "title": "Show HN: HackerNews-new-jobs \u2013 insights into fresh and recurring job ads",
-                "href": "https://github.com/nemanjam/hn-new-jobs"
+                "title": "From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler",
+                "href": "https://github.com/hikettei/Caten"
             },
             {
                 "title": "Willow, Our Quantum Chip",
@@ -778,8 +782,8 @@
                 "href": "https://treecalcul.us/"
             },
             {
-                "title": "From Unemployment to Lisp: Running GPT-2 on a Teen's Deep Learning Compiler",
-                "href": "https://github.com/hikettei/Caten"
+                "title": "Ask HN: Git Alternatives \u2013 Sapling vs. Jj",
+                "href": "item?id=42351436"
             },
             {
                 "title": "Neuroplasticity in F16 fighter jet pilots",
@@ -792,10 +796,6 @@
             {
                 "title": "Firefox removes \"do not track\" feature support",
                 "href": "https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/"
-            },
-            {
-                "title": "Ask HN: Git Alternatives \u2013 Sapling vs. Jj",
-                "href": "item?id=42351436"
             },
             {
                 "title": "Oldest known wild bird lays egg at 74",
@@ -826,16 +826,16 @@
                 "href": "https://www.bitsaboutmoney.com/archive/debanking-and-debunking/"
             },
             {
-                "title": "Mysterious, mathematical origins of world\u2019s most unusually shaped national flag",
-                "href": "https://www.cnn.com/travel/nepal-flag-shape-explainer-history-intl-hnk/index.html"
-            },
-            {
-                "title": "Parsing Millions of DNS Records Per Second",
-                "href": "https://github.com/NLnetLabs/simdzone"
+                "title": "Show HN: HackerNews-new-jobs \u2013 insights into fresh and recurring job ads",
+                "href": "https://github.com/nemanjam/hn-new-jobs"
             },
             {
                 "title": "ALICE finds first ever evidence of the antimatter partner of hyperhelium-4",
                 "href": "https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4"
+            },
+            {
+                "title": "Show HN: I made Gyroscopic Gyro Sandwiches",
+                "href": "https://transistor-man.com/gyroscopic_gyros.html"
             }
         ]
     }
