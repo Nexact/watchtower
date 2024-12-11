@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "The Humble For Loop in JavaScript",
+                "href": "https://blog.startifact.com/posts/humble-for-loop-js/"
+            },
+            {
                 "title": "Rails is better low code than low code",
                 "href": "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code"
             },
@@ -11,16 +15,12 @@
                 "href": "https://t3.gg/blog/post/ssr-is-not-expensive"
             },
             {
-                "title": "The Humble For Loop in JavaScript",
-                "href": "https://blog.startifact.com/posts/humble-for-loop-js/"
+                "title": "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
+                "href": "https://mcyoung.xyz/2024/12/10/json-sucks/"
             },
             {
                 "title": "Limbo: A complete rewrite of SQLite in Rust",
                 "href": "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"
-            },
-            {
-                "title": "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
-                "href": "https://mcyoung.xyz/2024/12/10/json-sucks/"
             },
             {
                 "title": "A brief history of Mac servers",
@@ -35,16 +35,20 @@
                 "href": "https://pigweed.dev/docs/blog/06-better-cpp-toolchains.html"
             },
             {
-                "title": "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
-                "href": "https://earthly.dev/blog/ucacher/"
-            },
-            {
                 "title": "Render README.org as HTML on Sourcehut",
                 "href": "https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html"
             },
             {
+                "title": "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
+                "href": "https://earthly.dev/blog/ucacher/"
+            },
+            {
                 "title": "From where I left",
                 "href": "https://antirez.com/news/144"
+            },
+            {
+                "title": "pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
+                "href": "https://pgroll.com/"
             },
             {
                 "title": "the return of glfighters: porting a 23-year-old game to webassembly",
@@ -55,8 +59,8 @@
                 "href": "https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli"
             },
             {
-                "title": "pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
-                "href": "https://pgroll.com/"
+                "title": "Keepin\u2019 the Power Mac G5 running cool: What worked for me",
+                "href": "https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/"
             },
             {
                 "title": "The Google Willow thing",
@@ -65,10 +69,6 @@
             {
                 "title": "The new Vim project - What has changed after Bram",
                 "href": "https://www.youtube.com/watch?v=bopbmRyHQog"
-            },
-            {
-                "title": "Keepin\u2019 the Power Mac G5 running cool: What worked for me",
-                "href": "https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/"
             },
             {
                 "title": "Making memcpy(NULL, NULL, 0) well-defined",
@@ -87,26 +87,30 @@
                 "href": "https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/"
             },
             {
+                "title": "How are smaller teams handling multi-repo testing?",
+                "href": "https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo"
+            },
+            {
+                "title": "FP For The Working Programmer: Why Is null Bad?",
+                "href": "https://timkellogg.me/blog/2014/06/24/why-is-null-bad"
+            },
+            {
                 "title": "Mozilla Firefox removes \"Do Not Track\"",
                 "href": "https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/"
             },
             {
                 "title": "Supply-chain attack analysis: Ultralytics - The Python Package Index Blog",
                 "href": "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
-            },
-            {
-                "title": "JS Benchmark",
-                "href": "https://jsbenchmark.com/"
-            },
-            {
-                "title": "WebKit Features in Safari 18.2",
-                "href": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation",
+                "href": "https://www.bleepingcomputer.com/news/security/cynet-delivers-100-percent-protection-and-100-percent-detection-visibility-in-the-2024-mitre-attandck-evaluation/"
+            },
             {
                 "title": "New EagleMsgSpy Android spyware used by Chinese police, researchers say",
                 "href": "https://www.bleepingcomputer.com/news/security/new-eaglemsgspy-android-spyware-used-by-chinese-police-researchers-say/"
@@ -150,10 +154,6 @@
             {
                 "title": "Windows 10 KB5048652 update fixes new motherboard activation bug",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5048652-update-fixes-new-motherboard-activation-bug/"
-            },
-            {
-                "title": "Microsoft December 2024 Patch Tuesday fixes 1 exploited zero-day, 71 flaws",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2024-patch-tuesday-fixes-1-exploited-zero-day-71-flaws/"
             }
         ]
     },
@@ -609,6 +609,14 @@
                 "href": "https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f"
             },
             {
+                "title": "Mysterious New Jersey drone sightings prompt call for 'state of emergency'",
+                "href": "https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency"
+            },
+            {
+                "title": "Chatbot hinted a kid should kill his parents over screen time limits: lawsuit",
+                "href": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit"
+            },
+            {
                 "title": "PeerTube mobile app: discover videos while caring for your attention",
                 "href": "https://joinpeertube.org/news/peertube-app"
             },
@@ -621,16 +629,12 @@
                 "href": "https://start.boldvoice.com/accent-guesser"
             },
             {
-                "title": "Launch HN: Azalea Robotics (YC S24) \u2013 Baggage-handling robots for airports",
-                "href": "item?id=42390761"
-            },
-            {
                 "title": "Instant macOS install on Proxmox including AMD patches",
                 "href": "https://github.com/luchina-gabriel/OSX-PROXMOX"
             },
             {
-                "title": "Storing Times for Human Events",
-                "href": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/"
+                "title": "Launch HN: Azalea Robotics (YC S24) \u2013 Baggage-handling robots for airports",
+                "href": "item?id=42390761"
             },
             {
                 "title": "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
@@ -641,36 +645,48 @@
                 "href": "https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/"
             },
             {
-                "title": "Pgroll \u2013 Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
-                "href": "https://pgroll.com/"
+                "title": "Unix Review Magazine Interviews Larry Tesler",
+                "href": "https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry"
             },
             {
-                "title": "Chatbot hinted a kid should kill his parents over screen time limits: lawsuit",
-                "href": "https://www.npr.org/2024/12/10/nx-s1-5222574/kids-character-ai-lawsuit"
+                "title": "Pgroll \u2013 Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
+                "href": "https://pgroll.com/"
             },
             {
                 "title": "Dioxus 0.6 \u2013 Crossplatform apps with Rust",
                 "href": "https://dioxuslabs.com/blog/release-060/"
             },
             {
-                "title": "Borax or Baking Soda Rectifier and the glow (2003)",
-                "href": "http://www.sparkbangbuzz.com/els/borax-el.htm"
-            },
-            {
                 "title": "2400 phone providers may be shut down by the FCC for failing to stop robocalls",
                 "href": "https://docs.fcc.gov/public/attachments/DOC-408083A1.txt"
             },
             {
-                "title": "Gemini 2.0: our new AI model for the agentic era",
-                "href": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"
+                "title": "The GPU is not always faster",
+                "href": "https://cowfreedom.de/#dot_product/introduction/"
+            },
+            {
+                "title": "Storing Times for Human Events",
+                "href": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/"
             },
             {
                 "title": "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
                 "href": "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer"
             },
             {
-                "title": "Unix Review Magazine Interviews Larry Tesler",
-                "href": "https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry"
+                "title": "Borax or Baking Soda Rectifier and the glow (2003)",
+                "href": "http://www.sparkbangbuzz.com/els/borax-el.htm"
+            },
+            {
+                "title": "Gemini 2.0: our new AI model for the agentic era",
+                "href": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"
+            },
+            {
+                "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
+                "href": "https://www.ntietz.com/blog/evolving-ergo-setup/"
+            },
+            {
+                "title": "The Myth of Bananaland",
+                "href": "https://worldhistory.substack.com/p/the-myth-of-bananaland"
             },
             {
                 "title": "Django and Postgres for the Busy Rails Developer",
@@ -681,44 +697,28 @@
                 "href": "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga"
             },
             {
+                "title": "OnlyFans models are using AI impersonators to keep up with their DMs",
+                "href": "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/"
+            },
+            {
                 "title": "Bankruptcy judge rejects sale of Infowars to The Onion",
                 "href": "https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html"
-            },
-            {
-                "title": "The Program, my fiction podcast launched on HN, 5 years and 1M downloads later",
-                "href": "https://programaudioseries.com/the-program-results-6/"
-            },
-            {
-                "title": "Making memcpy(NULL, NULL, 0) well-defined",
-                "href": "https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"
             },
             {
                 "title": "Show HN: Convert your LinkedIn profile to a resume",
                 "href": "https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem"
             },
             {
-                "title": "Three Packets Walk into a Tunnel",
-                "href": "https://systemsapproach.org/2024/12/09/three-packets-walk-into-a-tunnel/"
+                "title": "Making memcpy(NULL, NULL, 0) well-defined",
+                "href": "https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"
             },
             {
-                "title": "Dear OAuth Providers",
-                "href": "https://pilcrowonpaper.com/blog/dear-oauth-providers/"
+                "title": "Being overweight overtakes tobacco smoking as the leading disease risk factor",
+                "href": "https://www.scimex.org/newsfeed/being-overweight-overtakes-tobacco-smoking-as-the-leading-disease-risk-factor-in-2024"
             },
             {
-                "title": "Consider Rexx for Scripting (2022)",
-                "href": "https://opensource.com/article/22/10/rexx-scripting-language"
-            },
-            {
-                "title": "Helium: Lighter Web Automation with Python",
-                "href": "https://github.com/mherrmann/helium"
-            },
-            {
-                "title": "WPEngine, Inc. vs. Automattic\u2013 Order on Motion for Preliminary Injunction",
-                "href": "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/"
-            },
-            {
-                "title": "OpenLoco: An open source re-implementation of Chris Sawyer's Locomotion",
-                "href": "https://github.com/OpenLoco/OpenLoco"
+                "title": "The Program, my fiction podcast launched on HN, 5 years and 1M downloads later",
+                "href": "https://programaudioseries.com/the-program-results-6/"
             }
         ]
     }
