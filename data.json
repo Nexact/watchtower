@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "The Humble For Loop in JavaScript",
-                "href": "https://blog.startifact.com/posts/humble-for-loop-js/"
-            },
-            {
                 "title": "Non-temporal store heuristics on the Apple M2",
                 "href": "https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094"
             },
             {
+                "title": "The Humble For Loop in JavaScript",
+                "href": "https://blog.startifact.com/posts/humble-for-loop-js/"
+            },
+            {
                 "title": "gtk3-classic: Patches to bring back a traditional experience for GTK+3",
                 "href": "https://github.com/lah7/gtk3-classic/"
+            },
+            {
+                "title": "NonStop discussion around adding Rust to Git",
+                "href": "https://lwn.net/Articles/998115/"
             },
             {
                 "title": "Drag & Drop Images into Bevy 0.15 on the web",
@@ -23,48 +27,44 @@
                 "href": "https://radanskoric.com/articles/rails-is-better-low-code-than-low-code"
             },
             {
-                "title": "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2",
-                "href": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html"
-            },
-            {
                 "title": "FCC opens entire 6 GHz band to low power device operations",
                 "href": "https://docs.fcc.gov/public/attachments/DOC-408129A1.txt"
             },
             {
-                "title": "Render README.org as HTML on Sourcehut",
-                "href": "https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html"
+                "title": "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2",
+                "href": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html"
             },
             {
                 "title": "How I Got My Laser Eye Injury",
                 "href": "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/"
             },
             {
+                "title": "Render README.org as HTML on Sourcehut",
+                "href": "https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html"
+            },
+            {
+                "title": "Security Pitfalls In Distributed Erlang And Elixir Systems",
+                "href": "https://www.youtube.com/watch?v=xPBViXCqFxw"
+            },
+            {
                 "title": "Solving a ResourceT-related space leak in production",
                 "href": "https://exploring-better-ways.bellroy.com/solving-a-resourcet-related-space-leak-in-production.html"
-            },
-            {
-                "title": "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
-                "href": "https://earthly.dev/blog/ucacher/"
-            },
-            {
-                "title": "NonStop discussion around adding Rust to Git",
-                "href": "https://lwn.net/Articles/998115/"
-            },
-            {
-                "title": "Debunking the Myth: SSR Isn't Expensive",
-                "href": "https://t3.gg/blog/post/ssr-is-not-expensive"
             },
             {
                 "title": "Keepin\u2019 the Power Mac G5 running cool: What worked for me",
                 "href": "https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/"
             },
             {
+                "title": "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
+                "href": "https://earthly.dev/blog/ucacher/"
+            },
+            {
                 "title": "A brief history of Mac servers",
                 "href": "https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/"
             },
             {
-                "title": "Security Pitfalls In Distributed Erlang And Elixir Systems",
-                "href": "https://www.youtube.com/watch?v=xPBViXCqFxw"
+                "title": "Debunking the Myth: SSR Isn't Expensive",
+                "href": "https://t3.gg/blog/post/ssr-is-not-expensive"
             },
             {
                 "title": "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
@@ -77,6 +77,10 @@
             {
                 "title": "Making memcpy(NULL, NULL, 0) well-defined",
                 "href": "https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"
+            },
+            {
+                "title": "HP-RT real-time VME operating system \u2013 OpenPA.net",
+                "href": "https://www.openpa.net/hp-rt_realtime-vme.html"
             },
             {
                 "title": "Shaping a better future for Bazel C/C++ toolchains",
@@ -97,10 +101,6 @@
             {
                 "title": "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
                 "href": "https://mikejsavage.co.uk/geometry-clipmaps/"
-            },
-            {
-                "title": "My first DSF board meeting",
-                "href": "https://www.paulox.net/2024/12/11/my-first-dsf-board-meeting/"
             }
         ]
     },
@@ -114,6 +114,14 @@
             {
                 "title": "Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG",
                 "href": "https://www.reddit.com/r/netsec/comments/1hc6atd/far_from_random_three_mistakes_from_dartflutters/"
+            },
+            {
+                "title": "Attacking Cortex XDR from an unprivileged user perspective",
+                "href": "https://www.reddit.com/r/netsec/comments/1hcl0f9/attacking_cortex_xdr_from_an_unprivileged_user/"
+            },
+            {
+                "title": "Exploiting Device Authentication Vulns in Cloud-Managed IoT Devices",
+                "href": "https://www.reddit.com/r/netsec/comments/1hckfx6/exploiting_device_authentication_vulns_in/"
             },
             {
                 "title": "Cleo Harmony, VLTrader, and LexiCom - RCE via Arbitrary File Write (CVE-2024-50623) - watchTowr Labs",
@@ -134,6 +142,10 @@
             {
                 "title": "The Ultralytics Supply Chain Attack: Connecting the Dots with GitGuardian\u2019s Public Monitoring Data",
                 "href": "https://www.reddit.com/r/netsec/comments/1hbtdnr/the_ultralytics_supply_chain_attack_connecting/"
+            },
+            {
+                "title": "Forget PSEXEC: DCOM Upload & Execute Backdoor",
+                "href": "https://www.reddit.com/r/netsec/comments/1hbwows/forget_psexec_dcom_upload_execute_backdoor/"
             },
             {
                 "title": "$750K stolen: The Telegram Groups\u2019 Huge Scam (Investigation)",
@@ -198,18 +210,6 @@
             {
                 "title": "Website enumeration insanity: how our personal data is leaked (xpost r/sysadmin)",
                 "href": "https://www.reddit.com/r/netsec/comments/1h6nlmn/website_enumeration_insanity_how_our_personal/"
-            },
-            {
-                "title": "An open-source tool to find technologies through multiple internet search engine platforms using a unified, user-friendly syntax.",
-                "href": "https://www.reddit.com/r/netsec/comments/1h6dtep/an_opensource_tool_to_find_technologies_through/"
-            },
-            {
-                "title": "OAuth Labs: OAuth 2.0 Vulnerabilites",
-                "href": "https://www.reddit.com/r/netsec/comments/1h5oxpx/oauth_labs_oauth_20_vulnerabilites/"
-            },
-            {
-                "title": "XS-Leaks through Speculation Rules",
-                "href": "https://www.reddit.com/r/netsec/comments/1h67fge/xsleaks_through_speculation_rules/"
             }
         ]
     },
@@ -722,20 +722,16 @@
                 "href": "https://docs.fcc.gov/public/attachments/DOC-408129A1.txt"
             },
             {
-                "title": "Gemini 2.0: our new AI model for the agentic era",
-                "href": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"
-            },
-            {
                 "title": "Certain names make ChatGPT grind to a halt, and we know why",
                 "href": "https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/"
             },
             {
-                "title": "Mysterious New Jersey drone sightings prompt call for 'state of emergency'",
-                "href": "https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency"
+                "title": "Gemini 2.0: our new AI model for the agentic era",
+                "href": "https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/"
             },
             {
-                "title": "Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)",
-                "href": "https://www.infracost.io/join-the-team"
+                "title": "Mysterious New Jersey drone sightings prompt call for 'state of emergency'",
+                "href": "https://www.theguardian.com/us-news/2024/dec/11/new-jersey-drone-sightings-state-of-emergency"
             },
             {
                 "title": "12,419 days of Strandbeest evolution [video]",
@@ -744,6 +740,14 @@
             {
                 "title": "Ham Radio All-in-One-Cable",
                 "href": "https://github.com/skuep/AIOC"
+            },
+            {
+                "title": "Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)",
+                "href": "https://www.infracost.io/join-the-team"
+            },
+            {
+                "title": "I'm daily driving Jujutsu, and maybe you should too",
+                "href": "https://drewdevault.com/2024/12/10/2024-12-10-Daily-driving-jujutsu.html"
             },
             {
                 "title": "QEMU with VirtIO GPU Vulkan Support",
@@ -758,76 +762,72 @@
                 "href": "https://x41-dsec.de/news/2024/12/11/mullvad/"
             },
             {
-                "title": "The report for the 2024 security audit of the Mullvad app is now available",
-                "href": "https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available"
-            },
-            {
-                "title": "Parkinson's Law: It\u2019s real, so use it",
-                "href": "https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it"
-            },
-            {
                 "title": "OnlyFans models are using AI impersonators to keep up with their DMs",
                 "href": "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/"
-            },
-            {
-                "title": "Startup will brick $800 emotional support robot for kids without refunds",
-                "href": "https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/"
-            },
-            {
-                "title": "Tricking c64 basic into clearing a hi-res screen quickly",
-                "href": "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
             },
             {
                 "title": "The Cold Email Handbook",
                 "href": "https://www.za-zu.com/blog/playbook"
             },
             {
-                "title": "Pgroll \u2013 Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
-                "href": "https://pgroll.com/"
-            },
-            {
                 "title": "The Marvelous Disappearing Capacitor",
                 "href": "https://lcamtuf.substack.com/p/the-marvelous-disappearing-capacitor"
+            },
+            {
+                "title": "Pgroll \u2013 Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
+                "href": "https://pgroll.com/"
             },
             {
                 "title": "Dear OAuth Providers",
                 "href": "https://pilcrowonpaper.com/blog/dear-oauth-providers/"
             },
             {
-                "title": "The GPU is not always faster",
-                "href": "https://cowfreedom.de/#dot_product/introduction/"
+                "title": "Tricking c64 basic into clearing a hi-res screen quickly",
+                "href": "https://retro64.altervista.org/blog/hi-res-bitmap-graphics-with-commodore-64-basic-2-0-fast-screen-clearing-routine/"
             },
             {
-                "title": "Launch HN: Azalea Robotics (YC S24) \u2013 Baggage-handling robots for airports",
-                "href": "item?id=42390761"
+                "title": "The GPU is not always faster",
+                "href": "https://cowfreedom.de/#dot_product/introduction/"
             },
             {
                 "title": "Evolving my ergonomic setup (or, my laptop with extra steps)",
                 "href": "https://www.ntietz.com/blog/evolving-ergo-setup/"
             },
             {
+                "title": "Launch HN: Azalea Robotics (YC S24) \u2013 Baggage-handling robots for airports",
+                "href": "item?id=42390761"
+            },
+            {
                 "title": "The Myth of Bananaland",
                 "href": "https://worldhistory.substack.com/p/the-myth-of-bananaland"
             },
             {
-                "title": "Dioxus 0.6 \u2013 Crossplatform apps with Rust",
-                "href": "https://dioxuslabs.com/blog/release-060/"
-            },
-            {
-                "title": "2400 phone providers may be shut down by the FCC for failing to stop robocalls",
-                "href": "https://docs.fcc.gov/public/attachments/DOC-408083A1.txt"
+                "title": "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
+                "href": "https://mikejsavage.co.uk/geometry-clipmaps/"
             },
             {
                 "title": "Instant macOS install on Proxmox including AMD patches",
                 "href": "https://github.com/luchina-gabriel/OSX-PROXMOX"
             },
             {
-                "title": "Deciphering C++ compiler errors: Nonsensical errors from a function declaration",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20241206-00/?p=110614"
+                "title": "The report for the 2024 security audit of the Mullvad app is now available",
+                "href": "https://mullvad.net/en/blog/the-report-for-the-2024-security-audit-of-the-app-is-now-available"
+            },
+            {
+                "title": "2400 phone providers may be shut down by the FCC for failing to stop robocalls",
+                "href": "https://docs.fcc.gov/public/attachments/DOC-408083A1.txt"
+            },
+            {
+                "title": "Dioxus 0.6 \u2013 Crossplatform apps with Rust",
+                "href": "https://dioxuslabs.com/blog/release-060/"
             },
             {
                 "title": "RISC-V HiFive Premier P550 Development Boards with Ubuntu Now Available",
                 "href": "https://www.sifive.com/blog/hifive-premier-p550-development-boards-with-ubuntu"
+            },
+            {
+                "title": "WPEngine, Inc. vs. Automattic\u2013 Order on Motion for Preliminary Injunction",
+                "href": "https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/"
             }
         ]
     }
