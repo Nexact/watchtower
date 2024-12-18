@@ -35,24 +35,32 @@
                 "href": "https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb"
             },
             {
-                "title": "Impressions of React and TypeScript from an Elixir/Elm developer",
-                "href": "https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/"
-            },
-            {
-                "title": "Fixing C strings",
-                "href": "https://thasso.xyz/2024/12/16/fixing-c-strings.html"
+                "title": "A history of the microcomputer industry in 300 adverts",
+                "href": "https://nosher.net/archives/computers/"
             },
             {
                 "title": "An invitation into Droste's Lair",
                 "href": "https://vezwork.github.io/drostes-lair-post/"
             },
             {
-                "title": "Universal Tools For AI (with Wasm and the Model Context Protocol)",
-                "href": "https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/"
+                "title": "Fixing C strings",
+                "href": "https://thasso.xyz/2024/12/16/fixing-c-strings.html"
             },
             {
-                "title": "A history of the microcomputer industry in 300 adverts",
-                "href": "https://nosher.net/archives/computers/"
+                "title": "Impressions of React and TypeScript from an Elixir/Elm developer",
+                "href": "https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/"
+            },
+            {
+                "title": "An RSS aggregator that generates a simple embeddable static Markdown page",
+                "href": "https://github.com/abuseofnotation/static-feed-aggregator"
+            },
+            {
+                "title": "Formally modeling dreidel, the sequel",
+                "href": "https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/"
+            },
+            {
+                "title": "Universal Tools For AI (with Wasm and the Model Context Protocol)",
+                "href": "https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/"
             },
             {
                 "title": "Optimizing Ruby\u2019s JSON, Part 1",
@@ -67,12 +75,12 @@
                 "href": "https://raymii.org/s/software/My_go-to_Cpp_code_for_asynchronous_work_processing_on_a_separate_thread.html"
             },
             {
-                "title": "An RSS aggregator that generates a simple embeddable static Markdown page",
-                "href": "https://github.com/abuseofnotation/static-feed-aggregator"
-            },
-            {
                 "title": "Murder Mystery: GCC Builds Failing After sbuild Refactoring in Debian",
                 "href": "https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/"
+            },
+            {
+                "title": "Tiny C Binaries (2020)",
+                "href": "https://journal.lunar.sh/2020/tiny-linux-c-binaries.html"
             },
             {
                 "title": "Remote development from Mac to Linux (2011)",
@@ -93,14 +101,6 @@
             {
                 "title": "Let's Encrypt will begin offering 6-day certificates",
                 "href": "https://letsencrypt.org/2024/12/11/eoy-letter-2024/"
-            },
-            {
-                "title": "Why Should a Unix Shell Have Objects?",
-                "href": "https://www.oilshell.org/blog/2024/12/objects.html"
-            },
-            {
-                "title": "Django security hardenings that are not happening",
-                "href": "https://blog.hartwork.org/posts/django-security-hardenings-that-are-not-happening/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Recorded Future CEO applauds \"undesirable\" designation by Russia",
+                "href": "https://www.bleepingcomputer.com/news/security/recorded-future-ceo-applauds-undesirable-designation-by-russia/"
+            },
+            {
                 "title": "Interpol replaces dehumanizing \"Pig Butchering\" term with \"Romance Baiting\"",
                 "href": "https://www.bleepingcomputer.com/news/security/interpol-replaces-dehumanizing-pig-butchering-term-with-romance-baiting/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Texas Tech University System data breach impacts 1.4 million patients",
                 "href": "https://www.bleepingcomputer.com/news/security/texas-tech-university-system-data-breach-impacts-14-million-patients/"
-            },
-            {
-                "title": "Kali Linux 2024.4 released with 14 new tools, deprecates some features",
-                "href": "https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/"
             }
         ]
     },
@@ -714,12 +714,24 @@
                 "href": "https://arxiv.org/abs/2412.10270"
             },
             {
+                "title": "USDA locks barn door after Listeria escapes",
+                "href": "https://efoodalert.com/2024/12/17/usda-locks-barn-door-after-listeria-escapes/"
+            },
+            {
+                "title": "Launch HN: Innate (YC F24) \u2013 Home robots as easy to program as AI agents",
+                "href": "item?id=42451707"
+            },
+            {
                 "title": "Auto Chip Aging Accelerates in Hot Climates",
                 "href": "https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/"
             },
             {
                 "title": "Leadership Power Tools: SQL and Statistics",
                 "href": "https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/"
+            },
+            {
+                "title": "Hadrius (YC W23) Is Hiring a Founding UI/UX Designer",
+                "href": "https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer"
             },
             {
                 "title": "The unbearable slowness of being: Why do we live at 10 bits/s?",
@@ -738,48 +750,56 @@
                 "href": "https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html"
             },
             {
-                "title": "Launch HN: Innate (YC F24) \u2013 Home robots as easy to program as AI agents",
-                "href": "item?id=42451707"
-            },
-            {
-                "title": "Show HN: ImPlot3D \u2013 A 3D Plotting Library for Dear ImGui",
-                "href": "https://github.com/brenocq/implot3d"
+                "title": "Microsoft acquires twice as many Nvidia AI chips as tech rivals",
+                "href": "https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1"
             },
             {
                 "title": "Bank of North Dakota",
                 "href": "https://en.wikipedia.org/wiki/Bank_of_North_Dakota"
             },
             {
+                "title": "Show HN: ImPlot3D \u2013 A 3D Plotting Library for Dear ImGui",
+                "href": "https://github.com/brenocq/implot3d"
+            },
+            {
+                "title": "AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon",
+                "href": "https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon"
+            },
+            {
                 "title": "Moon",
                 "href": "https://ciechanow.ski/moon/"
             },
             {
-                "title": "Extend (YC W23) is hiring engineers to build LLM document processing",
-                "href": "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+                "title": "New H1-B Rule by Homeland Security",
+                "href": "https://twitter.com/FedericoNoemie/status/1869381822637133842"
+            },
+            {
+                "title": "W54",
+                "href": "https://en.wikipedia.org/wiki/W54"
             },
             {
                 "title": "AI, Encryption, and the Sins of the 90s",
                 "href": "https://www.ndss-symposium.org/ndss2024/keynote-meredith-whittaker/"
             },
             {
+                "title": "Lou's Pseudo 3D Page (2013)",
+                "href": "http://www.extentofthejam.com/pseudo/"
+            },
+            {
                 "title": "Faster continuous integration builds at Canva",
                 "href": "https://www.canva.dev/blog/engineering/faster-ci-builds-at-canva/"
             },
             {
-                "title": "My Pal, the Ancient Philosopher",
-                "href": "https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/"
-            },
-            {
-                "title": "Lou's Pseudo 3D Page (2013)",
-                "href": "http://www.extentofthejam.com/pseudo/"
+                "title": "Intel Inside, Gelsinger Outside",
+                "href": "https://spyglass.org/intel-outside-gelsinger/"
             },
             {
                 "title": "Lies, damned lies, and Impact Hero (refoorest, allcolibri)",
                 "href": "https://palant.info/2024/10/01/lies-damned-lies-and-impact-hero-refoorest-allcolibri/"
             },
             {
-                "title": "New H1-B Rule by Homeland Security",
-                "href": "https://twitter.com/FedericoNoemie/status/1869381822637133842"
+                "title": "My Pal, the Ancient Philosopher",
+                "href": "https://nautil.us/meet-my-pal-the-ancient-philosopher-1169561/"
             },
             {
                 "title": "The XOR Texture (2004)",
@@ -794,40 +814,20 @@
                 "href": "https://www.nytimes.com/2024/12/12/science/oldest-human-genomes-lrj-neanderthals.html"
             },
             {
-                "title": "AMD 3D V-Cache teardown shows majority of the Ryzen 7 9800X3D is dummy silicon",
-                "href": "https://www.tomshardware.com/pc-components/cpus/amd-3d-v-cache-teardown-suggests-the-majority-of-the-ryzen-7-9800x3d-is-occupied-by-dummy-silicon"
+                "title": "How we centralized and structured error handling in Golang",
+                "href": "https://olivernguyen.io/w/namespace.error/"
+            },
+            {
+                "title": "Show HN: Brisk \u2013 Cross-Platform C++ GUI Framework: Declarative, Reactive, Fast",
+                "href": "https://github.com/brisklib/brisk"
             },
             {
                 "title": "Rootly New Blog Series: RescueOps",
                 "href": "https://rootly.com/blog/new-blog-series-rescueops"
             },
             {
-                "title": "Vultr Raises $333M at $3.5B Valuation",
-                "href": "https://www.wsj.com/articles/cloud-ai-startup-vultr-raises-333-million-at-3-5-billion-valuation-7f35f1a9"
-            },
-            {
-                "title": "How we centralized and structured error handling in Golang",
-                "href": "https://olivernguyen.io/w/namespace.error/"
-            },
-            {
                 "title": "No More Adam: Learning Rate Scaling at Initialization Is All You Need",
                 "href": "https://arxiv.org/abs/2412.11768"
-            },
-            {
-                "title": "Microsoft acquires twice as many Nvidia AI chips as tech rivals",
-                "href": "https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1"
-            },
-            {
-                "title": "Launch HN: Langfuse (YC W23) \u2013 OSS Tracing and Workflows to Improve LLM Apps",
-                "href": "https://github.com/langfuse/langfuse"
-            },
-            {
-                "title": "Jupyter Notebooks as E2E Tests",
-                "href": "https://rakhim.exotext.com/jupyter-notebooks-as-e2e-tests"
-            },
-            {
-                "title": "Chip Cities Rise in Japan's Fields of Dreams",
-                "href": "https://www.bloomberg.com/opinion/features/2024-12-11/chip-cities-rise-in-japan-s-fields-of-dreams"
             }
         ]
     }
