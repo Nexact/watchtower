@@ -43,6 +43,10 @@
                 "href": "https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/"
             },
             {
+                "title": "Understanding Basic Graal Graphs",
+                "href": "https://chrisseaton.com/truffleruby/basic-graal-graphs/"
+            },
+            {
                 "title": "Debugging a network performance issue in an OCaml 5 program",
                 "href": "https://roscidus.com/blog/blog/2024/07/22/performance/"
             },
@@ -63,10 +67,6 @@
                 "href": "https://reflex.dev/blog/2024-12-20-python-comparison/"
             },
             {
-                "title": "Understanding Basic Graal Graphs",
-                "href": "https://chrisseaton.com/truffleruby/basic-graal-graphs/"
-            },
-            {
                 "title": "Announcing NetBSD 10.1 (Dec 16, 2024)",
                 "href": "https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html"
             },
@@ -83,12 +83,12 @@
                 "href": "https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/"
             },
             {
-                "title": "Piccolo OS, a small multitasking OS for the Raspberry Pi Pico",
-                "href": "https://github.com/garyexplains/piccolo_os_v1"
-            },
-            {
                 "title": "The Better Daemons Of Our Profession",
                 "href": "https://soatok.blog/2024/12/18/the-better-daemons-of-our-profession/"
+            },
+            {
+                "title": "Piccolo OS, a small multitasking OS for the Raspberry Pi Pico",
+                "href": "https://github.com/garyexplains/piccolo_os_v1"
             },
             {
                 "title": "iptables interactive scheme",
@@ -130,10 +130,6 @@
             {
                 "title": "Understanding Logits And Their Possible Impacts On Large Language Model Output Safety",
                 "href": "https://www.reddit.com/r/netsec/comments/1hha44d/understanding_logits_and_their_possible_impacts/"
-            },
-            {
-                "title": "APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP",
-                "href": "https://www.reddit.com/r/netsec/comments/1hhd11g/apt29_hackers_target_highvalue_victims_using/"
             },
             {
                 "title": "LLM for ABAP Code Scanner",
@@ -210,6 +206,10 @@
             {
                 "title": "SSPM approach of french company Decathlon",
                 "href": "https://www.reddit.com/r/netsec/comments/1hcl3mj/sspm_approach_of_french_company_decathlon/"
+            },
+            {
+                "title": "Cleo Harmony, VLTrader, and LexiCom - RCE via Arbitrary File Write (CVE-2024-50623) - watchTowr Labs",
+                "href": "https://www.reddit.com/r/netsec/comments/1hc7l6z/cleo_harmony_vltrader_and_lexicom_rce_via/"
             }
         ]
     },
@@ -714,56 +714,60 @@
                 "href": "https://win-vector.com/2024/12/19/kelly-cant-fail/"
             },
             {
-                "title": "Satellite powered estimation of global solar potential",
-                "href": "https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/"
-            },
-            {
                 "title": "HAM radio operators receive signals from Voyager 1 on Dwingeloo telescope",
                 "href": "https://www.camras.nl/en/blog/2024/dwingeloo-telescope-receives-signals-from-voyager-1/"
-            },
-            {
-                "title": "Show HN: Gribstream.com \u2013 Historical Weather Forecast API",
-                "href": "https://gribstream.com"
-            },
-            {
-                "title": "Show HN: Mizu.js \u2013 Lightweight HTML templating library for any-side rendering",
-                "href": "https://mizu.sh"
-            },
-            {
-                "title": "Music and Geometry: Intervals and Scales",
-                "href": "https://roelsworld.eu/blog-music/music-geometry-intervals-scales/"
-            },
-            {
-                "title": "A 10-Year Battery for AirTag",
-                "href": "https://www.elevationlab.com/blogs/news/introducing-timecapsule"
-            },
-            {
-                "title": "Nullboard: Kanban board in a single HTML file",
-                "href": "https://github.com/apankrat/nullboard"
             },
             {
                 "title": "The era of open voice assistants has arrived",
                 "href": "https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/"
             },
             {
-                "title": "Ghost artists on Spotify",
-                "href": "https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/"
+                "title": "Satellite powered estimation of global solar potential",
+                "href": "https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/"
             },
             {
-                "title": "Silk \u2013 Interactive Generative Art (2011)",
-                "href": "http://weavesilk.com/"
-            },
-            {
-                "title": "How types make hard problems easy",
-                "href": "https://mayhul.com/posts/type-driven-design/"
+                "title": "Show HN: Gribstream.com \u2013 Historical Weather Forecast API",
+                "href": "https://gribstream.com"
             },
             {
                 "title": "Conda: A Package Management Disaster?",
                 "href": "https://pyherald.com/articles/16_12_2024/"
             },
             {
+                "title": "Show HN: Mizu.js \u2013 Lightweight HTML templating library for any-side rendering",
+                "href": "https://mizu.sh"
+            },
+            {
+                "title": "A 10-Year Battery for AirTag",
+                "href": "https://www.elevationlab.com/blogs/news/introducing-timecapsule"
+            },
+            {
+                "title": "Music and Geometry: Intervals and Scales",
+                "href": "https://roelsworld.eu/blog-music/music-geometry-intervals-scales/"
+            },
+            {
+                "title": "Nullboard: Kanban board in a single HTML file",
+                "href": "https://github.com/apankrat/nullboard"
+            },
+            {
+                "title": "Ghost artists on Spotify",
+                "href": "https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/"
+            },
+            {
+                "title": "How types make hard problems easy",
+                "href": "https://mayhul.com/posts/type-driven-design/"
+            },
+            {
+                "title": "Silk \u2013 Interactive Generative Art (2011)",
+                "href": "http://weavesilk.com/"
+            },
+            {
                 "title": "Clay \u2013 UI Layout Library",
                 "href": "https://www.nicbarker.com/clay"
+            },
+            {
+                "title": "Using GPS satellites to detect tsunamis via ionospheric ionization waves",
+                "href": "https://www.earthdata.nasa.gov/learn/data-in-action/global-navigation-satellite-system-data-brings-forth-guardian"
             },
             {
                 "title": "Hardware Security Exploit Research \u2013 Xbox 360",
@@ -782,20 +786,16 @@
                 "href": "https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer"
             },
             {
-                "title": "The Night Watch [pdf] (2013)",
-                "href": "https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf"
+                "title": "Solaar is a Linux manager for many Logitech keyboards, mice, and other devices",
+                "href": "https://github.com/pwr-Solaar/Solaar"
             },
             {
                 "title": "DVST Graphic Terminals",
                 "href": "https://vintagetek.org/dvst-graphic-terminals/"
             },
             {
-                "title": "Solaar is a Linux manager for many Logitech keyboards, mice, and other devices",
-                "href": "https://github.com/pwr-Solaar/Solaar"
-            },
-            {
-                "title": "How an Indian startup hacked the world (2023)",
-                "href": "https://www.reuters.com/investigates/special-report/usa-hackers-appin/"
+                "title": "The Night Watch [pdf] (2013)",
+                "href": "https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf"
             },
             {
                 "title": "Alignment faking in large language models",
@@ -806,10 +806,6 @@
                 "href": "https://www.macrumors.com/2024/12/16/black-magic-3d-vision-pro-camera/"
             },
             {
-                "title": "The Power Mac 4400",
-                "href": "https://512pixels.net/2024/12/the-power-mac-4400/"
-            },
-            {
                 "title": "Tracing packets in the Linux kernel networking stack and friends",
                 "href": "https://github.com/retis-org/retis"
             },
@@ -818,16 +814,20 @@
                 "href": "https://github.com/randombit/botan"
             },
             {
-                "title": "Cannabis pollen dispersal across the United States",
-                "href": "https://www.nature.com/articles/s41598-024-70633-x"
+                "title": "The Power Mac 4400",
+                "href": "https://512pixels.net/2024/12/the-power-mac-4400/"
             },
             {
-                "title": "Bat Feces Used to Fertilize Cannabis Is Linked to 2 Deaths",
-                "href": "https://www.nytimes.com/2024/12/18/nyregion/bat-poop-cannabis-deaths-ny.html"
+                "title": "How an Indian startup hacked the world (2023)",
+                "href": "https://www.reuters.com/investigates/special-report/usa-hackers-appin/"
             },
             {
                 "title": "Visualizing 6D Mesh Parallelism",
                 "href": "https://main-horse.github.io/posts/visualizing-6d/"
+            },
+            {
+                "title": "Show HN: Movie Iris - Visualizing Films Through Color Extraction",
+                "href": "https://github.com/LoSinCos/movie-iris"
             }
         ]
     }
