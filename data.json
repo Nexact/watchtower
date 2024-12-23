@@ -23,6 +23,10 @@
                 "href": "https://lobste.rs/s/t8qymz/what_are_you_doing_this_week"
             },
             {
+                "title": "Application blackbox",
+                "href": "https://dxuuu.xyz/blackbox.html"
+            },
+            {
                 "title": "Do Not Fix Bugs Reported in Your Open Source Projects",
                 "href": "https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html"
             },
@@ -31,16 +35,16 @@
                 "href": "https://debu.gs/entries/try-inferno-without-installing-it"
             },
             {
-                "title": "Application blackbox",
-                "href": "https://dxuuu.xyz/blackbox.html"
-            },
-            {
                 "title": "How to collect performance statistics with Cabal",
                 "href": "https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/"
             },
             {
                 "title": "Problem Driven Development",
                 "href": "https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html"
+            },
+            {
+                "title": "My colleague Julius",
+                "href": "https://ploum.net/2024-12-23-julius-en.html"
             },
             {
                 "title": "Formal Methods: Just Good Engineering Practice?",
@@ -59,8 +63,16 @@
                 "href": "https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/"
             },
             {
-                "title": "My colleague Julius",
-                "href": "https://ploum.net/2024-12-23-julius-en.html"
+                "title": "How many links overlap between Lobste.rs and HN?",
+                "href": "https://lobhn.skyshelf.app/"
+            },
+            {
+                "title": "From Nix to Eos",
+                "href": "https://nrd.sh/blog/nix-to-eos/"
+            },
+            {
+                "title": "A worked example of copy-and-patch compilation",
+                "href": "https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/"
             },
             {
                 "title": "Making a Trello clone using htmx",
@@ -79,10 +91,6 @@
                 "href": "https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter"
             },
             {
-                "title": "How many links overlap between Lobste.rs and HN?",
-                "href": "https://lobhn.skyshelf.app/"
-            },
-            {
                 "title": "What would it take to add refinement types to Rust?",
                 "href": "https://yoric.github.io/post/rust-refinement-types/"
             },
@@ -93,14 +101,6 @@
             {
                 "title": "Nix is a build system",
                 "href": "http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html"
-            },
-            {
-                "title": "dropping hyper",
-                "href": "https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/"
-            },
-            {
-                "title": "UIs Should Be Versioned, Just Like We Version APIs",
-                "href": "http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Xerox To Buy Printer Maker Lexmark From Chinese Owners in $1.5 Billion Deal",
+                "href": "https://hardware.slashdot.org/story/24/12/23/1523259/xerox-to-buy-printer-maker-lexmark-from-chinese-owners-in-15-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "PayPal's Honey Accused of Misleading Users, Hiding Discounts",
                 "href": "https://slashdot.org/story/24/12/23/1511251/paypals-honey-accused-of-misleading-users-hiding-discounts?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Albania Will Close TikTok for One Year, Saying It Encourages Violence Among Children",
                 "href": "https://tech.slashdot.org/story/24/12/22/048232/albania-will-close-tiktok-for-one-year-saying-it-encourages-violence-among-children?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The Theory That Volcanoes Killed the Dinosaurs Is Officially Extinct",
-                "href": "https://science.slashdot.org/story/24/12/22/0234202/the-theory-that-volcanoes-killed-the-dinosaurs-is-officially-extinct?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -706,8 +706,8 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Commercial tea bags release microplastics, entering human cells",
-                "href": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html"
+                "title": "Fogus: Things and Stuff of 2024",
+                "href": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/"
             },
             {
                 "title": "Xerox to acquire Lexmark",
@@ -718,40 +718,52 @@
                 "href": "https://denisdefreyne.com/articles/2024-memoization/"
             },
             {
+                "title": "Show HN: Keypub.sh \u2013 OAuth for the terminal using SSH keys",
+                "href": "https://keypub.sh/"
+            },
+            {
+                "title": "Commercial tea bags release microplastics, entering human cells",
+                "href": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html"
+            },
+            {
                 "title": "Happy 400th birthday to the world\u2019s oldest bond",
                 "href": "https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9"
-            },
-            {
-                "title": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
-                "href": "https://arxiv.org/abs/2412.16145"
-            },
-            {
-                "title": "Can AI do maths yet? Thoughts from a mathematician",
-                "href": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/"
             },
             {
                 "title": "CLI tool to insert spacers when command output stops",
                 "href": "https://github.com/samwho/spacer"
             },
             {
-                "title": "I built a platform for discovering and sharing Chrome extension collections",
-                "href": "https://webextension.net/collections"
+                "title": "Can AI do maths yet? Thoughts from a mathematician",
+                "href": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/"
+            },
+            {
+                "title": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
+                "href": "https://arxiv.org/abs/2412.16145"
+            },
+            {
+                "title": "Tracking Down the Bulgarian Marketplace Scams",
+                "href": "https://sy1.sh/posts/2024-19-12-investigation-on-scams/"
             },
             {
                 "title": "Infinigen: Infinite Photorealistic Worlds Using Procedural Generation",
                 "href": "https://github.com/princeton-vl/infinigen"
             },
             {
+                "title": "Journal that published faulty black plastic study removed from science index",
+                "href": "https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/"
+            },
+            {
                 "title": "Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)",
                 "href": "https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d"
             },
             {
-                "title": "Twtxt is a decentralised, minimalist microblogging service for hackers",
-                "href": "https://twtxt.readthedocs.io/en/latest/index.html"
+                "title": "I built a platform for discovering and sharing Chrome extension collections",
+                "href": "https://webextension.net/collections"
             },
             {
-                "title": "Litestack: All your data infrastructure, in one Ruby gem",
-                "href": "https://github.com/oldmoe/litestack"
+                "title": "Twtxt is a decentralised, minimalist microblogging service for hackers",
+                "href": "https://twtxt.readthedocs.io/en/latest/index.html"
             },
             {
                 "title": "How bloom filters made SQLite 10x faster",
@@ -764,6 +776,10 @@
             {
                 "title": "RAG Logger: An Open-Source Alternative to LangSmith",
                 "href": "https://github.com/Brandon-c-tech/RAG-logger"
+            },
+            {
+                "title": "Litestack: All your data infrastructure, in one Ruby gem",
+                "href": "https://github.com/oldmoe/litestack"
             },
             {
                 "title": "Collatz\u2019s Ant",
@@ -782,8 +798,8 @@
                 "href": "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
             },
             {
-                "title": "Journal that published faulty black plastic study removed from science index",
-                "href": "https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/"
+                "title": "C++ Is an Absolute Blast",
+                "href": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/"
             },
             {
                 "title": "Long Term Software Development",
@@ -808,22 +824,6 @@
             {
                 "title": "Fighting spam with Haskell at Meta (2015)",
                 "href": "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/"
-            },
-            {
-                "title": "One surprising psychosis treatment that works: Learning to live with the voices",
-                "href": "https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7"
-            },
-            {
-                "title": "Spherical Harmonics",
-                "href": "https://www.rhotter.com/posts/harmonics"
-            },
-            {
-                "title": "CodeMic: A new way to talk about code",
-                "href": "https://codemic.io/"
-            },
-            {
-                "title": "One way to fight loneliness: Germans call it a Stammtisch",
-                "href": "https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch"
             }
         ]
     }
