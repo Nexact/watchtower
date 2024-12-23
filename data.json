@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "How Many Hours Can You Code?",
+                "href": "https://thecodist.com/how-many-hours-can-you-code/"
+            },
+            {
                 "title": "Why we use our own hardware at Fastmail",
                 "href": "https://www.fastmail.com/blog/why-we-use-our-own-hardware/"
             },
             {
                 "title": "On Long Term Software Development",
                 "href": "https://berthub.eu/articles/posts/on-long-term-software-development/"
-            },
-            {
-                "title": "How Many Hours Can You Code?",
-                "href": "https://thecodist.com/how-many-hours-can-you-code/"
             },
             {
                 "title": "How bloom filters made SQLite 10x faster",
@@ -35,6 +35,10 @@
                 "href": "https://debu.gs/entries/try-inferno-without-installing-it"
             },
             {
+                "title": "My colleague Julius",
+                "href": "https://ploum.net/2024-12-23-julius-en.html"
+            },
+            {
                 "title": "How to collect performance statistics with Cabal",
                 "href": "https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/"
             },
@@ -43,8 +47,12 @@
                 "href": "https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html"
             },
             {
-                "title": "My colleague Julius",
-                "href": "https://ploum.net/2024-12-23-julius-en.html"
+                "title": "From Nix to Eos",
+                "href": "https://nrd.sh/blog/nix-to-eos/"
+            },
+            {
+                "title": "How many links overlap between Lobste.rs and HN?",
+                "href": "https://lobhn.skyshelf.app/"
             },
             {
                 "title": "Formal Methods: Just Good Engineering Practice?",
@@ -59,16 +67,20 @@
                 "href": "https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html"
             },
             {
+                "title": "A Tour of WebAuthn",
+                "href": "https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html"
+            },
+            {
                 "title": "Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization",
                 "href": "https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/"
             },
             {
-                "title": "How many links overlap between Lobste.rs and HN?",
-                "href": "https://lobhn.skyshelf.app/"
+                "title": "C++ Is An Absolute Blast",
+                "href": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/"
             },
             {
-                "title": "From Nix to Eos",
-                "href": "https://nrd.sh/blog/nix-to-eos/"
+                "title": "Ssh Oauth-like service for CLI apps",
+                "href": "https://keypub.sh"
             },
             {
                 "title": "A worked example of copy-and-patch compilation",
@@ -79,28 +91,16 @@
                 "href": "https://www.erikheemskerk.nl/htmx-trello-clone/"
             },
             {
-                "title": "A Tour of WebAuthn",
-                "href": "https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html"
-            },
-            {
                 "title": "Goodhart's Law Isn't as Useful as You Might Think",
                 "href": "https://commoncog.com/goodharts-law-not-useful/"
-            },
-            {
-                "title": "Hacking Life into My Little Counter",
-                "href": "https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter"
             },
             {
                 "title": "What would it take to add refinement types to Rust?",
                 "href": "https://yoric.github.io/post/rust-refinement-types/"
             },
             {
-                "title": "Fast LLM Inference From Scratch",
-                "href": "https://andrewkchan.dev/posts/yalm.html"
-            },
-            {
-                "title": "Nix is a build system",
-                "href": "http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html"
+                "title": "Hacking Life into My Little Counter",
+                "href": "https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "US court finds spyware maker NSO liable for WhatsApp hacks",
+                "href": "https://www.bleepingcomputer.com/news/security/us-court-finds-spyware-maker-nso-liable-for-whatsapp-hacks/"
+            },
+            {
                 "title": "Apache fixes remote code execution bypass in Tomcat web server",
                 "href": "https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/"
             },
@@ -255,10 +259,6 @@
             {
                 "title": "Ascension: Health data of 5.6 million stolen in ransomware attack",
                 "href": "https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/"
-            },
-            {
-                "title": "Massive live sports piracy ring with 812 million yearly visits taken offline",
-                "href": "https://www.bleepingcomputer.com/news/security/massive-live-sports-piracy-ring-with-812-million-yearly-visits-taken-offline/"
             }
         ]
     },
@@ -581,20 +581,28 @@
         "feedname": "cisa",
         "items": [
             {
+                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/23/cisa-adds-one-known-exploited-vulnerability-catalog"
+            },
+            {
                 "title": "Fortinet Releases Security Updates for FortiManager",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/20/fortinet-releases-security-updates-fortimanager"
+            },
+            {
+                "title": "CISA Releases Eight Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories"
             },
             {
                 "title": "Tibbo AggreGate Network Manager",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-05"
             },
             {
-                "title": "Hitachi Energy SDM600",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-02"
-            },
-            {
                 "title": "Ossur Mobile Logic Application",
                 "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-354-01"
+            },
+            {
+                "title": "Hitachi Energy SDM600",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-02"
             },
             {
                 "title": "Schneider Electric Accutech Manager",
@@ -609,32 +617,32 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-07"
             },
             {
-                "title": "Delta Electronics DTM Soft",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-03"
-            },
-            {
                 "title": "Hitachi Energy RTU500 series CMU",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-01"
+            },
+            {
+                "title": "Delta Electronics DTM Soft",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-03"
             },
             {
                 "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-adds-one-known-exploited-vulnerability-catalog"
             },
             {
-                "title": "CISA Releases Eight Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/19/cisa-releases-eight-industrial-control-systems-advisories"
+                "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/18/cisa-adds-four-known-exploited-vulnerabilities-catalog"
             },
             {
                 "title": "CISA Releases Best Practice Guidance for Mobile Communications",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/18/cisa-releases-best-practice-guidance-mobile-communications"
             },
             {
-                "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/18/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+                "title": "Hitachi Energy TropOS Devices Series 1400/2400/6400",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-02"
             },
             {
-                "title": "BD Diagnostic Solutions Products",
-                "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-352-01"
+                "title": "Rockwell Automation PowerMonitor 1000 Remote",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-03"
             },
             {
                 "title": "Schneider Electric Modicon",
@@ -645,6 +653,10 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-01"
             },
             {
+                "title": "BD Diagnostic Solutions Products",
+                "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-24-352-01"
+            },
+            {
                 "title": "CISA and ONCD Release Playbook for Strengthening Cybersecurity in Federal Grant Programs for Critical Infrastructure",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-and-oncd-release-playbook-strengthening-cybersecurity-federal-grant-programs-critical"
             },
@@ -653,28 +665,20 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-adds-one-known-exploited-vulnerability-catalog"
             },
             {
-                "title": "Rockwell Automation PowerMonitor 1000 Remote",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-03"
+                "title": "CISA Releases Five Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-releases-five-industrial-control-systems-advisories"
             },
             {
                 "title": "CISA Issues BOD 25-01, Implementing Secure Practices for Cloud Services",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-issues-bod-25-01-implementing-secure-practices-cloud-services"
             },
             {
-                "title": "Hitachi Energy TropOS Devices Series 1400/2400/6400",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-02"
-            },
-            {
-                "title": "CISA Releases Five Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/17/cisa-releases-five-industrial-control-systems-advisories"
+                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2024/12/16/cisa-adds-two-known-exploited-vulnerabilities-catalog"
             },
             {
                 "title": "CISA Requests Public Comment for Draft National Cyber Incident Response Plan Update",
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/16/cisa-requests-public-comment-draft-national-cyber-incident-response-plan-update"
-            },
-            {
-                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2024/12/16/cisa-adds-two-known-exploited-vulnerabilities-catalog"
             },
             {
                 "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -685,16 +689,12 @@
                 "href": "https://www.cisa.gov/news-events/alerts/2024/12/13/cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-wws-sector"
             },
             {
-                "title": "Siemens Simcenter Femap",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-06"
+                "title": "Siemens SENTRON Powercenter 1000",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-10"
             },
             {
                 "title": "Siemens Solid Edge SE2024",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-07"
-            },
-            {
-                "title": "Siemens Engineering Platforms",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-347-05"
             },
             {
                 "title": "Siemens COMOS",
@@ -710,20 +710,16 @@
                 "href": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/"
             },
             {
-                "title": "Xerox to acquire Lexmark",
-                "href": "https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark"
+                "title": "Show HN: Keypub.sh \u2013 OAuth for the terminal using SSH keys",
+                "href": "https://keypub.sh/"
             },
             {
                 "title": "The intricacies of implementing memoization in Ruby",
                 "href": "https://denisdefreyne.com/articles/2024-memoization/"
             },
             {
-                "title": "Show HN: Keypub.sh \u2013 OAuth for the terminal using SSH keys",
-                "href": "https://keypub.sh/"
-            },
-            {
-                "title": "Commercial tea bags release microplastics, entering human cells",
-                "href": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html"
+                "title": "Xerox to acquire Lexmark",
+                "href": "https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark"
             },
             {
                 "title": "Happy 400th birthday to the world\u2019s oldest bond",
@@ -734,28 +730,32 @@
                 "href": "https://github.com/samwho/spacer"
             },
             {
-                "title": "Can AI do maths yet? Thoughts from a mathematician",
-                "href": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/"
+                "title": "Commercial tea bags release microplastics, entering human cells",
+                "href": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html"
             },
             {
                 "title": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
                 "href": "https://arxiv.org/abs/2412.16145"
             },
             {
-                "title": "Tracking Down the Bulgarian Marketplace Scams",
-                "href": "https://sy1.sh/posts/2024-19-12-investigation-on-scams/"
+                "title": "Can AI do maths yet? Thoughts from a mathematician",
+                "href": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/"
             },
             {
-                "title": "Infinigen: Infinite Photorealistic Worlds Using Procedural Generation",
-                "href": "https://github.com/princeton-vl/infinigen"
+                "title": "Building a replacement 386/486 CMOS battery",
+                "href": "https://rubenerd.com/building-a-replacement-486-cmos-motherboard-battery/"
+            },
+            {
+                "title": "Tracking Down the Bulgarian Marketplace Scams",
+                "href": "https://sy1.sh/posts/2024-19-12-investigation-on-scams/"
             },
             {
                 "title": "Journal that published faulty black plastic study removed from science index",
                 "href": "https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/"
             },
             {
-                "title": "Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)",
-                "href": "https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d"
+                "title": "Infinigen: Infinite Photorealistic Worlds Using Procedural Generation",
+                "href": "https://github.com/princeton-vl/infinigen"
             },
             {
                 "title": "I built a platform for discovering and sharing Chrome extension collections",
@@ -774,20 +774,28 @@
                 "href": "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693"
             },
             {
-                "title": "RAG Logger: An Open-Source Alternative to LangSmith",
-                "href": "https://github.com/Brandon-c-tech/RAG-logger"
+                "title": "Co-Adapting Human Interfaces and LMs",
+                "href": "https://jessylin.com/2024/11/12/co-adapting-human-interfaces/"
             },
             {
-                "title": "Litestack: All your data infrastructure, in one Ruby gem",
-                "href": "https://github.com/oldmoe/litestack"
+                "title": "RAG Logger: An Open-Source Alternative to LangSmith",
+                "href": "https://github.com/Brandon-c-tech/RAG-logger"
             },
             {
                 "title": "Collatz\u2019s Ant",
                 "href": "https://gbragafibra.github.io/2024/12/21/collatz_ant.html"
             },
             {
+                "title": "C++ Is an Absolute Blast",
+                "href": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/"
+            },
+            {
                 "title": "Decoding the telephony signals in Pink Floyd's 'The Wall'",
                 "href": "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html"
+            },
+            {
+                "title": "Litestack: All your data infrastructure, in one Ruby gem",
+                "href": "https://github.com/oldmoe/litestack"
             },
             {
                 "title": "Why Apple sends spyware victims to this nonprofit security lab",
@@ -798,10 +806,6 @@
                 "href": "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
             },
             {
-                "title": "C++ Is an Absolute Blast",
-                "href": "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/"
-            },
-            {
                 "title": "Long Term Software Development",
                 "href": "https://berthub.eu/articles/posts/on-long-term-software-development/"
             },
@@ -810,20 +814,16 @@
                 "href": "item?id=42468594"
             },
             {
-                "title": "Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]",
-                "href": "https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791"
-            },
-            {
                 "title": "In praise of the hundred page idea",
                 "href": "https://tracydurnell.com/2024/12/17/in-praise-of-the-hundred-page-idea/"
             },
             {
-                "title": "Show HN: Ephemeral VMs in 1 Microsecond",
-                "href": "https://github.com/libriscv/multi_tenant_drogon"
+                "title": "Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance)",
+                "href": "https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24"
             },
             {
-                "title": "Fighting spam with Haskell at Meta (2015)",
-                "href": "https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/"
+                "title": "Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]",
+                "href": "https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791"
             }
         ]
     }
