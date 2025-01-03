@@ -19,6 +19,10 @@
                 "href": "https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/"
             },
             {
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend"
+            },
+            {
                 "title": "Rules for Writing Software Tutorials",
                 "href": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/"
             },
@@ -27,16 +31,20 @@
                 "href": "https://getfullyear.com/"
             },
             {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend"
-            },
-            {
                 "title": "The JIT calculator challenge",
                 "href": "https://ochagavia.nl/blog/the-jit-calculator-challenge"
             },
             {
+                "title": "Reversing the Animal Crossing letter system",
+                "href": "https://jamchamb.net/projects/animal-crossing-letters"
+            },
+            {
                 "title": "The Evolution of SRE at Google",
                 "href": "https://www.usenix.org/publications/loginonline/evolution-sre-google"
+            },
+            {
+                "title": "Multi-Path TCP: revolutionizing connectivity, one path at a time",
+                "href": "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/"
             },
             {
                 "title": "DOOM\u00ae CAPTCHA",
@@ -59,10 +67,6 @@
                 "href": "https://graydon2.dreamwidth.org/315410.html"
             },
             {
-                "title": "Multi-Path TCP: revolutionizing connectivity, one path at a time",
-                "href": "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/"
-            },
-            {
                 "title": "The GPU, not the TPM, is the root of hardware DRM",
                 "href": "https://mjg59.dreamwidth.org/70954.html"
             },
@@ -71,8 +75,12 @@
                 "href": "https://computer.rip/2024-01-06-usb-on-the-go.html"
             },
             {
-                "title": "Reversing the Animal Crossing letter system",
-                "href": "https://jamchamb.net/projects/animal-crossing-letters"
+                "title": "Building NetBSD in meta mode",
+                "href": "https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm"
+            },
+            {
+                "title": "Mandelbrot deep zoom theory and practice",
+                "href": "https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html"
             },
             {
                 "title": "Last expression as return value",
@@ -93,14 +101,6 @@
             {
                 "title": "How can we compare expressive power between two Turing-complete languages?",
                 "href": "https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages"
-            },
-            {
-                "title": "How does your URL parser handle Unicode?",
-                "href": "https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/"
-            },
-            {
-                "title": "Solving Advent of Code 2024 in Under 1ms",
-                "href": "https://github.com/indiv0/aoc-fastest"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Malicious npm packages target Ethereum developers' private keys",
+                "href": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/"
+            },
+            {
                 "title": "Apple offers $95 million in Siri privacy violation settlement",
                 "href": "https://www.bleepingcomputer.com/news/security/apple-offers-95-million-in-siri-privacy-violation-settlement/"
             },
@@ -247,10 +251,6 @@
             {
                 "title": "New details reveal how hackers hijacked 35 Google Chrome extensions",
                 "href": "https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/"
-            },
-            {
-                "title": "Over 3.1 million fake \"stars\" on GitHub projects used to boost rankings",
-                "href": "https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/"
             }
         ]
     },
@@ -302,6 +302,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Boeing Adds More Surprise Quality Checks in Its Factories",
+                "href": "https://tech.slashdot.org/story/25/01/03/138208/boeing-adds-more-surprise-quality-checks-in-its-factories?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "New System Auto-Converts C To Memory-Safe Rust, But There's a Catch",
                 "href": "https://developers.slashdot.org/story/25/01/03/133213/new-system-auto-converts-c-to-memory-safe-rust-but-theres-a-catch?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -357,10 +361,6 @@
             {
                 "title": "Nick Clegg Is Leaving Meta After 7 Years Overseeing Its Policy Decisions",
                 "href": "https://tech.slashdot.org/story/25/01/02/2147211/nick-clegg-is-leaving-meta-after-7-years-overseeing-its-policy-decisions?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Putin Orders Russian Government and Top Bank To Develop AI Cooperation With China",
-                "href": "https://slashdot.org/story/25/01/02/2140216/putin-orders-russian-government-and-top-bank-to-develop-ai-cooperation-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -698,12 +698,28 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Mandelbrot deep zoom theory and practice (2021)",
+                "href": "https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html"
+            },
+            {
                 "title": "Can LLMs write better code if you keep asking them to \u201cwrite better code\u201d?",
                 "href": "https://minimaxir.com/2025/01/write-better-code/"
             },
             {
+                "title": "Let's Encrypt to end OCSP support in 2025",
+                "href": "https://scotthelme.co.uk/lets-encrypt-to-end-ocsp-support-in-2025/"
+            },
+            {
                 "title": "Gource: Software Version Control Visualization",
                 "href": "https://github.com/acaudwell/Gource"
+            },
+            {
+                "title": "What Is To Be Done? The book that helped spark the Russian Revolution",
+                "href": "https://onepercentrule.substack.com/p/what-is-to-be-done"
+            },
+            {
+                "title": "The Dome (2005)",
+                "href": "https://sites.pitt.edu/~jdnorton/Goodies/Dome/"
             },
             {
                 "title": "Zildjian, a 400-year-old cymbal-making company in Massachusetts",
@@ -722,12 +738,20 @@
                 "href": "https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago"
             },
             {
+                "title": "Kuvasz-streamer: open-source CDC for Postgres for low latency replication",
+                "href": "https://streamer.kuvasz.io/"
+            },
+            {
+                "title": "Types are the basic tool of software design",
+                "href": "https://www.tedinski.com/2018/12/05/types-as-design-tool.html"
+            },
+            {
                 "title": "If I Could Wave a Magic Wand",
                 "href": "https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/"
             },
             {
-                "title": "Kuvasz-streamer: open-source CDC for Postgres for low latency replication",
-                "href": "https://streamer.kuvasz.io/"
+                "title": "CoinTracker (YC W18) hiring product engineer to solve crypto accounting",
+                "href": "https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5"
             },
             {
                 "title": "JPL Horizons on-line solar system data and ephemeris computation service",
@@ -738,10 +762,6 @@
                 "href": "item?id=42557947"
             },
             {
-                "title": "CoinTracker (YC W18) hiring product engineer to solve crypto accounting",
-                "href": "https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5"
-            },
-            {
                 "title": "Benchmarking RSA Key Generation",
                 "href": "https://words.filippo.io/dispatches/rsa-keygen-bench/"
             },
@@ -750,12 +770,12 @@
                 "href": "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html"
             },
             {
-                "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)",
-                "href": "https://arxiv.org/abs/2305.07759"
+                "title": "System76 built the fastest Windows Arm PC",
+                "href": "https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc"
             },
             {
-                "title": "Types are the basic tool of software design",
-                "href": "https://www.tedinski.com/2018/12/05/types-as-design-tool.html"
+                "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)",
+                "href": "https://arxiv.org/abs/2305.07759"
             },
             {
                 "title": "Shm\u00f8ergh Hog \u2013 The making of a simple analog synth",
@@ -774,12 +794,16 @@
                 "href": "https://tavianator.com/2025/shlx.html"
             },
             {
-                "title": "Rules for writing software tutorials",
-                "href": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/"
-            },
-            {
                 "title": "Diagnosing an Unusual WiFi Issue (2020)",
                 "href": "https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/"
+            },
+            {
+                "title": "Java's SimpleDateFormat: YYYY vs. Yyyy",
+                "href": "http://dangoldin.com/2019/01/06/javas-simpledateformat-yyyy-vs-yyyy/"
+            },
+            {
+                "title": "Rules for writing software tutorials",
+                "href": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/"
             },
             {
                 "title": "Postgres UUIDv7 and per-back end monotonicity",
@@ -792,30 +816,6 @@
             {
                 "title": "Building a Knowledge System That Enhances Rather Than Replaces Thought",
                 "href": "https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management"
-            },
-            {
-                "title": "I am rich and have no idea what to do",
-                "href": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/"
-            },
-            {
-                "title": "What Is miniKanren?",
-                "href": "http://minikanren.org/"
-            },
-            {
-                "title": "Speeding Up SQLite Inserts",
-                "href": "https://blog.julik.nl/2025/01/maximum-speed-sqlite-inserts"
-            },
-            {
-                "title": "U.S. appeals court strikes down FCC's net neutrality rules",
-                "href": "https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules"
-            },
-            {
-                "title": "Multispectral imaging through scattering media and around corners",
-                "href": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-27-48786&id=566035"
-            },
-            {
-                "title": "Linux Context Switching Internals: Process State and Memory",
-                "href": "https://blog.codingconfessions.com/p/linux-context-switching-internals"
             }
         ]
     }
