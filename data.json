@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Rust's borrow checker: Not just a nuisance",
-                "href": "https://mental-reverb.com/blog.php?id=46"
-            },
-            {
                 "title": "The future of htmx",
                 "href": "https://htmx.org/essays/future/"
+            },
+            {
+                "title": "Rust's borrow checker: Not just a nuisance",
+                "href": "https://mental-reverb.com/blog.php?id=46"
             },
             {
                 "title": "Good, Fast, Cheap: Pick 3 or Get None",
@@ -39,6 +39,10 @@
                 "href": "https://blog.haskell.org/ghc-9-12-cabal-3-14/"
             },
             {
+                "title": "Property-Based Testing for the People",
+                "href": "https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content"
+            },
+            {
                 "title": "Typestates in Rust",
                 "href": "https://yoric.github.io/post/rust-typestate/"
             },
@@ -55,12 +59,8 @@
                 "href": "https://lobste.rs/s/nhahhn/what_are_you_doing_this_week"
             },
             {
-                "title": "Property-Based Testing for the People",
-                "href": "https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content"
-            },
-            {
-                "title": "Web page annoyances that I don't inflict on you here",
-                "href": "http://rachelbythebay.com/w/2025/01/04/cruft/"
+                "title": "Yolc \u2013 a Haskell-powered, safe, expressive, fun language for Ethereum",
+                "href": "https://yolc.dev/blog/introduce-yolc/"
             },
             {
                 "title": "Zig Strike: The ultimate toolkit for payload creation and evasion",
@@ -71,6 +71,10 @@
                 "href": "https://simonrepp.com/faircamp/"
             },
             {
+                "title": "Web page annoyances that I don't inflict on you here",
+                "href": "http://rachelbythebay.com/w/2025/01/04/cruft/"
+            },
+            {
                 "title": "DOOM: The Gallery Experience by bobatealee",
                 "href": "https://bobatealee.itch.io/doom-the-gallery-experience"
             },
@@ -79,16 +83,16 @@
                 "href": "https://opolua.org"
             },
             {
-                "title": "Yolc \u2013 a Haskell-powered, safe, expressive, fun language for Ethereum",
-                "href": "https://yolc.dev/blog/introduce-yolc/"
+                "title": "OCRing Music from YouTube with Common Lisp",
+                "href": "https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp"
+            },
+            {
+                "title": "Channel Sharding in Go",
+                "href": "https://buttondown.com/jaffray/archive/channel-sharding-in-go/"
             },
             {
                 "title": "Keeping Too Much Logic in SQL Queries Does Not Scale",
                 "href": "https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/"
-            },
-            {
-                "title": "OCRing Music from YouTube with Common Lisp",
-                "href": "https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp"
             },
             {
                 "title": "keymashed: Mash your keyboard to make your internet better",
@@ -97,10 +101,6 @@
             {
                 "title": "NESFab",
                 "href": "https://pubby.games/nesfab.html"
-            },
-            {
-                "title": "Understanding the Physarum Simulation",
-                "href": "https://denizbicer.com/202408-UnderstandingPhysarum.html"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "CISA says recent government hack limited to US Treasury",
+                "href": "https://www.bleepingcomputer.com/news/security/cisa-says-recent-government-hack-limited-to-us-treasury/"
+            },
+            {
                 "title": "Vulnerable Moxa devices expose industrial networks to attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/vulnerable-moxa-devices-expose-industrial-networks-to-attacks/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Bad Tenable plugin updates take down Nessus agents worldwide",
                 "href": "https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/"
-            },
-            {
-                "title": "US sanctions Chinese company linked to Flax Typhoon hackers",
-                "href": "https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-company-linked-to-flax-typhoon-hackers/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Why Computer Scientists Consult Oracles",
+                "href": "https://science.slashdot.org/story/25/01/06/1819206/why-computer-scientists-consult-oracles?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Hundreds of US Locations Had Their Hottest Year On Record",
                 "href": "https://news.slashdot.org/story/25/01/06/1838245/hundreds-of-us-locations-had-their-hottest-year-on-record?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "America Still Has Net Neutrality Laws - In States Like California and New York",
                 "href": "https://tech.slashdot.org/story/25/01/06/0237226/america-still-has-net-neutrality-laws---in-states-like-california-and-new-york?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Man Trapped in Circling Waymo on Way to Airport",
-                "href": "https://tech.slashdot.org/story/25/01/06/0148208/man-trapped-in-circling-waymo-on-way-to-airport?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -714,32 +714,48 @@
                 "href": "https://neal.fun/stimulation-clicker/"
             },
             {
-                "title": "C: Simple Defer, Ready to Use",
-                "href": "https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/"
+                "title": "Triptych Proposals",
+                "href": "https://alexanderpetros.com/triptych/"
             },
             {
                 "title": "An autumn bike adventure down the US portion of the Eastern Divide Trail",
                 "href": "https://www.crazyguyonabike.com/doc/?doc_id=26078"
             },
             {
+                "title": "C: Simple Defer, Ready to Use",
+                "href": "https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/"
+            },
+            {
                 "title": "The Future of Htmx",
                 "href": "https://htmx.org/essays/future/"
             },
             {
-                "title": "Spline Distance Fields",
-                "href": "https://zone.dog/braindump/spline_fields/"
+                "title": "Artie (YC S23) Is Hiring a Founding Engineer",
+                "href": "https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer"
             },
             {
                 "title": "Self-Hostable Form Back End \u2013 OSS Alternative to Formspree",
                 "href": "https://github.com/FormBee/FormBee"
             },
             {
+                "title": "My Favorite Book on AI",
+                "href": "https://www.gatesnotes.com/The-Coming-Wave"
+            },
+            {
+                "title": "Spline Distance Fields",
+                "href": "https://zone.dog/braindump/spline_fields/"
+            },
+            {
+                "title": "Synthesizing Music from JSON",
+                "href": "https://phoboslab.org/log/2025/01/synth"
+            },
+            {
                 "title": "Time-Series Anomaly Detection: A Decade Review",
                 "href": "https://arxiv.org/abs/2412.20512"
             },
             {
-                "title": "My Favorite Book on AI",
-                "href": "https://www.gatesnotes.com/The-Coming-Wave"
+                "title": "Used Meta AI, now Instagram is using my face on ads targeted at me",
+                "href": "https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/"
             },
             {
                 "title": "Property-Based Testing for the People",
@@ -754,14 +770,6 @@
                 "href": "https://morrisbrodersen.de/how-do-you-like-what-you-built/"
             },
             {
-                "title": "Synthesizing Music from JSON",
-                "href": "https://phoboslab.org/log/2025/01/synth"
-            },
-            {
-                "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
-                "href": "item?id=42612394"
-            },
-            {
                 "title": "Software is eating the world, all right (2024)",
                 "href": "https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623"
             },
@@ -770,36 +778,16 @@
                 "href": "https://www.mashups.io"
             },
             {
-                "title": "Justin Trudeau announces resignation",
-                "href": "https://www.bbc.com/news/live/clyjmy7vl64t"
+                "title": "AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores",
+                "href": "https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores"
             },
             {
                 "title": "3blue1brown YouTube Bitcoin video taken down as copyright violation",
                 "href": "https://twitter.com/3blue1brown/status/1876291319955398799"
             },
             {
-                "title": "Dell will no longer make XPS computers",
-                "href": "https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/"
-            },
-            {
-                "title": "AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores",
-                "href": "https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores"
-            },
-            {
-                "title": "Show HN: Al Hugging Video Generator",
-                "href": "https://cococlip.ai/features/ai-hug"
-            },
-            {
-                "title": "42 - Spacecraft Simulation",
-                "href": "https://github.com/ericstoneking/42"
-            },
-            {
                 "title": "Lord of the Io_uring (2020)",
                 "href": "https://unixism.net/loti/index.html"
-            },
-            {
-                "title": "A Note on the Changing Faces of (D)ARPA \u2013 By Eric Gilliam",
-                "href": "https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa"
             },
             {
                 "title": "Hitting OKRs vs. Doing Your Job",
@@ -810,16 +798,28 @@
                 "href": "https://xeiaso.net/blog/2025/squandered-holy-grail/"
             },
             {
+                "title": "42 - Spacecraft Simulation",
+                "href": "https://github.com/ericstoneking/42"
+            },
+            {
+                "title": "A Note on the Changing Faces of (D)ARPA \u2013 By Eric Gilliam",
+                "href": "https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa"
+            },
+            {
+                "title": "Justin Trudeau promises to resign as PM",
+                "href": "https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680"
+            },
+            {
                 "title": "Uncut Currency",
                 "href": "https://www.usmint.gov/paper-currency/uncut-currency/"
             },
             {
-                "title": "All clocks are 30 seconds late",
-                "href": "https://victorpoughon.fr/all-clocks-are-30-seconds-late/"
-            },
-            {
                 "title": "Remote code execution via MIDI messages",
                 "href": "https://psi3.ru/blog/swl01u/"
+            },
+            {
+                "title": "All clocks are 30 seconds late",
+                "href": "https://victorpoughon.fr/all-clocks-are-30-seconds-late/"
             },
             {
                 "title": "Raising of Chicago",
