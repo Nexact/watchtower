@@ -27,12 +27,12 @@
                 "href": "https://operating-system-in-1000-lines.vercel.app/en"
             },
             {
-                "title": "Fidget",
-                "href": "https://www.mattkeeter.com/projects/fidget/"
-            },
-            {
                 "title": "Bringing SerenityOS to real hardware, one driver at a time",
                 "href": "https://sdomi.pl/weblog/23-serenityos-realhw/"
+            },
+            {
+                "title": "Fidget",
+                "href": "https://www.mattkeeter.com/projects/fidget/"
             },
             {
                 "title": "How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
@@ -49,6 +49,10 @@
             {
                 "title": "Some Programming Language Ideas",
                 "href": "https://jerf.org/iri/post/2025/programming_language_ideas/"
+            },
+            {
+                "title": "No-op compiler benchmarking",
+                "href": "https://scot.tg/2025/01/07/no-op-compiler-benchmarking/"
             },
             {
                 "title": "Antenna diodes in the Pentium processor",
@@ -71,12 +75,20 @@
                 "href": "https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink"
             },
             {
+                "title": "De-smarting the Marshall Uxbridge",
+                "href": "https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge"
+            },
+            {
                 "title": "Why developers dislike linters?",
                 "href": "https://www.coderabbit.ai/blog/why-developers-hate-linters"
             },
             {
                 "title": "Six Sins of Platform Teams",
                 "href": "https://serce.me/posts/2025-01-07-six-sins-of-platform-teams"
+            },
+            {
+                "title": "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)",
+                "href": "https://www.usenix.org/system/files/atc24-li-hongyu.pdf"
             },
             {
                 "title": "Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software",
@@ -87,20 +99,8 @@
                 "href": "https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/"
             },
             {
-                "title": "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)",
-                "href": "https://www.usenix.org/system/files/atc24-li-hongyu.pdf"
-            },
-            {
                 "title": "if got, want: A Simple Way to Write Better Go Tests",
                 "href": "https://mtlynch.io/if-got-want-improve-go-tests/"
-            },
-            {
-                "title": "The special case of mobile DevOps",
-                "href": "https://www.tramline.app/blog/the-special-case-of-mobile-devops"
-            },
-            {
-                "title": "Why Go Should Sometimes Be a No-Go",
-                "href": "https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Unpatched critical flaws impact Fancy Product Designer WordPress plugin",
+                "href": "https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/"
+            },
+            {
                 "title": "Ivanti warns of new Connect Secure flaw used in zero-day attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-connect-secure-flaw-used-in-zero-day-attacks/"
             },
@@ -267,10 +271,6 @@
             {
                 "title": "US govt launches cybersecurity safety label for smart devices",
                 "href": "https://www.bleepingcomputer.com/news/security/us-govt-launches-cybersecurity-safety-label-for-smart-devices/"
-            },
-            {
-                "title": "BIOS flaws expose iSeq DNA sequencers to bootkit attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/"
             }
         ]
     },
@@ -322,6 +322,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "DEF CON's Hacker-In-Chief Faces Fortune In Medical Bills",
+                "href": "https://science.slashdot.org/story/25/01/08/2037204/def-cons-hacker-in-chief-faces-fortune-in-medical-bills?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "AT&amp;T Promises Bill Credits For Future Outages",
                 "href": "https://slashdot.org/story/25/01/08/2028245/att-promises-bill-credits-for-future-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -377,10 +381,6 @@
             {
                 "title": "Scientists Find 'Spooky' Quantum Entanglement Within Individual Protons",
                 "href": "https://science.slashdot.org/story/25/01/08/0028204/scientists-find-spooky-quantum-entanglement-within-individual-protons?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Religious Leaders Experiment With AI In Sermons",
-                "href": "https://slashdot.org/story/25/01/08/0015223/religious-leaders-experiment-with-ai-in-sermons?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -746,36 +746,40 @@
                 "href": "https://operating-system-in-1000-lines.vercel.app/en"
             },
             {
-                "title": "Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra",
-                "href": "https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/"
+                "title": "Collection: More Doctors Smoke Camels",
+                "href": "https://tobacco.stanford.edu/cigarettes/doctors-smoking/more-doctors-smoke-camels/"
             },
             {
-                "title": "Some Programming Language Ideas",
-                "href": "https://jerf.org/iri/post/2025/programming_language_ideas/"
+                "title": "Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra",
+                "href": "https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/"
             },
             {
                 "title": "Who killed the rave? Late-night dancing falls into global decline",
                 "href": "https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1"
             },
             {
+                "title": "A Pixel Parable",
+                "href": "https://olano.dev/blog/a-pixel-parable/"
+            },
+            {
                 "title": "Show HN: Belshazzar's Clock, luminous paint night clock",
                 "href": "https://blog.karliner.net/projects/belshazzars-clock/"
             },
             {
-                "title": "Collection: More Doctors Smoke Camels",
-                "href": "https://tobacco.stanford.edu/cigarettes/doctors-smoking/more-doctors-smoke-camels/"
+                "title": "Some Programming Language Ideas",
+                "href": "https://jerf.org/iri/post/2025/programming_language_ideas/"
             },
             {
-                "title": "A Pixel Parable",
-                "href": "https://olano.dev/blog/a-pixel-parable/"
+                "title": "A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)",
+                "href": "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/"
             },
             {
                 "title": "Two Dots (YC S22) Is Hiring ML and Back End Engineers",
                 "href": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer"
             },
             {
-                "title": "A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)",
-                "href": "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/"
+                "title": "Learning Synths",
+                "href": "https://learningsynths.ableton.com"
             },
             {
                 "title": "Gate-level simulation of ASIC in browser",
@@ -784,10 +788,6 @@
             {
                 "title": "Computer Architecture \u2013 Michael Flynn (2007)",
                 "href": "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071"
-            },
-            {
-                "title": "Learning Synths",
-                "href": "https://learningsynths.ableton.com"
             },
             {
                 "title": "A day in the life of a prolific voice phishing crew",
@@ -814,10 +814,6 @@
                 "href": "https://www.ganssle.com/debouncing.htm"
             },
             {
-                "title": "Hyperview \u2013 Native mobile apps, as easy as creating a website",
-                "href": "https://hyperview.org/"
-            },
-            {
                 "title": "Show HN: HipScript \u2013 Run CUDA in the browser with WebAssembly and WebGPU",
                 "href": "https://hipscript.lights0123.com/"
             },
@@ -828,6 +824,10 @@
             {
                 "title": "Streets GL \u2013 3D OpenStreetMap",
                 "href": "https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10"
+            },
+            {
+                "title": "Hyperview \u2013 Native mobile apps, as easy as creating a website",
+                "href": "https://hyperview.org/"
             },
             {
                 "title": "Schola Latina Europ\u00e6a and Universalis",
