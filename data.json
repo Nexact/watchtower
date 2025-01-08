@@ -19,6 +19,10 @@
                 "href": "https://operating-system-in-1000-lines.vercel.app/en"
             },
             {
+                "title": "Installing NixOS with the latest kernel",
+                "href": "https://silky.github.io/posts/nixos-latest-kernel.html"
+            },
+            {
                 "title": "Servo Revival: 2023-2024",
                 "href": "https://blogs.igalia.com/mrego/servo-revival-2023-2024/"
             },
@@ -27,12 +31,16 @@
                 "href": "https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink"
             },
             {
+                "title": "Fidget",
+                "href": "https://www.mattkeeter.com/projects/fidget/"
+            },
+            {
                 "title": "How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
                 "href": "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
             },
             {
-                "title": "Installing NixOS with the latest kernel",
-                "href": "https://silky.github.io/posts/nixos-latest-kernel.html"
+                "title": "Threads with WebAssembly",
+                "href": "https://tonbo.io/blog/threads-with-webassembly"
             },
             {
                 "title": "Antenna diodes in the Pentium processor",
@@ -43,8 +51,12 @@
                 "href": "https://serce.me/posts/2025-01-07-six-sins-of-platform-teams"
             },
             {
-                "title": "Threads with WebAssembly",
-                "href": "https://tonbo.io/blog/threads-with-webassembly"
+                "title": "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)",
+                "href": "https://www.usenix.org/system/files/atc24-li-hongyu.pdf"
+            },
+            {
+                "title": "SQLite Archive Files",
+                "href": "https://www.sqlite.org/sqlar.html"
             },
             {
                 "title": "MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed",
@@ -53,14 +65,6 @@
             {
                 "title": "The special case of mobile DevOps",
                 "href": "https://www.tramline.app/blog/the-special-case-of-mobile-devops"
-            },
-            {
-                "title": "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)",
-                "href": "https://www.usenix.org/system/files/atc24-li-hongyu.pdf"
-            },
-            {
-                "title": "Fidget",
-                "href": "https://www.mattkeeter.com/projects/fidget/"
             },
             {
                 "title": "End-to-end encrypted, peer-to-peer VPN tunnels for hackers",
@@ -81,10 +85,6 @@
             {
                 "title": "Embedding Scheme in Rust",
                 "href": "https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/"
-            },
-            {
-                "title": "SQLite Archive Files",
-                "href": "https://www.sqlite.org/sqlar.html"
             },
             {
                 "title": "Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery - Introducing CSPT2CSRF",
@@ -217,6 +217,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Over 4,000 backdoors hijacked by registering expired domains",
+                "href": "https://www.bleepingcomputer.com/news/security/over-4-000-backdoors-hijacked-by-registering-expired-domains/"
+            },
+            {
+                "title": "Medical billing firm Medusind discloses breach affecting 360,000 people",
+                "href": "https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/"
+            },
+            {
                 "title": "Thousands of credit cards stolen in Green Bay Packers store breach",
                 "href": "https://www.bleepingcomputer.com/news/security/thousands-of-credit-cards-stolen-in-green-bay-packers-store-breach/"
             },
@@ -263,14 +271,6 @@
             {
                 "title": "Telegram hands over data on thousands of users to US law enforcement",
                 "href": "https://www.bleepingcomputer.com/news/legal/telegram-hands-over-data-on-thousands-of-users-to-us-law-enforcement/"
-            },
-            {
-                "title": "Malicious Browser Extensions are the Next Frontier for Identity Attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-are-the-next-frontier-for-identity-attacks/"
-            },
-            {
-                "title": "Green Bay Packers' online store hacked to steal credit cards",
-                "href": "https://www.bleepingcomputer.com/news/security/green-bay-packers-online-store-hacked-to-steal-credit-cards/"
             }
         ]
     },
@@ -322,6 +322,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Japan Says Chinese Hackers Targeted Its Government and Tech Companies For Years",
+                "href": "https://it.slashdot.org/story/25/01/08/1646213/japan-says-chinese-hackers-targeted-its-government-and-tech-companies-for-years?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Six Big US Banks Quit Net Zero Alliance",
                 "href": "https://news.slashdot.org/story/25/01/08/1515243/six-big-us-banks-quit-net-zero-alliance?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -377,10 +381,6 @@
             {
                 "title": "Review Roundup: OnePlus 13",
                 "href": "https://mobile.slashdot.org/story/25/01/07/2220242/review-roundup-oneplus-13?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Nvidia Launches RTX 50 Blackwell GPUs: From the $2,000 RTX 5090 To the $549 RTX",
-                "href": "https://hardware.slashdot.org/story/25/01/07/2150223/nvidia-launches-rtx-50-blackwell-gpus-from-the-2000-rtx-5090-to-the-549-rtx?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -730,16 +730,8 @@
                 "href": "https://atlasof.space/"
             },
             {
-                "title": "Run Python in the Browser Effortlessly",
-                "href": "https://kai.bi/post/run-python-programs-easily-in-the-browser"
-            },
-            {
                 "title": "Operating System in 1,000 Lines \u2013 Intro",
                 "href": "https://operating-system-in-1000-lines.vercel.app/en"
-            },
-            {
-                "title": "Two Dots (YC S22) Is Hiring ML and Back End Engineers",
-                "href": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer"
             },
             {
                 "title": "Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra",
@@ -750,8 +742,8 @@
                 "href": "https://blog.karliner.net/projects/belshazzars-clock/"
             },
             {
-                "title": "A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)",
-                "href": "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/"
+                "title": "Two Dots (YC S22) Is Hiring ML and Back End Engineers",
+                "href": "https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer"
             },
             {
                 "title": "Who killed the rave? Late-night dancing falls into global decline",
@@ -762,16 +754,20 @@
                 "href": "https://recyclebin.zip/posts/annoyinglinks/"
             },
             {
-                "title": "Computer Architecture \u2013 Michael Flynn (2007)",
-                "href": "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071"
-            },
-            {
                 "title": "Mistakes engineers make in large established codebases",
                 "href": "https://www.seangoedecke.com/large-established-codebases/"
             },
             {
+                "title": "Computer Architecture \u2013 Michael Flynn (2007)",
+                "href": "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071"
+            },
+            {
                 "title": "Gate-level simulation of ASIC in browser",
                 "href": "https://znah.net/tt09/"
+            },
+            {
+                "title": "A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)",
+                "href": "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/"
             },
             {
                 "title": "Learning Synths",
@@ -794,12 +790,16 @@
                 "href": "https://blogs.igalia.com/mrego/servo-revival-2023-2024/"
             },
             {
-                "title": "People Behind Project 2025 Want to Reveal the Identities of Wikipedia Editors",
-                "href": "https://gizmodo.com/the-people-behind-project-2025-want-to-reveal-the-identities-of-wikipedia-editors-2000547511"
-            },
-            {
                 "title": "Show HN: HipScript \u2013 Run CUDA in the browser with WebAssembly and WebGPU",
                 "href": "https://hipscript.lights0123.com/"
+            },
+            {
+                "title": "Expressive Vector Engine \u2013 SIMD in C++",
+                "href": "https://github.com/jfalcou/eve"
+            },
+            {
+                "title": "Streets GL \u2013 3D OpenStreetMap",
+                "href": "https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10"
             },
             {
                 "title": "Minimum bipartite matching via Riemann optimization (2023)",
@@ -810,20 +810,12 @@
                 "href": "http://avitus.alcuinus.net/schola_latina/soni_en.php"
             },
             {
-                "title": "Streets GL \u2013 3D OpenStreetMap",
-                "href": "https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10"
-            },
-            {
-                "title": "Expressive Vector Engine \u2013 SIMD in C++",
-                "href": "https://github.com/jfalcou/eve"
+                "title": "Edwin Cohn and the Harvard Blood Factory",
+                "href": "https://www.asimov.press/p/cohn"
             },
             {
                 "title": "Fold-... and Monoids",
                 "href": "http://funcall.blogspot.com/2025/01/fold-and-monoids.html"
-            },
-            {
-                "title": "Edwin Cohn and the Harvard Blood Factory",
-                "href": "https://www.asimov.press/p/cohn"
             },
             {
                 "title": "Hyperview \u2013 Native mobile apps, as easy as creating a website",
@@ -834,8 +826,16 @@
                 "href": "https://www.youtube.com/watch?v=mVWQQeSOD0M"
             },
             {
-                "title": "Word Processors on the Commodore VIC-20 (2021)",
-                "href": "https://techtinkering.com/articles/word-processors-on-the-commodore-vic-20/"
+                "title": "Automated accessibility testing at Slack",
+                "href": "https://slack.engineering/automated-accessibility-testing-at-slack/"
+            },
+            {
+                "title": "Building Ultra Long Range Toslink",
+                "href": "https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink"
+            },
+            {
+                "title": "Ending our third party fact-checking program and moving to Community Notes model",
+                "href": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/"
             }
         ]
     }
