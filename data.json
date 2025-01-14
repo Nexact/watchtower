@@ -15,6 +15,10 @@
                 "href": "https://mitxela.com/projects/fluid-pendant"
             },
             {
+                "title": "The Campsite codebase is now open source",
+                "href": "https://github.com/campsite/campsite"
+            },
+            {
                 "title": "proposal: spec: reduce error handling boilerplate using ?",
                 "href": "https://github.com/golang/go/issues/71203"
             },
@@ -23,12 +27,12 @@
                 "href": "https://moral.net.au/writing/2025/01/11/waiting_for_oregon/"
             },
             {
-                "title": "The Campsite codebase is now open source",
-                "href": "https://github.com/campsite/campsite"
-            },
-            {
                 "title": "Understanding Memory Management, Part 1: C",
                 "href": "https://educatedguesswork.org/posts/memory-management-1/"
+            },
+            {
+                "title": "Coding Adventure: Rendering Text",
+                "href": "https://youtube.com/watch?v=SO83KQuuZvg"
             },
             {
                 "title": "ODB C++ ORM version 2.5.0 released",
@@ -37,10 +41,6 @@
             {
                 "title": "Split Out Unrelated Changes",
                 "href": "https://joshuakgoldberg.com/blog/split-out-unrelated-changes/"
-            },
-            {
-                "title": "Coding Adventure: Rendering Text",
-                "href": "https://youtube.com/watch?v=SO83KQuuZvg"
             },
             {
                 "title": "Verified post-quantum cryptography on the web",
@@ -65,6 +65,14 @@
             {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/usgssj/what_are_you_doing_this_week"
+            },
+            {
+                "title": "Data evolution with set-theoretic types",
+                "href": "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
+            },
+            {
+                "title": "Radical CS",
+                "href": "https://csrc.nist.gov/Presentations/2023/radical-cs"
             },
             {
                 "title": "Running LLMs on the Nintendo Switch",
@@ -93,14 +101,6 @@
             {
                 "title": "The power of open source in PostgreSQL",
                 "href": "https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/"
-            },
-            {
-                "title": "Accurate Benchmarking",
-                "href": "https://ates.dev/posts/2025-01-12-accurate-benchmarking/"
-            },
-            {
-                "title": "Code reviews: A success story",
-                "href": "https://blogsystem5.substack.com/p/code-reviews-a-success-story"
             }
         ]
     },
@@ -734,28 +734,28 @@
                 "href": "https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal"
             },
             {
-                "title": "A secure distributed actor language",
-                "href": "https://mistysystem.com/"
-            },
-            {
                 "title": "Debugging: Indispensable rules for finding even the most elusive problems (2004)",
                 "href": "https://dwheeler.com/essays/debugging-agans.html"
             },
             {
-                "title": "Dragonfly's extreme loop-the-loops",
-                "href": "https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature"
+                "title": "A secure distributed actor language",
+                "href": "https://mistysystem.com/"
             },
             {
                 "title": "Fluid Simulation Pendant",
                 "href": "https://mitxela.com/projects/fluid-pendant"
             },
             {
-                "title": "Lines of code that will beat A/B testing every time (2012)",
-                "href": "https://stevehanov.ca/blog/index.php?id=132"
+                "title": "Dragonfly's extreme loop-the-loops",
+                "href": "https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature"
             },
             {
                 "title": "voyage-code-3",
                 "href": "https://blog.voyageai.com/2024/12/04/voyage-code-3/"
+            },
+            {
+                "title": "Lines of code that will beat A/B testing every time (2012)",
+                "href": "https://stevehanov.ca/blog/index.php?id=132"
             },
             {
                 "title": "Training AI models might not need enormous data centres",
@@ -770,12 +770,24 @@
                 "href": "https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper"
             },
             {
+                "title": "Ask HN: How to approach first days on a new job as a senior PM?",
+                "href": "item?id=42657982"
+            },
+            {
                 "title": "Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)",
                 "href": "https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/"
             },
             {
+                "title": "I'm a Programmer Who Bought a Typewriter",
+                "href": "item?id=42660042"
+            },
+            {
                 "title": "Can you complete the Oregon Trail if you wait at a river for 14272 years?",
                 "href": "https://moral.net.au/writing/2025/01/11/waiting_for_oregon/"
+            },
+            {
+                "title": "Why is my CPU usage always 100%?",
+                "href": "https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/"
             },
             {
                 "title": "James Thomson on the Origins of the macOS Dock",
@@ -786,48 +798,36 @@
                 "href": "https://github.com/campsite/campsite"
             },
             {
-                "title": "Ask HN: How to approach first days on a new job as a senior PM?",
-                "href": "item?id=42657982"
-            },
-            {
-                "title": "Why is my CPU usage always 100%?",
-                "href": "https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/"
-            },
-            {
                 "title": "The Macros module is a fictitious module used to document macros",
                 "href": "https://crystal-lang.org/api/1.15.0/Crystal/Macros.html"
-            },
-            {
-                "title": "What Is Treewidth?",
-                "href": "https://www.ams.org/journals/notices/202502/noti3043/noti3043.html"
             },
             {
                 "title": "Sonos CEO steps down after app update debacle",
                 "href": "https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/"
             },
             {
-                "title": "FreeBSD Suspend/Resume",
-                "href": "https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/"
+                "title": "What Is Treewidth?",
+                "href": "https://www.ams.org/journals/notices/202502/noti3043/noti3043.html"
             },
             {
-                "title": "When a winter storm trapped a luxury passenger train near Donner Pass",
-                "href": "https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/"
+                "title": "FreeBSD Suspend/Resume",
+                "href": "https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/"
             },
             {
                 "title": "AI Engineer Reading List",
                 "href": "https://www.latent.space/p/2025-papers"
             },
             {
-                "title": "Railroad Tycoon II",
-                "href": "https://www.filfre.net/2025/01/railroad-tycoon-ii/"
+                "title": "When a winter storm trapped a luxury passenger train near Donner Pass",
+                "href": "https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/"
             },
             {
                 "title": "How corn syrup took over America",
                 "href": "https://thehustle.co/originals/how-corn-syrup-took-over-america"
             },
             {
-                "title": "The Origins of Wokeness",
-                "href": "https://paulgraham.com/woke.html"
+                "title": "Railroad Tycoon II",
+                "href": "https://www.filfre.net/2025/01/railroad-tycoon-ii/"
             }
         ]
     }
