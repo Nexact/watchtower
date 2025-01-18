@@ -11,12 +11,12 @@
                 "href": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram"
             },
             {
-                "title": "Lessons From Red Teaming 100 Generative AI Products",
-                "href": "https://arxiv.org/abs/2501.07238"
-            },
-            {
                 "title": "A versioning scheme for end-user software",
                 "href": "https://deniz.aksimsek.tr/2025/version/"
+            },
+            {
+                "title": "Lessons From Red Teaming 100 Generative AI Products",
+                "href": "https://arxiv.org/abs/2501.07238"
             },
             {
                 "title": "Hands-on graphics without X11",
@@ -29,6 +29,10 @@
             {
                 "title": "Thoughts on having SSH allow password authentication from the Internet",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth"
+            },
+            {
+                "title": "Reverse-engineering a carry-lookahead adder in the Pentium",
+                "href": "http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html"
             },
             {
                 "title": "Podcast: Type Theory Forall",
@@ -47,6 +51,18 @@
                 "href": "https://corrode.dev/blog/prototyping/"
             },
             {
+                "title": "Git Trailers",
+                "href": "https://alchemists.io/articles/git_trailers"
+            },
+            {
+                "title": "2D Syntax",
+                "href": "https://docs.racket-lang.org/2d/index.html"
+            },
+            {
+                "title": "Wasm GC isn\u2019t ready for realtime graphics",
+                "href": "https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html"
+            },
+            {
                 "title": "isd (interactive systemd) \u2014 a better way to work with systemd units",
                 "href": "https://github.com/isd-project/isd"
             },
@@ -59,20 +75,8 @@
                 "href": "https://github.com/lewis-carson/PFPCaml"
             },
             {
-                "title": "Reverse-engineering a carry-lookahead adder in the Pentium",
-                "href": "http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html"
-            },
-            {
                 "title": "gittuf: A security layer for Git repositories",
                 "href": "https://github.com/gittuf/gittuf"
-            },
-            {
-                "title": "2D Syntax",
-                "href": "https://docs.racket-lang.org/2d/index.html"
-            },
-            {
-                "title": "Wasm GC isn\u2019t ready for realtime graphics",
-                "href": "https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html"
             },
             {
                 "title": "Investigating an \"evil\" RJ45 dongle",
@@ -95,12 +99,8 @@
                 "href": "https://earthstar-project.org/"
             },
             {
-                "title": "Project MINI RACK - a Homelab Revolution",
-                "href": "https://www.youtube.com/watch?v=y1GCIwLm3is"
-            },
-            {
-                "title": "What to Expect from Release Month (0.14.0)",
-                "href": "https://ziglang.org/news/what-to-expect-from-release-month/"
+                "title": "Preventing data races with Pony",
+                "href": "https://lwn.net/Articles/1001224/"
             }
         ]
     },
@@ -726,8 +726,8 @@
                 "href": "https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as"
             },
             {
-                "title": "Why do bees die when they sting you?",
-                "href": "https://www.subanima.org/bees/"
+                "title": "Amazon's AI crawler is making my Git server unstable",
+                "href": "https://xeiaso.net/notes/2025/amazon-crawler/"
             },
             {
                 "title": "Saint Peter Basilica digital experience",
@@ -738,56 +738,52 @@
                 "href": "https://marian42.de/article/infinite-wfc/"
             },
             {
-                "title": "Amazon's AI crawler is making my Git server unstable",
-                "href": "https://xeiaso.net/notes/2025/amazon-crawler/"
+                "title": "Why do bees die when they sting you?",
+                "href": "https://www.subanima.org/bees/"
             },
             {
                 "title": "O1 isn't a chat model (and that's the point)",
                 "href": "https://www.latent.space/p/o1-skill-issue"
             },
             {
-                "title": "atproto and the ownership of identity",
-                "href": "https://anirudh.fi/blog/identity/"
-            },
-            {
                 "title": "Portrait of the Hilbert Curve (2010)",
                 "href": "https://corte.si/posts/code/hilbert/portrait/"
-            },
-            {
-                "title": "Rule-Based Programming in Interactive Fiction",
-                "href": "https://eblong.com/zarf/essays/rule-based-if/index.html"
-            },
-            {
-                "title": "Investigating an \u201cevil\u201d RJ45 dongle",
-                "href": "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle"
             },
             {
                 "title": "So you want to build your own data center",
                 "href": "https://blog.railway.com/p/data-center-build-part-one"
             },
             {
-                "title": "TCL's bet on screens that look like paper",
-                "href": "https://notes.ghed.in/posts/2025/tcl-nxtpaper-screen-tech/"
+                "title": "Investigating an \u201cevil\u201d RJ45 dongle",
+                "href": "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle"
             },
             {
                 "title": "Can you read this cursive handwriting? The National Archives wants your help",
                 "href": "https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/"
             },
             {
+                "title": "atproto and the ownership of identity",
+                "href": "https://anirudh.fi/blog/identity/"
+            },
+            {
                 "title": "Show HN: ZX Spectrum SCR to PNG Converter",
                 "href": "https://www.esp32rainbow.com/tools/scr-to-png"
             },
             {
-                "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-                "href": "https://courk.cc/rp2350-challenge-laser"
+                "title": "TCL's bet on screens that look like paper",
+                "href": "https://notes.ghed.in/posts/2025/tcl-nxtpaper-screen-tech/"
             },
             {
                 "title": "Playful Drawings That Charles Darwin's Children Left on His Manuscripts",
                 "href": "https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html"
             },
             {
-                "title": "Shapecatcher \u2013 Find Unicode characters by drawing",
-                "href": "https://shapecatcher.com/"
+                "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+                "href": "https://courk.cc/rp2350-challenge-laser"
+            },
+            {
+                "title": "Rule-Based Programming in Interactive Fiction",
+                "href": "https://eblong.com/zarf/essays/rule-based-if/index.html"
             },
             {
                 "title": "The Toyota Prius transformed the auto industry",
@@ -798,40 +794,44 @@
                 "href": "https://medium.com/altitudehq/is-traditional-nlp-dead-05544ae7d756"
             },
             {
-                "title": "Higher potassium intake at dinner linked to fewer sleep disturbances \u2013 study",
-                "href": "https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/"
+                "title": "Shapecatcher \u2013 Find Unicode characters by drawing",
+                "href": "https://shapecatcher.com/"
             },
             {
                 "title": "Designing a Star Tracker for Astronaut Don Pettit to Use on the ISS",
                 "href": "https://petapixel.com/2025/01/14/designing-a-star-tracker-for-astronaut-don-pettit-to-use-on-the-iss/"
             },
             {
+                "title": "Higher potassium intake at dinner linked to fewer sleep disturbances \u2013 study",
+                "href": "https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/"
+            },
+            {
                 "title": "ELIZA Reanimated",
                 "href": "https://arxiv.org/abs/2501.06707"
-            },
-            {
-                "title": "Branchless UTF-8 Encoding",
-                "href": "https://cceckman.com/writing/branchless-utf8-encoding/"
-            },
-            {
-                "title": "Hands-On Graphics Without X11",
-                "href": "https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11"
-            },
-            {
-                "title": "Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)",
-                "href": "item?id=42744820"
-            },
-            {
-                "title": "Lightcell: An engine that uses light to make electricity",
-                "href": "https://www.lightcellenergy.com/"
             },
             {
                 "title": "Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?",
                 "href": "item?id=42748394"
             },
             {
-                "title": "DoubleClickjacking: A New type of web hacking technique",
-                "href": "https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html"
+                "title": "Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)",
+                "href": "item?id=42744820"
+            },
+            {
+                "title": "Branchless UTF-8 Encoding",
+                "href": "https://cceckman.com/writing/branchless-utf8-encoding/"
+            },
+            {
+                "title": "Lightcell: An engine that uses light to make electricity",
+                "href": "https://www.lightcellenergy.com/"
+            },
+            {
+                "title": "Hands-On Graphics Without X11",
+                "href": "https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11"
+            },
+            {
+                "title": "Fake Job Listings Are Proliferating",
+                "href": "https://www.wsj.com/lifestyle/careers/ghost-jobs-2c0dcd4e"
             }
         ]
     }
