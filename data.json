@@ -15,6 +15,10 @@
                 "href": "https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/"
             },
             {
+                "title": "Build It Yourself",
+                "href": "https://lucumr.pocoo.org/2025/1/24/build-it-yourself/"
+            },
+            {
                 "title": "The preview of -fbounds-safety is now accessible to the community",
                 "href": "https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221"
             },
@@ -23,12 +27,12 @@
                 "href": "https://witheve.com/"
             },
             {
-                "title": "Build It Yourself",
-                "href": "https://lucumr.pocoo.org/2025/1/24/build-it-yourself/"
-            },
-            {
                 "title": "Results! - The Big Array Size Survey for C",
                 "href": "https://thephd.dev/the-big-array-size-survey-for-c-results"
+            },
+            {
+                "title": "CUTECat: Concolic Execution for Computational Law",
+                "href": "https://arxiv.org/pdf/2410.18212"
             },
             {
                 "title": "buzz 0.5.0 release",
@@ -51,12 +55,24 @@
                 "href": "https://samcurry.net/hacking-subaru"
             },
             {
+                "title": "Guix User and Contributor Survey 2024: The Results (part 2)",
+                "href": "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/"
+            },
+            {
                 "title": "Plank Reloaded: Still Stupidly Simple",
                 "href": "https://thoughts.greyh.at/posts/plank-reloaded/"
             },
             {
+                "title": "The J-Magic Show: Magic Packets and Where to find them",
+                "href": "https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/"
+            },
+            {
                 "title": "tell me of weird, obscure, or proprietary C compilers and environments past and present",
                 "href": "https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c"
+            },
+            {
+                "title": "ManKier - HTML man pages",
+                "href": "https://www.mankier.com/"
             },
             {
                 "title": "December Project Goals Update",
@@ -67,20 +83,16 @@
                 "href": "https://bun.sh/blog/bun-v1.2"
             },
             {
-                "title": "Guix User and Contributor Survey 2024: The Results (part 2)",
-                "href": "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/"
-            },
-            {
-                "title": "The J-Magic Show: Magic Packets and Where to find them",
-                "href": "https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/"
+                "title": "The state of Vim",
+                "href": "https://lwn.net/Articles/1002342/"
             },
             {
                 "title": "Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast",
                 "href": "https://arxiv.org/abs/2501.13276"
             },
             {
-                "title": "ManKier - HTML man pages",
-                "href": "https://www.mankier.com/"
+                "title": "Tilde, my LLVM alternative",
+                "href": "https://yasserarg.com/tb"
             },
             {
                 "title": "First release of OpenVox, the community fork of Puppet",
@@ -89,18 +101,6 @@
             {
                 "title": "Capturing screenshots with Rust + OpenGL (2018)",
                 "href": "https://tonyfinn.com/blog/opengl-rust-screenshots/"
-            },
-            {
-                "title": "Docker Hub seemingly drops sponsored open source program",
-                "href": "https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub"
-            },
-            {
-                "title": "SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel",
-                "href": "https://jprx.io/cve-2024-54507/"
-            },
-            {
-                "title": "My impressions of Gleam",
-                "href": "https://snarky.ca/my-impressions-of-gleam/"
             }
         ]
     },
@@ -718,36 +718,48 @@
                 "href": "https://yasserarg.com/tb"
             },
             {
+                "title": "Every System is a Log: Avoiding coordination in distributed applications",
+                "href": "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/"
+            },
+            {
                 "title": "Coping with dumb LLMs using classic ML",
                 "href": "https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree"
-            },
-            {
-                "title": "A QR code that sends you to a different destination \u2013 lenticular and adversarial",
-                "href": "https://mstdn.social/@isziaui/113874436953157913"
-            },
-            {
-                "title": "The Nix NGI Team: Advancing Open Source with Nix",
-                "href": "https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229"
-            },
-            {
-                "title": "The State of Vim",
-                "href": "https://lwn.net/Articles/1002342/"
-            },
-            {
-                "title": "Thank HN: My bootstrapped startup got acquired today",
-                "href": "item?id=42806247"
-            },
-            {
-                "title": "Trae: AI Code Editor from ByteDance",
-                "href": "https://www.trae.ai"
             },
             {
                 "title": "Ask HN: Why buy domains and 301 redirect them to me?",
                 "href": "item?id=42812779"
             },
             {
+                "title": "A QR code that sends you to a different destination \u2013 lenticular and adversarial",
+                "href": "https://mstdn.social/@isziaui/113874436953157913"
+            },
+            {
+                "title": "Thank HN: My bootstrapped startup got acquired today",
+                "href": "item?id=42806247"
+            },
+            {
+                "title": "The State of Vim",
+                "href": "https://lwn.net/Articles/1002342/"
+            },
+            {
+                "title": "The Nix NGI Team: Advancing Open Source with Nix",
+                "href": "https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229"
+            },
+            {
+                "title": "Trae: AI Code Editor from ByteDance",
+                "href": "https://www.trae.ai"
+            },
+            {
                 "title": "Show HN: I made an open-source laptop from scratch",
                 "href": "https://www.byran.ee/posts/creation/"
+            },
+            {
+                "title": "The importance of favicons in website OSINT research",
+                "href": "https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/"
+            },
+            {
+                "title": "Court rules FBI's warrantless searches violated Fourth Amendment",
+                "href": "https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/"
             },
             {
                 "title": "The Most Mario Colors",
@@ -758,48 +770,36 @@
                 "href": "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/"
             },
             {
-                "title": "Impact of Low Temperatures on the 5nm SRAM Array Size and Performance",
-                "href": "https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/"
-            },
-            {
                 "title": "Llama.vim \u2013 Local LLM-assisted text completion",
                 "href": "https://github.com/ggml-org/llama.vim"
+            },
+            {
+                "title": "Impact of Low Temperatures on the 5nm SRAM Array Size and Performance",
+                "href": "https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/"
             },
             {
                 "title": "Make your chair rotate in VR",
                 "href": "https://skarredghost.com/2025/01/20/roto-vr-hands-on-impressions/"
             },
             {
-                "title": "Weierstrass's Monster",
-                "href": "https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/"
-            },
-            {
-                "title": "The importance of favicons in website OSINT research",
-                "href": "https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/"
-            },
-            {
                 "title": "Operator research preview",
                 "href": "https://openai.com/index/introducing-operator/"
             },
             {
-                "title": "A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence",
-                "href": "https://spectrum.ieee.org/reconnaissance-satellite"
+                "title": "Weierstrass's Monster",
+                "href": "https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/"
             },
             {
                 "title": "Building a Medieval Castle from Scratch",
                 "href": "https://www.guedelon.fr/en/"
             },
             {
+                "title": "A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence",
+                "href": "https://spectrum.ieee.org/reconnaissance-satellite"
+            },
+            {
                 "title": "I wrote my own \"proper\" programming language (2020)",
                 "href": "https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/"
-            },
-            {
-                "title": "Court rules FBI's warrantless searches violated Fourth Amendment",
-                "href": "https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/"
-            },
-            {
-                "title": "Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder",
-                "href": "https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring"
             },
             {
                 "title": "Hacking Subaru: Tracking and controlling cars via the admin panel",
@@ -810,24 +810,24 @@
                 "href": "https://benpence.com/blog/post/psychedelic-graphics-0"
             },
             {
-                "title": "UI is hell: four-function calculators",
-                "href": "https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators"
-            },
-            {
-                "title": "Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste",
-                "href": "https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681"
+                "title": "Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder",
+                "href": "https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring"
             },
             {
                 "title": "Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel",
                 "href": "https://jprx.io/cve-2024-54507/"
             },
             {
+                "title": "Surface-Stable Fractal Dithering",
+                "href": "https://github.com/runevision/Dither3D"
+            },
+            {
                 "title": "Sei (YC W22) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai"
             },
             {
-                "title": "Surface-Stable Fractal Dithering",
-                "href": "https://github.com/runevision/Dither3D"
+                "title": "Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste",
+                "href": "https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681"
             }
         ]
     }
