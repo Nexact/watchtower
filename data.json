@@ -23,6 +23,10 @@
                 "href": "https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/"
             },
             {
+                "title": "The state of Vim",
+                "href": "https://lwn.net/Articles/1002342/"
+            },
+            {
                 "title": "The preview of -fbounds-safety is now accessible to the community",
                 "href": "https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221"
             },
@@ -31,16 +35,16 @@
                 "href": "https://thephd.dev/the-big-array-size-survey-for-c-results"
             },
             {
-                "title": "The state of Vim",
-                "href": "https://lwn.net/Articles/1002342/"
-            },
-            {
                 "title": "Eve Programming Language",
                 "href": "https://witheve.com/"
             },
             {
                 "title": "ManKier - HTML man pages",
                 "href": "https://www.mankier.com/"
+            },
+            {
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend"
             },
             {
                 "title": "buzz 0.5.0 release",
@@ -59,12 +63,12 @@
                 "href": "https://dusa.rocks/docs/"
             },
             {
-                "title": "Guix User and Contributor Survey 2024: The Results (part 2)",
-                "href": "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/"
+                "title": "The J-Magic Show: Magic Packets and Where to find them",
+                "href": "https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/"
             },
             {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend"
+                "title": "Guix User and Contributor Survey 2024: The Results (part 2)",
+                "href": "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/"
             },
             {
                 "title": "Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel",
@@ -83,8 +87,12 @@
                 "href": "https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c"
             },
             {
-                "title": "The J-Magic Show: Magic Packets and Where to find them",
-                "href": "https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/"
+                "title": "UI is hell: four-function calculators",
+                "href": "https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators"
+            },
+            {
+                "title": "Template literal types in TypeScript: parsing during type checking and more",
+                "href": "https://2ality.com/2025/01/template-literal-types.html"
             },
             {
                 "title": "Bun 1.2",
@@ -93,14 +101,6 @@
             {
                 "title": "Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast",
                 "href": "https://arxiv.org/abs/2501.13276"
-            },
-            {
-                "title": "UI is hell: four-function calculators",
-                "href": "https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators"
-            },
-            {
-                "title": "Template literal types in TypeScript: parsing during type checking and more",
-                "href": "https://2ality.com/2025/01/template-literal-types.html"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Hacker infects 18,000 \"script kiddies\" with fake malware builder",
+                "href": "https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/"
+            },
+            {
                 "title": "Microsoft: Outdated Exchange servers fail to auto-mitigate security bugs",
                 "href": "https://www.bleepingcomputer.com/news/security/microsoft-outdated-exchange-servers-fail-to-auto-mitigate-security-bugs/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Stealthy 'Magic Packet' malware targets Juniper VPN gateways",
                 "href": "https://www.bleepingcomputer.com/news/security/stealthy-magic-packet-malware-targets-juniper-vpn-gateways/"
-            },
-            {
-                "title": "Tesla EV charger hacked twice on second day of Pwn2Own Tokyo",
-                "href": "https://www.bleepingcomputer.com/news/security/tesla-ev-charger-hacked-twice-on-second-day-of-pwn2own-tokyo/"
             }
         ]
     },
@@ -714,20 +714,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "How I Use Home Assistant in 2025",
-                "href": "https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html"
-            },
-            {
-                "title": "Tilde, My LLVM Alternative",
-                "href": "https://yasserarg.com/tb"
+                "title": "Wild \u2013 A Fast Linker for Linux",
+                "href": "https://github.com/davidlattimore/wild"
             },
             {
                 "title": "New Book-Sorting Algorithm Almost Reaches Perfection",
                 "href": "https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/"
             },
             {
+                "title": "Show HN: Cs16.css \u2013 CSS library based on CS 1.6 UI",
+                "href": "https://cs16.samke.me"
+            },
+            {
                 "title": "Lightpanda: The headless browser designed for AI and automation",
                 "href": "https://github.com/lightpanda-io/browser"
+            },
+            {
+                "title": "Tilde, My LLVM Alternative",
+                "href": "https://yasserarg.com/tb"
+            },
+            {
+                "title": "How I Use Home Assistant in 2025",
+                "href": "https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html"
+            },
+            {
+                "title": "Data Branching for Batch Job Systems",
+                "href": "https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems"
             },
             {
                 "title": "Coping with dumb LLMs using classic ML",
@@ -746,40 +758,32 @@
                 "href": "https://www.byran.ee/posts/creation/"
             },
             {
-                "title": "Data Branching for Batch Job Systems",
-                "href": "https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems"
-            },
-            {
-                "title": "The color and color-patterns of moths and butterflies (1897)",
-                "href": "https://publicdomainreview.org/collection/mayer-color-patterns/"
-            },
-            {
                 "title": "Masters of Allusion: The Art of Poetic Reference",
                 "href": "https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html"
-            },
-            {
-                "title": "The importance of favicons in website OSINT research",
-                "href": "https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/"
             },
             {
                 "title": "Magenta.nvim \u2013 an AI coding assistant plugin for Neovim focused on tool use",
                 "href": "https://github.com/dlants/magenta.nvim"
             },
             {
+                "title": "The importance of favicons in website OSINT research",
+                "href": "https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/"
+            },
+            {
+                "title": "The color and color-patterns of moths and butterflies (1897)",
+                "href": "https://publicdomainreview.org/collection/mayer-color-patterns/"
+            },
+            {
                 "title": "The Most Mario Colors",
                 "href": "https://lmnt.me/blog/the-most-mario-colors.html"
             },
             {
-                "title": "Every System is a Log: Avoiding coordination in distributed applications",
-                "href": "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/"
+                "title": "Weierstrass's Monster",
+                "href": "https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/"
             },
             {
                 "title": "Threlte 8",
                 "href": "https://threlte.xyz/blog/threlte-8"
-            },
-            {
-                "title": "Weierstrass's Monster",
-                "href": "https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/"
             },
             {
                 "title": "Llama.vim \u2013 Local LLM-assisted text completion",
@@ -798,12 +802,20 @@
                 "href": "https://openai.com/index/introducing-operator/"
             },
             {
+                "title": "Every System is a Log: Avoiding coordination in distributed applications",
+                "href": "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/"
+            },
+            {
                 "title": "I wrote my own \u201cproper\u201d programming language (2020)",
                 "href": "https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/"
             },
             {
                 "title": "Building a Medieval Castle from Scratch",
                 "href": "https://www.guedelon.fr/en/"
+            },
+            {
+                "title": "Little Snitch feature nobody knows about",
+                "href": "https://lapcatsoftware.com/articles/2025/1/6.html"
             },
             {
                 "title": "A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence",
@@ -820,18 +832,6 @@
             {
                 "title": "Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder",
                 "href": "https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring"
-            },
-            {
-                "title": "Surface-Stable Fractal Dithering",
-                "href": "https://github.com/runevision/Dither3D"
-            },
-            {
-                "title": "Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel",
-                "href": "https://jprx.io/cve-2024-54507/"
-            },
-            {
-                "title": "Show HN: Open-source AI video editor",
-                "href": "https://github.com/fal-ai-community/video-starter-kit"
             }
         ]
     }
