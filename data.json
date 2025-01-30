@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "TV Setup",
+                "href": "https://push.cx/tv-setup"
+            },
+            {
                 "title": "Building a (T1D) smartwatch from scratch",
                 "href": "https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch"
             },
             {
                 "title": "You're thinking about passkeys wrong",
                 "href": "https://dev.to/yawaramin/youre-thinking-about-passkeys-wrong-171o"
-            },
-            {
-                "title": "TV Setup",
-                "href": "https://push.cx/tv-setup"
             },
             {
                 "title": "Building a semantic movie search demo with pgvector and Next.js",
@@ -79,6 +79,14 @@
                 "href": "https://ml-explore.github.io/mlx/build/html/index.html"
             },
             {
+                "title": "Reversing the Pixel 4a battery update",
+                "href": "https://social.treehouse.systems/@marcan/113914172433692339"
+            },
+            {
+                "title": "Ending Support for Expiration Notification Emails",
+                "href": "https://letsencrypt.org/2025/01/22/ending-expiration-emails/"
+            },
+            {
                 "title": "Senders/Receivers: An Introduction",
                 "href": "https://accu.org/journals/overload/32/184/teodorescu/"
             },
@@ -93,14 +101,6 @@
             {
                 "title": "DeepSeek FAQ",
                 "href": "https://stratechery.com/2025/deepseek-faq/"
-            },
-            {
-                "title": "picolibc-i18n",
-                "href": "https://keithp.com/blogs/picolibc-i18n/"
-            },
-            {
-                "title": "Picking Equatable Names",
-                "href": "https://thunderseethe.dev/posts/debruijn-indices/"
             }
         ]
     },
@@ -613,12 +613,12 @@
                 "href": "https://github.com/marketplace/actions/feed-to-bluesky"
             },
             {
-                "title": "SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch",
-                "href": "https://github.com/Om-Alve/smolGPT"
-            },
-            {
                 "title": "OpenAI says it has evidence DeepSeek used its model to train competitor",
                 "href": "https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6"
+            },
+            {
+                "title": "SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch",
+                "href": "https://github.com/Om-Alve/smolGPT"
             },
             {
                 "title": "Building a T1D smartwatch for my son from scratch",
@@ -637,48 +637,56 @@
                 "href": "https://www.henrikkarlsson.xyz/p/start-a-blog"
             },
             {
-                "title": "Classic Duck Hunt game made in JavaScript and Kaplay",
-                "href": "https://jslegend.itch.io/duck-hunter"
-            },
-            {
-                "title": "From C++ to Clojure: Jank language promises best of both",
-                "href": "https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/"
-            },
-            {
                 "title": "Parsing PDFs (and more) in Elixir using Rust",
                 "href": "https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust"
-            },
-            {
-                "title": "Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)",
-                "href": "item?id=42873532"
-            },
-            {
-                "title": "Exposed DeepSeek database leaking sensitive information, including chat history",
-                "href": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"
             },
             {
                 "title": "Game developers keep reinventing Tetris",
                 "href": "https://www.polygon.com/gaming/513931/tetris-inspired-games-design-reaktor"
             },
             {
-                "title": "A major Postgres upgrade with zero downtime",
-                "href": "https://www.instantdb.com/essays/pg_upgrade"
+                "title": "From C++ to Clojure: Jank language promises best of both",
+                "href": "https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/"
             },
             {
-                "title": "Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy",
-                "href": "https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4"
+                "title": "Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)",
+                "href": "item?id=42873532"
+            },
+            {
+                "title": "Classic Duck Hunt game made in JavaScript and Kaplay",
+                "href": "https://jslegend.itch.io/duck-hunter"
+            },
+            {
+                "title": "Exposed DeepSeek database leaking sensitive information, including chat history",
+                "href": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"
+            },
+            {
+                "title": "A major Postgres upgrade with zero downtime",
+                "href": "https://www.instantdb.com/essays/pg_upgrade"
             },
             {
                 "title": "Airflow \u2013 Stream media files directly from macOS to AirPlay devices",
                 "href": "https://airflow.app/"
             },
             {
+                "title": "Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy",
+                "href": "https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4"
+            },
+            {
                 "title": "Case Study: ByteDance Uses eBPF to Enhance Networking Performance",
                 "href": "https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/"
             },
             {
+                "title": "When the Sackler brothers studied LSD",
+                "href": "https://resobscura.substack.com/p/when-the-sackler-brothers-studied"
+            },
+            {
                 "title": "Younger cannabis users have reduced brain function, finds largest study yet",
                 "href": "https://newatlas.com/brain/young-adult-cannabis-brain-function/"
+            },
+            {
+                "title": "We got hit by an alarmingly well-prepared phish spammer",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer"
             },
             {
                 "title": "An update on Dart macros and data serialization",
@@ -687,10 +695,6 @@
             {
                 "title": "Keymapper: A cross-platform context-aware key remapper",
                 "href": "https://github.com/houmain/keymapper"
-            },
-            {
-                "title": "We got hit by an alarmingly well-prepared phish spammer",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer"
             },
             {
                 "title": "\u00d6tzi the Lyme Mummy (2019)",
@@ -705,20 +709,16 @@
                 "href": "https://en.wikipedia.org/wiki/Cardan_grille"
             },
             {
-                "title": "Soviet Shoe Factory Principle",
-                "href": "https://wiki.c2.com/?SovietShoeFactoryPrinciple"
-            },
-            {
                 "title": "Making the video that made Gorillaz",
                 "href": "https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz"
             },
             {
-                "title": "Dead Games",
-                "href": "https://garry.net/posts/dead-games"
+                "title": "Plane Crashes Near Washington DC after midair collision with helicopter",
+                "href": "https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc"
             },
             {
-                "title": "Society for Technical Communication to permanently close its doors",
-                "href": "https://www.stc.org/"
+                "title": "Soviet Shoe Factory Principle",
+                "href": "https://wiki.c2.com/?SovietShoeFactoryPrinciple"
             }
         ]
     }
