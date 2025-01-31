@@ -11,16 +11,20 @@
                 "href": "https://simonask.github.io/introducing-werk/"
             },
             {
+                "title": "Potential RUST-inspired simplification for Go error handling",
+                "href": "https://github.com/golang/go/discussions/71460"
+            },
+            {
+                "title": "Rust's rand 0.9.0 is out",
+                "href": "https://github.com/rust-random/rand/releases/tag/0.9.0"
+            },
+            {
                 "title": "Announcing Rust 1.84.1",
                 "href": "https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html"
             },
             {
                 "title": "The surprising way to save memory with BytesIO",
                 "href": "https://pythonspeed.com/articles/bytesio-reduce-memory-usage/"
-            },
-            {
-                "title": "Potential RUST-inspired simplification for Go error handling",
-                "href": "https://github.com/golang/go/discussions/71460"
             },
             {
                 "title": "Falsehoods programmers believe about null pointers",
@@ -31,16 +35,16 @@
                 "href": "https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend"
             },
             {
-                "title": "Rust's rand 0.9.0 is out",
-                "href": "https://github.com/rust-random/rand/releases/tag/0.9.0"
-            },
-            {
                 "title": "Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust",
                 "href": "https://www.youtube.com/watch?v=voy1iT2E4bk"
             },
             {
                 "title": "DeepSeek database leak",
                 "href": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"
+            },
+            {
+                "title": "Gamedev.city: Game development-centric link aggregator",
+                "href": "https://gamedev.city/"
             },
             {
                 "title": "Pointers Are Complicated II, or: We need better language specs (2020)",
@@ -67,10 +71,6 @@
                 "href": "https://computerhistory.org/blog/xerox-alto-source-code/"
             },
             {
-                "title": "Gamedev.city: Game development-centric link aggregator",
-                "href": "https://gamedev.city/"
-            },
-            {
                 "title": "Contracts for C++ explained in 5 minutes",
                 "href": "https://timur.audio/contracts_explained_in_5_mins"
             },
@@ -83,6 +83,14 @@
                 "href": "https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html"
             },
             {
+                "title": "The :user-valid pseudo-class",
+                "href": "https://html-css-tip-of-the-week.netlify.app/tip/user-valid/"
+            },
+            {
+                "title": "Particles, Progress, and Perseverance: A Journey into WebGPU Fluids",
+                "href": "https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/"
+            },
+            {
                 "title": "Accurate predictions on small data with a tabular foundation model",
                 "href": "https://www.nature.com/articles/s41586-024-08328-6"
             },
@@ -93,14 +101,6 @@
             {
                 "title": "TV Setup",
                 "href": "https://push.cx/tv-setup"
-            },
-            {
-                "title": "The Slow Death of OCSP",
-                "href": "https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp"
-            },
-            {
-                "title": "\"Will I ever use this in the real world?\"",
-                "href": "https://blog.waleedkhan.name/will-i-ever-use-this/"
             }
         ]
     },
@@ -217,12 +217,20 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Indian tech giant Tata Technologies hit by ransomware attack",
+                "href": "https://www.bleepingcomputer.com/news/security/indian-tech-giant-tata-technologies-hit-by-ransomware-attack/"
+            },
+            {
+                "title": "Globe Life data breach may impact an additional 850,000 clients",
+                "href": "https://www.bleepingcomputer.com/news/security/globe-life-data-breach-may-impact-an-additional-850-000-clients/"
+            },
+            {
                 "title": "Mizuno USA says hackers stayed in its network for two months",
                 "href": "https://www.bleepingcomputer.com/news/security/mizuno-usa-says-hackers-stayed-in-its-network-for-two-months/"
             },
             {
                 "title": "US healthcare provider data breach impacts 1 million patients",
-                "href": "https://www.bleepingcomputer.com/news/security/us-healthcare-provider-data-breach-impacts-1-million-patients/"
+                "href": "https://www.bleepingcomputer.com/news/security/data-breach-at-us-healthcare-provider-chc-impacts-1-million-patients/"
             },
             {
                 "title": "Police dismantles HeartSender cybercrime marketplace network",
@@ -259,14 +267,6 @@
             {
                 "title": "New Syncjacking attack hijacks devices using Chrome extensions",
                 "href": "https://www.bleepingcomputer.com/news/security/new-syncjacking-attack-hijacks-devices-using-chrome-extensions/"
-            },
-            {
-                "title": "Microsoft lifts Windows 11 update block for PCs with gaming issues",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-update-block-for-pcs-with-gaming-issues/"
-            },
-            {
-                "title": "Police seizes Cracked and Nulled hacking forum servers, arrests suspects",
-                "href": "https://www.bleepingcomputer.com/news/security/police-seizes-cracked-and-nulled-hacking-forum-servers-arrests-suspects/"
             }
         ]
     },
@@ -317,7 +317,68 @@
     },
     {
         "feedname": "slashdot",
-        "items": []
+        "items": [
+            {
+                "title": "Taiwan Says Government Departments Should Not Use DeepSeek, Citing Security Concerns",
+                "href": "https://slashdot.org/story/25/01/31/1513252/taiwan-says-government-departments-should-not-use-deepseek-citing-security-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Apple Battles For Role in Google Antitrust Trial, Warning of Serious Risks",
+                "href": "https://apple.slashdot.org/story/25/01/31/153223/apple-battles-for-role-in-google-antitrust-trial-warning-of-serious-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "WhatsApp Says Journalists and Civil Society Members Were Targets of Israeli Spyware",
+                "href": "https://yro.slashdot.org/story/25/01/31/1441220/whatsapp-says-journalists-and-civil-society-members-were-targets-of-israeli-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Microsoft Slaps $400 Premium on Intel-powered Surface Lineup",
+                "href": "https://it.slashdot.org/story/25/01/31/0627226/microsoft-slaps-400-premium-on-intel-powered-surface-lineup?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Quantum Computer Built On Server Racks Paves the Way To Bigger Machines",
+                "href": "https://tech.slashdot.org/story/25/01/31/055235/quantum-computer-built-on-server-racks-paves-the-way-to-bigger-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Intel Won't Bring Its Falcon Shores AI Chip To Market",
+                "href": "https://hardware.slashdot.org/story/25/01/31/0443206/intel-wont-bring-its-falcon-shores-ai-chip-to-market?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "AM Radio For All Vehicles Legislation Reintroduced",
+                "href": "https://tech.slashdot.org/story/25/01/31/0428255/am-radio-for-all-vehicles-legislation-reintroduced?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "'Everything I Say Leaks,' Zuckerberg Says in Leaked Meeting Audio",
+                "href": "https://tech.slashdot.org/story/25/01/31/0349214/everything-i-say-leaks-zuckerberg-says-in-leaked-meeting-audio?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "VGHF Opens Free Online Access To 1,500 Classic Game Mags, 30K Historic Files",
+                "href": "https://games.slashdot.org/story/25/01/30/2259236/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Italy Blocks DeepSeek Over Data Privacy Concerns",
+                "href": "https://yro.slashdot.org/story/25/01/30/2249212/italy-blocks-deepseek-over-data-privacy-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Apple Reports Quarterly Record Revenue of $124 Billion",
+                "href": "https://apple.slashdot.org/story/25/01/30/2224253/apple-reports-quarterly-record-revenue-of-124-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Archivists Work To Identify and Save the Thousands of Datasets Disappearing From Data.gov",
+                "href": "https://hardware.slashdot.org/story/25/01/30/2215252/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-datagov?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Lawsuit Accuses Amazon of Secretly Tracking Consumers Through Cellphones",
+                "href": "https://yro.slashdot.org/story/25/01/30/220209/lawsuit-accuses-amazon-of-secretly-tracking-consumers-through-cellphones?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "US DOJ Sues To Block Hewlett Packard Enterprise's $14 Billion Juniper Deal",
+                "href": "https://yro.slashdot.org/story/25/01/30/2237250/us-doj-sues-to-block-hewlett-packard-enterprises-14-billion-juniper-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Google's 10-Year Chromebook Lifeline Leaves Old Laptops Headed For Silicon Cemetery",
+                "href": "https://hardware.slashdot.org/story/25/01/30/2152242/googles-10-year-chromebook-lifeline-leaves-old-laptops-headed-for-silicon-cemetery?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            }
+        ]
     },
     {
         "feedname": "cybercentre",
@@ -657,8 +718,20 @@
                 "href": "https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test"
             },
             {
-                "title": "Hacker News for Gamedev",
-                "href": "https://gamedev.city/"
+                "title": "Images Reveal Exocomets Around 74 Nearby Stars",
+                "href": "https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/"
+            },
+            {
+                "title": "Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware",
+                "href": "https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html"
+            },
+            {
+                "title": "MillenniumDB: A graph database engine using domain graphs",
+                "href": "https://github.com/MillenniumDB/MillenniumDB"
+            },
+            {
+                "title": "Building a Mesh Using Spherical Embedding",
+                "href": "https://andrews.wiki/spherical-mesh"
             },
             {
                 "title": "Show HN: Ldump \u2013 serialize any Lua data",
@@ -673,40 +746,40 @@
                 "href": "https://andrewchen.substack.com/p/my-product-went-viral-on-social-media"
             },
             {
-                "title": "Building a Mesh Using Spherical Embedding",
-                "href": "https://andrews.wiki/spherical-mesh"
-            },
-            {
-                "title": "JavaScript Temporal is coming",
-                "href": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/"
-            },
-            {
-                "title": "Ear muscle we thought humans didn't use activates when people listen hard",
-                "href": "https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience"
-            },
-            {
-                "title": "MillenniumDB: A graph database engine using domain graphs",
-                "href": "https://github.com/MillenniumDB/MillenniumDB"
+                "title": "Hacker News for Gamedev",
+                "href": "https://gamedev.city/"
             },
             {
                 "title": "TopoNets: High performing vision and language models with brain-like topography",
                 "href": "https://arxiv.org/abs/2501.16396"
             },
             {
+                "title": "For privacy: Change of our refund policy from 30 to 14 days",
+                "href": "https://mullvad.net/en/blog/for-privacy-change-of-our-refund-policy-from-30-to-14-days"
+            },
+            {
+                "title": "Ear muscle we thought humans didn't use activates when people listen hard",
+                "href": "https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience"
+            },
+            {
                 "title": "Rubywm: An X11 window manager in pure Ruby",
                 "href": "https://github.com/vidarh/rubywm"
             },
             {
-                "title": "How Jane Street accidentally built a better build system for OCaml",
+                "title": "A better build system for OCaml",
                 "href": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
             },
             {
-                "title": "Xerox Alto Source Code (2014)",
-                "href": "https://computerhistory.org/blog/xerox-alto-source-code/"
+                "title": "Quantel Paintbox History",
+                "href": "https://www.quantelpaintbox.com/history.html"
             },
             {
                 "title": "Stats \u2013 macOS system monitor in your menu bar",
                 "href": "https://github.com/exelban/stats"
+            },
+            {
+                "title": "Xerox Alto Source Code (2014)",
+                "href": "https://computerhistory.org/blog/xerox-alto-source-code/"
             },
             {
                 "title": "My Cat Mii",
@@ -715,10 +788,6 @@
             {
                 "title": "Launch HN: Karsa (YC W25) \u2013 Buy and save stablecoins internationally",
                 "href": "item?id=42879661"
-            },
-            {
-                "title": "Quantel Paintbox History",
-                "href": "https://www.quantelpaintbox.com/history.html"
             },
             {
                 "title": "The story of my home made pipe organ (2000)",
@@ -737,10 +806,6 @@
                 "href": "https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you"
             },
             {
-                "title": "RamaLama",
-                "href": "https://github.com/containers/ramalama"
-            },
-            {
                 "title": "RCA and the Roaring Twenties",
                 "href": "https://globalfinancialdata.com/rca-and-the-roaring-twenties"
             },
@@ -749,24 +814,20 @@
                 "href": "https://www.nist.gov/topics/physics/optical-frequency-combs"
             },
             {
-                "title": "Svix (YC W21) Is Hiring a Developer Marketer (US Remote)",
-                "href": "https://www.svix.com/careers/"
-            },
-            {
                 "title": "California law enforcement misused state databases more than 7k times in 2023",
                 "href": "https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023"
+            },
+            {
+                "title": "Svix (YC W21) Is Hiring a Developer Marketer (US Remote)",
+                "href": "https://www.svix.com/careers/"
             },
             {
                 "title": "A history of APL in the USSR (1991)",
                 "href": "https://dl.acm.org/doi/10.1145/130647.130656"
             },
             {
-                "title": "Why Children's Books?",
-                "href": "https://www.lrb.co.uk/the-paper/v47/n02/katherine-rundell/why-children-s-books"
-            },
-            {
-                "title": "Signs Of Life In A Desert",
-                "href": "https://www.noemamag.com/signs-of-life-in-a-desert-of-death/"
+                "title": "Sixos: A nix OS without systemd [video]",
+                "href": "https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd"
             },
             {
                 "title": "Antiqua et Nova: Note on the relationship between AI and human intelligence",
