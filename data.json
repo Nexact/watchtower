@@ -11,12 +11,16 @@
                 "href": "https://medv.io/blog/perfect-is-the-enemy-of-good"
             },
             {
+                "title": "Python free-threading guide",
+                "href": "https://py-free-threading.github.io/"
+            },
+            {
                 "title": "Pinning Down \"Future Is Not Send\" Errors",
                 "href": "https://emschwartz.me/pinning-down-future-is-not-send-errors/"
             },
             {
-                "title": "Python free-threading guide",
-                "href": "https://py-free-threading.github.io/"
+                "title": "PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power",
+                "href": "https://pangui.io/"
             },
             {
                 "title": "What software do you dream about, but do not have time to code yourself?",
@@ -39,10 +43,6 @@
                 "href": "https://a.hollywood.computer/"
             },
             {
-                "title": "PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power",
-                "href": "https://pangui.io/"
-            },
-            {
                 "title": "Nix: string interpolation of directories gone awry",
                 "href": "https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html"
             },
@@ -63,12 +63,12 @@
                 "href": "https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/"
             },
             {
-                "title": "Generating image descriptions and alt-text with AI",
-                "href": "https://dri.es/generating-image-descriptions-and-alt-text-with-ai"
-            },
-            {
                 "title": "Everyone knows your location: tracking myself down through in-app ads",
                 "href": "https://timsh.org/tracking-myself-down-through-in-app-ads/"
+            },
+            {
+                "title": "Generating image descriptions and alt-text with AI",
+                "href": "https://dri.es/generating-image-descriptions-and-alt-text-with-ai"
             },
             {
                 "title": "Operational and Denotational Strategies for Understanding Code",
@@ -105,117 +105,12 @@
         ]
     },
     {
-        "feedname": "netsec",
-        "items": [
-            {
-                "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
-                "href": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/"
-            },
-            {
-                "title": "Ransomware Groups Exploiting Microsoft Teams",
-                "href": "https://www.reddit.com/r/netsec/comments/1igwmje/ransomware_groups_exploiting_microsoft_teams/"
-            },
-            {
-                "title": "How Attackers Can Bypass OPA Gatekeeper in Kubernetes Due to Rego Flaws",
-                "href": "https://www.reddit.com/r/netsec/comments/1igvgbh/how_attackers_can_bypass_opa_gatekeeper_in/"
-            },
-            {
-                "title": "Everyone knows your location: tracking myself down through in-app ads",
-                "href": "https://www.reddit.com/r/netsec/comments/1if344u/everyone_knows_your_location_tracking_myself_down/"
-            },
-            {
-                "title": "SlackPirate Set Sails Again! Or: How to Send the Entire \u201cBee Movie\u201d Script to Your Friends in Slack",
-                "href": "https://www.reddit.com/r/netsec/comments/1iejrzh/slackpirate_set_sails_again_or_how_to_send_the/"
-            },
-            {
-                "title": "Cisco Webex Connect - Unauthenticated access to all chats",
-                "href": "https://www.reddit.com/r/netsec/comments/1iebyye/cisco_webex_connect_unauthenticated_access_to_all/"
-            },
-            {
-                "title": "RCE (LAN) in Marvel Rivals",
-                "href": "https://www.reddit.com/r/netsec/comments/1iecdx2/rce_lan_in_marvel_rivals/"
-            },
-            {
-                "title": "The Slow Death of OCSP",
-                "href": "https://www.reddit.com/r/netsec/comments/1idvdv5/the_slow_death_of_ocsp/"
-            },
-            {
-                "title": "CRLF injection via TryAddWithoutValidation in .NET",
-                "href": "https://www.reddit.com/r/netsec/comments/1iean5l/crlf_injection_via_tryaddwithoutvalidation_in_net/"
-            },
-            {
-                "title": "Practising Heap Exploitation: Using House Of Force Technique with Practicals",
-                "href": "https://www.reddit.com/r/netsec/comments/1idm8tr/practising_heap_exploitation_using_house_of_force/"
-            },
-            {
-                "title": "A short Introduction to BloodHound Custom Queries",
-                "href": "https://www.reddit.com/r/netsec/comments/1idlm4q/a_short_introduction_to_bloodhound_custom_queries/"
-            },
-            {
-                "title": "CVE-2024-46506: Unauthenticated RCE in NetAlertx",
-                "href": "https://www.reddit.com/r/netsec/comments/1idsuzx/cve202446506_unauthenticated_rce_in_netalertx/"
-            },
-            {
-                "title": "WebAssembly and security: a review",
-                "href": "https://www.reddit.com/r/netsec/comments/1idnsqk/webassembly_and_security_a_review/"
-            },
-            {
-                "title": "CVE-2024-46507: Yeti Platform Server-Side Template Injection (SSTI)",
-                "href": "https://www.reddit.com/r/netsec/comments/1id0ccq/cve202446507_yeti_platform_serverside_template/"
-            },
-            {
-                "title": "Single QR Code, Two Different URLs",
-                "href": "https://www.reddit.com/r/netsec/comments/1ic8mmx/single_qr_code_two_different_urls/"
-            },
-            {
-                "title": "CVE-2024-49138 Windows CLFS heap-based buffer overflow analysis",
-                "href": "https://www.reddit.com/r/netsec/comments/1icpgd8/cve202449138_windows_clfs_heapbased_buffer/"
-            },
-            {
-                "title": "A Missed Opportunity: Weak Password Hashing in VxWorks 6.9 and 7",
-                "href": "https://www.reddit.com/r/netsec/comments/1ibxbp1/a_missed_opportunity_weak_password_hashing_in/"
-            },
-            {
-                "title": "Get FortiRekt, I am the Super_Admin Now - FortiOS Authentication Bypass CVE-2024-55591 - watchTowr Labs",
-                "href": "https://www.reddit.com/r/netsec/comments/1ibfmeo/get_fortirekt_i_am_the_super_admin_now_fortios/"
-            },
-            {
-                "title": "Using AiTM to phish for access- and refreshtokens",
-                "href": "https://www.reddit.com/r/netsec/comments/1ic2mc4/using_aitm_to_phish_for_access_and_refreshtokens/"
-            },
-            {
-                "title": "New way to exploit BYOVD exploits with symbolic links.",
-                "href": "https://www.reddit.com/r/netsec/comments/1ib3nnm/new_way_to_exploit_byovd_exploits_with_symbolic/"
-            },
-            {
-                "title": "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
-                "href": "https://www.reddit.com/r/netsec/comments/1iarjw6/worstfit_unveiling_hidden_transformers_in_windows/"
-            },
-            {
-                "title": "Clone2Leak: Your Git Credentials Belong To Us",
-                "href": "https://www.reddit.com/r/netsec/comments/1iagp0v/clone2leak_your_git_credentials_belong_to_us/"
-            },
-            {
-                "title": "Someone wrote an Anti-Crawler/Scraper Trap",
-                "href": "https://www.reddit.com/r/netsec/comments/1i93pzl/someone_wrote_an_anticrawlerscraper_trap/"
-            },
-            {
-                "title": "USB Army Knife: Close Access Pentest Tool with VNC, Marauder, network adapter etc.",
-                "href": "https://www.reddit.com/r/netsec/comments/1i8rdf5/usb_army_knife_close_access_pentest_tool_with_vnc/"
-            },
-            {
-                "title": "Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel",
-                "href": "https://www.reddit.com/r/netsec/comments/1i83ua5/hacking_subaru_tracking_and_controlling_cars_via/"
-            },
-            {
-                "title": "WinVisor: A proof-of-concept hypervisor-based emulator for Windows x64 binaries",
-                "href": "https://www.reddit.com/r/netsec/comments/1i8nnii/winvisor_a_proofofconcept_hypervisorbased/"
-            }
-        ]
-    },
-    {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Google fixes Android kernel zero-day exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/"
+            },
             {
                 "title": "Canadian charged with stealing $65 million using DeFI crypto exploits",
                 "href": "https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/"
@@ -375,6 +270,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV25\u2013054)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-054"
+            },
             {
                 "title": "Ubuntu security advisory (AV25-053)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-053"
@@ -570,10 +469,6 @@
             {
                 "title": "Android security advisory \u2013 January 2025 Monthly Rollup (AV25-005)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2025-monthly-rollup-av25-005"
-            },
-            {
-                "title": "[Control Systems] Moxa security advisory (AV25-004)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av25-004"
             }
         ]
     },
@@ -710,44 +605,40 @@
                 "href": "item?id=42919502"
             },
             {
-                "title": "Httptap: View HTTP/HTTPS requests made by any Linux program",
-                "href": "https://github.com/monasticacademy/httptap"
-            },
-            {
                 "title": "Remote Code Execution in Marvel Rivals Game",
                 "href": "https://shalzuth.com/Blog/IFoundAGameExploit"
             },
             {
-                "title": "I Wrote a WebAssembly VM in C",
-                "href": "https://irreducible.io/blog/my-wasm-interpreter/"
-            },
-            {
-                "title": "Efficient Reasoning with Hidden Thinking",
-                "href": "https://arxiv.org/abs/2501.19201"
-            },
-            {
-                "title": "Show HN: I convert videos to printed flipbooks for living",
-                "href": "https://www.videotoflip.com/"
-            },
-            {
-                "title": "Developer Philosophy",
-                "href": "https://qntm.org/devphilo"
-            },
-            {
-                "title": "Ask HN: Who wants to be hired? (February 2025)",
-                "href": "item?id=42919500"
+                "title": "Httptap: View HTTP/HTTPS requests made by any Linux program",
+                "href": "https://github.com/monasticacademy/httptap"
             },
             {
                 "title": "AMD: Microcode Signature Verification Vulnerability",
                 "href": "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
             },
             {
-                "title": "Constitutional Classifiers: Defending against universal jailbreaks",
-                "href": "https://www.anthropic.com/research/constitutional-classifiers"
+                "title": "I Wrote a WebAssembly VM in C",
+                "href": "https://irreducible.io/blog/my-wasm-interpreter/"
             },
             {
-                "title": "Hightouch (YC S19) Is Hiring a Distributed Systems Engineer",
-                "href": "item?id=42920292"
+                "title": "Developer Philosophy",
+                "href": "https://qntm.org/devphilo"
+            },
+            {
+                "title": "Efficient Reasoning with Hidden Thinking",
+                "href": "https://arxiv.org/abs/2501.19201"
+            },
+            {
+                "title": "Ask HN: Who wants to be hired? (February 2025)",
+                "href": "item?id=42919500"
+            },
+            {
+                "title": "Show HN: I convert videos to printed flipbooks for living",
+                "href": "https://www.videotoflip.com/"
+            },
+            {
+                "title": "Constitutional Classifiers: Defending against universal jailbreaks",
+                "href": "https://www.anthropic.com/research/constitutional-classifiers"
             },
             {
                 "title": "Decorator JITs: Python as a DSL",
@@ -758,72 +649,76 @@
                 "href": "https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/"
             },
             {
+                "title": "Hightouch (YC S19) Is Hiring a Distributed Systems Engineer",
+                "href": "item?id=42920292"
+            },
+            {
                 "title": "Reverse Engineering Apple's typedstream Format",
                 "href": "https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/"
             },
             {
-                "title": "He Went to Jail for Stealing Someone's Identity. But It Was His All Along",
-                "href": "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
-            },
-            {
-                "title": "Show HN: Klarity \u2013 Open-source tool to analyze uncertainty/entropy in LLM output",
-                "href": "https://github.com/klara-research/klarity"
+                "title": "The young, inexperienced engineers aiding DOGE",
+                "href": "https://www.wired.com/story/elon-musk-government-young-engineers/"
             },
             {
                 "title": "Evaluating Code Embedding Models",
                 "href": "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
             },
             {
-                "title": "Ruby \u201cThread Contention\u201d Is Simply GVL Queuing",
-                "href": "https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing"
+                "title": "Show HN: Klarity \u2013 Open-source tool to analyze uncertainty/entropy in LLM output",
+                "href": "https://github.com/klara-research/klarity"
             },
             {
                 "title": "I Conditioned Myself to Fail",
                 "href": "https://www.brainbun.com/blog/i-conditioned-myself-to-fail/"
             },
             {
+                "title": "Ruby \u201cThread Contention\u201d Is Simply GVL Queuing",
+                "href": "https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing"
+            },
+            {
                 "title": "When Bohr got it wrong: the impact of a little-known paper on quantum theory",
                 "href": "https://physicsworld.com/a/when-bohr-got-it-wrong-the-impact-of-a-little-known-paper-on-the-development-of-quantum-theory/"
             },
             {
-                "title": "Better AI Is a Matter of Timing",
-                "href": "https://spectrum.ieee.org/mems-time"
+                "title": "Is there a benefit to scratching that itch? Yes and no, says new study",
+                "href": "https://newatlas.com/health-wellbeing/scratching-itch-benefit/"
+            },
+            {
+                "title": "He Went to Jail for Stealing Someone's Identity. But It Was His All Along",
+                "href": "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
             },
             {
                 "title": "Optimizing with Novel Calendrical Algorithms",
                 "href": "https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/"
             },
             {
-                "title": "SCQA: What is it, how does it work, and how can it help me?",
-                "href": "https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/"
-            },
-            {
                 "title": "Polish city is using mussels to monitor water quality (2020)",
                 "href": "https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality"
+            },
+            {
+                "title": "S1: Simple Test-Time Scaling",
+                "href": "https://github.com/simplescaling/s1"
             },
             {
                 "title": "Waydroid \u2013 Android in a Linux container",
                 "href": "https://waydro.id/"
             },
             {
+                "title": "Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers (2015)",
+                "href": "https://www.wired.com/2015/11/null/"
+            },
+            {
                 "title": "High-Speed Face-Tracking for Dynamic Facial Projection Mapping",
                 "href": "https://www.vision.ict.e.titech.ac.jp/projects/DFPM/"
             },
             {
-                "title": "London Street Views (1840)",
-                "href": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--"
+                "title": "SCQA: What is it, how does it work, and how can it help me?",
+                "href": "https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/"
             },
             {
                 "title": "Everyone knows your location: tracking myself down through in-app ads",
                 "href": "https://timsh.org/tracking-myself-down-through-in-app-ads/"
-            },
-            {
-                "title": "Bluesky: Advanced Bridge for Mastodon and Telegram",
-                "href": "https://mastogr.am/"
-            },
-            {
-                "title": "GarminDB",
-                "href": "https://github.com/tcgoetz/GarminDB"
             }
         ]
     }
