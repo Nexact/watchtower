@@ -11,32 +11,36 @@
                 "href": "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
             },
             {
-                "title": "Big Packages or Many Dependencies",
-                "href": "https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/"
-            },
-            {
                 "title": "Animating Rick and Morty One Pixel at a Time",
                 "href": "https://danielchasehooper.com/posts/code-animated-rick/"
+            },
+            {
+                "title": "Big Packages or Many Dependencies",
+                "href": "https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/"
             },
             {
                 "title": "How languages influence each other and evolve",
                 "href": "https://thetechenabler.substack.com/p/how-languages-influence-each-other"
             },
             {
+                "title": "Best Simple System for Now",
+                "href": "https://dannorth.net/best-simple-system-for-now/"
+            },
+            {
                 "title": "WebAssembly from the Ground Up",
                 "href": "https://wasmgroundup.com"
             },
             {
-                "title": "Best Simple System for Now",
-                "href": "https://dannorth.net/best-simple-system-for-now/"
+                "title": "Seeking Support After Equinix Metal Sunsets",
+                "href": "https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html"
             },
             {
                 "title": "Decorator JITs - Python as a DSL",
                 "href": "https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/"
             },
             {
-                "title": "Seeking Support After Equinix Metal Sunsets",
-                "href": "https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html"
+                "title": "Fat Rand: How Many Lines Do You Need To Generate A Random Number?",
+                "href": "https://lucumr.pocoo.org/2025/2/4/fat-rand/"
             },
             {
                 "title": "Migrating pigweed.dev to Bazel",
@@ -55,16 +59,16 @@
                 "href": "https://qntm.org/devphilo"
             },
             {
-                "title": "Fat Rand: How Many Lines Do You Need To Generate A Random Number?",
-                "href": "https://lucumr.pocoo.org/2025/2/4/fat-rand/"
-            },
-            {
                 "title": "Notes on Type Layouts and ABIs in Rust (2018)",
                 "href": "https://faultlore.com/blah/rust-layouts-and-abis/"
             },
             {
                 "title": "How to configure multiple Tor relays on the same interface with different IPs",
                 "href": "https://osservatorionessuno.org/blog/2025/02/how-to-configure-multiple-tor-relays-on-the-same-interface-with-different-ips/"
+            },
+            {
+                "title": "Corca: Collaborative Math Editor",
+                "href": "https://corca.io/"
             },
             {
                 "title": "Five coding hats",
@@ -75,12 +79,16 @@
                 "href": "https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/"
             },
             {
-                "title": "Build your own SQLite in Rust, Part 4: reading tables metadata",
-                "href": "https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata"
+                "title": "The developer of SerenityOS is challenging the browser duopoly",
+                "href": "https://thenextweb.com/news/serenityos-creator-building-ladybird-browser"
             },
             {
-                "title": "Corca: Collaborative Math Editor",
-                "href": "https://corca.io/"
+                "title": "Monkeypatching Django",
+                "href": "https://radiac.net/blog/2025/01/monkeypatching-django/"
+            },
+            {
+                "title": "Build your own SQLite in Rust, Part 4: reading tables metadata",
+                "href": "https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata"
             },
             {
                 "title": "Pinning Down \"Future Is Not Send\" Errors",
@@ -93,14 +101,6 @@
             {
                 "title": "clr: Checker for Lifetimes and other Refinement types",
                 "href": "https://github.com/ityonemo/clr"
-            },
-            {
-                "title": "Retaking The Web Browser, One Small Step At A Time",
-                "href": "https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html"
-            },
-            {
-                "title": "So You Want To Remove The GVL?",
-                "href": "https://byroot.github.io/ruby/performance/2025/01/29/so-you-want-to-remove-the-gvl.html"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Red Hat Plans to Add AI to Fedora and GNOME",
+                "href": "https://linux.slashdot.org/story/25/02/04/2047240/red-hat-plans-to-add-ai-to-fedora-and-gnome?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Amazon, King of Online Retail, Can't Seem To Make Its Physical Stores Work",
                 "href": "https://slashdot.org/story/25/02/04/1830249/amazon-king-of-online-retail-cant-seem-to-make-its-physical-stores-work?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Bonobos Can Tell When They Know Something You Don't",
                 "href": "https://science.slashdot.org/story/25/02/04/002204/bonobos-can-tell-when-they-know-something-you-dont?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Senator Hawley Proposes Jail Time For People Who Download DeepSeek",
-                "href": "https://yro.slashdot.org/story/25/02/04/0037221/senator-hawley-proposes-jail-time-for-people-who-download-deepseek?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -730,32 +730,48 @@
                 "href": "https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research"
             },
             {
+                "title": "Roc rewrites the compiler in Zig",
+                "href": "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"
+            },
+            {
                 "title": "How to Scale Your Model: A Systems View of LLMs on TPUs",
                 "href": "https://jax-ml.github.io/scaling-book/"
             },
             {
-                "title": "Roc rewrites the compiler in Zig",
-                "href": "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"
+                "title": "Roame (YC S23) Is Hiring an AI Fullstack Lead",
+                "href": "https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer"
+            },
+            {
+                "title": "Google Drops Pledge Not to Use AI for Weapons or Surveillance",
+                "href": "https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm"
             },
             {
                 "title": "Launch HN: Pinch (YC W25) \u2013 Video conferencing with immersive translation",
                 "href": "item?id=42935355"
             },
             {
-                "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
-                "href": "https://spectrum.ieee.org/alan-turings-delilah"
+                "title": "Jujutsu VCS Introduction and Patterns",
+                "href": "https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/"
             },
             {
-                "title": "100 Or so Books that shaped a Century of Science",
-                "href": "https://web.mnstate.edu/schwartz/centurylist2.html"
+                "title": "Apple Invites",
+                "href": "https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/"
+            },
+            {
+                "title": "How I use LLMs as a staff engineer",
+                "href": "https://www.seangoedecke.com/how-i-use-llms/"
+            },
+            {
+                "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+                "href": "https://spectrum.ieee.org/alan-turings-delilah"
             },
             {
                 "title": "DeepRAG: Thinking to Retrieval Step by Step for Large Language Models",
                 "href": "https://arxiv.org/abs/2502.01142"
             },
             {
-                "title": "Jujutsu VCS Introduction and Patterns",
-                "href": "https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/"
+                "title": "100 Or so Books that shaped a Century of Science",
+                "href": "https://web.mnstate.edu/schwartz/centurylist2.html"
             },
             {
                 "title": "Pyramid structure discovered near Caral Peru",
@@ -770,8 +786,8 @@
                 "href": "https://planetscale.com/blog/the-slotted-counter-pattern"
             },
             {
-                "title": "Show HN: Haystack Code Reviewer \u2013 Perform code reviews on a canvas",
-                "href": "https://haystackeditor.com/code-reviewer"
+                "title": "MathScroll \u2013 Infinitely Scroll Mathematics",
+                "href": "https://projects.ollybritton.com/mathscroll/"
             },
             {
                 "title": "Build your own SQLite, Part 4: reading tables metadata",
@@ -782,60 +798,44 @@
                 "href": "https://radfoam.github.io"
             },
             {
+                "title": "Motion sickness accessibility in video games",
+                "href": "https://madelinemiller.dev/blog/motion-sickness-accessibility/"
+            },
+            {
+                "title": "America desperately needs more air traffic controllers",
+                "href": "https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html"
+            },
+            {
+                "title": "Vanguard's average fee is now 0.07% after biggest-ever cut",
+                "href": "https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut"
+            },
+            {
+                "title": "Show HN: Haystack Code Reviewer \u2013 Perform code reviews on a canvas",
+                "href": "https://haystackeditor.com/code-reviewer"
+            },
+            {
                 "title": "Doln\u00ed V\u0115stonice Portrait Head: The oldest known human portrait in the world",
                 "href": "https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world"
-            },
-            {
-                "title": "GitHub reveals how software engineers are purging federal databases",
-                "href": "https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/"
-            },
-            {
-                "title": "Payments crisis of 2025: Not \u201cread only\u201d access anymore",
-                "href": "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/"
             },
             {
                 "title": "OmniHuman-1: Human Animation Models",
                 "href": "https://omnihuman-lab.github.io/"
             },
             {
+                "title": "Payments crisis of 2025: Not \u201cread only\u201d access anymore",
+                "href": "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/"
+            },
+            {
+                "title": "How does fentanyl get into the US?",
+                "href": "https://www.bbc.com/news/articles/cvg93nn1e6go"
+            },
+            {
+                "title": "Microsoft Is Dead (2007)",
+                "href": "https://www.paulgraham.com/microsoft.html"
+            },
+            {
                 "title": "DoppelBot: Replace Your CEO with an LLM",
                 "href": "https://modal.com/docs/examples/slack-finetune"
-            },
-            {
-                "title": "List Any Linux Tracepoint with Their Arguments, Datatypes and Related Structs",
-                "href": "https://tanelpoder.com/posts/tpargs-list-tracepoint-arguments-and-structures/"
-            },
-            {
-                "title": "Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer",
-                "href": "https://www.nango.dev/jobs"
-            },
-            {
-                "title": "Bouncing Beholder, my winning JS1K entry (2012)",
-                "href": "https://marijnhaverbeke.nl/js1k/"
-            },
-            {
-                "title": "Words flagged in search of current NSF awards",
-                "href": "https://mastodon.social/@Lazarou/113943275616933776"
-            },
-            {
-                "title": "Build a link blog like Simon Willison",
-                "href": "https://xuanwo.io/links/2025/01/link-blog/"
-            },
-            {
-                "title": "The Video Game History Foundation library opens in early access",
-                "href": "https://gamehistory.org/vghf-library-launch/"
-            },
-            {
-                "title": "Mitochondria as you've never seen them",
-                "href": "https://www.nature.com/immersive/d41586-025-00269-y/"
-            },
-            {
-                "title": "The U.S. needs a shipbuilding revolution",
-                "href": "https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution"
-            },
-            {
-                "title": "\"A computer can never be held accountable\"",
-                "href": "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/"
             }
         ]
     }
