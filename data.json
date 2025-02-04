@@ -27,16 +27,16 @@
                 "href": "https://dubroy.com/blog/five-coding-hats/"
             },
             {
+                "title": "Notes on Type Layouts and ABIs in Rust (2018)",
+                "href": "https://faultlore.com/blah/rust-layouts-and-abis/"
+            },
+            {
                 "title": "Pinning Down \"Future Is Not Send\" Errors",
                 "href": "https://emschwartz.me/pinning-down-future-is-not-send-errors/"
             },
             {
                 "title": "How languages influence each other and evolve",
                 "href": "https://thetechenabler.substack.com/p/how-languages-influence-each-other"
-            },
-            {
-                "title": "Notes on Type Layouts and ABIs in Rust (2018)",
-                "href": "https://faultlore.com/blah/rust-layouts-and-abis/"
             },
             {
                 "title": "Perfect is the enemy of good",
@@ -49,6 +49,10 @@
             {
                 "title": "Build your own SQLite in Rust, Part 4: reading tables metadata",
                 "href": "https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata"
+            },
+            {
+                "title": "No-Panic Rust: A Nice Technique for Systems Programming",
+                "href": "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
             },
             {
                 "title": "clr: Checker for Lifetimes and other Refinement types",
@@ -97,10 +101,6 @@
             {
                 "title": "Hollywood: split a computer console into multiple panes of genuine technical melodrama",
                 "href": "https://a.hollywood.computer/"
-            },
-            {
-                "title": "Nix: string interpolation of directories gone awry",
-                "href": "https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "China Launches Antitrust Investigation Into Google",
+                "href": "https://tech.slashdot.org/story/25/02/04/1250212/china-launches-antitrust-investigation-into-google?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Popular Linux Orgs Freedesktop, Alpine Linux Are Scrambling For New Web Hosting",
                 "href": "https://linux.slashdot.org/story/25/02/04/0044210/popular-linux-orgs-freedesktop-alpine-linux-are-scrambling-for-new-web-hosting?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Trump Orders Creation of US Sovereign Wealth Fund, Says It Could Buy TikTok",
                 "href": "https://news.slashdot.org/story/25/02/03/1855255/trump-orders-creation-of-us-sovereign-wealth-fund-says-it-could-buy-tiktok?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Anthropic Makes 'Jailbreak' Advance To Stop AI Models Producing Harmful Results",
-                "href": "https://slashdot.org/story/25/02/03/1810255/anthropic-makes-jailbreak-advance-to-stop-ai-models-producing-harmful-results?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -714,12 +714,24 @@
                 "href": "https://github.com/nvpro-samples/nv_cluster_lod_builder"
             },
             {
-                "title": "Codeberg: Free GitHub hosting",
-                "href": "https://codeberg.org/"
+                "title": "Apple Scraps Work on Mac-Connected Augmented Reality Glasses",
+                "href": "https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses"
+            },
+            {
+                "title": "Doln\u00ed V\u0115stonice Portrait Head: The oldest known human portrait in the world",
+                "href": "https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world"
+            },
+            {
+                "title": "I Use Cline for AI Engineering",
+                "href": "https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering"
             },
             {
                 "title": "Alibaba/T-HEAD's Xuantie C910",
                 "href": "https://chipsandcheese.com/p/alibabat-heads-xuantie-c910"
+            },
+            {
+                "title": "Please help me find better blogs to read",
+                "href": "item?id=42932218"
             },
             {
                 "title": "Mitochondria as you've never seen them",
@@ -730,16 +742,8 @@
                 "href": "https://owasp.org/www-project-non-human-identities-top-10/2025/"
             },
             {
-                "title": "Windows 11 \u2013 There's still nothing worth my time",
-                "href": "https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html"
-            },
-            {
-                "title": "Apple Scraps Work on Mac-Connected Augmented Reality Glasses",
-                "href": "https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses"
-            },
-            {
-                "title": "I Use Cline for AI Engineering",
-                "href": "https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering"
+                "title": "The Video Game History Foundation library opens in early access",
+                "href": "https://gamehistory.org/vghf-library-launch/"
             },
             {
                 "title": "Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer",
@@ -748,10 +752,6 @@
             {
                 "title": "Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost",
                 "href": "https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/"
-            },
-            {
-                "title": "The Video Game History Foundation library opens in early access",
-                "href": "https://gamehistory.org/vghf-library-launch/"
             },
             {
                 "title": "The Forbidden Garden of Leningrad: Science and Sacrifice in a City Under Siege",
@@ -774,44 +774,48 @@
                 "href": "https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/"
             },
             {
-                "title": "Microsoft Is Dead (2007)",
-                "href": "https://www.paulgraham.com/microsoft.html"
-            },
-            {
-                "title": "Compiling Java into native binaries with Graal and Mill",
-                "href": "https://mill-build.org/blog/7-graal-native-executables.html"
-            },
-            {
-                "title": "VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads",
-                "href": "https://github.com/microsoft/vsmarketplace/issues/1135"
-            },
-            {
-                "title": "AMD: Microcode Signature Verification Vulnerability",
-                "href": "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
+                "title": "\"A computer can never be held accountable\"",
+                "href": "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/"
             },
             {
                 "title": "The U.S. needs a shipbuilding revolution",
                 "href": "https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution"
             },
             {
-                "title": "Backblaze seemingly does not support files greater than 1 TB",
-                "href": "https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/"
+                "title": "Motion Sickness Accessibility in Video Games",
+                "href": "https://madelinemiller.dev/blog/motion-sickness-accessibility/"
             },
             {
-                "title": "\"A computer can never be held accountable\"",
-                "href": "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/"
+                "title": "Compiling Java into native binaries with Graal and Mill",
+                "href": "https://mill-build.org/blog/7-graal-native-executables.html"
             },
             {
-                "title": "Ask HN: Who wants to be hired? (February 2025)",
-                "href": "item?id=42919500"
+                "title": "AMD: Microcode Signature Verification Vulnerability",
+                "href": "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
+            },
+            {
+                "title": "Why employees smuggle AI into work",
+                "href": "https://www.bbc.com/news/articles/cn7rx05xg2go"
+            },
+            {
+                "title": "Windows 11 \u2013 There's still nothing worth my time",
+                "href": "https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html"
             },
             {
                 "title": "The Final Frontier with Steve Jurvetson",
                 "href": "https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson"
             },
             {
-                "title": "ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv",
-                "href": "https://github.com/google-research/arxiv-latex-cleaner"
+                "title": "Backblaze seemingly does not support files greater than 1 TB",
+                "href": "https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/"
+            },
+            {
+                "title": "VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads",
+                "href": "https://github.com/microsoft/vsmarketplace/issues/1135"
+            },
+            {
+                "title": "Ask HN: Who wants to be hired? (February 2025)",
+                "href": "item?id=42919500"
             },
             {
                 "title": "Show HN: I convert videos to printed flipbooks for living",
@@ -822,12 +826,8 @@
                 "href": "https://irreducible.io/blog/my-wasm-interpreter/"
             },
             {
-                "title": "Macintosh Allegro Common Lisp",
-                "href": "https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp"
-            },
-            {
-                "title": "No-Panic Rust: A Nice Technique for Systems Programming",
-                "href": "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
+                "title": "He went to jail for stealing someone's identity, but it was his all along",
+                "href": "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
             }
         ]
     }
