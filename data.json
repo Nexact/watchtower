@@ -15,12 +15,16 @@
                 "href": "https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated"
             },
             {
+                "title": "String vs &str",
+                "href": "https://blog.sulami.xyz/posts/string-vs-str/"
+            },
+            {
                 "title": "It Is Time to Standardize Principles and Practices for Software Memory Safety",
                 "href": "https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/"
             },
             {
-                "title": "String vs &str",
-                "href": "https://blog.sulami.xyz/posts/string-vs-str/"
+                "title": "Profiling in production with function call traces",
+                "href": "https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html"
             },
             {
                 "title": "Zig; what I think after months of using it",
@@ -39,10 +43,6 @@
                 "href": "https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/"
             },
             {
-                "title": "Profiling in production with function call traces",
-                "href": "https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html"
-            },
-            {
                 "title": "Go Supply Chain Attack: Malicious Package Exploits Go Module",
                 "href": "https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence"
             },
@@ -51,16 +51,20 @@
                 "href": "https://github.com/mierau/hotline"
             },
             {
-                "title": "All Bear blogs can use hashtags now via Octothorpes",
-                "href": "https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/"
-            },
-            {
                 "title": "Tips for more effective fuzz testing with AFL++",
                 "href": "https://nullprogram.com/blog/2025/02/05/"
             },
             {
+                "title": "All Bear blogs can use hashtags now via Octothorpes",
+                "href": "https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/"
+            },
+            {
                 "title": "comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language",
                 "href": "https://github.com/abuseofnotation/comic-web-markup"
+            },
+            {
+                "title": "The Three Basic Rules of Safety Hygiene",
+                "href": "https://jack.wrenn.fyi/blog/safety-hygiene/"
             },
             {
                 "title": "Roc rewrites the compiler in Zig",
@@ -97,10 +101,6 @@
             {
                 "title": "Radiant Foam",
                 "href": "https://radfoam.github.io/"
-            },
-            {
-                "title": "Rewriting Slipshow in OCaml: The undo-able monad",
-                "href": "https://choum.net/panglesd/undo-monad/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "British engineering firm IMI discloses breach, shares no details",
+                "href": "https://www.bleepingcomputer.com/news/security/british-engineering-firm-imi-discloses-breach-shares-no-details/"
+            },
+            {
                 "title": "New Microsoft script updates Windows media with bootkit malware fixes",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-script-updates-windows-media-with-bootkit-malware-fixes/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Cyber agencies share security guidance for network edge devices",
                 "href": "https://www.bleepingcomputer.com/news/security/cyber-agencies-share-security-guidance-for-network-edge-devices/"
-            },
-            {
-                "title": "Chinese cyberspies use new SSH backdoor in network device hacks",
-                "href": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-use-new-ssh-backdoor-in-network-device-hacks/"
             }
         ]
     },
@@ -718,24 +718,28 @@
                 "href": "https://linux.doompdf.dev/linux.pdf"
             },
             {
-                "title": "The Sad Math of Ads: messages of inadequacy and salvation through consumption",
-                "href": "https://www.jamesdamore.com/articles/the-sad-math-of-ads"
+                "title": "Disney+ Loses 700k Subscribers Following Price Increase",
+                "href": "https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/"
             },
             {
                 "title": "Ingesting PDFs and why Gemini 2.0 changes everything",
                 "href": "https://www.sergey.fyi/articles/gemini-flash-2"
             },
             {
+                "title": "Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI",
+                "href": "https://twitter.com/shl/status/1887484068075274347"
+            },
+            {
                 "title": "OpenWrt 24.10.0 \u2013 First Stable Release",
                 "href": "https://openwrt.org/releases/24.10/notes-24.10.0"
             },
             {
-                "title": "Programming SDF Animations of Rick and Morty",
-                "href": "https://danielchasehooper.com/posts/code-animated-rick/"
-            },
-            {
                 "title": "Paper Apps",
                 "href": "https://gladdendesign.com/collections/paper-apps"
+            },
+            {
+                "title": "Programming SDF Animations of Rick and Morty",
+                "href": "https://danielchasehooper.com/posts/code-animated-rick/"
             },
             {
                 "title": "FreeBSD for hi-fi audio: real-time processing, equalizer, MPD and FFmpeg",
@@ -762,6 +766,10 @@
                 "href": "http://karpathy.github.io/2016/05/31/rl/"
             },
             {
+                "title": "Pre-Trained Large Language Models Use Fourier Features to Compute Addition",
+                "href": "https://arxiv.org/abs/2406.03445"
+            },
+            {
                 "title": "Minimum effective dose",
                 "href": "https://winnielim.org/journal/minimum-effective-dose/"
             },
@@ -774,64 +782,56 @@
                 "href": "https://servo.org/blog/2025/01/31/servo-in-2024/"
             },
             {
-                "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
-                "href": "item?id=42953508"
-            },
-            {
                 "title": "Par: Process language with an interactive playground for exploring concurrency",
                 "href": "https://github.com/faiface/par-lang"
+            },
+            {
+                "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
+                "href": "item?id=42953508"
             },
             {
                 "title": "Discord client that works on Win95*, Win98 and above",
                 "href": "https://github.com/DiscordMessenger/dm"
             },
             {
-                "title": "Cloudflare R2 Global Outage",
-                "href": "https://www.cloudflarestatus.com"
-            },
-            {
                 "title": "I wrote a screenplay for a programming language introduction",
                 "href": "https://jan.miksovsky.com/"
             },
             {
-                "title": "The missing cross-platform OS API for timers",
-                "href": "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
-            },
-            {
-                "title": "Avoiding outrage fatigue while staying informed",
-                "href": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/"
-            },
-            {
-                "title": "The Language Construction Kit (1996, 2012)",
-                "href": "https://www.zompist.com/kit.html"
+                "title": "Cloudflare R2 Global Outage",
+                "href": "https://www.cloudflarestatus.com"
             },
             {
                 "title": "Show HN: Marksmith \u2013 a GitHub-style Markdown editor for Ruby on Rails",
                 "href": "https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith"
             },
             {
-                "title": "Why is Warner Bros. Discovery putting old movies on YouTube?",
-                "href": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/"
+                "title": "Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50",
+                "href": "https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/"
+            },
+            {
+                "title": "Avoiding outrage fatigue while staying informed",
+                "href": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/"
             },
             {
                 "title": "Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues",
                 "href": "https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/"
             },
             {
+                "title": "The Language Construction Kit (1996, 2012)",
+                "href": "https://www.zompist.com/kit.html"
+            },
+            {
+                "title": "Why is Warner Bros. Discovery putting old movies on YouTube?",
+                "href": "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/"
+            },
+            {
+                "title": "The missing cross-platform OS API for timers",
+                "href": "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
+            },
+            {
                 "title": "Software development topics I've changed my mind on",
                 "href": "https://chriskiehl.com/article/thoughts-after-10-years"
-            },
-            {
-                "title": "Mystery brain disease patients in New Brunswick say they welcome investigation",
-                "href": "https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/"
-            },
-            {
-                "title": "GNU Make Standard Library",
-                "href": "https://gmsl.jgc.org/"
-            },
-            {
-                "title": "Physics Rediscovered #6: My trebuchet is bigger than yours",
-                "href": "https://michaeldominik.substack.com/p/physics-rediscovered-interlude-my"
             }
         ]
     }
