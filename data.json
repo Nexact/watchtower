@@ -7,12 +7,12 @@
                 "href": "https://gleam.run/news/gleam-gets-rename-variable/"
             },
             {
-                "title": "You Didn't Notice MP3 Is Now Free",
-                "href": "https://idiallo.com/blog/listen-mp3-is-free"
-            },
-            {
                 "title": "CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks",
                 "href": "https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call"
+            },
+            {
+                "title": "You Didn't Notice MP3 Is Now Free",
+                "href": "https://idiallo.com/blog/listen-mp3-is-free"
             },
             {
                 "title": "Comments on Shared Unix Hosting vs. the Cloud",
@@ -23,12 +23,16 @@
                 "href": "https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go"
             },
             {
+                "title": "numbat: A statically typed programming language for scientific computations with first class support for physical dimensions and units",
+                "href": "https://github.com/sharkdp/numbat"
+            },
+            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/ro1i8v/what_are_you_doing_this_weekend"
             },
             {
-                "title": "numbat: A statically typed programming language for scientific computations with first class support for physical dimensions and units",
-                "href": "https://github.com/sharkdp/numbat"
+                "title": "Fun Friday: what's the weirdest automation you've ever made?",
+                "href": "https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you"
             },
             {
                 "title": "Refined: simple refinement types for Rust",
@@ -55,8 +59,12 @@
                 "href": "https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers"
             },
             {
-                "title": "Fun Friday: what's the weirdest automation you've ever made?",
-                "href": "https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you"
+                "title": "Cloudflare incident on February 6, 2025",
+                "href": "https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/"
+            },
+            {
+                "title": "A Brief History of Code Signing at Mozilla",
+                "href": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
             },
             {
                 "title": "DOOM running on Apple Lightning to HDMI dongle",
@@ -67,40 +75,32 @@
                 "href": "https://openwrt.org/releases/24.10/notes-24.10.0"
             },
             {
-                "title": "A Brief History of Code Signing at Mozilla",
-                "href": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
-            },
-            {
                 "title": "CODE beyond FAIR",
                 "href": "https://inria.hal.science/hal-04930405v1/document#page=2"
-            },
-            {
-                "title": "Updating a large codebase to Rust 2024",
-                "href": "https://codeandbitters.com/rust-2024-upgrade/"
-            },
-            {
-                "title": "String vs &str",
-                "href": "https://blog.sulami.xyz/posts/string-vs-str/"
-            },
-            {
-                "title": "A Decade of TILs",
-                "href": "https://www.visualmode.dev/a-decade-of-tils"
-            },
-            {
-                "title": "SQLite or PostgreSQL? It's Complicated",
-                "href": "https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated"
             },
             {
                 "title": "polysubml-demo: A simple ML-like language with subtyping, polymorphism, higher rank types, and global type inference",
                 "href": "https://github.com/Storyyeller/polysubml-demo"
             },
             {
-                "title": "A Closer Look At The Tanmatsu",
-                "href": "https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/"
+                "title": "Updating a large codebase to Rust 2024",
+                "href": "https://codeandbitters.com/rust-2024-upgrade/"
             },
             {
-                "title": "AIs and Robots Should Sound Robotic",
-                "href": "https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html"
+                "title": "A Decade of TILs",
+                "href": "https://www.visualmode.dev/a-decade-of-tils"
+            },
+            {
+                "title": "String vs &str",
+                "href": "https://blog.sulami.xyz/posts/string-vs-str/"
+            },
+            {
+                "title": "SQLite or PostgreSQL? It's Complicated",
+                "href": "https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated"
+            },
+            {
+                "title": "A Closer Look At The Tanmatsu",
+                "href": "https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/"
             }
         ]
     },
@@ -216,6 +216,10 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Hackers exploit Cityworks RCE bug to breach Microsoft IIS servers",
+                "href": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cityworks-rce-bug-to-breach-microsoft-iis-servers/"
+            },
             {
                 "title": "US health system notifies 882,000 patients of August 2023 breach",
                 "href": "https://www.bleepingcomputer.com/news/security/us-health-system-notifies-882-000-patients-of-august-2023-breach/"
@@ -585,32 +589,16 @@
         "feedname": "cisa",
         "items": [
             {
-                "title": "Trimble Releases Security Updates to Address a Vulnerability in Cityworks Software",
-                "href": "https://www.cisa.gov/news-events/alerts/2025/02/07/trimble-releases-security-updates-address-vulnerability-cityworks-software"
-            },
-            {
-                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-                "href": "https://www.cisa.gov/news-events/alerts/2025/02/07/cisa-adds-one-known-exploited-vulnerability-catalog"
-            },
-            {
-                "title": "Schneider Electric EcoStruxure Power Monitoring Expert (PME)",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-01"
+                "title": "CISA Releases Six Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2025/02/06/cisa-releases-six-industrial-control-systems-advisories"
             },
             {
                 "title": "Trimble Cityworks",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-04"
             },
             {
-                "title": "CISA Releases Six Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2025/02/06/cisa-releases-six-industrial-control-systems-advisories"
-            },
-            {
-                "title": "Schneider Electric EcoStruxure",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-02"
-            },
-            {
-                "title": "MicroDicom DICOM Viewer",
-                "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-037-01"
+                "title": "Schneider Electric EcoStruxure Power Monitoring Expert (PME)",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-01"
             },
             {
                 "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
@@ -619,6 +607,14 @@
             {
                 "title": "ABB Drive Composer",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-03"
+            },
+            {
+                "title": "MicroDicom DICOM Viewer",
+                "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-037-01"
+            },
+            {
+                "title": "Schneider Electric EcoStruxure",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-037-02"
             },
             {
                 "title": "Orthanc Server",
@@ -633,24 +629,8 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-08"
             },
             {
-                "title": "Western Telematic Inc NPS Series, DSM Series, CPM Series",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-01"
-            },
-            {
-                "title": "Schneider Electric Pro-face GP-Pro EX and Remote HMI",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-07"
-            },
-            {
-                "title": "Elber Communications Equipment",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-03"
-            },
-            {
-                "title": "CISA Releases Nine Industrial Control Systems Advisories",
-                "href": "https://www.cisa.gov/news-events/alerts/2025/02/04/cisa-releases-nine-industrial-control-systems-advisories"
-            },
-            {
-                "title": "Schneider Electric Web Designer for Modicon",
-                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-05"
+                "title": "CISA Partners with ASD\u2019s ACSC, CCCS, NCSC-UK, and Other International and US Organizations to Release Guidance on Edge Devices",
+                "href": "https://www.cisa.gov/news-events/alerts/2025/02/04/cisa-partners-asds-acsc-cccs-ncsc-uk-and-other-international-and-us-organizations-release-guidance"
             },
             {
                 "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -661,12 +641,28 @@
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-02"
             },
             {
-                "title": "CISA Partners with ASD\u2019s ACSC, CCCS, NCSC-UK, and Other International and US Organizations to Release Guidance on Edge Devices",
-                "href": "https://www.cisa.gov/news-events/alerts/2025/02/04/cisa-partners-asds-acsc-cccs-ncsc-uk-and-other-international-and-us-organizations-release-guidance"
+                "title": "Schneider Electric Pro-face GP-Pro EX and Remote HMI",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-07"
+            },
+            {
+                "title": "Schneider Electric Web Designer for Modicon",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-05"
+            },
+            {
+                "title": "Western Telematic Inc NPS Series, DSM Series, CPM Series",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-01"
+            },
+            {
+                "title": "Elber Communications Equipment",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-03"
             },
             {
                 "title": "Schneider Electric Modicon M340 and BMXNOE0100/0110, BMXNOR0200H",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-035-06"
+            },
+            {
+                "title": "CISA Releases Nine Industrial Control Systems Advisories",
+                "href": "https://www.cisa.gov/news-events/alerts/2025/02/04/cisa-releases-nine-industrial-control-systems-advisories"
             },
             {
                 "title": "Schneider Electric Modicon M580 PLCs, BMENOR2200H and EVLink Pro AC",
@@ -703,6 +699,14 @@
             {
                 "title": "Schneider Electric System Monitor Application in Harmony and Pro-face PS5000 Legacy Industrial PCs",
                 "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-030-03"
+            },
+            {
+                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2025/01/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+            },
+            {
+                "title": "Schneider Electric Power Logic",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-028-02"
             }
         ]
     },
@@ -722,6 +726,10 @@
                 "href": "https://github.com/AIFanatic/three-nanite"
             },
             {
+                "title": "A Brief History of Code Signing at Mozilla",
+                "href": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
+            },
+            {
                 "title": "Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm",
                 "href": "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm"
             },
@@ -730,8 +738,16 @@
                 "href": "https://ieeexplore.ieee.org/document/628099"
             },
             {
+                "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+                "href": "https://theretowhere.com/"
+            },
+            {
                 "title": "When Louis Armstrong Conquered Chicago",
                 "href": "https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago"
+            },
+            {
+                "title": "PropRise (YC S23) Is Hiring Our First Engineer",
+                "href": "https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend"
             },
             {
                 "title": "The superconductivity of layered graphene is surprisingly strange",
@@ -742,20 +758,12 @@
                 "href": "https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/"
             },
             {
-                "title": "PropRise (YC S23) Is Hiring Our First Engineer",
-                "href": "https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend"
-            },
-            {
-                "title": "A Brief History of Code Signing at Mozilla",
-                "href": "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
+                "title": "A German court rules: X must provide researchers access to data",
+                "href": "https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/"
             },
             {
                 "title": "Pantograph: A Fluid and Typed Structure Editor",
                 "href": "https://github.com/jeprinz/pantograph/blob/main/README.md"
-            },
-            {
-                "title": "A German court rules: X must provide researchers access to data",
-                "href": "https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/"
             },
             {
                 "title": "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
@@ -770,16 +778,20 @@
                 "href": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/"
             },
             {
-                "title": "Show HN: Play with real quantum physics in your browser",
-                "href": "https://quantum.orgsoft.org"
-            },
-            {
                 "title": "The Age of Agent Experience",
                 "href": "https://stytch.com/blog/the-age-of-agent-experience/"
             },
             {
-                "title": "America's \"First Car-Free Neighborhood\" Is Going Pretty Good, Actually?",
-                "href": "https://www.dwell.com/article/culdesac-tempe-car-free-neighborhood-resident-experience-8a14ebc7"
+                "title": "Show HN: Play with real quantum physics in your browser",
+                "href": "https://quantum.orgsoft.org"
+            },
+            {
+                "title": "Franz Kafka \u2013 the workers' friend (2018)",
+                "href": "https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/"
+            },
+            {
+                "title": "Procedural Hydrology: Dynamic Lake and River Simulation (2020)",
+                "href": "https://nickmcd.me/2020/04/15/procedural-hydrology/"
             },
             {
                 "title": "Understanding Reasoning LLMs",
@@ -798,10 +810,6 @@
                 "href": "https://v8.dev/blog/math-random"
             },
             {
-                "title": "Procedural Hydrology: Dynamic Lake and River Simulation (2020)",
-                "href": "https://nickmcd.me/2020/04/15/procedural-hydrology/"
-            },
-            {
                 "title": "Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser",
                 "href": "https://huggingface.co/spaces/webml-community/kokoro-webgpu"
             },
@@ -818,16 +826,12 @@
                 "href": "https://github.com/QuadrupleA/sqlite-page-explorer"
             },
             {
-                "title": "The Alchemist and His Quicksilver",
-                "href": "https://fantasticanachronism.com/2025/02/03/the-alchemist-and-his-quicksilver/"
-            },
-            {
                 "title": "Frank Lloyd Wright's mile high skyscraper proposal (2021)",
                 "href": "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper"
             },
             {
-                "title": "Simulating water over terrain",
-                "href": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html"
+                "title": "Robust autonomy emerges from self-play",
+                "href": "https://arxiv.org/abs/2502.03349"
             }
         ]
     }
