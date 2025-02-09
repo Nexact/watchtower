@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "FOSDEM 2025 - How we are defending Software Freedom against Apple at the EU's highest court",
-                "href": "https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/"
-            },
-            {
                 "title": "baffled by generational garbage collection",
                 "href": "https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection"
+            },
+            {
+                "title": "FOSDEM 2025 - How we are defending Software Freedom against Apple at the EU's highest court",
+                "href": "https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/"
             },
             {
                 "title": "Building a personal, private AI computer on a budget",
@@ -23,12 +23,20 @@
                 "href": "https://anarc.at/blog/2025-02-08-qalculate-hacks/"
             },
             {
+                "title": "Pragmatic ZIO",
+                "href": "https://www.youtube.com/watch?v=Fbiu-0mMT0w"
+            },
+            {
+                "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+                "href": "https://iquilezles.org/articles/gpuconditionals/"
+            },
+            {
                 "title": "Be Skeptical of All Code - Not Just the Funny Stuff",
                 "href": "https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/"
             },
             {
-                "title": "Pragmatic ZIO",
-                "href": "https://www.youtube.com/watch?v=Fbiu-0mMT0w"
+                "title": "The Visible Zorker",
+                "href": "https://blog.zarfhome.com/2025/01/the-visible-zorker"
             },
             {
                 "title": "Why Does Integer Addition Approximate Float Multiplication?",
@@ -39,20 +47,12 @@
                 "href": "https://b.tuxes.uk/three-years-of-ephemeral-nixos.html"
             },
             {
-                "title": "The Visible Zorker",
-                "href": "https://blog.zarfhome.com/2025/01/the-visible-zorker"
-            },
-            {
-                "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
-                "href": "https://iquilezles.org/articles/gpuconditionals/"
+                "title": "Synctrain: a rethought iOS client for Syncthing",
+                "href": "https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing"
             },
             {
                 "title": "No-Libc Zig Now Outperforms Glibc Zig",
                 "href": "https://ziglang.org/devlog/2025/#2025-02-07"
-            },
-            {
-                "title": "Synctrain: a rethought iOS client for Syncthing",
-                "href": "https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing"
             },
             {
                 "title": "Fully Dynamically Linked Rust Binary: An Experiment",
@@ -101,115 +101,6 @@
             {
                 "title": "VanSpoof - Prototype 1 - Hardware",
                 "href": "https://mikecoats.com/van-spoof-prototype-1-part-1/"
-            }
-        ]
-    },
-    {
-        "feedname": "netsec",
-        "items": [
-            {
-                "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
-                "href": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/"
-            },
-            {
-                "title": "ROPing our way to \"Yay, RCE\" - follow Michaels journey of developing an ARM ROP chain to exploit a buffer overflow in uc-http. Dive into the process of reverse engineering, gadget hunting, and crafting a working exploit.",
-                "href": "https://www.reddit.com/r/netsec/comments/1ikr4kg/roping_our_way_to_yay_rce_follow_michaels_journey/"
-            },
-            {
-                "title": "Security analysis of the Wi-Fi Easy Connect",
-                "href": "https://www.reddit.com/r/netsec/comments/1ikqxsm/security_analysis_of_the_wifi_easy_connect/"
-            },
-            {
-                "title": "Making Ghost-Servers that appear to have Unconstrained Kerberos Delegation (but alert on access attempts)",
-                "href": "https://www.reddit.com/r/netsec/comments/1ijw25z/making_ghostservers_that_appear_to_have/"
-            },
-            {
-                "title": "Windows Telephony Services: 2025 Patch Diffing & Analysis",
-                "href": "https://www.reddit.com/r/netsec/comments/1ijukk6/windows_telephony_services_2025_patch_diffing/"
-            },
-            {
-                "title": "How to prove false statements? (Part 2)",
-                "href": "https://www.reddit.com/r/netsec/comments/1ijfupo/how_to_prove_false_statements_part_2/"
-            },
-            {
-                "title": "CVE-2024-55957: Local Privilege Escalation Vulnerability in Thermo Scientific\u2122 Xcalibur\u2122 and Foundation software",
-                "href": "https://www.reddit.com/r/netsec/comments/1ijkunx/cve202455957_local_privilege_escalation/"
-            },
-            {
-                "title": "ArgFuscator.net - generate obfuscated command lines",
-                "href": "https://www.reddit.com/r/netsec/comments/1ijcd62/argfuscatornet_generate_obfuscated_command_lines/"
-            },
-            {
-                "title": "Certificate Transparency is now enforced in Firefox on desktop platforms starting with version 135",
-                "href": "https://www.reddit.com/r/netsec/comments/1ii16vd/certificate_transparency_is_now_enforced_in/"
-            },
-            {
-                "title": "Soxy: A Rust-powered suite of services for Citrix, VMware Horizon, and Windows RDP that includes a SOCKS server for easy VDI pivoting",
-                "href": "https://www.reddit.com/r/netsec/comments/1ii80kr/soxy_a_rustpowered_suite_of_services_for_citrix/"
-            },
-            {
-                "title": "Certificate Ripper v2.4.0 released - tool to extract server certificates",
-                "href": "https://www.reddit.com/r/netsec/comments/1iinzat/certificate_ripper_v240_released_tool_to_extract/"
-            },
-            {
-                "title": "Nosey Parker Explorer, an interactive TUI app for triaging secret exposures, is now Apache 2-licensed. It has helped on hundreds of offensive security engagements to quickly comb through thousands of potential findings.",
-                "href": "https://www.reddit.com/r/netsec/comments/1iimvg9/nosey_parker_explorer_an_interactive_tui_app_for/"
-            },
-            {
-                "title": "Replacing a Space Heater Firmware over WiFi",
-                "href": "https://www.reddit.com/r/netsec/comments/1ihtrx0/replacing_a_space_heater_firmware_over_wifi/"
-            },
-            {
-                "title": "8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur - watchTowr Labs",
-                "href": "https://www.reddit.com/r/netsec/comments/1ihf6qt/8_million_requests_later_we_made_the_solarwinds/"
-            },
-            {
-                "title": "Now live: Our Global InfoSec Salary Index for 2025 - with full dataset in the Public Domain :)",
-                "href": "https://www.reddit.com/r/netsec/comments/1ihlqeq/now_live_our_global_infosec_salary_index_for_2025/"
-            },
-            {
-                "title": "Top 10 (new) web hacking techniques of 2024",
-                "href": "https://www.reddit.com/r/netsec/comments/1ihl0w9/top_10_new_web_hacking_techniques_of_2024/"
-            },
-            {
-                "title": "Collabfiltrator 4.0.1 Plugin released! New SQLi DNS exfiltration capabilities available in BurpSuite. Download it from the BApp Store.",
-                "href": "https://www.reddit.com/r/netsec/comments/1ihjlku/collabfiltrator_401_plugin_released_new_sqli_dns/"
-            },
-            {
-                "title": "Masquerade the Windows \"Program Files\" path with Unicode \"En Quad\" character.",
-                "href": "https://www.reddit.com/r/netsec/comments/1ih7wch/masquerade_the_windows_program_files_path_with/"
-            },
-            {
-                "title": "How Attackers Can Bypass OPA Gatekeeper in Kubernetes Due to Rego Flaws",
-                "href": "https://www.reddit.com/r/netsec/comments/1igvgbh/how_attackers_can_bypass_opa_gatekeeper_in/"
-            },
-            {
-                "title": "Analyzing the Contec Patient Monitor 'Backdoor'",
-                "href": "https://www.reddit.com/r/netsec/comments/1igogtp/analyzing_the_contec_patient_monitor_backdoor/"
-            },
-            {
-                "title": "Everyone knows your location: tracking myself down through in-app ads",
-                "href": "https://www.reddit.com/r/netsec/comments/1if344u/everyone_knows_your_location_tracking_myself_down/"
-            },
-            {
-                "title": "SlackPirate Set Sails Again! Or: How to Send the Entire \u201cBee Movie\u201d Script to Your Friends in Slack",
-                "href": "https://www.reddit.com/r/netsec/comments/1iejrzh/slackpirate_set_sails_again_or_how_to_send_the/"
-            },
-            {
-                "title": "Cisco Webex Connect - Unauthenticated access to all chats",
-                "href": "https://www.reddit.com/r/netsec/comments/1iebyye/cisco_webex_connect_unauthenticated_access_to_all/"
-            },
-            {
-                "title": "RCE (LAN) in Marvel Rivals",
-                "href": "https://www.reddit.com/r/netsec/comments/1iecdx2/rce_lan_in_marvel_rivals/"
-            },
-            {
-                "title": "The Slow Death of OCSP",
-                "href": "https://www.reddit.com/r/netsec/comments/1idvdv5/the_slow_death_of_ocsp/"
-            },
-            {
-                "title": "CRLF injection via TryAddWithoutValidation in .NET",
-                "href": "https://www.reddit.com/r/netsec/comments/1iean5l/crlf_injection_via_tryaddwithoutvalidation_in_net/"
             }
         ]
     },
@@ -315,6 +206,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "What Do Linux Kernel Developers Think of Rust?",
+                "href": "https://developers.slashdot.org/story/25/02/08/0455231/what-do-linux-kernel-developers-think-of-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Skydiver Hooks Plane in Mid-Air, Gets Towed Up For Another Skydive",
                 "href": "https://tech.slashdot.org/story/25/02/09/048253/skydiver-hooks-plane-in-mid-air-gets-towed-up-for-another-skydive?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +264,6 @@
             {
                 "title": "Internet Archive Celebrates New Public Domain Works with Remixes in Short Film Contest",
                 "href": "https://entertainment.slashdot.org/story/25/02/08/0620224/internet-archive-celebrates-new-public-domain-works-with-remixes-in-short-film-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Are Return-to-Office Mandates Just Attempts to Make People to Quit?",
-                "href": "https://it.slashdot.org/story/25/02/08/0539235/are-return-to-office-mandates-just-attempts-to-make-people-to-quit?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -710,36 +601,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
-                "href": "https://iquilezles.org/articles/gpuconditionals/"
-            },
-            {
                 "title": "LIMO: Less Is More for Reasoning",
                 "href": "https://arxiv.org/abs/2502.03387"
+            },
+            {
+                "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+                "href": "https://iquilezles.org/articles/gpuconditionals/"
             },
             {
                 "title": "Baffled by generational garbage collection \u2013 wingolog",
                 "href": "https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection"
             },
             {
-                "title": "Show HN: My first side project, streamlined book clubs on Slack",
-                "href": "https://booktalk.club/"
-            },
-            {
                 "title": "3D reconstruction of the capital of the Aztec empire",
                 "href": "https://tenochtitlan.thomaskole.nl/"
             },
             {
-                "title": "Classic Data science pipelines built with LLMs",
-                "href": "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
+                "title": "Show HN: My first side project, streamlined book clubs on Slack",
+                "href": "https://booktalk.club/"
+            },
+            {
+                "title": "Kanata: Cross-platform multi-layer keyboard remapper with advanced customization",
+                "href": "https://github.com/jtroo/kanata"
             },
             {
                 "title": "Rwandan scientists develop local yeast for banana wine-makers",
                 "href": "https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html"
             },
             {
-                "title": "Kanata: Cross-platform multi-layer keyboard remapper with advanced customization",
-                "href": "https://github.com/jtroo/kanata"
+                "title": "UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials",
+                "href": "https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/"
+            },
+            {
+                "title": "Classic Data science pipelines built with LLMs",
+                "href": "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
             },
             {
                 "title": "How (not) to sign a JSON object (2019)",
@@ -790,16 +685,20 @@
                 "href": "https://amanvir.com/obscure-islands"
             },
             {
-                "title": "Modern-Day Oracles or Bullshit Machines",
-                "href": "https://thebullshitmachines.com"
+                "title": "Go Data Structures: Interfaces (2009)",
+                "href": "https://research.swtch.com/interfaces"
+            },
+            {
+                "title": "Cities can cost effectively start their own utilities",
+                "href": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/"
             },
             {
                 "title": "Do-nothing scripting: the key to gradual automation (2019)",
                 "href": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/"
             },
             {
-                "title": "Cities can cost effectively start their own utilities",
-                "href": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/"
+                "title": "Modern-Day Oracles or Bullshit Machines",
+                "href": "https://thebullshitmachines.com"
             },
             {
                 "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
@@ -818,16 +717,8 @@
                 "href": "https://johnkerl.org/doc/ortho/ortho.html"
             },
             {
-                "title": "Go Data Structures: Interfaces (2009)",
-                "href": "https://research.swtch.com/interfaces"
-            },
-            {
-                "title": "Show HN: Daily-notes.nvim \u2013 fuzzy time journal and planning plugin",
-                "href": "https://github.com/fdavies93/daily-notes.nvim"
-            },
-            {
-                "title": "Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits (2013)",
-                "href": "https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6"
+                "title": "Writing a simple windows driver in Rust",
+                "href": "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/"
             }
         ]
     }
