@@ -3,7 +3,7 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "why I built a hyper-personalized seach engine that isn't very good",
+                "title": "why I built a hyper-personalized search engine that isn't very good",
                 "href": "https://search.technomancy.us/why"
             },
             {
@@ -11,12 +11,12 @@
                 "href": "https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/"
             },
             {
-                "title": "Reassessing Wayland",
-                "href": "https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html"
-            },
-            {
                 "title": "Atkinson Hyperlegible Next and Atkinson Hyperlegible Mono",
                 "href": "https://www.brailleinstitute.org/freefont/"
+            },
+            {
+                "title": "Reassessing Wayland",
+                "href": "https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html"
             },
             {
                 "title": "A Descent Into the V\u1d0f\u0308\u0280\u1d1b\u1d07x",
@@ -67,6 +67,14 @@
                 "href": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"
             },
             {
+                "title": "Launching Interop 2025",
+                "href": "https://hacks.mozilla.org/2025/02/interop-2025/"
+            },
+            {
+                "title": "Bauhaus: Ninety Years of Inspiration (2009)",
+                "href": "https://www.smashingmagazine.com/2009/08/bauhaus-ninety-years-of-inspiration/"
+            },
+            {
                 "title": "Custom asserts in LLVM",
                 "href": "https://www.neilhenning.dev/posts/custom-asserts-in-llvm/"
             },
@@ -75,8 +83,16 @@
                 "href": "https://devcontainer.community/20250213-pulumi/"
             },
             {
+                "title": "Zed now predicts next edit with new open model",
+                "href": "https://zed.dev/blog/edit-prediction"
+            },
+            {
                 "title": "The UNIX Operating System is an IDE (2021)",
                 "href": "https://0x19.org/posts/2021-12-04.php"
+            },
+            {
+                "title": "FLAC 1.5.0 released",
+                "href": "https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html"
             },
             {
                 "title": "Explaining my fast 6502 code generator",
@@ -85,22 +101,6 @@
             {
                 "title": "Tiny JITs for a Faster FFI",
                 "href": "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"
-            },
-            {
-                "title": "FLAC 1.5.0 released",
-                "href": "https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html"
-            },
-            {
-                "title": "Solving the discretised shallow water equations using neural networks",
-                "href": "https://www.sciencedirect.com/science/article/pii/S030917082500017X"
-            },
-            {
-                "title": "you don't link all of libc",
-                "href": "https://flak.tedunangst.com/post/you-dont-link-all-of-libc"
-            },
-            {
-                "title": "Ki Editor now supports Reveal",
-                "href": "https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft fixes bug causing Windows Server 2025 boot errors",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-server-2025-boot-errors/"
+            },
+            {
                 "title": "whoAMI attacks give hackers code execution on Amazon EC2 instances",
                 "href": "https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Beyond VPN: How TruGrid Simplifies RDP Deployment, Security, and Compliance",
                 "href": "https://www.bleepingcomputer.com/news/security/beyond-vpn-how-trugrid-simplifies-rdp-deployment-security-and-compliance/"
-            },
-            {
-                "title": "Google fixes flaw that could unmask YouTube users' email addresses",
-                "href": "https://www.bleepingcomputer.com/news/security/google-fixes-flaw-that-could-unmask-youtube-users-email-addresses/"
             }
         ]
     },
@@ -718,16 +718,16 @@
                 "href": "https://zed.dev/blog/edit-prediction"
             },
             {
-                "title": "Linux kernel cgroups writeback high CPU troubleshooting",
-                "href": "https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/"
+                "title": "Gemini beats everyone on new OCR benchmark",
+                "href": "https://arxiv.org/abs/2502.06445"
             },
             {
                 "title": "Extensible WASM Applications with Go",
                 "href": "https://go.dev/blog/wasmexport"
             },
             {
-                "title": "Gemini beats everyone on new OCR benchmark",
-                "href": "https://arxiv.org/abs/2502.06445"
+                "title": "Linux kernel cgroups writeback high CPU troubleshooting",
+                "href": "https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/"
             },
             {
                 "title": "Does X cause Y? An in-depth evidence review",
@@ -746,24 +746,16 @@
                 "href": "https://eyes.mit.edu/"
             },
             {
+                "title": "Rust: Doubling Throughput with Continuous Profiling and Optimization",
+                "href": "https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization"
+            },
+            {
                 "title": "OCR4all",
                 "href": "https://www.ocr4all.org/"
             },
             {
                 "title": "Phind 2: AI search with visual answers and multi-step reasoning",
                 "href": "https://www.phind.com/blog/phind-2"
-            },
-            {
-                "title": "Rust: Doubling Throughput with Continuous Profiling and Optimization",
-                "href": "https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization"
-            },
-            {
-                "title": "Show HN: A unique generated maze to share with your valentine",
-                "href": "https://love.berk.es/"
-            },
-            {
-                "title": "Yhangry (YC W22) Is Hiring",
-                "href": "item?id=43045656"
             },
             {
                 "title": "Show HN: SQL Noir \u2013 Learn SQL by solving crimes",
@@ -774,36 +766,44 @@
                 "href": "https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project"
             },
             {
-                "title": "Evaluating RAG for large scale codebases",
-                "href": "https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/"
-            },
-            {
-                "title": "Nvidia Security Team: \u201cWhat if we just stopped using C?\u201d (2022)",
-                "href": "https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c"
+                "title": "Yhangry (YC W22) Is Hiring",
+                "href": "item?id=43045656"
             },
             {
                 "title": "Ricochet: Peer-to-peer instant messaging system built on Tor hidden services",
                 "href": "https://github.com/ricochet-im/ricochet"
             },
             {
+                "title": "Show HN: A unique generated maze to share with your valentine",
+                "href": "https://love.berk.es/"
+            },
+            {
+                "title": "Nvidia Security Team: \u201cWhat if we just stopped using C?\u201d (2022)",
+                "href": "https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c"
+            },
+            {
+                "title": "Evaluating RAG for large scale codebases",
+                "href": "https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/"
+            },
+            {
                 "title": "MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]",
                 "href": "https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/"
+            },
+            {
+                "title": "Pied Beauty: Wari Tie-Dye Textiles (Ca. 425\u20131100)",
+                "href": "https://publicdomainreview.org/collection/wari-tie-dye/"
             },
             {
                 "title": "On Bloat",
                 "href": "https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000"
             },
             {
-                "title": "Alt.Anonymous.Messages Newsgroup",
-                "href": "http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html"
-            },
-            {
                 "title": "Jooki \u2013 Taking Control of a Forgotten Device",
                 "href": "https://nv1t.github.io/blog/reviving-jooki/"
             },
             {
-                "title": "Show HN: I made a tiny book using a pen-plotter and AI",
-                "href": "https://muffinman.io/blog/the-tiny-book-of-great-joys/"
+                "title": "Alt.Anonymous.Messages Newsgroup",
+                "href": "http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html"
             },
             {
                 "title": "LM2: Large Memory Models",
@@ -822,12 +822,12 @@
                 "href": "https://www.nature.com/articles/d41586-025-00425-4"
             },
             {
-                "title": "NAT Is the Enemy of Low Power Devices",
-                "href": "https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/"
+                "title": "Show HN: I made a tiny book using a pen-plotter and AI",
+                "href": "https://muffinman.io/blog/the-tiny-book-of-great-joys/"
             },
             {
-                "title": "Computing Tricky Probabilities Using Model Counting",
-                "href": "https://www.msoos.org/2025/02/computing-tricky-probabilities/"
+                "title": "SQL pipe syntax available in public preview in BigQuery",
+                "href": "https://cloud.google.com/bigquery/docs/pipe-syntax-guide"
             }
         ]
     }
