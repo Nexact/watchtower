@@ -3,32 +3,36 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "How Diablo hackers uncovered a speedrun scandal",
-                "href": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/"
-            },
-            {
                 "title": "Devenv telemetry warning",
                 "href": "https://chaos.social/@hexa/114009069746212598"
+            },
+            {
+                "title": "How Diablo hackers uncovered a speedrun scandal",
+                "href": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/"
             },
             {
                 "title": "How to Backdoor Large Language Models",
                 "href": "https://blog.sshh.io/p/how-to-backdoor-large-language-models"
             },
             {
-                "title": "Gemini (protocol)",
-                "href": "https://en.wikipedia.org/wiki/Gemini_(protocol)"
-            },
-            {
                 "title": "The hardest working font in Manhattan",
                 "href": "https://aresluna.org/the-hardest-working-font-in-manhattan/"
             },
             {
-                "title": "Type safe variadic printf, without macros",
-                "href": "https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html"
+                "title": "Gemini (protocol)",
+                "href": "https://en.wikipedia.org/wiki/Gemini_(protocol)"
+            },
+            {
+                "title": "A transient feed aggregator built with Gleam",
+                "href": "https://github.com/facundoolano/news.olano.dev"
             },
             {
                 "title": "AI is Stifling Tech Adoption",
                 "href": "https://vale.rocks/posts/ai-is-stifling-tech-adoption"
+            },
+            {
+                "title": "Type safe variadic printf, without macros",
+                "href": "https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html"
             },
             {
                 "title": "TeX and Typst: Layout Models",
@@ -43,10 +47,6 @@
                 "href": "https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/"
             },
             {
-                "title": "A transient feed aggregator built with Gleam",
-                "href": "https://github.com/facundoolano/news.olano.dev"
-            },
-            {
                 "title": "Agit-Flow and git-repo",
                 "href": "https://git-repo.info/en/2020/03/agit-flow-and-git-repo/"
             },
@@ -55,12 +55,20 @@
                 "href": "https://brutecat.com/articles/leaking-youtube-emails"
             },
             {
+                "title": "Run LLMs on macOS using llm-mlx and Apple\u2019s MLX framework",
+                "href": "https://simonwillison.net/2025/Feb/15/llm-mlx/"
+            },
+            {
                 "title": "8088 MPH Final: Old vs. New CGA (and Other Gory Details) (2015)",
                 "href": "https://int10h.org/blog/2015/08/8088-mph-final-old-vs-new-cga-gory-details/"
             },
             {
                 "title": "Parallel Random Numbers: As Easy as 1, 2, 3",
                 "href": "https://www.thesalmons.org/john/random123/papers/random123sc11.pdf"
+            },
+            {
+                "title": "Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code",
+                "href": "https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html"
             },
             {
                 "title": "Roomy Deep Dive: ATProto + Automerge",
@@ -79,10 +87,6 @@
                 "href": "https://operations.osmfoundation.org/2025/02/15/post-mortem.html"
             },
             {
-                "title": "Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code",
-                "href": "https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html"
-            },
-            {
                 "title": "why I built a hyper-personalized search engine that isn't very good",
                 "href": "https://search.technomancy.us/why"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "XOR",
                 "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/"
-            },
-            {
-                "title": "Zed now predicts next edit with new open model",
-                "href": "https://zed.dev/blog/edit-prediction"
             }
         ]
     },
@@ -601,6 +601,10 @@
                 "href": "https://github.com/b4rtaz/distributed-llama/discussions/162"
             },
             {
+                "title": "Jill \u2013 a functional programming language for the Nand2Tetris platform",
+                "href": "https://github.com/mpatajac/jillc"
+            },
+            {
                 "title": "Carbon capture more costly than switching to renewables, researchers find",
                 "href": "https://techxplore.com/news/2025-02-carbon-capture-renewables.html"
             },
@@ -609,24 +613,28 @@
                 "href": "https://www.figgie.com/"
             },
             {
-                "title": "The 20 year old PSP can now connect to WPA2 WiFi Networks",
-                "href": "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/"
-            },
-            {
                 "title": "U.S. conditionally approves vaccine to protect poultry from avian flu",
                 "href": "https://www.science.org/content/article/u-s-conditionally-approves-vaccine-protect-poultry-avian-flu"
             },
             {
-                "title": "We were wrong about GPUs",
-                "href": "https://fly.io/blog/wrong-about-gpu/"
+                "title": "The 20 year old PSP can now connect to WPA2 WiFi Networks",
+                "href": "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/"
             },
             {
                 "title": "Dust from car brakes more harmful than exhaust, study finds",
                 "href": "https://e360.yale.edu/digest/brake-pads-lung-damage-study"
             },
             {
+                "title": "We were wrong about GPUs",
+                "href": "https://fly.io/blog/wrong-about-gpu/"
+            },
+            {
                 "title": "Show HN: Kreuzberg \u2013 Modern async Python library for document text extraction",
                 "href": "https://github.com/Goldziher/kreuzberg"
+            },
+            {
+                "title": "Darcs, Friendly Version Control",
+                "href": "https://darcsbook.acmelabs.space/"
             },
             {
                 "title": "More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year",
@@ -637,16 +645,8 @@
                 "href": "https://aresluna.org/the-hardest-working-font-in-manhattan/"
             },
             {
-                "title": "Jill \u2013 a functional programming language for the Nand2Tetris platform",
-                "href": "https://github.com/mpatajac/jillc"
-            },
-            {
                 "title": "A decade later, a decade lost (2024)",
                 "href": "https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/"
-            },
-            {
-                "title": "Darcs, Friendly Version Control",
-                "href": "https://darcsbook.acmelabs.space/"
             },
             {
                 "title": "Surprise Magma Chamber Growing Under Mediterranean Volcano",
@@ -661,12 +661,12 @@
                 "href": "https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it"
             },
             {
-                "title": "Show HN: Synergetica \u2013 A Modern, End-to-End Genetic Circuit Design Desktop App",
-                "href": "https://github.com/khokao/synergetica"
-            },
-            {
                 "title": "Did Semgrep Just Get a Lot More Interesting?",
                 "href": "https://fly.io/blog/semgrep-but-for-real-now/"
+            },
+            {
+                "title": "Show HN: Synergetica \u2013 A Modern, End-to-End Genetic Circuit Design Desktop App",
+                "href": "https://github.com/khokao/synergetica"
             },
             {
                 "title": "Show HN: Letting LLMs Run a Debugger",
@@ -685,36 +685,36 @@
                 "href": "https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad"
             },
             {
-                "title": "Diablo hackers uncovered a speedrun scandal",
-                "href": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/"
-            },
-            {
                 "title": "Complex dynamics require complex solutions",
                 "href": "https://mathstodon.xyz/@tao/113873092369347147"
-            },
-            {
-                "title": "Why Aren't We Losing Our Minds over the Plastic in Our Brains?",
-                "href": "https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/"
-            },
-            {
-                "title": "The Iconic 3DBenchy Enters the Public Domain",
-                "href": "https://www.nti-group.com/home/information/news/3dbenchy/"
-            },
-            {
-                "title": "Recurring checklists using Org Mode in Emacs",
-                "href": "https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html"
             },
             {
                 "title": "Show HN: I Built a Reddit-style Bluesky client \u2013 still rough, but open to ideas",
                 "href": "https://threadsky.app/"
             },
             {
+                "title": "Recurring checklists using Org Mode in Emacs",
+                "href": "https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html"
+            },
+            {
+                "title": "The Iconic 3DBenchy Enters the Public Domain",
+                "href": "https://www.nti-group.com/home/information/news/3dbenchy/"
+            },
+            {
+                "title": "Why Aren't We Losing Our Minds over the Plastic in Our Brains?",
+                "href": "https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/"
+            },
+            {
+                "title": "Diablo hackers uncovered a speedrun scandal",
+                "href": "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/"
+            },
+            {
                 "title": "Improved evaluation times with pre-resolved Nix store paths",
                 "href": "https://determinate.systems/posts/resolved-store-paths/"
             },
             {
-                "title": "Increasing rat numbers in cities are linked to climate warming, urbanization",
-                "href": "https://www.science.org/doi/10.1126/sciadv.ads6782"
+                "title": "California homeowners to fund half of high-risk insurer's $1B 'bailout'",
+                "href": "https://calmatters.org/economy/2025/02/homeowners-insurance-costs-rising-in-california-fair-plan/"
             }
         ]
     }
