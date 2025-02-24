@@ -31,16 +31,20 @@
                 "href": "https://gaiwan.co/blog/why-clojure/"
             },
             {
+                "title": "Nil channels in Go",
+                "href": "https://vishnubharathi.codes/blog/nil-channels-in-go/"
+            },
+            {
                 "title": "Calendar.txt (2021)",
                 "href": "https://terokarvinen.com/2021/calendar-txt/"
             },
             {
-                "title": "Why are QR Codes with capital letters smaller than QR codes with lower-case letters?",
-                "href": "https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/"
-            },
-            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/iazbpl/what_are_you_doing_this_week"
+            },
+            {
+                "title": "Why are QR Codes with capital letters smaller than QR codes with lower-case letters?",
+                "href": "https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/"
             },
             {
                 "title": "Tokio + prctl = nasty bug",
@@ -51,12 +55,16 @@
                 "href": "https://rachelbythebay.com/w/2025/02/22/war/"
             },
             {
-                "title": "Nil channels in Go",
-                "href": "https://vishnubharathi.codes/blog/nil-channels-in-go/"
-            },
-            {
                 "title": "ICanProveItCanSort",
                 "href": "https://unnamed.website/posts/i-can-prove-it-can-sort/"
+            },
+            {
+                "title": "dropshot: expose REST APIs from a Rust program",
+                "href": "https://github.com/oxidecomputer/dropshot"
+            },
+            {
+                "title": "Why do frame pointers matter for OCaml?",
+                "href": "https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html"
             },
             {
                 "title": "Warsmash: A rewrite of Warcraft3 in Java",
@@ -71,16 +79,8 @@
                 "href": "https://www.openbsd.org/innovations.html"
             },
             {
-                "title": "Why do frame pointers matter for OCaml?",
-                "href": "https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html"
-            },
-            {
                 "title": "Defragging my old Dell\u2019s UEFI NVRAM",
                 "href": "https://artemis.sh/2025/02/22/uefi-nvram-defrag.html"
-            },
-            {
-                "title": "dropshot: expose REST APIs from a Rust program",
-                "href": "https://github.com/oxidecomputer/dropshot"
             },
             {
                 "title": "Memory hell",
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Pre-Product AI 'Company' Now Valued at $30 Billion",
+                "href": "https://tech.slashdot.org/story/25/02/24/1517229/pre-product-ai-company-now-valued-at-30-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Google To Eliminate SMS Authentication in Gmail, Implement QR Codes",
                 "href": "https://tech.slashdot.org/story/25/02/24/1442246/google-to-eliminate-sms-authentication-in-gmail-implement-qr-codes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Mozilla Wants to Expand from Firefox to Open-Source AI and Privacy-Respecting Ads",
                 "href": "https://tech.slashdot.org/story/25/02/23/067249/mozilla-wants-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Elon Musk Urges Deorbiting the International Space Station 'As Soon as Possible'",
-                "href": "https://science.slashdot.org/story/25/02/23/0654242/elon-musk-urges-deorbiting-the-international-space-station-as-soon-as-possible?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -718,36 +718,44 @@
                 "href": "https://www.gginsights.io"
             },
             {
-                "title": "DeepSeek Open Source FlashMLA \u2013 MLA Decoding Kernel for Hopper GPUs",
-                "href": "https://github.com/deepseek-ai/FlashMLA"
-            },
-            {
-                "title": "Show HN: RadiaCode \u2013 Python Library for RadiaCode-10x Radiation Detectors",
-                "href": "https://github.com/cdump/radiacode"
-            },
-            {
-                "title": "On Zero Sum Games (The Informational Meta-Game)",
-                "href": "https://rohan.ga/blog/zero_game/"
-            },
-            {
                 "title": "Why does target=\"_blank\" have an underscore in front?",
                 "href": "https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html"
             },
             {
-                "title": "Making any integer with four 2s",
-                "href": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+                "title": "DeepSeek Open Source FlashMLA \u2013 MLA Decoding Kernel for Hopper GPUs",
+                "href": "https://github.com/deepseek-ai/FlashMLA"
+            },
+            {
+                "title": "Just Write",
+                "href": "https://blog.chasingbrains.co/p/just-write-stuff"
             },
             {
                 "title": "The Wrongs of Thomas More (Wrong 5)",
                 "href": "https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5"
             },
             {
-                "title": "Show HN: Jq-Like Tool for Markdown",
-                "href": "https://github.com/yshavit/mdq"
+                "title": "On Zero Sum Games (The Informational Meta-Game)",
+                "href": "https://rohan.ga/blog/zero_game/"
+            },
+            {
+                "title": "The DOS 3.3 Sys.com Bug Hunt",
+                "href": "https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html"
+            },
+            {
+                "title": "Show HN: RadiaCode \u2013 Python Library for RadiaCode-10x Radiation Detectors",
+                "href": "https://github.com/cdump/radiacode"
+            },
+            {
+                "title": "Making any integer with four 2s",
+                "href": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
             },
             {
                 "title": "Our Epidemic of Loneliness and Isolation [pdf]",
                 "href": "https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf"
+            },
+            {
+                "title": "Show HN: Jq-Like Tool for Markdown",
+                "href": "https://github.com/yshavit/mdq"
             },
             {
                 "title": "Tokio and Prctl = Nasty Bug",
@@ -758,16 +766,12 @@
                 "href": "https://ukdataexplorer.com/european-translator/"
             },
             {
-                "title": "Just Write",
-                "href": "https://blog.chasingbrains.co/p/just-write-stuff"
+                "title": "Why Clojure?",
+                "href": "https://gaiwan.co/blog/why-clojure/"
             },
             {
                 "title": "It is not a compiler error (2017)",
                 "href": "https://blog.plover.com/2017/11/12/"
-            },
-            {
-                "title": "Why Clojure?",
-                "href": "https://gaiwan.co/blog/why-clojure/"
             },
             {
                 "title": "Ask HN: What are you working on? (February 2025)",
@@ -778,12 +782,12 @@
                 "href": "https://people.csail.mit.edu/ronitt/sublinear.html"
             },
             {
-                "title": "Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum",
-                "href": "https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html"
+                "title": "Fast Cash vs. Slow Equity",
+                "href": "https://blog.nateliason.com/p/fast-cash-slow-equity"
             },
             {
-                "title": "OpenCFS (Coupled Field Simulation)",
-                "href": "https://opencfs.org/"
+                "title": "Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum",
+                "href": "https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html"
             },
             {
                 "title": "The benefits of learning in public",
@@ -794,24 +798,24 @@
                 "href": "https://arxiv.org/abs/1807.00018"
             },
             {
-                "title": "Fast Cash vs. Slow Equity",
-                "href": "https://blog.nateliason.com/p/fast-cash-slow-equity"
-            },
-            {
-                "title": "'Impossible-to-Hack' Security Turns Out to Be No Security at All",
-                "href": "https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security"
+                "title": "OpenCFS (Coupled Field Simulation)",
+                "href": "https://opencfs.org/"
             },
             {
                 "title": "But good sir, what is electricity?",
                 "href": "https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity"
             },
             {
-                "title": "Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents",
-                "href": "https://www.mascot.bot/"
-            },
-            {
                 "title": "Purely Functional Sliding Window Aggregation Algorithm",
                 "href": "https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html"
+            },
+            {
+                "title": "Pollution from Big Tech's data centre boom costs US public health $5.4bn",
+                "href": "https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7"
+            },
+            {
+                "title": "'Impossible-to-Hack' Security Turns Out to Be No Security at All",
+                "href": "https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security"
             },
             {
                 "title": "War rooms vs. deep investigations",
@@ -820,10 +824,6 @@
             {
                 "title": "Show HN: Benchmarking VLMs vs. Traditional OCR",
                 "href": "https://getomni.ai/ocr-benchmark"
-            },
-            {
-                "title": "How the UK Is Weakening Safety Worldwide",
-                "href": "https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide"
             }
         ]
     }
