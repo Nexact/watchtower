@@ -3,12 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Other kinds of talks",
+                "href": "https://www.scattered-thoughts.net/writing/other-kinds-of-talks/"
+            },
+            {
                 "title": "How Core Git Developers Configure Git",
                 "href": "https://blog.gitbutler.com/how-git-core-devs-configure-git/"
             },
             {
-                "title": "Other kinds of talks",
-                "href": "https://www.scattered-thoughts.net/writing/other-kinds-of-talks/"
+                "title": "\"The closer to the train station, the worse the kebab\"",
+                "href": "https://www.jmspae.se/write-ups/kebabs-train-stations/"
+            },
+            {
+                "title": "zlib-rs is faster than C - Trifecta Tech Foundation",
+                "href": "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
             },
             {
                 "title": "What would happen if we didn't use TCP or UDP?",
@@ -19,40 +27,32 @@
                 "href": "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"
             },
             {
-                "title": "\"The closer to the train station, the worse the kebab\"",
-                "href": "https://www.jmspae.se/write-ups/kebabs-train-stations/"
+                "title": "Mixing up Public and Private Keys in OpenID Connect deployments",
+                "href": "https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html"
             },
             {
                 "title": "Canadian VPS Review",
                 "href": "https://lukecyca.com/2025/canadian-vps-review.html"
             },
             {
-                "title": "zlib-rs is faster than C - Trifecta Tech Foundation",
-                "href": "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
-            },
-            {
-                "title": "Mixing up Public and Private Keys in OpenID Connect deployments",
-                "href": "https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html"
-            },
-            {
                 "title": "Smart Pointers Can't Solve Use-After-Free",
                 "href": "http://jacko.io/smart_pointers.html"
-            },
-            {
-                "title": "Breaking into dozens of apartment buildings in five minutes on my phone",
-                "href": "https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/"
             },
             {
                 "title": "Tcl/Tk application binaries through Go",
                 "href": "https://wiki.tcl-lang.org/page/Tcl%2FTk+application+binaries+through+Go"
             },
             {
-                "title": "Why Common Lisp",
-                "href": "https://kingcons.io/notes/common-lisp.html"
+                "title": "Breaking into dozens of apartment buildings in five minutes on my phone",
+                "href": "https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/"
             },
             {
                 "title": "Reviving an Old Kindle Paperwhite 7th Gen",
                 "href": "https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/"
+            },
+            {
+                "title": "Why Common Lisp",
+                "href": "https://kingcons.io/notes/common-lisp.html"
             },
             {
                 "title": "The least secure TOTP code possible",
@@ -67,6 +67,10 @@
                 "href": "https://github.com/oxidecomputer/dropshot"
             },
             {
+                "title": "Gleam, coming from Erlang",
+                "href": "https://olano.dev/blog/gleam-coming-from-erlang"
+            },
+            {
                 "title": "Zone maps, or \u201cqueries go brrr\u201d",
                 "href": "https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/"
             },
@@ -75,12 +79,12 @@
                 "href": "https://rfd.shared.oxide.computer/rfd/0552"
             },
             {
-                "title": "MathB.in Is Shutting Down",
-                "href": "https://susam.net/mathbin-is-shutting-down.html"
-            },
-            {
                 "title": "Xcode constantly phones home",
                 "href": "https://lapcatsoftware.com/articles/2025/2/5.html"
+            },
+            {
+                "title": "MathB.in Is Shutting Down",
+                "href": "https://susam.net/mathbin-is-shutting-down.html"
             },
             {
                 "title": "ReScript: A Better Typed JavaScript?",
@@ -97,10 +101,6 @@
             {
                 "title": "Bitwarden Authenticator",
                 "href": "https://bitwarden.com/products/authenticator/"
-            },
-            {
-                "title": "Testing types in TypeScript",
-                "href": "https://2ality.com/2025/02/testing-types-typescript.html"
             }
         ]
     },
@@ -710,36 +710,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Signal to leave Sweden if backdoor law passes",
-                "href": "https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden"
-            },
-            {
-                "title": "How Core Git Developers Configure Git",
-                "href": "https://blog.gitbutler.com/how-git-core-devs-configure-git/"
-            },
-            {
                 "title": "Embedding Python in Elixir, It's Fine",
                 "href": "https://dashbit.co/blog/running-python-in-elixir-its-fine"
-            },
-            {
-                "title": "Awesome DeepSeek Integrations",
-                "href": "https://github.com/deepseek-ai/awesome-deepseek-integration"
             },
             {
                 "title": "Claude 3.7 Sonnet and Claude Code",
                 "href": "https://www.anthropic.com/news/claude-3-7-sonnet"
             },
             {
-                "title": "Unknown illness kills over 50 in Congo with hours between symptoms and death",
-                "href": "https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db"
+                "title": "DeepSeek open source DeepEP \u2013 library for MoE training and Inference",
+                "href": "https://github.com/deepseek-ai/DeepEP"
             },
             {
                 "title": "DigiCert: Threat of legal action to stifle Bugzilla discourse",
                 "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=1950144"
-            },
-            {
-                "title": "DeepSeek open source DeepEP \u2013 library for MoE training and Inference",
-                "href": "https://github.com/deepseek-ai/DeepEP"
             },
             {
                 "title": "Freelancing: How I found clients, part 1",
@@ -750,20 +734,44 @@
                 "href": "https://www.jmspae.se/write-ups/kebabs-train-stations/"
             },
             {
-                "title": "Detecting Noise in Canvas Fingerprinting",
-                "href": "https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/"
-            },
-            {
                 "title": "Some Programming Language Ideas",
                 "href": "https://davidbos.me/posts/some_programming_language_ideas/"
             },
             {
-                "title": "US employee screening giant DISA says hackers accessed data of 3M people",
-                "href": "https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/"
+                "title": "Detecting Noise in Canvas Fingerprinting",
+                "href": "https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/"
+            },
+            {
+                "title": "Show HN: Prioritize Anything with Stacks",
+                "href": "https://stack-ranker.com"
             },
             {
                 "title": "Clean Code vs. A Philosophy Of Software Design",
                 "href": "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"
+            },
+            {
+                "title": "Fans Are Better Than Tech at Organizing Information Online (2019)",
+                "href": "https://www.wired.com/story/archive-of-our-own-fans-better-than-tech-organizing-information/"
+            },
+            {
+                "title": "What do people see when they're tripping? Analyzing Erowid's trip reports",
+                "href": "https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping"
+            },
+            {
+                "title": "Apple Voice Dictation Writes 'Trump' When You Say 'Racist'",
+                "href": "https://boehs.org/node/racist-autocorrect"
+            },
+            {
+                "title": "Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations",
+                "href": "https://www.phoronix.com/news/Zlib-rs-0.4.2"
+            },
+            {
+                "title": "History of CAD \u2013 David Weisberg",
+                "href": "https://www.shapr3d.com/blog/history-of-cad"
+            },
+            {
+                "title": "Show HN: While the world builds AI Agents, I'm just building calculators",
+                "href": "https://www.calcverse.live"
             },
             {
                 "title": "The independent researcher (2018)",
@@ -774,14 +782,6 @@
                 "href": "https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai"
             },
             {
-                "title": "Show HN: While the world builds AI Agents, I'm just building calculators",
-                "href": "https://www.calcverse.live"
-            },
-            {
-                "title": "History of CAD \u2013 David Weisberg",
-                "href": "https://www.shapr3d.com/blog/history-of-cad"
-            },
-            {
                 "title": "Launch HN: SubImage (YC W25) \u2013 See your infra from an attacker's perspective",
                 "href": "item?id=43161332"
             },
@@ -790,12 +790,16 @@
                 "href": "https://corporate.watch"
             },
             {
+                "title": "What would happen if we didn't use TCP or UDP?",
+                "href": "https://github.com/Hawzen/hdp"
+            },
+            {
                 "title": "Introduction to Stochastic Calculus",
                 "href": "https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/"
             },
             {
-                "title": "What would happen if we didn't use TCP or UDP?",
-                "href": "https://github.com/Hawzen/hdp"
+                "title": "Signal to leave Sweden if backdoor law passes",
+                "href": "https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden"
             },
             {
                 "title": "Breaking into apartment buildings in five minutes on my phone",
@@ -806,14 +810,6 @@
                 "href": "https://minimaxir.com/2025/02/embeddings-parquet/"
             },
             {
-                "title": "How to change your settings to make yourself less valuable to Meta",
-                "href": "https://johnoliverwantsyourraterotica.com/"
-            },
-            {
-                "title": "I ate and reviewed every snack in our office kitchen",
-                "href": "https://www.getlago.com/blog/office-snacks"
-            },
-            {
                 "title": "Tuta Launches Post Quantum Cryptography for Email (2024)",
                 "href": "https://tuta.com/blog/post-quantum-cryptography"
             },
@@ -822,12 +818,16 @@
                 "href": "http://codex99.com/design/the-hp35.html"
             },
             {
+                "title": "Favicon Hasher \u2013 An Osint Tool",
+                "href": "https://kriztalz.sh/favicon-hash/"
+            },
+            {
                 "title": "Closing the \u201cgreen gap\u201d: energy savings from the math of the landscape function",
                 "href": "https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/"
             },
             {
-                "title": "Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone",
-                "href": "https://discuss.systems/@ricci/114059690609284323"
+                "title": "GibberLink [AI-AI Communication]",
+                "href": "https://github.com/PennyroyalTea/gibberlink"
             }
         ]
     }
