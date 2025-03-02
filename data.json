@@ -3,8 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Begrudgingly choosing CBOR over MessagePack",
+                "href": "https://taylor.town/flat-scraps-001"
+            },
+            {
                 "title": "Hardware discovery: ACPI & Device Tree",
                 "href": "https://blogsystem5.substack.com/p/hardware-autoconfiguration"
+            },
+            {
+                "title": "Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone",
+                "href": "https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone"
             },
             {
                 "title": "Nebu: a spreadsheet editor for Varvara",
@@ -19,10 +27,6 @@
                 "href": "https://taylor.town/next-two-zeroes"
             },
             {
-                "title": "Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone",
-                "href": "https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone"
-            },
-            {
                 "title": "Deno shows us there's a better way",
                 "href": "https://www.macchaffee.com/blog/2025/deno/"
             },
@@ -31,8 +35,12 @@
                 "href": "https://danthedev.com/lisp-in-your-language"
             },
             {
-                "title": "Begrudgingly choosing CBOR over MessagePack",
-                "href": "https://taylor.town/flat-scraps-001"
+                "title": "Rackmounting that which should not be rackmounted",
+                "href": "https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/"
+            },
+            {
+                "title": "I struggled with Git, so I'm making a game to spare others the pain",
+                "href": "https://initialcommit.com/blog/im-making-a-git-game"
             },
             {
                 "title": "gguser \u2013 A Simple CLI to Manage Multiple Git Profiles",
@@ -53,6 +61,10 @@
             {
                 "title": "Infrastructural problems and instabilities caused by cloud services",
                 "href": "https://mental-reverb.com/blog.php?id=15"
+            },
+            {
+                "title": "How Clay's UI Layout Algorithm Works",
+                "href": "https://www.youtube.com/watch?v=by9lQvpvMIc"
             },
             {
                 "title": "Pinning NixOS with npins, or how to kill channels forever without flakes",
@@ -89,18 +101,6 @@
             {
                 "title": "Get in loser. We're rewinding the stack. (Sandboxing Perl with WASM.)",
                 "href": "https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack"
-            },
-            {
-                "title": "Nine C64 sprite demo explained",
-                "href": "https://www.linusakesson.net/scene/nine/explanation.php"
-            },
-            {
-                "title": "Structured data extraction from unstructured content using LLM schemas",
-                "href": "https://simonwillison.net/2025/Feb/28/llm-schemas/"
-            },
-            {
-                "title": "Programming without pointers",
-                "href": "https://www.hytradboi.com/2025/05c72e39-c07e-41bc-ac40-85e8308f2917-programming-without-pointers"
             }
         ]
     },
@@ -726,48 +726,52 @@
                 "href": "https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/"
             },
             {
-                "title": "Crossing the uncanny valley of conversational voice",
-                "href": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice"
-            },
-            {
                 "title": "How Flash games shaped the video game industry (2020)",
                 "href": "https://www.flashgamehistory.com/"
             },
             {
-                "title": "Show HN: Berlin Swapfest \u2013 Electronics flea market",
-                "href": "https://www.swapfest.berlin/"
+                "title": "Crossing the uncanny valley of conversational voice",
+                "href": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice"
             },
             {
                 "title": "Free introns of tRNAs as complementarity-dependent regulators of gene expression",
                 "href": "https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X"
             },
             {
-                "title": "Knowing CSS is mastery to Front end Development",
-                "href": "https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development"
+                "title": "Show HN: Berlin Swapfest \u2013 Electronics flea market",
+                "href": "https://www.swapfest.berlin/"
             },
             {
                 "title": "The A.I. Monarchy",
                 "href": "https://substack.com/home/post/p-156886169"
             },
             {
-                "title": "Firefly Blue Ghost Mission 1 Lunar Landing",
-                "href": "https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/"
+                "title": "Knowing CSS is mastery to Front end Development",
+                "href": "https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development"
             },
             {
-                "title": "A cross-platform multi-target dotfiles manager written in Rust",
-                "href": "https://github.com/Shemnei/punktf"
+                "title": "Chrome has built-in AI history search",
+                "href": "https://support.google.com/chrome/answer/15305774?hl=en"
+            },
+            {
+                "title": "Firefly Blue Ghost Mission 1 Lunar Landing",
+                "href": "https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/"
             },
             {
                 "title": "Euclid finds complete Einstein Ring in NGC galaxy",
                 "href": "https://www.euclid-ec.org/einstein-ring-in-ngc-6505/"
             },
             {
-                "title": "Mozilla flamed by Firefox fans after reneging on promises to not sell their data",
-                "href": "https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/"
+                "title": "A cross-platform multi-target dotfiles manager written in Rust",
+                "href": "https://github.com/Shemnei/punktf"
             },
             {
                 "title": "Show HN: I made a website where you can create your own \"Life in Weeks\" timeline",
                 "href": "https://lifeweeks.app/"
+            },
+            {
+                "title": "Mozilla flamed by Firefox fans after reneging on promises to not sell their data",
+                "href": "https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/"
             },
             {
                 "title": "Show HN: Robyn \u2013 \u201cBatman Inspired\u201d Python Web Framework Built with Rust",
@@ -778,10 +782,6 @@
                 "href": "https://github.com/myanvoos/algoMIDI"
             },
             {
-                "title": "NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable",
-                "href": "https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative"
-            },
-            {
                 "title": "Reimagining Fluid Typography",
                 "href": "https://www.oddbird.net/2025/02/12/fluid-type/"
             },
@@ -790,12 +790,20 @@
                 "href": "https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b"
             },
             {
-                "title": "What, if anything, should I do about using Mozilla's Firefox",
-                "href": "https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/"
+                "title": "A few words about indie app business",
+                "href": "https://blog.charliemonroe.net/a-few-words-about-indie-app-business/"
+            },
+            {
+                "title": "NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable",
+                "href": "https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative"
             },
             {
                 "title": "Efabless \u2013 Shutdown Notice",
                 "href": "https://efabless.com/notice"
+            },
+            {
+                "title": "What, if anything, should I do about using Mozilla's Firefox",
+                "href": "https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/"
             },
             {
                 "title": "Nuclear Reactor Lasers: From fission to photon (2019)",
@@ -818,16 +826,8 @@
                 "href": "https://ballingt.com/python-second-language-empathy/"
             },
             {
-                "title": "Maestro \u2013 Next generation mobile UI automation",
-                "href": "https://github.com/mobile-dev-inc/Maestro"
-            },
-            {
-                "title": "China tells its AI leaders to avoid U.S. travel over security concerns",
-                "href": "https://www.wsj.com/world/china/china-ai-us-travel-advisory-ff248349"
-            },
-            {
-                "title": "Emacs Tree-sitter custom highlighting",
-                "href": "https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html"
+                "title": "Trust in Firefox and Mozilla Is Gone \u2013 Let's Talk Alternatives",
+                "href": "https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/"
             }
         ]
     }
