@@ -11,6 +11,10 @@
                 "href": "https://ziglang.org/download/0.14.0/release-notes.html"
             },
             {
+                "title": "A good memory allocator in 200 lines of code",
+                "href": "https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig"
+            },
+            {
                 "title": "Why \"alias\" is my last resort for aliases",
                 "href": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
             },
@@ -19,16 +23,12 @@
                 "href": "https://blog.6nok.org/tailscale-is-pretty-useful/"
             },
             {
-                "title": "Git without a forge",
-                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
-            },
-            {
-                "title": "A good memory allocator in 200 lines of code",
-                "href": "https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig"
-            },
-            {
                 "title": "Basecamp release Github extension for offline CI signoff",
                 "href": "https://github.com/basecamp/gh-signoff"
+            },
+            {
+                "title": "Git without a forge",
+                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
             },
             {
                 "title": "In Defense of Text Labels",
@@ -43,20 +43,24 @@
                 "href": "https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/"
             },
             {
-                "title": "Zen and the Art of Microcode Hacking",
-                "href": "https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking"
-            },
-            {
                 "title": "\"As Code\"",
                 "href": "https://mitchellh.com/writing/as-code"
             },
             {
-                "title": "bad apple but it's ssh keys",
-                "href": "https://www.5snb.club/posts/2025/bad-apple-but-its-ssh-keys/"
+                "title": "Zen and the Art of Microcode Hacking",
+                "href": "https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking"
+            },
+            {
+                "title": "Take a break: Rust match has fallthrough",
+                "href": "https://huonw.github.io/blog/2025/03/rust-fallthrough/"
             },
             {
                 "title": "dude, where are your syscalls?",
                 "href": "https://flak.tedunangst.com/post/dude-where-are-your-syscalls"
+            },
+            {
+                "title": "bad apple but it's ssh keys",
+                "href": "https://www.5snb.club/posts/2025/bad-apple-but-its-ssh-keys/"
             },
             {
                 "title": "Floating Points & Boxes",
@@ -67,12 +71,12 @@
                 "href": "https://www.graz.io/articles/bayleaf-wireless-keyboard"
             },
             {
-                "title": "Take a break: Rust match has fallthrough",
-                "href": "https://huonw.github.io/blog/2025/03/rust-fallthrough/"
-            },
-            {
                 "title": "TigerBeetle Architecture",
                 "href": "https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/internals/ARCHITECTURE.md"
+            },
+            {
+                "title": "Pokemon Red (Reinforcement Learning Edition)",
+                "href": "https://drubinstein.github.io/pokerl/"
             },
             {
                 "title": "constantly divisionless random numbers",
@@ -89,10 +93,6 @@
             {
                 "title": "Avoid the nightmare bicycle",
                 "href": "https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html"
-            },
-            {
-                "title": "Pokemon Red (Reinforcement Learning Edition)",
-                "href": "https://drubinstein.github.io/pokerl/"
             },
             {
                 "title": "Lynx: Unlock Native for More",
@@ -710,12 +710,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Git Without a Forge",
-                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
-            },
-            {
                 "title": "Tailscale is pretty useful",
                 "href": "https://blog.6nok.org/tailscale-is-pretty-useful/"
+            },
+            {
+                "title": "Git without a forge",
+                "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
             },
             {
                 "title": "Apple M3 Ultra",
@@ -724,6 +724,14 @@
             {
                 "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
                 "href": "https://qwenlm.github.io/blog/qwq-32b/"
+            },
+            {
+                "title": "Solving First Order Differential Equations with Julia",
+                "href": "https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html"
+            },
+            {
+                "title": "Zentool \u2013 AMD Zen Microcode Manipulation Utility",
+                "href": "https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md"
             },
             {
                 "title": "MacBook Air M4",
@@ -738,24 +746,20 @@
                 "href": "https://awards.acm.org/about/2024-turing"
             },
             {
-                "title": "Apple takes UK to court over 'backdoor' order",
-                "href": "https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/"
-            },
-            {
                 "title": "Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools",
                 "href": "https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents"
             },
             {
-                "title": "Zentool \u2013 AMD Zen Microcode Manipulation Utility",
-                "href": "https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md"
+                "title": "Apple takes UK to court over 'backdoor' order",
+                "href": "https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/"
+            },
+            {
+                "title": "Show HN: Leaflet.pub \u2013 a web app for creating and sharing rich documents",
+                "href": "item?id=43269928"
             },
             {
                 "title": "Things we've learned about building products",
                 "href": "https://newsletter.posthog.com/p/50-things-weve-learned-about-building"
-            },
-            {
-                "title": "Show HN: Leaflet.pub \u2013\u00a0a web app for creating and sharing rich documents",
-                "href": "item?id=43269928"
             },
             {
                 "title": "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
@@ -774,24 +778,28 @@
                 "href": "https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/"
             },
             {
-                "title": "The Day the Muse Died",
-                "href": "https://johnpweiss.com/blog/199949/the-day-the-muse-died"
+                "title": "Superintelligence Strategy",
+                "href": "https://www.nationalsecurity.ai/"
             },
             {
                 "title": "The Tiny Star Explosions Powering Moore's Law",
                 "href": "https://spectrum.ieee.org/euv-light-source"
             },
             {
+                "title": "The Day the Muse Died",
+                "href": "https://johnpweiss.com/blog/199949/the-day-the-muse-died"
+            },
+            {
                 "title": "MS Paint IDE",
                 "href": "https://ms-paint-i.de/"
             },
             {
-                "title": "Wake up Neo: An ancient painting competition, and The Matrix",
-                "href": "https://keithamcgowan.blogspot.com/2025/03/wake-up-neothe-matrix-ai-and-ancient.html"
-            },
-            {
                 "title": "Skynet won and destroyed humanity",
                 "href": "https://dmathieu.com/en/opinions/skynet-won/"
+            },
+            {
+                "title": "Wake up Neo: An ancient painting competition, and The Matrix",
+                "href": "https://keithamcgowan.blogspot.com/2025/03/wake-up-neothe-matrix-ai-and-ancient.html"
             },
             {
                 "title": "JCGT \u2013 Arc Blanc: a real time ocean simulation",
@@ -802,32 +810,24 @@
                 "href": "https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305"
             },
             {
-                "title": "From ACS to Altair: The Rise of the Hobby Computer",
-                "href": "https://technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/"
-            },
-            {
-                "title": "The Differences Between Deep Research, Deep Research, and Deep Research",
-                "href": "https://leehanchung.github.io/blogs/2025/02/26/deep-research/"
-            },
-            {
                 "title": "Lynx: Open Source Native Cross Platform framework used in TikTok",
                 "href": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
+            },
+            {
+                "title": "From ACS to Altair: The Rise of the Hobby Computer",
+                "href": "https://technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/"
             },
             {
                 "title": "Apple unveils new Mac\u00a0Studio",
                 "href": "https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/"
             },
             {
-                "title": "Fix the light guide in a laser meter",
-                "href": "https://lettieri.iet.unipi.it/~luigi/250302-fix-laser-meter/"
-            },
-            {
                 "title": "Now Available: Depot Registry",
                 "href": "https://depot.dev/blog/introducing-depot-registry"
             },
             {
-                "title": "Intel the CPU Company",
-                "href": "https://www.abortretry.fail/p/intel-the-cpu-company"
+                "title": "The Differences Between Deep Research, Deep Research, and Deep Research",
+                "href": "https://leehanchung.github.io/blogs/2025/02/26/deep-research/"
             }
         ]
     }
