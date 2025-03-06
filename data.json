@@ -19,16 +19,16 @@
                 "href": "https://andrewconl.in/blog/2024/microzig-display-driver/"
             },
             {
+                "title": "Succinct data structures",
+                "href": "https://blog.startifact.com/posts/succinct/"
+            },
+            {
                 "title": "A Happy Day for Rust",
                 "href": "https://steveklabnik.com/writing/a-happy-day-for-rust/"
             },
             {
                 "title": "Git without a forge",
                 "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
-            },
-            {
-                "title": "Succinct data structures",
-                "href": "https://blog.startifact.com/posts/succinct/"
             },
             {
                 "title": "My changes to the default Phoenix boilerplate",
@@ -55,20 +55,32 @@
                 "href": "https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/"
             },
             {
-                "title": "Zig 0.14.0 Release Notes",
-                "href": "https://ziglang.org/download/0.14.0/release-notes.html"
-            },
-            {
                 "title": "Why \"alias\" is my last resort for aliases",
                 "href": "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
+            },
+            {
+                "title": "Distributed Systems without Raft (part 1)",
+                "href": "https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee"
+            },
+            {
+                "title": "Zig 0.14.0 Release Notes",
+                "href": "https://ziglang.org/download/0.14.0/release-notes.html"
             },
             {
                 "title": "Determinate Nix 3.0",
                 "href": "https://determinate.systems/posts/determinate-nix-30/"
             },
             {
+                "title": "(2009) Composing J in my mind",
+                "href": "https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/"
+            },
+            {
                 "title": "Testing Causality in Scientific Modelling Software",
                 "href": "https://export.arxiv.org/pdf/2209.00357v2.pdf"
+            },
+            {
+                "title": "Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods",
+                "href": "https://dl.acm.org/doi/10.1145/3712057"
             },
             {
                 "title": "The case of the vanishing CPU: A Linux kernel debugging story",
@@ -87,20 +99,8 @@
                 "href": "https://go.dev/blog/cleanups-and-weak"
             },
             {
-                "title": "Distributed Systems without Raft (part 1)",
-                "href": "https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee"
-            },
-            {
                 "title": "Strobelight: A profiling service built on open source technology",
                 "href": "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
-            },
-            {
-                "title": "What if we just didn\u2019t decompress it?",
-                "href": "https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/"
-            },
-            {
-                "title": "Tailscale is pretty useful",
-                "href": "https://blog.6nok.org/tailscale-is-pretty-useful/"
             }
         ]
     },
@@ -217,7 +217,11 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "Akira ransomware encrypted network from a webcam to bypass EDR",
+                "title": "Microsoft says malvertising campaign impacted 1 million PCs",
+                "href": "https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/"
+            },
+            {
+                "title": "Ransomware gang encrypted network from a webcam to bypass EDR",
                 "href": "https://www.bleepingcomputer.com/news/security/akira-ransomware-encrypted-network-from-a-webcam-to-bypass-edr/"
             },
             {
@@ -259,10 +263,6 @@
             {
                 "title": "US charges Chinese hackers linked to critical infrastructure breaches",
                 "href": "https://www.bleepingcomputer.com/news/security/us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches/"
-            },
-            {
-                "title": "BadBox malware disrupted on 500K infected Android devices",
-                "href": "https://www.bleepingcomputer.com/news/security/badbox-malware-disrupted-on-500k-infected-android-devices/"
             }
         ]
     },
@@ -314,6 +314,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Global Sea Ice Hit Record Low in February, Scientists Say",
+                "href": "https://news.slashdot.org/story/25/03/06/198259/global-sea-ice-hit-record-low-in-february-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Brother Denies Bricking Printers Using Third-Party Ink",
                 "href": "https://hardware.slashdot.org/story/25/03/06/1857249/brother-denies-bricking-printers-using-third-party-ink?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +373,6 @@
             {
                 "title": "Utah Passes First US App Store Age Verification Law",
                 "href": "https://news.slashdot.org/story/25/03/06/0348233/utah-passes-first-us-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon Tests AI Dubbing on Prime Video Movies, Series",
-                "href": "https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -714,24 +714,32 @@
                 "href": "https://mistral.ai/fr/news/mistral-ocr"
             },
             {
-                "title": "Succinct Data Structures",
-                "href": "https://blog.startifact.com/posts/succinct/"
+                "title": "Show HN: Rust Vector and Quaternion Lib",
+                "href": "https://github.com/David-OConnor/lin-alg"
             },
             {
-                "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
-                "href": "https://github.com/NishantJoshi00/shelgon"
+                "title": "Succinct Data Structures",
+                "href": "https://blog.startifact.com/posts/succinct/"
             },
             {
                 "title": "Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"",
                 "href": "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue"
             },
             {
-                "title": "How the Index Card Cataloged the World (2017)",
-                "href": "https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/"
+                "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
+                "href": "https://github.com/NishantJoshi00/shelgon"
+            },
+            {
+                "title": "Koko (YC W22) Is Hiring a CTO / Lead Engineer",
+                "href": "https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto"
             },
             {
                 "title": "50 Years in Filesystems: 1984",
                 "href": "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html"
+            },
+            {
+                "title": "How the Index Card Cataloged the World (2017)",
+                "href": "https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/"
             },
             {
                 "title": "EFF: Rayhunter",
@@ -754,16 +762,12 @@
                 "href": "https://rachelbythebay.com/w/2025/03/05/1670/"
             },
             {
+                "title": "Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago",
+                "href": "https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661"
+            },
+            {
                 "title": "A JPEG Image Compression Service Using Part Homomorphic Encryption",
                 "href": "https://github.com/qianfei11/ShadowyCompression"
-            },
-            {
-                "title": "Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI",
-                "href": "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer"
-            },
-            {
-                "title": "Reducing latency with esoteric Linux process flags",
-                "href": "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
             },
             {
                 "title": "Age and cognitive skills: Use it or lose it",
@@ -774,56 +778,52 @@
                 "href": "item?id=43280836"
             },
             {
-                "title": "NASA Shuts Off Voyager Science Instrument",
-                "href": "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
-            },
-            {
-                "title": "Questions for William J. Rapaport",
-                "href": "https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header"
-            },
-            {
                 "title": "Revolt: Open-Source Alternative to Discord",
                 "href": "https://revolt.chat"
             },
             {
-                "title": "Atlassian announces end of support for Opsgenie",
-                "href": "https://www.atlassian.com/blog/announcements/evolution-of-it-operations"
-            },
-            {
-                "title": "Anime fans stumbled upon a mathematical proof",
-                "href": "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/"
-            },
-            {
-                "title": "On the criteria to be used in decomposing systems into modules (1972)",
-                "href": "https://dl.acm.org/doi/pdf/10.1145/361598.361623"
-            },
-            {
-                "title": "Beavers Are Coming Home",
-                "href": "https://www.wildlifetrusts.org/news/beavers-are-coming-home"
-            },
-            {
-                "title": "The Combined Cipher Machine 1940's-1950's",
-                "href": "http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html"
+                "title": "NASA Shuts Off Voyager Science Instrument",
+                "href": "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
             },
             {
                 "title": "Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2",
                 "href": "https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2"
             },
             {
-                "title": "Cognitive Behaviors That Enable Self-Improving Reasoners",
-                "href": "https://arxiv.org/abs/2503.01307"
+                "title": "Questions for William J. Rapaport",
+                "href": "https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header"
+            },
+            {
+                "title": "Atlassian announces end of support for Opsgenie",
+                "href": "https://www.atlassian.com/blog/announcements/evolution-of-it-operations"
+            },
+            {
+                "title": "On the criteria to be used in decomposing systems into modules (1972)",
+                "href": "https://dl.acm.org/doi/pdf/10.1145/361598.361623"
+            },
+            {
+                "title": "A New, Chemical View of Ecosystems",
+                "href": "https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/"
+            },
+            {
+                "title": "Beavers Are Coming Home",
+                "href": "https://www.wildlifetrusts.org/news/beavers-are-coming-home"
+            },
+            {
+                "title": "Anime fans stumbled upon a mathematical proof",
+                "href": "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/"
             },
             {
                 "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
                 "href": "https://qwenlm.github.io/blog/qwq-32b/"
             },
             {
-                "title": "Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had",
-                "href": "https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/"
+                "title": "Cognitive Behaviors That Enable Self-Improving Reasoners",
+                "href": "https://arxiv.org/abs/2503.01307"
             },
             {
-                "title": "Game Theory and Settling the Debts of the Deceased in Ancient Times",
-                "href": "https://politicalcalculations.blogspot.com/2025/02/game-theory-and-settling-debts-of.html"
+                "title": "The Combined Cipher Machine 1940's-1950's",
+                "href": "http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html"
             },
             {
                 "title": "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
