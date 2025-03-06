@@ -39,16 +39,20 @@
                 "href": "https://github.com/b3nj5m1n/xdg-ninja"
             },
             {
+                "title": "Succinct data structures",
+                "href": "https://blog.startifact.com/posts/succinct/"
+            },
+            {
                 "title": "We\u2019re fixing Edge Computing: Introducing Magic Containers",
                 "href": "https://bunny.net/blog/introducing-magic-containers-what-edge-computing-was-meant-to-be/"
             },
             {
-                "title": "Chat Bots Revisited",
-                "href": "https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/"
+                "title": "Types as a design tool",
+                "href": "https://interjectedfuture.com/types-as-a-design-tool/"
             },
             {
-                "title": "Succinct data structures",
-                "href": "https://blog.startifact.com/posts/succinct/"
+                "title": "Chat Bots Revisited",
+                "href": "https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/"
             },
             {
                 "title": "Zig 0.14.0 Release Notes",
@@ -63,10 +67,6 @@
                 "href": "https://determinate.systems/posts/determinate-nix-30/"
             },
             {
-                "title": "Types as a design tool",
-                "href": "https://interjectedfuture.com/types-as-a-design-tool/"
-            },
-            {
                 "title": "The case of the vanishing CPU: A Linux kernel debugging story",
                 "href": "https://clickhouse.com/blog/a-case-of-the-vanishing-cpu-a-linux-kernel-debugging-story"
             },
@@ -75,12 +75,20 @@
                 "href": "https://github.com/basecamp/gh-signoff"
             },
             {
+                "title": "From unique to cleanups and weak: new low-level tools for efficiency",
+                "href": "https://go.dev/blog/cleanups-and-weak"
+            },
+            {
                 "title": "In Defense of Text Labels",
                 "href": "https://www.chrbutler.com/in-defense-of-text-labels"
             },
             {
                 "title": "Distributed Systems without Raft (part 1)",
                 "href": "https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee"
+            },
+            {
+                "title": "Testing Causality in Scientific Modelling Software",
+                "href": "https://export.arxiv.org/pdf/2209.00357v2.pdf"
             },
             {
                 "title": "Strobelight: A profiling service built on open source technology",
@@ -93,14 +101,6 @@
             {
                 "title": "Tailscale is pretty useful",
                 "href": "https://blog.6nok.org/tailscale-is-pretty-useful/"
-            },
-            {
-                "title": "Testing Causality in Scientific Modelling Software",
-                "href": "https://export.arxiv.org/pdf/2209.00357v2.pdf"
-            },
-            {
-                "title": "Zen and the Art of Microcode Hacking",
-                "href": "https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking"
             }
         ]
     },
@@ -315,6 +315,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Brother Denies Bricking Printers Using Third-Party Ink",
+                "href": "https://hardware.slashdot.org/story/25/03/06/1857249/brother-denies-bricking-printers-using-third-party-ink?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "UK Quietly Scrubs Encryption Advice From Government Websites",
+                "href": "https://news.slashdot.org/story/25/03/06/193217/uk-quietly-scrubs-encryption-advice-from-government-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "US Communications Agency To Explore Alternatives To GPS Systems",
                 "href": "https://news.slashdot.org/story/25/03/06/183209/us-communications-agency-to-explore-alternatives-to-gps-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,14 +373,6 @@
             {
                 "title": "Amazon Tests AI Dubbing on Prime Video Movies, Series",
                 "href": "https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google is Adding More AI Overviews and a New 'AI Mode' To Search",
-                "href": "https://tech.slashdot.org/story/25/03/05/1944216/google-is-adding-more-ai-overviews-and-a-new-ai-mode-to-search?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Europe on Alert Over Suspected Sabotage of Undersea Cables",
-                "href": "https://tech.slashdot.org/story/25/03/05/1928223/europe-on-alert-over-suspected-sabotage-of-undersea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -718,60 +718,80 @@
                 "href": "https://blog.startifact.com/posts/succinct/"
             },
             {
-                "title": "Show HN: CodeTracer \u2013 A new time-traveling debugger implemented in Nim and Rust",
-                "href": "https://github.com/metacraft-labs/codetracer"
+                "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
+                "href": "https://github.com/NishantJoshi00/shelgon"
+            },
+            {
+                "title": "How the Index Card Cataloged the World (2017)",
+                "href": "https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/"
             },
             {
                 "title": "50 Years in Filesystems: 1984",
                 "href": "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html"
             },
             {
-                "title": "Bcvi \u2013 run vi over a 'back-channel' (2010)",
-                "href": "https://sshmenu.sourceforge.net/articles/bcvi/"
+                "title": "EFF: Rayhunter",
+                "href": "https://github.com/EFForg/rayhunter"
+            },
+            {
+                "title": "Show HN: CodeTracer \u2013 A new time-traveling debugger implemented in Nim and Rust",
+                "href": "https://github.com/metacraft-labs/codetracer"
             },
             {
                 "title": "Warewulf is a stateless and diskless container OS provisioning system",
                 "href": "https://github.com/warewulf/warewulf"
             },
             {
+                "title": "Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"",
+                "href": "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue"
+            },
+            {
+                "title": "Bcvi \u2013 run vi over a 'back-channel' (2010)",
+                "href": "https://sshmenu.sourceforge.net/articles/bcvi/"
+            },
+            {
                 "title": "More thoughts on the 1670 modem's weird noises",
                 "href": "https://rachelbythebay.com/w/2025/03/05/1670/"
-            },
-            {
-                "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
-                "href": "https://github.com/NishantJoshi00/shelgon"
-            },
-            {
-                "title": "EFF: Rayhunter",
-                "href": "https://github.com/EFForg/rayhunter"
-            },
-            {
-                "title": "Questions for William J. Rapaport",
-                "href": "https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header"
-            },
-            {
-                "title": "Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI",
-                "href": "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer"
             },
             {
                 "title": "Age and cognitive skills: Use it or lose it",
                 "href": "https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R"
             },
             {
+                "title": "Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI",
+                "href": "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer"
+            },
+            {
+                "title": "Reducing latency with esoteric Linux process flags",
+                "href": "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
+            },
+            {
                 "title": "Launch HN: Cenote (YC W25) \u2013 Back Office Automation for Medical Clinics",
                 "href": "item?id=43280836"
+            },
+            {
+                "title": "Questions for William J. Rapaport",
+                "href": "https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header"
             },
             {
                 "title": "Sayonara, R35: Nissan Japan has stopped taking orders for the GT-R",
                 "href": "https://www.topgear.com/car-news/supercars/sayonara-r35-nissan-japan-has-stopped-taking-orders-gt-r"
             },
             {
-                "title": "The Combined Cipher Machine 1940's-1950's",
-                "href": "http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html"
+                "title": "NASA Shuts Off Voyager Science Instrument",
+                "href": "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
             },
             {
                 "title": "Revolt: Open-Source Alternative to Discord",
                 "href": "https://revolt.chat"
+            },
+            {
+                "title": "A JPEG Image Compression Service Using Part Homomorphic Encryption",
+                "href": "https://github.com/qianfei11/ShadowyCompression"
+            },
+            {
+                "title": "Atlassian announces end of support for Opsgenie",
+                "href": "https://www.atlassian.com/blog/announcements/evolution-of-it-operations"
             },
             {
                 "title": "Beavers Are Coming Home",
@@ -782,20 +802,16 @@
                 "href": "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/"
             },
             {
-                "title": "NASA Shuts Off Voyager Science Instrument",
-                "href": "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
-            },
-            {
-                "title": "A JPEG Image Compression Service Using Part Homomorphic Encryption",
-                "href": "https://github.com/qianfei11/ShadowyCompression"
+                "title": "The Combined Cipher Machine 1940's-1950's",
+                "href": "http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html"
             },
             {
                 "title": "On the criteria to be used in decomposing systems into modules (1972)",
                 "href": "https://dl.acm.org/doi/pdf/10.1145/361598.361623"
             },
             {
-                "title": "Atlassian announces end of support for Opsgenie",
-                "href": "https://www.atlassian.com/blog/announcements/evolution-of-it-operations"
+                "title": "Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2",
+                "href": "https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2"
             },
             {
                 "title": "Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had",
@@ -806,28 +822,12 @@
                 "href": "https://arxiv.org/abs/2503.01307"
             },
             {
-                "title": "Game Theory and Settling the Debts of the Deceased in Ancient Times",
-                "href": "https://politicalcalculations.blogspot.com/2025/02/game-theory-and-settling-debts-of.html"
-            },
-            {
                 "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
                 "href": "https://qwenlm.github.io/blog/qwq-32b/"
             },
             {
-                "title": "Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2",
-                "href": "https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2"
-            },
-            {
-                "title": "GoStringUngarbler: Deobfuscating Strings in Garbled Binaries",
-                "href": "https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries"
-            },
-            {
-                "title": "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
-                "href": "https://alecmuffett.com/article/112522"
-            },
-            {
-                "title": "IoT project using thermal sensors to monitor spaces",
-                "href": "https://s2.dev/blog/iot"
+                "title": "A New, Chemical View of Ecosystems",
+                "href": "https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/"
             }
         ]
     }
