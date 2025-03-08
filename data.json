@@ -19,8 +19,8 @@
                 "href": "https://churchofturing.github.io/landscapeoflisp.html"
             },
             {
-                "title": "Zig's dot star syntax (value.*)",
-                "href": "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
+                "title": "Why I choose Lua for this blog",
+                "href": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
             },
             {
                 "title": "Why Local-First Software Is the Future and its Limitations",
@@ -29,6 +29,10 @@
             {
                 "title": "How To Get A Common Lisp Job In 2055",
                 "href": "https://sebastiancarlos.medium.com/common-lisp-in-2055-f3debf4df01c"
+            },
+            {
+                "title": "Zig's dot star syntax (value.*)",
+                "href": "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
             },
             {
                 "title": "Apple has 90 days to allow app sideloading in Brazil",
@@ -43,16 +47,28 @@
                 "href": "https://refactoringenglish.com/chapters/commit-messages/"
             },
             {
-                "title": "Balancing the costs of count(*) and UX",
-                "href": "https://frappe.io/blog/engineering/balancing-the-costs-of-count-and-ux"
+                "title": "Why do I find Rust inadequate for text compression codecs?",
+                "href": "https://palaiologos.rocks/posts/rust-codecs/"
+            },
+            {
+                "title": "Standards for ANSI escape codes",
+                "href": "https://jvns.ca/blog/2025/03/07/escape-code-standards/"
             },
             {
                 "title": "The \"ultimate\" Thinkpad X230",
                 "href": "https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done"
             },
             {
+                "title": "Balancing the costs of count(*) and UX",
+                "href": "https://frappe.io/blog/engineering/balancing-the-costs-of-count-and-ux"
+            },
+            {
                 "title": "Delta Chat: A Messenger which is cross compatible with email and PGP",
                 "href": "https://delta.chat/en/help"
+            },
+            {
+                "title": "This Month in Redox - February 2025",
+                "href": "https://www.redox-os.org/news/this-month-250228/"
             },
             {
                 "title": "xit is coming",
@@ -75,32 +91,16 @@
                 "href": "https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/"
             },
             {
-                "title": "This Month in Redox - February 2025",
-                "href": "https://www.redox-os.org/news/this-month-250228/"
-            },
-            {
                 "title": "Improving Your Development Cycle with REPLs",
                 "href": "https://dick.codes/2025/03/07/improving-your-development-cycle-with-repls.html"
             },
             {
-                "title": "Standards for ANSI escape codes",
-                "href": "https://jvns.ca/blog/2025/03/07/escape-code-standards/"
+                "title": "Git in Zed, natively",
+                "href": "https://zed.dev/git"
             },
             {
                 "title": "Creating static map images with OpenStreetMap, Web Mercator, and Pillow",
                 "href": "https://alexwlchan.net/2025/static-maps/"
-            },
-            {
-                "title": "How to distrust a CA without any certificate errors",
-                "href": "https://dadrian.io/blog/posts/sct-not-after/"
-            },
-            {
-                "title": "Ten Machine Requirements To Satisfy Essentials Of Joint Activity",
-                "href": "https://human-machine.team/"
-            },
-            {
-                "title": "Why do I find Rust inadequate for text compression codecs?",
-                "href": "https://palaiologos.rocks/posts/rust-codecs/"
             }
         ]
     },
@@ -319,6 +319,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "BBC Radio's Streaming Changes Leave Long-Time Listeners In the Lurch",
+                "href": "https://news.slashdot.org/story/25/03/07/2250209/bbc-radios-streaming-changes-leave-long-time-listeners-in-the-lurch?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Feds Arrest Man For Sharing DVD Rip of Spider-Man Movie With Millions Online",
+                "href": "https://yro.slashdot.org/story/25/03/07/2242250/feds-arrest-man-for-sharing-dvd-rip-of-spider-man-movie-with-millions-online?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Trump Signs Order To Establish Strategic Bitcoin Reserve",
                 "href": "https://yro.slashdot.org/story/25/03/07/2224215/trump-signs-order-to-establish-strategic-bitcoin-reserve?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,14 +377,6 @@
             {
                 "title": "Brazil Orders Apple To Allow iOS Sideloading Within 90 Days",
                 "href": "https://apple.slashdot.org/story/25/03/07/138226/brazil-orders-apple-to-allow-ios-sideloading-within-90-days?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Intuitive Machines Lunar Lander Reaches Moon, Status Uncertain",
-                "href": "https://science.slashdot.org/story/25/03/07/1321219/intuitive-machines-lunar-lander-reaches-moon-status-uncertain?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "DuckDuckGo Is Amping Up Its AI Search Tool",
-                "href": "https://yro.slashdot.org/story/25/03/07/0432251/duckduckgo-is-amping-up-its-ai-search-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -714,8 +714,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "GeoCities in 1995: Building a Home Page on the Internet",
+                "href": "https://cybercultural.com/p/geocities-1995/"
+            },
+            {
                 "title": "Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere",
                 "href": "https://pola.rs/posts/polars-cloud-what-we-are-building/"
+            },
+            {
+                "title": "Why do I find Rust inadequate for text compression codecs?",
+                "href": "https://palaiologos.rocks/posts/rust-codecs/"
+            },
+            {
+                "title": "Uber users in Austin are getting matched with Waymo robotaxis",
+                "href": "https://techcrunch.com/2025/03/04/uber-users-in-austin-are-getting-matched-with-waymo-robotaxis/"
             },
             {
                 "title": "Introducing command And commandfor In HTML",
@@ -730,40 +742,40 @@
                 "href": "https://www.pythonmorsels.com/help-features/"
             },
             {
+                "title": "Integrated sensing and communication based on space-time-coding metasurfaces",
+                "href": "https://www.nature.com/articles/s41467-025-57137-6"
+            },
+            {
                 "title": "Optimistic Locking in B-Trees",
                 "href": "https://cedardb.com/blog/optimistic_btrees/"
-            },
-            {
-                "title": "Microsoft is plotting a future without OpenAI",
-                "href": "https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/"
-            },
-            {
-                "title": "UEFI-Only Support for AMD Radeon RX 9000 Series Graphics and Later",
-                "href": "https://www.amd.com/en/resources/support-articles/faqs/GPU-N4XCSM.html"
             },
             {
                 "title": "Athena spacecraft declared dead after toppling over on moon",
                 "href": "https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead"
             },
             {
-                "title": "Integrated sensing and communication based on space-time-coding metasurfaces",
-                "href": "https://www.nature.com/articles/s41467-025-57137-6"
+                "title": "Microsoft is plotting a future without OpenAI",
+                "href": "https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/"
             },
             {
                 "title": "Strobelight: A profiling service built on open source technology",
                 "href": "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
             },
             {
-                "title": "ParadeDB (YC S23) Is Hiring Rust Database Engineer",
-                "href": "https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00"
-            },
-            {
                 "title": "Age Verification Laws: A Backdoor to Surveillance",
                 "href": "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control"
             },
             {
+                "title": "ParadeDB (YC S23) Is Hiring a Rust Database Engineer",
+                "href": "https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00"
+            },
+            {
                 "title": "Ladder: Self-improving LLMs through recursive problem decomposition",
                 "href": "https://arxiv.org/abs/2503.00735"
+            },
+            {
+                "title": "Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed",
+                "href": "https://github.com/hedge-dev/UnleashedRecomp"
             },
             {
                 "title": "Show HN: I Built a Telegraph Simulator",
@@ -778,12 +790,16 @@
                 "href": "https://nodumbideas.com/p/betting-on-the-pope-was-the-original"
             },
             {
-                "title": "Ask HN: Do your eyes bug you even though your prescription is \"correct\"?",
-                "href": "item?id=43291922"
+                "title": "How did places like Bell Labs know how to ask the right questions?",
+                "href": "https://www.freaktakes.com/p/how-did-places-like-bell-labs-know"
             },
             {
                 "title": "'Next-Level' Chaos Traces the True Limit of Predictability",
                 "href": "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/"
+            },
+            {
+                "title": "Ask HN: Do your eyes bug you even though your prescription is \"correct\"?",
+                "href": "item?id=43291922"
             },
             {
                 "title": "Show HN: IEMidi \u2013\u00a0 Cross-platform MIDI map editor for arbitrary controllers",
@@ -798,12 +814,16 @@
                 "href": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn"
             },
             {
-                "title": "The necessity of Nussbaum",
-                "href": "https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure"
+                "title": "Extracting time series features: a powerful method from a obscure paper [pdf]",
+                "href": "https://rcin.org.pl/ippt/Content/117114/PDF/WA727_91599_P.262b-Van-Atta-Effect.pdf"
             },
             {
                 "title": "Matters Computational (2010) [pdf]",
                 "href": "https://www.jjj.de/fxt/fxtbook.pdf"
+            },
+            {
+                "title": "The necessity of Nussbaum",
+                "href": "https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure"
             },
             {
                 "title": "Show HN: A big tech dev experience for an open source CMS",
@@ -812,26 +832,6 @@
             {
                 "title": "Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects",
                 "href": "https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html"
-            },
-            {
-                "title": "Laser-based device can scan almost any sample of gas and tell you what's in it",
-                "href": "https://phys.org/news/2025-02-laser-based-device-scan-sample.html"
-            },
-            {
-                "title": "Discovery of fresco portraying Dionysian mysteries at Pompeii",
-                "href": "https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/"
-            },
-            {
-                "title": "How a Connecticut DMV Employee Made Thousands by Selling Towed Cars",
-                "href": "https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars"
-            },
-            {
-                "title": "Mistral OCR",
-                "href": "https://mistral.ai/fr/news/mistral-ocr"
-            },
-            {
-                "title": "Apple has 90 days to allow app sideloading in Brazil",
-                "href": "https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil"
             }
         ]
     }
