@@ -19,6 +19,10 @@
                 "href": "https://sr.ht/~oconnor0/zinc/"
             },
             {
+                "title": "Building Websites With Lots of Little HTML Pages",
+                "href": "https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/"
+            },
+            {
                 "title": "Cutting-edge web scraping techniques",
                 "href": "https://github.com/simonw/nicar-2025-scraping/blob/main/README.md"
             },
@@ -35,16 +39,12 @@
                 "href": "https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/"
             },
             {
-                "title": "Building Websites With Lots of Little HTML Pages",
-                "href": "https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/"
+                "title": "What's cooking on SourceHut? Q1 2025",
+                "href": "https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/"
             },
             {
                 "title": "wlroots: Add HDR10 support",
                 "href": "https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002"
-            },
-            {
-                "title": "What's cooking on SourceHut? Q1 2025",
-                "href": "https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/"
             },
             {
                 "title": "Refinement in Rust: optimization, arithmetic, and stateful predicates",
@@ -53,6 +53,10 @@
             {
                 "title": "How I Write Generics",
                 "href": "https://aartaka.me/my-generics.html"
+            },
+            {
+                "title": "Using Zig from Common Lisp",
+                "href": "https://jagg.github.io/posts/lisp_zig/"
             },
             {
                 "title": "An epic treatise on error models for systems programming languages",
@@ -65,10 +69,6 @@
             {
                 "title": "OpenSSL does a QUIC API",
                 "href": "https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/"
-            },
-            {
-                "title": "Using Zig from Common Lisp",
-                "href": "https://jagg.github.io/posts/lisp_zig/"
             },
             {
                 "title": "The Balatro Timeline",
@@ -101,115 +101,6 @@
             {
                 "title": "Why do I find Rust inadequate for text compression codecs?",
                 "href": "https://palaiologos.rocks/posts/rust-codecs/"
-            }
-        ]
-    },
-    {
-        "feedname": "netsec",
-        "items": [
-            {
-                "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
-                "href": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/"
-            },
-            {
-                "title": "Reversing Samsung's H-Arx Hypervisor Framework (Part 1)",
-                "href": "https://www.reddit.com/r/netsec/comments/1j6gbqj/reversing_samsungs_harx_hypervisor_framework_part/"
-            },
-            {
-                "title": "The Burn Notice, Part 2/5 | How We Uncovered a Critical Vulnerability in a Leading AI Agent Framework",
-                "href": "https://www.reddit.com/r/netsec/comments/1j4x1tp/the_burn_notice_part_25_how_we_uncovered_a/"
-            },
-            {
-                "title": "Zen and the Art of Microcode Hacking",
-                "href": "https://www.reddit.com/r/netsec/comments/1j4r13c/zen_and_the_art_of_microcode_hacking/"
-            },
-            {
-                "title": "Sitecore: Unsafe Deserialisation Again! (CVE-2025-27218)",
-                "href": "https://www.reddit.com/r/netsec/comments/1j4rhlc/sitecore_unsafe_deserialisation_again_cve202527218/"
-            },
-            {
-                "title": "EvilLoader: Yesterday was published PoC for unpatched Vulnerability affecting Telegram for Android",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3y1kl/evilloader_yesterday_was_published_poc_for/"
-            },
-            {
-                "title": "Multiple backdoors injected using frontend JS",
-                "href": "https://www.reddit.com/r/netsec/comments/1j454ff/multiple_backdoors_injected_using_frontend_js/"
-            },
-            {
-                "title": "Case Study: Traditional CVSS scoring missed this actively exploited vulnerability (CVE-2024-50302)",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3tvof/case_study_traditional_cvss_scoring_missed_this/"
-            },
-            {
-                "title": "Case Study: Analyzing macOS IONVMeFamily Driver Denial of Service Issue",
-                "href": "https://www.reddit.com/r/netsec/comments/1j42l89/case_study_analyzing_macos_ionvmefamily_driver/"
-            },
-            {
-                "title": "We Deliberately Exposed AWS Keys on Developer Forums: Attackers Exploited One in 10 Hours",
-                "href": "https://www.reddit.com/r/netsec/comments/1j38z5p/we_deliberately_exposed_aws_keys_on_developer/"
-            },
-            {
-                "title": "New Method to Leverage Unsafe Reflection and Deserialisation to RCE on Rails",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3riyc/new_method_to_leverage_unsafe_reflection_and/"
-            },
-            {
-                "title": "Understanding and Mitigating TOCTOU Vulnerabilities in C# Applications",
-                "href": "https://www.reddit.com/r/netsec/comments/1j42koq/understanding_and_mitigating_toctou/"
-            },
-            {
-                "title": "Automatically create an operation log of your shell! Supports Linux (Bash/Zsh) and Windows (PowerShell).",
-                "href": "https://www.reddit.com/r/netsec/comments/1j40l9q/automatically_create_an_operation_log_of_your/"
-            },
-            {
-                "title": "!exploitable Episode Two - Enter the Matrix. SSHD exploit used by Trinity in the movie The Matrix Reloaded",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3hood/exploitable_episode_two_enter_the_matrix_sshd/"
-            },
-            {
-                "title": "Uncovering .NET Malware Obfuscated by Encryption and Virtualization",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3y26r/uncovering_net_malware_obfuscated_by_encryption/"
-            },
-            {
-                "title": "Hybrid Analysis Deep Dive Into Allegedly AI-Generated FunkSec Ransomware",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3bjk4/hybrid_analysis_deep_dive_into_allegedly/"
-            },
-            {
-                "title": "Techlore video review of BusKill (Open-Source Dead Man Switch) \ud83d\udd12",
-                "href": "https://www.reddit.com/r/netsec/comments/1j3gv5u/techlore_video_review_of_buskill_opensource_dead/"
-            },
-            {
-                "title": "Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit",
-                "href": "https://www.reddit.com/r/netsec/comments/1j300cd/hacking_the_xbox_360_hypervisor_part_2_the_bad/"
-            },
-            {
-                "title": "Client-Side Path Traversal - Penetesting guide | @VeryLazyTech",
-                "href": "https://www.reddit.com/r/netsec/comments/1j35rhg/clientside_path_traversal_penetesting_guide/"
-            },
-            {
-                "title": "Evading Detection with Payload Pipelines",
-                "href": "https://www.reddit.com/r/netsec/comments/1j2znrj/evading_detection_with_payload_pipelines/"
-            },
-            {
-                "title": "gpt4free - because I ain't got cash and I need synthetic LLM response data dammit. This project takes advantage of the fact that AI startups aren't very good at securing their APIs. It ain't illegal, it's just free! PollinationsAI is running GPT-4o right now....",
-                "href": "https://www.reddit.com/r/netsec/comments/1j37kyi/gpt4free_because_i_aint_got_cash_and_i_need/"
-            },
-            {
-                "title": "Burp Variables: a Burp extension that lets you store and reuse variables in outgoing requests, similar to functionality in Postman/Insomnia/other API testing clients",
-                "href": "https://www.reddit.com/r/netsec/comments/1j2ps5t/burp_variables_a_burp_extension_that_lets_you/"
-            },
-            {
-                "title": "Docusnap Inventory Files Encrypted With Static Key",
-                "href": "https://www.reddit.com/r/netsec/comments/1j36h0e/docusnap_inventory_files_encrypted_with_static_key/"
-            },
-            {
-                "title": "MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client",
-                "href": "https://www.reddit.com/r/netsec/comments/1j1wt6u/mitm_attack_against_opensshs/"
-            },
-            {
-                "title": "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China",
-                "href": "https://www.reddit.com/r/netsec/comments/1j1evli/wallbleed_a_memory_disclosure_vulnerability_in/"
-            },
-            {
-                "title": "Bybit $1.5b hack was a Safe Wallet web app JS payload injection",
-                "href": "https://www.reddit.com/r/netsec/comments/1j0y8fc/bybit_15b_hack_was_a_safe_wallet_web_app_js/"
             }
         ]
     },
@@ -730,64 +621,76 @@
                 "href": "https://github.com/mfontanini/presenterm"
             },
             {
-                "title": "Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer"
-            },
-            {
                 "title": "Building an open-source Wi-Fi Mac layer for the ESP32",
                 "href": "https://esp32-open-mac.be"
+            },
+            {
+                "title": "Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer"
             },
             {
                 "title": "Roald Dahl on the death of his daughter (2015)",
                 "href": "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/"
             },
             {
-                "title": "The DOJ still wants Google to sell off Chrome",
-                "href": "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
+                "title": "Committing fraud is a viable career strategy",
+                "href": "https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/"
             },
             {
-                "title": "\"Big 3\" science fiction magazines including Asimov's and Analog acquired",
-                "href": "https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of"
+                "title": "The DOJ still wants Google to sell off Chrome",
+                "href": "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
             },
             {
                 "title": "Volkswagen reintroducing physical controls for vital functions",
                 "href": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions"
             },
             {
-                "title": "Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled",
-                "href": "https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled"
-            },
-            {
                 "title": "Commodore 64 PETSCII Image (2022)",
                 "href": "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec"
             },
             {
-                "title": "How much traffic can a pre-rendered Next.js site handle?",
-                "href": "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
+                "title": "\"Big 3\" science fiction magazines including Asimov's and Analog acquired",
+                "href": "https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of"
+            },
+            {
+                "title": "Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled",
+                "href": "https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled"
+            },
+            {
+                "title": "Magnesium Self-Experiments",
+                "href": "https://gwern.net/nootropic/magnesium"
             },
             {
                 "title": "Discovering errors in Donald Knuth's TAOCP",
                 "href": "https://glthr.com/discovering-errors-in-donald-knuths-taocp"
             },
             {
+                "title": "How much traffic can a pre-rendered Next.js site handle?",
+                "href": "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
+            },
+            {
                 "title": "Deploy from local to production (self-hosted)",
                 "href": "https://github.com/bypirob/airo"
             },
             {
-                "title": "Ten Digit Problems (2011) [pdf]",
-                "href": "https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf"
+                "title": "SMBC Parts Ways with Hiveworks",
+                "href": "https://www.smbc-comics.com/comic/announcement-2"
+            },
+            {
+                "title": "MCP vs. API Explained",
+                "href": "https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/"
             },
             {
                 "title": "Discworld Rules",
                 "href": "https://contraptions.venkateshrao.com/p/discworld-rules"
             },
             {
-                "title": "Zig's dot star syntax (value.*)",
-                "href": "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
+                "title": "Ten Digit Problems (2011) [pdf]",
+                "href": "https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf"
             },
             {
-                "title": "MCP vs. API Explained",
-                "href": "https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/"
+                "title": "Zig's dot star syntax (value.*)",
+                "href": "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
             },
             {
                 "title": "Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX",
@@ -806,28 +709,16 @@
                 "href": "https://bodydoubling.com/"
             },
             {
+                "title": "Time for a Change: The long, contentious history of time shifts",
+                "href": "https://worldhistory.substack.com/p/time-for-a-change"
+            },
+            {
                 "title": "Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]",
                 "href": "https://arxiv.org/abs/2503.01710"
             },
             {
                 "title": "Social Media Posts About Medical Tests with Potential for Overdiagnosis",
                 "href": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830758"
-            },
-            {
-                "title": "Ultrasonic deep drawing cuts friction by 20%, extends tool lifespan",
-                "href": "https://techxplore.com/news/2025-02-ultrasonic-deep-friction-tool-lifespan.html"
-            },
-            {
-                "title": "Time for a Change: The long, contentious history of time shifts",
-                "href": "https://worldhistory.substack.com/p/time-for-a-change"
-            },
-            {
-                "title": "Kill your Feeds \u2013 Stop letting algorithms dictate what you think",
-                "href": "https://usher.dev/posts/2025-03-08-kill-your-feeds/"
-            },
-            {
-                "title": "Falkon: A KDE Web Browser",
-                "href": "https://www.falkon.org"
             }
         ]
     }
