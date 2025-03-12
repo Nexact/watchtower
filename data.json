@@ -11,12 +11,12 @@
                 "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
             },
             {
-                "title": "Here\u2019s how I use LLMs to help me write code",
-                "href": "https://simonwillison.net/2025/Mar/11/using-llms-for-code/"
-            },
-            {
                 "title": "Perspectives from the Technical University of Munich",
                 "href": "https://mirawelner.com/posts/TUM_thoughts.html"
+            },
+            {
+                "title": "Here\u2019s how I use LLMs to help me write code",
+                "href": "https://simonwillison.net/2025/Mar/11/using-llms-for-code/"
             },
             {
                 "title": "On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon",
@@ -51,6 +51,14 @@
                 "href": "https://www.jsoftware.com/books/pdf/aioj.pdf"
             },
             {
+                "title": "The Art of Formatting Code",
+                "href": "https://mcyoung.xyz/2025/03/11/formatters/"
+            },
+            {
+                "title": "(Re)writing an interpreter in Rust",
+                "href": "https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/"
+            },
+            {
                 "title": "A small template engine for C",
                 "href": "https://www.omarpolo.com/post/template.html"
             },
@@ -61,14 +69,6 @@
             {
                 "title": "Representing type lattices compactly",
                 "href": "https://bernsteinbear.com/blog/lattice-bitset/"
-            },
-            {
-                "title": "The Art of Formatting Code",
-                "href": "https://mcyoung.xyz/2025/03/11/formatters/"
-            },
-            {
-                "title": "(Re)writing an interpreter in Rust",
-                "href": "https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/"
             },
             {
                 "title": "Thoughts About Naming Things",
@@ -91,22 +91,26 @@
                 "href": "https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/"
             },
             {
+                "title": "R7RS Large Stygian Blue/Reddish Green ballot",
+                "href": "https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en"
+            },
+            {
                 "title": "Making a multiplayer action game in Haskell",
                 "href": "https://gitlab.com/-/snippets/4817016"
             },
             {
                 "title": "goatdb: Lightweight NoDB for Deno & React",
                 "href": "https://github.com/goatplatform/goatdb"
-            },
-            {
-                "title": "Can I use Secure Curves in the Web Platform?",
-                "href": "https://blogs.igalia.com/jfernandez/2025/02/28/can-i-use-secure-curves-in-the-web-platform/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Microsoft: Recent Windows updates make USB printers print random text",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-usb-printers-print-random-text-after-recent-windows-updates/"
+            },
             {
                 "title": "North Korean Lazarus hackers infect hundreds via npm packages",
                 "href": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-infect-hundreds-via-npm-packages/"
@@ -154,10 +158,6 @@
             {
                 "title": "X hit by 'massive cyberattack' amid Dark Storm's DDoS claims",
                 "href": "https://www.bleepingcomputer.com/news/security/x-hit-by-massive-cyberattack-amid-dark-storms-ddos-claims/"
-            },
-            {
-                "title": "US govt says Americans lost record $12.5 billion to fraud in 2024",
-                "href": "https://www.bleepingcomputer.com/news/security/us-govt-says-americans-lost-record-125-billion-to-fraud-in-2024/"
             }
         ]
     },
@@ -609,12 +609,12 @@
                 "href": "https://ollama.com/library/gemma3"
             },
             {
-                "title": "I use Cursor daily - here's how I avoid the garbage parts",
-                "href": "https://www.nickcraux.com/blog/cursor-tips"
-            },
-            {
                 "title": "I stopped everything and started writing C again",
                 "href": "https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again"
+            },
+            {
+                "title": "I use Cursor daily - here's how I avoid the garbage parts",
+                "href": "https://www.nickcraux.com/blog/cursor-tips"
             },
             {
                 "title": "Happy 20th Birthday, Y Combinator",
@@ -623,10 +623,6 @@
             {
                 "title": "The Insecurity of Telecom Stacks in the Wake of Salt Typhoon",
                 "href": "https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"
-            },
-            {
-                "title": "Tell Mozilla: it's time to ditch Google",
-                "href": "https://mozillapetition.com/"
             },
             {
                 "title": "First official release of LLVM Flang",
@@ -641,48 +637,44 @@
                 "href": "https://lumalabs.ai/news/inductive-moment-matching"
             },
             {
-                "title": "A more robust raw OpenBSD syscall demo",
-                "href": "https://nullprogram.com/blog/2025/03/06/"
-            },
-            {
-                "title": "Gemma 3 Technical Report [pdf]",
-                "href": "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf"
-            },
-            {
                 "title": "The Startup CTO's Handbook",
                 "href": "https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md"
+            },
+            {
+                "title": "A more robust raw OpenBSD syscall demo",
+                "href": "https://nullprogram.com/blog/2025/03/06/"
             },
             {
                 "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
                 "href": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
             },
             {
+                "title": "Gemma 3 Technical Report [pdf]",
+                "href": "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf"
+            },
+            {
                 "title": "Quantum state engineering&photon statistics at electromagnetic time interfaces",
                 "href": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120"
-            },
-            {
-                "title": "Show HN: VSC \u2013 An open source 3D Rendering Engine in C++",
-                "href": "https://github.com/WW92030-STORAGE/VSC"
-            },
-            {
-                "title": "New tools for building agents",
-                "href": "https://openai.com/index/new-tools-for-building-agents/"
             },
             {
                 "title": "Sovereign Lumber",
                 "href": "https://mill.plainopen.com/sovereign-lumber"
             },
             {
+                "title": "New tools for building agents",
+                "href": "https://openai.com/index/new-tools-for-building-agents/"
+            },
+            {
                 "title": "Show HN: Factorio Learning Environment \u2013 Agents Build Factories",
                 "href": "https://jackhopkins.github.io/factorio-learning-environment/"
             },
             {
-                "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
-                "href": "https://xpipe.io/"
+                "title": "Show HN: VSC \u2013 An open source 3D Rendering Engine in C++",
+                "href": "https://github.com/WW92030-STORAGE/VSC"
             },
             {
-                "title": "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
-                "href": "https://i18n-puzzles.com/"
+                "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
+                "href": "https://xpipe.io/"
             },
             {
                 "title": "NASA to launch space observatory that will map 450M galaxies",
@@ -693,36 +685,44 @@
                 "href": "https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon"
             },
             {
-                "title": "The State of Coherence in the Land of Type Classes",
-                "href": "https://programming-journal.org/2025/10/15/"
+                "title": "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
+                "href": "https://i18n-puzzles.com/"
             },
             {
-                "title": "Happy 10k Day",
-                "href": "https://blog.comma.ai/happy10kday/"
+                "title": "The State of Coherence in the Land of Type Classes",
+                "href": "https://programming-journal.org/2025/10/15/"
             },
             {
                 "title": "Sorting algorithms with CUDA",
                 "href": "https://ashwanirathee.com/blog/2025/sort2/"
             },
             {
-                "title": "Azure's Weakest Link? How API Connections Spill Secrets",
-                "href": "https://binarysecurity.no/posts/2025/03/api-connections"
-            },
-            {
                 "title": "The US island that speaks Elizabethan English",
                 "href": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english"
+            },
+            {
+                "title": "Happy 10k Day",
+                "href": "https://blog.comma.ai/happy10kday/"
+            },
+            {
+                "title": "Azure's Weakest Link? How API Connections Spill Secrets",
+                "href": "https://binarysecurity.no/posts/2025/03/api-connections"
             },
             {
                 "title": "Launch HN: Sift Dev (YC W25) \u2013 AI-Powered Datadog Alternative",
                 "href": "item?id=43334589"
             },
             {
-                "title": "A 10x Faster TypeScript",
-                "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-            },
-            {
                 "title": "What makes code hard to read: Visual patterns of complexity (2023)",
                 "href": "https://seeinglogic.com/posts/visual-readability-patterns/"
+            },
+            {
+                "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+            },
+            {
+                "title": "A 10x Faster TypeScript",
+                "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
             }
         ]
     }
