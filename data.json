@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "A 10x Faster TypeScript",
-                "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-            },
-            {
                 "title": "The Future is Niri",
                 "href": "https://ersei.net/en/blog/niri"
+            },
+            {
+                "title": "A 10x Faster TypeScript",
+                "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
             },
             {
                 "title": "Here\u2019s how I use LLMs to help me write code",
@@ -27,12 +27,12 @@
                 "href": "https://github.com/stapelberg/rsync-over-grpc"
             },
             {
-                "title": "Rust trait object layout",
-                "href": "https://neugierig.org/software/blog/2025/03/trait-object-layout.html"
-            },
-            {
                 "title": "How AfterHour built an ultra-scalable chat service in one month with Rama",
                 "href": "https://blog.redplanetlabs.com/2025/03/11/how-afterhour-built-an-ultra-scalable-chat-service-in-one-month-with-rama/"
+            },
+            {
+                "title": "Rust trait object layout",
+                "href": "https://neugierig.org/software/blog/2025/03/trait-object-layout.html"
             },
             {
                 "title": "An Implementation of J - Roger Hui",
@@ -75,6 +75,10 @@
                 "href": "https://hey.paris/posts/beyond-bad-output/"
             },
             {
+                "title": "Every line of code is always documented (2014)",
+                "href": "https://mislav.net/2014/02/hidden-documentation/"
+            },
+            {
                 "title": "Introducing Sidekiq 8.0",
                 "href": "https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/"
             },
@@ -83,8 +87,8 @@
                 "href": "https://mcyoung.xyz/2025/03/11/formatters/"
             },
             {
-                "title": "Every line of code is always documented (2014)",
-                "href": "https://mislav.net/2014/02/hidden-documentation/"
+                "title": "Making a multiplayer action game in Haskell",
+                "href": "https://gitlab.com/-/snippets/4817016"
             },
             {
                 "title": "goatdb: Lightweight NoDB for Deno & React",
@@ -97,10 +101,6 @@
             {
                 "title": "UNIX Needs A True Integrated Environment: CASE Closed (1989)",
                 "href": "http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf"
-            },
-            {
-                "title": "R7RS Large Stygian Blue/Reddish Green ballot",
-                "href": "https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en"
             }
         ]
     },
@@ -613,12 +613,24 @@
                 "href": "https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"
             },
             {
+                "title": "Gemma3 \u2013 The current strongest model that fits on a single GPU",
+                "href": "https://ollama.com/library/gemma3"
+            },
+            {
                 "title": "Happy 20th Birthday, Y Combinator",
                 "href": "https://twitter.com/garrytan/status/1899092996702048709"
             },
             {
+                "title": "I use Cursor daily - here's how I avoid the garbage parts",
+                "href": "https://www.nickcraux.com/blog/cursor-tips"
+            },
+            {
                 "title": "Beyond Diffusion: Inductive Moment Matching",
                 "href": "https://lumalabs.ai/news/inductive-moment-matching"
+            },
+            {
+                "title": "First official release of LLVM Flang",
+                "href": "https://blog.llvm.org/posts/2025-03-11-flang-new/"
             },
             {
                 "title": "Show HN: VSC \u2013 An open source 3D Rendering Engine in C++",
@@ -629,100 +641,88 @@
                 "href": "https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md"
             },
             {
-                "title": "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
-                "href": "https://i18n-puzzles.com/"
-            },
-            {
-                "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
-                "href": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
-            },
-            {
-                "title": "New tools for building agents",
-                "href": "https://openai.com/index/new-tools-for-building-agents/"
-            },
-            {
-                "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
-                "href": "https://xpipe.io/"
-            },
-            {
-                "title": "Happy 10k Day",
-                "href": "https://blog.comma.ai/happy10kday/"
-            },
-            {
-                "title": "Show HN: Factorio Learning Environment \u2013 Agents Build Factories",
-                "href": "https://jackhopkins.github.io/factorio-learning-environment/"
-            },
-            {
-                "title": "NASA to launch space observatory that will map 450M galaxies",
-                "href": "https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877"
-            },
-            {
-                "title": "First official release of LLVM Flang",
-                "href": "https://blog.llvm.org/posts/2025-03-11-flang-new/"
-            },
-            {
-                "title": "When Corporate Branding Goes Wrong",
-                "href": "https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html"
-            },
-            {
-                "title": "Sorting algorithms with CUDA",
-                "href": "https://ashwanirathee.com/blog/2025/sort2/"
+                "title": "Show HN: I made a movie recommendation app based on your mood",
+                "href": "https://www.moodiemovie.top/"
             },
             {
                 "title": "A more robust raw OpenBSD syscall demo",
                 "href": "https://nullprogram.com/blog/2025/03/06/"
             },
             {
+                "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
+                "href": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
+            },
+            {
+                "title": "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
+                "href": "https://i18n-puzzles.com/"
+            },
+            {
                 "title": "Sovereign Lumber",
                 "href": "https://mill.plainopen.com/sovereign-lumber"
+            },
+            {
+                "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
+                "href": "https://xpipe.io/"
+            },
+            {
+                "title": "New tools for building agents",
+                "href": "https://openai.com/index/new-tools-for-building-agents/"
+            },
+            {
+                "title": "Show HN: Factorio Learning Environment \u2013 Agents Build Factories",
+                "href": "https://jackhopkins.github.io/factorio-learning-environment/"
+            },
+            {
+                "title": "Happy 10k Day",
+                "href": "https://blog.comma.ai/happy10kday/"
+            },
+            {
+                "title": "NASA to launch space observatory that will map 450M galaxies",
+                "href": "https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877"
+            },
+            {
+                "title": "Sorting algorithms with CUDA",
+                "href": "https://ashwanirathee.com/blog/2025/sort2/"
+            },
+            {
+                "title": "When Corporate Branding Goes Wrong",
+                "href": "https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html"
+            },
+            {
+                "title": "Azure's Weakest Link? How API Connections Spill Secrets",
+                "href": "https://binarysecurity.no/posts/2025/03/api-connections"
             },
             {
                 "title": "Launch HN: Sift Dev (YC W25) \u2013 AI-Powered Datadog Alternative",
                 "href": "item?id=43334589"
             },
             {
-                "title": "A 10x Faster TypeScript",
-                "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-            },
-            {
                 "title": "The US island that speaks Elizabethan English",
                 "href": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english"
+            },
+            {
+                "title": "A 10x Faster TypeScript",
+                "href": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
             },
             {
                 "title": "AI-Generated Voice Evidence Poses Dangers in Court",
                 "href": "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court"
             },
             {
-                "title": "Australian man survives 100 days with artificial heart",
-                "href": "https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success"
-            },
-            {
-                "title": "In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves",
-                "href": "https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html"
-            },
-            {
-                "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
-                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+                "title": "Show HN: Daylight \u2013 track sunrise / sunset times in your terminal",
+                "href": "https://github.com/jbreckmckye/daylight"
             },
             {
                 "title": "Show HN: Krep a High-Performance String Search Utility Written in C",
                 "href": "https://davidesantangelo.github.io/krep/"
             },
             {
-                "title": "What makes code hard to read: Visual patterns of complexity (2023)",
-                "href": "https://seeinglogic.com/posts/visual-readability-patterns/"
+                "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
+                "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
             },
             {
-                "title": "The Early History of Deferred Shading and Lighting",
-                "href": "https://sites.google.com/site/richgel99/the-early-history-of-deferred-shading-and-lighting"
-            },
-            {
-                "title": "When Crocodiles Attack: The Ramree Island Massacre (2013)",
-                "href": "https://www.atlasobscura.com/articles/the-ramree-island-massacre"
-            },
-            {
-                "title": "NIST selects HQC as fifth algorithm for post-quantum encryption",
-                "href": "https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption"
+                "title": "In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves",
+                "href": "https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html"
             }
         ]
     }
