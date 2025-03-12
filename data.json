@@ -19,16 +19,16 @@
                 "href": "https://mirawelner.com/posts/TUM_thoughts.html"
             },
             {
+                "title": "On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon",
+                "href": "https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"
+            },
+            {
                 "title": "How I built this website on a Raspberry Pi",
                 "href": "https://mirawelner.com/posts/website_howto.html"
             },
             {
                 "title": "rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport",
                 "href": "https://github.com/stapelberg/rsync-over-grpc"
-            },
-            {
-                "title": "On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon",
-                "href": "https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"
             },
             {
                 "title": "How AfterHour built an ultra-scalable chat service in one month with Rama",
@@ -39,12 +39,12 @@
                 "href": "https://neugierig.org/software/blog/2025/03/trait-object-layout.html"
             },
             {
-                "title": "Translating bzip2 with c2rust",
-                "href": "https://tweedegolf.nl/en/blog/151/translating-bzip2-with-c2rust"
-            },
-            {
                 "title": "An Implementation of J - Roger Hui",
                 "href": "https://www.jsoftware.com/books/pdf/aioj.pdf"
+            },
+            {
+                "title": "Translating bzip2 with c2rust",
+                "href": "https://tweedegolf.nl/en/blog/151/translating-bzip2-with-c2rust"
             },
             {
                 "title": "A small template engine for C",
@@ -71,12 +71,12 @@
                 "href": "http://11spades.net/posts/on-naming-things/"
             },
             {
-                "title": "Beyond Bad Output",
-                "href": "https://hey.paris/posts/beyond-bad-output/"
-            },
-            {
                 "title": "Every line of code is always documented (2014)",
                 "href": "https://mislav.net/2014/02/hidden-documentation/"
+            },
+            {
+                "title": "Beyond Bad Output",
+                "href": "https://hey.paris/posts/beyond-bad-output/"
             },
             {
                 "title": "Introducing Sidekiq 8.0",
@@ -85,6 +85,10 @@
             {
                 "title": "The Art of Formatting Code",
                 "href": "https://mcyoung.xyz/2025/03/11/formatters/"
+            },
+            {
+                "title": "UNIX Needs A True Integrated Environment: CASE Closed (1989)",
+                "href": "http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf"
             },
             {
                 "title": "Making a multiplayer action game in Haskell",
@@ -97,10 +101,6 @@
             {
                 "title": "Can I use Secure Curves in the Web Platform?",
                 "href": "https://blogs.igalia.com/jfernandez/2025/02/28/can-i-use-secure-curves-in-the-web-platform/"
-            },
-            {
-                "title": "UNIX Needs A True Integrated Environment: CASE Closed (1989)",
-                "href": "http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf"
             }
         ]
     },
@@ -605,10 +605,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Gemma 3 Technical Report [pdf]",
-                "href": "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf"
-            },
-            {
                 "title": "Gemma3 \u2013 The current strongest model that fits on a single GPU",
                 "href": "https://ollama.com/library/gemma3"
             },
@@ -625,48 +621,52 @@
                 "href": "https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"
             },
             {
-                "title": "Beyond Diffusion: Inductive Moment Matching",
-                "href": "https://lumalabs.ai/news/inductive-moment-matching"
-            },
-            {
                 "title": "First official release of LLVM Flang",
                 "href": "https://blog.llvm.org/posts/2025-03-11-flang-new/"
             },
             {
-                "title": "Sovereign Lumber",
-                "href": "https://mill.plainopen.com/sovereign-lumber"
+                "title": "Beyond Diffusion: Inductive Moment Matching",
+                "href": "https://lumalabs.ai/news/inductive-moment-matching"
+            },
+            {
+                "title": "Gemma 3 Technical Report [pdf]",
+                "href": "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf"
             },
             {
                 "title": "The Startup CTO's Handbook",
                 "href": "https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md"
             },
             {
-                "title": "Show HN: VSC \u2013 An open source 3D Rendering Engine in C++",
-                "href": "https://github.com/WW92030-STORAGE/VSC"
-            },
-            {
-                "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
-                "href": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
-            },
-            {
-                "title": "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
-                "href": "https://i18n-puzzles.com/"
+                "title": "Sovereign Lumber",
+                "href": "https://mill.plainopen.com/sovereign-lumber"
             },
             {
                 "title": "A more robust raw OpenBSD syscall demo",
                 "href": "https://nullprogram.com/blog/2025/03/06/"
             },
             {
-                "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
-                "href": "https://xpipe.io/"
+                "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
+                "href": "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
             },
             {
-                "title": "Show HN: I made a movie recommendation app based on your mood",
-                "href": "https://www.moodiemovie.top/"
+                "title": "Show HN: VSC \u2013 An open source 3D Rendering Engine in C++",
+                "href": "https://github.com/WW92030-STORAGE/VSC"
+            },
+            {
+                "title": "The State of Coherence in the Land of Type Classes",
+                "href": "https://programming-journal.org/2025/10/15/"
             },
             {
                 "title": "Happy 10k Day",
                 "href": "https://blog.comma.ai/happy10kday/"
+            },
+            {
+                "title": "No More Basic Cursive Fonts \u2013 Built Realistic Handwritten Signature Generator",
+                "href": "https://handwrittensignaturegenerator.com/"
+            },
+            {
+                "title": "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
+                "href": "https://i18n-puzzles.com/"
             },
             {
                 "title": "New tools for building agents",
@@ -677,28 +677,32 @@
                 "href": "https://jackhopkins.github.io/factorio-learning-environment/"
             },
             {
+                "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
+                "href": "https://xpipe.io/"
+            },
+            {
                 "title": "NASA to launch space observatory that will map 450M galaxies",
                 "href": "https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877"
-            },
-            {
-                "title": "The State of Coherence in the Land of Type Classes",
-                "href": "https://programming-journal.org/2025/10/15/"
-            },
-            {
-                "title": "When Corporate Branding Goes Wrong",
-                "href": "https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html"
             },
             {
                 "title": "Sorting algorithms with CUDA",
                 "href": "https://ashwanirathee.com/blog/2025/sort2/"
             },
             {
-                "title": "Launch HN: Sift Dev (YC W25) \u2013 AI-Powered Datadog Alternative",
-                "href": "item?id=43334589"
+                "title": "When Corporate Branding Goes Wrong",
+                "href": "https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html"
+            },
+            {
+                "title": "Azure's Weakest Link? How API Connections Spill Secrets",
+                "href": "https://binarysecurity.no/posts/2025/03/api-connections"
             },
             {
                 "title": "The US island that speaks Elizabethan English",
                 "href": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english"
+            },
+            {
+                "title": "Launch HN: Sift Dev (YC W25) \u2013 AI-Powered Datadog Alternative",
+                "href": "item?id=43334589"
             },
             {
                 "title": "A 10x Faster TypeScript",
@@ -709,20 +713,16 @@
                 "href": "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court"
             },
             {
+                "title": "What makes code hard to read: Visual patterns of complexity (2023)",
+                "href": "https://seeinglogic.com/posts/visual-readability-patterns/"
+            },
+            {
                 "title": "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
                 "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
             },
             {
-                "title": "Azure's Weakest Link? How API Connections Spill Secrets",
-                "href": "https://binarysecurity.no/posts/2025/03/api-connections"
-            },
-            {
                 "title": "Show HN: Krep a High-Performance String Search Utility Written in C",
                 "href": "https://davidesantangelo.github.io/krep/"
-            },
-            {
-                "title": "What makes code hard to read: Visual patterns of complexity (2023)",
-                "href": "https://seeinglogic.com/posts/visual-readability-patterns/"
             }
         ]
     }
