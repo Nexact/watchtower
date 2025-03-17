@@ -11,7 +11,7 @@ if __name__ == "__main__":
 
     rss_feed = [
         {"feedname": "lobster", "url":"https://lobste.rs/rss"},
-        {"feedname": "netsec", "url":"https://www.reddit.com/r/netsec/.rss"},
+        {"feedname": "netsec", "url":"https://old.reddit.com/r/netsec/.rss"},
         {"feedname": "bleepingcomputer", "url":"https://www.bleepingcomputer.com/feed/"},
         {"feedname": "krebsonsecurity", "url":"https://krebsonsecurity.com/feed/"},
         {"feedname": "slashdot", "url": "http://rss.slashdot.org/Slashdot/slashdot"},
@@ -28,7 +28,7 @@ if __name__ == "__main__":
         rss = rssfeed.get(feedname, url)
         
         if rss is not None:
-            data.append(rssfeed.get(feedname, url))
+            data.append(rss)
 
     # html feed
     data.append(hackernews_data)
