@@ -18,7 +18,7 @@ if __name__ == "__main__":
         {"feedname": "ciscotalos", "url": "https://blog.talosintelligence.com/rss"},
         {"feedname": "cybercentre", "url": "https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en"},
         {"feedname": "cisa", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
-        {"feedname": "packetstorm", "url": "https://rss.packetstormsecurity.com"}
+        {"feedname": "packetstorm", "url": "https://packetstorm.news/rss/news"}
     ]
 
     # loop rss feeds
