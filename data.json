@@ -15,20 +15,20 @@
                 "href": "https://www.gimp.org/news/2025/03/16/gimp-3-0-released/"
             },
             {
-                "title": "Stop Using and Recommending React",
-                "href": "https://blog.lusito.info/stop-using-and-recommending-react.html"
-            },
-            {
                 "title": "Slack: The Art of Being Busy Without Getting Anything Done",
                 "href": "https://matduggan.com/slack-the-art-of-being-busy-without-getting-anything-done/"
             },
             {
-                "title": "Mitigating SourceHut's partial outage caused by aggressive crawlers",
-                "href": "https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/"
+                "title": "Stop Using and Recommending React",
+                "href": "https://blog.lusito.info/stop-using-and-recommending-react.html"
             },
             {
                 "title": "I don't think error handling is a solved problem in language design",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem"
+            },
+            {
+                "title": "Mitigating SourceHut's partial outage caused by aggressive crawlers",
+                "href": "https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/"
             },
             {
                 "title": "Can we consider self-promo discussion off-topic?",
@@ -47,16 +47,16 @@
                 "href": "https://gabrielsimmer.com/blog/kubernetes-plus-oneplus"
             },
             {
+                "title": "The Rhombus Programming Language",
+                "href": "https://rhombus-lang.org"
+            },
+            {
                 "title": "The Atrocious State Of Binary Compatibility on Linux and How To Address It",
                 "href": "https://jangafx.com/insights/linux-binary-compatibility"
             },
             {
                 "title": "Extracting content from an LCP \"protected\" ePub",
                 "href": "https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/"
-            },
-            {
-                "title": "The Rhombus Programming Language",
-                "href": "https://rhombus-lang.org"
             },
             {
                 "title": "HTTP/3 is everywhere but nowhere",
@@ -126,6 +126,10 @@
             {
                 "title": "Arbitrary File Write CVE-2024-0402 in GitLab (Exploit)",
                 "href": "https://old.reddit.com/r/netsec/comments/1je4j6r/arbitrary_file_write_cve20240402_in_gitlab_exploit/"
+            },
+            {
+                "title": "Compromised tj-actions/changed-files GitHub Action: A look at publicly leaked secrets",
+                "href": "https://old.reddit.com/r/netsec/comments/1jec56b/compromised_tjactionschangedfiles_github_action_a/"
             },
             {
                 "title": "CEF Debugger Enabled in Google Web Designer | Google Bug Hunters",
@@ -206,10 +210,6 @@
             {
                 "title": "Npm Run Hack:Me - A Supply Chain Attack Journey",
                 "href": "https://old.reddit.com/r/netsec/comments/1j8ugic/npm_run_hackme_a_supply_chain_attack_journey/"
-            },
-            {
-                "title": "Old medpy Deserialization Vulnerability",
-                "href": "https://old.reddit.com/r/netsec/comments/1j8rx3b/old_medpy_deserialization_vulnerability/"
             }
         ]
     },
@@ -779,32 +779,40 @@
                 "href": "https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html"
             },
             {
-                "title": "Amazon to kill off local Alexa processing, all voice requests shipped to cloud",
-                "href": "https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/"
+                "title": "US appeals court rules AI generated art cannot be copyrighted",
+                "href": "https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/"
             },
             {
-                "title": "Fedora 42 Beta now available",
-                "href": "https://www.redhat.com/en/blog/fedora-42-beta-now-available"
+                "title": "Amazon to kill off local Alexa processing, all voice requests shipped to cloud",
+                "href": "https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/"
             },
             {
                 "title": "Spaceium Inc (YC S24) Is Hiring a Software Engineer",
                 "href": "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer"
             },
             {
-                "title": "Rust on the RP2350 (2024)",
-                "href": "https://thejpster.org.uk/blog/blog-2024-08-08/"
+                "title": "The race is on to build the most complex machine",
+                "href": "https://www.economist.com/science-and-technology/2025/03/12/the-race-is-on-to-build-the-worlds-most-complex-machine"
+            },
+            {
+                "title": "Tesla Hate Is Making Insurance More Expensive for Owners",
+                "href": "https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467"
+            },
+            {
+                "title": "Fedora 42 Beta",
+                "href": "https://www.redhat.com/en/blog/fedora-42-beta-now-available"
             },
             {
                 "title": "Show HN: I made a live multiplayer Minesweeper game",
                 "href": "https://www.minesweeperpro.com/"
             },
             {
-                "title": "SheepIt Render Farm server code goes open source",
-                "href": "https://gitlab.com/sheepitrenderfarm"
+                "title": "Rust on the RP2350 (2024)",
+                "href": "https://thejpster.org.uk/blog/blog-2024-08-08/"
             },
             {
-                "title": "Tesla Hate Is Making Insurance More Expensive for Owners",
-                "href": "https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467"
+                "title": "SheepIt Render Farm server code goes open source",
+                "href": "https://gitlab.com/sheepitrenderfarm"
             },
             {
                 "title": "Extracting DNA from the air \u2013 DNA evidence of human occupancy in indoor premises",
@@ -815,64 +823,56 @@
                 "href": "https://ericdraken.com/pfsense-decrypt-ad-traffic/"
             },
             {
-                "title": "Show HN: I converted my notebook into a searchable database of IT keywords",
-                "href": "https://techbook.digital/"
-            },
-            {
-                "title": "The race is on to build the most complex machine",
-                "href": "https://www.economist.com/science-and-technology/2025/03/12/the-race-is-on-to-build-the-worlds-most-complex-machine"
-            },
-            {
                 "title": "Stamina Is a Quiet Advantage",
                 "href": "https://kupajo.com/stamina-is-a-quiet-advantage/"
             },
             {
-                "title": "The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece",
-                "href": "https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613"
+                "title": "Show HN: I converted my notebook into a searchable database of IT keywords",
+                "href": "https://techbook.digital/"
             },
             {
-                "title": "20 Years of YC / HN",
-                "href": "https://vickiboykis.com/2025/03/17/20-years-of-yc/"
-            },
-            {
-                "title": "Sesame CSM: A Conversational Speech Generation Model",
-                "href": "https://github.com/SesameAILabs/csm"
-            },
-            {
-                "title": "Building AI agents to query your databases",
-                "href": "https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/"
+                "title": "FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies",
+                "href": "https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/"
             },
             {
                 "title": "Jensen Huang \u2013 Nvidia GTC 2025 Keynote",
                 "href": "https://www.nvidia.com/gtc/keynote/"
             },
             {
-                "title": "North Korea Launders Billions in Stolen Crypto",
-                "href": "https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto"
+                "title": "Sesame CSM: A Conversational Speech Generation Model",
+                "href": "https://github.com/SesameAILabs/csm"
             },
             {
-                "title": "The model is the product",
-                "href": "https://vintagedata.org/blog/posts/model-is-the-product"
+                "title": "20 Years of YC / HN",
+                "href": "https://vickiboykis.com/2025/03/17/20-years-of-yc/"
+            },
+            {
+                "title": "The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece",
+                "href": "https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613"
+            },
+            {
+                "title": "Volkswagen's cheapest EV ever is the first to use Rivian software",
+                "href": "https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/"
+            },
+            {
+                "title": "Building AI agents to query your databases",
+                "href": "https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/"
+            },
+            {
+                "title": "North Korea Launders Billions in Stolen Crypto",
+                "href": "https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto"
             },
             {
                 "title": "Rippling sues Deel over spying",
                 "href": "https://twitter.com/parkerconrad/status/1901615179718406276"
             },
             {
-                "title": "Rhombus Language",
-                "href": "https://rhombus-lang.org"
+                "title": "Designing Electronics That Work",
+                "href": "https://www.hscott.net/designing-electronics-that-work/"
             },
             {
-                "title": "How I Stay Motivated Working on My Solo SaaS (When It Feels Like Nobody Cares)",
-                "href": "item?id=43398652"
-            },
-            {
-                "title": "The Unofficial Guide to OpenAI Realtime WebRTC API",
-                "href": "https://webrtchacks.com/the-unofficial-guide-to-openai-realtime-webrtc-api/"
-            },
-            {
-                "title": "Breaking Up with On-Call",
-                "href": "https://reflector.dev/articles/breaking-up-with-on-call/"
+                "title": "The model is the product",
+                "href": "https://vintagedata.org/blog/posts/model-is-the-product"
             }
         ]
     }
