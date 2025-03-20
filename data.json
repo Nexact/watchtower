@@ -27,24 +27,24 @@
                 "href": "https://nnethercote.github.io/2025/03/19/how-to-speed-up-the-rust-compiler-in-march-2025.html"
             },
             {
-                "title": "Asahi Lina Pausing Work On Apple GPU Linux Driver Development",
-                "href": "https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU"
+                "title": "The macOS Blog Post (ft. Hackintosh)",
+                "href": "https://lilysthings.org/blog/the-macos-blog-post/"
             },
             {
-                "title": "A Society That Lost Focus",
-                "href": "https://ploum.net/2024-03-18-lost-focus.html"
+                "title": "Asahi Lina Pausing Work On Apple GPU Linux Driver Development",
+                "href": "https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU"
             },
             {
                 "title": "Intel 9 285K on ASUS Z890: not stable",
                 "href": "https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/"
             },
             {
-                "title": "Comptime Zig ORM",
-                "href": "https://matklad.github.io/2025/03/19/comptime-zig-orm.html"
+                "title": "A Society That Lost Focus",
+                "href": "https://ploum.net/2024-03-18-lost-focus.html"
             },
             {
-                "title": "The macOS Blog Post (ft. Hackintosh)",
-                "href": "https://lilysthings.org/blog/the-macos-blog-post/"
+                "title": "Comptime Zig ORM",
+                "href": "https://matklad.github.io/2025/03/19/comptime-zig-orm.html"
             },
             {
                 "title": "The Future of Fauna",
@@ -75,8 +75,16 @@
                 "href": "https://ericmigi.com/blog/introducing-two-new-pebbleos-watches"
             },
             {
+                "title": "Why didn't Windows 95 setup use a miniature version of Windows 95 as its fallback GUI?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20250318-00/?p=110975"
+            },
+            {
                 "title": "Why I'm No Longer Talking to Architects About Microservices",
                 "href": "https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices"
+            },
+            {
+                "title": "Introducing Orpheus Speech",
+                "href": "https://canopylabs.ai/model-releases"
             },
             {
                 "title": "Conflict-free Database over Virtual File System",
@@ -87,20 +95,12 @@
                 "href": "https://dobbse.net/thinair/2012/04/unsung-heros-sigsaly.html"
             },
             {
+                "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
+                "href": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html"
+            },
+            {
                 "title": "Announcing Fedora Linux 42 Beta",
                 "href": "https://fedoramagazine.org/announcing-fedora-linux-42-beta/"
-            },
-            {
-                "title": "Introducing Orpheus Speech",
-                "href": "https://canopylabs.ai/model-releases"
-            },
-            {
-                "title": "Red v0.6.6: Memory Management Improvements",
-                "href": "https://www.red-lang.org/2025/03/066-memory-management-improvements.html"
-            },
-            {
-                "title": "Copyright and the demoscene",
-                "href": "https://www.datagubbe.se/scenecop/"
             }
         ]
     },
@@ -116,12 +116,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1jetbh3/linux_supply_chain_attack_journey_critical/"
             },
             {
-                "title": "13 inch Macbook",
-                "href": "https://old.reddit.com/r/netsec/comments/1jfb0u7/13_inch_macbook/"
-            },
-            {
                 "title": "Introducing WEBCAT: Web-based Code Assurance and Transparency",
                 "href": "https://old.reddit.com/r/netsec/comments/1jf1zwq/introducing_webcat_webbased_code_assurance_and/"
+            },
+            {
+                "title": "13 inch Macbook",
+                "href": "https://old.reddit.com/r/netsec/comments/1jfb0u7/13_inch_macbook/"
             },
             {
                 "title": "SAML roulette: the hacker always wins",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "LG Ceases XR Product Efforts",
+                "href": "https://tech.slashdot.org/story/25/03/20/006216/lg-ceases-xr-product-efforts?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "PCI Express 7.0's Blazing Speeds Are Nearly Here, But PCIe 6 is Still Vapor",
                 "href": "https://tech.slashdot.org/story/25/03/19/201211/pci-express-70s-blazing-speeds-are-nearly-here-but-pcie-6-is-still-vapor?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Microsoft Isn't Fixing 8-Year-Old Shortcut Exploit Abused For Spying",
                 "href": "https://it.slashdot.org/story/25/03/18/2226205/microsoft-isnt-fixing-8-year-old-shortcut-exploit-abused-for-spying?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Gavin Newsom Is Reportedly Sending Burner Phones To Tech CEOs",
-                "href": "https://mobile.slashdot.org/story/25/03/18/2220249/gavin-newsom-is-reportedly-sending-burner-phones-to-tech-ceos?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,52 +759,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "OpenAI's o1-pro now available via API",
-                "href": "https://platform.openai.com/docs/models/o1-pro"
+                "title": "Bolt3D: Generating 3D Scenes in Seconds",
+                "href": "https://szymanowiczs.github.io/bolt3d"
             },
             {
                 "title": "How fast the days are getting longer",
                 "href": "https://joe-antognini.github.io/astronomy/daylight"
             },
             {
+                "title": "DESI Opens Access to the Largest 3D Map of the Universe Yet",
+                "href": "https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/"
+            },
+            {
+                "title": "The Continuing Crisis, Part IX: Inside the NIH Now",
+                "href": "https://www.science.org/content/blog-post/continuing-crisis-part-ix-inside-nih-now"
+            },
+            {
                 "title": "AI Blindspots \u2013 Blindspots in LLMs I've noticed while AI coding",
                 "href": "https://ezyang.github.io/ai-blindspots/"
-            },
-            {
-                "title": "Muons used to test the condition of a road bridge in Estonia",
-                "href": "https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia"
-            },
-            {
-                "title": "Looking Ahead at Intel's Xe3 GPU Architecture",
-                "href": "https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture"
             },
             {
                 "title": "LLM Agents Are Simply Graph \u2013 Tutorial for Dummies",
                 "href": "https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial"
             },
             {
-                "title": "Bolt3D: Generating 3D Scenes in Seconds",
-                "href": "https://szymanowiczs.github.io/bolt3d"
+                "title": "Muons used to test the condition of a road bridge in Estonia",
+                "href": "https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia"
             },
             {
                 "title": "fd: A simple, fast and user-friendly alternative to 'find'",
                 "href": "https://github.com/sharkdp/fd"
             },
             {
-                "title": "DESI Opens Access to the Largest 3D Map of the Universe Yet",
-                "href": "https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/"
+                "title": "Database management in a single PHP file",
+                "href": "https://github.com/vrana/adminer"
             },
             {
-                "title": "Show HN: Codemcp \u2013 Claude Code for Claude Pro subscribers \u2013\u00a0ditch API bills",
-                "href": "https://github.com/ezyang/codemcp"
-            },
-            {
-                "title": "Launch HN: Modernbanc (YC W20) \u2013 Modern and fast accounting software",
-                "href": "item?id=43414405"
-            },
-            {
-                "title": "Looking for beta testers for my GPS based game",
-                "href": "https://cityquizler.com/"
+                "title": "Looking Ahead at Intel's Xe3 GPU Architecture",
+                "href": "https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture"
             },
             {
                 "title": "Fine-tune Google's Gemma 3",
@@ -815,44 +807,56 @@
                 "href": "https://kasurian.com/p/research-as-leisure"
             },
             {
-                "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
-                "href": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/"
+                "title": "Orpheus-3B \u2013 Emotive TTS by Canopy Labs",
+                "href": "https://canopylabs.ai/model-releases"
+            },
+            {
+                "title": "Launch HN: Modernbanc (YC W20) \u2013 Modern and fast accounting software",
+                "href": "item?id=43414405"
+            },
+            {
+                "title": "Introduction to Deep Learning (CMU)",
+                "href": "https://deeplearning.cs.cmu.edu/./S25/index.html"
             },
             {
                 "title": "The Defer Technical Specification: It Is Time",
                 "href": "https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go"
             },
             {
-                "title": "Show HN: MCP-Kafka \u2013 Natural Language Interface for Kafka Commands",
-                "href": "https://github.com/kanapuli/mcp-kafka"
+                "title": "Is Dark Energy Getting Weaker? New Evidence Strengthens the Case",
+                "href": "https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/"
             },
             {
-                "title": "Konva.js - Declarative 2D Canvas for React, Vue, and Svelte",
-                "href": "https://konvajs.org/"
+                "title": "Show HN: Codemcp \u2013 Claude Code for Claude Pro subscribers \u2013\u00a0ditch API bills",
+                "href": "https://github.com/ezyang/codemcp"
             },
             {
-                "title": "Markprompt (YC W24) \u2013 Stripe for customer support \u2013 is hiring founding eng in SF",
-                "href": "https://markprompt.com/jobs"
+                "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+                "href": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/"
             },
             {
-                "title": "Memory safety for web fonts",
-                "href": "https://developer.chrome.com/blog/memory-safety-fonts"
+                "title": "Looking for beta testers for my GPS based game",
+                "href": "https://cityquizler.com/"
             },
             {
-                "title": "Decoding JSON sum types in Go without panicking",
-                "href": "https://nicolashery.com/decoding-json-sum-types-in-go/"
-            },
-            {
-                "title": "Show HN: Learn where countries are on the world map with Spaced Repetition",
-                "href": "https://map.koljapluemer.com"
+                "title": "OpenAI's o1-pro now available via API",
+                "href": "https://platform.openai.com/docs/models/o1-pro"
             },
             {
                 "title": "How I got 100% off my train travel",
                 "href": "https://readbunce.com/p/how-i-got-100-off-my-train-travel"
             },
             {
-                "title": "Pierogi in Space",
-                "href": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space"
+                "title": "Markprompt (YC W24) \u2013 Stripe for customer support \u2013 is hiring founding eng in SF",
+                "href": "https://markprompt.com/jobs"
+            },
+            {
+                "title": "Konva.js - Declarative 2D Canvas for React, Vue, and Svelte",
+                "href": "https://konvajs.org/"
+            },
+            {
+                "title": "Show HN: Learn where countries are on the world map with Spaced Repetition",
+                "href": "https://map.koljapluemer.com"
             },
             {
                 "title": "The Origin of the Pork Taboo",
@@ -863,20 +867,16 @@
                 "href": "https://www.nber.org/papers/w33576"
             },
             {
-                "title": "Control your attention on the web \u2013 Block sites on certain days and times",
-                "href": "https://github.com/Bsodoge/Focus-Mode"
+                "title": "Decoding JSON sum types in Go without panicking",
+                "href": "https://nicolashery.com/decoding-json-sum-types-in-go/"
             },
             {
-                "title": "The Internet Slum: is abandoning the Internet the next big thing? (2004)",
-                "href": "https://www.fourmilab.ch/documents/netslum/"
+                "title": "Memory safety for web fonts",
+                "href": "https://developer.chrome.com/blog/memory-safety-fonts"
             },
             {
-                "title": "The Business of Phish (2013)",
-                "href": "https://priceonomics.com/business-of-phish/"
-            },
-            {
-                "title": "The clustering behavior of sliding windows",
-                "href": "https://arxiv.org/abs/2503.14393"
+                "title": "Pierogi in Space",
+                "href": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space"
             }
         ]
     }
