@@ -27,20 +27,24 @@
                 "href": "https://git.sr.ht/~runxiyu/dlcage"
             },
             {
+                "title": "Things that go wrong with disk IO",
+                "href": "https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html"
+            },
+            {
                 "title": "Spade, a hardware description language inspired by modern software languages",
                 "href": "https://spade-lang.org/"
             },
             {
-                "title": "Things that go wrong with disk IO",
-                "href": "https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html"
+                "title": "Open Letter to Meta: Support True Messaging Interoperability with XMPP",
+                "href": "https://xmpp.org/announcements/open-letter-meta-dma/"
             },
             {
                 "title": "The way we're thinking about breaking changes is really silly",
                 "href": "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/"
             },
             {
-                "title": "Open Letter to Meta: Support True Messaging Interoperability with XMPP",
-                "href": "https://xmpp.org/announcements/open-letter-meta-dma/"
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend"
             },
             {
                 "title": "SpecTec has been adopted",
@@ -55,36 +59,32 @@
                 "href": "https://nullprogram.com/blog/2013/09/23/"
             },
             {
+                "title": "Terrible Horrible No Good Very Bad Python",
+                "href": "https://jyn.dev/terrible-horrible-no-good-very-bad-python/"
+            },
+            {
                 "title": "prepare()-ing for execution: a new API for process creation",
                 "href": "https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee"
             },
             {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend"
+                "title": "Data demand some damn respect",
+                "href": "https://taylor.town/flat-scraps-002"
             },
             {
                 "title": "Compress Better, Compute Bigger",
                 "href": "https://ironarray.io/blog/compute-bigger"
             },
             {
-                "title": "War story: the hardest bug I ever debugged",
-                "href": "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
-            },
-            {
-                "title": "Terrible Horrible No Good Very Bad Python",
-                "href": "https://jyn.dev/terrible-horrible-no-good-very-bad-python/"
-            },
-            {
-                "title": "Piranesi\u2019s Perspective Trick",
-                "href": "https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9"
-            },
-            {
                 "title": "Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking",
                 "href": "https://www.morling.dev/blog/jep-483-aot-class-loading-linking/"
             },
             {
-                "title": "Data demand some damn respect",
-                "href": "https://taylor.town/flat-scraps-002"
+                "title": "War story: the hardest bug I ever debugged",
+                "href": "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
+            },
+            {
+                "title": "Piranesi\u2019s Perspective Trick",
+                "href": "https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9"
             },
             {
                 "title": "A Roadmap for a modern Plasma Login Manager",
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft fixes button that restores classic Outlook client",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-button-that-restores-classic-outlook-client/"
+            },
+            {
                 "title": "New Ubuntu Linux security bypasses require manual mitigations",
                 "href": "https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Recent Windows Server 2025 updates cause Remote Desktop freezes",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/recent-windows-server-2025-updates-cause-remote-desktop-freezes/"
-            },
-            {
-                "title": "Vivaldi integrates Proton VPN into the browser to fight web tracking",
-                "href": "https://www.bleepingcomputer.com/news/software/vivaldi-integrates-proton-vpn-into-the-browser-to-fight-web-tracking/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "FTC Tells Staff To Stop Calling the Agency 'Independent' in Complaints",
+                "href": "https://news.slashdot.org/story/25/03/28/1557221/ftc-tells-staff-to-stop-calling-the-agency-independent-in-complaints?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "75% of Scientists in Nature Poll Weigh Leaving US",
                 "href": "https://science.slashdot.org/story/25/03/28/1526209/75-of-scientists-in-nature-poll-weigh-leaving-us?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Google Maps Can Soon Scan Your Screenshots To Plan Your Vacation",
                 "href": "https://tech.slashdot.org/story/25/03/27/2052222/google-maps-can-soon-scan-your-screenshots-to-plan-your-vacation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Columbia University Suspends Student Behind Interview Cheating AI",
-                "href": "https://news.slashdot.org/story/25/03/27/1958240/columbia-university-suspends-student-behind-interview-cheating-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,36 +759,52 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Decomposing a Factorial into Large Factors",
+                "href": "https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/"
+            },
+            {
                 "title": "Getting hit by lightning is good for some tropical trees",
                 "href": "https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees"
             },
             {
-                "title": "Decomposing a Factorial into Large Factors",
-                "href": "https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/"
+                "title": "Xee: A Modern XPath and XSLT Engine in Rust",
+                "href": "https://blog.startifact.com/posts/xee/"
+            },
+            {
+                "title": "The Biology of a Large Language Model",
+                "href": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
             },
             {
                 "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
                 "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl"
             },
             {
-                "title": "How to Write Blog Posts That Developers Read \u00b7 Refactoring English",
-                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
+                "title": "Disk I/O bottlenecks in GitHub Actions",
+                "href": "https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci"
             },
             {
-                "title": "The Biology of B-Movie Monsters (2003)",
-                "href": "https://fathom.lib.uchicago.edu/2/21701757/"
+                "title": "How to Write Blog Posts That Developers Read \u00b7 Refactoring English",
+                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
             },
             {
                 "title": "Architecture Patterns with Python",
                 "href": "https://www.cosmicpython.com/book/preface.html"
             },
             {
+                "title": "MilliForth-6502: The smallest Forth real programming language for 6502",
+                "href": "https://github.com/agsb/milliForth-6502"
+            },
+            {
+                "title": "Building Statically Linked Go Executables with CGO and Zig",
+                "href": "https://calabro.io/zig-cgo"
+            },
+            {
                 "title": "Preschoolers can reason better than we think, study suggests",
                 "href": "https://phys.org/news/2025-03-preschoolers.html"
             },
             {
-                "title": "MilliForth-6502: The smallest Forth real programming language for 6502",
-                "href": "https://github.com/agsb/milliForth-6502"
+                "title": "The Biology of B-Movie Monsters (2003)",
+                "href": "https://fathom.lib.uchicago.edu/2/21701757/"
             },
             {
                 "title": "I asked police to send me their public surveillance footage of my car",
@@ -799,28 +815,24 @@
                 "href": "https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life"
             },
             {
-                "title": "Despite Ukraine War, Europe Imported Even More Russian Gas Last Year",
-                "href": "https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024"
+                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+            },
+            {
+                "title": "Show HN: Cursor IDE now remembers your coding prefs using MCP",
+                "href": "item?id=43506068"
             },
             {
                 "title": "Things I would have told myself before building an autorouter",
                 "href": "https://blog.autorouting.com/p/13-things-i-would-have-told-myself"
             },
             {
-                "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
-                "href": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-            },
-            {
-                "title": "The Biology of a Large Language Model",
-                "href": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
+                "title": "Tracing the thoughts of a large language model",
+                "href": "https://www.anthropic.com/research/tracing-thoughts-language-model"
             },
             {
                 "title": "How to Use Em Dashes (\u2013), En Dashes (\u2013), and Hyphens (-)",
                 "href": "https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use"
-            },
-            {
-                "title": "Tracing the thoughts of a large language model",
-                "href": "https://www.anthropic.com/research/tracing-thoughts-language-model"
             },
             {
                 "title": "A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices",
@@ -831,16 +843,12 @@
                 "href": "https://www.morling.dev/blog/jep-483-aot-class-loading-linking/"
             },
             {
+                "title": "Moir\u00e9 Than Meets the Eye: Uncovering the Quantum Potential of Phasons",
+                "href": "https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/"
+            },
+            {
                 "title": "Japanese scientists create new plastic that dissolves in saltwater overnight",
                 "href": "https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/"
-            },
-            {
-                "title": "Building Node.js on Windows with Clang-cl",
-                "href": "https://joyeecheung.github.io/blog/2025/02/16/building-nodejs-on-windows-with-clang-cl/"
-            },
-            {
-                "title": "Building Statically Linked Go Executables with CGO and Zig",
-                "href": "https://calabro.io/zig-cgo"
             },
             {
                 "title": "I tried making artificial sunlight at home",
@@ -851,16 +859,16 @@
                 "href": "https://blog.cr.yp.to/20140205-entropy.html"
             },
             {
-                "title": "The Great Chatbot Debate \u2013 March 25th",
-                "href": "https://computerhistory.org/events/great-chatbot-debate/"
-            },
-            {
                 "title": "7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand",
                 "href": "https://twitter.com/TaraBull808/status/1905534938558157139"
             },
             {
-                "title": "The Pyrex Glass Controversy That Just Won't Die (2019)",
-                "href": "https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962"
+                "title": "Building Node.js on Windows with Clang-cl",
+                "href": "https://joyeecheung.github.io/blog/2025/02/16/building-nodejs-on-windows-with-clang-cl/"
+            },
+            {
+                "title": "The Great Chatbot Debate",
+                "href": "https://computerhistory.org/events/great-chatbot-debate/"
             },
             {
                 "title": "How I Choose What to Work On (2023)",
@@ -869,14 +877,6 @@
             {
                 "title": "Every Flop Counts: Scaling a 300B LLM Without Premium GPUs",
                 "href": "https://arxiv.org/abs/2503.05139"
-            },
-            {
-                "title": "I genuinely don't understand why some people are still bullish about LLMs",
-                "href": "https://twitter.com/skdh/status/1905132853672784121"
-            },
-            {
-                "title": "Golang on the Playstation 2",
-                "href": "https://rgsilva.com/blog/ps2-go-part-1/"
             }
         ]
     }
