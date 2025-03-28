@@ -11,20 +11,20 @@
                 "href": "https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/"
             },
             {
-                "title": "How to Write Blog Posts that Developers Read",
-                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
-            },
-            {
-                "title": "Safeishly use non-reentrant libraries with POSIX threads",
-                "href": "https://git.sr.ht/~runxiyu/dlcage"
-            },
-            {
                 "title": "Apple Needs a Snow Sequoia",
                 "href": "https://reviews.ofb.biz/safari/article/1300.html"
             },
             {
                 "title": "Building Statically Linked Go Executables with CGO and Zig",
                 "href": "https://calabro.io/zig-cgo"
+            },
+            {
+                "title": "How to Write Blog Posts that Developers Read",
+                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
+            },
+            {
+                "title": "Safeishly use non-reentrant libraries with POSIX threads",
+                "href": "https://git.sr.ht/~runxiyu/dlcage"
             },
             {
                 "title": "Spade, a hardware description language inspired by modern software languages",
@@ -47,28 +47,40 @@
                 "href": "https://webassembly.org/news/2025-03-27-spectec/"
             },
             {
-                "title": "prepare()-ing for execution: a new API for process creation",
-                "href": "https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee"
+                "title": "Handling form errors in htmx",
+                "href": "https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg"
             },
             {
                 "title": "Atom vs. RSS (2013)",
                 "href": "https://nullprogram.com/blog/2013/09/23/"
             },
             {
-                "title": "Compress Better, Compute Bigger",
-                "href": "https://ironarray.io/blog/compute-bigger"
+                "title": "prepare()-ing for execution: a new API for process creation",
+                "href": "https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee"
             },
             {
-                "title": "Handling form errors in htmx",
-                "href": "https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg"
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "Compress Better, Compute Bigger",
+                "href": "https://ironarray.io/blog/compute-bigger"
             },
             {
                 "title": "War story: the hardest bug I ever debugged",
                 "href": "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
             },
             {
+                "title": "Terrible Horrible No Good Very Bad Python",
+                "href": "https://jyn.dev/terrible-horrible-no-good-very-bad-python/"
+            },
+            {
                 "title": "Piranesi\u2019s Perspective Trick",
                 "href": "https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9"
+            },
+            {
+                "title": "Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking",
+                "href": "https://www.morling.dev/blog/jep-483-aot-class-loading-linking/"
             },
             {
                 "title": "Data demand some damn respect",
@@ -79,28 +91,16 @@
                 "href": "https://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/"
             },
             {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend"
+                "title": "\u201cNormal\u201d engineers are the key to great teams",
+                "href": "https://spectrum.ieee.org/10x-engineer"
             },
             {
                 "title": "Benchmarking a distribution (and some -O3 results)",
                 "href": "https://discourse.ubuntu.com/t/benchmarking-a-distribution-and-some-o3-results/58027"
             },
             {
-                "title": "\u201cNormal\u201d engineers are the key to great teams",
-                "href": "https://spectrum.ieee.org/10x-engineer"
-            },
-            {
                 "title": "Calculate Throughput with LLVM's Scheduling Model",
                 "href": "https://myhsu.xyz/llvm-sched-interval-throughput/"
-            },
-            {
-                "title": "SJS: a static AOT compiler for a subset of JavaScript (2016)",
-                "href": "https://github.com/Samsung/SJS"
-            },
-            {
-                "title": "Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking",
-                "href": "https://www.morling.dev/blog/jep-483-aot-class-loading-linking/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "75% of Scientists in Nature Poll Weigh Leaving US",
+                "href": "https://science.slashdot.org/story/25/03/28/1526209/75-of-scientists-in-nature-poll-weigh-leaving-us?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft President Calls For a National Talent Strategy For Electricians",
                 "href": "https://news.slashdot.org/story/25/03/28/1447203/microsoft-president-calls-for-a-national-talent-strategy-for-electricians?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Columbia University Suspends Student Behind Interview Cheating AI",
                 "href": "https://news.slashdot.org/story/25/03/27/1958240/columbia-university-suspends-student-behind-interview-cheating-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Nvidia's GeForce RTX 5090 Laptop Graphics Benchmarks Revealed",
-                "href": "https://tech.slashdot.org/story/25/03/27/1923257/nvidias-geforce-rtx-5090-laptop-graphics-benchmarks-revealed?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -654,6 +654,42 @@
         "feedname": "packetstorm",
         "items": [
             {
+                "title": "Security Shop Pwns Ransomware Gang, Passes Insider Info To Authorities",
+                "href": "https://www.theregister.com/2025/03/27/security_shop_pwns_ransomware_gang/"
+            },
+            {
+                "title": "Legacy Medical Devices Remain Easy Targets For Ransomware",
+                "href": "https://www.securityweek.com/critical-condition-legacy-medical-devices-remain-easy-targets-for-ransomware/"
+            },
+            {
+                "title": "Firefox Affected By Similar Flaw To Chrome Zero-Day Exploited In Russia",
+                "href": "https://www.securityweek.com/firefox-affected-by-flaw-similar-to-chrome-zero-day-exploited-in-russia/"
+            },
+            {
+                "title": "Ransomware Gang Cracks American Cableco, Releases Terrible Music Video To Prove It",
+                "href": "https://www.theregister.com/2025/03/28/arkana_wow_ransomware/"
+            },
+            {
+                "title": "Gemini Hackers Can Deliver More Potent Attacks With A Helping Hand From.. Gemini",
+                "href": "https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/"
+            },
+            {
+                "title": "AI-Enabled Phishing And Fake Worker Attacks On The Rise",
+                "href": "https://www.scworld.com/news/ai-enabled-phishing-and-fake-worker-attacks-on-the-rise"
+            },
+            {
+                "title": "EDR Killer Links RansomHub With Play, Medusa, BianLian Gangs",
+                "href": "https://www.scworld.com/news/edr-killer-use-links-ransomhub-with-play-medusa-bianlian-gangs"
+            },
+            {
+                "title": "9-Year-Old NPM Crypto Package Hijacked For Information Theft",
+                "href": "https://www.securityweek.com/9-year-old-npm-crypto-package-hijacked-to-steal-information/"
+            },
+            {
+                "title": "Oracle Health Breach Compromises Patient Data At US Hospitals",
+                "href": "https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/"
+            },
+            {
                 "title": "Concerns About Hegseth's Judgment Come Roaring Back After Group Chat Scandal",
                 "href": "https://www.cnn.com/2025/03/27/politics/hegseth-signal-group-chat-concerns-judgement/index.html"
             },
@@ -716,42 +752,6 @@
             {
                 "title": "Chinese Hackers Spend Years Roaming Telecommunications Service",
                 "href": "https://www.scworld.com/news/chinese-hackers-spend-years-roaming-telecommunications-service"
-            },
-            {
-                "title": "Vulnerabilities Allow Remote Hacking Of Inaba Plant Monitoring Cameras",
-                "href": "https://www.securityweek.com/vulnerabilities-allow-remote-hacking-of-inaba-plant-monitoring-cameras/"
-            },
-            {
-                "title": "DOGE Staffer Big Balls Provided Tech Support To Cybercrime Ring",
-                "href": "https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/"
-            },
-            {
-                "title": "New Ransomware Group Claims Attack On US Telecom Firm WideOpenWest",
-                "href": "https://www.securityweek.com/new-ransomware-group-claims-attack-on-us-telecom-firm-wideopenwest/"
-            },
-            {
-                "title": "FCC Vows To Track Down Sanctioned Chinese Telecoms Banned From US",
-                "href": "https://www.scworld.com/news/fcc-vows-to-track-down-sanctioned-chinese-telecoms-banned-from-us"
-            },
-            {
-                "title": "VanHelsing Ransomware Emerges To Put A Stake Through Your Windows Heart",
-                "href": "https://www.theregister.com/2025/03/25/vanhelsing_ransomware_russia/"
-            },
-            {
-                "title": "Cyberattack Takes Down Ukrainian State Railway's Online Services",
-                "href": "https://www.bleepingcomputer.com/news/security/cyberattack-takes-down-ukrainian-state-railways-online-services/"
-            },
-            {
-                "title": "Microsoft Adds AI Agents To Security Copilot",
-                "href": "https://www.securityweek.com/microsoft-adds-ai-agents-to-security-copilot/"
-            },
-            {
-                "title": "Infosec Pro Troy Hunt HasBeenPwned In Mailchimp Phish",
-                "href": "https://www.theregister.com/2025/03/25/troy_hunt_mailchimp_phish/"
-            },
-            {
-                "title": "Numotion Data Breach Impacts Nearly 500,000 People",
-                "href": "https://www.securityweek.com/numotion-data-breach-impacts-nearly-500000-people/"
             }
         ]
     },
@@ -763,44 +763,48 @@
                 "href": "https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees"
             },
             {
-                "title": "Preschoolers can reason better than we think, study suggests",
-                "href": "https://phys.org/news/2025-03-preschoolers.html"
+                "title": "Decomposing a Factorial into Large Factors",
+                "href": "https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/"
             },
             {
                 "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
                 "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl"
             },
             {
-                "title": "The Biology of B-Movie Monsters (2003)",
-                "href": "https://fathom.lib.uchicago.edu/2/21701757/"
+                "title": "How to Write Blog Posts That Developers Read \u00b7 Refactoring English",
+                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
             },
             {
-                "title": "Decomposing a Factorial into Large Factors",
-                "href": "https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/"
+                "title": "The Biology of B-Movie Monsters (2003)",
+                "href": "https://fathom.lib.uchicago.edu/2/21701757/"
             },
             {
                 "title": "Architecture Patterns with Python",
                 "href": "https://www.cosmicpython.com/book/preface.html"
             },
             {
-                "title": "How to Write Blog Posts That Developers Read \u00b7 Refactoring English",
-                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
-            },
-            {
-                "title": "I asked police to send me their public surveillance footage of my car",
-                "href": "https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/"
+                "title": "Preschoolers can reason better than we think, study suggests",
+                "href": "https://phys.org/news/2025-03-preschoolers.html"
             },
             {
                 "title": "MilliForth-6502: The smallest Forth real programming language for 6502",
                 "href": "https://github.com/agsb/milliForth-6502"
             },
             {
-                "title": "Despite Ukraine War, Europe Imported Even More Russian Gas Last Year",
-                "href": "https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024"
+                "title": "I asked police to send me their public surveillance footage of my car",
+                "href": "https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/"
             },
             {
                 "title": "Giant, fungus-like organism may be a completely unknown branch of life",
                 "href": "https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life"
+            },
+            {
+                "title": "Despite Ukraine War, Europe Imported Even More Russian Gas Last Year",
+                "href": "https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024"
+            },
+            {
+                "title": "Things I would have told myself before building an autorouter",
+                "href": "https://blog.autorouting.com/p/13-things-i-would-have-told-myself"
             },
             {
                 "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
@@ -809,10 +813,6 @@
             {
                 "title": "The Biology of a Large Language Model",
                 "href": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
-            },
-            {
-                "title": "Things I would have told myself before building an autorouter",
-                "href": "https://blog.autorouting.com/p/13-things-i-would-have-told-myself"
             },
             {
                 "title": "How to Use Em Dashes (\u2013), En Dashes (\u2013), and Hyphens (-)",
@@ -835,20 +835,32 @@
                 "href": "https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/"
             },
             {
-                "title": "The Great Chatbot Debate \u2013 March 25th",
-                "href": "https://computerhistory.org/events/great-chatbot-debate/"
+                "title": "Building Node.js on Windows with Clang-cl",
+                "href": "https://joyeecheung.github.io/blog/2025/02/16/building-nodejs-on-windows-with-clang-cl/"
             },
             {
-                "title": "Entropy Attacks",
-                "href": "https://blog.cr.yp.to/20140205-entropy.html"
+                "title": "Building Statically Linked Go Executables with CGO and Zig",
+                "href": "https://calabro.io/zig-cgo"
             },
             {
                 "title": "I tried making artificial sunlight at home",
                 "href": "https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/"
             },
             {
+                "title": "Entropy Attacks",
+                "href": "https://blog.cr.yp.to/20140205-entropy.html"
+            },
+            {
+                "title": "The Great Chatbot Debate \u2013 March 25th",
+                "href": "https://computerhistory.org/events/great-chatbot-debate/"
+            },
+            {
                 "title": "7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand",
                 "href": "https://twitter.com/TaraBull808/status/1905534938558157139"
+            },
+            {
+                "title": "The Pyrex Glass Controversy That Just Won't Die (2019)",
+                "href": "https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962"
             },
             {
                 "title": "How I Choose What to Work On (2023)",
@@ -859,24 +871,12 @@
                 "href": "https://arxiv.org/abs/2503.05139"
             },
             {
-                "title": "Golang on the Playstation 2",
-                "href": "https://rgsilva.com/blog/ps2-go-part-1/"
-            },
-            {
                 "title": "I genuinely don't understand why some people are still bullish about LLMs",
                 "href": "https://twitter.com/skdh/status/1905132853672784121"
             },
             {
-                "title": "Abundance isn't going to happen unless politicians are scared of the status quo",
-                "href": "https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless"
-            },
-            {
-                "title": "Estimating Camera Motion from a Single Motion-Blurred Image",
-                "href": "https://jerredchen.github.io/image-as-imu/"
-            },
-            {
-                "title": "Mid-pregnancy pollution exposure linked to postpartum depression",
-                "href": "https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests"
+                "title": "Golang on the Playstation 2",
+                "href": "https://rgsilva.com/blog/ps2-go-part-1/"
             }
         ]
     }
