@@ -23,16 +23,16 @@
                 "href": "https://jyn.dev/terrible-horrible-no-good-very-bad-python/"
             },
             {
+                "title": "Handling form errors in htmx",
+                "href": "https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg"
+            },
+            {
                 "title": "A Language Server for Postgres",
                 "href": "https://github.com/supabase-community/postgres-language-server"
             },
             {
                 "title": "Building Statically Linked Go Executables with CGO and Zig",
                 "href": "https://calabro.io/zig-cgo"
-            },
-            {
-                "title": "Handling form errors in htmx",
-                "href": "https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg"
             },
             {
                 "title": "Learn CSS Layout The Pedantic Way",
@@ -51,8 +51,16 @@
                 "href": "https://jdrouet.github.io/posts/202503170800-search-engine-part-1/"
             },
             {
+                "title": "Pixelfed leaks private posts from other Fediverse instances",
+                "href": "https://fokus.cool/2025/03/25/pixelfed-vulnerability.html"
+            },
+            {
                 "title": "Safeishly use non-reentrant libraries with POSIX threads",
                 "href": "https://git.sr.ht/~runxiyu/dlcage"
+            },
+            {
+                "title": "Expressing Japanese Grammar Through TypeScript Type System",
+                "href": "https://github.com/typedgrammar/typed-japanese/blob/main/blog.md"
             },
             {
                 "title": "An Ode To The Game Boy Advance",
@@ -67,6 +75,22 @@
                 "href": "https://taylor.town/flat-scraps-002"
             },
             {
+                "title": "Item Flow, Part 1: A new unified concept for layout",
+                "href": "https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/"
+            },
+            {
+                "title": "\"Moonshots\" Initiative to Secure the Future of RISC OS",
+                "href": "https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os"
+            },
+            {
+                "title": "On the Biology of a Large Language Model",
+                "href": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
+            },
+            {
+                "title": "The \"broligarchs\" don't speak for me",
+                "href": "https://ratfactor.com/tech-nope"
+            },
+            {
                 "title": "The Colonel\u2019s Bequest \u2013 Case Cracked",
                 "href": "https://www.benshoof.org/blog/case-cracked"
             },
@@ -77,30 +101,6 @@
             {
                 "title": "Total functions and beyond",
                 "href": "https://ericnormand.substack.com/p/total-functions-and-beyond"
-            },
-            {
-                "title": "Expressing Japanese Grammar Through TypeScript Type System",
-                "href": "https://github.com/typedgrammar/typed-japanese/blob/main/blog.md"
-            },
-            {
-                "title": "The \"broligarchs\" don't speak for me",
-                "href": "https://ratfactor.com/tech-nope"
-            },
-            {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend"
-            },
-            {
-                "title": "The problem with OOL is not the OO (2009)",
-                "href": "https://www.rebol.com/article/0425.html"
-            },
-            {
-                "title": "How to Write Blog Posts that Developers Read",
-                "href": "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
-            },
-            {
-                "title": "The way we're thinking about breaking changes is really silly",
-                "href": "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/"
             }
         ]
     },
@@ -755,60 +755,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Trump's attacks on universities get darker, with shadows reaching our shores",
-                "href": "https://christinapagel.substack.com/p/trumps-attacks-on-universities-get"
+                "title": "Where Do the Bytes Go?",
+                "href": "https://flak.tedunangst.com/post/where-do-the-bytes-go"
             },
             {
-                "title": "Postgres Language Server: Initial Release",
-                "href": "https://github.com/supabase-community/postgres-language-server"
-            },
-            {
-                "title": "Today Google bricked my Chromebook by force-installing a hidden extension",
-                "href": "https://cloudisland.nz/@rmi/114219847307106213"
-            },
-            {
-                "title": "OpenWrt Two Approval",
-                "href": "https://openwrt.org/voting/2025-02-12-openwrt-two"
+                "title": "Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen",
+                "href": "https://github.com/Rukenshia/pomodoro"
             },
             {
                 "title": "PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP",
                 "href": "https://github.com/regymm/pcie_7x"
             },
             {
-                "title": "Plain \u2013 a web framework for building products with Python",
-                "href": "https://plainframework.com/"
-            },
-            {
-                "title": "Manjaro Linux: Making Arch Linux More Accessible",
-                "href": "https://manjaro.org/"
-            },
-            {
-                "title": "Building a search engine from scratch, in Rust: part 1",
-                "href": "https://jdrouet.github.io/posts/202503170800-search-engine-part-1/"
-            },
-            {
                 "title": "Mathematical Compact Models of Advanced Transistors [pdf]",
                 "href": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf"
+            },
+            {
+                "title": "Plain \u2013 a web framework for building products with Python",
+                "href": "https://plainframework.com/"
             },
             {
                 "title": "You Need Subtyping",
                 "href": "https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html"
             },
             {
-                "title": "We hacked Gemini's Python sandbox and leaked its source code (at least some)",
-                "href": "https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/"
-            },
-            {
-                "title": "iCloud Mail has DNS misconfigured?",
-                "href": "https://www.mail-tester.com/test-p3tdhnk3o"
-            },
-            {
                 "title": "Chimpanzees act as 'engineers', choosing materials to make tools",
                 "href": "https://www.sciencedaily.com/releases/2025/03/250324142002.htm"
             },
             {
-                "title": "Show HN: Personal Time Tracking with Git",
-                "href": "https://doocot.sh/blog/2025/03/28/time-tracking-with-git"
+                "title": "We hacked Gemini's Python sandbox and leaked its source code (at least some)",
+                "href": "https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/"
             },
             {
                 "title": "Playstation Mod Turns the PSOne into a Crustacean",
@@ -835,44 +811,68 @@
                 "href": "https://pianoboi.site"
             },
             {
+                "title": "Low responsiveness of ML models to critical or deteriorating health conditions",
+                "href": "https://www.nature.com/articles/s43856-025-00775-0"
+            },
+            {
                 "title": "Emulating the YM2612: Part 1 \u2013 Interface",
                 "href": "https://jsgroth.dev/blog/posts/emulating-ym2612-part-1/"
+            },
+            {
+                "title": "OpenAI Close to Finalizing Its $40B SoftBank-Led Funding",
+                "href": "https://www.bloomberg.com/news/articles/2025-03-26/openai-close-to-finalizing-its-40-billion-softbank-led-funding"
             },
             {
                 "title": "Self-Supervised Learning from Images with JEPA (2023)",
                 "href": "https://arxiv.org/abs/2301.08243"
             },
             {
-                "title": "Show HN: An Almost Free, Open Source TURN Server",
-                "href": "https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md"
-            },
-            {
                 "title": "Testing Without Mocks: A Pattern Language (2023)",
                 "href": "https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks"
-            },
-            {
-                "title": "DIY PTP Grandmaster Clock with a Raspberry Pi",
-                "href": "https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi"
-            },
-            {
-                "title": "AI Accent Conversion for call centers",
-                "href": "https://krisp.ai/accent-conversion/"
-            },
-            {
-                "title": "Andrej Karpathy on the State of Web Development",
-                "href": "https://twitter.com/karpathy/status/1905051558783418370"
-            },
-            {
-                "title": "Et Tu, Grammarly?",
-                "href": "https://dbushell.com/2025/03/29/et-tu-grammarly/"
             },
             {
                 "title": "Digital Echoes and Unquiet Minds",
                 "href": "https://www.chrbutler.com/digital-echoes-and-unquiet-minds"
             },
             {
+                "title": "xAI has acquired X, xAI now valued at $80B",
+                "href": "https://twitter.com/elonmusk/status/1905731750275510312"
+            },
+            {
+                "title": "Optimizing Matrix Multiplication on RDNA3",
+                "href": "https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html"
+            },
+            {
                 "title": "Window cleaner in quest to confirm priceless Shakespeare portrait",
                 "href": "https://www.bbc.com/news/articles/c5yr37nlzv8o"
+            },
+            {
+                "title": "I asked police to send me their public surveillance footage of my car",
+                "href": "https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/"
+            },
+            {
+                "title": "Postgres Language Server: Initial Release",
+                "href": "https://github.com/supabase-community/postgres-language-server"
+            },
+            {
+                "title": "Decomposing a Factorial into Large Factors",
+                "href": "https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/"
+            },
+            {
+                "title": "Show HN: Hexi \u2013 Modern header-only network binary serialisation for C++",
+                "href": "https://github.com/EmberEmu/Hexi"
+            },
+            {
+                "title": "The Biology of B-Movie Monsters (2003)",
+                "href": "https://fathom.lib.uchicago.edu/2/21701757/"
+            },
+            {
+                "title": "Et Tu, Grammarly?",
+                "href": "https://dbushell.com/2025/03/29/et-tu-grammarly/"
+            },
+            {
+                "title": "Finley (YC W21) Is Hiring a Technical Implementations Specialist",
+                "href": "https://ats.rippling.com/finley-technologies/jobs"
             }
         ]
     }
