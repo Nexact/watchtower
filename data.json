@@ -23,12 +23,32 @@
                 "href": "https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html"
             },
             {
+                "title": "Foundation Models and Unix",
+                "href": "https://vagos.github.io/blog/foundation-models-unix.html"
+            },
+            {
+                "title": "SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future",
+                "href": "https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/"
+            },
+            {
                 "title": "An AlphaStation's SROM",
                 "href": "https://www.thejpster.org.uk/blog/blog-2025-03-30/"
             },
             {
+                "title": "Interaction nets",
+                "href": "https://wiki.xxiivv.com/site/interaction_nets.html"
+            },
+            {
                 "title": "Framework 13 AMD Setup with FreeBSD",
                 "href": "https://euroquis.nl/freebsd/2025/03/16/framework.html"
+            },
+            {
+                "title": "Building native packages is complicated",
+                "href": "https://xeiaso.net/blog/2025/anubis-packaging/"
+            },
+            {
+                "title": "Fjall 2.8",
+                "href": "https://fjall-rs.github.io/post/fjall-2-8/"
             },
             {
                 "title": "Baseline implementations should be predictable",
@@ -39,12 +59,12 @@
                 "href": "https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html"
             },
             {
-                "title": "SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future",
-                "href": "https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/"
-            },
-            {
                 "title": "How to borrow memory (2021)",
                 "href": "https://www.falsifian.org/blog/2021/06/04/catalytic/"
+            },
+            {
+                "title": "GNU Octave: Scientific Programming Language",
+                "href": "https://octave.org/index"
             },
             {
                 "title": "Impromptu disaster recovery",
@@ -59,8 +79,8 @@
                 "href": "https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/"
             },
             {
-                "title": "Fjall 2.8",
-                "href": "https://fjall-rs.github.io/post/fjall-2-8/"
+                "title": "French antitrust watchdog fines Apple \u20ac150M for App Tracking Transparency implementation",
+                "href": "https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple"
             },
             {
                 "title": "Warren's Abstract Machine: A Tutorial Reconstruction (1999)",
@@ -81,26 +101,6 @@
             {
                 "title": "Why Do I Run FreeBSD for My Home Servers",
                 "href": "https://aumont.fr/posts/FreeBSD-Home-Server/"
-            },
-            {
-                "title": "Interaction nets",
-                "href": "https://wiki.xxiivv.com/site/interaction_nets.html"
-            },
-            {
-                "title": "Building native packages is complicated",
-                "href": "https://xeiaso.net/blog/2025/anubis-packaging/"
-            },
-            {
-                "title": "Rust on the Ferris Sweep",
-                "href": "https://gabevenberg.com/posts/rmk-ferris-sweep/"
-            },
-            {
-                "title": "French antitrust watchdog fines Apple \u20ac150M for App Tracking Transparency implementation",
-                "href": "https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple"
-            },
-            {
-                "title": "TCRF has been getting DDoSed",
-                "href": "https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Micron Hikes Memory Prices Amid Surging AI Demand",
+                "href": "https://it.slashdot.org/story/25/03/31/1811218/micron-hikes-memory-prices-amid-surging-ai-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft Shutters AI Lab in Shanghai, Signalling a Broader Pullback From China",
                 "href": "https://slashdot.org/story/25/03/31/1724203/microsoft-shutters-ai-lab-in-shanghai-signalling-a-broader-pullback-from-china?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Bloomberg's AI-Generated News Summaries Had At Least 36 Errors Since January",
                 "href": "https://news.slashdot.org/story/25/03/30/1946224/bloombergs-ai-generated-news-summaries-had-at-least-36-errors-since-january?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "How Rust Finally Got a Specification - Thanks to a Consultancy's Open-Source Donation",
-                "href": "https://developers.slashdot.org/story/25/03/30/198218/how-rust-finally-got-a-specification---thanks-to-a-consultancys-open-source-donation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,56 +767,64 @@
                 "href": "https://turso.tech/blog/turso-offline-sync-public-beta"
             },
             {
-                "title": "C and C++ Prioritize Performance over Correctness (2023)",
-                "href": "https://research.swtch.com/ub"
-            },
-            {
                 "title": "Launch HN: Augento (YC W25) \u2013 Fine-tune your agents with reinforcement learning",
                 "href": "item?id=43537505"
-            },
-            {
-                "title": "Distro (YC S24) Is Hiring a Lead Solutions Engineer",
-                "href": "https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer"
-            },
-            {
-                "title": "Debugging Lotus 1-2-3 by fax",
-                "href": "https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html"
-            },
-            {
-                "title": "Oracle attempt to hide serious cybersecurity incident from customers",
-                "href": "https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a"
-            },
-            {
-                "title": "Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison",
-                "href": "https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/"
             },
             {
                 "title": "Automating Interactive Fiction Logic Generation with LLMs in Emacs",
                 "href": "https://blog.tendollaradventure.com/automating-story-logic-with-llms/"
             },
             {
-                "title": "Things I Won't Work With: Dioxygen Difluoride (2010)",
-                "href": "https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride"
+                "title": "Oracle attempt to hide serious cybersecurity incident from customers",
+                "href": "https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a"
             },
             {
                 "title": "Java Minecraft in the Browser",
                 "href": "https://browsercraft.cheerpj.com/"
             },
             {
-                "title": "Back From The Future: 1995's predictions of 2025 life",
-                "href": "https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/"
+                "title": "Distro (YC S24) Is Hiring a Lead Solutions Engineer",
+                "href": "https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer"
+            },
+            {
+                "title": "C and C++ Prioritize Performance over Correctness (2023)",
+                "href": "https://research.swtch.com/ub"
+            },
+            {
+                "title": "Things I Won't Work With: Dioxygen Difluoride (2010)",
+                "href": "https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride"
+            },
+            {
+                "title": "Debugging Lotus 1-2-3 by fax",
+                "href": "https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html"
             },
             {
                 "title": "The <select> element can now be customized with CSS",
                 "href": "https://developer.chrome.com/blog/a-customizable-select"
             },
             {
-                "title": "Compiler Options Hardening Guide for C and C++",
-                "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html"
+                "title": "Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison",
+                "href": "https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/"
             },
             {
                 "title": "Yes, in the 1980s we downloaded games from the radio",
                 "href": "https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/"
+            },
+            {
+                "title": "Compiler Options Hardening Guide for C and C++",
+                "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html"
+            },
+            {
+                "title": "Back From The Future: 1995's predictions of 2025 life",
+                "href": "https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/"
+            },
+            {
+                "title": "France fines Apple \u20ac150M for \"excessive\" pop-ups that let users reject tracking",
+                "href": "https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/"
+            },
+            {
+                "title": "A Man Who Went to Fake Prison Also Went to Real Jail",
+                "href": "https://nymag.com/intelligencer/article/william-banks-comedian-jail.html"
             },
             {
                 "title": "Show HN: I made a C program to create a vanity SHA-1 hash for a text file",
@@ -827,48 +835,40 @@
                 "href": "https://phys.org/news/2025-03-symmetry-quarks-broken.html"
             },
             {
-                "title": "Technical Analysis \u2013 Improper Use of Private iOS APIs in Vietnamese Banking Apps",
-                "href": "https://blog.verichains.io/p/technical-analysis-improper-use-of"
-            },
-            {
-                "title": "How to Secure Existing C and C++ Software Without Memory Safety [pdf]",
-                "href": "https://arxiv.org/abs/2503.21145"
+                "title": "The Average College Student Is Illiterate",
+                "href": "https://www.persuasion.community/p/the-average-college-student-is-illiterate"
             },
             {
                 "title": "How IMAP works under the hood",
                 "href": "https://blog.lohr.dev/imap-introduction"
             },
             {
-                "title": "Analysis of amplified ground motion in Bangkok from recent earthquakes (2023)",
-                "href": "https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0"
+                "title": "How to Secure Existing C and C++ Software Without Memory Safety [pdf]",
+                "href": "https://arxiv.org/abs/2503.21145"
+            },
+            {
+                "title": "Technical Analysis \u2013 Improper Use of Private iOS APIs in Vietnamese Banking Apps",
+                "href": "https://blog.verichains.io/p/technical-analysis-improper-use-of"
+            },
+            {
+                "title": "Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'",
+                "href": "https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/"
             },
             {
                 "title": "Unmasking a slow and steady password spray attack",
                 "href": "https://petrasecurity.substack.com/p/unmasking-a-slow-and-steady-password"
             },
             {
-                "title": "Win98-quickinstall: A framework and installer to quickly install Windows 98",
-                "href": "https://github.com/oerg866/win98-quickinstall"
+                "title": "Analysis of amplified ground motion in Bangkok from recent earthquakes (2023)",
+                "href": "https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0"
             },
             {
                 "title": "One Last Ride for Antarctica's 'Ivan the Terra Bus'",
                 "href": "https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired"
             },
             {
-                "title": "DeepSeek surpasses ChatGPT in new monthly visits",
-                "href": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-surpasses-chatgpt-in-new-monthly-visits-emerges-as-the-fastest-growing-ai-tool-report/articleshow/119754529.cms?from=mdr"
-            },
-            {
-                "title": "Runway Gen-4",
-                "href": "https://runwayml.com/research/introducing-runway-gen-4"
-            },
-            {
-                "title": "ToS;DR",
-                "href": "https://tosdr.org/en"
-            },
-            {
-                "title": "Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'",
-                "href": "https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/"
+                "title": "Win98-quickinstall: A framework and installer to quickly install Windows 98",
+                "href": "https://github.com/oerg866/win98-quickinstall"
             }
         ]
     }
