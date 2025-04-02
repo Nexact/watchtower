@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Grepping logs remains terrible",
-                "href": "https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/"
-            },
-            {
                 "title": "AI ambivalence",
                 "href": "https://nolanlawson.com/2025/04/02/ai-ambivalence/"
+            },
+            {
+                "title": "Grepping logs remains terrible",
+                "href": "https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/"
             },
             {
                 "title": "How crawlers impact the operations of the Wikimedia projects",
@@ -31,6 +31,10 @@
                 "href": "https://github.com/medialab/xan"
             },
             {
+                "title": "Valkey - A new hash table",
+                "href": "https://valkey.io/blog/new-hash-table/"
+            },
+            {
                 "title": "new state of the art turing test: drawing a rubik's cube",
                 "href": "https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2"
             },
@@ -51,8 +55,8 @@
                 "href": "https://sambroner.com/posts/raspberry-pi-train"
             },
             {
-                "title": "Valkey - A new hash table",
-                "href": "https://valkey.io/blog/new-hash-table/"
+                "title": "Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer",
+                "href": "https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u"
             },
             {
                 "title": "Think I implemented a unique feature in my feed reader",
@@ -61,10 +65,6 @@
             {
                 "title": "Fast Compilation or Fast Execution: Just Have Both",
                 "href": "https://cedardb.com/blog/compilation/"
-            },
-            {
-                "title": "Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer",
-                "href": "https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u"
             },
             {
                 "title": "In Defence of Typescript Enums",
@@ -83,6 +83,10 @@
                 "href": "http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html"
             },
             {
+                "title": "Automated deployments: how we made deploying often easy",
+                "href": "https://www.channable.com/tech/automated-deployments"
+            },
+            {
                 "title": "jj-fzf: Text UI for Jujutsu based on fzf",
                 "href": "https://github.com/tim-janik/jj-fzf"
             },
@@ -95,12 +99,8 @@
                 "href": "https://trent.me/articles/pytorch-and-python-free-threading/"
             },
             {
-                "title": "Rockbox 4.0 released",
-                "href": "https://www.rockbox.org/mail/archive//rockbox-archive-2025-04/0000.shtml"
-            },
-            {
-                "title": "More predictable benchmarking with testing.B.Loop",
-                "href": "https://go.dev/blog/testing-b-loop"
+                "title": "A Year of Rust in ClickHouse",
+                "href": "https://clickhouse.com/blog/rust"
             }
         ]
     },
@@ -759,52 +759,60 @@
                 "href": "item?id=43558671"
             },
             {
-                "title": "Animals Made from 13 Circles (2016)",
-                "href": "https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html"
-            },
-            {
                 "title": "Pico.sh (The ultimate SSH powered services for developers)",
                 "href": "https://pico.sh/"
+            },
+            {
+                "title": "Animals Made from 13 Circles (2016)",
+                "href": "https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html"
             },
             {
                 "title": "What, exactly, is an 'AI Agent'? Here's a litmus test",
                 "href": "https://www.tines.com/blog/a-litmus-test-for-ai-agents/"
             },
             {
-                "title": "Digital Archivists: Protecting Public Data from Erasure",
-                "href": "https://spectrum.ieee.org/digital-archive"
+                "title": "What We Knew Without Knowing",
+                "href": "https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing"
             },
             {
-                "title": "UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive",
-                "href": "https://up.codes/careers?utm_source=HN"
+                "title": "Digital Archivists: Protecting Public Data from Erasure",
+                "href": "https://spectrum.ieee.org/digital-archive"
             },
             {
                 "title": "Matrix.org Will Migrate to MAS",
                 "href": "https://matrix.org/blog/2025/04/matrix-auth-service/"
             },
             {
+                "title": "UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive",
+                "href": "https://up.codes/careers?utm_source=HN"
+            },
+            {
+                "title": "Prof. Sussman's Reading List",
+                "href": "http://aurellem.org/thoughts/html/sussman-reading-list.html"
+            },
+            {
                 "title": "When Jorge Luis Borges met one of the founders of AI",
                 "href": "https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of"
-            },
-            {
-                "title": "Waltz's team set up at least 20 Signal group chats for crises across the world",
-                "href": "https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845"
-            },
-            {
-                "title": "Zero Day in Microchip SAM Microcontrollers",
-                "href": "https://wiki.recessim.com/view/ATSAM4C32"
-            },
-            {
-                "title": "How Google built its Gemini robotics models",
-                "href": "https://blog.google/products/gemini/how-we-built-gemini-robotics/"
             },
             {
                 "title": "Show HN: A Chrome extension to give you back control over short-form videos",
                 "href": "https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded"
             },
             {
+                "title": "How Google built its Gemini robotics models",
+                "href": "https://blog.google/products/gemini/how-we-built-gemini-robotics/"
+            },
+            {
+                "title": "Zero Day in Microchip SAM Microcontrollers",
+                "href": "https://wiki.recessim.com/view/ATSAM4C32"
+            },
+            {
                 "title": "Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code",
                 "href": "https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code"
+            },
+            {
+                "title": "Henry James's American Journey",
+                "href": "https://www.chronicle.com/article/henry-jamess-american-journey"
             },
             {
                 "title": "Sailing from Berkeley to Hawaii in a 19ft Sailboat",
@@ -819,8 +827,12 @@
                 "href": "https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365"
             },
             {
-                "title": "Dipping my toes in OpenBSD, in Amsterdam",
-                "href": "https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/"
+                "title": "Waltz's team set up at least 20 Signal group chats for crises across the world",
+                "href": "https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845"
+            },
+            {
+                "title": "TV Garden(Channels from the World)",
+                "href": "https://tv.garden/"
             },
             {
                 "title": "Ask HN: Who is hiring? (April 2025)",
@@ -831,48 +843,36 @@
                 "href": "https://www.culture-critic.com/p/why-is-the-world-losing-color"
             },
             {
-                "title": "Restructuring Announcement",
-                "href": "https://automattic.com/2025/04/02/restructuring-announcement/"
+                "title": "Hacking the Call Records of Millions of Americans via the Verizon iOS app",
+                "href": "https://evanconnelly.github.io/post/hacking-call-records/"
             },
             {
-                "title": "Location data show that race affects citations and fines for speeding",
-                "href": "https://www.science.org/doi/10.1126/science.adp5357"
+                "title": "In the Matter of the Commas",
+                "href": "https://theamericanscholar.org/in-the-matter-of-the-commas/"
+            },
+            {
+                "title": "Dipping my toes in OpenBSD, in Amsterdam",
+                "href": "https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/"
             },
             {
                 "title": "Porting Tailscale to Plan 9",
                 "href": "https://tailscale.com/blog/plan9-port"
             },
             {
-                "title": "Hacking the Call Records of Millions of Americans via the Verizon iOS app",
-                "href": "https://evanconnelly.github.io/post/hacking-call-records/"
+                "title": "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
+                "href": "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
             },
             {
                 "title": "PaperBench",
                 "href": "https://openai.com/index/paperbench"
             },
             {
-                "title": "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
-                "href": "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
-            },
-            {
                 "title": "Ace: Realtime Computer Autopilot",
                 "href": "https://generalagents.com/ace/"
             },
             {
-                "title": "Prolog planner generation prompting guide",
-                "href": "https://quantumprolog.sgml.net/llm-demo/part1.html#prolog-planner-generation-prompting-guide"
-            },
-            {
                 "title": "Stop syncing everything",
                 "href": "https://sqlsync.dev/posts/stop-syncing-everything/"
-            },
-            {
-                "title": "Item Flow, Part 1: A new unified concept for layout",
-                "href": "https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/"
-            },
-            {
-                "title": "Certification Authority/Browser Forum adopts new security standards",
-                "href": "https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html"
             }
         ]
     }
