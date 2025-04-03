@@ -27,16 +27,20 @@
                 "href": "https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons"
             },
             {
-                "title": "InitWare: systemd-like fork for BSDs",
-                "href": "https://github.com/InitWare/InitWare"
-            },
-            {
                 "title": "Minimal CSS-only blurry image placeholders",
                 "href": "https://leanrada.com/notes/css-only-lqip/"
             },
             {
+                "title": "InitWare: systemd-like fork for BSDs",
+                "href": "https://github.com/InitWare/InitWare"
+            },
+            {
                 "title": "AI ambivalence",
                 "href": "https://nolanlawson.com/2025/04/02/ai-ambivalence/"
+            },
+            {
+                "title": "regname: Mass renamer TUI written in Rust",
+                "href": "https://github.com/linkdd/regname"
             },
             {
                 "title": "Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)",
@@ -51,28 +55,24 @@
                 "href": "https://leanrada.com/notes/vanilla-web-rewrite/"
             },
             {
-                "title": "regname: Mass renamer TUI written in Rust",
-                "href": "https://github.com/linkdd/regname"
-            },
-            {
                 "title": "Overengineered anchor links",
                 "href": "https://thirty-five.com/overengineered-anchoring"
-            },
-            {
-                "title": "How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)",
-                "href": "https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure"
-            },
-            {
-                "title": "Celebrate 50 years of Microsoft with the company's original source code",
-                "href": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED"
             },
             {
                 "title": "Nix that looks like Bazel",
                 "href": "https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel"
             },
             {
+                "title": "How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)",
+                "href": "https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure"
+            },
+            {
                 "title": "Why we decided to go for the Big Rewrite (2019)",
                 "href": "https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite"
+            },
+            {
+                "title": "Celebrate 50 years of Microsoft with the company's original source code",
+                "href": "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED"
             },
             {
                 "title": "Grepping logs remains terrible",
@@ -120,8 +120,8 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1jqp7jt/intercepting_macos_xpc/"
             },
             {
-                "title": "New Threat and Vulnerability Intelligence Database",
-                "href": "https://old.reddit.com/r/netsec/comments/1jqcfc0/new_threat_and_vulnerability_intelligence_database/"
+                "title": "Talk To Your Malware - Integrating AI Capability in an Open-Source C2 Agent",
+                "href": "https://old.reddit.com/r/netsec/comments/1jqvwwr/talk_to_your_malware_integrating_ai_capability_in/"
             },
             {
                 "title": "Hacking the Call Records of Millions of Americans",
@@ -130,6 +130,10 @@
             {
                 "title": "Finding an Unauthenticated RCE nday in Zendto, patched quietly in 2021. Lots of vulnerable instances exposed to the internet.",
                 "href": "https://old.reddit.com/r/netsec/comments/1jq10k0/finding_an_unauthenticated_rce_nday_in_zendto/"
+            },
+            {
+                "title": "New Threat and Vulnerability Intelligence Database",
+                "href": "https://old.reddit.com/r/netsec/comments/1jqcfc0/new_threat_and_vulnerability_intelligence_database/"
             },
             {
                 "title": "Loose Types Sink Ships: Pre-Authentication SQL Injection in Halo ITSM",
@@ -206,10 +210,6 @@
             {
                 "title": "Remote Code Execution Vulnerabilities in Ingress NGINX",
                 "href": "https://old.reddit.com/r/netsec/comments/1jjhgfn/remote_code_execution_vulnerabilities_in_ingress/"
-            },
-            {
-                "title": "CVE-2024-55963: Unauthenticated RCE in Default-Install of Appsmith",
-                "href": "https://old.reddit.com/r/netsec/comments/1jjnjam/cve202455963_unauthenticated_rce_in/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft's Miniature Windows 365 Link PC Goes On Sale",
+                "href": "https://tech.slashdot.org/story/25/04/03/2143251/microsofts-miniature-windows-365-link-pc-goes-on-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Oracle Tells Clients of Second Recent Hack, Log-In Data Stolen",
                 "href": "https://developers.slashdot.org/story/25/04/03/198224/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Five VPN Apps In the App Store Had Links To Chinese Military",
                 "href": "https://tech.slashdot.org/story/25/04/02/236215/five-vpn-apps-in-the-app-store-had-links-to-chinese-military?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Anthropic Launches an AI Chatbot Plan For Colleges and Universities",
-                "href": "https://news.slashdot.org/story/25/04/02/232215/anthropic-launches-an-ai-chatbot-plan-for-colleges-and-universities?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,64 +759,56 @@
                 "href": "https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer"
             },
             {
-                "title": "Curl-impersonate: Special build of curl that can impersonate the major browsers",
-                "href": "https://github.com/lwthiker/curl-impersonate"
-            },
-            {
-                "title": "Overengineered Anchor Links",
-                "href": "https://thirty-five.com/overengineered-anchoring"
-            },
-            {
-                "title": "Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day",
-                "href": "https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day"
-            },
-            {
-                "title": "The cultural evolution of distortion in music",
-                "href": "https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014"
-            },
-            {
                 "title": "AI cheats: Why you didn't notice your teammate was cheating",
                 "href": "https://niila.fi/en/ai-cheats/"
             },
             {
-                "title": "Aviator (YC S21) is hiring engineers to build AI DevEx platform",
-                "href": "https://www.ycombinator.com/companies/aviator/jobs"
+                "title": "Was Houdini a Spy? (2021)",
+                "href": "https://www.cia.gov/stories/story/was-houdini-a-spy/"
             },
             {
-                "title": "Senior Developer Skills in the AI Age",
-                "href": "https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/"
+                "title": "Celebrate 50 years of Microsoft with the company's original source code",
+                "href": "https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code"
             },
             {
-                "title": "New nanoparticle therapies target two major killers",
-                "href": "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers"
-            },
-            {
-                "title": "Reasoning models don't always say what they think",
-                "href": "https://www.anthropic.com/research/reasoning-models-dont-say-think"
-            },
-            {
-                "title": "Show HN: GitMCP is an automatic MCP server for every GitHub repo",
-                "href": "https://gitmcp.io/"
-            },
-            {
-                "title": "Installing AIX PS/2 v1.3 on a 486",
-                "href": "https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/"
-            },
-            {
-                "title": "How Servo Motors Work",
-                "href": "https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html"
+                "title": "Curl-impersonate: Special build of curl that can impersonate the major browsers",
+                "href": "https://github.com/lwthiker/curl-impersonate"
             },
             {
                 "title": "Supervisors often prefer rule breakers, up to a point",
                 "href": "https://journals.aom.org/doi/10.5465/amd.2022.0280.summary"
             },
             {
-                "title": "AnimeJs v4 Is Here",
-                "href": "https://animejs.com/"
+                "title": "Overengineered Anchor Links",
+                "href": "https://thirty-five.com/overengineered-anchoring"
             },
             {
-                "title": "InitWare, a portable systemd fork running on BSDs and Linux",
-                "href": "https://github.com/InitWare/InitWare"
+                "title": "Aviator (YC S21) is hiring engineers to build AI DevEx platform",
+                "href": "https://www.ycombinator.com/companies/aviator/jobs"
+            },
+            {
+                "title": "The cultural evolution of distortion in music",
+                "href": "https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014"
+            },
+            {
+                "title": "New nanoparticle therapies target two major killers",
+                "href": "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers"
+            },
+            {
+                "title": "Senior Developer Skills in the AI Age",
+                "href": "https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/"
+            },
+            {
+                "title": "Show HN: Slipstream - a python library for stateful stream processing",
+                "href": "https://slipstream.readthedocs.io/en/1.0.1/"
+            },
+            {
+                "title": "Reasoning models don't always say what they think",
+                "href": "https://www.anthropic.com/research/reasoning-models-dont-say-think"
+            },
+            {
+                "title": "How Servo Motors Work",
+                "href": "https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html"
             },
             {
                 "title": "Show HN: Hatchet v1 \u2013 a task orchestration platform built on Postgres",
@@ -827,12 +819,36 @@
                 "href": "https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/"
             },
             {
+                "title": "Show HN: GitMCP is an automatic MCP server for every GitHub repo",
+                "href": "https://gitmcp.io/"
+            },
+            {
+                "title": "AnimeJs v4 Is Here",
+                "href": "https://animejs.com/"
+            },
+            {
+                "title": "The Slow Collapse of Critical Thinking in OSINT Due to AI",
+                "href": "https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai"
+            },
+            {
                 "title": "A university president makes a case against cowardice",
                 "href": "https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice"
             },
             {
+                "title": "The Mainframe Vocabulary Problem (and Why It Matters)",
+                "href": "https://mainframesociety.com/news/2588640"
+            },
+            {
+                "title": "InitWare, a portable systemd fork running on BSDs and Linux",
+                "href": "https://github.com/InitWare/InitWare"
+            },
+            {
                 "title": "AI 2027",
                 "href": "https://ai-2027.com/"
+            },
+            {
+                "title": "Show HN: Monkeys.zip \u2013 3000 Monkeys on Typewriters",
+                "href": "https://monkeys.zip/"
             },
             {
                 "title": "John Cage recital set to last 639 years recently witnessed a chord change",
@@ -847,32 +863,16 @@
                 "href": "https://github.com/ConduitIO/benchi"
             },
             {
-                "title": "Show HN: Monkeys.zip \u2013 3000 Monkeys on Typewriters",
-                "href": "https://monkeys.zip/"
-            },
-            {
-                "title": "Show HN: Offline JavaScript PubSub between browser tabs",
-                "href": "https://simon-frey.com/tabsub/"
-            },
-            {
                 "title": "Show HN: Zxc \u2013 Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative",
                 "href": "https://github.com/hail-hydrant/zxc"
-            },
-            {
-                "title": "Showcase: Working on a voice/text chat app in a cyberpunk style",
-                "href": "https://static.mollohq.com/molly-0.0.1-showcase.mp4"
             },
             {
                 "title": "Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline",
                 "href": "https://github.com/luskaner/ageLANServer"
             },
             {
-                "title": "Declarative Web Push",
-                "href": "https://webkit.org/blog/16535/meet-declarative-web-push/"
-            },
-            {
-                "title": "An open source, self-hosted implementation of the Tailscale control server",
-                "href": "https://github.com/juanfont/headscale"
+                "title": "Showcase: Working on a voice/text chat app in a cyberpunk style",
+                "href": "https://static.mollohq.com/molly-0.0.1-showcase.mp4"
             }
         ]
     }
