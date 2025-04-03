@@ -11,12 +11,12 @@
                 "href": "https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u"
             },
             {
-                "title": "Announcing Rust 1.86.0",
-                "href": "https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html"
-            },
-            {
                 "title": "Introducing Nix Ninja \u2013 open-source Ninja-compatible build system for Nix",
                 "href": "https://github.com/pdtpartners/nix-ninja"
+            },
+            {
+                "title": "Announcing Rust 1.86.0",
+                "href": "https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html"
             },
             {
                 "title": "AI ambivalence",
@@ -39,16 +39,16 @@
                 "href": "https://github.com/InitWare/InitWare"
             },
             {
+                "title": "Why we are still using 88x31 buttons",
+                "href": "https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons"
+            },
+            {
                 "title": "Grepping logs remains terrible",
                 "href": "https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/"
             },
             {
                 "title": "Overengineered anchor links",
                 "href": "https://thirty-five.com/overengineered-anchoring"
-            },
-            {
-                "title": "Why we are still using 88x31 buttons",
-                "href": "https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons"
             },
             {
                 "title": "How crawlers impact the operations of the Wikimedia projects",
@@ -75,6 +75,10 @@
                 "href": "https://github.com/linkdd/regname"
             },
             {
+                "title": "Fast(er) binary search in Rust",
+                "href": "https://www.bazhenov.me/posts/faster-binary-search-in-rust/"
+            },
+            {
                 "title": "DST for async Rust",
                 "href": "https://s2.dev/blog/dst"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "How does async Rust work (2023)",
                 "href": "https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html"
-            },
-            {
-                "title": "Deadlock-free Mutexes and Directed Acyclic Graphs (2022)",
-                "href": "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
             }
         ]
     },
@@ -767,40 +767,48 @@
                 "href": "https://github.com/lwthiker/curl-impersonate"
             },
             {
+                "title": "Declarative Web Push \u2013 WebKit",
+                "href": "https://webkit.org/blog/16535/meet-declarative-web-push/"
+            },
+            {
+                "title": "An automatic MCP server for every GitHub repo",
+                "href": "https://gitmcp.io/"
+            },
+            {
+                "title": "2025 Recession Indicators Hit Fashion and Wall Street at Once",
+                "href": "https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/"
+            },
+            {
+                "title": "Declarative Schemas for simpler database management",
+                "href": "https://supabase.com/blog/declarative-schemas"
+            },
+            {
                 "title": "InitWare, a portable systemd fork running on BSDs and Linux",
                 "href": "https://github.com/InitWare/InitWare"
-            },
-            {
-                "title": "I maintain a 17 year old ThinkPad",
-                "href": "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/"
-            },
-            {
-                "title": "Show HN: The C3 programming language (C alternative language)",
-                "href": "https://github.com/c3lang/c3c"
-            },
-            {
-                "title": "Show HN: Zxc \u2013 Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative",
-                "href": "https://github.com/hail-hydrant/zxc"
-            },
-            {
-                "title": "An AlphaStation's SROM",
-                "href": "https://thejpster.org.uk/blog/blog-2025-03-30/"
             },
             {
                 "title": "Onyx (YC W24) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer"
             },
             {
-                "title": "Show HN: Benchi \u2013 A benchmarking tool written in Go",
-                "href": "https://github.com/ConduitIO/benchi"
-            },
-            {
-                "title": "Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)",
-                "href": "https://publicdomainreview.org/collection/cameramans-revenge/"
+                "title": "I maintain a 17 year old ThinkPad",
+                "href": "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/"
             },
             {
                 "title": "AnimeJs v4 Is Here",
                 "href": "https://animejs.com/"
+            },
+            {
+                "title": "Show HN: The C3 programming language (C alternative language)",
+                "href": "https://github.com/c3lang/c3c"
+            },
+            {
+                "title": "Show HN: Benchi \u2013 A benchmarking tool written in Go",
+                "href": "https://github.com/ConduitIO/benchi"
+            },
+            {
+                "title": "Show HN: Zxc \u2013 Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative",
+                "href": "https://github.com/hail-hydrant/zxc"
             },
             {
                 "title": "Show HN: Offline JavaScript PubSub between browser tabs",
@@ -811,28 +819,32 @@
                 "href": "https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/"
             },
             {
-                "title": "Show HN: OpenNutrition \u2013 A free, public nutrition database",
-                "href": "https://www.opennutrition.app/search"
+                "title": "Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)",
+                "href": "https://publicdomainreview.org/collection/cameramans-revenge/"
+            },
+            {
+                "title": "Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in",
+                "href": "item?id=43570749"
+            },
+            {
+                "title": "An AlphaStation's SROM",
+                "href": "https://thejpster.org.uk/blog/blog-2025-03-30/"
             },
             {
                 "title": "Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline",
                 "href": "https://github.com/luskaner/ageLANServer"
             },
             {
-                "title": "Declarative Schemas for simpler database management",
-                "href": "https://supabase.com/blog/declarative-schemas"
+                "title": "Show HN: OpenNutrition \u2013 A free, public nutrition database",
+                "href": "https://www.opennutrition.app/search"
+            },
+            {
+                "title": "Showcase: Working on a voice/text chat app in a cyberpunk style",
+                "href": "https://static.mollohq.com/molly-0.0.1-showcase.mp4"
             },
             {
                 "title": "An open source, self-hosted implementation of the Tailscale control server",
                 "href": "https://github.com/juanfont/headscale"
-            },
-            {
-                "title": "Declarative Web Push \u2013 WebKit",
-                "href": "https://webkit.org/blog/16535/meet-declarative-web-push/"
-            },
-            {
-                "title": "Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in",
-                "href": "item?id=43570749"
             },
             {
                 "title": "Pico.sh \u2013 SSH powered services for developers",
@@ -859,20 +871,8 @@
                 "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html"
             },
             {
-                "title": "Showcase: Working on a voice/text chat app in a cyberpunk style",
-                "href": "https://static.mollohq.com/molly-0.0.1-showcase.mp4"
-            },
-            {
                 "title": "Animals Made from 13 Circles (2016)",
                 "href": "https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html"
-            },
-            {
-                "title": "AI/Math Puzzle",
-                "href": "https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/"
-            },
-            {
-                "title": "MIT 6.5950 Secure Hardware Design \u2013 An open-source course on hardware attacks",
-                "href": "https://shd.mit.edu/home/"
             }
         ]
     }
