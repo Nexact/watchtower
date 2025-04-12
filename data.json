@@ -27,6 +27,14 @@
                 "href": "https://lwn.net/Articles/1014979/"
             },
             {
+                "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
+                "href": "https://simonwillison.net/2025/Apr/11/camel/"
+            },
+            {
+                "title": "Golang sync.Pool is not a silver bullet",
+                "href": "https://wundergraph.com/blog/golang-sync-pool"
+            },
+            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend"
             },
@@ -43,16 +51,16 @@
                 "href": "https://www.brautaset.org/posts/yaml-exponent-problem.html"
             },
             {
-                "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
-                "href": "https://simonwillison.net/2025/Apr/11/camel/"
-            },
-            {
                 "title": "Usb-C and its overengineered history",
                 "href": "https://www.youtube.com/watch?v=yqL-MEQ9HQ8"
             },
             {
                 "title": "Bilinear interpolation on a quadrilateral using Barycentric coordinates",
                 "href": "https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/"
+            },
+            {
+                "title": "How git cherry-pick and revert use 3-way merge",
+                "href": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/"
             },
             {
                 "title": "Simulating Some Queues",
@@ -67,16 +75,16 @@
                 "href": "https://www.paulox.net/2025/04/11/maps-with-django-part-3-geodjango-pillow-and-gps/"
             },
             {
-                "title": "Golang sync.Pool is not a silver bullet",
-                "href": "https://wundergraph.com/blog/golang-sync-pool"
-            },
-            {
                 "title": "12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers",
                 "href": "https://github.com/humanlayer/12-factor-agents"
             },
             {
-                "title": "How git cherry-pick and revert use 3-way merge",
-                "href": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/"
+                "title": "Datastar - The hypermedia framework",
+                "href": "https://data-star.dev/"
+            },
+            {
+                "title": "Real-time visualisation of London Underground Trains",
+                "href": "https://www.londonunderground.live/"
             },
             {
                 "title": "Low cost, high speed data acquisition over HDMI",
@@ -87,20 +95,12 @@
                 "href": "https://www.youtube.com/watch?v=0y7IFUYUTgg"
             },
             {
-                "title": "Real-time visualisation of London Underground Trains",
-                "href": "https://www.londonunderground.live/"
-            },
-            {
                 "title": "cargo-mutants: :zombie: Inject bugs and see if your tests catch them",
                 "href": "https://github.com/sourcefrog/cargo-mutants"
             },
             {
                 "title": "SQL pie chart (2009)",
                 "href": "https://code.openark.org/blog/mysql/sql-pie-chart"
-            },
-            {
-                "title": "Taking out the Trash: Garbage Collection of Object Storage at Massive Scale",
-                "href": "https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Ex-OpenAI Staffers File Amicus Brief Opposing the Company's For-Profit Transition",
+                "href": "https://slashdot.org/story/25/04/12/010247/ex-openai-staffers-file-amicus-brief-opposing-the-companys-for-profit-transition?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Air Travel Set for Biggest Overhaul in 50 Years With UN-Backed Digital Credentials",
                 "href": "https://tech.slashdot.org/story/25/04/11/2158204/air-travel-set-for-biggest-overhaul-in-50-years-with-un-backed-digital-credentials?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Russian Cable Attacks 'Threaten To Cut Off World's Internet'",
                 "href": "https://tech.slashdot.org/story/25/04/11/0245251/russian-cable-attacks-threaten-to-cut-off-worlds-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microsoft is About To Launch Recall For Real This Time",
-                "href": "https://it.slashdot.org/story/25/04/11/0143227/microsoft-is-about-to-launch-recall-for-real-this-time?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,92 +759,108 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "A 32-bit processor made with an atomically thin semiconductor",
-                "href": "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/"
-            },
-            {
-                "title": "A recent study suggests that insects branched out from crustaceans",
-                "href": "https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/"
-            },
-            {
-                "title": "Once lush Sahara was home to a surprisingly unique group of humans",
-                "href": "https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans"
-            },
-            {
                 "title": "You might not need WebSockets",
                 "href": "https://hntrl.io/posts/you-dont-need-websockets/"
+            },
+            {
+                "title": "Dev Tools Honeytrap: Why We Can't Stop Building Tools Nobody Buys",
+                "href": "https://substack.com/home/post/p-161145826"
+            },
+            {
+                "title": "A 32-bit processor made with an atomically thin semiconductor",
+                "href": "https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/"
             },
             {
                 "title": "Fedora change aims for 99% package reproducibility",
                 "href": "https://lwn.net/Articles/1014979/"
             },
             {
-                "title": "Blue Prince is a roguelike puzzle masterpiece",
-                "href": "https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/"
+                "title": "Once lush Sahara was home to a surprisingly unique group of humans",
+                "href": "https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans"
             },
             {
                 "title": "Erlang's not about lightweight processes and message passing (2023)",
                 "href": "https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html"
             },
             {
-                "title": "Datastar: Web Framework for the Future?",
-                "href": "https://chrismalek.me/posts/data-star-first-impressions/"
+                "title": "Blue Prince is a roguelike puzzle masterpiece",
+                "href": "https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/"
             },
             {
-                "title": "Key principles on in-game virtual currencies in the EU",
-                "href": "https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies"
+                "title": "A recent study suggests that insects branched out from crustaceans",
+                "href": "https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/"
             },
             {
                 "title": "Intentionally Making Close Friends (2021)",
                 "href": "https://www.neelnanda.io/blog/43-making-friends"
             },
             {
-                "title": "Modern 6502",
-                "href": "https://www.mikekohn.net/micro/modern_6502.php"
+                "title": "AI Coding and the Peanut Butter and Jelly Problem",
+                "href": "https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and"
             },
             {
-                "title": "Bilinear interpolation on a quadrilateral using Barycentric coordinates",
-                "href": "https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/"
+                "title": "Datastar: Web Framework for the Future?",
+                "href": "https://chrismalek.me/posts/data-star-first-impressions/"
             },
             {
                 "title": "Adobe deletes Bluesky posts after backlash",
                 "href": "https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/"
             },
             {
-                "title": "Bonobos use a kind of syntax once thought to be unique to humans",
-                "href": "https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/"
+                "title": "Key principles on in-game virtual currencies in the EU",
+                "href": "https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies"
             },
             {
-                "title": "AI Coding and the Peanut Butter and Jelly Problem",
-                "href": "https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and"
+                "title": "Bilinear interpolation on a quadrilateral using Barycentric coordinates",
+                "href": "https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/"
+            },
+            {
+                "title": "Modern 6502",
+                "href": "https://www.mikekohn.net/micro/modern_6502.php"
+            },
+            {
+                "title": "Bonobos use a kind of syntax once thought to be unique to humans",
+                "href": "https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/"
             },
             {
                 "title": "Why I Program in Lisp",
                 "href": "http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html"
             },
             {
+                "title": "Vacheron Constantin breaks the world record for most complicated wristwatch",
+                "href": "https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria"
+            },
+            {
                 "title": "But what if I want a faster horse?",
                 "href": "https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse"
             },
             {
-                "title": "Live Map of the London Underground",
-                "href": "https://www.londonunderground.live/"
-            },
-            {
-                "title": "Mosaic (YC W25) is building a general purpose agent for video editing",
-                "href": "https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer"
+                "title": "Pinball Brothers \u2013 A Swedish-Italian Pinball Company",
+                "href": "https://www.pinballbrothers.com/"
             },
             {
                 "title": "Leaked Meta data reveals campaign to remove pro-Palestine posts",
                 "href": "https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta"
             },
             {
-                "title": "WebRTC for the Curious",
-                "href": "https://webrtcforthecurious.com"
+                "title": "Mosaic (YC W25) is building a general purpose agent for video editing",
+                "href": "https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer"
             },
             {
                 "title": "Lead is still bad for your brain",
                 "href": "https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/"
+            },
+            {
+                "title": "WebRTC for the Curious",
+                "href": "https://webrtcforthecurious.com"
+            },
+            {
+                "title": "Windows 2000 Server named peak Microsoft",
+                "href": "https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/"
+            },
+            {
+                "title": "PyReason: Explainable inference for annotated, real valued, graph based and tem",
+                "href": "https://github.com/lab-v2/pyreason"
             },
             {
                 "title": "Strengths Are Your Weaknesses",
@@ -855,28 +871,12 @@
                 "href": "https://github.com/Rust-GPU/Rust-CUDA"
             },
             {
-                "title": "Windows 2000 Server named peak Microsoft",
-                "href": "https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/"
-            },
-            {
-                "title": "This Bench Does Not Exist",
-                "href": "https://doesnotexist.openbenches.org/"
-            },
-            {
-                "title": "Our New AI Website Builder",
-                "href": "https://wordpress.com/blog/2025/04/09/ai-website-builder/"
-            },
-            {
-                "title": "Playing in the Creek",
-                "href": "https://www.hgreer.com/PlayingInTheCreek/"
+                "title": "Firecracker Entropy for VM Clones",
+                "href": "https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/random-for-clones.md"
             },
             {
                 "title": "The PS3 Licked the Many Cookie",
                 "href": "https://darkcephas.github.io/ps3_failed/ps3_failed.html"
-            },
-            {
-                "title": "RFK Jr says Deep State 'is real,' called FDA employees 'sock puppet' of industry",
-                "href": "https://www.politico.com/news/2025/04/11/rfk-jr-hhs-fda-deep-state-00286826"
             }
         ]
     }
