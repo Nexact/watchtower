@@ -15,12 +15,16 @@
                 "href": "https://protesilaos.com/emacs/emacs-lisp-elements"
             },
             {
-                "title": "Python Performance: Why 'if not list' is 2x Faster Than Using len()",
-                "href": "https://blog.codingconfessions.com/p/python-performance-why-if-not-list"
+                "title": "Speeding up Terraform caching with OverlayFS",
+                "href": "https://www.bejarano.io/terraform-overlayfs/"
             },
             {
                 "title": "BPS is a GPS alternative that nobody's heard of",
                 "href": "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard"
+            },
+            {
+                "title": "Python Performance: Why 'if not list' is 2x Faster Than Using len()",
+                "href": "https://blog.codingconfessions.com/p/python-performance-why-if-not-list"
             },
             {
                 "title": "Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate",
@@ -31,20 +35,16 @@
                 "href": "https://gamesbymason.com/blog/2025/zcs/"
             },
             {
-                "title": "Speeding up Terraform caching with OverlayFS",
-                "href": "https://www.bejarano.io/terraform-overlayfs/"
-            },
-            {
                 "title": "The 5 Levels of Configuration Languages",
                 "href": "https://beza1e1.tuxen.de/config_levels.html"
             },
             {
-                "title": "cl-yasboi: Yet Another Starter Boilerplate for Common Lisp",
-                "href": "https://github.com/sebastiancarlos/cl-yasboi"
-            },
-            {
                 "title": "Nix Trigonometric Math Library from Ground Zero",
                 "href": "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
+            },
+            {
+                "title": "cl-yasboi: Yet Another Starter Boilerplate for Common Lisp",
+                "href": "https://github.com/sebastiancarlos/cl-yasboi"
             },
             {
                 "title": "RNG and Cosine in Nix",
@@ -79,6 +79,10 @@
                 "href": "https://www.azabani.com/2025/04/11/generative-ai-in-servo.html"
             },
             {
+                "title": "TrueSkill 2: An improved Bayesian skill rating system",
+                "href": "https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/"
+            },
+            {
                 "title": "CORE-MATH: high performance open-source mathematical functions with correct rounding",
                 "href": "https://core-math.gitlabpages.inria.fr/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "My Cloudflare R2 has been blocked from LaLiga (Spain football league), is it even legal?",
                 "href": "https://lobste.rs/s/uetrpm/my_cloudflare_r2_has_been_blocked_from"
-            },
-            {
-                "title": "Natural Language Is Now the Only No-Code Tool That Matters",
-                "href": "https://www.xfaang.com/blog/Natural-Language-Is-Now-the-Only-No-Code-Tool-That-Matters/slvrJ005SjSnDqnIIfeVX"
             }
         ]
     },
@@ -763,40 +763,56 @@
                 "href": "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson"
             },
             {
-                "title": "Whenever \u2013 typed and DST-safe datetimes for Python",
-                "href": "https://github.com/ariebovenberg/whenever"
-            },
-            {
                 "title": "Wasting Inferences with Aider",
                 "href": "https://worksonmymachine.substack.com/p/wasting-inferences-with-aider"
+            },
+            {
+                "title": "Whenever \u2013 typed and DST-safe datetimes for Python",
+                "href": "https://github.com/ariebovenberg/whenever"
             },
             {
                 "title": "Philip K. Dick: Stanis\u0142aw Lem Is a Communist Committee",
                 "href": "https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee"
             },
             {
+                "title": "Cargo-mutants:zombie: Inject bugs and see if your tests catch them",
+                "href": "https://github.com/sourcefrog/cargo-mutants"
+            },
+            {
+                "title": "Using bad hardware: why I work in the terminal (2024)",
+                "href": "https://colean.cc/journal/2024/08sep.html"
+            },
+            {
                 "title": "BPS is a GPS alternative that nobody's heard of",
                 "href": "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard"
-            },
-            {
-                "title": "Show HN: Chonky \u2013 a neural approach for text semantic chunking",
-                "href": "https://github.com/mirth/chonky"
-            },
-            {
-                "title": "Nice things with SVG",
-                "href": "https://fuma-nama.vercel.app/blog/svg-art"
             },
             {
                 "title": "Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing",
                 "href": "https://www.computesgazette.com/"
             },
             {
+                "title": "US tech tariff exemption may only be temporary, says Lutnick",
+                "href": "https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b"
+            },
+            {
+                "title": "Show HN: Chonky \u2013 a neural approach for text semantic chunking",
+                "href": "https://github.com/mirth/chonky"
+            },
+            {
                 "title": "AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]",
                 "href": "https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf"
             },
             {
-                "title": "Half the men in Seattle are never-married singles, census data shows",
-                "href": "https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/"
+                "title": "Nice things with SVG",
+                "href": "https://fuma-nama.vercel.app/blog/svg-art"
+            },
+            {
+                "title": "Nominal Aphasia: Problems in Name Retrieval",
+                "href": "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval"
+            },
+            {
+                "title": "Telling the Bees",
+                "href": "https://emergencemagazine.org/essay/telling-the-bees/"
             },
             {
                 "title": "WebTUI \u2013 A CSS Library That Brings the Beauty of Terminal UIs to the Browser",
@@ -807,12 +823,16 @@
                 "href": "https://grapheneos.social/@GrapheneOS/114327666433966529"
             },
             {
-                "title": "Nominal Aphasia: Problems in Name Retrieval",
-                "href": "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval"
+                "title": "Making SNES ROMs using C#",
+                "href": "https://www.reddit.com/r/dotnet/s/fhm4TUNhlX"
             },
             {
-                "title": "Telling the Bees",
-                "href": "https://emergencemagazine.org/essay/telling-the-bees/"
+                "title": "How I install personal versions of programs on Unix",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup"
+            },
+            {
+                "title": "Half the men in Seattle are never-married singles, census data shows",
+                "href": "https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/"
             },
             {
                 "title": "How to not build a two stage model rocket",
@@ -827,16 +847,12 @@
                 "href": "https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened"
             },
             {
-                "title": "Making SNES ROMs using C#",
-                "href": "https://www.reddit.com/r/dotnet/s/fhm4TUNhlX"
-            },
-            {
                 "title": "Open source and self hostable/private file converter",
                 "href": "https://vert.sh"
             },
             {
-                "title": "How I install personal versions of programs on Unix",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup"
+                "title": "RNA interference and nanomedicine team up to fight dangerous fungal infections",
+                "href": "https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html"
             },
             {
                 "title": "Cross-Entropy and KL Divergence",
@@ -847,36 +863,20 @@
                 "href": "https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/"
             },
             {
-                "title": "RNA interference and nanomedicine team up to fight dangerous fungal infections",
-                "href": "https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html"
-            },
-            {
                 "title": "Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode",
                 "href": "https://gitea.bubbletea.dev/shibao/memex"
+            },
+            {
+                "title": "The rise of end times fascism",
+                "href": "https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk"
             },
             {
                 "title": "A Farewell to the ArcoLinux University",
                 "href": "https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/"
             },
             {
-                "title": "YAML: The Norway Problem (2022)",
-                "href": "https://www.bram.us/2022/01/11/yaml-the-norway-problem/"
-            },
-            {
-                "title": "CERN releases report on the feasibility of a possible Future Circular Collider",
-                "href": "https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider"
-            },
-            {
                 "title": "Osprey \u2013 Browser extension that protects you from malicious websites",
                 "href": "https://github.com/Foulest/Osprey"
-            },
-            {
-                "title": "The Bitter Prediction",
-                "href": "https://4zm.org/2025/04/05/bitter-prediction.html"
-            },
-            {
-                "title": "ArkType: Ergonomic TS validator 100x faster than Zod",
-                "href": "https://arktype.io/"
             }
         ]
     }
