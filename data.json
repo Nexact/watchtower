@@ -15,12 +15,12 @@
                 "href": "https://lobste.rs/s/t788y0/what_are_you_doing_this_week"
             },
             {
-                "title": "Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?",
-                "href": "https://hackers.pub/@hongminhee/2025/why-use-fedify"
-            },
-            {
                 "title": "Zig's new LinkedList API (it's time to learn @fieldParentPtr)",
                 "href": "https://www.openmymind.net/Zigs-New-LinkedList-API/"
+            },
+            {
+                "title": "Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?",
+                "href": "https://hackers.pub/@hongminhee/2025/why-use-fedify"
             },
             {
                 "title": "I bought a Mac",
@@ -35,36 +35,20 @@
                 "href": "https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html"
             },
             {
+                "title": "C++20 idioms for parameter packs",
+                "href": "https://www.scs.stanford.edu/~dm/blog/param-pack.html"
+            },
+            {
+                "title": "The Post-Developer Era",
+                "href": "https://www.joshwcomeau.com/blog/the-post-developer-era/"
+            },
+            {
                 "title": "Anubis works",
                 "href": "https://xeiaso.net/notes/2025/anubis-works/"
             },
             {
                 "title": "An E-Ink PDA device using the ESP32 S3",
                 "href": "https://github.com/ashtf8/EinkPDA"
-            },
-            {
-                "title": "An Ars Technica history of the Internet, part 1",
-                "href": "https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/"
-            },
-            {
-                "title": "htmx Documentation - Caching",
-                "href": "https://htmx.org/docs/#caching"
-            },
-            {
-                "title": "no-panic: Attribute macro to require that the compiler prove a function can't ever panic",
-                "href": "https://github.com/dtolnay/no-panic"
-            },
-            {
-                "title": "git-remote-http is linked against incompatibly licensed OpenSSL",
-                "href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969"
-            },
-            {
-                "title": "A Visual Journey Through Async Rust",
-                "href": "https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md"
-            },
-            {
-                "title": "C++20 idioms for parameter packs",
-                "href": "https://www.scs.stanford.edu/~dm/blog/param-pack.html"
             },
             {
                 "title": "Python is an interpreted language with a compiler",
@@ -75,32 +59,48 @@
                 "href": "https://blog.rpanachi.com/after-25-years-writing-software-here-are-a-few-more-things-ive-learned-so-far-part2"
             },
             {
-                "title": "Emacs Lisp Elements",
-                "href": "https://protesilaos.com/emacs/emacs-lisp-elements"
+                "title": "An Ars Technica history of the Internet, part 1",
+                "href": "https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/"
+            },
+            {
+                "title": "Flat origami is Turing complete",
+                "href": "https://arxiv.org/abs/2309.07932"
+            },
+            {
+                "title": "git-remote-http is linked against incompatibly licensed OpenSSL",
+                "href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969"
+            },
+            {
+                "title": "htmx Documentation - Caching",
+                "href": "https://htmx.org/docs/#caching"
+            },
+            {
+                "title": "no-panic: Attribute macro to require that the compiler prove a function can't ever panic",
+                "href": "https://github.com/dtolnay/no-panic"
             },
             {
                 "title": "Fun with -fsanitize=undefined and Picolibc",
                 "href": "https://keithp.com/blogs/sanitizer-fun/"
             },
             {
-                "title": "Torvalds Celebrates Git's 20th Anniversay. Is It More Famous Than Linux?",
-                "href": "https://m.slashdot.org/story/440853"
+                "title": "Stasm: GCC/Clang inline assembly wrapper, C macro pre-processor based. ASM for human beings",
+                "href": "https://github.com/stasinek/stasm"
             },
             {
-                "title": "Why is there a \"small house\" in IBM's Code page 437?",
-                "href": "https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/"
+                "title": "PanVK is officially Vulkan 1.1 conformant on the Arm Mali-G610 GPU",
+                "href": "https://www.khronos.org/conformance/adopters/conformant-products#submission_906"
             },
             {
-                "title": "Solving One Million Sudoku Puzzles per hour",
-                "href": "https://www.miakoring.de/blog/sudoku"
+                "title": "Algebraic Semantics for Machine Knitting",
+                "href": "https://uwplse.org/2025/03/31/Algebraic-Knitting.html"
             },
             {
-                "title": "Speeding up Terraform caching with OverlayFS",
-                "href": "https://www.bejarano.io/terraform-overlayfs/"
+                "title": "Pretty State Machine Patterns in Rust",
+                "href": "https://hoverbear.org/blog/rust-state-machine-pattern/"
             },
             {
-                "title": "A tricky Commodore PET repair: tracking down 6 1/2 bad chips",
-                "href": "http://www.righto.com/2025/04/commodore-pet-repair.html"
+                "title": "A Visual Journey Through Async Rust",
+                "href": "https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Librarians in UK Increasingly Asked To Remove Books",
+                "href": "https://news.slashdot.org/story/25/04/14/1538206/librarians-in-uk-increasingly-asked-to-remove-books?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Blue Origin Sends All-Female Crew To Edge of Space in Historic Flight",
                 "href": "https://science.slashdot.org/story/25/04/14/1512214/blue-origin-sends-all-female-crew-to-edge-of-space-in-historic-flight?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "'Linux Mint Debian Edition 7' Gets OEM Support",
                 "href": "https://linux.slashdot.org/story/25/04/12/0518218/linux-mint-debian-edition-7-gets-oem-support?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "FreeDOS Celebrates More Than 30 Years of Command Prompts With New Release",
-                "href": "https://tech.slashdot.org/story/25/04/13/0215254/freedos-celebrates-more-than-30-years-of-command-prompts-with-new-release?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -444,6 +444,26 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Red Hat security advisory (AV25-210)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-210"
+            },
+            {
+                "title": "IBM security advisory (AV25-209)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-209"
+            },
+            {
+                "title": "Dell security advisory (AV25-208)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-208"
+            },
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV25\u2013207)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-207"
+            },
+            {
+                "title": "Ubuntu security advisory (AV25-206)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-206"
+            },
             {
                 "title": "HPE security advisory (AV25-205)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-205"
@@ -623,26 +643,6 @@
             {
                 "title": "Google Chrome security advisory (AV25-164)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-164"
-            },
-            {
-                "title": "VMware security advisory (AV25-163)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-163"
-            },
-            {
-                "title": "Next.js security advisory (AV25-162)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/nextjs-security-advisory-av25-162"
-            },
-            {
-                "title": "HPE security advisory (AV25-160)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-160"
-            },
-            {
-                "title": "[Control systems] B&R security advisory (AV25-159)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av25-159"
-            },
-            {
-                "title": "[Control systems] CISA ICS security advisories (AV25\u2013158)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-158"
             }
         ]
     },
@@ -767,32 +767,40 @@
                 "href": "https://www.brooks.team/posts/how-to-bike-across-the-country/"
             },
             {
-                "title": "Kezurou-Kai #39",
-                "href": "https://www.bigsandwoodworking.com/kezurou-kai-39/"
-            },
-            {
-                "title": "Hacktical C: practical hacker's guide to the C programming language",
-                "href": "https://github.com/codr7/hacktical-c"
-            },
-            {
-                "title": "Meilisearch \u2013 search engine API bringing AI-powered hybrid search",
-                "href": "https://github.com/meilisearch/meilisearch"
-            },
-            {
-                "title": "Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]",
-                "href": "https://omnom.zone/?src=hn"
+                "title": "Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety",
+                "href": "https://medicalxpress.com/news/2025-04-scientists-protein-il-infection-brain.html"
             },
             {
                 "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
                 "href": "https://blog.google/technology/ai/dolphingemma/"
             },
             {
-                "title": "Everything wrong with MCP",
-                "href": "https://blog.sshh.io/p/everything-wrong-with-mcp"
+                "title": "Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK",
+                "href": "https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/"
             },
             {
-                "title": "Zig's new LinkedList API (it's time to learn fieldParentPtr)",
-                "href": "https://www.openmymind.net/Zigs-New-LinkedList-API/"
+                "title": "Kezurou-Kai #39",
+                "href": "https://www.bigsandwoodworking.com/kezurou-kai-39/"
+            },
+            {
+                "title": "Meilisearch \u2013 search engine API bringing AI-powered hybrid search",
+                "href": "https://github.com/meilisearch/meilisearch"
+            },
+            {
+                "title": "Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs",
+                "href": "https://github.com/nathanhleung/protobuf-ts-types"
+            },
+            {
+                "title": "Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]",
+                "href": "https://omnom.zone/?src=hn"
+            },
+            {
+                "title": "Hacktical C: practical hacker's guide to the C programming language",
+                "href": "https://github.com/codr7/hacktical-c"
+            },
+            {
+                "title": "Everything wrong with MCP",
+                "href": "https://blog.sshh.io/p/everything-wrong-with-mcp"
             },
             {
                 "title": "Mario Vargas Llosa has died",
@@ -803,8 +811,16 @@
                 "href": "https://github.com/jlevy/og-equity-compensation"
             },
             {
+                "title": "Cure ID App Lets Clinicians Report Novel Uses of Existing Drugs",
+                "href": "https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs"
+            },
+            {
                 "title": "Dead trees keep surprisingly large amounts of carbon out of atmosphere",
                 "href": "https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html"
+            },
+            {
+                "title": "SQLite File Format Viewer",
+                "href": "https://sqlite-internal.pages.dev"
             },
             {
                 "title": "Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan",
@@ -815,16 +831,20 @@
                 "href": "https://www.signalbloom.ai/news/"
             },
             {
-                "title": "Albert Einstein's theory of relativity in words of four letters or less (1999)",
-                "href": "https://www.muppetlabs.com/~breadbox/txt/al.html"
+                "title": "New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents",
+                "href": "https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents"
             },
             {
                 "title": "Googler... ex-Googler",
                 "href": "https://nerdy.dev/ex-googler"
             },
             {
-                "title": "New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents",
-                "href": "https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents"
+                "title": "Zig's new LinkedList API (it's time to learn fieldParentPtr)",
+                "href": "https://www.openmymind.net/Zigs-New-LinkedList-API/"
+            },
+            {
+                "title": "Albert Einstein's theory of relativity in words of four letters or less (1999)",
+                "href": "https://www.muppetlabs.com/~breadbox/txt/al.html"
             },
             {
                 "title": "NoProp: Training neural networks without back-propagation or forward-propagation",
@@ -833,10 +853,6 @@
             {
                 "title": "Writing Cursor rules with a Cursor rule",
                 "href": "https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule"
-            },
-            {
-                "title": "Cure ID App Lets Clinicians Report Novel Uses of Existing Drugs",
-                "href": "https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs"
             },
             {
                 "title": "Why Everything in the Universe Turns More Complex",
@@ -851,28 +867,12 @@
                 "href": "https://transformerlab.ai/"
             },
             {
-                "title": "Neutrinos' maximum possible mass shrinks further",
-                "href": "https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron"
-            },
-            {
                 "title": "Why Fennel?",
                 "href": "https://fennel-lang.org/rationale"
             },
             {
-                "title": "Docker Model Runner",
-                "href": "https://www.docker.com/blog/introducing-docker-model-runner/"
-            },
-            {
-                "title": "Quick Primer on MCP Using Ollama and LangChain",
-                "href": "https://www.polarsparc.com/xhtml/MCP.html"
-            },
-            {
-                "title": "How much oranger do red orange bags make oranges look?",
-                "href": "https://alexanderell.is/posts/orange/"
-            },
-            {
-                "title": "Math 13 \u2013 An Introduction to Abstract Mathematics [pdf]",
-                "href": "https://www.math.uci.edu/~ndonalds/math13/notes.pdf"
+                "title": "Neutrinos' maximum possible mass shrinks further",
+                "href": "https://www.sciencenews.org/article/neutrino-mass-shrinks-katrin-electron"
             }
         ]
     }
