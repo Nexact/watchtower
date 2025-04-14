@@ -35,12 +35,12 @@
                 "href": "https://github.com/ashtf8/EinkPDA"
             },
             {
-                "title": "An Ars Technica history of the Internet, part 1",
-                "href": "https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/"
-            },
-            {
                 "title": "no-panic: Attribute macro to require that the compiler prove a function can't ever panic",
                 "href": "https://github.com/dtolnay/no-panic"
+            },
+            {
+                "title": "An Ars Technica history of the Internet, part 1",
+                "href": "https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/"
             },
             {
                 "title": "A Visual Journey Through Async Rust",
@@ -49,6 +49,10 @@
             {
                 "title": "Emacs Lisp Elements",
                 "href": "https://protesilaos.com/emacs/emacs-lisp-elements"
+            },
+            {
+                "title": "Fun with -fsanitize=undefined and Picolibc",
+                "href": "https://keithp.com/blogs/sanitizer-fun/"
             },
             {
                 "title": "Why is there a \"small house\" in IBM's Code page 437?",
@@ -79,28 +83,24 @@
                 "href": "https://www.glicko.net/glicko.html"
             },
             {
-                "title": "ZCS \u2014 An Entity Component System in Zig",
-                "href": "https://gamesbymason.com/blog/2025/zcs/"
-            },
-            {
                 "title": "Nix Trigonometric Math Library from Ground Zero",
                 "href": "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
             },
             {
-                "title": "Torn Write Detection and Protection",
-                "href": "https://transactional.blog/blog/2025-torn-writes"
+                "title": "ZCS \u2014 An Entity Component System in Zig",
+                "href": "https://gamesbymason.com/blog/2025/zcs/"
             },
             {
                 "title": "TrueSkill 2: An improved Bayesian skill rating system",
                 "href": "https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/"
             },
             {
-                "title": "Why Pascal is Not My Favourite Language (1981)",
-                "href": "https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf"
+                "title": "Torn Write Detection and Protection",
+                "href": "https://transactional.blog/blog/2025-torn-writes"
             },
             {
-                "title": "Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate",
-                "href": "https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks"
+                "title": "Why Pascal is Not My Favourite Language (1981)",
+                "href": "https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft tells Windows users to ignore 0x80070643 WinRE errors",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tells-windows-users-to-ignore-winre-install-errors/"
+            },
+            {
                 "title": "Microsoft: New Windows updates fix Active Directory policy issues",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-emergency-windows-updates-fix-ad-policy-issues/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "Fortinet: Hackers retain access to patched FortiGate VPNs using symlinks",
                 "href": "https://www.bleepingcomputer.com/news/security/fortinet-hackers-retain-access-to-patched-fortigate-vpns-using-symlinks/"
-            },
-            {
-                "title": "Microsoft: Windows 'inetpub' folder created by security fix, don\u2019t delete",
-                "href": "https://www.bleepingcomputer.com/news/security/microsoft-windows-inetpub-folder-created-by-security-fix-dont-delete/"
             }
         ]
     },
@@ -763,20 +763,16 @@
                 "href": "https://www.bigsandwoodworking.com/kezurou-kai-39/"
             },
             {
-                "title": "Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]",
-                "href": "https://omnom.zone/?src=hn"
-            },
-            {
                 "title": "Hacktical C: practical hacker's guide to the C programming language",
                 "href": "https://github.com/codr7/hacktical-c"
             },
             {
-                "title": "Everything wrong with MCP",
-                "href": "https://blog.sshh.io/p/everything-wrong-with-mcp"
+                "title": "Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]",
+                "href": "https://omnom.zone/?src=hn"
             },
             {
-                "title": "Albert Einstein's theory of relativity in words of four letters or less (1999)",
-                "href": "https://www.muppetlabs.com/~breadbox/txt/al.html"
+                "title": "Everything wrong with MCP",
+                "href": "https://blog.sshh.io/p/everything-wrong-with-mcp"
             },
             {
                 "title": "The Ford Executive Who Kept Score of Colleagues' Verbal Flubs",
@@ -787,8 +783,12 @@
                 "href": "https://github.com/jlevy/og-equity-compensation"
             },
             {
-                "title": "Zotero Fullscreen Mode by Script",
-                "href": "https://github.com/windingwind/zotero-actions-tags/discussions/385"
+                "title": "Albert Einstein's theory of relativity in words of four letters or less (1999)",
+                "href": "https://www.muppetlabs.com/~breadbox/txt/al.html"
+            },
+            {
+                "title": "Kotlin, Swift, and Ruby losing popularity",
+                "href": "https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html"
             },
             {
                 "title": "Mario Vargas Llosa has died",
@@ -797,6 +797,10 @@
             {
                 "title": "Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan",
                 "href": "https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo"
+            },
+            {
+                "title": "Zotero Fullscreen Mode by Script",
+                "href": "https://github.com/windingwind/zotero-actions-tags/discussions/385"
             },
             {
                 "title": "Show HN: I made a free tool that analyzes SEC filings and posts detailed reports",
@@ -819,20 +823,24 @@
                 "href": "https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/"
             },
             {
-                "title": "Kotlin, Swift, and Ruby losing popularity",
-                "href": "https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html"
+                "title": "I built an app to organize Kindle highlights (and physical book quotes too)",
+                "href": "https://apps.apple.com/es/app/book-highlights/id6504406544"
             },
             {
                 "title": "Writing Cursor rules with a Cursor rule",
                 "href": "https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule"
             },
             {
-                "title": "Implementing DeepSeek R1's GRPO algorithm from scratch",
-                "href": "https://github.com/policy-gradient/GRPO-Zero"
+                "title": "Political beliefs affect patients' trust in doctors, study finds",
+                "href": "https://news.uoregon.edu/political-beliefs-affect-patients-trust-doctors-study-finds"
             },
             {
                 "title": "Transformer Lab",
                 "href": "https://transformerlab.ai/"
+            },
+            {
+                "title": "Implementing DeepSeek R1's GRPO algorithm from scratch",
+                "href": "https://github.com/policy-gradient/GRPO-Zero"
             },
             {
                 "title": "Neutrinos' maximum possible mass shrinks further",
@@ -841,10 +849,6 @@
             {
                 "title": "Why Fennel?",
                 "href": "https://fennel-lang.org/rationale"
-            },
-            {
-                "title": "Comparing economic inequality between the Roman Empire and the Han Dynasty",
-                "href": "https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html"
             },
             {
                 "title": "Math 13 \u2013 An Introduction to Abstract Mathematics [pdf]",
@@ -859,20 +863,16 @@
                 "href": "https://www.docker.com/blog/introducing-docker-model-runner/"
             },
             {
-                "title": "The dark side of the Moomins",
-                "href": "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson"
-            },
-            {
-                "title": "I bought a Mac",
-                "href": "https://loganius.org/2025/04/i-bought-a-mac/"
+                "title": "Comparing economic inequality between the Roman Empire and the Han Dynasty",
+                "href": "https://phys.org/news/2025-04-economic-inequality-roman-empire-han.html"
             },
             {
                 "title": "How much oranger do red orange bags make oranges look?",
                 "href": "https://alexanderell.is/posts/orange/"
             },
             {
-                "title": "Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own",
-                "href": "https://kevintechnology.com/posts/leaf-widget/"
+                "title": "Calypso: LLMs as Dungeon Masters' Assistants [pdf]",
+                "href": "https://andrewhead.info/assets/pdf/calypso.pdf"
             }
         ]
     }
