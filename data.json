@@ -11,6 +11,10 @@
                 "href": "https://borretti.me/article/two-years-of-rust"
             },
             {
+                "title": "You cannot have our user's data",
+                "href": "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"
+            },
+            {
                 "title": "A 2025 Survey of Rust GUI Libraries",
                 "href": "https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html"
             },
@@ -19,8 +23,8 @@
                 "href": "https://gleam.run/news/global-rename-and-find-references/"
             },
             {
-                "title": "You cannot have our user's data",
-                "href": "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"
+                "title": "AerynOS",
+                "href": "https://aerynos.com/"
             },
             {
                 "title": "Bug Bash 2025 Conference Experience",
@@ -29,10 +33,6 @@
             {
                 "title": "The Post-Developer Era",
                 "href": "https://www.joshwcomeau.com/blog/the-post-developer-era/"
-            },
-            {
-                "title": "AerynOS",
-                "href": "https://aerynos.com/"
             },
             {
                 "title": "git-remote-http is linked against incompatibly licensed OpenSSL",
@@ -47,24 +47,40 @@
                 "href": "https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html"
             },
             {
+                "title": "When Life Gives You Java",
+                "href": "https://oblac.rs/2025-04-15-when-life-gives-you-java/"
+            },
+            {
                 "title": "Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs",
                 "href": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html"
-            },
-            {
-                "title": "Tidbyt without the company",
-                "href": "https://macwright.com/2025/04/12/tidbyt-second-life"
-            },
-            {
-                "title": "Behind the 6-digit code: Building HOTP and TOTP from scratch",
-                "href": "https://blog.dogac.dev/how-do-one-time-passwords-work/"
             },
             {
                 "title": "A Relational Model of Data (1969)",
                 "href": "https://dl.acm.org/doi/pdf/10.1145/362384.362685"
             },
             {
+                "title": "Tidbyt without the company",
+                "href": "https://macwright.com/2025/04/12/tidbyt-second-life"
+            },
+            {
+                "title": "Getting Started with W65C832",
+                "href": "https://joedavisson.com/software/w65c832/w65c832.html"
+            },
+            {
+                "title": "Behind the 6-digit code: Building HOTP and TOTP from scratch",
+                "href": "https://blog.dogac.dev/how-do-one-time-passwords-work/"
+            },
+            {
+                "title": "What Makes a Great Developer Experience?",
+                "href": "https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/"
+            },
+            {
                 "title": "Zig's new LinkedList API (it's time to learn @fieldParentPtr)",
                 "href": "https://www.openmymind.net/Zigs-New-LinkedList-API/"
+            },
+            {
+                "title": "AHOY! European Social Web Day 2025",
+                "href": "https://ahoy.eu"
             },
             {
                 "title": "Flat origami is Turing complete",
@@ -85,22 +101,6 @@
             {
                 "title": "Algebraic Semantics for Machine Knitting",
                 "href": "https://uwplse.org/2025/03/31/Algebraic-Knitting.html"
-            },
-            {
-                "title": "Getting Started with W65C832",
-                "href": "https://joedavisson.com/software/w65c832/w65c832.html"
-            },
-            {
-                "title": "Flambda2 Ep. 4: How to write a purely functional compiler",
-                "href": "https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/"
-            },
-            {
-                "title": "What Makes a Great Developer Experience?",
-                "href": "https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/"
-            },
-            {
-                "title": "AHOY! European Social Web Day 2025",
-                "href": "https://ahoy.eu"
             }
         ]
     },
@@ -327,6 +327,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Zuckerberg Had a 'Crazy Idea' in 2022 For Facebook - Purge All Users' Friends",
+                "href": "https://tech.slashdot.org/story/25/04/15/1536244/zuckerberg-had-a-crazy-idea-in-2022-for-facebook---purge-all-users-friends?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "FCC Chairman Tells Europe To Choose Between US or Chinese Communications Tech",
                 "href": "https://tech.slashdot.org/story/25/04/15/1514205/fcc-chairman-tells-europe-to-choose-between-us-or-chinese-communications-tech?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -381,10 +385,6 @@
             {
                 "title": "Hacked Crosswalks In Bay Area Play Deepfake-Style Messages From Tech Billionaires",
                 "href": "https://it.slashdot.org/story/25/04/14/1932207/hacked-crosswalks-in-bay-area-play-deepfake-style-messages-from-tech-billionaires?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Meta Starts Using Data From EU Users To Train Its AI Models",
-                "href": "https://meta.slashdot.org/story/25/04/14/1926259/meta-starts-using-data-from-eu-users-to-train-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,36 +767,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "TLS Certificate Lifetimes Will Officially Reduce to 47 Days",
-                "href": "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
+                "title": "How to Win an Argument with a Toddler",
+                "href": "https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/"
             },
             {
                 "title": "Hacking the Postgres Wire Protocol",
                 "href": "https://pgdog.dev/blog/hacking-postgres-wire-protocol"
             },
             {
-                "title": "Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs",
-                "href": "https://arxiv.org/abs/2410.03730"
-            },
-            {
                 "title": "Launch HN: mrge.io (YC X25) \u2013 Cursor for code review",
                 "href": "item?id=43692476"
             },
             {
-                "title": "How to Win an Argument with a Toddler",
-                "href": "https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/"
-            },
-            {
-                "title": "Wait. HOW MANY supernova explode every year?",
-                "href": "https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode"
-            },
-            {
-                "title": "How the U.S. Became a Science Superpower",
-                "href": "https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/"
-            },
-            {
-                "title": "\"We have no bros and no oligarchs\" EU President Ursula von der Leyen",
-                "href": "https://www.zeit.de/politik/2025-04/ursula-von-der-leyen-eu-usa-donald-trump-english"
+                "title": "Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs",
+                "href": "https://arxiv.org/abs/2410.03730"
             },
             {
                 "title": "Show HN: Resonate \u2013 real-time high temporal resolution spectral analysis",
@@ -807,12 +791,32 @@
                 "href": "https://github.com/ubisoft/Chroma"
             },
             {
-                "title": "7k-Year-Old Skeletons from the Green Sahara Reveal a Mysterious Human Lineage",
-                "href": "https://www.smithsonianmag.com/smart-news/7000-year-old-skeletons-from-the-green-sahara-reveal-a-previously-unknown-human-lineage-180986403/"
+                "title": "Wait. HOW MANY supernova explode every year?",
+                "href": "https://badastronomy.beehiiv.com/p/ban-447-wait-how-many-supernova-explode"
+            },
+            {
+                "title": "Cohere Launches Embed 4",
+                "href": "https://cohere.com/blog/embed-4"
+            },
+            {
+                "title": "Notion Mail Is Out",
+                "href": "https://www.notion.com/product/mail"
+            },
+            {
+                "title": "MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios",
+                "href": "https://github.com/ripplebiz/MeshCore"
             },
             {
                 "title": "WEIRD \u2013 a way to be on the web",
                 "href": "https://a.weird.one"
+            },
+            {
+                "title": "How the U.S. Became a Science Superpower",
+                "href": "https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/"
+            },
+            {
+                "title": "7k-Year-Old Skeletons from the Green Sahara Reveal a Mysterious Human Lineage",
+                "href": "https://www.smithsonianmag.com/smart-news/7000-year-old-skeletons-from-the-green-sahara-reveal-a-previously-unknown-human-lineage-180986403/"
             },
             {
                 "title": "Hacking a Smart Home Device (2024)",
@@ -823,12 +827,16 @@
                 "href": "https://www.bellard.org/jslinux/"
             },
             {
-                "title": "MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios",
-                "href": "https://github.com/ripplebiz/MeshCore"
-            },
-            {
                 "title": "GPT-4.1 in the API",
                 "href": "https://openai.com/index/gpt-4-1/"
+            },
+            {
+                "title": "RNG and Cosine in Nix",
+                "href": "https://unnamed.website/posts/rng-cosine-nix/"
+            },
+            {
+                "title": "Rotatum of Light",
+                "href": "https://www.science.org/doi/10.1126/sciadv.adr9092"
             },
             {
                 "title": "Temu pulls its U.S. Google Shopping ads",
@@ -839,20 +847,20 @@
                 "href": "https://blog.dogac.dev/how-do-one-time-passwords-work/"
             },
             {
-                "title": "Rotatum of Light",
-                "href": "https://www.science.org/doi/10.1126/sciadv.adr9092"
+                "title": "You cannot have our user's data",
+                "href": "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"
             },
             {
                 "title": "A hackable AI assistant using a single SQLite table and a handful of cron jobs",
                 "href": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs"
             },
             {
-                "title": "Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)",
-                "href": "https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x"
-            },
-            {
                 "title": "45-year mystery behind eerie photo from The Shining is believed to be solved",
                 "href": "https://www.cbc.ca/lite/story/1.7507349"
+            },
+            {
+                "title": "Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)",
+                "href": "https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x"
             },
             {
                 "title": "The path to open-sourcing the DeepSeek inference engine",
@@ -863,28 +871,20 @@
                 "href": "item?id=43684286"
             },
             {
-                "title": "You cannot have our user's data",
-                "href": "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"
+                "title": "Meta antitrust trial kicks off in federal court",
+                "href": "https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court"
             },
             {
                 "title": "In Its Purest Form",
                 "href": "https://lareviewofbooks.org/article/in-its-purest-form/"
             },
             {
-                "title": "Meta antitrust trial kicks off in federal court",
-                "href": "https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court"
+                "title": "Show HN: MCP-Shield \u2013 Detect security issues in MCP servers",
+                "href": "https://github.com/riseandignite/mcp-shield"
             },
             {
                 "title": "What Is Entropy?",
                 "href": "https://jasonfantl.com/posts/What-is-Entropy/"
-            },
-            {
-                "title": "Simple Web Server",
-                "href": "https://simplewebserver.org/"
-            },
-            {
-                "title": "Show HN: MCP-Shield \u2013 Detect security issues in MCP servers",
-                "href": "https://github.com/riseandignite/mcp-shield"
             }
         ]
     }
