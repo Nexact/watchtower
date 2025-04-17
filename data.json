@@ -27,16 +27,20 @@
                 "href": "https://v.cx/2025/04/mastodon-exit-interview"
             },
             {
+                "title": "deb-books: books hidden in Debian source packages",
+                "href": "https://codeberg.org/jwilk/deb-books"
+            },
+            {
                 "title": "An Intro to DeepSeek's Distributed File System",
                 "href": "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
             },
             {
-                "title": "go-away (another http proxy for LLM scraper defence)",
-                "href": "https://git.gammaspectra.live/git/go-away#why"
+                "title": "Learning Fennel from Scratch to Develop Neovim Plugins",
+                "href": "https://lambdaisland.com/blog/2025-04-16-fennel"
             },
             {
-                "title": "deb-books: books hidden in Debian source packages",
-                "href": "https://codeberg.org/jwilk/deb-books"
+                "title": "go-away (another http proxy for LLM scraper defence)",
+                "href": "https://git.gammaspectra.live/git/go-away#why"
             },
             {
                 "title": "TLS Certificate Lifetimes Will Officially Reduce to 47 Days",
@@ -45,10 +49,6 @@
             {
                 "title": "(All) Databases Are Just Files. Postgres Too",
                 "href": "http://tselai.com/all-databases-are-just-files"
-            },
-            {
-                "title": "Learning Fennel from Scratch to Develop Neovim Plugins",
-                "href": "https://lambdaisland.com/blog/2025-04-16-fennel"
             },
             {
                 "title": "What Every Programmer Should Know about How CPUs Work",
@@ -91,16 +91,16 @@
                 "href": "https://marcoroth.dev/posts/introducing-herb"
             },
             {
+                "title": "sqlc: Generate type-safe code from SQL",
+                "href": "https://github.com/sqlc-dev/sqlc"
+            },
+            {
+                "title": "tariff: The GREATEST, most TREMENDOUS Python package that makes importing great again",
+                "href": "https://github.com/hxu296/tariff"
+            },
+            {
                 "title": "codex: Lightweight coding agent that runs in your terminal",
                 "href": "https://github.com/openai/codex"
-            },
-            {
-                "title": "swank-decorators: Python-inspired decorators for Ruby",
-                "href": "https://github.com/samanthaoldenburg/swank-decorators"
-            },
-            {
-                "title": "You cannot have our user's data",
-                "href": "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"
             }
         ]
     },
@@ -124,12 +124,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1k0flpj/sap_emarsys_sdk_for_android_sensitive_data_leak/"
             },
             {
-                "title": "Security Analysis: Potential AI Agent Hijacking via MCP and A2A Protocol Insights",
-                "href": "https://old.reddit.com/r/netsec/comments/1jyvlzh/security_analysis_potential_ai_agent_hijacking/"
-            },
-            {
                 "title": "Aiding reverse engineering with Rust and a local LLM",
                 "href": "https://old.reddit.com/r/netsec/comments/1jzjcm9/aiding_reverse_engineering_with_rust_and_a_local/"
+            },
+            {
+                "title": "Security Analysis: Potential AI Agent Hijacking via MCP and A2A Protocol Insights",
+                "href": "https://old.reddit.com/r/netsec/comments/1jyvlzh/security_analysis_potential_ai_agent_hijacking/"
             },
             {
                 "title": "EDV - Endpoint Detection & Vibes - From vibe coding to vibe detections",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "'We Are Not Programmed to Die,' Says Nobel Laureate Venki Ramakrishnan",
+                "href": "https://science.slashdot.org/story/25/04/16/2229250/we-are-not-programmed-to-die-says-nobel-laureate-venki-ramakrishnan?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft Confirms Classic Outlook CPU Usage Spikes, Offers No Fix",
                 "href": "https://it.slashdot.org/story/25/04/16/2021236/microsoft-confirms-classic-outlook-cpu-usage-spikes-offers-no-fix?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "AI-generated Music Accounts For 18% of All Tracks Uploaded To Deezer",
                 "href": "https://entertainment.slashdot.org/story/25/04/16/1631223/ai-generated-music-accounts-for-18-of-all-tracks-uploaded-to-deezer?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Companies Are Slashing Their SaaS Spends, UBS Says",
-                "href": "https://tech.slashdot.org/story/25/04/16/1510222/companies-are-slashing-their-saas-spends-ubs-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,6 +791,14 @@
                 "href": "https://github.com/humanlayer/12-factor-agents"
             },
             {
+                "title": "Concurrency in Haskell: Fast, Simple, Correct",
+                "href": "https://bitbashing.io/haskell-concurrency.html"
+            },
+            {
+                "title": "TLS certificate lifetimes will officially reduce to 47 days",
+                "href": "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
+            },
+            {
                 "title": "Damn Vulnerable MCP Server",
                 "href": "https://github.com/harishsg993010/damn-vulnerable-MCP-server"
             },
@@ -799,88 +807,80 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes"
             },
             {
-                "title": "TLS certificate lifetimes will officially reduce to 47 days",
-                "href": "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
+                "title": "Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)",
+                "href": "https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/"
             },
             {
                 "title": "\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]",
                 "href": "https://jsomers.net/vivarium/"
             },
             {
-                "title": "Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)",
-                "href": "https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/"
+                "title": "How Nintendo bled Atari games to death",
+                "href": "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/"
             },
             {
                 "title": "How a Forgotten Battle Created a More Peaceful World",
                 "href": "https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a"
             },
             {
-                "title": "Query Engines: Push vs. Pull (2021)",
-                "href": "https://justinjaffray.com/query-engines-push-vs.-pull/"
-            },
-            {
-                "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
-                "href": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html"
-            },
-            {
                 "title": "OpenAI o3 and o4-mini",
                 "href": "https://openai.com/index/introducing-o3-and-o4-mini/"
             },
             {
-                "title": "Kermit: A typeface for kids",
-                "href": "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/"
-            },
-            {
-                "title": "OneSignal (YC S11) Is Hiring Engineers",
-                "href": "https://onesignal.com/careers"
-            },
-            {
-                "title": "How Nintendo bled Atari games to death",
-                "href": "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/"
-            },
-            {
-                "title": "Nix Trigonometric Math Library from Ground Zero",
-                "href": "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
-            },
-            {
-                "title": "Tech workers are leaving notes in robot taxis seeking workers and lovers",
-                "href": "https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/"
+                "title": "Query Engines: Push vs. Pull (2021)",
+                "href": "https://justinjaffray.com/query-engines-push-vs.-pull/"
             },
             {
                 "title": "Breaking the Llama Community License",
                 "href": "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/"
             },
             {
+                "title": "OneSignal (YC S11) Is Hiring Engineers",
+                "href": "https://onesignal.com/careers"
+            },
+            {
+                "title": "Kermit: A typeface for kids",
+                "href": "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/"
+            },
+            {
                 "title": "eInk Mode: Making web pages easier to read",
                 "href": "https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html"
-            },
-            {
-                "title": "Concurrency in Haskell: Fast, Simple, Correct",
-                "href": "https://bitbashing.io/haskell-concurrency.html"
-            },
-            {
-                "title": "Reproducing Hacker News writing style fingerprinting",
-                "href": "https://antirez.com/news/150"
-            },
-            {
-                "title": "CVE Foundation",
-                "href": "https://www.thecvefoundation.org/home"
             },
             {
                 "title": "Sony Unveils the Smallest and Lightest Lidar Depth Sensor",
                 "href": "https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/"
             },
             {
+                "title": "Reproducing Hacker News writing style fingerprinting",
+                "href": "https://antirez.com/news/150"
+            },
+            {
+                "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
+                "href": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html"
+            },
+            {
+                "title": "CVE Foundation",
+                "href": "https://www.thecvefoundation.org/home"
+            },
+            {
+                "title": "Nix Trigonometric Math Library from Ground Zero",
+                "href": "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
+            },
+            {
                 "title": "RakuAST Grant Report",
                 "href": "https://niner.name/blog/rakuast_grant_report/index.html"
+            },
+            {
+                "title": "A high-throughput parser for the Zig programming language",
+                "href": "https://github.com/Validark/Accelerated-Zig-Parser"
             },
             {
                 "title": "Microsoft researchers developed a hyper-efficient AI model that can run on CPUs",
                 "href": "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/"
             },
             {
-                "title": "A high-throughput parser for the Zig programming language",
-                "href": "https://github.com/Validark/Accelerated-Zig-Parser"
+                "title": "Dirty tricks 6502 programmers use (2019)",
+                "href": "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html"
             }
         ]
     }
