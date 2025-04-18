@@ -35,6 +35,10 @@
                 "href": "https://www.honeybadger.io/blog/rails-no-paas/"
             },
             {
+                "title": "Using ~/.ssh/authorized keys to decide what the incoming connection can do",
+                "href": "https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/"
+            },
+            {
                 "title": "Integrating Effectful and Persistent",
                 "href": "https://exploring-better-ways.bellroy.com/integrating-effectful-and-persistent.html"
             },
@@ -47,12 +51,12 @@
                 "href": "https://dave.recoil.org/unikernels/"
             },
             {
-                "title": "Using ~/.ssh/authorized keys to decide what the incoming connection can do",
-                "href": "https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/"
-            },
-            {
                 "title": "Decomposing Transactional Systems",
                 "href": "https://transactional.blog/blog/2025-decomposing-transactional-systems"
+            },
+            {
+                "title": "Just Throw It Into Postgres",
+                "href": "https://simonsafar.com/2025/throw_it_into_postgres/"
             },
             {
                 "title": "Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)",
@@ -69,10 +73,6 @@
             {
                 "title": "Honest and Elitist Thoughts on Why Computers Were More Fun Before",
                 "href": "https://www.datagubbe.se/aficion/"
-            },
-            {
-                "title": "Just Throw It Into Postgres",
-                "href": "https://simonsafar.com/2025/throw_it_into_postgres/"
             },
             {
                 "title": "Software Development Has Too Much Software In It",
@@ -99,8 +99,8 @@
                 "href": "https://matrix.org/blog/2025/04/introducing-policy-servers/"
             },
             {
-                "title": "Concurrency in Haskell: Fast, Simple, Correct",
-                "href": "https://bitbashing.io/haskell-concurrency.html"
+                "title": "olive.c: Simple 2D Graphics Library for C",
+                "href": "https://github.com/tsoding/olive.c"
             }
         ]
     },
@@ -126,6 +126,10 @@
             {
                 "title": "Everyone knows your location, Part 2: try it yourself and share the results",
                 "href": "https://old.reddit.com/r/netsec/comments/1k1ltda/everyone_knows_your_location_part_2_try_it/"
+            },
+            {
+                "title": "AES & ChaCha \u2014 A Case for Simplicity in Cryptography",
+                "href": "https://old.reddit.com/r/netsec/comments/1k1y676/aes_chacha_a_case_for_simplicity_in_cryptography/"
             },
             {
                 "title": "New writeup: a vulnerability in PHP's extract() function allows attackers to trigger a double-free, which in turn allows arbitrary code execution (native code)",
@@ -210,10 +214,6 @@
             {
                 "title": "Windows Defender antivirus bypass in 2025",
                 "href": "https://old.reddit.com/r/netsec/comments/1jv0spm/windows_defender_antivirus_bypass_in_2025/"
-            },
-            {
-                "title": "The Evolution of HTTPS Adoption in Firefox",
-                "href": "https://old.reddit.com/r/netsec/comments/1juzyt2/the_evolution_of_https_adoption_in_firefox/"
             }
         ]
     },
@@ -763,6 +763,10 @@
                 "href": "https://developers.googleblog.com/en/start-building-with-gemini-25-flash/"
             },
             {
+                "title": "Kagi Assistant is now available to all users",
+                "href": "https://blog.kagi.com/assistant-for-all"
+            },
+            {
                 "title": "Potatoes in the Mail",
                 "href": "https://facts.usps.com/mailing-potatoes/"
             },
@@ -783,28 +787,36 @@
                 "href": "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
             },
             {
-                "title": "The Size of Packets",
-                "href": "https://www.potaroo.net/ispcol/2024-10/packet-sizes.html"
-            },
-            {
                 "title": "What do I think about Lua after shipping a project with 60k lines of code?",
                 "href": "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733"
             },
             {
-                "title": "Milwaukee M18 Battery Reverse Engineering",
-                "href": "https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering"
+                "title": "The Size of Packets",
+                "href": "https://www.potaroo.net/ispcol/2024-10/packet-sizes.html"
             },
             {
-                "title": "Trying (and failing) to hack the Wall of Sheep (2022)",
-                "href": "https://honeypot.net/2022/08/21/trying-and-failing.html"
+                "title": "Procedural Textures with Hash Functions",
+                "href": "https://douglasorr.github.io/2025-04-hash-textures/article.html"
             },
             {
                 "title": "1,700 Year Old Egg Never Broke",
                 "href": "https://www.atlasobscura.com/articles/liquid-inside-ancient-egg"
             },
             {
+                "title": "Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)",
+                "href": "https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22"
+            },
+            {
                 "title": "Is it possible to write plain C iOS app in 2025?",
                 "href": "item?id=43682984"
+            },
+            {
+                "title": "Milwaukee M18 Battery Reverse Engineering",
+                "href": "https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering"
+            },
+            {
+                "title": "A deep-cover KGB spy recruited his own son",
+                "href": "https://www.theguardian.com/news/2025/apr/10/deep-cover-kgb-spy-recruited-son-peter-herrmann-illegals"
             },
             {
                 "title": "HDR\u2011Infused Emoji",
@@ -815,68 +827,56 @@
                 "href": "https://www.bbc.com/news/articles/cjr75wypg0vo"
             },
             {
-                "title": "Shell-secrets \u2013 GPG-encrypted environment variables",
-                "href": "https://github.com/waj/shell-secrets"
+                "title": "Trying (and failing) to hack the Wall of Sheep (2022)",
+                "href": "https://honeypot.net/2022/08/21/trying-and-failing.html"
             },
             {
-                "title": "Google is illegally monopolizing online advertising tech, judge rules",
-                "href": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html"
+                "title": "Shell-secrets \u2013 GPG-encrypted environment variables",
+                "href": "https://github.com/waj/shell-secrets"
             },
             {
                 "title": "Unauthenticated Remote Code Execution in Erlang/OTP SSH",
                 "href": "https://nvd.nist.gov/vuln/detail/CVE-2025-32433"
             },
             {
-                "title": "Once banned, Poland's stately 18th century dance garners UNESCO honors (2024)",
-                "href": "https://apnews.com/article/poland-unesco-heritage-polonaise-dance-culture-be337d9a1941d404f6ef1a1cee364e22"
+                "title": "Google is illegally monopolizing online advertising tech, judge rules",
+                "href": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html"
             },
             {
                 "title": "Show HN: AgentAPI \u2013 HTTP API for Claude Code, Goose, Aider, and Codex",
                 "href": "https://github.com/coder/agentapi"
             },
             {
-                "title": "Memory Size Matters to PostgreSQL",
-                "href": "https://pgdba.org/post/2025/04/size_matter/"
+                "title": "Marching Events: What does iCalendar have to do with ray marching?",
+                "href": "https://pwy.io/posts/marching-events/"
             },
             {
                 "title": "Mux (YC W16) is hiring engineering managers for video at scale",
                 "href": "https://mux.com/jobs?j=em"
             },
             {
-                "title": "Marching Events: What does iCalendar have to do with ray marching?",
-                "href": "https://pwy.io/posts/marching-events/"
+                "title": "MCP Run Python",
+                "href": "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python"
             },
             {
                 "title": "What my stroke taught me (2017)",
                 "href": "https://nautil.us/what-my-stroke-taught-me-236544/"
             },
             {
-                "title": "MCP Run Python",
-                "href": "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python"
-            },
-            {
                 "title": "CN Tower, Behind the Scenes (2014)",
                 "href": "https://site.roadwolf.ca/categories/ue/cntower/"
-            },
-            {
-                "title": "ChatGPT now performs well at GeoGuesser",
-                "href": "https://flausch.social/@piegames/114352447253793517"
             },
             {
                 "title": "A cute proof that makes e natural",
                 "href": "https://www.poshenloh.com/e/"
             },
             {
-                "title": "On Jane Jacobs (2017)",
-                "href": "https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs"
+                "title": "Memory Size Matters to PostgreSQL",
+                "href": "https://pgdba.org/post/2025/04/size_matter/"
             },
             {
-                "title": "Vivarium: The keeper of a lab's animals stumbles onto a secret [fiction]",
-                "href": "https://jsomers.net/vivarium/"
-            },
-            {
-                "title": "SQLite transactions and virtual tables",
-                "href": "https://misfra.me/2025/sqlite-transactions-and-virtual-tables/"
+                "title": "ChatGPT now performs well at GeoGuesser",
+                "href": "https://flausch.social/@piegames/114352447253793517"
             }
         ]
     }
