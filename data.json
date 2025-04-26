@@ -39,6 +39,10 @@
                 "href": "https://devenv.sh/blog/2025/04/25/devenv-16-extensible-ad-hoc-nix-environments/"
             },
             {
+                "title": "Ruby Feature #16131: Remove $SAFE, taint and trust (2019)",
+                "href": "https://bugs.ruby-lang.org/issues/16131"
+            },
+            {
                 "title": "K Slices, K Dices",
                 "href": "https://beyondloom.com/blog/slicedice.html"
             },
@@ -51,16 +55,20 @@
                 "href": "https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html"
             },
             {
+                "title": "Nofl: A Precise Immix",
+                "href": "https://arxiv.org/pdf/2503.16971v1"
+            },
+            {
+                "title": "Implementing Silent Hill's Fog in My (Real) PS1 Game",
+                "href": "https://www.youtube.com/watch?v=EwpFdMJlVP4"
+            },
+            {
                 "title": "GCC 15.1 Released",
                 "href": "https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html"
             },
             {
                 "title": "The Lost CSS Tricks of Cohost.org",
                 "href": "https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"
-            },
-            {
-                "title": "Nofl: A Precise Immix",
-                "href": "https://arxiv.org/pdf/2503.16971v1"
             },
             {
                 "title": "Differential Coverage for Debugging",
@@ -79,10 +87,6 @@
                 "href": "https://github.com/densumesh/actix-request-reply-cache"
             },
             {
-                "title": "Implementing Silent Hill's Fog in My (Real) PS1 Game",
-                "href": "https://www.youtube.com/watch?v=EwpFdMJlVP4"
-            },
-            {
                 "title": "A taxonomy of C++ types",
                 "href": "https://blog.knatten.org/2025/04/25/a-taxonomy-of-c-types/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "McEliece standardization",
                 "href": "https://blog.cr.yp.to/20250423-mceliece.html"
-            },
-            {
-                "title": "I wrote to the address in the GPLv2 license notice and received the GPLv3 license",
-                "href": "https://code.mendhak.com/gpl-v2-address-letter/"
             }
         ]
     },
@@ -767,44 +767,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "LLMs can see and hear without any training",
-                "href": "https://github.com/facebookresearch/MILS"
-            },
-            {
                 "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
                 "href": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/"
-            },
-            {
-                "title": "An end to all this prostate trouble?",
-                "href": "https://yarchive.net/blog/prostate/"
             },
             {
                 "title": "Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad",
                 "href": "https://github.com/joexbayer/RetrOS-32"
             },
             {
+                "title": "An end to all this prostate trouble?",
+                "href": "https://yarchive.net/blog/prostate/"
+            },
+            {
+                "title": "LLMs can see and hear without any training",
+                "href": "https://github.com/facebookresearch/MILS"
+            },
+            {
                 "title": "Cloth",
                 "href": "https://www.cloudofoz.com/verlet-test/"
-            },
-            {
-                "title": "The Friendship Recession: The Lost Art of Connecting",
-                "href": "https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting"
-            },
-            {
-                "title": "Australian who ordered radioactive materials walks away from court",
-                "href": "https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article"
             },
             {
                 "title": "Stuffed-Na(a)N: stuff your NaNs",
                 "href": "https://github.com/si14/stuffed-naan-js"
             },
             {
-                "title": "I wrote a book called \"Crap Towns\". It seemed funny at the time",
-                "href": "https://samj.substack.com/p/that-joke-isnt-funny-any-more"
+                "title": "Australian who ordered radioactive materials walks away from court",
+                "href": "https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article"
+            },
+            {
+                "title": "The Friendship Recession: The Lost Art of Connecting",
+                "href": "https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting"
+            },
+            {
+                "title": "Thank you for holding my duck (2021)",
+                "href": "https://naml.us/post/thank-you-for-holding-my-duck/"
             },
             {
                 "title": "ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation",
                 "href": "https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation"
+            },
+            {
+                "title": "I wrote a book called \"Crap Towns\". It seemed funny at the time",
+                "href": "https://samj.substack.com/p/that-joke-isnt-funny-any-more"
             },
             {
                 "title": "Freshpaint (YC S19) is hiring back end and front end engineers (Remote, US only)",
@@ -823,28 +827,20 @@
                 "href": "https://arxiv.org/abs/2504.11651"
             },
             {
-                "title": "Top employee monitoring app leaks 21M screenshots on users",
-                "href": "https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users"
-            },
-            {
                 "title": "Wikipedia\u2019s nonprofit status questioned by D.C. U.S. attorney",
                 "href": "https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/"
-            },
-            {
-                "title": "Build your own antisocial writing rig with DOS and a $2 USB key",
-                "href": "https://www.theregister.com/2025/04/26/dos_distraction_free_writing/"
             },
             {
                 "title": "Catastrophic fires and soil degradation: possible link with Neolithic revolution",
                 "href": "https://link.springer.com/article/10.1007/s11368-025-04021-x"
             },
             {
-                "title": "Mobygratis \u2013 Free Moby music to empower your creative projects",
-                "href": "https://mobygratis.com/"
+                "title": "Will the Humanities Survive Artificial Intelligence?",
+                "href": "https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence"
             },
             {
-                "title": "Mike Lindell's lawyers used AI to write brief\u2013judge finds nearly 30 mistakes",
-                "href": "https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/"
+                "title": "Mobygratis \u2013 Free Moby music to empower your creative projects",
+                "href": "https://mobygratis.com/"
             },
             {
                 "title": "Parallel ./configure",
@@ -855,24 +851,20 @@
                 "href": "https://madebyoll.in/posts/world_emulation_via_dnn/"
             },
             {
-                "title": "Will the Humanities Survive Artificial Intelligence?",
-                "href": "https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence"
+                "title": "The NNCPNET Email Network",
+                "href": "https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network"
             },
             {
                 "title": "Show HN: I used OpenAI's new image API for a personalized coloring book service",
                 "href": "https://clevercoloringbook.com/"
             },
             {
-                "title": "Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling",
-                "href": "https://www.morpheus-research.com/backblaze/"
+                "title": "Why the Cassette Revival Is Thriving in Argentina's Music Scene",
+                "href": "https://www.greenbook.org/insights/focus-on-latam/back-to-tape-why-the-cassette-revival-is-thriving-in-argentinas-music-scene"
             },
             {
                 "title": "Reproducibility project fails to validate dozens of biomedical studies",
                 "href": "https://www.nature.com/articles/d41586-025-01266-x"
-            },
-            {
-                "title": "The NNCPNET Email Network",
-                "href": "https://changelog.complete.org/archives/10768-announcing-the-nncpnet-email-network"
             },
             {
                 "title": "Eurorack Knob Idea",
@@ -883,8 +875,16 @@
                 "href": "https://github.com/ndrwnaguib/principia"
             },
             {
+                "title": "Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling",
+                "href": "https://www.morpheus-research.com/backblaze/"
+            },
+            {
                 "title": "A $20k American-made electric pickup with no paint, no stereo, no screen",
                 "href": "https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos"
+            },
+            {
+                "title": "Mike Lindell's lawyers used AI to write brief\u2013judge finds nearly 30 mistakes",
+                "href": "https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/"
             }
         ]
     }
