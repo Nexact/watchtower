@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Migrating away from Rust",
-                "href": "https://deadmoney.gg/news/articles/migrating-away-from-rust"
-            },
-            {
                 "title": "Jepsen: Amazon RDS for PostgreSQL 17.4",
                 "href": "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
+            },
+            {
+                "title": "Migrating away from Rust",
+                "href": "https://deadmoney.gg/news/articles/migrating-away-from-rust"
             },
             {
                 "title": "A cheat sheet for why using ChatGPT is not bad for the environment",
@@ -23,12 +23,12 @@
                 "href": "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/"
             },
             {
-                "title": "Giving software away for free",
-                "href": "https://simonwillison.net/2025/Apr/28/give-it-away-for-free/"
-            },
-            {
                 "title": "Programming languages should have a tree traversal primitive",
                 "href": "https://blog.tylerglaiel.com/p/programming-languages-should-have"
+            },
+            {
+                "title": "Giving software away for free",
+                "href": "https://simonwillison.net/2025/Apr/28/give-it-away-for-free/"
             },
             {
                 "title": "Why did Windows 7, for a few months, log on slower if you have a solid color background?",
@@ -37,6 +37,10 @@
             {
                 "title": "Syntactic musings on match expressions",
                 "href": "https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/"
+            },
+            {
+                "title": "Archie anonymous FTP search revival",
+                "href": "http://archie.macdomain.net/"
             },
             {
                 "title": "Using HAProxy to protect me from scrapers",
@@ -63,12 +67,12 @@
                 "href": "https://softwaredoug.com/blog/2025/03/13/elasticsearch-hybrid-search-strategies"
             },
             {
-                "title": "Audit of the Rust p256 Crate",
-                "href": "https://reports.zksecurity.xyz/reports/near-p256/"
-            },
-            {
                 "title": "One million chessboards",
                 "href": "https://onemillionchessboards.com/"
+            },
+            {
+                "title": "Audit of the Rust p256 Crate",
+                "href": "https://reports.zksecurity.xyz/reports/near-p256/"
             },
             {
                 "title": "The design of software engineering course projects",
@@ -95,10 +99,6 @@
                 "href": "https://cacm.acm.org/opinion/efficiency-vs-resilience/"
             },
             {
-                "title": "Archie anonymous FTP search revival",
-                "href": "http://archie.macdomain.net/"
-            },
-            {
                 "title": "Packed Data support in Haskell",
                 "href": "https://arthi-chaud.github.io/posts/packed/"
             }
@@ -120,12 +120,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1kapirk/airborne_wormable_zeroclick_rce_in_apple_airplay/"
             },
             {
-                "title": "Ruby on Rails Cross-Site Request Forgery",
-                "href": "https://old.reddit.com/r/netsec/comments/1kam5nu/ruby_on_rails_crosssite_request_forgery/"
-            },
-            {
                 "title": "A Look Into the Secrets of MCP: The New Secret Leak Source",
                 "href": "https://old.reddit.com/r/netsec/comments/1kat6h3/a_look_into_the_secrets_of_mcp_the_new_secret/"
+            },
+            {
+                "title": "Ruby on Rails Cross-Site Request Forgery",
+                "href": "https://old.reddit.com/r/netsec/comments/1kam5nu/ruby_on_rails_crosssite_request_forgery/"
             },
             {
                 "title": "Shadow Roles: AWS Defaults Can Open the Door to Service Takeover",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Apple 'AirBorne' flaws can lead to zero-click AirPlay RCE attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/"
+            },
+            {
                 "title": "SK Telecom cyberattack: Free SIM replacements for 25 million customers",
                 "href": "https://www.bleepingcomputer.com/news/security/sk-telecom-cyberattack-free-sim-replacements-for-25-million-customers/"
             },
@@ -267,10 +271,6 @@
             {
                 "title": "Coinbase fixes 2FA log error making people think they were hacked",
                 "href": "https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/"
-            },
-            {
-                "title": "Brave's Cookiecrumbler tool taps community to help block cookie notices",
-                "href": "https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/"
             }
         ]
     },
@@ -763,7 +763,7 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "O3 Beats a Master-Level GeoGuessr Player\u2013Even with Fake EXIF Data",
+                "title": "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
                 "href": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
             },
             {
@@ -771,7 +771,15 @@
                 "href": "https://github.com/arkflow-rs/arkflow"
             },
             {
-                "title": "Why performance optimization is hard work",
+                "title": "Everything we announced at our first-ever LlamaCon",
+                "href": "https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1"
+            },
+            {
+                "title": "Bamba: An open-source LLM that crosses a transformer with an SSM",
+                "href": "https://research.ibm.com/blog/bamba-ssm-transformer-model"
+            },
+            {
+                "title": "Performance optimization is hard because it's fundamentally a brute-force task",
                 "href": "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/"
             },
             {
@@ -779,12 +787,12 @@
                 "href": "https://librelingo.app"
             },
             {
-                "title": "Firefox tab groups are here",
-                "href": "https://blog.mozilla.org/en/firefox/tab-groups-community/"
-            },
-            {
                 "title": "Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD",
                 "href": "https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer"
+            },
+            {
+                "title": "Firefox tab groups are here",
+                "href": "https://blog.mozilla.org/en/firefox/tab-groups-community/"
             },
             {
                 "title": "Programming languages should have a tree traversal primitive",
@@ -795,12 +803,16 @@
                 "href": "https://blog.bymitch.com/posts/reject-cookies/"
             },
             {
+                "title": "Qwen3: Think deeper, act faster",
+                "href": "https://qwenlm.github.io/blog/qwen3/"
+            },
+            {
                 "title": "Show HN: Flowcode \u2013 Turing-complete visual programming platform",
                 "href": "https://app.getflowcode.io/playground/example1"
             },
             {
-                "title": "Qwen3: Think deeper, act faster",
-                "href": "https://qwenlm.github.io/blog/qwen3/"
+                "title": "Indian court orders blocking of Proton Mail",
+                "href": "https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/"
             },
             {
                 "title": "A single line of code cost $8000",
@@ -819,16 +831,20 @@
                 "href": "https://daringfireball.net/2025/04/try_switching_to_kagi"
             },
             {
-                "title": "Generative AI is not replacing jobs or hurting wages at all, say economists",
-                "href": "https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/"
-            },
-            {
                 "title": "Meta AI App built with Llama 4",
                 "href": "https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/"
             },
             {
                 "title": "How to build Intrinsic Motivation: a review of the science",
                 "href": "https://erringtowardsanswers.substack.com/p/intrinsic-motivation"
+            },
+            {
+                "title": "Generative AI is not replacing jobs or hurting wages at all, say economists",
+                "href": "https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/"
+            },
+            {
+                "title": "Heart disease deaths worldwide linked to chemical widely used in plastics",
+                "href": "https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html"
             },
             {
                 "title": "The One-Person Framework in Practice",
@@ -839,32 +855,24 @@
                 "href": "https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html"
             },
             {
-                "title": "Heart disease deaths worldwide linked to chemical widely used in plastics",
-                "href": "https://medicalxpress.com/news/2025-04-heart-disease-deaths-worldwide-linked.html"
+                "title": "Show HN: Memex is a Claude Code alternative built on Rust+Tauri for vibe coding",
+                "href": "https://memex.tech"
             },
             {
                 "title": "After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth",
                 "href": "https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234"
             },
             {
-                "title": "What Is \"Induced Atmospheric Vibration\"?",
-                "href": "https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration"
-            },
-            {
                 "title": "Pyrefly - A faster Python type checker written in Rust",
                 "href": "https://pyrefly.org/"
             },
             {
+                "title": "What Is \"Induced Atmospheric Vibration\"?",
+                "href": "https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration"
+            },
+            {
                 "title": "One Million Chessboards",
                 "href": "https://onemillionchessboards.com/#199,276"
-            },
-            {
-                "title": "Japan unveils first solar super-panel",
-                "href": "https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/"
-            },
-            {
-                "title": "Indian court orders blocking of Proton Mail",
-                "href": "https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/"
             },
             {
                 "title": "Ask HN: What are you working on? (April 2025)",
@@ -873,14 +881,6 @@
             {
                 "title": "Running Clojure in WASM with GraalVM",
                 "href": "https://romanliutikov.com/blog/running-clojure-in-wasm"
-            },
-            {
-                "title": "Widespread power outage in Spain and Portugal",
-                "href": "https://www.bbc.com/news/live/c9wpq8xrvd9t"
-            },
-            {
-                "title": "Manuscript of Ismail al-Jazar\u012b's Ingenious Mechanical Devices (ca. 17th century)",
-                "href": "https://publicdomainreview.org/collection/arabic-machine-manuscript/"
             }
         ]
     }
