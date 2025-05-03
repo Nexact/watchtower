@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "What I\u2019ve learned from jj",
-                "href": "https://zerowidth.com/2025/what-ive-learned-from-jj/"
-            },
-            {
                 "title": "Replacing Kubernetes with systemd (2024)",
                 "href": "https://blog.yaakov.online/replacing-kubernetes-with-systemd/"
+            },
+            {
+                "title": "What I\u2019ve learned from jj",
+                "href": "https://zerowidth.com/2025/what-ive-learned-from-jj/"
             },
             {
                 "title": "Rye principles",
@@ -21,6 +21,10 @@
             {
                 "title": "Starting on seamless C++ interop in jank",
                 "href": "https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/"
+            },
+            {
+                "title": "Don't make Google sell Chrome",
+                "href": "https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6"
             },
             {
                 "title": "Stop treating `AGI' as the north-star goal of AI research",
@@ -37,10 +41,6 @@
             {
                 "title": "Reflecting on a year of Gamedev in Zig",
                 "href": "https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/"
-            },
-            {
-                "title": "Don't make Google sell Chrome",
-                "href": "https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6"
             },
             {
                 "title": "A Common Lisp jq replacement",
@@ -67,8 +67,24 @@
                 "href": "https://eli.thegreenplace.net/2025/bloom-filters/"
             },
             {
-                "title": "Projecting sheet music onto smart glasses",
-                "href": "https://www.youtube.com/watch?v=j36u2i7PKKE"
+                "title": "Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134"
+            },
+            {
+                "title": "jj tips and tricks",
+                "href": "https://zerowidth.com/2025/jj-tips-and-tricks/"
+            },
+            {
+                "title": "epub-utils: A Python CLI and utility library for manipulating EPUB files",
+                "href": "https://github.com/ernestofgonzalez/epub-utils"
+            },
+            {
+                "title": "Java Strings Just Got Faster",
+                "href": "https://inside.java/2025/05/01/strings-just-got-faster/"
+            },
+            {
+                "title": "Kate and Python language server",
+                "href": "https://akselmo.dev/posts/kate-python-lsp/"
             },
             {
                 "title": "Progressive enhancement is a moral argument (2016)",
@@ -79,28 +95,12 @@
                 "href": "https://www.netmeister.org/blog/netbsd-pqc.html"
             },
             {
-                "title": "Java Strings Just Got Faster",
-                "href": "https://inside.java/2025/05/01/strings-just-got-faster/"
+                "title": "Projecting sheet music onto smart glasses",
+                "href": "https://www.youtube.com/watch?v=j36u2i7PKKE"
             },
             {
                 "title": "Optimizing Guile Scheme",
                 "href": "https://dthompson.us/posts/optimizing-guile-scheme.html"
-            },
-            {
-                "title": "Kate and Python language server",
-                "href": "https://akselmo.dev/posts/kate-python-lsp/"
-            },
-            {
-                "title": "Adaptive Hashing",
-                "href": "https://quotenil.com/adaptive-hashing.html"
-            },
-            {
-                "title": "Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134"
-            },
-            {
-                "title": "Redis is open source again",
-                "href": "https://antirez.com/news/151"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Google Plans To Roll Out Its AI Chatbot To Children Under 13",
+                "href": "https://tech.slashdot.org/story/25/05/03/0136232/google-plans-to-roll-out-its-ai-chatbot-to-children-under-13?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Man Pleads Guilty To Stealing 1.1 Terabytes of Disney's Slack Data",
                 "href": "https://yro.slashdot.org/story/25/05/03/0126234/man-pleads-guilty-to-stealing-11-terabytes-of-disneys-slack-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "US Approves CRISPR Pigs For Food",
                 "href": "https://science.slashdot.org/story/25/05/02/1651254/us-approves-crispr-pigs-for-food?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Scientists Discover Massive Molecular Cloud Close To Earth",
-                "href": "https://science.slashdot.org/story/25/05/02/0515209/scientists-discover-massive-molecular-cloud-close-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,20 +759,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Minimum Viable Blog",
-                "href": "https://ostwilkens.se/blog/setting-up-blog"
-            },
-            {
                 "title": "Accountability Sinks",
                 "href": "https://250bpm.substack.com/p/accountability-sinks"
+            },
+            {
+                "title": "Minimum Viable Blog",
+                "href": "https://ostwilkens.se/blog/setting-up-blog"
             },
             {
                 "title": "Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers",
                 "href": "https://github.com/c1570/Connomore64"
             },
             {
+                "title": "Speedrunning and Modding the Incredibles: Rise of the Underminer",
+                "href": "https://farlow.dev/2025/05/02/rotu"
+            },
+            {
                 "title": "Old Soviet Venus descent craft nearing Earth reentry",
                 "href": "https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/"
+            },
+            {
+                "title": "Show HN: Use Third Party LLM API in JetBrains AI Assistant",
+                "href": "https://github.com/Stream29/ProxyAsLocalModel"
             },
             {
                 "title": "Creating Bluey: Tales from the Art Director",
@@ -791,12 +799,20 @@
                 "href": "https://github.com/TechnicJelle/GitDroid"
             },
             {
-                "title": "Speedrunning and Modding the Incredibles: Rise of the Underminer",
-                "href": "https://farlow.dev/2025/05/02/rotu"
-            },
-            {
                 "title": "I put sheet music into smart glasses [video]",
                 "href": "https://www.youtube.com/watch?v=j36u2i7PKKE"
+            },
+            {
+                "title": "What New Orleans Taught Me",
+                "href": "https://commonedge.org/what-new-orleans-taught-me/"
+            },
+            {
+                "title": "The number of new apartments is at a 50-year high, but states expect a slowdown",
+                "href": "https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/"
+            },
+            {
+                "title": "The future of solar doesn't track the sun",
+                "href": "https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/"
             },
             {
                 "title": "Depictions of the Milky Way found in ancient Egyptian imagery",
@@ -807,20 +823,24 @@
                 "href": "https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/"
             },
             {
+                "title": "ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal",
+                "href": "https://github.com/ernestofgonzalez/epub-utils"
+            },
+            {
                 "title": "Open-source AI platform for ear-based sensing applications",
                 "href": "https://open-earable.teco.edu/"
             },
             {
-                "title": "ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal",
-                "href": "https://github.com/ernestofgonzalez/epub-utils"
+                "title": "Expanding on what we missed with sycophancy",
+                "href": "https://openai.com/index/expanding-on-sycophancy/"
             },
             {
                 "title": "Strings Just Got Faster",
                 "href": "https://inside.java/2025/05/01/strings-just-got-faster/"
             },
             {
-                "title": "Expanding on what we missed with sycophancy",
-                "href": "https://openai.com/index/expanding-on-sycophancy/"
+                "title": "PScientists reveal how bats learn to identify which prey is safe to eat",
+                "href": "https://phys.org/news/2025-04-palatable-poisonous-scientists-reveal-prey.html"
             },
             {
                 "title": "Why Is the Kiwi's Egg So Big?",
@@ -835,22 +855,6 @@
                 "href": "https://github.com/nathan-barry/gpt2-webgl"
             },
             {
-                "title": "Suno v4.5",
-                "href": "https://suno.com/explore/"
-            },
-            {
-                "title": "PScientists reveal how bats learn to identify which prey is safe to eat",
-                "href": "https://phys.org/news/2025-04-palatable-poisonous-scientists-reveal-prey.html"
-            },
-            {
-                "title": "Derivation and Intuition behind Poisson distribution",
-                "href": "https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396"
-            },
-            {
-                "title": "The future of solar doesn't track the sun",
-                "href": "https://terraformindustries.wordpress.com/2025/04/29/the-future-of-solar-doesnt-track-the-sun/"
-            },
-            {
                 "title": "What I've learned from jj",
                 "href": "https://zerowidth.com/2025/what-ive-learned-from-jj/"
             },
@@ -859,24 +863,20 @@
                 "href": "https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/"
             },
             {
-                "title": "Doom GPU Flame Graphs",
-                "href": "https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html"
+                "title": "Suno v4.5",
+                "href": "https://suno.com/explore/"
+            },
+            {
+                "title": "Derivation and Intuition behind Poisson distribution",
+                "href": "https://antaripasaha.notion.site/Derivation-and-Intuition-behind-Poisson-distribution-1255314a56398062bf9dd9049fb1c396"
             },
             {
                 "title": "Show HN: Blast \u2013 Fast, multi-threaded serving engine for web browsing AI agents",
                 "href": "https://github.com/stanford-mast/blast"
             },
             {
-                "title": "The Cannae Problem",
-                "href": "https://www.joanwestenberg.com/the-cannae-problem/"
-            },
-            {
-                "title": "Building Burstables: CPU slicing with cgroups",
-                "href": "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups"
-            },
-            {
-                "title": "Just redesigned my personal site with a TTY-style interface",
-                "href": "https://www.abdisa.me/"
+                "title": "Two-phase chip cooling with manifold-capillary structures enables 10\u2075 COP",
+                "href": "https://www.sciencedirect.com/science/article/pii/S2666386425001195"
             }
         ]
     }
