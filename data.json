@@ -51,8 +51,20 @@
                 "href": "https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/"
             },
             {
+                "title": "OCaml cross-compilation: an experiment",
+                "href": "https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment"
+            },
+            {
+                "title": "bash/POSIX-compatible shell implemented in Rust",
+                "href": "https://github.com/reubeno/brush"
+            },
+            {
                 "title": "Rust in QEMU update",
                 "href": "https://lore.kernel.org/qemu-devel/d3d1944e-2482-4aa7-b621-596246a08107@gnu.org/T/#u"
+            },
+            {
+                "title": "Wikimedia Cloud VPS: IPv6 support",
+                "href": "https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/"
             },
             {
                 "title": "What is my fuzzer doing?",
@@ -63,44 +75,32 @@
                 "href": "https://inside.java/2025/03/19/performance-improvements-in-jdk24/"
             },
             {
-                "title": "Wikimedia Cloud VPS: IPv6 support",
-                "href": "https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/"
+                "title": "Towards React Server Components in Clojure, Part 1",
+                "href": "https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1"
             },
             {
                 "title": "Implementing a Struct of Arrays",
                 "href": "https://brevzin.github.io/c++/2025/05/02/soa/"
             },
             {
+                "title": "The state of SSL stacks",
+                "href": "https://www.haproxy.com/blog/state-of-ssl-stacks"
+            },
+            {
                 "title": "The future of web development is AI. Get on or get left behind",
                 "href": "https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/"
             },
             {
+                "title": "Reverse-engineering Fujitsu M7MU RELC hardware compression",
+                "href": "https://op-co.de/blog/posts/fujitsu_relc_compression/"
+            },
+            {
+                "title": "Lazarus release 4.0",
+                "href": "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
+            },
+            {
                 "title": "How prime factorizations govern the Collatz conjecture",
                 "href": "http://perette.barella.org/Science/collatz.html"
-            },
-            {
-                "title": "VectorVFS: Filesystem as a Vector Database",
-                "href": "https://vectorvfs.readthedocs.io/en/latest/"
-            },
-            {
-                "title": "Barycentric Coordinates (2020)",
-                "href": "https://observablehq.com/@infowantstobeseen/barycentric-coordinates"
-            },
-            {
-                "title": "Summer of Math Exposition 4",
-                "href": "https://some.3b1b.co/"
-            },
-            {
-                "title": "Critical CSS Generator",
-                "href": "https://critical-css-extractor.kigo.studio/"
-            },
-            {
-                "title": "modern-latex: A short guide to LaTeX that avoids legacy cruft",
-                "href": "https://github.com/mrkline/modern-latex"
-            },
-            {
-                "title": "Understanding Memory Management, Part 5: Fighting with Rust",
-                "href": "https://educatedguesswork.org/posts/memory-management-5/"
             }
         ]
     },
@@ -323,6 +323,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Amazon's Zoox Robotaxi Unit Issues Software Recall After Recent Las Vegas Crash",
+                "href": "https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Trump Admin Plans To Shut Down the Energy Star Program",
+                "href": "https://hardware.slashdot.org/story/25/05/06/2111247/trump-admin-plans-to-shut-down-the-energy-star-program?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Google Accidentally Reveals Android's Material 3 Expressive Interface",
                 "href": "https://tech.slashdot.org/story/25/05/06/2119207/google-accidentally-reveals-androids-material-3-expressive-interface?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,14 +381,6 @@
             {
                 "title": "Amazon Adds Purchase Button To iOS Kindle App Following App Store Rule Changes",
                 "href": "https://apple.slashdot.org/story/25/05/06/1423250/amazon-adds-purchase-button-to-ios-kindle-app-following-app-store-rule-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microsoft Labels Some Fired Staff as 'Good Attrition', Imposes Two-Year Rehiring Ban",
-                "href": "https://it.slashdot.org/story/25/05/06/143242/microsoft-labels-some-fired-staff-as-good-attrition-imposes-two-year-rehiring-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "OpenAI Reaches Agreement To Buy Startup Windsurf For $3 Billion",
-                "href": "https://slashdot.org/story/25/05/06/0152211/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,16 +767,28 @@
                 "href": "https://felixrieseberg.github.io/clippy/"
             },
             {
+                "title": "FTC bans hidden fees for live events and short-term rentals, effective May 12",
+                "href": "https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/"
+            },
+            {
+                "title": "Why Bloat Is Still Software's Biggest Vulnerability (2024)",
+                "href": "https://spectrum.ieee.org/lean-software-development"
+            },
+            {
                 "title": "Launch HN: Exa (YC S21) \u2013 The web as a database",
                 "href": "item?id=43906841"
+            },
+            {
+                "title": "OpenAI reaches agreement to buy Windsurf for $3B",
+                "href": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion"
             },
             {
                 "title": "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
                 "href": "https://whippyterm.com"
             },
             {
-                "title": "OpenAI reaches agreement to buy Windsurf for $3B",
-                "href": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion"
+                "title": "Sutton and Barto Book Implementation",
+                "href": "https://github.com/ivanbelenky/RL"
             },
             {
                 "title": "ACE-Step: A step towards music generation foundation model",
@@ -787,100 +799,88 @@
                 "href": "https://github.com/reubeno/brush"
             },
             {
-                "title": "Old Timey Code and Old Timey Mono Fonts",
-                "href": "https://github.com/dse/old-timey-mono-font"
+                "title": "India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir",
+                "href": "https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/"
             },
             {
-                "title": "Sutton and Barto Book Implementation",
-                "href": "https://github.com/ivanbelenky/RL"
+                "title": "Old Timey Code and Old Timey Mono Fonts",
+                "href": "https://github.com/dse/old-timey-mono-font"
             },
             {
                 "title": "The curse of knowing how, or; fixing everything",
                 "href": "https://notashelf.dev/posts/curse-of-knowing"
             },
             {
-                "title": "Accents in latent spaces: How AI hears accent strength in English",
-                "href": "https://accent-strength.boldvoice.com/"
+                "title": "Claude's system prompt is over 24k tokens with tools",
+                "href": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
+            },
+            {
+                "title": "Creativity Came to Pass \u2013 AI Dystopia",
+                "href": "https://vale.rocks/posts/creativity-came-to-pass"
             },
             {
                 "title": "Continue (YC S23) is hiring software engineers in San Francisco",
                 "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
             },
             {
-                "title": "Show HN: Plexe \u2013 ML Models from a Prompt",
-                "href": "https://github.com/plexe-ai/plexe"
+                "title": "Accents in latent spaces: How AI hears accent strength in English",
+                "href": "https://accent-strength.boldvoice.com/"
             },
             {
                 "title": "Nnd \u2013 a TUI debugger alternative to GDB, LLDB",
                 "href": "https://github.com/al13n321/nnd"
             },
             {
+                "title": "Show HN: Plexe \u2013 ML Models from a Prompt",
+                "href": "https://github.com/plexe-ai/plexe"
+            },
+            {
+                "title": "Reverse-engineering Fujitsu M7MU RELC hardware compression",
+                "href": "https://op-co.de/blog/posts/fujitsu_relc_compression/"
+            },
+            {
                 "title": "Is Planet Nine Alone in the Outer System?",
                 "href": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/"
             },
             {
-                "title": "Show HN: Sheet Music in Smart Glasses",
-                "href": "item?id=43906442"
-            },
-            {
-                "title": "Understanding effective type Aliasing in C [pdf]",
-                "href": "https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf"
+                "title": "DEA Once Touted Body Cameras, Now Abandoning Them",
+                "href": "https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump"
             },
             {
                 "title": "Sneakers (1992) \u2013 4K makeover sourced from the original camera negative",
                 "href": "https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/"
             },
             {
-                "title": "Show HN: Feedsmith \u2014 Fast parser & generator for RSS, Atom, OPML feed namespaces",
-                "href": "https://github.com/macieklamberski/feedsmith"
+                "title": "Tulsi Gabbard Reused the Same Weak Password on Multiple Accounts for Years",
+                "href": "https://www.wired.com/story/tulsi-gabbard-dni-weak-password/"
             },
             {
-                "title": "TeleMessage, used by Trump officials, can access plaintext chat logs",
-                "href": "https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/"
+                "title": "Can Speed Radar Measure Music? [video]",
+                "href": "https://www.youtube.com/watch?v=CA79t0bYAjw"
             },
             {
-                "title": "DoorDash to acquire Deliveroo",
-                "href": "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html"
+                "title": "VVVVVV Source Code",
+                "href": "https://github.com/TerryCavanagh/VVVVVV"
+            },
+            {
+                "title": "Show HN: Sheet Music in Smart Glasses",
+                "href": "item?id=43906442"
             },
             {
                 "title": "New studies offer insight into Lyme disease\u2019s treatment, lingering symptoms",
                 "href": "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/"
             },
             {
+                "title": "Understanding effective type Aliasing in C [pdf]",
+                "href": "https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf"
+            },
+            {
+                "title": "Jury orders NSO to pay $167M for hacking WhatsApp users",
+                "href": "https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/"
+            },
+            {
                 "title": "Gemini 2.5 Pro Preview",
                 "href": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/"
-            },
-            {
-                "title": "iOS Kindle app now has a \u2018get book\u2019 button after changes to App Store rules",
-                "href": "https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books"
-            },
-            {
-                "title": "Design and evaluation of a parrot-to-parrot video-calling system (2023)",
-                "href": "https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/"
-            },
-            {
-                "title": "The Inchtuthil Nail Hoard",
-                "href": "https://www.scottishhistory.org/articles/the-inchtuthil-nail-hoard/"
-            },
-            {
-                "title": "MTerrain: Optimized terrain system and editor for Godot",
-                "href": "https://github.com/mohsenph69/Godot-MTerrain-plugin"
-            },
-            {
-                "title": "Scientists discover new way to convert corn waste to low-cost sugar for biofuel",
-                "href": "https://news.wsu.edu/press-release/2025/05/06/scientists-discover-a-new-way-to-convert-corn-waste-into-low-cost-sugar-for-biofuel/"
-            },
-            {
-                "title": "Propositions as Types (2014) [pdf]",
-                "href": "https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf"
-            },
-            {
-                "title": "An appeal to Apple from Anukari",
-                "href": "https://anukari.com/blog/devlog/an-appeal-to-apple"
-            },
-            {
-                "title": "Matt Godbolt sold me on Rust by showing me C++",
-                "href": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
             }
         ]
     }
