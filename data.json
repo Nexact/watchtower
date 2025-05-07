@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Zed Editor adds full AI capabilities",
-                "href": "https://zed.dev/blog/fastest-ai-code-editor"
-            },
-            {
                 "title": "CLion Is Now Free for Non-Commercial Use",
                 "href": "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/"
+            },
+            {
+                "title": "Zed Editor adds full AI capabilities",
+                "href": "https://zed.dev/blog/fastest-ai-code-editor"
             },
             {
                 "title": "Finale - How Music Software Dies",
@@ -39,12 +39,16 @@
                 "href": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp"
             },
             {
-                "title": "Glossary Web Component",
-                "href": "https://dbushell.com/2025/05/07/glossary-web-component/"
+                "title": "A Rust API Inspired by Python, Powered by Serde",
+                "href": "https://ohadravid.github.io/posts/2025-05-serde-reflect/"
             },
             {
                 "title": "Writing Arabic in English: My journey in creating a phonetic Arabic keyboard",
                 "href": "https://sherifelmetwally.com/writing/writing-arabic-in-english"
+            },
+            {
+                "title": "Glossary Web Component",
+                "href": "https://dbushell.com/2025/05/07/glossary-web-component/"
             },
             {
                 "title": "The state of SSL stacks",
@@ -59,10 +63,6 @@
                 "href": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.0"
             },
             {
-                "title": "A Rust API Inspired by Python, Powered by Serde",
-                "href": "https://ohadravid.github.io/posts/2025-05-serde-reflect/"
-            },
-            {
                 "title": "Implement your language twice",
                 "href": "https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html"
             },
@@ -73,6 +73,10 @@
             {
                 "title": "bash/POSIX-compatible shell implemented in Rust",
                 "href": "https://github.com/reubeno/brush"
+            },
+            {
+                "title": "The magic of software; or, what makes a good engineer also makes a good engineering organization",
+                "href": "https://moxie.org/2024/09/23/a-good-engineer.html"
             },
             {
                 "title": "Are 'CSS Carousels' accessible?",
@@ -89,10 +93,6 @@
             {
                 "title": "OCaml cross-compilation: an experiment",
                 "href": "https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment"
-            },
-            {
-                "title": "The magic of software; or, what makes a good engineer also makes a good engineering organization",
-                "href": "https://moxie.org/2024/09/23/a-good-engineer.html"
             },
             {
                 "title": "GenAI-accelerated TLA+ challenge",
@@ -759,28 +759,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-                "href": "https://pganalyze.com/blog/postgres-18-async-io"
-            },
-            {
                 "title": "Three Chapters at Cloudflare: Programmer to CTO to Board of Directors",
                 "href": "https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/"
             },
             {
-                "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
-                "href": "https://github.com/ciromattia/kcc"
+                "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
+                "href": "https://pganalyze.com/blog/postgres-18-async-io"
             },
             {
                 "title": "Ty: A fast Python type checker and language server, written in Rust",
                 "href": "https://github.com/astral-sh/ty"
             },
             {
+                "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
+                "href": "https://github.com/ciromattia/kcc"
+            },
+            {
                 "title": "Create and edit images with Gemini 2.0 in preview",
                 "href": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/"
             },
             {
+                "title": "Mistral ships le chat \u2013 enterprise AI assistant that can run on prem",
+                "href": "https://mistral.ai/news/le-chat-enterprise"
+            },
+            {
                 "title": "Telling Lies: Bowie and Online Music Distribution in 1996",
                 "href": "https://cybercultural.com/p/online-music-distribution-1996/"
+            },
+            {
+                "title": "Open source Google Analytics replacement",
+                "href": "https://github.com/rybbit-io/rybbit"
+            },
+            {
+                "title": "Motion (YC W20) Is Hiring a Senior Engineers",
+                "href": "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn"
             },
             {
                 "title": "My quest to make motorcycle riding that tad bit safer",
@@ -791,12 +803,8 @@
                 "href": "https://dynomight.net/blood/"
             },
             {
-                "title": "Motion (YC W20) Is Hiring a Senior Engineers",
-                "href": "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn"
-            },
-            {
-                "title": "Mistral ships le chat \u2013 enterprise AI assistant that can run on prem",
-                "href": "https://mistral.ai/news/le-chat-enterprise"
+                "title": "Zed: High-performance AI Code Editor",
+                "href": "https://zed.dev/blog/fastest-ai-code-editor"
             },
             {
                 "title": "CLion Is Now Free for Non-Commercial Use",
@@ -807,32 +815,28 @@
                 "href": "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html"
             },
             {
-                "title": "Zed: High-performance AI Code Editor",
-                "href": "https://zed.dev/blog/fastest-ai-code-editor"
-            },
-            {
                 "title": "Show HN: 100.st \u2013 Dev utilities I built for format conversions and encoding",
                 "href": "https://100.st"
             },
             {
-                "title": "Getting Older Isn't What You Think",
-                "href": "https://www.katycowan.co.uk/blog/getting-old"
-            },
-            {
-                "title": "Social AI companions pose unacceptable risks to teens and children under 18",
-                "href": "https://www.commonsensemedia.org/ai-ratings/social-ai-companions"
+                "title": "Stringly Typed",
+                "href": "https://www.stefanjudis.com/blog/stringly-typed/"
             },
             {
                 "title": "Polycompiler: Merge Python and JavaScript code into one file that runs in both",
                 "href": "https://github.com/EvanZhouDev/polycompiler"
             },
             {
-                "title": "Perfect Random Floating-Point Numbers",
-                "href": "https://specbranch.com/posts/fp-rand/"
+                "title": "Single hair-like electrode outperforms traditional 21-lead EEG",
+                "href": "https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/"
             },
             {
-                "title": "Stringly Typed",
-                "href": "https://www.stefanjudis.com/blog/stringly-typed/"
+                "title": "Getting Older Isn't What You Think",
+                "href": "https://www.katycowan.co.uk/blog/getting-old"
+            },
+            {
+                "title": "Perfect Random Floating-Point Numbers",
+                "href": "https://specbranch.com/posts/fp-rand/"
             },
             {
                 "title": "OpenAI reaches agreement to buy Windsurf for $3B",
@@ -841,6 +845,10 @@
             {
                 "title": "OpenSearch 3.0 Released",
                 "href": "https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/"
+            },
+            {
+                "title": "WeightWatchers files bankruptcy",
+                "href": "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac"
             },
             {
                 "title": "Launch HN: Exa (YC S21) \u2013 The web as a database",
@@ -859,20 +867,12 @@
                 "href": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
             },
             {
-                "title": "WeightWatchers files bankruptcy",
-                "href": "https://www.wsj.com/articles/weightwatchers-files-bankruptcy-to-adapt-to-chemically-induced-weight-loss-future-a63aa8ac"
-            },
-            {
                 "title": "Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk",
                 "href": "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html"
             },
             {
                 "title": "Matt Godbolt sold me on Rust by showing me C++",
                 "href": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
-            },
-            {
-                "title": "Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup",
-                "href": "https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup"
             },
             {
                 "title": "docker2exe: Convert a Docker image to an executable",
