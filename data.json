@@ -35,6 +35,10 @@
                 "href": "https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/"
             },
             {
+                "title": "The state of SSL stacks",
+                "href": "https://www.haproxy.com/blog/state-of-ssl-stacks"
+            },
+            {
                 "title": "The Bitter Lesson (2019)",
                 "href": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"
             },
@@ -47,16 +51,16 @@
                 "href": "https://github.com/martinfama/fui"
             },
             {
-                "title": "How to build a fleet of networked offsite backups using Linux, WireGuard and rsync",
-                "href": "https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/"
-            },
-            {
                 "title": "OCaml cross-compilation: an experiment",
                 "href": "https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment"
             },
             {
                 "title": "bash/POSIX-compatible shell implemented in Rust",
                 "href": "https://github.com/reubeno/brush"
+            },
+            {
+                "title": "How to build a fleet of networked offsite backups using Linux, WireGuard and rsync",
+                "href": "https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/"
             },
             {
                 "title": "Rust in QEMU update",
@@ -75,22 +79,6 @@
                 "href": "https://inside.java/2025/03/19/performance-improvements-in-jdk24/"
             },
             {
-                "title": "Towards React Server Components in Clojure, Part 1",
-                "href": "https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1"
-            },
-            {
-                "title": "Implementing a Struct of Arrays",
-                "href": "https://brevzin.github.io/c++/2025/05/02/soa/"
-            },
-            {
-                "title": "The state of SSL stacks",
-                "href": "https://www.haproxy.com/blog/state-of-ssl-stacks"
-            },
-            {
-                "title": "The future of web development is AI. Get on or get left behind",
-                "href": "https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/"
-            },
-            {
                 "title": "Reverse-engineering Fujitsu M7MU RELC hardware compression",
                 "href": "https://op-co.de/blog/posts/fujitsu_relc_compression/"
             },
@@ -99,8 +87,20 @@
                 "href": "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
             },
             {
-                "title": "How prime factorizations govern the Collatz conjecture",
-                "href": "http://perette.barella.org/Science/collatz.html"
+                "title": "Towards React Server Components in Clojure, Part 1",
+                "href": "https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1"
+            },
+            {
+                "title": "Implementing a Struct of Arrays",
+                "href": "https://brevzin.github.io/c++/2025/05/02/soa/"
+            },
+            {
+                "title": "Glossary Web Component",
+                "href": "https://dbushell.com/2025/05/07/glossary-web-component/"
+            },
+            {
+                "title": "The future of web development is AI. Get on or get left behind",
+                "href": "https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "New Bill Would Force Apple, Google To Open App Store Ecosystems",
+                "href": "https://apple.slashdot.org/story/25/05/06/2252259/new-bill-would-force-apple-google-to-open-app-store-ecosystems?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Amazon's Zoox Robotaxi Unit Issues Software Recall After Recent Las Vegas Crash",
                 "href": "https://tech.slashdot.org/story/25/05/06/2141257/amazons-zoox-robotaxi-unit-issues-software-recall-after-recent-las-vegas-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Most Americans Use Federal Science Information On a Weekly Basis, a New Poll Finds",
                 "href": "https://news.slashdot.org/story/25/05/06/1456252/most-americans-use-federal-science-information-on-a-weekly-basis-a-new-poll-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon Adds Purchase Button To iOS Kindle App Following App Store Rule Changes",
-                "href": "https://apple.slashdot.org/story/25/05/06/1423250/amazon-adds-purchase-button-to-ios-kindle-app-following-app-store-rule-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,12 +767,8 @@
                 "href": "https://felixrieseberg.github.io/clippy/"
             },
             {
-                "title": "FTC bans hidden fees for live events and short-term rentals, effective May 12",
-                "href": "https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/"
-            },
-            {
-                "title": "Why Bloat Is Still Software's Biggest Vulnerability (2024)",
-                "href": "https://spectrum.ieee.org/lean-software-development"
+                "title": "Alignment is not free: How model upgrades can silence your confidence signals",
+                "href": "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals"
             },
             {
                 "title": "Launch HN: Exa (YC S21) \u2013 The web as a database",
@@ -783,16 +779,44 @@
                 "href": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion"
             },
             {
-                "title": "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
-                "href": "https://whippyterm.com"
+                "title": "FTC rule on unfair or deceptive fees to take effect on May 12",
+                "href": "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025"
             },
             {
-                "title": "Sutton and Barto Book Implementation",
+                "title": "Claude's system prompt is over 24k tokens with tools",
+                "href": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
+            },
+            {
+                "title": "VVVVVV Source Code",
+                "href": "https://github.com/TerryCavanagh/VVVVVV"
+            },
+            {
+                "title": "Bloat is still software's biggest vulnerability (2024)",
+                "href": "https://spectrum.ieee.org/lean-software-development"
+            },
+            {
+                "title": "Sutton and Barto book implementation",
                 "href": "https://github.com/ivanbelenky/RL"
+            },
+            {
+                "title": "Scientists have found a way to 'tattoo' tardigrades",
+                "href": "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html"
             },
             {
                 "title": "ACE-Step: A step towards music generation foundation model",
                 "href": "https://github.com/ace-step/ACE-Step"
+            },
+            {
+                "title": "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
+                "href": "https://whippyterm.com"
+            },
+            {
+                "title": "Old Timey Code and Old Timey Mono Fonts",
+                "href": "https://github.com/dse/old-timey-mono-font"
+            },
+            {
+                "title": "Matt Godbolt sold me on Rust by showing me C++",
+                "href": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/"
             },
             {
                 "title": "Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust",
@@ -803,32 +827,40 @@
                 "href": "https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/"
             },
             {
-                "title": "Old Timey Code and Old Timey Mono Fonts",
-                "href": "https://github.com/dse/old-timey-mono-font"
-            },
-            {
-                "title": "The curse of knowing how, or; fixing everything",
-                "href": "https://notashelf.dev/posts/curse-of-knowing"
-            },
-            {
-                "title": "Claude's system prompt is over 24k tokens with tools",
-                "href": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
-            },
-            {
-                "title": "Creativity Came to Pass \u2013 AI Dystopia",
-                "href": "https://vale.rocks/posts/creativity-came-to-pass"
+                "title": "EPA Plans to Shut Down the Energy Star Program",
+                "href": "https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html"
             },
             {
                 "title": "Continue (YC S23) is hiring software engineers in San Francisco",
                 "href": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
             },
             {
+                "title": "Gemini 2.5 Pro Preview",
+                "href": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/"
+            },
+            {
+                "title": "Jury orders NSO to pay $167M for hacking WhatsApp users",
+                "href": "https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/"
+            },
+            {
                 "title": "Accents in latent spaces: How AI hears accent strength in English",
                 "href": "https://accent-strength.boldvoice.com/"
             },
             {
+                "title": "Inside an architect's underground home in Mexico City",
+                "href": "https://www.youtube.com/watch?v=y_k53QmONAY"
+            },
+            {
+                "title": "Creativity came to pass",
+                "href": "https://vale.rocks/posts/creativity-came-to-pass"
+            },
+            {
                 "title": "Nnd \u2013 a TUI debugger alternative to GDB, LLDB",
                 "href": "https://github.com/al13n321/nnd"
+            },
+            {
+                "title": "Is Planet Nine Alone in the Outer System?",
+                "href": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/"
             },
             {
                 "title": "Show HN: Plexe \u2013 ML Models from a Prompt",
@@ -839,48 +871,16 @@
                 "href": "https://op-co.de/blog/posts/fujitsu_relc_compression/"
             },
             {
-                "title": "Is Planet Nine Alone in the Outer System?",
-                "href": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/"
+                "title": "iOS Kindle app now has a \u2018get book\u2019 button after changes to App Store rules",
+                "href": "https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books"
             },
             {
-                "title": "DEA Once Touted Body Cameras, Now Abandoning Them",
-                "href": "https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump"
+                "title": "DoorDash to acquire Deliveroo",
+                "href": "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html"
             },
             {
-                "title": "Sneakers (1992) \u2013 4K makeover sourced from the original camera negative",
-                "href": "https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/"
-            },
-            {
-                "title": "Tulsi Gabbard Reused the Same Weak Password on Multiple Accounts for Years",
-                "href": "https://www.wired.com/story/tulsi-gabbard-dni-weak-password/"
-            },
-            {
-                "title": "Can Speed Radar Measure Music? [video]",
-                "href": "https://www.youtube.com/watch?v=CA79t0bYAjw"
-            },
-            {
-                "title": "VVVVVV Source Code",
-                "href": "https://github.com/TerryCavanagh/VVVVVV"
-            },
-            {
-                "title": "Show HN: Sheet Music in Smart Glasses",
-                "href": "item?id=43906442"
-            },
-            {
-                "title": "New studies offer insight into Lyme disease\u2019s treatment, lingering symptoms",
-                "href": "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/"
-            },
-            {
-                "title": "Understanding effective type Aliasing in C [pdf]",
-                "href": "https://www.open-std.org/JTC1/SC22/WG14/www/docs/n3519.pdf"
-            },
-            {
-                "title": "Jury orders NSO to pay $167M for hacking WhatsApp users",
-                "href": "https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/"
-            },
-            {
-                "title": "Gemini 2.5 Pro Preview",
-                "href": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/"
+                "title": "Will Supercapacitors Come to AI's Rescue?",
+                "href": "https://spectrum.ieee.org/supercapacitor-2671883490"
             }
         ]
     }
