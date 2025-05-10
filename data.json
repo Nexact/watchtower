@@ -7,12 +7,12 @@
                 "href": "https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/#truenas-core-dead-long-live-zvault"
             },
             {
-                "title": "bold linker v0.2.0 release - bold just got faster",
-                "href": "https://github.com/kubkon/bold/releases/tag/v0.2.0"
-            },
-            {
                 "title": "Changelog Slack is dead. Long live Zulip",
                 "href": "https://changelog.com/posts/our-slack-is-dead-long-live-zulip"
+            },
+            {
+                "title": "bold linker v0.2.0 release - bold just got faster",
+                "href": "https://github.com/kubkon/bold/releases/tag/v0.2.0"
             },
             {
                 "title": "Write the most clever code you possibly can",
@@ -23,6 +23,10 @@
                 "href": "https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/"
             },
             {
+                "title": "Lume 3 was released",
+                "href": "https://lume.land/blog/posts/lume-3/"
+            },
+            {
                 "title": "Slow Software for a Burning World",
                 "href": "https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/"
             },
@@ -31,12 +35,12 @@
                 "href": "https://emptysqua.re/blog/are-we-serious-about-statistical-properties-tlaplus/"
             },
             {
-                "title": "branchless development (2015)",
-                "href": "https://flak.tedunangst.com/post/branchless-development"
+                "title": "Announcing Lix 2.93 \u201cBici Bici\u201d",
+                "href": "https://lix.systems/blog/2025-05-06-lix-2.93-release/"
             },
             {
-                "title": "Lume 3 was released",
-                "href": "https://lume.land/blog/posts/lume-3/"
+                "title": "branchless development (2015)",
+                "href": "https://flak.tedunangst.com/post/branchless-development"
             },
             {
                 "title": "Algebraic Effects: Another mistake carried through to perfection?",
@@ -45,6 +49,14 @@
             {
                 "title": "Can It Run Doom? An Archive of All Known Ports",
                 "href": "https://canitrundoom.org/"
+            },
+            {
+                "title": "I Want to Love Linux. It Doesn\u2019t Love Me Back",
+                "href": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/"
+            },
+            {
+                "title": "Reverse engineering the 386 processor's prefetch queue circuitry",
+                "href": "http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html"
             },
             {
                 "title": "Testing sourcery.ai and GitHub Copilot for cockpit PR reviews",
@@ -67,6 +79,14 @@
                 "href": "https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m"
             },
             {
+                "title": "DCJ11 Single Board Computer (PDP-11)",
+                "href": "https://www.5volts.ch/pages/dcj11sbc/"
+            },
+            {
+                "title": "Exploiting Copilot AI for SharePoint",
+                "href": "https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/"
+            },
+            {
                 "title": "Composition: the feature I've wanted in Flox since I joined the company",
                 "href": "https://tinkering.xyz/flox-composition/"
             },
@@ -81,26 +101,6 @@
             {
                 "title": "A tool to verify estimates, II: a flexible proof assistant",
                 "href": "https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/"
-            },
-            {
-                "title": "A Performance Investigation Challenge",
-                "href": "https://www.mgaudet.ca/technical/2025/5/9/a-performance-investigation-challenge"
-            },
-            {
-                "title": "Microservices Are a Tax Your Startup Probably Can\u2019t Afford",
-                "href": "https://nexo.sh/posts/microservices-for-startups/"
-            },
-            {
-                "title": "HACKSAT25: The first multi-tenant satellite unikernel security challenge",
-                "href": "https://hacksat.dev/"
-            },
-            {
-                "title": "Ada in China (1994)",
-                "href": "https://dl.acm.org/doi/pdf/10.1145/181476.181483"
-            },
-            {
-                "title": "Introduction to Universal Scene Description (2021)",
-                "href": "https://openusd.org/release/intro.html"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "More US Airports are Scanning Faces.  But a New Bill Could Limit the Practice",
+                "href": "https://tech.slashdot.org/story/25/05/10/0547237/more-us-airports-are-scanning-faces-but-a-new-bill-could-limit-the-practice?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "High Tariffs Become 'Real' For Adafruit - With Their First $36K Bill Just For Import Duties",
                 "href": "https://yro.slashdot.org/story/25/05/10/0715216/high-tariffs-become-real-for-adafruit---with-their-first-36k-bill-just-for-import-duties?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Newark Airport Radar Outage Strikes Again, Delaying More Flights",
                 "href": "https://tech.slashdot.org/story/25/05/09/2042235/newark-airport-radar-outage-strikes-again-delaying-more-flights?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Whoop Angers Users Over Reneged Free Upgrade Promises",
-                "href": "https://news.slashdot.org/story/25/05/09/2026235/whoop-angers-users-over-reneged-free-upgrade-promises?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,36 +763,40 @@
                 "href": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf"
             },
             {
-                "title": "LTXVideo 13B AI video generation",
-                "href": "https://ltxv.video/"
+                "title": "Prolog's Eternal September (2017)",
+                "href": "https://storytotell.org/prologs-eternal-september"
+            },
+            {
+                "title": "Show HN: Code Claude Code",
+                "href": "https://github.com/RVCA212/codesys"
             },
             {
                 "title": "React Three Ecosystem",
                 "href": "https://www.react-three.org/"
             },
             {
-                "title": "Radxa Orion O6 brings Arm to the midrange PC (with caveats)",
-                "href": "https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc"
-            },
-            {
                 "title": "The deathbed fallacy",
                 "href": "https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html"
+            },
+            {
+                "title": "A Critical Look at MCP",
+                "href": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp"
             },
             {
                 "title": "Farewell to Lee Gold's Alarums and Excursions",
                 "href": "https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/"
             },
             {
-                "title": "Prolog's Eternal September (2017)",
-                "href": "https://storytotell.org/prologs-eternal-september"
+                "title": "Embracer Games Archive is preserving 75000 video games and needs contributions",
+                "href": "https://embracergamesarchive.com/"
             },
             {
                 "title": "Vision Now Available in Llama.cpp",
                 "href": "https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md"
             },
             {
-                "title": "Embracer Games Archive is preserving 75000 video games and needs contributions",
-                "href": "https://embracergamesarchive.com/"
+                "title": "LTXVideo 13B AI video generation",
+                "href": "https://ltxv.video/"
             },
             {
                 "title": "Comparison of C/POSIX standard library implementations for Linux",
@@ -803,10 +807,6 @@
                 "href": "https://www.abortretry.fail/p/intel-winning-and-losing"
             },
             {
-                "title": "Show HN: Code Claude Code",
-                "href": "https://github.com/RVCA212/codesys"
-            },
-            {
                 "title": "Private Japanese lunar lander enters orbit around moon ahead of a June touchdown",
                 "href": "https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html"
             },
@@ -815,52 +815,44 @@
                 "href": "https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste"
             },
             {
+                "title": "Radxa Orion O6 brings Arm to the midrange PC (with caveats)",
+                "href": "https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc"
+            },
+            {
                 "title": "A simple 16x16 dot animation from simple math rules",
                 "href": "https://tixy.land"
-            },
-            {
-                "title": "A Critical Look at MCP",
-                "href": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp"
-            },
-            {
-                "title": "Ancient humans used sunscreen to survive a deadly magnetic pole shift",
-                "href": "https://newatlas.com/history/ancient-humans-ochre-sunscreen-magnetic-pole-shift/"
             },
             {
                 "title": "Gmail to SQLite",
                 "href": "https://github.com/marcboeker/gmail-to-sqlite"
             },
             {
-                "title": "The cult of doing business",
-                "href": "https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job"
-            },
-            {
-                "title": "People Who Hype Cursor Usually Lack Technical Skills",
-                "href": "https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/"
-            },
-            {
                 "title": "Loss of dance and infant-directed song among the Northern Ach\u00e9",
                 "href": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00447-6"
+            },
+            {
+                "title": "The cult of doing business",
+                "href": "https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job"
             },
             {
                 "title": "Detect and crash Chromium bots",
                 "href": "https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/"
             },
             {
-                "title": "Fixrleak: Fixing Java Resource Leaks with GenAI",
-                "href": "https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/"
-            },
-            {
                 "title": "ALICE detects the conversion of lead into gold at the LHC",
                 "href": "https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc"
+            },
+            {
+                "title": "In praise of grobi for auto-configuring X11 monitors",
+                "href": "https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/"
             },
             {
                 "title": "Slow software for a burning world",
                 "href": "https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/"
             },
             {
-                "title": "In praise of grobi for auto-configuring X11 monitors",
-                "href": "https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/"
+                "title": "Fixrleak: Fixing Java Resource Leaks with GenAI",
+                "href": "https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/"
             },
             {
                 "title": "QueryLeaf: SQL for Mongo",
@@ -875,8 +867,16 @@
                 "href": "https://dynomight.substack.com/p/dna"
             },
             {
-                "title": "Cosmos 482 Descent Craft tracker",
-                "href": "http://astria.tacc.utexas.edu/AstriaGraph/"
+                "title": "'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe",
+                "href": "https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use"
+            },
+            {
+                "title": "Ash (Almquist Shell) Variants",
+                "href": "https://www.in-ulm.de/~mascheck/various/ash/"
+            },
+            {
+                "title": "Rust\u2019s dependencies are starting to worry me",
+                "href": "https://vincents.dev/blog/rust-dependencies-scare-me/?"
             }
         ]
     }
