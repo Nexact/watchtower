@@ -35,8 +35,24 @@
                 "href": "https://plainvanillaweb.com/index.html"
             },
             {
+                "title": "Why Bell Labs Worked",
+                "href": "https://1517.substack.com/p/why-bell-labs-worked"
+            },
+            {
+                "title": "Hyper-Typing",
+                "href": "https://pscanf.com/s/341/"
+            },
+            {
+                "title": "Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more",
+                "href": "https://servo.org/blog/2025/05/09/this-month-in-servo/"
+            },
+            {
                 "title": "Patela: A basement full of amnesic servers",
                 "href": "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/"
+            },
+            {
+                "title": "Flakes Have Failed",
+                "href": "https://kilo.bytesize.xyz/flakes-have-failed"
             },
             {
                 "title": "Avoid #each_with_object (generally)",
@@ -47,36 +63,28 @@
                 "href": "https://github.com/tursomari/machtiani"
             },
             {
-                "title": "Flakes Have Failed",
-                "href": "https://kilo.bytesize.xyz/flakes-have-failed"
-            },
-            {
-                "title": "Hyper-Typing",
-                "href": "https://pscanf.com/s/341/"
+                "title": "Flattening Rust's Learning Curve",
+                "href": "https://corrode.dev/blog/flattening-rusts-learning-curve/"
             },
             {
                 "title": "XKCD's \"Is It Worth the Time?\" Considered Harmful",
                 "href": "https://will-keleher.com/posts/its-not-worth-the-time-yet.html"
             },
             {
-                "title": "Flattening Rust's Learning Curve",
-                "href": "https://corrode.dev/blog/flattening-rusts-learning-curve/"
-            },
-            {
-                "title": "Why Bell Labs Worked",
-                "href": "https://1517.substack.com/p/why-bell-labs-worked"
+                "title": "Build iOS apps on Linux and Windows (WSL)",
+                "href": "https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803"
             },
             {
                 "title": "How I ruined my vacation by reverse engineering WSC",
                 "href": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation"
             },
             {
-                "title": "Build iOS apps on Linux and Windows (WSL)",
-                "href": "https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803"
-            },
-            {
                 "title": "Spall: a code profiler that runs in your browser",
                 "href": "https://gravitymoth.com/spall/spall-web.html"
+            },
+            {
+                "title": "Build and Run Your Own FreeBSD-native Containers with Buildah, Containerfiles and Podman",
+                "href": "https://honeyguide.eu/posts/build-own-containers-buildah-podman-freebsd/"
             },
             {
                 "title": "Rust project goals 2024: Stabilizing Rust in the Linux Kernel",
@@ -87,20 +95,12 @@
                 "href": "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
             },
             {
-                "title": "Build and Run Your Own FreeBSD-native Containers with Buildah, Containerfiles and Podman",
-                "href": "https://honeyguide.eu/posts/build-own-containers-buildah-podman-freebsd/"
+                "title": "The last of YaST?",
+                "href": "https://lwn.net/SubscriberLink/1020408/8c022fd8256693d5/"
             },
             {
                 "title": "Ian Lance Taylor of the Go team leaves Google",
                 "href": "https://www.airs.com/blog/archives/670"
-            },
-            {
-                "title": "proposal: net/http: add CrossOriginForgeryHandler",
-                "href": "https://github.com/golang/go/issues/73626"
-            },
-            {
-                "title": "One-click RCE in ASUS\u2019s preinstalled driver software",
-                "href": "https://mrbruh.com/asusdriverhub/"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Hackers now testing ClickFix attacks against Linux targets",
+                "href": "https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/"
+            },
+            {
                 "title": "Output Messenger flaw exploited as zero-day in espionage attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Google Chrome to use on-device AI to detect tech support scams",
                 "href": "https://www.bleepingcomputer.com/news/security/google-chrome-to-use-on-device-ai-to-detect-tech-support-scams/"
-            },
-            {
-                "title": "Police dismantles botnet selling hacked routers as residential proxies",
-                "href": "https://www.bleepingcomputer.com/news/security/police-dismantles-botnet-selling-hacked-routers-as-residential-proxies/"
             }
         ]
     },
@@ -448,6 +448,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "VMware security advisory (AV25-263)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-263"
+            },
             {
                 "title": "IBM security advisory (AV25-262)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-262"
@@ -643,10 +647,6 @@
             {
                 "title": "[Control systems] Siemens security advisory (AV25-215)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-215"
-            },
-            {
-                "title": "Oracle security advisory \u2013 April 2025 quarterly rollup (AV25-214)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2025-quarterly-rollup-av25-214"
             }
         ]
     },
@@ -775,20 +775,40 @@
                 "href": "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/"
             },
             {
-                "title": "Traffic Fatalities Are a Choice",
-                "href": "https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice"
-            },
-            {
                 "title": "Launch HN: ParaQuery (YC X25) \u2013 GPU Accelerated Spark/SQL",
                 "href": "item?id=43964505"
+            },
+            {
+                "title": "A community-led fork of Organic Maps",
+                "href": "https://www.comaps.app/news/2025-05-12/3/"
+            },
+            {
+                "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+                "href": "https://arxiv.org/abs/2412.09871"
+            },
+            {
+                "title": "HealthBench",
+                "href": "https://openai.com/index/healthbench/"
             },
             {
                 "title": "Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI",
                 "href": "https://www.workatastartup.com/jobs/75011"
             },
             {
-                "title": "A community-led fork of Organic Maps",
-                "href": "https://www.comaps.app/news/2025-05-12/3/"
+                "title": "Show HN: Airweave \u2013 Let agents search any app",
+                "href": "https://github.com/airweave-ai/airweave"
+            },
+            {
+                "title": "Demonstrably Secure Software Supply Chains with Nix",
+                "href": "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
+            },
+            {
+                "title": "Reviving a Modular Cargo Bike Design from the 1930s",
+                "href": "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s"
+            },
+            {
+                "title": "Ruby 3.5 Feature: Namespace on read",
+                "href": "https://bugs.ruby-lang.org/issues/21311"
             },
             {
                 "title": "University of Texas-led team solves a big problem for fusion energy",
@@ -799,20 +819,20 @@
                 "href": "https://blog.janestreet.com/why-gadts-matter-for-performance/"
             },
             {
-                "title": "Demonstrably Secure Software Supply Chains with Nix",
-                "href": "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
-            },
-            {
                 "title": "Tailscale 4via6 \u2013 Connect Edge Deployments at Scale",
                 "href": "https://tailscale.com/blog/4via6-connectivity-to-edge-devices"
             },
             {
-                "title": "Ruby 3.5 Feature: Namespace on read",
-                "href": "https://bugs.ruby-lang.org/issues/21311"
+                "title": "5 Steps to N-Body Simulation",
+                "href": "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/"
             },
             {
-                "title": "Reviving a Modular Cargo Bike Design from the 1930s",
-                "href": "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s"
+                "title": "Universe expected to decay in 10\u2077\u2078 years, much sooner than previously thought",
+                "href": "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html"
+            },
+            {
+                "title": "Spade Hardware Description Language",
+                "href": "https://spade-lang.org/"
             },
             {
                 "title": "OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information",
@@ -823,20 +843,16 @@
                 "href": "https://github.com/m-ahmed-elbeskeri/Starguard"
             },
             {
-                "title": "Spade Hardware Description Language",
-                "href": "https://spade-lang.org/"
+                "title": "I ruined my vacation by reverse engineering WSC",
+                "href": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/"
             },
             {
-                "title": "Universe expected to decay in 10\u2077\u2078 years, much sooner than previously thought",
-                "href": "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html"
+                "title": "Continuous glucose monitors reveal variable glucose responses to the same meals",
+                "href": "https://examine.com/research-feed/study/1jjKq1/"
             },
             {
                 "title": "The FTC puts off enforcing its 'click-to-cancel' rule",
                 "href": "https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule"
-            },
-            {
-                "title": "I ruined my vacation by reverse engineering WSC",
-                "href": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/"
             },
             {
                 "title": "Optimizing My Hacker News Experience",
@@ -847,12 +863,8 @@
                 "href": "https://www.youtube.com/watch?v=A98jyfB5mws"
             },
             {
-                "title": "Continuous glucose monitors reveal variable glucose responses to the same meals",
-                "href": "https://examine.com/research-feed/study/1jjKq1/"
-            },
-            {
-                "title": "Show HN: Airweave \u2013 Let agents search any app",
-                "href": "https://github.com/airweave-ai/airweave"
+                "title": "The Internet 1997 \u2013 2021",
+                "href": "https://www.opte.org/the-internet"
             },
             {
                 "title": "Ash (Almquist Shell) Variants",
@@ -863,20 +875,8 @@
                 "href": "https://pub.sakana.ai/ctm/"
             },
             {
-                "title": "Ex-UK Special Forces break silence on 'war crimes' by colleagues",
-                "href": "https://www.bbc.com/news/articles/cj3j5gxgz0do"
-            },
-            {
                 "title": "Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL",
                 "href": "https://www.primeintellect.ai/blog/intellect-2-release"
-            },
-            {
-                "title": "Armbian Updates: OMV support, boot improvents, Rockchip optimizations",
-                "href": "https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/"
-            },
-            {
-                "title": "Implicit UVs: Real-time semi-global parameterization of implicit surfaces [pdf]",
-                "href": "https://baptiste-genest.github.io/papers/implicit_uvs.pdf"
             }
         ]
     }
