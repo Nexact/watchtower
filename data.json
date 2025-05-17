@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Senior devs aren't just faster, they can dodge problems juniors are forced to solve",
+                "href": "https://boydkane.com/essays/experts"
+            },
+            {
                 "title": "Evolution of Rust compiler errors",
                 "href": "https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html"
             },
@@ -13,10 +17,6 @@
             {
                 "title": "GNU Parallel Examples",
                 "href": "https://www.gnu.org/software/parallel/parallel_examples.html"
-            },
-            {
-                "title": "Senior devs aren't just faster, they can dodge problems juniors are forced to solve",
-                "href": "https://boydkane.com/essays/experts"
             },
             {
                 "title": "A Ledger In PostgreSQL Is Fast",
@@ -31,12 +31,12 @@
                 "href": "https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not"
             },
             {
-                "title": "A coherent European/non-US cloud strategy: building railroads for the cloud economy",
-                "href": "https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/"
-            },
-            {
                 "title": "New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks",
                 "href": "https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/"
+            },
+            {
+                "title": "A coherent European/non-US cloud strategy: building railroads for the cloud economy",
+                "href": "https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/"
             },
             {
                 "title": "OCaml Web Development: Essential Tools and Libraries in 2025",
@@ -67,8 +67,24 @@
                 "href": "https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/"
             },
             {
+                "title": "erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED",
+                "href": "https://github.com/gorenje/erlang-red"
+            },
+            {
+                "title": "Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance",
+                "href": "https://github.com/pallene-lang/pallene/tree/master"
+            },
+            {
                 "title": "A leap year check in three instructions",
                 "href": "https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html"
+            },
+            {
+                "title": "Leeks and leaks",
+                "href": "https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/"
+            },
+            {
+                "title": "Pathfinding",
+                "href": "https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -79,28 +95,12 @@
                 "href": "https://www.orsolabs.com/post/refactoring-clojure-1/"
             },
             {
-                "title": "Pathfinding",
-                "href": "https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding"
-            },
-            {
-                "title": "Leeks and leaks",
-                "href": "https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/"
-            },
-            {
                 "title": "HMPL v3.0: Small template language for displaying UI from server to client",
                 "href": "https://github.com/hmpl-language/hmpl/releases/tag/3.0.0"
             },
             {
-                "title": "Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance",
-                "href": "https://github.com/pallene-lang/pallene/tree/master"
-            },
-            {
                 "title": "The current state of TLA\u207a development",
                 "href": "https://ahelwer.ca/post/2025-05-15-tla-dev-status/"
-            },
-            {
-                "title": "Stack overflow is almost dead",
-                "href": "https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"
             }
         ]
     },
@@ -327,6 +327,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Walmart Prepares for a Future Where AI Shops for Consumers",
+                "href": "https://slashdot.org/story/25/05/16/2138230/walmart-prepares-for-a-future-where-ai-shops-for-consumers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "UK Needs More Nuclear To Power AI, Says Amazon Boss",
+                "href": "https://hardware.slashdot.org/story/25/05/16/2133225/uk-needs-more-nuclear-to-power-ai-says-amazon-boss?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Linux Swap Table Code Shows The Potential For Huge Performance Gains",
                 "href": "https://hardware.slashdot.org/story/25/05/16/2122201/linux-swap-table-code-shows-the-potential-for-huge-performance-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,14 +385,6 @@
             {
                 "title": "Broadcom Employee Data Stolen By Ransomware Crooks Following Hit on Payroll Provider",
                 "href": "https://news.slashdot.org/story/25/05/16/1422227/broadcom-employee-data-stolen-by-ransomware-crooks-following-hit-on-payroll-provider?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Montana Becomes First State To Close the Law Enforcement Data Broker Loophole",
-                "href": "https://news.slashdot.org/story/25/05/16/0711214/montana-becomes-first-state-to-close-the-law-enforcement-data-broker-loophole?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Clean Energy Just Put China's CO2 Emissions Into Reverse For First Time",
-                "href": "https://news.slashdot.org/story/25/05/16/052233/clean-energy-just-put-chinas-co2-emissions-into-reverse-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -779,60 +779,80 @@
                 "href": "https://dcurt.is/thinking"
             },
             {
-                "title": "They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More",
-                "href": "https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html"
-            },
-            {
                 "title": "A Research Preview of Codex",
                 "href": "https://openai.com/index/introducing-codex/"
+            },
+            {
+                "title": "Rustls Server-Side Performance",
+                "href": "https://www.memorysafety.org/blog/rustls-server-perf/"
+            },
+            {
+                "title": "WebGL Gray-Scott Explorer (2012)",
+                "href": "http://www.mrob.com/pub/comp/xmorphia/ogl/index.html"
+            },
+            {
+                "title": "They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More",
+                "href": "https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html"
             },
             {
                 "title": "ClojureScript 1.12.42",
                 "href": "https://clojurescript.org/news/2025-05-16-release"
             },
             {
-                "title": "MIT asks arXiv to take down preprint of paper on AI and scientific discovery",
-                "href": "https://economics.mit.edu/news/assuring-accurate-research-record"
-            },
-            {
-                "title": "The Collapse of GPT",
-                "href": "https://cacm.acm.org/news/the-collapse-of-gpt/"
-            },
-            {
-                "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
-                "href": "item?id=44006381"
-            },
-            {
-                "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
-                "href": "https://github.com/gorenje/erlang-red"
-            },
-            {
-                "title": "X X^t can be faster",
-                "href": "https://arxiv.org/abs/2505.09814"
-            },
-            {
-                "title": "Show HN: Solidis \u2013 Tiny TS Redis client, no deps, for serverless",
-                "href": "https://github.com/vcms-io/solidis"
+                "title": "Show HN: Merliot \u2013 plugging physical devices into LLMs",
+                "href": "https://github.com/merliot/hub"
             },
             {
                 "title": "Coding agent in 94 lines of Ruby",
                 "href": "https://radanskoric.com/articles/coding-agent-in-ruby"
             },
             {
-                "title": "Methodical Banality",
-                "href": "https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam"
+                "title": "MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery",
+                "href": "https://economics.mit.edu/news/assuring-accurate-research-record"
+            },
+            {
+                "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
+                "href": "item?id=44006381"
+            },
+            {
+                "title": "X X^t can be faster",
+                "href": "https://arxiv.org/abs/2505.09814"
+            },
+            {
+                "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
+                "href": "https://github.com/gorenje/erlang-red"
+            },
+            {
+                "title": "Show HN: A C-Suite AI Agent Meant for SMB",
+                "href": "https://askcaa.com/"
+            },
+            {
+                "title": "The Collapse of GPT",
+                "href": "https://cacm.acm.org/news/the-collapse-of-gpt/"
+            },
+            {
+                "title": "Show HN: Solidis \u2013 Tiny TS Redis client, no deps, for serverless",
+                "href": "https://github.com/vcms-io/solidis"
             },
             {
                 "title": "The Magic Hours: The Films and Hidden Life of Terrence Malick",
                 "href": "https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking"
             },
             {
-                "title": "Java at 30: Interview with James Gosling",
-                "href": "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/"
+                "title": "MCP: An In-Depth Guide (With Cloudflare, Sentry, GitHub, Cline)",
+                "href": "https://www.speakeasy.com/mcp/mcp-tutorial"
+            },
+            {
+                "title": "Methodical Banality",
+                "href": "https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam"
             },
             {
                 "title": "The first year of free-threaded Python",
                 "href": "https://labs.quansight.org/blog/free-threaded-one-year-recap"
+            },
+            {
+                "title": "Java at 30: Interview with James Gosling",
+                "href": "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/"
             },
             {
                 "title": "Foundry (YC F24) Is Hiring \u2013 Founding Engineer (ML \u00d7 SWE)",
@@ -847,44 +867,24 @@
                 "href": "https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157"
             },
             {
-                "title": "Transformer: The Deep Chemistry of Life and Death",
-                "href": "https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/"
-            },
-            {
                 "title": "New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence",
                 "href": "https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/"
-            },
-            {
-                "title": "Returning to My Roots in Hardware",
-                "href": "https://dancrimp.nz/2025/03/31/hardware/"
-            },
-            {
-                "title": "Moody\u2019s strips U.S. of triple-A credit rating",
-                "href": "https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4"
-            },
-            {
-                "title": "Show HN: Workflow Use \u2013 Deterministic, self-healing browser automation (RPA 2.0)",
-                "href": "https://github.com/browser-use/workflow-use"
             },
             {
                 "title": "Lawful kinematics link eye movements to the limits of high-speed perception",
                 "href": "https://www.nature.com/articles/s41467-025-58659-9"
             },
             {
-                "title": "Rustls Server-Side Performance",
-                "href": "https://www.memorysafety.org/blog/rustls-server-perf/"
+                "title": "Returning to My Roots in Hardware",
+                "href": "https://dancrimp.nz/2025/03/31/hardware/"
             },
             {
-                "title": "Taking a look at the next generation of telescopes",
-                "href": "https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/"
+                "title": "Show HN: Workflow Use \u2013 Deterministic, self-healing browser automation (RPA 2.0)",
+                "href": "https://github.com/browser-use/workflow-use"
             },
             {
-                "title": "Show HN: Rv, a Package Manager for R",
-                "href": "https://github.com/A2-ai/rv"
-            },
-            {
-                "title": "Evolution of Rust Compiler Errors",
-                "href": "https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html"
+                "title": "Transformer: The Deep Chemistry of Life and Death",
+                "href": "https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/"
             }
         ]
     }
