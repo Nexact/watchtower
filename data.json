@@ -35,12 +35,20 @@
                 "href": "https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/"
             },
             {
+                "title": "LLM text chat is everywhere. Who\u2019s optimizing its UX?",
+                "href": "https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux"
+            },
+            {
                 "title": "Rust turns 10",
                 "href": "https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/"
             },
             {
                 "title": "Building my childhood dream PC",
                 "href": "https://fabiensanglard.net/2168/index.html"
+            },
+            {
+                "title": "Agent Recursion",
+                "href": "https://choly.ca/post/agent-recursion/"
             },
             {
                 "title": "iOS Deep-Linking with Bevy in Rust",
@@ -51,10 +59,6 @@
                 "href": "https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html"
             },
             {
-                "title": "LLM text chat is everywhere. Who\u2019s optimizing its UX?",
-                "href": "https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux"
-            },
-            {
                 "title": "Ending TLS Client Authentication Certificate Support in 2026",
                 "href": "https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/"
             },
@@ -63,12 +67,16 @@
                 "href": "https://aruarian.dance/blog/japan-ic-cards/"
             },
             {
+                "title": "GNU Taler v1.0 released",
+                "href": "https://www.taler.net/en/news/2025-01.html"
+            },
+            {
                 "title": "FreeBSD on a Laptop (2018)",
                 "href": "https://www.c0ffee.net/blog/freebsd-on-a-laptop/"
             },
             {
-                "title": "GNU Taler v1.0 released",
-                "href": "https://www.taler.net/en/news/2025-01.html"
+                "title": "Ditching Obsidian and building my own",
+                "href": "https://amberwilliams.io/blogs/building-my-own-pkms"
             },
             {
                 "title": "O2 VoLTE: locating any customer with a phone call",
@@ -83,24 +91,16 @@
                 "href": "https://v8.dev/features/explicit-resource-management"
             },
             {
+                "title": "Fixing the infamous Basilisk II Windows \u201cBlack Screen\u201d bug",
+                "href": "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
+            },
+            {
                 "title": "My changes to saving Konsole tab layouts",
                 "href": "https://akselmo.dev/posts/konsole-layout-changes/"
             },
             {
                 "title": "Senior devs aren't just faster, they can dodge problems juniors are forced to solve",
                 "href": "https://boydkane.com/essays/experts"
-            },
-            {
-                "title": "Working with git Patches in Apple Mail (2023)",
-                "href": "https://btxx.org/posts/mail/"
-            },
-            {
-                "title": "Fixing the infamous Basilisk II Windows \u201cBlack Screen\u201d bug",
-                "href": "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
-            },
-            {
-                "title": "The Language That Never Was",
-                "href": "https://blog.celes42.com/the_language_that_never_was.html"
             }
         ]
     },
@@ -124,12 +124,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1kptt5x/o2_volte_locating_any_customer_with_a_phone_call/"
             },
             {
-                "title": "VM somenoe with exp",
-                "href": "https://old.reddit.com/r/netsec/comments/1kpszg2/vm_somenoe_with_exp/"
-            },
-            {
                 "title": "Stateful Connection With Spoofed Source IP \u2014 NetImpostor",
                 "href": "https://old.reddit.com/r/netsec/comments/1kp4n2r/stateful_connection_with_spoofed_source_ip/"
+            },
+            {
+                "title": "VM somenoe with exp",
+                "href": "https://old.reddit.com/r/netsec/comments/1kpszg2/vm_somenoe_with_exp/"
             },
             {
                 "title": "Announcing the Official Parity Release of Volatility 3!",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "'The People Stuck Using Ancient Windows Computers'",
+                "href": "https://tech.slashdot.org/story/25/05/18/2059226/the-people-stuck-using-ancient-windows-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Why Two Amazon Drones Crashed at a Test Facility in a December",
                 "href": "https://tech.slashdot.org/story/25/05/18/1957205/why-two-amazon-drones-crashed-at-a-test-facility-in-a-december?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Researchers Finally Link Long Covid 'Brain Fog' to Inflammation",
                 "href": "https://science.slashdot.org/story/25/05/17/1657219/researchers-finally-link-long-covid-brain-fog-to-inflammation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The Most Promising Ways to Destroy 'Forever Chemicals'",
-                "href": "https://news.slashdot.org/story/25/05/17/0645218/the-most-promising-ways-to-destroy-forever-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,7 +767,7 @@
                 "href": "https://github.com/brianmg/voynich-nlp-analysis"
             },
             {
-                "title": "Spaced repetition systems have gotten way better",
+                "title": "Spaced repetition systems have gotten better",
                 "href": "https://domenic.me/fsrs/"
             },
             {
@@ -779,44 +779,52 @@
                 "href": "https://github.com/skift-org/vaev"
             },
             {
-                "title": "$30 Homebrew Automated Blinds Opener",
-                "href": "https://sifter.org/~simon/journal/20240718.html"
+                "title": "Show HN: Python Simulator of David Deutsch\u2019s \"Constructor Theory of Time\"",
+                "href": "https://github.com/gvelesandro/constructor-theory-simulator"
             },
             {
-                "title": "The Fall of Roam",
-                "href": "https://every.to/superorganizers/the-fall-of-roam"
+                "title": "$30 Homebrew Automated Blinds Opener",
+                "href": "https://sifter.org/~simon/journal/20240718.html"
             },
             {
                 "title": "Spaced Repetition Memory System",
                 "href": "https://notes.andymatuschak.org/Spaced_repetition_memory_system"
             },
             {
-                "title": "Show HN: Python Simulator of David Deutsch\u2019s \"Constructor Theory of Time\"",
-                "href": "https://github.com/gvelesandro/constructor-theory-simulator"
+                "title": "K-Scale Labs: Open-source humanoid robots, built for developers",
+                "href": "https://www.kscale.dev/"
+            },
+            {
+                "title": "The Fall of Roam",
+                "href": "https://every.to/superorganizers/the-fall-of-roam"
             },
             {
                 "title": "Show HN: Buckaroo \u2013 Data table UI for Notebooks",
                 "href": "https://github.com/paddymul/buckaroo"
             },
             {
+                "title": "Comparing Parallel Functional Array Languages: Programming and Performance",
+                "href": "https://arxiv.org/abs/2505.08906"
+            },
+            {
+                "title": "Hyper Typing",
+                "href": "https://pscanf.com/s/341/"
+            },
+            {
                 "title": "Emergent social conventions and collective bias in LLM populations",
                 "href": "https://www.science.org/doi/10.1126/sciadv.adu9368"
             },
             {
-                "title": "Building my childhood dream PC",
-                "href": "https://fabiensanglard.net/2168/index.html"
+                "title": "Yahtzeeql \u2013 Yahtzee solver that's mostly SQL",
+                "href": "https://github.com/charliemeyer/yahtzeeql"
             },
             {
                 "title": "Show HN: Hardtime.nvim \u2013 break bad habits and master Vim motions",
                 "href": "https://github.com/m4xshen/hardtime.nvim"
             },
             {
-                "title": "K-Scale Labs: Open-source humanoid robots, built for developers",
-                "href": "https://www.kscale.dev/"
-            },
-            {
-                "title": "Comparing Parallel Functional Array Languages: Programming and Performance",
-                "href": "https://arxiv.org/abs/2505.08906"
+                "title": "Show HN: Stack Error \u2013 ergonomic error handling for Rust",
+                "href": "https://github.com/gmcgoldr/stackerror"
             },
             {
                 "title": "How the humble chestnut traced the rise and fall of the Roman Empire",
@@ -827,8 +835,16 @@
                 "href": "https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder"
             },
             {
+                "title": "Building my childhood dream PC",
+                "href": "https://fabiensanglard.net/2168/index.html"
+            },
+            {
                 "title": "Show HN: Model2vec-Rs \u2013 Fast Static Text Embeddings in Rust",
                 "href": "https://github.com/MinishLab/model2vec-rs"
+            },
+            {
+                "title": "Dezyne Programming Language",
+                "href": "https://dezyne.org/dezyne/manual/dezyne/dezyne.html"
             },
             {
                 "title": "Mystical",
@@ -847,14 +863,6 @@
                 "href": "https://github.com/parsaghaffari/browserbee"
             },
             {
-                "title": "The RISC OS GUI",
-                "href": "https://telcontar.net/Misc/GUI/RISCOS/"
-            },
-            {
-                "title": "Show HN: Stack Error \u2013 ergonomic error handling for Rust",
-                "href": "https://github.com/gmcgoldr/stackerror"
-            },
-            {
                 "title": "Magic Leap One Bootloader Exploit",
                 "href": "https://github.com/EliseZeroTwo/ml1hax"
             },
@@ -867,20 +875,12 @@
                 "href": "https://app.camelai.com/log-in?next=/hn/"
             },
             {
-                "title": "Paper Mechanisms",
-                "href": "https://cutfoldtemplates.com"
-            },
-            {
                 "title": "Project Verona: Fearless Concurrency for Python",
                 "href": "https://microsoft.github.io/verona/pyrona.html"
             },
             {
                 "title": "Working with Git Patches in Apple Mail (2023)",
                 "href": "https://btxx.org/posts/mail/"
-            },
-            {
-                "title": "An Uplifting Origin of 86 (2001)",
-                "href": "https://muse.jhu.edu/article/2832"
             }
         ]
     }
