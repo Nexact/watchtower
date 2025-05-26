@@ -27,6 +27,10 @@
                 "href": "https://tigerbeetle.com/blog/2025-05-26-asserting-implications/"
             },
             {
+                "title": "HTML is like a camera",
+                "href": "https://robbowen.digital/wrote-about/html-is-like-a-camera/"
+            },
+            {
                 "title": "Car Physics for Games",
                 "href": "https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html"
             },
@@ -35,12 +39,12 @@
                 "href": "https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS"
             },
             {
-                "title": "What Works (and Doesn't) Selling Formal Methods",
-                "href": "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods"
+                "title": "A Vibe\u2010Coding Experience",
+                "href": "https://github.com/clauderouxster/kriegspiel/wiki/A-Vibe%E2%80%90Coding-Experience"
             },
             {
-                "title": "HTML is like a camera",
-                "href": "https://robbowen.digital/wrote-about/html-is-like-a-camera/"
+                "title": "What Works (and Doesn't) Selling Formal Methods",
+                "href": "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods"
             },
             {
                 "title": "Type-level Bounded Recursion in Rust",
@@ -49,6 +53,10 @@
             {
                 "title": "Programming On 34 Keys (2022)",
                 "href": "https://oppi.li/posts/programming_on_34_keys/"
+            },
+            {
+                "title": "Using Git as S3",
+                "href": "https://kristun.dev/posts/git-as-s3/"
             },
             {
                 "title": "Turning Portal 2 into a Web Server",
@@ -67,8 +75,20 @@
                 "href": "https://dspace.mit.edu/bitstream/handle/1721.1/44215/MIT-CSAIL-TR-2009-002.pdf"
             },
             {
+                "title": "DumPy: NumPy except it\u2019s OK if you\u2019re dum",
+                "href": "https://dynomight.net/dumpy/"
+            },
+            {
+                "title": "Design Pressure: The Invisible Hand That Shapes Your Code",
+                "href": "https://hynek.me/talks/design-pressure/"
+            },
+            {
                 "title": "Reinvent the Wheel",
                 "href": "https://endler.dev/2025/reinvent-the-wheel/"
+            },
+            {
+                "title": "Build Your Own Distributed System Using Go [2023]",
+                "href": "https://www.youtube.com/watch?v=8XbxQ1Epi5w"
             },
             {
                 "title": "Systematic design of multi-join GROUP BY queries",
@@ -81,26 +101,6 @@
             {
                 "title": "Mathpad: A mathematical keypad for students and professionals",
                 "href": "https://github.com/Summa-Cogni/Mathpad"
-            },
-            {
-                "title": "CAPTCHAs don't work any more for ticket sellers",
-                "href": "https://behind.pretix.eu/2025/05/23/captchas-are-over/"
-            },
-            {
-                "title": "Build Your Own Distributed System Using Go [2023]",
-                "href": "https://www.youtube.com/watch?v=8XbxQ1Epi5w"
-            },
-            {
-                "title": "Design Pressure: The Invisible Hand That Shapes Your Code",
-                "href": "https://hynek.me/talks/design-pressure/"
-            },
-            {
-                "title": "The Windows Registry Adventure #7: Attack surface analysis",
-                "href": "https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html"
-            },
-            {
-                "title": "How to Guarantee Your Red Team Will Fail",
-                "href": "https://0xda.de/garden/guarantee-red-team-failure/"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "Threat of TCC Bypasses on macOS",
                 "href": "https://old.reddit.com/r/netsec/comments/1kvr057/threat_of_tcc_bypasses_on_macos/"
+            },
+            {
+                "title": "Unauthenticated RCE on Smartbedded MeteoBridge (CVE-2025-4008)",
+                "href": "https://old.reddit.com/r/netsec/comments/1kvtr2i/unauthenticated_rce_on_smartbedded_meteobridge/"
             },
             {
                 "title": "BadUSB Attack Explained: From Principles to Practice and Defense",
@@ -210,16 +214,16 @@
             {
                 "title": "Skitnet(Bossnet) Malware Analysis",
                 "href": "https://old.reddit.com/r/netsec/comments/1ko59nn/skitnetbossnet_malware_analysis/"
-            },
-            {
-                "title": "Commit Stomping - Manipulating Git Histories to Obscure the Truth",
-                "href": "https://old.reddit.com/r/netsec/comments/1knl6j5/commit_stomping_manipulating_git_histories_to/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Google claims users find ads in AI search 'helpful'",
+                "href": "https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/"
+            },
             {
                 "title": "OpenAI plans to ship an interesting ChatGPT product by 2026",
                 "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/"
@@ -263,10 +267,6 @@
             {
                 "title": "FBI warns of Luna Moth extortion attacks targeting law firms",
                 "href": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/"
-            },
-            {
-                "title": "TikTok videos now push infostealer malware in ClickFix attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/"
             }
         ]
     },
@@ -759,40 +759,56 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Show HN: A minimalist web timer for focus and time tracking",
-                "href": "https://iamlockedin.com/"
+                "title": "Show HN: Podman Desktop a 100% free OSS alternative to Docker Desktop",
+                "href": "https://podman-desktop.io/"
             },
             {
-                "title": "Ten years of JSON Web Token and preparing for the future",
-                "href": "https://self-issued.info/?p=2708"
+                "title": "Particle Life simulation in browser using WebGPU",
+                "href": "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html"
+            },
+            {
+                "title": "The double standard of webhook security and API security",
+                "href": "https://www.speakeasy.com/blog/webhook-security"
+            },
+            {
+                "title": "Show HN: A minimalist web timer for focus and time tracking",
+                "href": "https://iamlockedin.com/"
             },
             {
                 "title": "Jjui \u2013 A Nice TUI for Jujutsu",
                 "href": "https://github.com/idursun/jjui"
             },
             {
-                "title": "Bagel: Open-source unified multimodal model",
-                "href": "https://bagel-ai.org/"
+                "title": "Ten years of JSON Web Token and preparing for the future",
+                "href": "https://self-issued.info/?p=2708"
             },
             {
                 "title": "Open Source Society University \u2013 Path to a free self-taught education in CS",
                 "href": "https://github.com/ossu/computer-science"
             },
             {
-                "title": "Big Banks Explore Venturing into Crypto World Together with Joint Stablecoin",
-                "href": "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e"
+                "title": "GitHub issues is almost the best notebook in the world",
+                "href": "https://simonwillison.net/2025/May/26/notes/"
             },
             {
-                "title": "Google shared my phone number",
-                "href": "https://danq.me/2025/05/21/google-shared-my-phone-number/"
+                "title": "Bagel: Open-source unified multimodal model",
+                "href": "https://bagel-ai.org/"
             },
             {
                 "title": "Violating memory safety with Haskell's value restriction",
                 "href": "https://welltypedwit.ch/posts/value-restriction"
             },
             {
+                "title": "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
+                "href": "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer"
+            },
+            {
                 "title": "At Amazon, some coders say their jobs have begun to resemble warehouse work",
                 "href": "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"
+            },
+            {
+                "title": "Google shared my phone number",
+                "href": "https://danq.me/2025/05/21/google-shared-my-phone-number/"
             },
             {
                 "title": "Ask HN: What are you working on? (May 2025)",
@@ -803,80 +819,64 @@
                 "href": "https://lottie.github.io/"
             },
             {
-                "title": "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
-                "href": "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer"
-            },
-            {
-                "title": "GitHub issues is almost the best notebook in the world",
-                "href": "https://simonwillison.net/2025/May/26/notes/"
-            },
-            {
                 "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
                 "href": "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
-            },
-            {
-                "title": "Plwm \u2013 An X11 window manager written in Prolog",
-                "href": "https://github.com/Seeker04/plwm"
             },
             {
                 "title": "How Does Claude 4 Think? \u2013 Sholto Douglas and Trenton Bricken",
                 "href": "https://www.dwarkesh.com/p/sholto-trenton-2"
             },
             {
-                "title": "Writing your own CUPS printer driver in 100 lines of Python (2018)",
-                "href": "https://behind.pretix.eu/2018/01/20/cups-driver/"
+                "title": "Plwm \u2013 An X11 window manager written in Prolog",
+                "href": "https://github.com/Seeker04/plwm"
             },
             {
-                "title": "Lieferando.de has captured 5.7% of restaurant related domain names",
-                "href": "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/"
+                "title": "From confectioners to robots \u2013 Tor Alva in Mulegns is unveiled",
+                "href": "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/from-confectioners-to-robots-tor-alva-in-mulegns-is-unveiled.html"
+            },
+            {
+                "title": "Writing your own CUPS printer driver in 100 lines of Python (2018)",
+                "href": "https://behind.pretix.eu/2018/01/20/cups-driver/"
             },
             {
                 "title": "Whippet GC notes on Guile, heuristics, and heap growth",
                 "href": "https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth"
             },
             {
+                "title": "Lieferando.de has captured 5.7% of restaurant related domain names",
+                "href": "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/"
+            },
+            {
                 "title": "Trading with Claude, and writing your own MCP server",
                 "href": "https://dangelov.com/blog/trading-with-claude/"
             },
             {
-                "title": "The truth about soft plastic recycling points",
-                "href": "https://www.everydayplastic.org/softplastic"
+                "title": "'Strange metals' point to a whole new way to understand electricity",
+                "href": "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity"
             },
             {
                 "title": "CAPTCHAs are over (in ticketing)",
                 "href": "https://behind.pretix.eu/2025/05/23/captchas-are-over/"
             },
             {
-                "title": "Design Pressure: The Invisible Hand That Shapes Your Code",
-                "href": "https://hynek.me/talks/design-pressure/"
-            },
-            {
-                "title": "Lisping at JPL (2002)",
-                "href": "https://flownet.com/gat/jpl-lisp.html"
-            },
-            {
                 "title": "New method for creating large 3D models of urban areas is faster and cheaper",
                 "href": "https://techxplore.com/news/2025-05-action-movies-urban-method-large.html"
+            },
+            {
+                "title": "Design Pressure: The Invisible Hand That Shapes Your Code",
+                "href": "https://hynek.me/talks/design-pressure/"
             },
             {
                 "title": "Ask HN: Anyone struggling to get value out of coding LLMs?",
                 "href": "item?id=44095189"
             },
             {
+                "title": "Lisping at JPL (2002)",
+                "href": "https://flownet.com/gat/jpl-lisp.html"
+            },
+            {
                 "title": "Tariffs in American History",
                 "href": "https://imprimis.hillsdale.edu/tariffs-in-american-history/"
-            },
-            {
-                "title": "Writing a Self-Mutating x86_64 C Program (2013)",
-                "href": "https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/"
-            },
-            {
-                "title": "Show HN: DaedalOS \u2013 Desktop Environment in the Browser",
-                "href": "https://github.com/DustinBrett/daedalOS"
-            },
-            {
-                "title": "Is TfL losing the battle against heat on the Victoria line?",
-                "href": "https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line"
             }
         ]
     }
