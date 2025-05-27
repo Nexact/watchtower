@@ -15,20 +15,20 @@
                 "href": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
             },
             {
-                "title": "Rust streams and timeouts gotcha",
-                "href": "https://laplab.me/posts/rust-streams-gotcha/"
-            },
-            {
                 "title": "The two types of open source",
                 "href": "https://filiph.net/text/two-types-of-open-source.html"
             },
             {
-                "title": "Docker",
-                "href": "https://icculus.org/openbox/2/docker/"
+                "title": "Rust streams and timeouts gotcha",
+                "href": "https://laplab.me/posts/rust-streams-gotcha/"
             },
             {
                 "title": "Hacker News now runs on top of Common Lisp",
                 "href": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
+            },
+            {
+                "title": "Docker",
+                "href": "https://icculus.org/openbox/2/docker/"
             },
             {
                 "title": "GitHub MCP Exploited: Accessing private repositories via MCP",
@@ -43,12 +43,20 @@
                 "href": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"
             },
             {
+                "title": "Awesome Emacs on macOS",
+                "href": "https://xenodium.com/awesome-emacs-on-macos"
+            },
+            {
                 "title": "Luciole Math: a typeface developed explicitly for visually impaired academics",
                 "href": "https://luciole-vision.com/en/math.html"
             },
             {
                 "title": "What a Difference a Faster Hash Makes",
                 "href": "https://nickdrozd.github.io/2025/05/27/faster-hash.html"
+            },
+            {
+                "title": "Scrappy: make little apps for you and your friends",
+                "href": "https://pontus.granstrom.me/scrappy/"
             },
             {
                 "title": "You Can Choose Tools That Make You Happy",
@@ -59,12 +67,8 @@
                 "href": "https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/"
             },
             {
-                "title": "Scrappy: make little apps for you and your friends",
-                "href": "https://pontus.granstrom.me/scrappy/"
-            },
-            {
-                "title": "Awesome Emacs on macOS",
-                "href": "https://xenodium.com/awesome-emacs-on-macos"
+                "title": "Just make it scale: An Aurora DSQL story",
+                "href": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html"
             },
             {
                 "title": "Five-year review of BQN design",
@@ -77,10 +81,6 @@
             {
                 "title": "Large Language Models can run tools in your terminal with LLM 0.26",
                 "href": "https://simonwillison.net/2025/May/27/llm-tools/"
-            },
-            {
-                "title": "Just make it scale: An Aurora DSQL story",
-                "href": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html"
             },
             {
                 "title": "SIMD in zlib-rs (part 2): compare256 - Blog - Tweede golf",
@@ -120,12 +120,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1kwgp8p/firefox_security_response_to_pwn2own_2025/"
             },
             {
-                "title": "GitHub MCP Exploited: Accessing private repositories via MCP",
-                "href": "https://old.reddit.com/r/netsec/comments/1kwhjaz/github_mcp_exploited_accessing_private/"
-            },
-            {
                 "title": "The Single-Packet Shovel: Digging for Desync-Powered Request Tunnelling",
                 "href": "https://old.reddit.com/r/netsec/comments/1kwm9sq/the_singlepacket_shovel_digging_for_desyncpowered/"
+            },
+            {
+                "title": "GitHub MCP Exploited: Accessing private repositories via MCP",
+                "href": "https://old.reddit.com/r/netsec/comments/1kwhjaz/github_mcp_exploited_accessing_private/"
             },
             {
                 "title": "Remote Prompt Injection in GitLab Duo Leads to Source Code Theft",
@@ -221,8 +221,8 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "DragonForce ransomware abuses MSP\u2019s SimpleHelp RMM to encrypt customers",
-                "href": "https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/"
+                "title": "DragonForce ransomware abuses SimpleHelp in MSP supply chain attack",
+                "href": "https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/"
             },
             {
                 "title": "Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Salesforce Acquires Informatica For $8 Billion",
+                "href": "https://slashdot.org/story/25/05/27/215215/salesforce-acquires-informatica-for-8-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "OnePlus Is Replacing Its Alert Slider With an AI Button",
                 "href": "https://mobile.slashdot.org/story/25/05/27/2059206/oneplus-is-replacing-its-alert-slider-with-an-ai-button?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "25% iPhone Tariff Insufficient To Drive US Production Shift, Morgan Stanley Says",
                 "href": "https://apple.slashdot.org/story/25/05/27/127201/25-iphone-tariff-insufficient-to-drive-us-production-shift-morgan-stanley-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "What Do People Want?",
-                "href": "https://science.slashdot.org/story/25/05/27/0920239/what-do-people-want?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -775,16 +775,20 @@
                 "href": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
             },
             {
-                "title": "In Vietnam, an unlikely outpost for Chicano culture",
-                "href": "https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam"
-            },
-            {
                 "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
                 "href": "https://nathan.rs/posts/gpu-shader-programming/"
             },
             {
+                "title": "In Vietnam, an unlikely outpost for Chicano culture",
+                "href": "https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam"
+            },
+            {
                 "title": "How a hawk learned to use traffic signals to hunt more successfully",
                 "href": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting"
+            },
+            {
+                "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+                "href": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
             },
             {
                 "title": "Space Selfie",
@@ -795,36 +799,40 @@
                 "href": "item?id=44108206"
             },
             {
-                "title": "Why the Original Macintosh Had a Screen Resolution of 512\u00d7324",
-                "href": "https://512pixels.net/2025/05/original-macintosh-resolution/"
-            },
-            {
-                "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
-                "href": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
-            },
-            {
                 "title": "BGP handling bug causes widespread internet routing instability",
                 "href": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"
+            },
+            {
+                "title": "Why the Original Macintosh Had a Screen Resolution of 512\u00d7324",
+                "href": "https://512pixels.net/2025/05/original-macintosh-resolution/"
             },
             {
                 "title": "LumoSQL",
                 "href": "https://lumosql.org/src/lumosql/doc/trunk/README.md"
             },
             {
-                "title": "I salvaged $6k of luxury items discarded by Duke students",
-                "href": "https://indyweek.com/culture/duke-students-dumpster-diving/"
+                "title": "Semicolons bring the drama; that's why I love them",
+                "href": "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
             },
             {
-                "title": "Show HN: Malai \u2013 securely share local TCP services (database/SSH) with others",
-                "href": "https://malai.sh/hello-tcp/"
+                "title": "The Level Design Book",
+                "href": "https://book.leveldesignbook.com"
             },
             {
                 "title": "Roundtable (YC S23) Is Hiring a Member of Technical Staff",
                 "href": "https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff"
             },
             {
+                "title": "I salvaged $6k of luxury items discarded by Duke students",
+                "href": "https://indyweek.com/culture/duke-students-dumpster-diving/"
+            },
+            {
                 "title": "DuckLake is an integrated data lake and catalog format",
                 "href": "https://ducklake.select/"
+            },
+            {
+                "title": "Show HN: Malai \u2013 securely share local TCP services (database/SSH) with others",
+                "href": "https://malai.sh/hello-tcp/"
             },
             {
                 "title": "The Art of Fugue \u2013 Contrapunctus I (2021)",
@@ -839,20 +847,12 @@
                 "href": "https://arxiv.org/abs/2505.17989"
             },
             {
-                "title": "Revisiting the algorithm that changed horse race betting (2023)",
-                "href": "https://actamachina.com/posts/annotated-benter-paper"
-            },
-            {
                 "title": "GitHub MCP exploited: Accessing private repositories via MCP",
                 "href": "https://invariantlabs.ai/blog/mcp-github-vulnerability"
             },
             {
-                "title": "Semicolons bring the drama; that's why I love them",
-                "href": "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
-            },
-            {
-                "title": "The Hobby Computer Culture",
-                "href": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+                "title": "Revisiting the algorithm that changed horse race betting (2023)",
+                "href": "https://actamachina.com/posts/annotated-benter-paper"
             },
             {
                 "title": "Worlds first petahertz transistor at ambient conditions",
@@ -861,6 +861,10 @@
             {
                 "title": "Comparing Docusaurus and Starlight and why we made the switch",
                 "href": "https://glasskube.dev/blog/distr-docs/"
+            },
+            {
+                "title": "The Hobby Computer Culture",
+                "href": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
             },
             {
                 "title": "Trying to teach in the age of the AI homework machine",
@@ -873,10 +877,6 @@
             {
                 "title": "Just make it scale: An Aurora DSQL story",
                 "href": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html"
-            },
-            {
-                "title": "The Myth of Developer Obsolescence",
-                "href": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/"
             }
         ]
     }
