@@ -11,16 +11,20 @@
                 "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/"
             },
             {
-                "title": "Is the transition to IPv6 inevitable?",
-                "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/"
-            },
-            {
                 "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere"
             },
             {
+                "title": "Is the transition to IPv6 inevitable?",
+                "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/"
+            },
+            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/usvbn9/what_are_you_doing_this_week"
+            },
+            {
+                "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
+                "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust"
             },
             {
                 "title": "Practical /dev/tcp in the HTTPS Era",
@@ -33,10 +37,6 @@
             {
                 "title": "Designing Error Types in Rust Libraries",
                 "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html"
-            },
-            {
-                "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
-                "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust"
             },
             {
                 "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
@@ -55,6 +55,10 @@
                 "href": "https://blog.pomdtr.me/posts/integrated-terminal/"
             },
             {
+                "title": "Reducing Cargo target directory size with -Zno-embed-metadata",
+                "href": "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
+            },
+            {
                 "title": "Hypervisors for Memory Introspection and Reverse Engineering",
                 "href": "https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html"
             },
@@ -67,16 +71,20 @@
                 "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
             },
             {
-                "title": "Reducing Cargo target directory size with -Zno-embed-metadata",
-                "href": "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
-            },
-            {
                 "title": "How to deal with Rust dependencies",
                 "href": "https://notgull.net/rust-dependencies/"
             },
             {
                 "title": "What technology to use for a small NGO website?",
                 "href": "https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website"
+            },
+            {
+                "title": "AI didn\u2019t kill Stack Overflow",
+                "href": "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html"
+            },
+            {
+                "title": "CVE 2025-31200 CoreAudio bug exploited in the wild",
+                "href": "https://blog.noahhw.dev/posts/cve-2025-31200/"
             },
             {
                 "title": "wl-kbptr: Control the mouse pointer with the keyboard on Wayland",
@@ -93,14 +101,6 @@
             {
                 "title": "How We Migrated 30+ Kubernetes Clusters to Terraform",
                 "href": "https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84"
-            },
-            {
-                "title": "Tools built on tree-sitter's concrete syntax trees",
-                "href": "https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html"
-            },
-            {
-                "title": "WebAIM: Up and Coming ARIA",
-                "href": "https://webaim.org/blog/up-and-coming-aria/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Snowflake Finance VP Says Big Companies Migrate at a Glacial Pace",
+                "href": "https://it.slashdot.org/story/25/06/02/1852240/snowflake-finance-vp-says-big-companies-migrate-at-a-glacial-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "ISP Settles With Record Labels That Demanded Mass Termination of Internet Users",
                 "href": "https://tech.slashdot.org/story/25/06/02/1811207/isp-settles-with-record-labels-that-demanded-mass-termination-of-internet-users?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Is the AI Job Apocalypse Already Here for Some Recent Grads?",
                 "href": "https://developers.slashdot.org/story/25/06/01/2114234/is-the-ai-job-apocalypse-already-here-for-some-recent-grads?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google Maps Falsely Told Drivers in Germany That Roads Across the Country Were Closed",
-                "href": "https://tech.slashdot.org/story/25/06/01/203226/google-maps-falsely-told-drivers-in-germany-that-roads-across-the-country-were-closed?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -771,24 +771,24 @@
                 "href": "https://github.com/kanbn/kan"
             },
             {
+                "title": "CVE 2025 31200",
+                "href": "https://blog.noahhw.dev/posts/cve-2025-31200/"
+            },
+            {
                 "title": "Show HN: Penny-1.7B Irish Penny Journal style transfer",
                 "href": "https://huggingface.co/dleemiller/Penny-1.7B"
             },
             {
-                "title": "Arcol simplifies building design with browser-based modeling",
-                "href": "https://www.arcol.io/"
+                "title": "The Unreliability of LLMs and What Lies Ahead",
+                "href": "https://verissimo.substack.com/p/verissimo-monthly-may-2025"
             },
             {
                 "title": "War and Wilderness: British Soldiers in Revolutionary America",
                 "href": "https://www.historytoday.com/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america"
             },
             {
-                "title": "How to post when no one is reading",
-                "href": "https://www.jeetmehta.com/posts/thrive-in-obscurity"
-            },
-            {
-                "title": "Show HN: Onlook \u2013 Open-source, visual-first Cursor for designers",
-                "href": "https://github.com/onlook-dev/onlook"
+                "title": "Arcol simplifies building design with browser-based modeling",
+                "href": "https://www.arcol.io/"
             },
             {
                 "title": "Disaster awaits if we don't secure IoT now",
@@ -799,12 +799,24 @@
                 "href": "https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer"
             },
             {
+                "title": "How to post when no one is reading",
+                "href": "https://www.jeetmehta.com/posts/thrive-in-obscurity"
+            },
+            {
+                "title": "Show HN: Onlook \u2013 Open-source, visual-first Cursor for designers",
+                "href": "https://github.com/onlook-dev/onlook"
+            },
+            {
                 "title": "The Visual World of 'Samurai Jack'",
                 "href": "https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack"
             },
             {
                 "title": "Reducing Cargo target directory size with -Zno-embed-metadata",
                 "href": "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
+            },
+            {
+                "title": "Ask HN: Who wants to be hired? (June 2025)",
+                "href": "item?id=44159525"
             },
             {
                 "title": "A Hidden Weakness",
@@ -819,12 +831,12 @@
                 "href": "https://www.thorvg.org/about"
             },
             {
-                "title": "Ask HN: Who wants to be hired? (June 2025)",
-                "href": "item?id=44159525"
-            },
-            {
                 "title": "Mesh Edge Construction",
                 "href": "https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/"
+            },
+            {
+                "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
+                "href": "https://github.com/cloudflare/workers-oauth-provider/commits/main/"
             },
             {
                 "title": "If you are useful, it doesn't mean you are valued",
@@ -837,18 +849,6 @@
             {
                 "title": "ReasoningGym: Reasoning Environments for RL with Verifiable Rewards",
                 "href": "https://arxiv.org/abs/2505.24760"
-            },
-            {
-                "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
-                "href": "https://github.com/cloudflare/workers-oauth-provider/commits/main/"
-            },
-            {
-                "title": "Cuss: Map of profane words to a rating of sureness",
-                "href": "https://github.com/words/cuss"
-            },
-            {
-                "title": "The Unreliability of LLMs and What Lies Ahead",
-                "href": "https://verissimo.substack.com/p/verissimo-monthly-may-2025"
             },
             {
                 "title": "The Princeton INTERCAL Compiler's source code",
