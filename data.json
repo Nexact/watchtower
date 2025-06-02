@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Is the transition to IPv6 inevitable?",
-                "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/"
-            },
-            {
                 "title": "Gleam v1.11.0 released",
                 "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/"
             },
             {
+                "title": "Is the transition to IPv6 inevitable?",
+                "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/"
+            },
+            {
                 "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere"
+            },
+            {
+                "title": "A tour of upcoming RFCs for the Hare programming language",
+                "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/"
             },
             {
                 "title": "What are you doing this week?",
@@ -23,28 +27,28 @@
                 "href": "https://blog.jim-nielsen.com/2025/is-it-javascript/"
             },
             {
-                "title": "A tour of upcoming RFCs for the Hare programming language",
-                "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/"
-            },
-            {
                 "title": "Designing Error Types in Rust Libraries",
                 "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html"
-            },
-            {
-                "title": "How I like to install NixOS (declaratively)",
-                "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
             },
             {
                 "title": "Practical /dev/tcp in the HTTPS Era",
                 "href": "https://blog.pkgforge.dev/https-via-http"
             },
             {
-                "title": "What technology to use for a small NGO website?",
-                "href": "https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website"
-            },
-            {
                 "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
                 "href": "https://ducklake.select/manifesto/"
+            },
+            {
+                "title": "How I like to install NixOS (declaratively)",
+                "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/"
+            },
+            {
+                "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
+                "href": "https://github.com/icholy/whisperd/"
+            },
+            {
+                "title": "What technology to use for a small NGO website?",
+                "href": "https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website"
             },
             {
                 "title": "In POSIX, you can theoretically use inode zero",
@@ -67,10 +71,6 @@
                 "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust"
             },
             {
-                "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
-                "href": "https://github.com/icholy/whisperd/"
-            },
-            {
                 "title": "Root Shell on Credit Card Terminal",
                 "href": "https://stefan-gloor.ch/yomani-hack"
             },
@@ -91,16 +91,16 @@
                 "href": "https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84"
             },
             {
+                "title": "How to deal with Rust dependencies",
+                "href": "https://notgull.net/rust-dependencies/"
+            },
+            {
                 "title": "Tools and datasets to support, sustain, and secure critical digital infrastructure",
                 "href": "https://ecosyste.ms/"
             },
             {
                 "title": "Backfilling Postgres TOAST Columns in Debezium Data Change Events",
                 "href": "https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/"
-            },
-            {
-                "title": "Kees Cook Account Disabled for Suspected Malicous Activity",
-                "href": "https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/"
             }
         ]
     },
@@ -445,6 +445,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "Red Hat security advisory (AV25-304)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-304"
+            },
+            {
                 "title": "HPE security advisory (AV25-303)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-303"
             },
@@ -639,10 +643,6 @@
             {
                 "title": "Microsoft Edge security advisory (AV25-256)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-256"
-            },
-            {
-                "title": "Drupal security advisory (AV25-255)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-255"
             }
         ]
     },
@@ -755,6 +755,10 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
+                "href": "https://github.com/cloudflare/workers-oauth-provider/commits/main/"
+            },
+            {
                 "title": "If you are useful, it doesn't mean you are valued",
                 "href": "https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean"
             },
@@ -767,8 +771,8 @@
                 "href": "https://www.jeetmehta.com/posts/thrive-in-obscurity"
             },
             {
-                "title": "Whatever happened to cheap eReaders?",
-                "href": "https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/"
+                "title": "Bohemians at the Gate?",
+                "href": "https://inferencemagazine.substack.com/p/bohemians-at-the-gate"
             },
             {
                 "title": "The Visual World of 'Samurai Jack'",
@@ -779,24 +783,32 @@
                 "href": "https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md"
             },
             {
-                "title": "ReasoningGym: Reasoning Environments for RL with Verifiable Rewards",
-                "href": "https://arxiv.org/abs/2505.24760"
+                "title": "How do I learn robotics in 2025?",
+                "href": "item?id=44158353"
             },
             {
-                "title": "The Princeton INTERCAL Compiler's source code",
-                "href": "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code"
+                "title": "Intelligent Agent Technology: Open Sesame! (1993)",
+                "href": "https://blog.gingerbeardman.com/2025/05/31/intelligent-agent-technology-open-sesame-1993/"
+            },
+            {
+                "title": "Reducing Cargo target directory size with -Zno-embed-metadata",
+                "href": "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
+            },
+            {
+                "title": "ReasoningGym: Reasoning Environments for RL with Verifiable Rewards",
+                "href": "https://arxiv.org/abs/2505.24760"
             },
             {
                 "title": "EasyTier \u2013 P2P mesh VPN written in Rust using Tokio",
                 "href": "https://easytier.cn/en/"
             },
             {
-                "title": "Cuss: Map of profane words to a rating of sureness",
-                "href": "https://github.com/words/cuss"
+                "title": "The Princeton INTERCAL Compiler's source code",
+                "href": "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code"
             },
             {
-                "title": "How do I learn robotics in 2025?",
-                "href": "item?id=44158353"
+                "title": "Cuss: Map of profane words to a rating of sureness",
+                "href": "https://github.com/words/cuss"
             },
             {
                 "title": "Is \u201cThe Phoenician Scheme\u201d Wes Anderson's Most Emotional Film?",
@@ -807,20 +819,16 @@
                 "href": "https://milofultz.com/2025-05-27-i-made-a-chair.html"
             },
             {
+                "title": "Beyond the Black Box: Interpretability of LLMs in Finance",
+                "href": "https://arxiv.org/abs/2505.24650"
+            },
+            {
                 "title": "A man who sailed round the world with a chicken (2019)",
                 "href": "https://www.theguardian.com/global/2019/apr/21/why-did-the-chicken-cross-the-globe-french-sailor-guirec-soudee-monique"
             },
             {
                 "title": "A Hidden Weakness",
                 "href": "https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html"
-            },
-            {
-                "title": "Bohemians at the Gate?",
-                "href": "https://inferencemagazine.substack.com/p/bohemians-at-the-gate"
-            },
-            {
-                "title": "TradeExpert, a trading framework that employs a mix of experts",
-                "href": "https://arxiv.org/abs/2411.00782"
             },
             {
                 "title": "LibriVox",
@@ -831,48 +839,40 @@
                 "href": "https://notsocommonthoughts.com/blog/ai-and-judgement/"
             },
             {
-                "title": "LFSR CPU Running Forth",
-                "href": "https://github.com/howerj/lfsr-vhdl"
+                "title": "Whatever happened to cheap eReaders?",
+                "href": "https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/"
             },
             {
                 "title": "Hip: C++ Heterogeneous-Compute Interface for Portability",
                 "href": "https://github.com/ROCm/hip"
             },
             {
-                "title": "After 25 Years, Linux Format Magazine Is No More",
-                "href": "https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes"
+                "title": "LFSR CPU Running Forth",
+                "href": "https://github.com/howerj/lfsr-vhdl"
+            },
+            {
+                "title": "ThorVG: Super Lightweight Vector Graphics Engine",
+                "href": "https://www.thorvg.org/about"
             },
             {
                 "title": "In POSIX, you can theoretically use inode zero",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode"
             },
             {
-                "title": "Show HN: MBCompass \u2013 Android Compass App",
-                "href": "https://github.com/MubarakNative/MBCompass"
-            },
-            {
                 "title": "HeidiSQL Available Also for Linux",
                 "href": "https://www.heidisql.com/forum.php?t=44068"
             },
             {
-                "title": "Writing your own C++ standard library part 2",
-                "href": "https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html"
-            },
-            {
-                "title": "Cinematography of \u201cAndor\u201d",
-                "href": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html"
-            },
-            {
-                "title": "What works (and doesn't) selling formal methods",
-                "href": "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods"
+                "title": "Show HN: MBCompass \u2013 Android Compass App",
+                "href": "https://github.com/MubarakNative/MBCompass"
             },
             {
                 "title": "The Atomic Airplane",
                 "href": "https://whatisnuclear.com/the-story-of-the-atomic-airplane.html"
             },
             {
-                "title": "Beyond the Black Box: Interpretability of LLMs in Finance",
-                "href": "https://arxiv.org/abs/2505.24650"
+                "title": "What works (and doesn't) selling formal methods",
+                "href": "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods"
             }
         ]
     }
