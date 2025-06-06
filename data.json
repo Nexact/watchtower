@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "I Think I\u2019m Done Thinking About genAI For Now",
-                "href": "https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html"
-            },
-            {
                 "title": "Jepsen: TigerBeetle 0.16.11",
                 "href": "https://jepsen.io/analyses/tigerbeetle-0.16.11"
+            },
+            {
+                "title": "I Think I\u2019m Done Thinking About genAI For Now",
+                "href": "https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html"
             },
             {
                 "title": "AI is a gamechanger for TLA+ users",
@@ -47,12 +47,20 @@
                 "href": "https://andreyor.st/posts/2023-10-18-a-programming-system/"
             },
             {
+                "title": "Conventional Commit message generator using local LLMs",
+                "href": "https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/"
+            },
+            {
                 "title": "Picking uncontested private IP subnets with usage data",
                 "href": "https://blog.benjojo.co.uk/post/picking-unused-rfc1918-ip-space"
             },
             {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "Fuzzer Blind Spots (Meet Jepsen!)",
+                "href": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/"
             },
             {
                 "title": "Machine Code Isn't Scary",
@@ -91,16 +99,8 @@
                 "href": "https://discourse.ubuntu.com/t/phasing-out-bazaar-code-hosting/62189"
             },
             {
-                "title": "Fuzzer Blind Spots (Meet Jepsen!)",
-                "href": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/"
-            },
-            {
-                "title": "Benchmarking is hard, sometimes",
-                "href": "https://vondra.me/posts/benchmarking-is-hard-sometimes/"
-            },
-            {
-                "title": "Linearity and uniqueness",
-                "href": "https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/"
+                "title": "I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results",
+                "href": "https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c"
             }
         ]
     },
@@ -771,28 +771,44 @@
                 "href": "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful"
             },
             {
-                "title": "The impossible predicament of the death newts",
-                "href": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/"
+                "title": "The X.Org Server just got forked (announcing XLibre)",
+                "href": "https://github.com/X11Libre/xserver/commits/xlibre/prepare/"
             },
             {
-                "title": "Test Postgres in Python Like SQLite",
-                "href": "https://github.com/wey-gu/py-pglite"
+                "title": "Czech Republic: Petition for open source in public administration",
+                "href": "https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave"
+            },
+            {
+                "title": "Fuzzer Blind Spots (Meet Jepsen)",
+                "href": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/"
+            },
+            {
+                "title": "Jepsen: TigerBeetle 0.16.11",
+                "href": "https://jepsen.io/analyses/tigerbeetle-0.16.11"
+            },
+            {
+                "title": "The impossible predicament of the death newts",
+                "href": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/"
             },
             {
                 "title": "Tokasaurus: An LLM inference engine for high-throughput workloads",
                 "href": "https://scalingintelligence.stanford.edu/blogs/tokasaurus/"
             },
             {
-                "title": "How we\u2019re responding to The NYT\u2019s data demands in order to protect user privacy",
-                "href": "https://openai.com/index/response-to-nyt-data-demands/"
+                "title": "Test Postgres in Python Like SQLite",
+                "href": "https://github.com/wey-gu/py-pglite"
+            },
+            {
+                "title": "X changes its terms to bar training of AI models using its content",
+                "href": "https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/"
             },
             {
                 "title": "Show HN: Claude Composer",
                 "href": "https://github.com/possibilities/claude-composer"
             },
             {
-                "title": "X changes its terms to bar training of AI models using its content",
-                "href": "https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/"
+                "title": "How we\u2019re responding to The NYT\u2019s data demands in order to protect user privacy",
+                "href": "https://openai.com/index/response-to-nyt-data-demands/"
             },
             {
                 "title": "Show HN: Air Lab \u2013 A portable and open air quality measuring device",
@@ -803,32 +819,32 @@
                 "href": "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim"
             },
             {
-                "title": "APL Interpreter \u2013 An implementation of APL, written in Haskell (2024)",
-                "href": "https://scharenbroch.dev/projects/apl-interpreter/"
-            },
-            {
                 "title": "Aether: A CMS That Gets Out of Your Way",
                 "href": "https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/"
             },
             {
-                "title": "Defending adverbs exuberantly if conditionally",
-                "href": "https://countercraft.substack.com/p/defending-adverbs-exuberantly-if"
+                "title": "APL Interpreter \u2013 An implementation of APL, written in Haskell (2024)",
+                "href": "https://scharenbroch.dev/projects/apl-interpreter/"
             },
             {
                 "title": "Seven Days at the Bin Store",
                 "href": "https://defector.com/seven-days-at-the-bin-store"
             },
             {
-                "title": "Jepsen: TigerBeetle 0.16.11",
-                "href": "https://jepsen.io/analyses/tigerbeetle-0.16.11"
+                "title": "Defending adverbs exuberantly if conditionally",
+                "href": "https://countercraft.substack.com/p/defending-adverbs-exuberantly-if"
             },
             {
-                "title": "Show HN: Ask-human-mcp \u2013 zero-config human-in-loop hatch to stop hallucinations",
-                "href": "https://masonyarbrough.com/blog/ask-human"
+                "title": "Freight rail fueled a new luxury overnight train startup",
+                "href": "https://www.freightwaves.com/news/how-freight-rail-fueled-a-new-luxury-overnight-train-startup"
             },
             {
                 "title": "Open Source Distilling",
                 "href": "https://opensourcedistilling.com/"
+            },
+            {
+                "title": "Show HN: Ask-human-mcp \u2013 zero-config human-in-loop hatch to stop hallucinations",
+                "href": "https://masonyarbrough.com/blog/ask-human"
             },
             {
                 "title": "SkyRoof: New Ham Satellite Tracking and SDR Receiver Software",
@@ -843,6 +859,10 @@
                 "href": "https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html"
             },
             {
+                "title": "Converge (YC S23) Well-capitalized New York startup seeks product developers",
+                "href": "https://www.runconverge.com/careers"
+            },
+            {
                 "title": "Show HN: Lambduck, a Functional Programming Brainfuck",
                 "href": "https://imjakingit.github.io/lambduck/"
             },
@@ -851,36 +871,16 @@
                 "href": "https://asteriskmag.com/issues/10/the-universal-tech-tree"
             },
             {
-                "title": "Programming language Dino and its implementation",
-                "href": "https://github.com/dino-lang/dino"
-            },
-            {
-                "title": "Converge (YC S23) Well-capitalized New York startup seeks product developers",
-                "href": "https://www.runconverge.com/careers"
-            },
-            {
-                "title": "I do not remember my life and it's fine",
-                "href": "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine"
+                "title": "AMD Radeon 8050S \"Strix Halo\" Linux Graphics Performance Review",
+                "href": "https://www.phoronix.com/review/amd-radeon-8050s-graphics"
             },
             {
                 "title": "Autonomous drone defeats human champions in racing first",
                 "href": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first"
             },
             {
-                "title": "Show HN: iOS Screen Time from a REST API",
-                "href": "https://www.thescreentimenetwork.com/api/"
-            },
-            {
-                "title": "Eleven v3",
-                "href": "https://elevenlabs.io/v3"
-            },
-            {
-                "title": "parrot.live",
-                "href": "https://github.com/hugomd/parrot.live"
-            },
-            {
-                "title": "How Common Is Multiple Invention?",
-                "href": "https://www.construction-physics.com/p/how-often-do-inventions-have-multiple"
+                "title": "Programming language Dino and its implementation",
+                "href": "https://github.com/dino-lang/dino"
             }
         ]
     }
