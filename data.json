@@ -59,8 +59,8 @@
                 "href": "https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf"
             },
             {
-                "title": "Fuzzer Blind Spots (Meet Jepsen!)",
-                "href": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/"
+                "title": "Thermodynamic Computing",
+                "href": "https://knowm.org/thermodynamic-computing/"
             },
             {
                 "title": "Hacking is Necessary",
@@ -124,12 +124,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1l466co/tnok_next_generation_port_security/"
             },
             {
-                "title": "Possible Malware in Official MicroDicom Installer (PDF + Hashes + Scan Results Included)",
-                "href": "https://old.reddit.com/r/netsec/comments/1l52z1k/possible_malware_in_official_microdicom_installer/"
-            },
-            {
                 "title": "Vulnerabilities in Anthropic\u2019s MCP: Full-Schema Poisoning + Secret-Leaking Tool Attacks (PoC Inside)",
                 "href": "https://old.reddit.com/r/netsec/comments/1l43aqc/vulnerabilities_in_anthropics_mcp_fullschema/"
+            },
+            {
+                "title": "Possible Malware in Official MicroDicom Installer (PDF + Hashes + Scan Results Included)",
+                "href": "https://old.reddit.com/r/netsec/comments/1l52z1k/possible_malware_in_official_microdicom_installer/"
             },
             {
                 "title": "DroidGround: Elevate your Android CTF Challenges",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Anthropic's AI is Writing Its Own Blog - Oh Wait. No It's Not",
+                "href": "https://slashdot.org/story/25/06/07/0412244/anthropics-ai-is-writing-its-own-blog---oh-wait-no-its-not?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight",
                 "href": "https://it.slashdot.org/story/25/06/07/0137211/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Chinese Student Enrollment in US Universities Continues Multi-Year Decline",
                 "href": "https://news.slashdot.org/story/25/06/06/1936242/chinese-student-enrollment-in-us-universities-continues-multi-year-decline?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple Faces Billions in Losses as EU Comma Interpretation Ends External Purchase Fees",
-                "href": "https://apple.slashdot.org/story/25/06/06/1633206/apple-faces-billions-in-losses-as-eu-comma-interpretation-ends-external-purchase-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -775,28 +775,24 @@
                 "href": "https://alloc.dev/2025/06/07/zig_optimization"
             },
             {
-                "title": "If it works, it's not AI: a commercial look at AI startups (1999)",
-                "href": "https://dspace.mit.edu/handle/1721.1/80558"
-            },
-            {
                 "title": "The time bomb in the tax code that's fueling mass tech layoffs",
                 "href": "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502"
-            },
-            {
-                "title": "The FAIR Package Manager: Decentralized WordPress infrastructure",
-                "href": "https://joost.blog/path-forward-for-wordpress/"
             },
             {
                 "title": "A tool for burning visible pictures on a compact disc surface",
                 "href": "https://github.com/arduinocelentano/cdimage"
             },
             {
+                "title": "The FAIR Package Manager: Decentralized WordPress infrastructure",
+                "href": "https://joost.blog/path-forward-for-wordpress/"
+            },
+            {
                 "title": "Researchers develop \u2018transparent paper\u2019 as alternative to plastics",
                 "href": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/"
             },
             {
-                "title": "Gander (YC F24) Is Hiring Founding Engineers and Interns",
-                "href": "https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer"
+                "title": "If it works, it's not AI: a commercial look at AI startups (1999)",
+                "href": "https://dspace.mit.edu/handle/1721.1/80558"
             },
             {
                 "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
@@ -807,12 +803,20 @@
                 "href": "https://spectrum.ieee.org/getting-past-procastination"
             },
             {
+                "title": "Gander (YC F24) Is Hiring Founding Engineers and Interns",
+                "href": "https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer"
+            },
+            {
                 "title": "Why are smokestacks so tall?",
                 "href": "https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall"
             },
             {
                 "title": "A year of funded FreeBSD development",
                 "href": "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html"
+            },
+            {
+                "title": "Reverse Engineering Cursor's LLM Client",
+                "href": "https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/"
             },
             {
                 "title": "Sharing everything I could understand about gradient noise",
@@ -823,36 +827,24 @@
                 "href": "https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf"
             },
             {
-                "title": "Reverse Engineering Cursor's LLM Client",
-                "href": "https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/"
-            },
-            {
-                "title": "Taurine and aging: Is there anything to it?",
-                "href": "https://www.science.org/content/blog-post/taurine-and-aging-there-anything-it"
+                "title": "Highly efficient matrix transpose in Mojo",
+                "href": "https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/"
             },
             {
                 "title": "Medieval Africans had a unique process for purifying gold with glass (2019)",
                 "href": "https://www.atlasobscura.com/articles/medieval-african-gold"
             },
             {
-                "title": "Highly efficient matrix transpose in Mojo",
-                "href": "https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/"
-            },
-            {
                 "title": "NASA delays next flight of Boeing's alternative to SpaceX Dragon",
                 "href": "https://theedgemalaysia.com/node/758199"
             },
             {
-                "title": "I started with a SQL question. He said \"that's a dumb question.\"",
-                "href": "https://twitter.com/ryxcommar/status/1930985076965142918"
+                "title": "Sandia turns on brain-like storage-free supercomputer",
+                "href": "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/"
             },
             {
                 "title": "Falsehoods programmers believe about aviation",
                 "href": "https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/"
-            },
-            {
-                "title": "Sandia turns on brain-like storage-free supercomputer",
-                "href": "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/"
             },
             {
                 "title": "Show HN: AI game animation sprite generator",
@@ -871,16 +863,24 @@
                 "href": "https://storytotell.org/smalltalk-haskell-and-lisp"
             },
             {
-                "title": "Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks",
-                "href": "https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks"
-            },
-            {
                 "title": "Wendelstein 7-X sets new fusion record",
                 "href": "https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html"
             },
             {
+                "title": "I started with a SQL question. He said \"that's a dumb question.\"",
+                "href": "https://twitter.com/ryxcommar/status/1930985076965142918"
+            },
+            {
                 "title": "Too Many Open Files",
                 "href": "https://mattrighetti.com/2025/06/04/too-many-files-open"
+            },
+            {
+                "title": "Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks",
+                "href": "https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks"
+            },
+            {
+                "title": "What you need to know about EMP weapons",
+                "href": "https://www.aardvark.co.nz/daily/2025/0606.shtml"
             }
         ]
     }
