@@ -3,20 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Zig's self-hosted x86 backend is now default in Debug mode",
-                "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08"
-            },
-            {
                 "title": "Apple WWDC 2025",
                 "href": "https://www.apple.com/apple-events/"
             },
             {
-                "title": "LLMs are cheap",
-                "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/"
+                "title": "Zig's self-hosted x86 backend is now default in Debug mode",
+                "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08"
             },
             {
                 "title": "Is Rust faster than C?",
                 "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/"
+            },
+            {
+                "title": "LLMs are cheap",
+                "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/"
             },
             {
                 "title": "A Low-Impact Keybase Impersonation Issue on Lobsters",
@@ -43,6 +43,10 @@
                 "href": "https://github.com/BioRadOpenSource/ish"
             },
             {
+                "title": "Why doesn\u2019t Rust care more about compiler performance?",
+                "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
+            },
+            {
                 "title": "Bruteforcing the phone number of any Google user",
                 "href": "https://brutecat.com/articles/leaking-google-phones"
             },
@@ -67,16 +71,16 @@
                 "href": "https://crawshaw.io/blog/programming-with-agents"
             },
             {
-                "title": "Why doesn\u2019t Rust care more about compiler performance?",
-                "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
-            },
-            {
                 "title": "Sway 1.11 Released With New Wayland Protocols & More",
                 "href": "https://www.phoronix.com/news/Sway-1.11-Released"
             },
             {
                 "title": "Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers",
                 "href": "https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK"
+            },
+            {
+                "title": "killing X11",
+                "href": "https://flak.tedunangst.com/post/killing-X11"
             },
             {
                 "title": "Rapid Team Transition to a Bevy-Based Engine (JP)",
@@ -91,16 +95,12 @@
                 "href": "https://samkhawase.com/blog/zig-kindle-gdb/"
             },
             {
-                "title": "killing X11",
-                "href": "https://flak.tedunangst.com/post/killing-X11"
+                "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
+                "href": "https://github.com/Askannz/munal-os"
             },
             {
                 "title": "Unlocking the Motorola G23 (and some words on Motorola)",
                 "href": "https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23"
-            },
-            {
-                "title": "Ruby Gem Naming: The Art of Delightful Obscurity",
-                "href": "https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Google patched bug leaking phone numbers tied to accounts",
+                "href": "https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/"
+            },
+            {
                 "title": "SentinelOne shares new details on China-linked breach attempt",
                 "href": "https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Kettering Health confirms Interlock ransomware behind cyberattack",
                 "href": "https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/"
-            },
-            {
-                "title": "New PathWiper data wiper malware hits critical infrastructure in Ukraine",
-                "href": "https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Apple Finally Brings Mac-like Windowing and Menu Bar To iPad",
+                "href": "https://apple.slashdot.org/story/25/06/09/1843200/apple-finally-brings-mac-like-windowing-and-menu-bar-to-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "YouTube Will 'Protect Free Expression' By Pulling Back On Content Moderation",
                 "href": "https://yro.slashdot.org/story/25/06/09/1839245/youtube-will-protect-free-expression-by-pulling-back-on-content-moderation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Microsoft Announces Upcoming Windows-Powered Handheld Xbox Device: the 'ROG Xbox Ally'",
                 "href": "https://games.slashdot.org/story/25/06/08/2247235/microsoft-announces-upcoming-windows-powered-handheld-xbox-device-the-rog-xbox-ally?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "NASA Pulls the Plug on Jupiter-Moon Lander, So Scientists Propose Landing It on Saturn",
-                "href": "https://science.slashdot.org/story/25/06/08/215234/nasa-pulls-the-plug-on-jupiter-moon-lander-so-scientists-propose-landing-it-on-saturn?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,7 +763,7 @@
                 "href": "item?id=44226145"
             },
             {
-                "title": "Apple announces Foundation Models and Containerization frameworks",
+                "title": "Apple Announces Foundation Models and Containerization frameworks, etc.",
                 "href": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"
             },
             {
@@ -791,6 +791,10 @@
                 "href": "https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo"
             },
             {
+                "title": "Why quadratic funding is not optimal",
+                "href": "https://jonathanwarden.com/quadratic-funding-is-not-optimal/"
+            },
+            {
                 "title": "The new G\u00f6del Prize winner tastes great and is less filling",
                 "href": "https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html"
             },
@@ -799,12 +803,16 @@
                 "href": "https://brutecat.com/articles/leaking-google-phones"
             },
             {
-                "title": "Why quadratic funding is not optimal",
-                "href": "https://jonathanwarden.com/quadratic-funding-is-not-optimal/"
-            },
-            {
                 "title": "Algovivo an energy-based formulation for soft-bodied virtual creatures",
                 "href": "https://juniorrojas.com/algovivo/"
+            },
+            {
+                "title": "Show HN: Somo \u2013 a human friendly alternative to netstat",
+                "href": "https://github.com/theopfr/somo"
+            },
+            {
+                "title": "Pi in Pascal's Triangle",
+                "href": "https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml"
             },
             {
                 "title": "Show HN: Glowstick \u2013 type level tensor shapes in stable rust",
@@ -823,16 +831,12 @@
                 "href": "https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/"
             },
             {
-                "title": "Pi in Pascal's Triangle",
-                "href": "https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml"
+                "title": "Universal Basic Income isn't about free money \u2013 it's about a freer life",
+                "href": "https://medium.com/blog/universal-basic-income-isnt-about-free-money-it-s-about-a-freer-life-48dc2ea69f20"
             },
             {
                 "title": "LLMs are cheap",
                 "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/"
-            },
-            {
-                "title": "Show HN: Somo \u2013 a human friendly alternative to netstat",
-                "href": "https://github.com/theopfr/somo"
             },
             {
                 "title": "Potential and Limitation of High-Frequency Cores and Caches (2024)",
@@ -853,10 +857,6 @@
             {
                 "title": "Riding high in Germany on the world's oldest suspended railway",
                 "href": "https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway"
-            },
-            {
-                "title": "Why Go is a good fit for agents",
-                "href": "https://docs.hatchet.run/blog/go-agents"
             },
             {
                 "title": "CoverDrop: A secure messaging system for newsreader apps",
