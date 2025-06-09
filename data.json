@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Is Rust faster than C?",
+                "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/"
+            },
+            {
                 "title": "Apple WWDC 2025",
                 "href": "https://www.apple.com/apple-events/"
             },
             {
                 "title": "Zig's self-hosted x86 backend is now default in Debug mode",
                 "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08"
-            },
-            {
-                "title": "Is Rust faster than C?",
-                "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/"
             },
             {
                 "title": "LLMs are cheap",
@@ -35,12 +35,16 @@
                 "href": "https://ochagavia.nl/blog/the-high-level-os-challenge/"
             },
             {
+                "title": "Why doesn\u2019t Rust care more about compiler performance?",
+                "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
+            },
+            {
                 "title": "Your Phoenix application, directly on your Tailnet",
                 "href": "https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e"
             },
             {
-                "title": "Why doesn\u2019t Rust care more about compiler performance?",
-                "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
+                "title": "Qwen3 embedding models",
+                "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF"
             },
             {
                 "title": "Ish: Grep-like text search with optimal alignment, built with Mojo",
@@ -51,20 +55,24 @@
                 "href": "https://brutecat.com/articles/leaking-google-phones"
             },
             {
+                "title": "killing X11",
+                "href": "https://flak.tedunangst.com/post/killing-X11"
+            },
+            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/nrxya6/what_are_you_doing_this_week"
             },
             {
-                "title": "Qwen3 embedding models",
-                "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF"
+                "title": "The Illusion of Thinking",
+                "href": "https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf"
+            },
+            {
+                "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
+                "href": "https://github.com/Askannz/munal-os"
             },
             {
                 "title": "Pijul - Elpe. Yaks big. Razors bigger",
                 "href": "https://pijul.org/posts/2025-06-08-elpe/"
-            },
-            {
-                "title": "The Illusion of Thinking",
-                "href": "https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf"
             },
             {
                 "title": "Sway 1.11 Released With New Wayland Protocols & More",
@@ -75,24 +83,16 @@
                 "href": "https://crawshaw.io/blog/programming-with-agents"
             },
             {
-                "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
-                "href": "https://github.com/Askannz/munal-os"
-            },
-            {
-                "title": "killing X11",
-                "href": "https://flak.tedunangst.com/post/killing-X11"
-            },
-            {
                 "title": "Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers",
                 "href": "https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK"
             },
             {
-                "title": "Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown",
-                "href": "https://zoo.dev/blog/polyglot-makefile-markdown"
-            },
-            {
                 "title": "Cross-compiling Zig on an old Kindle",
                 "href": "https://samkhawase.com/blog/zig-kindle-gdb/"
+            },
+            {
+                "title": "Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown",
+                "href": "https://zoo.dev/blog/polyglot-makefile-markdown"
             },
             {
                 "title": "Rapid Team Transition to a Bevy-Based Engine (JP)",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Apple Unveils a Dedicated Games App",
+                "href": "https://apple.slashdot.org/story/25/06/09/1854216/apple-unveils-a-dedicated-games-app?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "China Shuts Down AI Tools During Nationwide College Exams",
                 "href": "https://news.slashdot.org/story/25/06/09/1849202/china-shuts-down-ai-tools-during-nationwide-college-exams?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Caffeine Has a Weird Effect On Your Brain While You're Asleep",
                 "href": "https://science.slashdot.org/story/25/06/08/2355252/caffeine-has-a-weird-effect-on-your-brain-while-youre-asleep?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "UK Renewable Energy Firms are Being Paid Huge Sums to Not Provide Power",
-                "href": "https://news.slashdot.org/story/25/06/09/0121203/uk-renewable-energy-firms-are-being-paid-huge-sums-to-not-provide-power?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,16 +767,20 @@
                 "href": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"
             },
             {
+                "title": "Containerization is a Swift package for running Linux containers on macOS",
+                "href": "https://github.com/apple/containerization"
+            },
+            {
                 "title": "Show HN: Munal OS: a graphical experimental OS with WASM sandboxing",
                 "href": "https://github.com/Askannz/munal-os"
             },
             {
-                "title": "What methylene blue can (and can\u2019t) do for the brain",
-                "href": "https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/"
-            },
-            {
                 "title": "Apple introduces a universal design across platforms",
                 "href": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"
+            },
+            {
+                "title": "What methylene blue can (and can\u2019t) do for the brain",
+                "href": "https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/"
             },
             {
                 "title": "Launch HN: Chonkie (YC X25) \u2013 Open-Source Library for Advanced Chunking",
@@ -787,60 +791,64 @@
                 "href": "https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes"
             },
             {
-                "title": "Hokusai Moyo Gafu: an album of dyeing patterns",
-                "href": "https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo"
-            },
-            {
                 "title": "Show HN: Somo \u2013 a human friendly alternative to netstat",
                 "href": "https://github.com/theopfr/somo"
             },
             {
-                "title": "A bit more on Twitter/X's new encrypted messaging",
-                "href": "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
+                "title": "Hokusai Moyo Gafu: an album of dyeing patterns",
+                "href": "https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo"
             },
             {
                 "title": "Bruteforcing the phone number of any Google user",
                 "href": "https://brutecat.com/articles/leaking-google-phones"
             },
             {
-                "title": "Go is a good fit for agents",
-                "href": "https://docs.hatchet.run/blog/go-agents"
-            },
-            {
                 "title": "Algovivo an energy-based formulation for soft-bodied virtual creatures",
                 "href": "https://juniorrojas.com/algovivo/"
+            },
+            {
+                "title": "A bit more on Twitter/X's new encrypted messaging",
+                "href": "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
             },
             {
                 "title": "The new G\u00f6del Prize winner tastes great and is less filling",
                 "href": "https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html"
             },
             {
+                "title": "Domains I Love",
+                "href": "https://www.ahmedsaoudi.com/blog/domains-i-love/"
+            },
+            {
                 "title": "Why quadratic funding is not optimal",
                 "href": "https://jonathanwarden.com/quadratic-funding-is-not-optimal/"
             },
             {
-                "title": "Pi in Pascal's Triangle",
-                "href": "https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml"
-            },
-            {
-                "title": "A man rebuilding the last Inca rope bridge",
-                "href": "https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition"
-            },
-            {
-                "title": "Myanmar's chinlone ball sport threatened by conflict and rattan shortages",
-                "href": "https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages"
-            },
-            {
-                "title": "Finding Shawn Mendes (2019)",
-                "href": "https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/"
+                "title": "Go is a good fit for agents",
+                "href": "https://docs.hatchet.run/blog/go-agents"
             },
             {
                 "title": "Show HN: Most users won't report bugs unless you make it stupidly easy",
                 "href": "item?id=44225352"
             },
             {
+                "title": "Pi in Pascal's Triangle",
+                "href": "https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml"
+            },
+            {
+                "title": "Myanmar's chinlone ball sport threatened by conflict and rattan shortages",
+                "href": "https://www.aljazeera.com/gallery/2025/6/5/myanmars-chinlone-ball-sport-threatened-by-conflict-and-rattan-shortages"
+            },
+            {
                 "title": "Object firing signals at Earth every 44 minutes",
                 "href": "https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes"
+            },
+            {
+                "title": "A man rebuilding the last Inca rope bridge",
+                "href": "https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition"
+            },
+            {
+                "title": "Finding Shawn Mendes (2019)",
+                "href": "https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/"
             },
             {
                 "title": "Show HN: Glowstick \u2013 type level tensor shapes in stable rust",
@@ -859,24 +867,16 @@
                 "href": "https://arch.cs.ucdavis.edu/simulation/2024/08/06/potentiallimitationhighfreqcorescaches.html"
             },
             {
-                "title": "Prince's special custom-font symbol floppy disks (2016)",
-                "href": "https://nymag.com/intelligencer/2016/04/princes-legendary-floppy-disk-symbol-font.html"
+                "title": "Why Android can't use CDC Ethernet (2023)",
+                "href": "https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/"
             },
             {
                 "title": "Frederick Forsyth has died",
                 "href": "https://www.theguardian.com/books/2025/jun/09/frederick-forsyth-day-of-the-jackal-author-and-former-mi6-agent-dies-aged-86"
             },
             {
-                "title": "Why Android can't use CDC Ethernet (2023)",
-                "href": "https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/"
-            },
-            {
                 "title": "Riding high in Germany on the world's oldest suspended railway",
                 "href": "https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway"
-            },
-            {
-                "title": "The child-like role of dogs in Western societies",
-                "href": "https://econtent.hogrefe.com/doi/10.1027/1016-9040/a000552"
             }
         ]
     }
