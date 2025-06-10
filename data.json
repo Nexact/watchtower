@@ -15,12 +15,12 @@
                 "href": "https://www.inkandswitch.com/essay/malleable-software/"
             },
             {
-                "title": "Why doesn\u2019t Rust care more about compiler performance?",
-                "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
-            },
-            {
                 "title": "Building a Debugger: Write a Native x64 Debugger From Scratch",
                 "href": "https://nostarch.com/building-a-debugger"
+            },
+            {
+                "title": "Why doesn\u2019t Rust care more about compiler performance?",
+                "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
             },
             {
                 "title": "Quarkdown - Markdown with superpowers",
@@ -47,20 +47,20 @@
                 "href": "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/"
             },
             {
-                "title": "Zig's self-hosted x86 backend is now default in Debug mode",
-                "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08"
-            },
-            {
-                "title": "Announcing Multigres: Vitess for Postgres",
-                "href": "https://supabase.com/blog/multigres-vitess-for-postgres"
+                "title": "Zig-style generics are not well-suited for most languages (2022)",
+                "href": "https://typesanitizer.com/blog/zig-generics.html"
             },
             {
                 "title": "Droneboy: Drone music application for Gameboy",
                 "href": "https://github.com/purefunktion/Droneboy"
             },
             {
-                "title": "Zig-style generics are not well-suited for most languages (2022)",
-                "href": "https://typesanitizer.com/blog/zig-generics.html"
+                "title": "Zig's self-hosted x86 backend is now default in Debug mode",
+                "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08"
+            },
+            {
+                "title": "Announcing Multigres: Vitess for Postgres",
+                "href": "https://supabase.com/blog/multigres-vitess-for-postgres"
             },
             {
                 "title": "Green threads explained",
@@ -73,6 +73,10 @@
             {
                 "title": "CVE-2025-47934 - Spoofing OpenPGP.js signature verification",
                 "href": "https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/"
+            },
+            {
+                "title": "Handles are the better pointers (2018)",
+                "href": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
             },
             {
                 "title": "AI Angst",
@@ -97,10 +101,6 @@
             {
                 "title": "Qwen3 embedding models",
                 "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF"
-            },
-            {
-                "title": "My Unfiltered Take on the AI Coding Agent Landscape",
-                "href": "https://xxchan.me/ai/2025/06/10/ai-coding-en.html"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "1.5 TB of James Webb Space Telescope Data Just Hit the Internet",
+                "href": "https://tech.slashdot.org/story/25/06/10/1844246/15-tb-of-james-webb-space-telescope-data-just-hit-the-internet?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Ubuntu Linux 25.10 Quietly Kills Off GNOME On Xorg As Wayland Takes Over",
                 "href": "https://news.slashdot.org/story/25/06/10/181234/ubuntu-linux-2510-quietly-kills-off-gnome-on-xorg-as-wayland-takes-over?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Apple Will End Support For Intel Macs Next Year",
                 "href": "https://apple.slashdot.org/story/25/06/09/2245206/apple-will-end-support-for-intel-macs-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Ohio University Says All Students Will Be Required To Train and 'Be Fluent' In AI",
-                "href": "https://news.slashdot.org/story/25/06/09/2130227/ohio-university-says-all-students-will-be-required-to-train-and-be-fluent-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -452,6 +452,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Mozilla security advisory (AV25-332)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-332"
+            },
             {
                 "title": "HPE security advisory (AV25-331)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-331"
@@ -647,10 +651,6 @@
             {
                 "title": "Atlassian security advisory (AV25-284)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-284"
-            },
-            {
-                "title": "[Control systems] CISA ICS security advisories (AV25\u2013283)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-283"
             }
         ]
     },
@@ -767,52 +767,56 @@
                 "href": "https://mistral.ai/news/magistral"
             },
             {
-                "title": "A Blacklisted American Magician Became a Hero in Brazil",
-                "href": "https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a"
+                "title": "Low-background Steel: content without AI contamination",
+                "href": "https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html"
             },
             {
                 "title": "Show HN: Chili3d \u2013 A open-source, browser-based 3D CAD application",
                 "href": "item?id=44238171"
             },
             {
-                "title": "Malleable software: Restoring user agency in a world of locked-down apps",
-                "href": "https://www.inkandswitch.com/essay/malleable-software/"
+                "title": "A Blacklisted American Magician Became a Hero in Brazil",
+                "href": "https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a"
             },
             {
-                "title": "Denuvo Analysis",
-                "href": "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
+                "title": "Malleable software: Restoring user agency in a world of locked-down apps",
+                "href": "https://www.inkandswitch.com/essay/malleable-software/"
             },
             {
                 "title": "OpenAI dropped the price of o3 by 80%",
                 "href": "https://twitter.com/sama/status/1932434606558462459"
             },
             {
+                "title": "Denuvo Analysis",
+                "href": "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
+            },
+            {
                 "title": "Spoofing OpenPGP.js signature verification",
                 "href": "https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/"
-            },
-            {
-                "title": "Faster, easier 2D vector rendering [video]",
-                "href": "https://www.youtube.com/watch?v=_sv8K190Zps"
-            },
-            {
-                "title": "Show HN: PyDoll \u2013 Async Python scraping engine with native CAPTCHA bypass",
-                "href": "https://github.com/autoscrape-labs/pydoll"
             },
             {
                 "title": "Dubious Math in Infinite Jest (2009)",
                 "href": "https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html"
             },
             {
+                "title": "Faster, easier 2D vector rendering [video]",
+                "href": "https://www.youtube.com/watch?v=_sv8K190Zps"
+            },
+            {
                 "title": "Launch HN: BitBoard (YC X25) \u2013 AI agents for healthcare back-offices",
                 "href": "item?id=44237769"
             },
             {
-                "title": "The Concurrency Trap: How an Atomic Counter Stalled a Pipeline",
-                "href": "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/"
+                "title": "Show HN: PyDoll \u2013 Async Python scraping engine with native CAPTCHA bypass",
+                "href": "https://github.com/autoscrape-labs/pydoll"
             },
             {
                 "title": "Show HN: High End Color Quantizer",
                 "href": "https://github.com/big-nacho/patolette"
+            },
+            {
+                "title": "The Concurrency Trap: How an Atomic Counter Stalled a Pipeline",
+                "href": "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/"
             },
             {
                 "title": "Containerization is a Swift package for running Linux containers on macOS",
@@ -827,16 +831,20 @@
                 "href": "https://arxiv.org/abs/2506.08007"
             },
             {
-                "title": "JavelinGuard: Low-Cost Transformer Architectures for LLM Security",
-                "href": "https://arxiv.org/abs/2506.07330"
-            },
-            {
                 "title": "A Primer on Molecular Dynamics",
                 "href": "https://www.owlposting.com/p/a-primer-on-molecular-dynamics"
             },
             {
+                "title": "JavelinGuard: Low-Cost Transformer Architectures for LLM Security",
+                "href": "https://arxiv.org/abs/2506.07330"
+            },
+            {
                 "title": "Onlook (YC W25) Is Hiring an engineer in SF",
                 "href": "item?id=44235716"
+            },
+            {
+                "title": "Mikeal Rogers has died",
+                "href": "https://b.h4x.zip/mikeal/"
             },
             {
                 "title": "Wharton Esherick and the Armstrong Linoleum Company",
@@ -847,40 +855,32 @@
                 "href": "https://garden.bradwoods.io/notes/javascript/three-js/animate-a-mesh-on-a-spheres-surface"
             },
             {
-                "title": "Finding Atari Games in Randomly Generated Data",
-                "href": "https://bbenchoff.github.io/pages/FiniteAtari.html"
+                "title": "\"Localhost tracking\" explained. It could cost Meta \u20ac32B",
+                "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could"
             },
             {
                 "title": "Sly Stone has died",
                 "href": "https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345"
             },
             {
-                "title": "\"Localhost tracking\" explained. It could cost Meta \u20ac32B",
-                "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could"
-            },
-            {
-                "title": "'Proof' Review: Finding Truth in Numbers",
-                "href": "https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228"
+                "title": "Finding Atari Games in Randomly Generated Data",
+                "href": "https://bbenchoff.github.io/pages/FiniteAtari.html"
             },
             {
                 "title": "Why agents are bad pair programmers",
                 "href": "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/"
             },
             {
+                "title": "'Proof' Review: Finding Truth in Numbers",
+                "href": "https://www.wsj.com/arts-culture/books/proof-review-finding-truth-in-numbers-b9779228"
+            },
+            {
                 "title": "Show HN: Munal OS: a graphical experimental OS with WASM sandboxing",
                 "href": "https://github.com/Askannz/munal-os"
             },
             {
-                "title": "CompactLog \u2013 Solving CT Scalability with LSM-Trees",
-                "href": "https://github.com/Barre/compact_log"
-            },
-            {
                 "title": "Apple announces Foundation Models and Containerization frameworks, etc",
                 "href": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"
-            },
-            {
-                "title": "Successful people set constraints rather than chasing goals",
-                "href": "https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/"
             }
         ]
     }
