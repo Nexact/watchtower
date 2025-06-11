@@ -19,12 +19,12 @@
                 "href": "https://blog.google/products/android/android-16/"
             },
             {
-                "title": "Is Rust faster than C?",
-                "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/"
-            },
-            {
                 "title": "Why Doctors Hate Their Computers (2018)",
                 "href": "https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+            },
+            {
+                "title": "Is Rust faster than C?",
+                "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/"
             },
             {
                 "title": "Zig-style generics are not well-suited for most languages (2022)",
@@ -55,20 +55,24 @@
                 "href": "https://freebsd.org/releases/14.3R/announce/"
             },
             {
-                "title": "Passing of Jean-Raymond Abrial",
-                "href": "https://en.wikipedia.org/wiki/Jean-Raymond_Abrial"
+                "title": "Rewriting SymCrypt in Rust to modernize Microsoft\u2019s cryptographic library",
+                "href": "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
             },
             {
-                "title": "Why We\u2019re Moving on From Nix",
-                "href": "https://blog.railway.com/p/introducing-railpack"
+                "title": "Announcing Multigres: Vitess for Postgres",
+                "href": "https://supabase.com/blog/multigres-vitess-for-postgres"
+            },
+            {
+                "title": "Passing of Jean-Raymond Abrial",
+                "href": "https://en.wikipedia.org/wiki/Jean-Raymond_Abrial"
             },
             {
                 "title": "Why doesn\u2019t Rust care more about compiler performance?",
                 "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
             },
             {
-                "title": "Announcing Multigres: Vitess for Postgres",
-                "href": "https://supabase.com/blog/multigres-vitess-for-postgres"
+                "title": "Why We\u2019re Moving on From Nix",
+                "href": "https://blog.railway.com/p/introducing-railpack"
             },
             {
                 "title": "Implementing DOES> in Forth, the entire reason I started this mess",
@@ -87,20 +91,16 @@
                 "href": "https://github.com/purefunktion/Droneboy"
             },
             {
-                "title": "Rewriting SymCrypt in Rust to modernize Microsoft\u2019s cryptographic library",
-                "href": "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
-            },
-            {
-                "title": "Apple WWDC 2025",
-                "href": "https://www.apple.com/apple-events/"
-            },
-            {
                 "title": "Green threads explained",
                 "href": "https://c9x.me/articles/gthreads/intro.html"
             },
             {
-                "title": "Quaternions",
-                "href": "https://www.youtube.com/watch?v=PMvIWws8WEo"
+                "title": "Embracing Swift concurrency",
+                "href": "https://developer.apple.com/videos/play/wwdc2025/268/"
+            },
+            {
+                "title": "Apple WWDC 2025",
+                "href": "https://www.apple.com/apple-events/"
             }
         ]
     },
@@ -126,6 +126,10 @@
             {
                 "title": "Salesforce Industry Cloud(s) Security Whitepaper: 5 CVEs, 15+ Security Risks",
                 "href": "https://old.reddit.com/r/netsec/comments/1l89u1x/salesforce_industry_clouds_security_whitepaper_5/"
+            },
+            {
+                "title": "How to Setup Kali Linux on Docker + Create Custom Image & File Share",
+                "href": "https://old.reddit.com/r/netsec/comments/1l8jebm/how_to_setup_kali_linux_on_docker_create_custom/"
             },
             {
                 "title": "Research On Developing Secure AI Agents Using Google's A2A Protocol",
@@ -210,10 +214,6 @@
             {
                 "title": "Bypassing tamper protection and getting root shell access on a Worldline Yomani XR credit card terminal",
                 "href": "https://old.reddit.com/r/netsec/comments/1l2ef65/bypassing_tamper_protection_and_getting_root/"
-            },
-            {
-                "title": "How to build a high-performance network fuzzer with LibAFL and libdesock",
-                "href": "https://old.reddit.com/r/netsec/comments/1l29uvp/how_to_build_a_highperformance_network_fuzzer/"
             }
         ]
     },
@@ -775,16 +775,12 @@
                 "href": "https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine"
             },
             {
-                "title": "We\u2019re secretly winning the war on cancer",
-                "href": "https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking"
+                "title": "Magistral \u2014 the first reasoning model by Mistral AI",
+                "href": "https://mistral.ai/news/magistral"
             },
             {
                 "title": "Show HN: I made a 3D printed VTOL drone",
                 "href": "https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can"
-            },
-            {
-                "title": "Magistral \u2014 the first reasoning model by Mistral AI",
-                "href": "https://mistral.ai/news/magistral"
             },
             {
                 "title": "Low-background Steel: content without AI contamination",
@@ -799,11 +795,15 @@
                 "href": "https://github.com/manaskamal/XenevaOS"
             },
             {
-                "title": "Fine-Tuning LLMs Is a Waste of Time",
+                "title": "Fine-tuning LLMs is a waste of time",
                 "href": "https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste"
             },
             {
-                "title": "You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers",
+                "title": "We\u2019re secretly winning the war on cancer",
+                "href": "https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking"
+            },
+            {
+                "title": "Detection of hidden cellular GPS vehicle trackers",
                 "href": "https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers"
             },
             {
@@ -811,12 +811,12 @@
                 "href": "https://www.inkandswitch.com/essay/malleable-software/"
             },
             {
-                "title": "Show HN: A \u201cCourse\u201d as an MCP Server",
-                "href": "https://mastra.ai/course"
-            },
-            {
                 "title": "Show HN: Chili3d \u2013 A open-source, browser-based 3D CAD application",
                 "href": "item?id=44238171"
+            },
+            {
+                "title": "Show HN: A \u201cCourse\u201d as an MCP Server",
+                "href": "https://mastra.ai/course"
             },
             {
                 "title": "OpenAI dropped the price of o3 by 80%",
@@ -831,44 +831,48 @@
                 "href": "https://b.h4x.zip/mikeal/"
             },
             {
-                "title": "Denuvo Analysis",
-                "href": "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
+                "title": "Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass",
+                "href": "https://www.binarly.io/blog/another-crack-in-the-chain-of-trust"
             },
             {
-                "title": "Launch HN: BitBoard (YC X25) \u2013 AI agents for healthcare back-offices",
-                "href": "item?id=44237769"
+                "title": "Denuvo Analysis",
+                "href": "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
             },
             {
                 "title": "A Blacklisted American Magician Became a Hero in Brazil",
                 "href": "https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a"
             },
             {
-                "title": "Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot Bypass",
-                "href": "https://www.binarly.io/blog/another-crack-in-the-chain-of-trust"
+                "title": "Launch HN: BitBoard (YC X25) \u2013 AI agents for healthcare back-offices",
+                "href": "item?id=44237769"
+            },
+            {
+                "title": "Demystifying Debuggers",
+                "href": "https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy"
             },
             {
                 "title": "The Gentle Singularity",
                 "href": "https://blog.samaltman.com/the-gentle-singularity"
             },
             {
-                "title": "A Thousand Tiny Optimisations",
-                "href": "https://leejo.github.io/2025/06/08/alttpr/"
-            },
-            {
                 "title": "Sophie Germain Prime Project",
                 "href": "https://palaiologos.rocks/sophie-germain/"
+            },
+            {
+                "title": "A Thousand Tiny Optimisations",
+                "href": "https://leejo.github.io/2025/06/08/alttpr/"
             },
             {
                 "title": "A Family of Non-Periodic Tilings, Describable Using Elementary Tools",
                 "href": "https://arxiv.org/abs/2506.07638"
             },
             {
-                "title": "Android 16 is here",
-                "href": "https://blog.google/products/android/android-16/"
-            },
-            {
                 "title": "Faster, easier 2D vector rendering [video]",
                 "href": "https://www.youtube.com/watch?v=_sv8K190Zps"
+            },
+            {
+                "title": "Android 16 is here",
+                "href": "https://blog.google/products/android/android-16/"
             },
             {
                 "title": "Chatbots are replacing Google's search, devastating traffic for some publishers",
@@ -881,10 +885,6 @@
             {
                 "title": "Show HN: High End Color Quantizer",
                 "href": "https://github.com/big-nacho/patolette"
-            },
-            {
-                "title": "Show HN: MidWord \u2013 A Word-Guessing Game",
-                "href": "https://midword.com/"
             }
         ]
     }
