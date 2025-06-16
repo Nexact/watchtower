@@ -15,16 +15,16 @@
                 "href": "https://devtui.com"
             },
             {
+                "title": "Start your own Internet Resiliency Club",
+                "href": "https://bowshock.nl/irc/"
+            },
+            {
                 "title": "Why SSL was renamed to TLS in late 90s (2014)",
                 "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"
             },
             {
                 "title": "rgSQL: A test suite to help you build your own database engine",
                 "href": "https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines"
-            },
-            {
-                "title": "Start your own Internet Resiliency Club",
-                "href": "https://bowshock.nl/irc/"
             },
             {
                 "title": "What are you doing this week?",
@@ -35,8 +35,8 @@
                 "href": "https://www.ultratechnology.com/1xforth.htm"
             },
             {
-                "title": "Breaking my Security Assignments",
-                "href": "https://www.akpain.net/blog/breaking-secnet-assignments/"
+                "title": "Changes to Kubernetes Slack",
+                "href": "https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/"
             },
             {
                 "title": "Debugging tricks for IntelliJ",
@@ -47,8 +47,16 @@
                 "href": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/"
             },
             {
+                "title": "Breaking my Security Assignments",
+                "href": "https://www.akpain.net/blog/breaking-secnet-assignments/"
+            },
+            {
                 "title": "A SQLite VFS for remote databases via gRPC",
                 "href": "https://github.com/danthegoodman1/gRPSQLite"
+            },
+            {
+                "title": "Datalog in Minikanren",
+                "href": "https://deosjr.github.io/dynamicland/datalog.html"
             },
             {
                 "title": "Quick takes on the GCP public incident write-up",
@@ -59,12 +67,12 @@
                 "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html"
             },
             {
-                "title": "Datalog in Minikanren",
-                "href": "https://deosjr.github.io/dynamicland/datalog.html"
+                "title": "Working on databases from prison: How I got here, part 2",
+                "href": "https://turso.tech/blog/working-on-databases-from-prison"
             },
             {
-                "title": "Changes to Kubernetes Slack",
-                "href": "https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/"
+                "title": "Mathematical Illustrations: A Manual of Geometry and PostScript",
+                "href": "https://personal.math.ubc.ca/~cass/graphics/text/www/"
             },
             {
                 "title": "The Elixir Pipe Operator",
@@ -93,14 +101,6 @@
             {
                 "title": "Mosh: the mobile shell",
                 "href": "https://mosh.org"
-            },
-            {
-                "title": "The Art of Lisp & Writing",
-                "href": "https://www.dreamsongs.com/ArtOfLisp.html"
-            },
-            {
-                "title": "todo.txt tasks in my TRMNL",
-                "href": "https://akselmo.dev/posts/todotxt-in-my-trmnl/"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Zoomcar discloses security breach impacting 8.4 million users",
+                "href": "https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/"
+            },
+            {
                 "title": "Microsoft shares temp fix for Outlook crashes when opening emails",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-classic-outlook-crashes/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Discord flaw lets hackers reuse expired invites in malware campaign",
                 "href": "https://www.bleepingcomputer.com/news/security/discord-flaw-lets-hackers-reuse-expired-invites-in-malware-campaign/"
-            },
-            {
-                "title": "Microsoft: KB5060533 update triggers boot errors on Surface Hub v1 devices",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5060533-update-triggers-boot-errors-on-surface-hub-v1-devices/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "WhatsApp Introduces Ads in Its App",
+                "href": "https://tech.slashdot.org/story/25/06/16/146228/whatsapp-introduces-ads-in-its-app?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Walmart's Drone Deliveries Expand, Now in Five Different US States",
                 "href": "https://tech.slashdot.org/story/25/06/16/0537255/walmarts-drone-deliveries-expand-now-in-five-different-us-states?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Space is the Perfect Place to Study Cancer and Someday Even Treat It",
                 "href": "https://science.slashdot.org/story/25/06/15/053254/space-is-the-perfect-place-to-study-cancer-and-someday-even-treat-it?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Executives from Meta, OpenAI, and Palantir Commissioned Into the US Army Reserve",
-                "href": "https://news.slashdot.org/story/25/06/15/0115241/executives-from-meta-openai-and-palantir-commissioned-into-the-us-army-reserve?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,16 +759,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Working on databases from prison: How I got here pt. 2",
+                "title": "Working on databases from prison",
                 "href": "https://turso.tech/blog/working-on-databases-from-prison"
             },
             {
                 "title": "Show HN: Zeekstd \u2013 Rust Implementation of the ZSTD Seekable Format",
                 "href": "https://github.com/rorosen/zeekstd"
-            },
-            {
-                "title": "Start your own Internet Resiliency Club",
-                "href": "https://bowshock.nl/irc/"
             },
             {
                 "title": "Show HN: Socket-call \u2013 Call socket.io events like normal JavaScript functions",
@@ -779,16 +775,24 @@
                 "href": "https://huggingface.co/nanonets/Nanonets-OCR-s"
             },
             {
-                "title": "LLM Chat via SSH",
-                "href": "https://github.com/ccbikai/ssh-ai-chat"
+                "title": "Start your own Internet Resiliency Club",
+                "href": "https://bowshock.nl/irc/"
             },
             {
-                "title": "Solving LinkedIn Queens with APL",
-                "href": "https://pitr.ca/2025-06-14-queens"
+                "title": "WhatsApp Introduces Ads in Its App",
+                "href": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html"
             },
             {
                 "title": "Jokes and Humour in the Public Android API",
                 "href": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/"
+            },
+            {
+                "title": "Maya Blue: Unlocking the Mysteries of an Ancient Pigment",
+                "href": "https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment"
+            },
+            {
+                "title": "Is gravity just entropy rising? Long-shot idea gets another look",
+                "href": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/"
             },
             {
                 "title": "Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)",
@@ -799,32 +803,48 @@
                 "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"
             },
             {
-                "title": "Maya Blue: Unlocking the Mysteries of an Ancient Pigment",
-                "href": "https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment"
+                "title": "LLM Chat via SSH",
+                "href": "https://github.com/ccbikai/ssh-ai-chat"
             },
             {
                 "title": "DARPA program sets distance record for power beaming",
                 "href": "https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming"
             },
             {
+                "title": "Solving LinkedIn Queens with APL",
+                "href": "https://pitr.ca/2025-06-14-queens"
+            },
+            {
                 "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
                 "href": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/"
+            },
+            {
+                "title": "A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]",
+                "href": "https://paperclipmaximizer.ai/Unaware_Adversaries.pdf"
             },
             {
                 "title": "Childhood leukemia: how a deadly cancer became treatable",
                 "href": "https://ourworldindata.org/childhood-leukemia-treatment-history"
             },
             {
-                "title": "Twin \u2013 A Textmode WINdow Environment",
-                "href": "https://github.com/cosmos72/twin"
-            },
-            {
                 "title": "Real-time CO2 monitoring without batteries or external power",
                 "href": "https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450"
             },
             {
+                "title": "Hyperspectral scans of historical pigments and painting reconstructions",
+                "href": "https://github.com/rubenwiersma/painting_tools"
+            },
+            {
+                "title": "Twin \u2013 A Textmode WINdow Environment",
+                "href": "https://github.com/cosmos72/twin"
+            },
+            {
                 "title": "Datalog in Rust",
                 "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md"
+            },
+            {
+                "title": "Simplest C++ Callback, from SumatraPDF",
+                "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html"
             },
             {
                 "title": "Chemical knowledge and reasoning of large language models vs. chemist expertise",
@@ -835,48 +855,28 @@
                 "href": "https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed"
             },
             {
+                "title": "Telephone Exchanges in the UK",
+                "href": "https://telephone-exchanges.org.uk/"
+            },
+            {
+                "title": "How the BIC Cristal ballpoint pen became ubiquitous",
+                "href": "https://www.openculture.com/2025/06/how-the-bic-cristal-ballpoint-pen-became-the-most-successful-product-in-history.html"
+            },
+            {
                 "title": "How to modify Starlink Mini to run without the built-in WiFi router",
                 "href": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/"
-            },
-            {
-                "title": "The Hewlett-Packard Archive",
-                "href": "https://hparchive.com"
-            },
-            {
-                "title": "The long afterlife of a literary classic",
-                "href": "https://thecritic.co.uk/the-long-afterlife-of-a-literary-classic/"
-            },
-            {
-                "title": "Datalog in miniKanren",
-                "href": "https://deosjr.github.io/dynamicland/datalog.html"
             },
             {
                 "title": "Fields where Native Americans farmed a thousand years ago discovered in Michigan",
                 "href": "https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/"
             },
             {
-                "title": "Hyperspectral scans of historical pigments and painting reconstructions",
-                "href": "https://github.com/rubenwiersma/painting_tools"
+                "title": "Occurences of swearing in the Linux kernel source code over time",
+                "href": "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*"
             },
             {
-                "title": "Telephone Exchanges in the UK",
-                "href": "https://telephone-exchanges.org.uk/"
-            },
-            {
-                "title": "Simplest C++ Callback, from SumatraPDF",
-                "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html"
-            },
-            {
-                "title": "Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look",
-                "href": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/"
-            },
-            {
-                "title": "Foundations of Computer Vision (2024)",
-                "href": "https://visionbook.mit.edu"
-            },
-            {
-                "title": "Reinventing circuit breakers with supercritical CO2",
-                "href": "https://spectrum.ieee.org/sf6-gas-replacement"
+                "title": "Datalog in miniKanren",
+                "href": "https://deosjr.github.io/dynamicland/datalog.html"
             }
         ]
     }
