@@ -3,12 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "is it really FOSS?",
+                "href": "https://isitreallyfoss.com/"
+            },
+            {
                 "title": "phkmalloc",
                 "href": "https://phk.freebsd.dk/sagas/phkmalloc/"
             },
             {
-                "title": "is it really FOSS?",
-                "href": "https://isitreallyfoss.com/"
+                "title": "bzip2 crate switches from C to 100% rust",
+                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
             },
             {
                 "title": "KDE Plasma 6.4 released",
@@ -17,10 +21,6 @@
             {
                 "title": "Triaging security issues reported by third parties (#913) \u00b7 Issues \u00b7 GNOME / libxml2 \u00b7",
                 "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913"
-            },
-            {
-                "title": "bzip2 crate switches from C to 100% rust",
-                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
             },
             {
                 "title": "Double-Entry Ledgers: The Missing Primitive in Modern Software",
@@ -39,24 +39,32 @@
                 "href": "https://omarabid.com/claude-magic"
             },
             {
-                "title": "Why Generative AI Coding Tools and Agents Do Not Work For Me",
-                "href": "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me"
+                "title": "Resurrecting a dead torrent tracker and finding 3 million peers",
+                "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"
             },
             {
-                "title": "Is Documentation Like Pineapple on Pizza?",
-                "href": "https://l.idaszak.com/l-docs-like-pineapple-on-pizza"
+                "title": "KiCad and Wayland Support",
+                "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/"
+            },
+            {
+                "title": "Why Generative AI Coding Tools and Agents Do Not Work For Me",
+                "href": "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me"
             },
             {
                 "title": "Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration",
                 "href": "https://slint.dev/blog/slint-1.12-released"
             },
             {
+                "title": "Is Documentation Like Pineapple on Pizza?",
+                "href": "https://l.idaszak.com/l-docs-like-pineapple-on-pizza"
+            },
+            {
                 "title": "zb beta released",
                 "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/"
             },
             {
-                "title": "KiCad and Wayland Support",
-                "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/"
+                "title": "Type Inference Zoo",
+                "href": "https://zoo.cuichen.cc/"
             },
             {
                 "title": "Locally hosting an internet-connected server",
@@ -67,8 +75,8 @@
                 "href": "https://graydon2.dreamwidth.org/317484.html"
             },
             {
-                "title": "Type Inference Zoo",
-                "href": "https://zoo.cuichen.cc/"
+                "title": "What Google Translate Can Tell Us About Vibecoding",
+                "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
             },
             {
                 "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
@@ -77,14 +85,6 @@
             {
                 "title": "Working on databases from prison: How I got here, part 2",
                 "href": "https://turso.tech/blog/working-on-databases-from-prison"
-            },
-            {
-                "title": "What Google Translate Can Tell Us About Vibecoding",
-                "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
-            },
-            {
-                "title": "Resurrecting a dead torrent tracker and finding 3 million peers",
-                "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"
             },
             {
                 "title": "Writing Toy Software Is A Joy",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "All Videos On Facebook Will Soon Be Shared As Reels",
+                "href": "https://tech.slashdot.org/story/25/06/17/2027252/all-videos-on-facebook-will-soon-be-shared-as-reels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Honda Successfully Launches and Lands Reusable Rocket",
                 "href": "https://science.slashdot.org/story/25/06/17/2016204/honda-successfully-launches-and-lands-reusable-rocket?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Google Cloud Caused Outage By Ignoring Its Usual Code Quality Protections",
                 "href": "https://tech.slashdot.org/story/25/06/16/2141250/google-cloud-caused-outage-by-ignoring-its-usual-code-quality-protections?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Intel Will Lay Off 15% To 20% of Its Factory Workers, Memo Says",
-                "href": "https://slashdot.org/story/25/06/16/2132227/intel-will-lay-off-15-to-20-of-its-factory-workers-memo-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,20 +795,24 @@
                 "href": "https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement"
             },
             {
-                "title": "Real-time action chunking with large models",
-                "href": "https://www.pi.website/research/real_time_chunking"
-            },
-            {
                 "title": "Time Series Forecasting with Graph Transformers",
                 "href": "https://kumo.ai/research/time-series-forecasting/"
+            },
+            {
+                "title": "What Google Translate Can Tell Us About Vibecoding",
+                "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
+            },
+            {
+                "title": "Real-time action chunking with large models",
+                "href": "https://www.pi.website/research/real_time_chunking"
             },
             {
                 "title": "Why JPEGs still rule the web (2024)",
                 "href": "https://spectrum.ieee.org/jpeg-image-format-history"
             },
             {
-                "title": "What Google Translate Can Tell Us About Vibecoding",
-                "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
+                "title": "Bzip2 crate switches from C to 100% rust",
+                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
             },
             {
                 "title": "Tetrachromatic Vision",
@@ -819,36 +823,40 @@
                 "href": "https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/"
             },
             {
-                "title": "O3 Turns Pro",
-                "href": "https://thezvi.substack.com/p/o3-turns-pro"
-            },
-            {
                 "title": "AI will shrink Amazon's workforce in the coming years, CEO Jassy says",
                 "href": "https://www.cnbc.com/2025/06/17/ai-amazon-workforce-jassy.html"
-            },
-            {
-                "title": "The hamburger-menu icon today: Is it recognizable?",
-                "href": "https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/"
-            },
-            {
-                "title": "AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge",
-                "href": "https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing"
             },
             {
                 "title": "From SDR to 'Fake HDR': Mario Kart World on Switch 2",
                 "href": "https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/"
             },
             {
+                "title": "A Rural Public Transit Odyssey",
+                "href": "https://shagbark.substack.com/p/a-rural-public-transit-odyssey"
+            },
+            {
+                "title": "The hamburger-menu icon today: Is it recognizable?",
+                "href": "https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/"
+            },
+            {
+                "title": "O3 Turns Pro",
+                "href": "https://thezvi.substack.com/p/o3-turns-pro"
+            },
+            {
+                "title": "Bots are overwhelming websites with their hunger for AI data",
+                "href": "https://www.theregister.com/2025/06/17/bot_overwhelming_websites_report/"
+            },
+            {
+                "title": "AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge",
+                "href": "https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing"
+            },
+            {
+                "title": "The magic of through running",
+                "href": "https://www.worksinprogress.news/p/the-magic-of-through-running"
+            },
+            {
                 "title": "Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone",
                 "href": "https://arxiv.org/abs/2506.02774"
-            },
-            {
-                "title": "Texas electricity maximum renewables record",
-                "href": "https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables"
-            },
-            {
-                "title": "Miscalculation by Spanish power grid operator REE contributed to blackout",
-                "href": "https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/"
             },
             {
                 "title": "Attempting to Make the Smallest* Electric Motor [video]",
@@ -859,28 +867,20 @@
                 "href": "https://arxiv.org/abs/2506.04266"
             },
             {
-                "title": "What happens when clergy take psilocybin",
-                "href": "https://nautil.us/clergy-blown-away-by-psilocybin-1217112/"
+                "title": "Miscalculation by Spanish power grid operator REE contributed to blackout",
+                "href": "https://www.reuters.com/business/energy/investigation-into-spains-april-28-blackout-shows-no-evidence-cyberattack-2025-06-17/"
             },
             {
                 "title": "Calculating Oil Storage Tank Occupancy with Help of Satellite Imagery",
                 "href": "https://medium.com/planet-stories/a-beginners-guide-to-calculating-oil-storage-tank-occupancy-with-help-of-satellite-imagery-e8f387200178"
             },
             {
+                "title": "What happens when clergy take psilocybin",
+                "href": "https://nautil.us/clergy-blown-away-by-psilocybin-1217112/"
+            },
+            {
                 "title": "Should we design for iffy internet?",
                 "href": "https://bytes.zone/posts/should-we-design-for-iffy-internet/"
-            },
-            {
-                "title": "Guidelines on how to be a scientific sleuth released",
-                "href": "https://osf.io/2kdez/wiki/home/"
-            },
-            {
-                "title": "Iran asks its people to delete WhatsApp from their devices",
-                "href": "https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1"
-            },
-            {
-                "title": "How you breathe is like a fingerprint that can identify you",
-                "href": "https://www.nature.com/articles/d41586-025-01835-0"
             }
         ]
     }
