@@ -19,12 +19,12 @@
                 "href": "https://blog.stulta.dev/posts/annoying_json/"
             },
             {
-                "title": "bzip2 crate switches from C to 100% rust",
-                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
-            },
-            {
                 "title": "Double-Entry Ledgers: The Missing Primitive in Modern Software",
                 "href": "https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/"
+            },
+            {
+                "title": "bzip2 crate switches from C to 100% rust",
+                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
             },
             {
                 "title": "is it really FOSS?",
@@ -51,12 +51,16 @@
                 "href": "https://phk.freebsd.dk/sagas/phkmalloc/"
             },
             {
+                "title": "IndexedDB is Weird",
+                "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/"
+            },
+            {
                 "title": "Triaging security issues reported by third parties (#913) \u00b7 Issues \u00b7 GNOME / libxml2 \u00b7",
                 "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913"
             },
             {
-                "title": "IndexedDB is Weird",
-                "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/"
+                "title": "Programming Language Design in the Era of LLMs: A Return to Mediocrity?",
+                "href": "https://kirancodes.me/posts/log-lang-design-llms.html"
             },
             {
                 "title": "zb beta released",
@@ -97,10 +101,6 @@
             {
                 "title": "Goodbye Dark Inc. - Hello Darklang Inc",
                 "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/"
-            },
-            {
-                "title": "Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration",
-                "href": "https://slint.dev/blog/slint-1.12-released"
             }
         ]
     },
@@ -124,12 +124,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1le0n3j/wallet_apps_arent_safe_either_heres_how_attackers/"
             },
             {
-                "title": "CVE-2025-34508: Another File Sharing Application, Another Path Traversal",
-                "href": "https://old.reddit.com/r/netsec/comments/1ldpnx4/cve202534508_another_file_sharing_application/"
-            },
-            {
                 "title": "Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform - watchTowr Labs",
                 "href": "https://old.reddit.com/r/netsec/comments/1ldjdo8/is_b_for_backdoor_preauth_rce_chain_in_sitecore/"
+            },
+            {
+                "title": "CVE-2025-34508: Another File Sharing Application, Another Path Traversal",
+                "href": "https://old.reddit.com/r/netsec/comments/1ldpnx4/cve202534508_another_file_sharing_application/"
             },
             {
                 "title": "Telegram messenger's ties to Russia's FSB revealed in new report",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "BeyondTrust warns of pre-auth RCE in Remote Support software",
+                "href": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-pre-auth-rce-in-remote-support-software/"
+            },
+            {
                 "title": "New Linux udisks flaw lets attackers get root on major Linux distros",
                 "href": "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/"
             },
@@ -267,10 +271,6 @@
             {
                 "title": "Hackers switch to targeting U.S. insurance companies",
                 "href": "https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/"
-            },
-            {
-                "title": "ASUS Armoury Crate bug lets attackers get Windows admin privileges",
-                "href": "https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/"
             }
         ]
     },
@@ -388,6 +388,14 @@
         "feedname": "ciscotalos",
         "items": [
             {
+                "title": "When legitimate tools go rogue",
+                "href": "https://blog.talosintelligence.com/when-legitimate-tools-go-rogue/"
+            },
+            {
+                "title": "Famous Chollima deploying Python version of GolangGhost RAT",
+                "href": "https://blog.talosintelligence.com/python-version-of-golangghost-rat/"
+            },
+            {
                 "title": "Know thyself, know thy environment",
                 "href": "https://blog.talosintelligence.com/know-thyself-know-thy-environment/"
             },
@@ -438,14 +446,6 @@
             {
                 "title": "Microsoft Patch Tuesday for May 2025 \u2014 Snort rules and prominent vulnerabilities",
                 "href": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-may-2025-snort-rules-and-prominent-vulnerabilities/"
-            },
-            {
-                "title": "Defining a new methodology for modeling and tracking compartmentalized threats",
-                "href": "https://blog.talosintelligence.com/compartmentalized-threat-modeling/"
-            },
-            {
-                "title": "Redefining IABs: Impacts of compartmentalization on threat tracking and modeling",
-                "href": "https://blog.talosintelligence.com/redefining-initial-access-brokers/"
             }
         ]
     },
@@ -767,8 +767,12 @@
                 "href": "https://github.com/MiniMax-AI/MiniMax-M1"
             },
             {
-                "title": "Make little apps for you and your friends",
+                "title": "Scrappy - make little apps for you and your friends",
                 "href": "https://pontus.granstrom.me/scrappy/"
+            },
+            {
+                "title": "I counted all of the yurts in Mongolia using machine learning",
+                "href": "https://monroeclinton.com/counting-all-yurts-in-mongolia/"
             },
             {
                 "title": "The Grug Brained Developer (2022)",
@@ -779,108 +783,104 @@
                 "href": "https://global.honda/en/topics/2025/c_2025-06-17ceng.html"
             },
             {
-                "title": "I counted all of the yurts in Mongolia using machine learning",
-                "href": "https://monroeclinton.com/counting-all-yurts-in-mongolia/"
-            },
-            {
-                "title": "Windows x86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)",
-                "href": "https://j00ru.vexillium.org/syscalls/nt/64/"
-            },
-            {
                 "title": "Show HN: Lstr \u2013 A modern, interactive tree command written in Rust",
                 "href": "https://github.com/bgreenwell/lstr"
-            },
-            {
-                "title": "Locally hosting an internet-connected server",
-                "href": "https://mjg59.dreamwidth.org/72095.html"
-            },
-            {
-                "title": "Resurrecting a dead torrent tracker and finding 3M peers",
-                "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"
-            },
-            {
-                "title": "Timescale Is Now TigerData",
-                "href": "https://www.tigerdata.com/blog/timescale-becomes-tigerdata"
-            },
-            {
-                "title": "Bzip2 crate switches from C to 100% Rust",
-                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
-            },
-            {
-                "title": "Which company would you prefer to join?",
-                "href": "https://www.companymatches.com/"
-            },
-            {
-                "title": "Benchmark: SnapDOM may be a serious alternative to html2canvas",
-                "href": "https://zumerlab.github.io/snapdom/"
-            },
-            {
-                "title": "Building Effective AI Agents",
-                "href": "https://www.anthropic.com/engineering/building-effective-agents"
             },
             {
                 "title": "OpenSERDES \u2013 Open Hardware Serializer/Deserializer (SerDes) in Verilog",
                 "href": "https://github.com/SparcLab/OpenSERDES"
             },
             {
+                "title": "Building Effective AI Agents",
+                "href": "https://www.anthropic.com/engineering/building-effective-agents"
+            },
+            {
                 "title": "3D-printed device splits white noise into an acoustic rainbow without power",
                 "href": "https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html"
-            },
-            {
-                "title": "\u201cDon\u2019t mock what you don't own\u201d in 5 minutes (2022)",
-                "href": "https://hynek.me/articles/what-to-mock-in-5-mins/"
-            },
-            {
-                "title": "Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses",
-                "href": "https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses"
-            },
-            {
-                "title": "The \"standard\" car charger is usually overkill [video]",
-                "href": "https://www.youtube.com/watch?v=W96a8svXo14"
-            },
-            {
-                "title": "What Google Translate can tell us about vibecoding",
-                "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
-            },
-            {
-                "title": "AMD's CDNA 4 Architecture Announcement",
-                "href": "https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement"
             },
             {
                 "title": "A Straightforward Explanation of the Good Regulator Theorem",
                 "href": "https://www.lesswrong.com/posts/JQefBJDHG6Wgffw6T/a-straightforward-explanation-of-the-good-regulator-theorem"
             },
             {
+                "title": "What Google Translate can tell us about vibecoding",
+                "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
+            },
+            {
+                "title": "Locally hosting an internet-connected server",
+                "href": "https://mjg59.dreamwidth.org/72095.html"
+            },
+            {
                 "title": "Now might be the best time to learn software development",
                 "href": "https://substack.com/home/post/p-165655726"
             },
             {
-                "title": "Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite",
-                "href": "https://blog.google/products/gemini/gemini-2-5-model-family-expands/"
+                "title": "Resurrecting a dead torrent tracker and finding 3M peers",
+                "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"
             },
             {
                 "title": "Dinesh\u2019s Mid-Summer Death Valley Walk (1998)",
                 "href": "https://dineshdesai.info/dv/photos.html"
             },
             {
-                "title": "Why JPEGs still rule the web (2024)",
-                "href": "https://spectrum.ieee.org/jpeg-image-format-history"
+                "title": "Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite",
+                "href": "https://blog.google/products/gemini/gemini-2-5-model-family-expands/"
+            },
+            {
+                "title": "Show HN: Cpdown \u2013 Copy any webpage/YouTube subtitle as clean Markdown(LLM-ready)",
+                "href": "https://news.ycombinator.com/from?site=github.com/ysm-dev"
+            },
+            {
+                "title": "Timescale Is Now TigerData",
+                "href": "https://www.tigerdata.com/blog/timescale-becomes-tigerdata"
             },
             {
                 "title": "Proofs Without Words",
                 "href": "https://artofproblemsolving.com/wiki/index.php/Proofs_without_words"
             },
             {
+                "title": "Why JPEGs still rule the web (2024)",
+                "href": "https://spectrum.ieee.org/jpeg-image-format-history"
+            },
+            {
+                "title": "Bzip2 crate switches from C to 100% Rust",
+                "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
+            },
+            {
+                "title": "LLMs pose an interesting problem for DSL designers",
+                "href": "https://kirancodes.me/posts/log-lang-design-llms.html"
+            },
+            {
                 "title": "I Wrote a Compiler",
                 "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/"
+            },
+            {
+                "title": "Show HN: I made an online Unicode Cuneiform digital clock",
+                "href": "https://oisinmoran.com/sumertime"
+            },
+            {
+                "title": "Benchmark: snapDOM vs html2canvas",
+                "href": "https://zumerlab.github.io/snapdom/"
             },
             {
                 "title": "Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure",
                 "href": "https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level"
             },
             {
-                "title": "Show HN: I made an online Unicode Cuneiform digital clock",
-                "href": "https://oisinmoran.com/sumertime"
+                "title": "Strangers in the Middle of a City: The John and Jane Does of L.A. Medical Center",
+                "href": "https://www.latimes.com/science/story/2025-06-15/l-a-seeks-help-for-a-patient-with-no-name"
+            },
+            {
+                "title": "Time Series Forecasting with Graph Transformers",
+                "href": "https://kumo.ai/research/time-series-forecasting/"
+            },
+            {
+                "title": "From SDR to 'Fake HDR': Mario Kart World on Switch 2",
+                "href": "https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/"
+            },
+            {
+                "title": "Sam Altman Says Meta Offered OpenAI Staffers $100M Bonuses",
+                "href": "https://www.bloomberg.com/news/articles/2025-06-17/altman-says-meta-offered-openai-staffers-100-million-bonuses"
             }
         ]
     }
