@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "My First Impressions of Gleam",
-                "href": "https://mtlynch.io/notes/gleam-first-impressions/"
-            },
-            {
                 "title": "I wrote my PhD Thesis in Typst",
                 "href": "https://fransskarman.com/phd_thesis_in_typst.html"
+            },
+            {
+                "title": "My First Impressions of Gleam",
+                "href": "https://mtlynch.io/notes/gleam-first-impressions/"
             },
             {
                 "title": "Asterinas: a new Linux-compatible kernel project",
@@ -39,6 +39,10 @@
                 "href": "https://github.com/shshemi/tabiew"
             },
             {
+                "title": "Makefile formatter and linter",
+                "href": "https://github.com/EbodShojaei/bake"
+            },
+            {
                 "title": "postmarketOS v25.06: the one with systemd",
                 "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/"
             },
@@ -51,20 +55,24 @@
                 "href": "https://github.com/pallene-lang/pallene"
             },
             {
-                "title": "Makefile formatter and linter",
-                "href": "https://github.com/EbodShojaei/bake"
+                "title": "Finding a billion factorials in 60 ms with SIMD",
+                "href": "https://codeforces.com/blog/entry/143279"
+            },
+            {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/lrtenu/what_are_you_doing_this_week"
             },
             {
                 "title": "Generating Musical Scales",
                 "href": "https://petecorey.com/blog/2025/06/22/generating-musical-scales/"
             },
             {
-                "title": "Announcing LogTape 1.0.0",
-                "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0"
+                "title": "Implicit is better than explicit",
+                "href": "https://sophiabits.com/blog/implicit-is-better-than-explicit"
             },
             {
-                "title": "Finding a billion factorials in 60 ms with SIMD",
-                "href": "https://codeforces.com/blog/entry/143279"
+                "title": "Announcing LogTape 1.0.0",
+                "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0"
             },
             {
                 "title": "Fixing Letrec (Reloaded)",
@@ -75,24 +83,16 @@
                 "href": "https://fxdx.dev/cdp-retirement-in-firefox/"
             },
             {
+                "title": "FreeBSD Kernel Modules pkg(8) Repositories",
+                "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/"
+            },
+            {
                 "title": "How fast are Linux pipes anyway? (2022)",
                 "href": "https://mazzo.li/posts/fast-pipes.html"
             },
             {
                 "title": "Allocators are Monkeys With Typewriters",
                 "href": "https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/"
-            },
-            {
-                "title": "Implicit is better than explicit",
-                "href": "https://sophiabits.com/blog/implicit-is-better-than-explicit"
-            },
-            {
-                "title": "FreeBSD Kernel Modules pkg(8) Repositories",
-                "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/"
-            },
-            {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/lrtenu/what_are_you_doing_this_week"
             },
             {
                 "title": "you are what you launch: how software became a lifestyle brand",
@@ -775,44 +775,48 @@
                 "href": "https://fransskarman.com/phd_thesis_in_typst.html"
             },
             {
-                "title": "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
-                "href": "https://www.astronomerstelegram.org/?read=17228"
-            },
-            {
                 "title": "Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot",
                 "href": "https://www.romanklasen.com/blog/beating-brainrot-by-button/"
             },
             {
-                "title": "Show HN: Ariadne \u2013 A Rust implementation of aperiodic cryptography",
-                "href": "https://codeberg.org/CipherNomad/Ariadne"
+                "title": "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
+                "href": "https://www.astronomerstelegram.org/?read=17228"
             },
             {
                 "title": "Finding a billion factorials in 60 ms with SIMD",
                 "href": "https://codeforces.com/blog/entry/143279"
             },
             {
-                "title": "Polystate: Composable Finite State Machines",
-                "href": "https://github.com/sdzx-1/polystate"
+                "title": "Show HN: Ariadne \u2013 A Rust implementation of aperiodic cryptography",
+                "href": "https://codeberg.org/CipherNomad/Ariadne"
             },
             {
-                "title": "Verlet Integration and Cloth Physics Simulation",
-                "href": "https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation"
+                "title": "Polystate: Composable Finite State Machines",
+                "href": "https://github.com/sdzx-1/polystate"
             },
             {
                 "title": "Klein Bottle Amazon Brand Hijacking (2021)",
                 "href": "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html"
             },
             {
+                "title": "Verlet Integration and Cloth Physics Simulation",
+                "href": "https://pikuma.com/blog/verlet-integration-2d-cloth-physics-simulation"
+            },
+            {
                 "title": "Show HN: Lego Island Playable in the Browser",
                 "href": "https://isle.pizza"
+            },
+            {
+                "title": "Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI",
+                "href": "https://arxiv.org/abs/2506.14364"
             },
             {
                 "title": "Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%",
                 "href": "https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p"
             },
             {
-                "title": "Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI",
-                "href": "https://arxiv.org/abs/2506.14364"
+                "title": "Using Wave Function Collapse to solve puzzle map generation at scale",
+                "href": "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/"
             },
             {
                 "title": "The Tandy Corporation",
@@ -823,28 +827,24 @@
                 "href": "https://philarchive.org/archive/SCHAIM-14"
             },
             {
-                "title": "Using Wave Function Collapse to solve puzzle map generation at scale",
-                "href": "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/"
-            },
-            {
-                "title": "OpenAI and Jony Ive's \"io\" brand has disappeared",
-                "href": "https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware"
-            },
-            {
-                "title": "2048 in bash with only 64 bits of state",
-                "href": "https://github.com/izabera/bitwise-challenge-2048"
+                "title": "The X Window System didn't immediately have X terminals",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate"
             },
             {
                 "title": "Radio Garden",
                 "href": "https://radio.garden/?2025"
             },
             {
+                "title": "2048 in bash with only 64 bits of state",
+                "href": "https://github.com/izabera/bitwise-challenge-2048"
+            },
+            {
                 "title": "Cross-Account and Cross-Region Backups with AWS Backup (and Friends)",
                 "href": "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/"
             },
             {
-                "title": "The X Window System didn't immediately have X terminals",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate"
+                "title": "Claude Code for VSCode",
+                "href": "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code"
             },
             {
                 "title": "Optifye.ai (YC W25) \u2013 Founding Back End Engineer",
@@ -859,24 +859,24 @@
                 "href": "http://www.hawaiihighways.com/"
             },
             {
-                "title": "Encounters with Reality on Christine Rosen's the Extinction of Experience",
-                "href": "https://thepointmag.com/criticism/encounters-with-reality/"
-            },
-            {
-                "title": "Claude Code for VSCode",
-                "href": "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code"
-            },
-            {
-                "title": "Nano-Vllm: lightweight vLLM implementation built from scratch",
-                "href": "https://github.com/GeeeekExplorer/nano-vllm"
+                "title": "2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)",
+                "href": "https://siglog.org/winner-of-the-2025-alonzo-church-award/"
             },
             {
                 "title": "The cultural decline of literary fiction",
                 "href": "https://oyyy.substack.com/p/the-cultural-decline-of-literary"
             },
             {
-                "title": "2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)",
-                "href": "https://siglog.org/winner-of-the-2025-alonzo-church-award/"
+                "title": "Interview with Francine Prose on early-1970s San Francisco [audio]",
+                "href": "https://www.laphamsquarterly.org/content/episode-3-francine-prose"
+            },
+            {
+                "title": "Nano-Vllm: lightweight vLLM implementation built from scratch",
+                "href": "https://github.com/GeeeekExplorer/nano-vllm"
+            },
+            {
+                "title": "We\u2019ve had a Denisovan skull since the 1930s, only nobody knew",
+                "href": "https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/"
             }
         ]
     }
