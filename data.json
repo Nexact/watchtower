@@ -47,12 +47,16 @@
                 "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
             },
             {
+                "title": "\"Why is the Rust compiler so slow?\"",
+                "href": "https://sharnoff.io/blog/why-rust-compiler-slow"
+            },
+            {
                 "title": "GCC 15 Continuously Improving AArch64",
                 "href": "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving"
             },
             {
-                "title": "\"Why is the Rust compiler so slow?\"",
-                "href": "https://sharnoff.io/blog/why-rust-compiler-slow"
+                "title": "Go 1.25 interactive tour",
+                "href": "https://antonz.org/go-1-25/"
             },
             {
                 "title": "What UI first distinguished radio buttons from checkboxes with circles and squares?",
@@ -63,16 +67,16 @@
                 "href": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
             },
             {
-                "title": "Go 1.25 interactive tour",
-                "href": "https://antonz.org/go-1-25/"
+                "title": "No Time To Learn (Web) Framework X",
+                "href": "https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/"
             },
             {
                 "title": "Weird expressions in rust",
                 "href": "https://www.wakunguma.com/blog/rust-weird-expr"
             },
             {
-                "title": "No Time To Learn (Web) Framework X",
-                "href": "https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/"
+                "title": "Matrix v1.15 release",
+                "href": "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
             },
             {
                 "title": "Notes on type inference and polymorphism",
@@ -81,10 +85,6 @@
             {
                 "title": "Slightly better named character reference tokenization than Chrome, Safari, and Firefox",
                 "href": "https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/"
-            },
-            {
-                "title": "Matrix v1.15 release",
-                "href": "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
             },
             {
                 "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Doctors Perform First Robotic Heart Transplant In US Without Opening a Chest",
+                "href": "https://science.slashdot.org/story/25/06/26/2110248/doctors-perform-first-robotic-heart-transplant-in-us-without-opening-a-chest?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Apple's Swift Coding Language Is Working On Android Support",
                 "href": "https://apple.slashdot.org/story/25/06/26/2133212/apples-swift-coding-language-is-working-on-android-support?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Study Finds LLM Users Have Weaker Understanding After Research",
                 "href": "https://slashdot.org/story/25/06/26/1526210/study-finds-llm-users-have-weaker-understanding-after-research?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "CareerBuilder + Monster, Which Once Dominated Online Job Boards, File For Bankruptcy",
-                "href": "https://slashdot.org/story/25/06/26/1356207/careerbuilder--monster-which-once-dominated-online-job-boards-file-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,24 +763,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "AlphaGenome: AI for better understanding the genome",
-                "href": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"
+                "title": "Some thoughts on my first YC Demo Day",
+                "href": "https://billchambers.me/articles/yc-demo-day-spring-25/"
             },
             {
                 "title": "A lumberjack created more than 200 sculptures in Wisconsin's Northwoods",
                 "href": "https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/"
             },
             {
+                "title": "AlphaGenome: AI for better understanding the genome",
+                "href": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"
+            },
+            {
                 "title": "Launch HN: Issen (YC F24) \u2013 Personal AI language tutor",
                 "href": "item?id=44387828"
             },
             {
-                "title": "The time is right for a DOM templating API",
-                "href": "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"
+                "title": "Ask HN: Is anyone else just done with the industry?",
+                "href": "item?id=44393304"
             },
             {
                 "title": "Kea 3.0, our first LTS version",
                 "href": "https://www.isc.org/blogs/kea-3-0/"
+            },
+            {
+                "title": "Apple Research unearthed forgotten AI technique and using it to generate images",
+                "href": "https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/"
+            },
+            {
+                "title": "The time is right for a DOM templating API",
+                "href": "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/"
             },
             {
                 "title": "Alternative Layout System",
@@ -791,60 +803,48 @@
                 "href": "https://samestep.com/blog/random-access/"
             },
             {
-                "title": "Fault Tolerant Llama training",
-                "href": "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"
-            },
-            {
-                "title": "Thomas Aquinas \u2013 The world is divine",
-                "href": "https://ralphammer.com/thomas-aquinas-the-world-is-divine/"
+                "title": "Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I",
+                "href": "https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/"
             },
             {
                 "title": "Show HN: Magnitude \u2013 Open-source AI browser automation framework",
                 "href": "https://github.com/magnitudedev/magnitude"
             },
             {
-                "title": "Collections: Nitpicking Gladiator's Iconic Opening Battle, Part I",
-                "href": "https://acoup.blog/2025/06/06/collections-nitpicking-gladiators-iconic-opening-battle-part-i/"
-            },
-            {
-                "title": "Dickinson's Dresses on the Moon",
-                "href": "https://www.theparisreview.org/blog/2025/06/20/dickinsons-dresses-on-the-moon/"
+                "title": "Fault Tolerant Llama training",
+                "href": "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/"
             },
             {
                 "title": "Snow - Classic Macintosh emulator",
                 "href": "https://snowemu.com/"
             },
             {
-                "title": "A new pyramid-like shape always lands the same side up",
-                "href": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/"
-            },
-            {
-                "title": "Apple Research unearthed forgotten AI technique and using it to generate images",
-                "href": "https://9to5mac.com/2025/06/23/apple-ai-image-model-research-tarflow-starflow/"
-            },
-            {
                 "title": "Puerto Rico's Solar Microgrids Beat Blackout",
                 "href": "https://spectrum.ieee.org/puerto-rico-solar-microgrids"
+            },
+            {
+                "title": "Dickinson's Dresses on the Moon",
+                "href": "https://www.theparisreview.org/blog/2025/06/20/dickinsons-dresses-on-the-moon/"
             },
             {
                 "title": "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
                 "href": "https://www.mdpi.com/2226-4310/12/6/519"
             },
             {
-                "title": "Matrix v1.15",
-                "href": "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
+                "title": "Sailing the fjords like the Vikings yields unexpected insights",
+                "href": "https://arstechnica.com/science/2025/06/this-archaeologist-built-a-replica-boat-to-sail-like-the-vikings/"
             },
             {
-                "title": "Show HN: I built an AI dataset generator",
-                "href": "https://github.com/metabase/dataset-generator"
+                "title": "Matrix v1.15",
+                "href": "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
             },
             {
                 "title": "Introducing Gemma 3n",
                 "href": "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/"
             },
             {
-                "title": "SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)",
-                "href": "https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones"
+                "title": "Show HN: I built an AI dataset generator",
+                "href": "https://github.com/metabase/dataset-generator"
             },
             {
                 "title": "Typr \u2013 TUI typing test with a word selection algorithm inspired by keybr",
@@ -855,32 +855,32 @@
                 "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675"
             },
             {
-                "title": "Canadian dies while in ICE custody in Florida, U.S. agency says",
-                "href": "https://www.cbc.ca/lite/story/1.7571876"
+                "title": "SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)",
+                "href": "https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones"
             },
             {
                 "title": "Starcloud can\u2019t put a data centre in space at $8.2M in one Starship",
                 "href": "https://angadh.com/space-data-centers-1"
             },
             {
-                "title": "The Business of Betting on Catastrophe",
-                "href": "https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/"
-            },
-            {
                 "title": "Ambient Garden",
                 "href": "https://ambient.garden"
             },
             {
-                "title": "Lateralized sleeping positions in domestic cats",
-                "href": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue"
+                "title": "The Business of Betting on Catastrophe",
+                "href": "https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/"
             },
             {
                 "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
                 "href": "https://crescentro.se/posts/writing-drivers/"
             },
             {
-                "title": "Memory safety is table stakes",
-                "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes"
+                "title": "Show HN: PRSS Site Creator \u2013 Create Blogs and Websites from Your Desktop",
+                "href": "https://prss.co/"
+            },
+            {
+                "title": "Lateralized sleeping positions in domestic cats",
+                "href": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue"
             }
         ]
     }
