@@ -11,20 +11,20 @@
                 "href": "https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html"
             },
             {
-                "title": "A Newbie's First Contribution to (Rust for) Linux",
-                "href": "https://blog.buenzli.dev/rust-for-linux-first-contrib/"
-            },
-            {
                 "title": "Bcachefs may be headed out of the kernel",
                 "href": "https://lwn.net/Articles/1027289/"
             },
             {
-                "title": "Cross-compiling Common Lisp for Windows",
-                "href": "https://www.fosskers.ca/en/blog/cl-windows"
+                "title": "A Newbie's First Contribution to (Rust for) Linux",
+                "href": "https://blog.buenzli.dev/rust-for-linux-first-contrib/"
             },
             {
                 "title": "Computer and coding books from Usborne (1982-1985)",
                 "href": "https://usborne.com/us/books/computer-and-coding-books"
+            },
+            {
+                "title": "Cross-compiling Common Lisp for Windows",
+                "href": "https://www.fosskers.ca/en/blog/cl-windows"
             },
             {
                 "title": "Android phones could soon warn you of \u201cStingrays\u201d snooping on your communications",
@@ -71,6 +71,10 @@
                 "href": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/"
             },
             {
+                "title": "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
+                "href": "https://johnnymetz.com/posts/postgresql-failing-insert/"
+            },
+            {
                 "title": "Announcing Rust 1.88.0",
                 "href": "https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/"
             },
@@ -83,10 +87,6 @@
                 "href": "http://www.aviduratas.de/lisp/lispmfpga/index.html"
             },
             {
-                "title": "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
-                "href": "https://johnnymetz.com/posts/postgresql-failing-insert/"
-            },
-            {
                 "title": "Guidelines for buildable and testable code examples",
                 "href": "https://pigweed.dev/docs/contributing/docs/examples.html"
             },
@@ -95,12 +95,12 @@
                 "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes"
             },
             {
-                "title": "New zine: The Secret Rules of the Terminal",
-                "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/"
+                "title": "Run coverage on tests",
+                "href": "https://hugovk.dev/blog/2025/run-coverage-on-tests/"
             },
             {
-                "title": "Shell startup scripts (2020)",
-                "href": "https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html"
+                "title": "New zine: The Secret Rules of the Terminal",
+                "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "X11 Fork XLibre Released For Testing On Systemd-Free Artix Linux",
+                "href": "https://linux.slashdot.org/story/25/06/28/054245/x11-fork-xlibre-released-for-testing-on-systemd-free-artix-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "How a Crewless, AI-Enhanced Vessel Will Patrol Denmark's and NATO's Waters",
                 "href": "https://tech.slashdot.org/story/25/06/28/047250/how-a-crewless-ai-enhanced-vessel-will-patrol-denmarks-and-natos-waters?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Facebook Is Asking To Use Meta AI On Photos In Your Camera Roll You Haven't Yet Shared",
                 "href": "https://yro.slashdot.org/story/25/06/27/1954211/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Renewables Soar, But Fossil Fuels Continue To Rise as Global Electricity Demand Hits Record Levels",
-                "href": "https://news.slashdot.org/story/25/06/27/1956207/renewables-soar-but-fossil-fuels-continue-to-rise-as-global-electricity-demand-hits-record-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -775,12 +775,12 @@
                 "href": "https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death"
             },
             {
-                "title": "Microsoft extends free Windows 10 security updates into 2026",
-                "href": "https://arstechnica.com/gadgets/2025/06/microsoft-extends-free-windows-10-security-updates-into-2026-with-strings-attached/"
-            },
-            {
                 "title": "Parsing JSON in Forty Lines of Awk",
                 "href": "https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk"
+            },
+            {
+                "title": "Microsoft extends free Windows 10 security updates into 2026",
+                "href": "https://arstechnica.com/gadgets/2025/06/microsoft-extends-free-windows-10-security-updates-into-2026-with-strings-attached/"
             },
             {
                 "title": "Engineer creates ad block for the real world with augmented reality glasses",
@@ -799,40 +799,24 @@
                 "href": "https://cyclemaps.blogspot.com/"
             },
             {
-                "title": "Finding Peter Putnam: The forgotten janitor who discovered the logic of the mind",
-                "href": "https://nautil.us/finding-peter-putnam-1218035/"
-            },
-            {
                 "title": "Ask HN: What are you actually using LLMs for in production?",
                 "href": "item?id=44405067"
-            },
-            {
-                "title": "JWST reveals its first direct image discovery of an exoplanet",
-                "href": "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/"
-            },
-            {
-                "title": "Lago (Open-Source Usage Based Billing) is hiring for ten roles",
-                "href": "https://www.ycombinator.com/companies/lago/jobs"
             },
             {
                 "title": "ZeQLplus: Terminal SQLite Database Browser",
                 "href": "https://github.com/ZetloStudio/ZeQLplus"
             },
             {
-                "title": "A short history of web bots and bot detection techniques",
-                "href": "https://sinja.io/blog/bot-or-not"
+                "title": "Lago (Open-Source Usage Based Billing) is hiring for ten roles",
+                "href": "https://www.ycombinator.com/companies/lago/jobs"
             },
             {
-                "title": "Facebook is asking to use Meta AI on photos in your camera roll you haven't yet",
-                "href": "https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/"
+                "title": "JWST reveals its first direct image discovery of an exoplanet",
+                "href": "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/"
             },
             {
-                "title": "C++ Seeding Surprises (2015)",
-                "href": "https://www.pcg-random.org/posts/cpp-seeding-surprises.html"
-            },
-            {
-                "title": "I deleted my second brain",
-                "href": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain"
+                "title": "People Are Being Involuntarily Committed After Spiraling into ChatGPT Psychosis",
+                "href": "https://futurism.com/commitment-jail-chatgpt-psychosis"
             },
             {
                 "title": "After successfully entering Earth's atmosphere, a European spacecraft is lost",
@@ -843,8 +827,20 @@
                 "href": "https://martinfowler.com/articles/2025-nature-abstraction.html"
             },
             {
+                "title": "A short history of web bots and bot detection techniques",
+                "href": "https://sinja.io/blog/bot-or-not"
+            },
+            {
+                "title": "I deleted my second brain",
+                "href": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain"
+            },
+            {
                 "title": "Reinforcement learning, explained with a minimum of math and jargon",
                 "href": "https://www.understandingai.org/p/reinforcement-learning-explained"
+            },
+            {
+                "title": "C++ Seeding Surprises (2015)",
+                "href": "https://www.pcg-random.org/posts/cpp-seeding-surprises.html"
             },
             {
                 "title": "London's largest ancient Roman fresco is \u201cmost difficult jigsaw puzzle\u201d",
@@ -855,28 +851,32 @@
                 "href": "https://machinelearning.apple.com/research/normalizing-flows"
             },
             {
-                "title": "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
-                "href": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000"
+                "title": "Ask HN: From the MIT study, is it smarter to resign than to use forced AI?",
+                "href": "item?id=44405550"
             },
             {
                 "title": "Untangling Lifetimes: The Arena Allocator",
                 "href": "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator"
             },
             {
-                "title": "DeepSeek R2 launch stalled as CEO balks at progress",
-                "href": "https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/"
+                "title": "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
+                "href": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000"
             },
             {
                 "title": "Facebook is starting to feed its AI with private, unpublished photos",
                 "href": "https://www.theverge.com/meta/694685/meta-ai-camera-roll"
             },
             {
+                "title": "Qwen VLo: From \u201cUnderstanding\u201d the World to \u201cDepicting\u201d It",
+                "href": "https://qwenlm.github.io/blog/qwen-vlo/"
+            },
+            {
                 "title": "Learn OCaml",
                 "href": "https://ocaml-sf.org/learn-ocaml-public/#activity=exercises"
             },
             {
-                "title": "Qwen VLo: From \u201cUnderstanding\u201d the World to \u201cDepicting\u201d It",
-                "href": "https://qwenlm.github.io/blog/qwen-vlo/"
+                "title": "DeepSeek R2 launch stalled as CEO balks at progress",
+                "href": "https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/"
             },
             {
                 "title": "Weird Expressions in Rust",
