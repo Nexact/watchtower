@@ -19,16 +19,16 @@
                 "href": "https://sidhion.com/blog/20_years/"
             },
             {
-                "title": "wayback: experimental X11 compatibility layer",
-                "href": "https://github.com/kaniini/wayback"
-            },
-            {
                 "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
                 "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/"
             },
             {
                 "title": "Generative AI\u2019s crippling and widespread failure to induce robust models of the world",
                 "href": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread"
+            },
+            {
+                "title": "wayback: experimental X11 compatibility layer",
+                "href": "https://github.com/kaniini/wayback"
             },
             {
                 "title": "Fil-C",
@@ -39,8 +39,16 @@
                 "href": "https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/"
             },
             {
+                "title": "SQL Noir: Learn SQL by Solving Crimes",
+                "href": "https://www.sqlnoir.com/"
+            },
+            {
                 "title": "Using the Internet without IPv4 connectivity",
                 "href": "https://jamesmcm.github.io/blog/no-ipv4/"
+            },
+            {
+                "title": "I made my VM think it has a CPU fan",
+                "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
             },
             {
                 "title": "WebAssembly Troubles part 4: Microwasm (2019)",
@@ -49,10 +57,6 @@
             {
                 "title": "A brief history of web browsers",
                 "href": "https://eclecticlight.co/2025/06/28/a-brief-history-of-web-browsers/"
-            },
-            {
-                "title": "I made my VM think it has a CPU fan",
-                "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
             },
             {
                 "title": "Starlink, OpenWrt, and Eeros\u2026 Oh My",
@@ -75,8 +79,12 @@
                 "href": "https://lwn.net/Articles/1027289/"
             },
             {
-                "title": "SQL Noir: Learn SQL by Solving Crimes",
-                "href": "https://www.sqlnoir.com/"
+                "title": "Agile Was Never Your Problem",
+                "href": "https://thecynical.dev/posts/agile-was-never-your-problem/"
+            },
+            {
+                "title": "Zero Trust for Bring Your Own Cloud (BYOC)",
+                "href": "https://signoz.io/blog/zero-trust-bring-your-own-cloud"
             },
             {
                 "title": "Go is an 80/20 language",
@@ -93,14 +101,6 @@
             {
                 "title": "AI Manager - The Future of Management",
                 "href": "https://aimanagers.app"
-            },
-            {
-                "title": "Memory Safe Languages: Reducing Vulnerabilities in Modern Software Development",
-                "href": "https://media.defense.gov/2025/Jun/23/2003742198/-1/-1/0/CSI_MEMORY_SAFE_LANGUAGES_REDUCING_VULNERABILITIES_IN_MODERN_SOFTWARE_DEVELOPMENT.PDF"
-            },
-            {
-                "title": "The Medley Interlisp Project: Reviving a Historical Software System",
-                "href": "https://interlisp.org/documentation/young-ccece2025.pdf"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Has an AI Backlash Begun?",
+                "href": "https://it.slashdot.org/story/25/06/29/1747204/has-an-ai-backlash-begun?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "To Spam AI Chatbots, Companies Spam Reddit with AI-Generated Posts",
                 "href": "https://tech.slashdot.org/story/25/06/28/1649245/to-spam-ai-chatbots-companies-spam-reddit-with-ai-generated-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "X11 Fork XLibre Released For Testing On Systemd-Free Artix Linux",
                 "href": "https://linux.slashdot.org/story/25/06/28/054245/x11-fork-xlibre-released-for-testing-on-systemd-free-artix-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "How a Crewless, AI-Enhanced Vessel Will Patrol Denmark's and NATO's Waters",
-                "href": "https://tech.slashdot.org/story/25/06/28/047250/how-a-crewless-ai-enhanced-vessel-will-patrol-denmarks-and-natos-waters?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,36 +759,52 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "I made my VM think it has a CPU fan",
-                "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
-            },
-            {
                 "title": "Personal care products disrupt the human oxidation field",
                 "href": "https://www.science.org/doi/10.1126/sciadv.ads7908"
+            },
+            {
+                "title": "I made my VM think it has a CPU fan",
+                "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
             },
             {
                 "title": "Show HN: Octelium \u2013 FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
                 "href": "https://github.com/octelium/octelium"
             },
             {
-                "title": "Using the Internet without IPv4 connectivity",
-                "href": "https://jamesmcm.github.io/blog/no-ipv4/"
+                "title": "Tools I love: mise(-en-place)",
+                "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/"
             },
             {
                 "title": "Bloom Filters by Example",
                 "href": "https://llimllib.github.io/bloomfilter-tutorial/"
             },
             {
+                "title": "Using the Internet without IPv4 connectivity",
+                "href": "https://jamesmcm.github.io/blog/no-ipv4/"
+            },
+            {
                 "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
                 "href": "https://interlisp.org/documentation/young-ccece2025.pdf"
+            },
+            {
+                "title": "Web Numbers",
+                "href": "https://ar.al/2025/06/25/web-numbers/"
             },
             {
                 "title": "4-10x faster in-process pub/sub for Go",
                 "href": "https://github.com/kelindar/event"
             },
             {
+                "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+                "href": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate"
+            },
+            {
                 "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
                 "href": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html"
+            },
+            {
+                "title": "Brad Woods Digital Garden",
+                "href": "https://garden.bradwoods.io"
             },
             {
                 "title": "The Unsustainability of Moore's Law",
@@ -803,24 +819,20 @@
                 "href": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin"
             },
             {
-                "title": "Implementing fast TCP fingerprinting with eBPF",
-                "href": "https://halb.it/posts/ebpf-fingerprinting-1/"
+                "title": "America's Coming Smoke Epidemic",
+                "href": "https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/"
             },
             {
                 "title": "Solving `Passport Application` with Haskell",
                 "href": "https://jameshaydon.github.io/passport/"
             },
             {
+                "title": "Implementing fast TCP fingerprinting with eBPF",
+                "href": "https://halb.it/posts/ebpf-fingerprinting-1/"
+            },
+            {
                 "title": "Sequence and first differences together list all positive numbers exactly once",
                 "href": "https://oeis.org/A005228"
-            },
-            {
-                "title": "Why Go Rocks for Building a Lua Interpreter",
-                "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
-            },
-            {
-                "title": "Brad Woods Digital Garden",
-                "href": "https://garden.bradwoods.io"
             },
             {
                 "title": "The Death of the Middle-Class Musician",
@@ -831,52 +843,40 @@
                 "href": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay"
             },
             {
+                "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
+                "href": "https://llmapitest.com/"
+            },
+            {
+                "title": "Why Go Rocks for Building a Lua Interpreter",
+                "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
+            },
+            {
                 "title": "Improving River Simulation",
                 "href": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html"
-            },
-            {
-                "title": "Europe approves first saliva-based contraceptive \u2013 no pill required",
-                "href": "https://thenextweb.com/news/europe-approves-first-saliva-based-contraceptive-no-pill-required"
-            },
-            {
-                "title": "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
-                "href": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/"
-            },
-            {
-                "title": "What LLMs Know About Their Users",
-                "href": "https://www.schneier.com/"
-            },
-            {
-                "title": "Engineered Addictions",
-                "href": "https://masonyarbrough.substack.com/p/engineered-addictions"
-            },
-            {
-                "title": "BusyBeaver(6) Is Quite Large",
-                "href": "https://scottaaronson.blog/?p=8972"
             },
             {
                 "title": "Show HN: A different kind of AI Video generation",
                 "href": "item?id=44383086"
             },
             {
-                "title": "Show HN: SmartStepper \u2013 Multi-Step Form Library with Config-Based Flow",
-                "href": "https://github.com/Miladxsar23/smartstepper"
+                "title": "Engineered Addictions",
+                "href": "https://masonyarbrough.substack.com/p/engineered-addictions"
+            },
+            {
+                "title": "What LLMs Know About Their Users",
+                "href": "https://www.schneier.com/"
+            },
+            {
+                "title": "BusyBeaver(6) Is Quite Large",
+                "href": "https://scottaaronson.blog/?p=8972"
             },
             {
                 "title": "JavaScript Trademark Update",
                 "href": "https://deno.com/blog/deno-v-oracle4"
             },
             {
-                "title": "Magnetic Tape Storage Technology: usage, history, and future outlook",
-                "href": "https://dl.acm.org/doi/10.1145/3708997"
-            },
-            {
-                "title": "An Indoor Beehive in My Bedroom Wall",
-                "href": "https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/"
-            },
-            {
-                "title": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
-                "href": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
+                "title": "Europe's First Exascale Supercomputer Powers Up",
+                "href": "https://spectrum.ieee.org/jupiter-exascale-supercomputer-europe"
             }
         ]
     }
