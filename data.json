@@ -43,24 +43,28 @@
                 "href": "https://brooker.co.za/blog/2021/04/19/latency.html"
             },
             {
-                "title": "History of UNIX Manpages",
-                "href": "https://manpages.bsd.lv/history.html"
+                "title": "Google Developer Search Appliance \u2013 Proxmox Port",
+                "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar"
             },
             {
-                "title": "Caching is an Abstraction, not an Optimization",
-                "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
+                "title": "History of UNIX Manpages",
+                "href": "https://manpages.bsd.lv/history.html"
             },
             {
                 "title": "Zig Community Mirrors",
                 "href": "https://ziglang.org/download/community-mirrors/"
             },
             {
-                "title": "The provenance memory model for C",
-                "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/"
+                "title": "Caching is an Abstraction, not an Optimization",
+                "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
             },
             {
-                "title": "Google Developer Search Appliance \u2013 Proxmox Port",
-                "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar"
+                "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
+                "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/"
+            },
+            {
+                "title": "The provenance memory model for C",
+                "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/"
             },
             {
                 "title": "Making Rails delegated_type\u2019s clearer",
@@ -97,10 +101,6 @@
             {
                 "title": "Building Replication-Safe LSM Trees in Postgres",
                 "href": "https://www.paradedb.com/blog/lsm_trees_in_postgres"
-            },
-            {
-                "title": "20 years of programming",
-                "href": "https://sidhion.com/blog/20_years/"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "r/netsec monthly discussion & tool thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1l0ozt4/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "RCE through Path Traversal",
+                "href": "https://old.reddit.com/r/netsec/comments/1lot58l/rce_through_path_traversal/"
             },
             {
                 "title": "C4 Bomb: Blowing Up Chrome\u2019s AppBound Cookie Encryption",
@@ -210,10 +214,6 @@
             {
                 "title": "Threat Hunting Introduction: Cobalt Strike",
                 "href": "https://old.reddit.com/r/netsec/comments/1lilkjk/threat_hunting_introduction_cobalt_strike/"
-            },
-            {
-                "title": "What secures LLMs calling APIs via MCP? A stack of OAuth specs\u2014here\u2019s how they fit together",
-                "href": "https://old.reddit.com/r/netsec/comments/1liiq8e/what_secures_llms_calling_apis_via_mcp_a_stack_of/"
             }
         ]
     },
@@ -767,16 +767,12 @@
                 "href": "https://www.xfinity.com/support/articles/wifi-motion"
             },
             {
-                "title": "Rust CLIs with Clap",
-                "href": "https://tucson-josh.com/posts/rust-clap-cli/"
+                "title": "Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits",
+                "href": "https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/"
             },
             {
                 "title": "Proton joins suit against Apple for practices that harm developers and consumers",
                 "href": "https://proton.me/blog/apple-lawsuit"
-            },
-            {
-                "title": "The new skill in AI is not prompting, it's context engineering",
-                "href": "https://www.philschmid.de/context-engineering"
             },
             {
                 "title": "I write type-safe generic data structures in C",
@@ -787,36 +783,48 @@
                 "href": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only"
             },
             {
+                "title": "The new skill in AI is not prompting, it's context engineering",
+                "href": "https://www.philschmid.de/context-engineering"
+            },
+            {
+                "title": "Rust CLIs with Clap",
+                "href": "https://tucson-josh.com/posts/rust-clap-cli/"
+            },
+            {
                 "title": "YouTube No Translation",
                 "href": "https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/"
-            },
-            {
-                "title": "Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits",
-                "href": "https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/"
-            },
-            {
-                "title": "Claude Code now supports Hooks",
-                "href": "https://docs.anthropic.com/en/docs/claude-code/hooks"
             },
             {
                 "title": "The hidden JTAG in a Qualcomm/Snapdragon device\u2019s USB port",
                 "href": "https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/"
             },
             {
-                "title": "People Keep Inventing Prolly Trees",
-                "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/"
+                "title": "Claude Code now supports Hooks",
+                "href": "https://docs.anthropic.com/en/docs/claude-code/hooks"
             },
             {
-                "title": "Melbourne man discovers extensive model train network underneath house",
-                "href": "https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8"
+                "title": "The Email Startup Graveyard: Why 80%+ of Email Companies Fail",
+                "href": "https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail"
+            },
+            {
+                "title": "Genetic Code Enables Zebrafish to Mend Damaged Organs",
+                "href": "https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs"
+            },
+            {
+                "title": "People Keep Inventing Prolly Trees",
+                "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/"
             },
             {
                 "title": "Donkey Kong Country 2 and Open Bus",
                 "href": "https://jsgroth.dev/blog/posts/dkc2-open-bus/"
             },
             {
-                "title": "The Email Startup Graveyard: Why 80%+ of Email Companies Fail",
-                "href": "https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail"
+                "title": "Melbourne man discovers extensive model train network underneath house",
+                "href": "https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8"
+            },
+            {
+                "title": "The original LZEXE (A.K.A. Kosinski) compressor source code has been released",
+                "href": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/"
             },
             {
                 "title": "End of an Era",
@@ -827,26 +835,6 @@
                 "href": "https://vldb.org/pvldb/vol18/p1919-wang.pdf"
             },
             {
-                "title": "So you want to serialize some DER?",
-                "href": "https://alexgaynor.net/2025/jun/20/serialize-some-der/"
-            },
-            {
-                "title": "Genetic Code Enables Zebrafish to Mend Damaged Organs",
-                "href": "https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs"
-            },
-            {
-                "title": "Show HN: TokenDagger \u2013 A tokenizer faster than OpenAI's Tiktoken",
-                "href": "https://github.com/M4THYOU/TokenDagger"
-            },
-            {
-                "title": "The original LZEXE (A.K.A. Kosinski) compressor source code has been released",
-                "href": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/"
-            },
-            {
-                "title": "Publishing Pepys",
-                "href": "https://literaryreview.co.uk/publishing-pepys"
-            },
-            {
                 "title": "Jim Boddie codeveloped the first successful DSP at Bell Labs",
                 "href": "https://spectrum.ieee.org/dsp-pioneer-jim-boddie"
             },
@@ -855,32 +843,44 @@
                 "href": "item?id=44416093"
             },
             {
-                "title": "They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder",
-                "href": "https://kevinboone.me/dtc-700.html"
+                "title": "So you want to serialize some DER?",
+                "href": "https://alexgaynor.net/2025/jun/20/serialize-some-der/"
             },
             {
-                "title": "Show HN: New Ens\u014d \u2013 first public beta",
-                "href": "https://untested.sonnet.io/notes/new-enso-first-public-beta/"
-            },
-            {
-                "title": "Entropy of a Mixture",
-                "href": "https://cgad.ski/blog/entropy-of-a-mixture.html"
+                "title": "Nimtable: Open-source web UI to browse and manage Apache Iceberg tables",
+                "href": "https://github.com/nimtable/nimtable"
             },
             {
                 "title": "DeepSeek App Faces Ban in Germany for Illegal Transfer of User Data",
                 "href": "https://www.searchenginejournal.com/deepseek-app-faces-ban-in-germany-for-illegal-transfer-of-user-data/550172/"
             },
             {
+                "title": "Show HN: New Ens\u014d \u2013 first public beta",
+                "href": "https://untested.sonnet.io/notes/new-enso-first-public-beta/"
+            },
+            {
+                "title": "They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder",
+                "href": "https://kevinboone.me/dtc-700.html"
+            },
+            {
+                "title": "Publishing Pepys",
+                "href": "https://literaryreview.co.uk/publishing-pepys"
+            },
+            {
+                "title": "Entropy of a Mixture",
+                "href": "https://cgad.ski/blog/entropy-of-a-mixture.html"
+            },
+            {
                 "title": "Pluto is a unique dialect of Lua with a focus on general-purpose programming",
                 "href": "https://github.com/PlutoLang/Pluto"
             },
             {
-                "title": "14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative",
-                "href": "https://14.ai/careers"
-            },
-            {
                 "title": "Price of rice in Japan falls below \u00a54k per 5kg",
                 "href": "https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/"
+            },
+            {
+                "title": "Show HN: A continuation of IRS Direct File that can be self-hosted",
+                "href": "https://github.com/openfiletax/openfile"
             }
         ]
     }
