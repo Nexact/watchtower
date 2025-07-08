@@ -15,16 +15,16 @@
                 "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html"
             },
             {
+                "title": "WebAssembly: Yes, but for What?",
+                "href": "https://queue.acm.org/detail.cfm?id=3746171"
+            },
+            {
                 "title": "In Praise of the Contrarian Stack",
                 "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en"
             },
             {
                 "title": "How Janet's PEG module works",
                 "href": "https://bakpakin.com/writing/how-janets-peg-works.html"
-            },
-            {
-                "title": "WebAssembly: Yes, but for What?",
-                "href": "https://queue.acm.org/detail.cfm?id=3746171"
             },
             {
                 "title": "The Future of Forums is Lies, I Guess",
@@ -39,16 +39,28 @@
                 "href": "https://orgpad.info/blog/all-programming-langs-are-fast"
             },
             {
-                "title": "#[derive(Clone)] is broken",
-                "href": "https://rgbcu.be/blog/derive-broken/"
+                "title": "How I build software quickly",
+                "href": "https://evanhahn.com/how-i-build-software-quickly/"
             },
             {
                 "title": "The case against which-key: a polemic",
                 "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic"
             },
             {
+                "title": "#[derive(Clone)] is broken",
+                "href": "https://rgbcu.be/blog/derive-broken/"
+            },
+            {
+                "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
+                "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust"
+            },
+            {
                 "title": "CODE AND TRUST: vibrators to pacemakers",
                 "href": "https://punkx.org/jackdoe/code-and-trust.html"
+            },
+            {
+                "title": "BMesh",
+                "href": "https://developer.blender.org/docs/features/objects/mesh/bmesh/"
             },
             {
                 "title": "You don't have to use Nix to manage your dotfiles",
@@ -75,32 +87,20 @@
                 "href": "https://floort.net/posts/belgium-unsafe-for-cvd/"
             },
             {
-                "title": "BMesh",
-                "href": "https://developer.blender.org/docs/features/objects/mesh/bmesh/"
+                "title": "My first verified (imperative) program",
+                "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/"
+            },
+            {
+                "title": "Enterprise Loop pattern in multiple languages",
+                "href": "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z"
             },
             {
                 "title": "Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders",
                 "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-1/"
             },
             {
-                "title": "My first verified (imperative) program",
-                "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/"
-            },
-            {
                 "title": "Jepsen & TigerBeetle",
                 "href": "https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false"
-            },
-            {
-                "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-                "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
-            },
-            {
-                "title": "Unified Memory Management",
-                "href": "https://buttondown.com/jaffray/archive/unified-memory-management/"
-            },
-            {
-                "title": "Automatically Packaging a Haskell Library as a Swift Binary XCFramework",
-                "href": "https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html"
             }
         ]
     },
@@ -775,24 +775,20 @@
                 "href": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/"
             },
             {
-                "title": "Epanet-JS",
-                "href": "https://macwright.com/2025/07/03/epanet-placemark"
-            },
-            {
                 "title": "Berry Script: lightweight embedded scripting language for microcontrollers",
                 "href": "https://berry-lang.github.io/"
-            },
-            {
-                "title": "Mercury: Ultra-fast language models based on diffusion",
-                "href": "https://arxiv.org/abs/2506.17298"
             },
             {
                 "title": "Attimet (YC F24) \u2013 Quant Trading Research Lab \u2013 Is Hiring Founding Researcher",
                 "href": "https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant"
             },
             {
-                "title": "What Microchip doesn't (officially) tell you about the VSC8512",
-                "href": "https://serd.es/2025/07/04/Switch-project-pt3.html"
+                "title": "Epanet-JS",
+                "href": "https://macwright.com/2025/07/03/epanet-placemark"
+            },
+            {
+                "title": "Mercury: Ultra-fast language models based on diffusion",
+                "href": "https://arxiv.org/abs/2506.17298"
             },
             {
                 "title": "I used o3 to profile myself from my saved Pocket links",
@@ -803,6 +799,10 @@
                 "href": "item?id=44490863"
             },
             {
+                "title": "What Microchip doesn't (officially) tell you about the VSC8512",
+                "href": "https://serd.es/2025/07/04/Switch-project-pt3.html"
+            },
+            {
                 "title": "LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping",
                 "href": "https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/"
             },
@@ -811,48 +811,44 @@
                 "href": "https://doeken.org/blog/coroutines-in-php"
             },
             {
-                "title": "The Miyawaki Method of micro-forestry",
-                "href": "https://www.futureecologies.net/listen/fe-6-5-the-method"
-            },
-            {
                 "title": "SIMD.info \u2013 Reference tool for C intrinsics of all major SIMD engines",
                 "href": "https://simd.info/"
+            },
+            {
+                "title": "The Miyawaki Method of micro-forestry",
+                "href": "https://www.futureecologies.net/listen/fe-6-5-the-method"
             },
             {
                 "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
                 "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/"
             },
             {
+                "title": "When Figma starts designing us",
+                "href": "https://designsystems.international/ideas/when-figma-starts-designing-us/"
+            },
+            {
                 "title": "The chemical secrets that help keep honey fresh for so long",
                 "href": "https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long"
             },
             {
-                "title": "When Figma starts designing us",
-                "href": "https://designsystems.international/ideas/when-figma-starts-designing-us/"
+                "title": "Memstop: Use LD_PRELOAD to delay process execution when low on memory",
+                "href": "https://github.com/surban/memstop"
             },
             {
                 "title": "Why are there no good dinosaur films?",
                 "href": "https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films"
             },
             {
-                "title": "WebAssembly: Yes, but for What?",
-                "href": "https://queue.acm.org/detail.cfm?id=3746171"
-            },
-            {
                 "title": "Fran\u00e7ois Chollet: The Arc Prize and How We Get to AGI [video]",
                 "href": "https://www.youtube.com/watch?v=5QcCeSsNRks"
-            },
-            {
-                "title": "# [derive(Clone)] Is Broken",
-                "href": "https://rgbcu.be/blog/derive-broken/"
             },
             {
                 "title": "What is going on in Unix with errno's limited nature",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited"
             },
             {
-                "title": "Apple just released a weirdly interesting coding language model",
-                "href": "https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/"
+                "title": "Show HN: I built a tool to solve window management once and for all",
+                "href": "https://aboveaverageuser.com/smartswitcher"
             },
             {
                 "title": "CU Randomness Beacon",
@@ -863,16 +859,20 @@
                 "href": "https://sarahrenaeclark.com/lightfast-testing-pencils/"
             },
             {
+                "title": "Apple just released a weirdly interesting coding language model",
+                "href": "https://9to5mac.com/2025/07/04/apple-just-released-a-weirdly-interesting-coding-language-model/"
+            },
+            {
                 "title": "Show HN: NYC Subway Simulator and Route Designer",
                 "href": "https://buildmytransit.nyc"
             },
             {
-                "title": "Show HN: I built a tool to solve window management once and for all",
-                "href": "https://aboveaverageuser.com/smartswitcher"
+                "title": "WebAssembly: Yes, but for What?",
+                "href": "https://queue.acm.org/detail.cfm?id=3746171"
             },
             {
-                "title": "My first verified imperative program",
-                "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/"
+                "title": "# [derive(Clone)] Is Broken",
+                "href": "https://rgbcu.be/blog/derive-broken/"
             },
             {
                 "title": "Solving Wordle with uv's dependency resolver",
