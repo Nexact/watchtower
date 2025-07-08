@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
-                "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/"
-            },
-            {
                 "title": "How I build software quickly",
                 "href": "https://evanhahn.com/how-i-build-software-quickly/"
+            },
+            {
+                "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
+                "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/"
             },
             {
                 "title": "Two weeks of wayback",
@@ -23,8 +23,16 @@
                 "href": "https://rgbcu.be/blog/derive-broken/"
             },
             {
+                "title": "Announcing FOKS, the Federated Open Key Service",
+                "href": "https://blog.foks.pub/posts/introducing/"
+            },
+            {
                 "title": "Stop putting nix setup in your checked-in .envrc files",
                 "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html"
+            },
+            {
+                "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
+                "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/"
             },
             {
                 "title": "In Praise of the Contrarian Stack",
@@ -35,12 +43,12 @@
                 "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic"
             },
             {
-                "title": "How Janet's PEG module works",
-                "href": "https://bakpakin.com/writing/how-janets-peg-works.html"
-            },
-            {
                 "title": "You Should Run a Certificate Transparency Log",
                 "href": "https://words.filippo.io/run-sunlight/"
+            },
+            {
+                "title": "How Janet's PEG module works",
+                "href": "https://bakpakin.com/writing/how-janets-peg-works.html"
             },
             {
                 "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
@@ -55,10 +63,6 @@
                 "href": "https://orgpad.info/blog/all-programming-langs-are-fast"
             },
             {
-                "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
-                "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/"
-            },
-            {
                 "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
                 "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust"
             },
@@ -71,20 +75,24 @@
                 "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md"
             },
             {
-                "title": "Announcing FOKS, the Federated Open Key Service",
-                "href": "https://blog.foks.pub/posts/introducing/"
+                "title": "Multiple vulnerabilities fixed in Git",
+                "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4"
             },
             {
                 "title": "CODE AND TRUST: vibrators to pacemakers",
                 "href": "https://punkx.org/jackdoe/code-and-trust.html"
             },
             {
+                "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+                "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
+            },
+            {
                 "title": "BMesh",
                 "href": "https://developer.blender.org/docs/features/objects/mesh/bmesh/"
             },
             {
-                "title": "Multiple vulnerabilities fixed in Git",
-                "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4"
+                "title": "Mastering Postgres Replication Slots: Preventing WAL Bloat and Other Production Issues",
+                "href": "https://www.morling.dev/blog/mastering-postgres-replication-slots/"
             },
             {
                 "title": "My first verified (imperative) program",
@@ -93,14 +101,6 @@
             {
                 "title": "Generic interfaces",
                 "href": "https://go.dev/blog/generic-interfaces"
-            },
-            {
-                "title": "Am I online?",
-                "href": "https://antonz.org/is-online/"
-            },
-            {
-                "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-                "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
             }
         ]
     },
@@ -120,12 +120,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1lunm8t/new_attack_on_tls_opossum_attack/"
             },
             {
-                "title": "Bitchat MITM Flaw",
-                "href": "https://old.reddit.com/r/netsec/comments/1lus5jg/bitchat_mitm_flaw/"
-            },
-            {
                 "title": "Scanning for Post-Quantum Cryptographic Support",
                 "href": "https://old.reddit.com/r/netsec/comments/1lusph0/scanning_for_postquantum_cryptographic_support/"
+            },
+            {
+                "title": "Bitchat MITM Flaw",
+                "href": "https://old.reddit.com/r/netsec/comments/1lus5jg/bitchat_mitm_flaw/"
             },
             {
                 "title": "Microsoft hardens Windows 11 against file junction attacks",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Windows 10 KB5062554 cumulative update released with 13 changes, fixes",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-cumulative-update-released-with-13-changes-fixes/"
+            },
+            {
                 "title": "Windows 11 KB5062553 & KB5062552  cumulative updates released",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062553-and-kb5062552-cumulative-updates-released/"
             },
@@ -267,10 +271,6 @@
             {
                 "title": "Hackers abuse leaked Shellter red team tool to deploy infostealers",
                 "href": "https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/"
-            },
-            {
-                "title": "OpenAI says GPT-5 will unify breakthroughs from different models",
-                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/"
             }
         ]
     },
@@ -322,6 +322,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "What is AGI? Nobody Agrees, And It's Tearing Microsoft and OpenAI Apart.",
+                "href": "https://slashdot.org/story/25/07/08/1757219/what-is-agi-nobody-agrees-and-its-tearing-microsoft-and-openai-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Georgia Court Throws Out Earlier Ruling That Relied on Fake Cases Made Up By AI",
                 "href": "https://yro.slashdot.org/story/25/07/08/172256/georgia-court-throws-out-earlier-ruling-that-relied-on-fake-cases-made-up-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -377,10 +381,6 @@
             {
                 "title": "The Open-Source Software Saving the Internet From AI Bot Scrapers",
                 "href": "https://news.slashdot.org/story/25/07/07/2146228/the-open-source-software-saving-the-internet-from-ai-bot-scrapers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Waymo Starts Robotaxi Testing In Philadelphia and NYC",
-                "href": "https://tech.slashdot.org/story/25/07/07/2136225/waymo-starts-robotaxi-testing-in-philadelphia-and-nyc?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,20 +763,32 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "CVE-2025-48384: Breaking Git with a carriage return and cloning RCE",
+                "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384"
+            },
+            {
+                "title": "Supabase MCP leaks your entire SQL Database, a lethal trifecta attack",
+                "href": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/"
+            },
+            {
+                "title": "Radium \u2013 The Music Editor",
+                "href": "http://users.notam02.no/~kjetism/radium/"
+            },
+            {
                 "title": "Google can now read your WhatsApp messages",
                 "href": "https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/"
             },
             {
-                "title": "Taking over 60k spyware user accounts with SQL injection",
-                "href": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/"
+                "title": "Dynamical origin of Theia, the last giant impactor on Earth",
+                "href": "https://arxiv.org/abs/2507.01826"
             },
             {
                 "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
                 "href": "https://huggingface.co/blog/smollm3"
             },
             {
-                "title": "AnyBlox: A Framework for Self-Decoding Datasets [pdf]",
-                "href": "https://gienieczko.com/anyblox-paper"
+                "title": "Taking over 60k spyware user accounts with SQL injection",
+                "href": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/"
             },
             {
                 "title": "GlobalFoundries to Acquire MIPS",
@@ -791,20 +803,24 @@
                 "href": "https://koaning.io/posts/svg-gifs/"
             },
             {
-                "title": "On The Meaning of Ritual",
-                "href": "https://alicemaz.substack.com/p/on-the-meaning-of-ritual"
-            },
-            {
                 "title": "Show HN: Jukebox \u2013 Free, Open Source Group Playlist with Fair Queueing",
                 "href": "https://www.jukeboxhq.com/"
+            },
+            {
+                "title": "Brut: A New Web Framework for Ruby",
+                "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
+            },
+            {
+                "title": "On The Meaning of Ritual",
+                "href": "https://alicemaz.substack.com/p/on-the-meaning-of-ritual"
             },
             {
                 "title": "A compact bitset implementation used in Ocarina of Time save files",
                 "href": "https://github.com/jb55/oot_bitset"
             },
             {
-                "title": "Show HN: Sumble \u2013 knowledge graph for GTM data \u2013 query tech stack, key projects",
-                "href": "https://sumble.com"
+                "title": "NuxtLabs is joining Vercel",
+                "href": "https://nuxtlabs.com/"
             },
             {
                 "title": "New sphere-packing record stems from an unexpected source",
@@ -815,20 +831,16 @@
                 "href": "https://github.com/surban/memstop"
             },
             {
-                "title": "Show HN: I built a tool to solve window management",
-                "href": "https://aboveaverageuser.com/smartswitcher"
-            },
-            {
                 "title": "Attimet (YC F24) \u2013 Quant Trading Research Lab \u2013 Is Hiring Founding Researcher",
                 "href": "https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant"
             },
             {
-                "title": "Show HN: OffChess \u2013 Offline chess puzzles app",
-                "href": "https://offchess.com"
+                "title": "Particle Lenia Deluxe Edition",
+                "href": "https://www.craftlinks.art/Notebook/particle-lenia/"
             },
             {
-                "title": "Berry Script: lightweight embedded scripting language for microcontrollers",
-                "href": "https://berry-lang.github.io/"
+                "title": "Show HN: OffChess \u2013 Offline chess puzzles app",
+                "href": "https://offchess.com"
             },
             {
                 "title": "Mercury: Ultra-fast language models based on diffusion",
@@ -839,12 +851,24 @@
                 "href": "https://macwright.com/2025/07/03/epanet-placemark"
             },
             {
-                "title": "Particle Lenia Deluxe Edition",
-                "href": "https://www.craftlinks.art/Notebook/particle-lenia/"
+                "title": "Berry Script: lightweight embedded scripting language for microcontrollers",
+                "href": "https://berry-lang.github.io/"
+            },
+            {
+                "title": "Show HN: I built a tool to solve window management",
+                "href": "https://aboveaverageuser.com/smartswitcher"
             },
             {
                 "title": "I used o3 to profile myself from my saved Pocket links",
                 "href": "https://noperator.dev/posts/o3-pocket-profile/"
+            },
+            {
+                "title": "Show HN: Sumble \u2013 knowledge graph for GTM data \u2013 query tech stack, key projects",
+                "href": "https://sumble.com"
+            },
+            {
+                "title": "Firefox is fine. The people running it are not",
+                "href": "https://www.theregister.com/2025/07/08/firefox_isnt_dead/"
             },
             {
                 "title": "LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping",
@@ -857,30 +881,6 @@
             {
                 "title": "SIMD.info \u2013 Reference tool for C intrinsics of all major SIMD engines",
                 "href": "https://simd.info/"
-            },
-            {
-                "title": "Running a Certificate Transparency log",
-                "href": "https://words.filippo.io/run-sunlight/"
-            },
-            {
-                "title": "The Miyawaki Method of micro-forestry",
-                "href": "https://www.futureecologies.net/listen/fe-6-5-the-method"
-            },
-            {
-                "title": "Firefox is fine. The people running it are not",
-                "href": "https://www.theregister.com/2025/07/08/firefox_isnt_dead/"
-            },
-            {
-                "title": "Exploring Coroutines in PHP",
-                "href": "https://doeken.org/blog/coroutines-in-php"
-            },
-            {
-                "title": "Why are there no good dinosaur films?",
-                "href": "https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films"
-            },
-            {
-                "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
-                "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/"
             }
         ]
     }
