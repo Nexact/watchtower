@@ -63,12 +63,20 @@
                 "href": "https://www.gibney.org/prompt_coding"
             },
             {
+                "title": "Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders",
+                "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-1/"
+            },
+            {
                 "title": "Inverse Triangle Inequality",
                 "href": "https://matklad.github.io/2025/07/07/inverse-triangle-inequality.html"
             },
             {
                 "title": "The Real GenAI Issue",
                 "href": "https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto"
+            },
+            {
+                "title": "All Programming Languages are Fast",
+                "href": "https://orgpad.info/blog/all-programming-langs-are-fast"
             },
             {
                 "title": "Stop using nix-env",
@@ -83,24 +91,16 @@
                 "href": "https://blog.meain.io/2025/building-personalized-micro-agents/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week"
-            },
-            {
                 "title": "Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]",
                 "href": "https://www.youtube.com/watch?v=hmq6veCFo0Y"
             },
             {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week"
+            },
+            {
                 "title": "In defence of swap: common misconceptions (2018)",
                 "href": "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
-            },
-            {
-                "title": "Plasma 6.4 Wayland vs X11, processor and power benchmarks",
-                "href": "https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html"
-            },
-            {
-                "title": "AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism",
-                "href": "https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Massive Study Detects AI Fingerprints In Millions of Scientific Papers",
+                "href": "https://science.slashdot.org/story/25/07/07/231226/massive-study-detects-ai-fingerprints-in-millions-of-scientific-papers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "People Are Using AI Chatbots To Guide Their Psychedelic Trips",
                 "href": "https://slashdot.org/story/25/07/07/2232250/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Netflix Says 50% of Global Users Now Watch Anime",
                 "href": "https://entertainment.slashdot.org/story/25/07/07/184247/netflix-says-50-of-global-users-now-watch-anime?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "OpenAI Says It Has No Plan To Use Google's In-house Chip",
-                "href": "https://tech.slashdot.org/story/25/07/07/1740250/openai-says-it-has-no-plan-to-use-googles-in-house-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,16 +759,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "# [derive(Clone)] Is Broken",
+                "href": "https://rgbcu.be/blog/derive-broken/"
+            },
+            {
                 "title": "New sphere-packing record stems from an unexpected source",
                 "href": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/"
             },
             {
-                "title": "Mercury: Ultra-fast language models based on diffusion",
-                "href": "https://arxiv.org/abs/2506.17298"
-            },
-            {
                 "title": "The Two Towers MUD",
                 "href": "https://t2tmud.org/"
+            },
+            {
+                "title": "Mercury: Ultra-fast language models based on diffusion",
+                "href": "https://arxiv.org/abs/2506.17298"
             },
             {
                 "title": "LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping",
@@ -783,6 +787,10 @@
                 "href": "https://serd.es/2025/07/04/Switch-project-pt3.html"
             },
             {
+                "title": "Epanet-JS",
+                "href": "https://macwright.com/2025/07/03/epanet-placemark"
+            },
+            {
                 "title": "I used o3 to profile myself from my saved Pocket links",
                 "href": "https://noperator.dev/posts/o3-pocket-profile/"
             },
@@ -791,20 +799,8 @@
                 "href": "item?id=44490863"
             },
             {
-                "title": "Epanet-JS",
-                "href": "https://macwright.com/2025/07/03/epanet-placemark"
-            },
-            {
-                "title": "# [derive(Clone)] Is Broken",
-                "href": "https://rgbcu.be/blog/derive-broken/"
-            },
-            {
                 "title": "The Miyawaki Method of micro-forestry",
                 "href": "https://www.futureecologies.net/listen/fe-6-5-the-method"
-            },
-            {
-                "title": "My first verified imperative program",
-                "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/"
             },
             {
                 "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
@@ -815,36 +811,44 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ErrnoWhySoLimited"
             },
             {
-                "title": "When Figma starts designing us",
-                "href": "https://designsystems.international/ideas/when-figma-starts-designing-us/"
+                "title": "My first verified imperative program",
+                "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/"
             },
             {
-                "title": "CU Randomness Beacon",
-                "href": "https://random.colorado.edu/"
+                "title": "When Figma starts designing us",
+                "href": "https://designsystems.international/ideas/when-figma-starts-designing-us/"
             },
             {
                 "title": "Fran\u00e7ois Chollet: The Arc Prize and How We Get to AGI [video]",
                 "href": "https://www.youtube.com/watch?v=5QcCeSsNRks"
             },
             {
-                "title": "Show HN: NYC Subway Simulator and Route Designer",
-                "href": "https://buildmytransit.nyc"
+                "title": "CU Randomness Beacon",
+                "href": "https://random.colorado.edu/"
             },
             {
                 "title": "Why are there no good dinosaur films?",
                 "href": "https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films"
             },
             {
-                "title": "Integrated photonic source of Gottesman\u2013Kitaev\u2013Preskill qubits",
-                "href": "https://www.nature.com/articles/s41586-025-09044-5"
+                "title": "SIMD.info \u2013 Reference tool for C intrinsics of all major SIMD engines",
+                "href": "https://simd.info/"
+            },
+            {
+                "title": "Show HN: NYC Subway Simulator and Route Designer",
+                "href": "https://buildmytransit.nyc"
+            },
+            {
+                "title": "Lightfastness Testing of Colored Pencils",
+                "href": "https://sarahrenaeclark.com/lightfast-testing-pencils/"
             },
             {
                 "title": "Analysing Roman itineraries using GIS tooling",
                 "href": "https://link.springer.com/article/10.1007/s12520-025-02175-w"
             },
             {
-                "title": "Lightfastness Testing of Colored Pencils",
-                "href": "https://sarahrenaeclark.com/lightfast-testing-pencils/"
+                "title": "Integrated photonic source of Gottesman\u2013Kitaev\u2013Preskill qubits",
+                "href": "https://www.nature.com/articles/s41586-025-09044-5"
             },
             {
                 "title": "Hymn to Babylon, missing for a millennium, has been discovered",
@@ -855,10 +859,6 @@
                 "href": "https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/"
             },
             {
-                "title": "SIMD.info \u2013 Reference tool for C intrinsics of all major SIMD engines",
-                "href": "https://simd.info/"
-            },
-            {
                 "title": "The era of exploration",
                 "href": "https://yidingjiang.github.io/blog/post/exploration/"
             },
@@ -867,16 +867,16 @@
                 "href": "https://blog.decryption.net.au/posts/macse30.html"
             },
             {
-                "title": "Charles Babbage and deciphering codes (1864)",
-                "href": "https://mathshistory.st-andrews.ac.uk/Extras/Babbage_deciphering/"
-            },
-            {
                 "title": "Running a Certificate Transparency log",
                 "href": "https://words.filippo.io/run-sunlight/"
             },
             {
                 "title": "Neanderthals operated prehistoric \u201cfat factory\u201d on German lakeshore",
                 "href": "https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/"
+            },
+            {
+                "title": "Why English doesn't use accents",
+                "href": "https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents"
             }
         ]
     }
