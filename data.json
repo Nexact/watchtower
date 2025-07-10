@@ -35,12 +35,16 @@
                 "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/"
             },
             {
+                "title": "(Quite) A Few Words About Async",
+                "href": "https://yoric.github.io/post/quite-a-few-words-about-async/"
+            },
+            {
                 "title": "Closures for Hare",
                 "href": "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E"
             },
             {
-                "title": "(Quite) A Few Words About Async",
-                "href": "https://yoric.github.io/post/quite-a-few-words-about-async/"
+                "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
+                "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/"
             },
             {
                 "title": "Brut: A New Web Framework for Ruby",
@@ -67,16 +71,16 @@
                 "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/"
             },
             {
-                "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
-                "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
-            },
-            {
                 "title": "Writing a very simple JIT Compiler in about 1000 lines of C",
                 "href": "https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html"
             },
             {
                 "title": "Vim Fugitive in action (2021)",
                 "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/"
+            },
+            {
+                "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
+                "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
             },
             {
                 "title": "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
@@ -91,16 +95,12 @@
                 "href": "https://aresluna.org/frame-of-preference/"
             },
             {
-                "title": "Summary of the May 2025 TC39 plenary",
-                "href": "https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/"
-            },
-            {
-                "title": "Client-side epub generation",
-                "href": "https://little.webby.press/"
-            },
-            {
                 "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
                 "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php"
+            },
+            {
+                "title": "Summary of the May 2025 TC39 plenary",
+                "href": "https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Red Hat Gives Developers Free Access To Enterprise Linux For Business Use",
+                "href": "https://linux.slashdot.org/story/25/07/10/0112201/red-hat-gives-developers-free-access-to-enterprise-linux-for-business-use?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Prime Day Loses Its Spark As Sales Nosedive 41%",
                 "href": "https://news.slashdot.org/story/25/07/10/0123233/prime-day-loses-its-spark-as-sales-nosedive-41?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "OpenAI To Release AI Web Browser in Challenge To Chrome",
                 "href": "https://tech.slashdot.org/story/25/07/09/1818249/openai-to-release-ai-web-browser-in-challenge-to-chrome?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple Working on Updated Vision Pro With M4 Chip as Early as 2025",
-                "href": "https://apple.slashdot.org/story/25/07/09/1731248/apple-working-on-updated-vision-pro-with-m4-chip-as-early-as-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,8 +763,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Optimizing a Math Expression Parser in Rust",
+                "href": "https://rpallas.xyz/math-parser/"
+            },
+            {
                 "title": "Thunderbird 140 \"Eclipse\"",
                 "href": "https://blog.thunderbird.net/2025/07/welcome-to-thunderbird-140-eclipse/"
+            },
+            {
+                "title": "Show HN: Typeform was too expensive so I built my own forms",
+                "href": "https://www.ikiform.com/"
             },
             {
                 "title": "MCP-B: A Protocol for AI Browser Automation",
@@ -775,20 +783,16 @@
                 "href": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html"
             },
             {
-                "title": "Generic interfaces",
-                "href": "https://go.dev/blog/generic-interfaces"
-            },
-            {
                 "title": "A Typology of Canadianisms",
                 "href": "https://dchp.arts.ubc.ca/how-to-use"
             },
             {
-                "title": "Biomni: A General-Purpose Biomedical AI Agent",
-                "href": "https://github.com/snap-stanford/Biomni"
-            },
-            {
                 "title": "Show HN: FlopperZiro \u2013 A DIY open-source Flipper Zero clone",
                 "href": "https://github.com/lraton/FlopperZiro"
+            },
+            {
+                "title": "Biomni: A General-Purpose Biomedical AI Agent",
+                "href": "https://github.com/snap-stanford/Biomni"
             },
             {
                 "title": "Show HN: MCP server for searching and downloading documents from Anna's Archive",
@@ -807,36 +811,24 @@
                 "href": "https://cairno.substack.com/p/improvements-to-the-separating-axis"
             },
             {
-                "title": "Show HN: Petrichor \u2013 a free, open-source, offline music player for macOS",
-                "href": "https://github.com/kushalpandya/Petrichor"
-            },
-            {
-                "title": "I made a parody of enterprise AI chatbots",
-                "href": "https://github.com/muratcanozdemir/chatgpt-parody"
+                "title": "Show HN: BreakerMachines \u2013 Modern Circuit Breaker for Rails with Async Support",
+                "href": "https://github.com/seuros/breaker_machines"
             },
             {
                 "title": "Solar power has begun to transform the world\u2019s energy system",
                 "href": "https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment"
             },
             {
-                "title": "Evaluating the Effectiveness of Memory Safety Sanitizers",
-                "href": "https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy"
-            },
-            {
-                "title": "Show HN: BreakerMachines \u2013 Modern Circuit Breaker for Rails with Async Support",
-                "href": "https://github.com/seuros/breaker_machines"
-            },
-            {
-                "title": "Cmdk \u2013 CD anywhere and open anything in your terminal",
-                "href": "https://github.com/mieubrisse/cmdk"
-            },
-            {
-                "title": "Code and Trust: Vibrators to Pacemakers",
-                "href": "https://punkx.org/jackdoe/code-and-trust.html"
-            },
-            {
                 "title": "From Task to Table: How I Got to the Korean Burger",
                 "href": "https://medium.com/@chrisveleris/from-task-to-table-how-i-finally-got-to-the-korean-burger-01245a14d491"
+            },
+            {
+                "title": "Show HN: Petrichor \u2013 a free, open-source, offline music player for macOS",
+                "href": "https://github.com/kushalpandya/Petrichor"
+            },
+            {
+                "title": "Evaluating the Effectiveness of Memory Safety Sanitizers",
+                "href": "https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy"
             },
             {
                 "title": "Bootstrapping a side project into a profitable seven-figure business",
@@ -851,16 +843,16 @@
                 "href": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo"
             },
             {
-                "title": "Matt Trout has died",
-                "href": "https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/"
+                "title": "Code and Trust: Vibrators to Pacemakers",
+                "href": "https://punkx.org/jackdoe/code-and-trust.html"
             },
             {
                 "title": "Linda Yaccarino is leaving X",
                 "href": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html"
             },
             {
-                "title": "German court rules Meta tracking technology violates European privacy laws",
-                "href": "https://therecord.media/german-court-meta-tracking-tech"
+                "title": "Cmdk \u2013 CD anywhere and open anything in your terminal",
+                "href": "https://github.com/mieubrisse/cmdk"
             },
             {
                 "title": "Xenharmlib: A music theory library that supports non-western harmonic systems",
@@ -875,8 +867,16 @@
                 "href": "https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms"
             },
             {
+                "title": "German court rules Meta tracking technology violates European privacy laws",
+                "href": "https://therecord.media/german-court-meta-tracking-tech"
+            },
+            {
                 "title": "Grok 4 Launch [video]",
                 "href": "https://twitter.com/xai/status/1943158495588815072"
+            },
+            {
+                "title": "Matt Trout has died",
+                "href": "https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/"
             },
             {
                 "title": "HyAB k-means for color quantization",
