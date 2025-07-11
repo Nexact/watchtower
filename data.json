@@ -63,6 +63,22 @@
                 "href": "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/"
             },
             {
+                "title": "Efficiency of a sparse hash table",
+                "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html"
+            },
+            {
+                "title": "Measuring power network frequency using junk you have in your closet",
+                "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
+            },
+            {
+                "title": "Placing functions",
+                "href": "https://blog.yoshuawuyts.com/placing-functions/"
+            },
+            {
+                "title": "new Date(\"wtf\")",
+                "href": "https://jsdate.wtf/"
+            },
+            {
                 "title": "Jai Demo and Design Explanation",
                 "href": "https://www.youtube.com/watch?v=IdpD5QIVOKQ"
             },
@@ -83,24 +99,8 @@
                 "href": "https://mcyoung.xyz/2025/07/07/nosplit/"
             },
             {
-                "title": "Efficiency of a sparse hash table",
-                "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html"
-            },
-            {
                 "title": "Vibe Coding Casino: Rise of programming by slot machine",
                 "href": "https://evrim.zone/blog/opinion/vibes_casino"
-            },
-            {
-                "title": "Writing an IR from Scratch and survive to write a post",
-                "href": "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
-            },
-            {
-                "title": "Placing functions",
-                "href": "https://blog.yoshuawuyts.com/placing-functions/"
-            },
-            {
-                "title": "new Date(\"wtf\")",
-                "href": "https://jsdate.wtf/"
             }
         ]
     },
@@ -120,12 +120,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1lx360q/preauth_sql_injection_to_rce_fortinet_fortiweb/"
             },
             {
-                "title": "FortiWeb Pre-Auth RCE (CVE-2025-25257)",
-                "href": "https://old.reddit.com/r/netsec/comments/1lx6koo/fortiweb_preauth_rce_cve202525257/"
-            },
-            {
                 "title": "Bypassing Meta's Llama Firewall: A Case Study in Prompt Injection Vulnerabilities",
                 "href": "https://old.reddit.com/r/netsec/comments/1lx8ijw/bypassing_metas_llama_firewall_a_case_study_in/"
+            },
+            {
+                "title": "FortiWeb Pre-Auth RCE (CVE-2025-25257)",
+                "href": "https://old.reddit.com/r/netsec/comments/1lx6koo/fortiweb_preauth_rce_cve202525257/"
             },
             {
                 "title": "Two critical credential vulnerabilities have been found in Kaseya's RapidFire Tools Network Detective",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now",
+                "href": "https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/"
+            },
+            {
                 "title": "WordPress Gravity Forms developer hacked to push backdoored plugins",
                 "href": "https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Microsoft confirms Windows Server Update Services (WSUS) sync is broken",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/"
-            },
-            {
-                "title": "Qantas confirms data breach impacts 5.7 million customers",
-                "href": "https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Earth Is Spinning Faster and Days Are Getting Shorter, for Now",
+                "href": "https://news.slashdot.org/story/25/07/11/1741218/earth-is-spinning-faster-and-days-are-getting-shorter-for-now?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Few Danes Work Until Official Retirement Age as Government Pushes It to 70",
                 "href": "https://slashdot.org/story/25/07/11/1734217/few-danes-work-until-official-retirement-age-as-government-pushes-it-to-70?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Ohio City Using AI-Equipped Garbage Trucks To Scan Your Trash, Scold You For Not Recycling",
                 "href": "https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google Replaces Android Developer Preview With Rolling Canary Channel",
-                "href": "https://developers.slashdot.org/story/25/07/10/2329218/google-replaces-android-developer-preview-with-rolling-canary-channel?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,28 +759,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "jank is C++",
-                "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
-            },
-            {
                 "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
                 "href": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html"
             },
             {
-                "title": "Bill Atkinson's psychedelic user interface",
-                "href": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill"
+                "title": "jank is C++",
+                "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
             },
             {
-                "title": "Andrew Ng: Building Faster with AI [video]",
-                "href": "https://www.youtube.com/watch?v=RNJCfif1dPY"
+                "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
+                "href": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price"
             },
             {
                 "title": "Astronomers race to study interstellar interloper",
                 "href": "https://www.science.org/content/article/astronomers-race-study-interstellar-interloper"
             },
             {
-                "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
-                "href": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price"
+                "title": "Andrew Ng: Building Faster with AI [video]",
+                "href": "https://www.youtube.com/watch?v=RNJCfif1dPY"
+            },
+            {
+                "title": "Bill Atkinson's psychedelic user interface",
+                "href": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill"
             },
             {
                 "title": "Show HN: Vibe Kanban \u2013 Kanban board to manage your AI coding agents",
@@ -791,59 +791,59 @@
                 "href": "https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh"
             },
             {
-                "title": "Pa. House passes 'click-to-cancel' subscription bills",
-                "href": "https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html"
+                "title": "Show HN: RULER \u2013 Easily apply RL to any agent",
+                "href": "https://openpipe.ai/blog/ruler"
             },
             {
                 "title": "Repaste Your MacBook",
                 "href": "https://christianselig.com/2025/07/repaste-macbook/"
             },
             {
-                "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
-                "href": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html"
+                "title": "Pa. House passes 'click-to-cancel' subscription bills",
+                "href": "https://www.pennlive.com/news/2025/07/pa-house-passes-click-to-cancel-subscription-bills-as-court-throws-out-federal-rule.html"
             },
             {
                 "title": "In a First, Solar Was Europe's Biggest Source of Power Last Month",
                 "href": "https://e360.yale.edu/digest/solar-biggest-power-source-europe-june-2025"
             },
             {
-                "title": "Show HN: RULER \u2013 Easily apply RL to any agent",
-                "href": "https://openpipe.ai/blog/ruler"
+                "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
+                "href": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html"
             },
             {
                 "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
                 "href": "https://github.com/fosrl/pangolin"
             },
             {
-                "title": "AI agent benchmarks are broken",
-                "href": "https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken"
-            },
-            {
                 "title": "OpenFront: Realtime Risk-like multiplayer game in the browser",
                 "href": "https://openfront.io/"
-            },
-            {
-                "title": "Overtourism in Japan, and how it hurts small businesses",
-                "href": "https://craigmod.com/ridgeline/210/"
-            },
-            {
-                "title": "The day someone created 184 billion Bitcoin (2020)",
-                "href": "https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator"
             },
             {
                 "title": "LLM Inference Handbook",
                 "href": "https://bentoml.com/llm/"
             },
             {
+                "title": "The day someone created 184 billion Bitcoin (2020)",
+                "href": "https://decrypt.co/39750/184-billion-bitcoin-anonymous-creator"
+            },
+            {
                 "title": "The ChompSaw: A benchtop power tool that's safe for kids to use",
                 "href": "https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use"
             },
             {
-                "title": "Kimi K2",
-                "href": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
+                "title": "Overtourism in Japan, and how it hurts small businesses",
+                "href": "https://craigmod.com/ridgeline/210/"
             },
             {
-                "title": "Recovering from AI Addiction",
+                "title": "Belkin shows tech firms getting too comfortable with bricking customers' stuff",
+                "href": "https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/"
+            },
+            {
+                "title": "AI agent benchmarks are broken",
+                "href": "https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken"
+            },
+            {
+                "title": "Recovering from AI addiction",
                 "href": "https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/"
             },
             {
@@ -851,20 +851,24 @@
                 "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
             },
             {
+                "title": "Kimi K2",
+                "href": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
+            },
+            {
                 "title": "Batch Mode in the Gemini API: Process More for Less",
                 "href": "https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/"
             },
             {
-                "title": "Belkin shows tech firms getting too comfortable with bricking customers' stuff",
-                "href": "https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/"
+                "title": "Google nerfs Pixel 6a batteries following fire hazard",
+                "href": "https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/"
             },
             {
                 "title": "FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it",
                 "href": "https://twitter.com/cis_female/status/1943069934332055912"
             },
             {
-                "title": "Top DNS domains seen on the Quad9 recursive resolver array each day",
-                "href": "https://github.com/Quad9DNS/quad9-domains-top500"
+                "title": "I'm more proud of these 128 kilobytes than anything I've built since",
+                "href": "https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18"
             },
             {
                 "title": "Show HN: Interactive pinout for the Raspberry Pi Pico 2",
@@ -873,10 +877,6 @@
             {
                 "title": "Some arguments against a land value tax (2024)",
                 "href": "https://www.lesswrong.com/posts/CCuJotfcaoXf8FYcy/some-arguments-against-a-land-value-tax"
-            },
-            {
-                "title": "What is Realtalk\u2019s relationship to AI? (2024)",
-                "href": "https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI"
             }
         ]
     }
