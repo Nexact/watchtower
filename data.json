@@ -11,6 +11,10 @@
                 "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
             },
             {
+                "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
+                "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
+            },
+            {
                 "title": "Clustered PostgreSQL",
                 "href": "https://arch.dog/bark/clustered-postgresql"
             },
@@ -21,10 +25,6 @@
             {
                 "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
                 "href": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
-            },
-            {
-                "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
-                "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
             },
             {
                 "title": "A remembrance of Matthew S. Trout (mst)",
@@ -47,12 +47,20 @@
                 "href": "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware"
             },
             {
-                "title": "Wasm the Hard Way: Porting the Chicory Compiler to Android",
-                "href": "https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/"
+                "title": "Placing functions",
+                "href": "https://blog.yoshuawuyts.com/placing-functions/"
+            },
+            {
+                "title": "new Date(\"wtf\")",
+                "href": "https://jsdate.wtf/"
             },
             {
                 "title": "Postgres LISTEN/NOTIFY does not scale",
                 "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
+            },
+            {
+                "title": "Wasm the Hard Way: Porting the Chicory Compiler to Android",
+                "href": "https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/"
             },
             {
                 "title": "EVTX Viewer - Windows Event Log Explorer",
@@ -71,14 +79,6 @@
                 "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
             },
             {
-                "title": "Placing functions",
-                "href": "https://blog.yoshuawuyts.com/placing-functions/"
-            },
-            {
-                "title": "new Date(\"wtf\")",
-                "href": "https://jsdate.wtf/"
-            },
-            {
                 "title": "Jai Demo and Design Explanation",
                 "href": "https://www.youtube.com/watch?v=IdpD5QIVOKQ"
             },
@@ -91,12 +91,12 @@
                 "href": "https://secondthoughts.ai/p/ai-coding-slowdown"
             },
             {
-                "title": "Mill Build Tool v1.0.0 Release Highlights",
-                "href": "https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html"
-            },
-            {
                 "title": "What's //go:nosplit for?",
                 "href": "https://mcyoung.xyz/2025/07/07/nosplit/"
+            },
+            {
+                "title": "Mill Build Tool v1.0.0 Release Highlights",
+                "href": "https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html"
             },
             {
                 "title": "Vibe Coding Casino: Rise of programming by slot machine",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "'123456' password exposed info for 64 million McDonald\u2019s job applicants",
+                "href": "https://www.bleepingcomputer.com/news/security/123456-password-exposed-info-for-64-million-mcdonalds-job-applicants/"
+            },
+            {
                 "title": "Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now",
                 "href": "https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Microsoft Authenticator on iOS moves backups fully to iCloud",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-on-ios-moves-backups-fully-to-icloud/"
-            },
-            {
-                "title": "Microsoft confirms Windows Server Update Services (WSUS) sync is broken",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-update-services-wsus-sync-is-broken/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "US Abandons Hunt For Signal of Cosmic Inflation",
+                "href": "https://science.slashdot.org/story/25/07/11/1750256/us-abandons-hunt-for-signal-of-cosmic-inflation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Earth Is Spinning Faster and Days Are Getting Shorter, for Now",
                 "href": "https://news.slashdot.org/story/25/07/11/1741218/earth-is-spinning-faster-and-days-are-getting-shorter-for-now?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "AI-Trained Surgical Robot Removes Pig Gallbladders Without Any Human Help",
                 "href": "https://hardware.slashdot.org/story/25/07/10/2348238/ai-trained-surgical-robot-removes-pig-gallbladders-without-any-human-help?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Ohio City Using AI-Equipped Garbage Trucks To Scan Your Trash, Scold You For Not Recycling",
-                "href": "https://tech.slashdot.org/story/25/07/10/2338216/ohio-city-using-ai-equipped-garbage-trucks-to-scan-your-trash-scold-you-for-not-recycling?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -787,16 +787,16 @@
                 "href": "https://github.com/BloopAI/vibe-kanban"
             },
             {
-                "title": "Turmeric is the culprit in a global lead poisoning mystery (2024)",
-                "href": "https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh"
-            },
-            {
                 "title": "Show HN: RULER \u2013 Easily apply RL to any agent",
                 "href": "https://openpipe.ai/blog/ruler"
             },
             {
                 "title": "Repaste Your MacBook",
                 "href": "https://christianselig.com/2025/07/repaste-macbook/"
+            },
+            {
+                "title": "Turmeric is the culprit in a global lead poisoning mystery (2024)",
+                "href": "https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh"
             },
             {
                 "title": "Pa. House passes 'click-to-cancel' subscription bills",
@@ -809,6 +809,10 @@
             {
                 "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
                 "href": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html"
+            },
+            {
+                "title": "I'm more proud of these 128 kilobytes than anything I've built since",
+                "href": "https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18"
             },
             {
                 "title": "Show HN: Pangolin \u2013 Open source alternative to Cloudflare Tunnels",
@@ -835,40 +839,36 @@
                 "href": "https://craigmod.com/ridgeline/210/"
             },
             {
-                "title": "Belkin shows tech firms getting too comfortable with bricking customers' stuff",
-                "href": "https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/"
-            },
-            {
                 "title": "AI agent benchmarks are broken",
                 "href": "https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken"
-            },
-            {
-                "title": "Recovering from AI addiction",
-                "href": "https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/"
-            },
-            {
-                "title": "Postgres LISTEN/NOTIFY does not scale",
-                "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
-            },
-            {
-                "title": "Kimi K2",
-                "href": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
-            },
-            {
-                "title": "Batch Mode in the Gemini API: Process More for Less",
-                "href": "https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/"
             },
             {
                 "title": "Google nerfs Pixel 6a batteries following fire hazard",
                 "href": "https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/"
             },
             {
-                "title": "FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it",
-                "href": "https://twitter.com/cis_female/status/1943069934332055912"
+                "title": "Recovering from AI addiction",
+                "href": "https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/"
             },
             {
-                "title": "I'm more proud of these 128 kilobytes than anything I've built since",
-                "href": "https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18"
+                "title": "Belkin shows tech firms getting too comfortable with bricking customers' stuff",
+                "href": "https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/"
+            },
+            {
+                "title": "Postgres LISTEN/NOTIFY does not scale",
+                "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
+            },
+            {
+                "title": "Batch Mode in the Gemini API: Process More for Less",
+                "href": "https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/"
+            },
+            {
+                "title": "Kimi K2",
+                "href": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
+            },
+            {
+                "title": "FP8 is ~100 tflops faster when the kernel name has \"cutlass\" in it",
+                "href": "https://twitter.com/cis_female/status/1943069934332055912"
             },
             {
                 "title": "Show HN: Interactive pinout for the Raspberry Pi Pico 2",
