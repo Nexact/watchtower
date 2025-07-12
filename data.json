@@ -23,16 +23,16 @@
                 "href": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/"
             },
             {
+                "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
+                "href": "https://github.com/vpetersson/dslf"
+            },
+            {
                 "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
                 "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
             },
             {
                 "title": "Clustered PostgreSQL",
                 "href": "https://arch.dog/bark/clustered-postgresql"
-            },
-            {
-                "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
-                "href": "https://github.com/vpetersson/dslf"
             },
             {
                 "title": "Hanami and the elephant in the room",
@@ -83,6 +83,10 @@
                 "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html"
             },
             {
+                "title": "WatchWitch: Interoperability, Privacy, and Autonomy for the Apple Watch",
+                "href": "https://arxiv.org/abs/2507.07210"
+            },
+            {
                 "title": "Postgres LISTEN/NOTIFY does not scale",
                 "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Not So Fast: AI Coding Tools Can Actually Reduce Productivity",
                 "href": "https://secondthoughts.ai/p/ai-coding-slowdown"
-            },
-            {
-                "title": "Lessons From Creating My First Text Adventure",
-                "href": "https://entropicthoughts.com/lessons-from-creating-first-text-adventure"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "/r/netsec's Q3 2025 Information Security Hiring Thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/"
+            },
+            {
+                "title": "I built a tool to track web exposure \u2014 screenshots, HTML/JS diff, and alerts",
+                "href": "https://old.reddit.com/r/netsec/comments/1lxwhpd/i_built_a_tool_to_track_web_exposure_screenshots/"
             },
             {
                 "title": "Bypassing Meta's Llama Firewall: A Case Study in Prompt Injection Vulnerabilities",
@@ -210,10 +214,6 @@
             {
                 "title": "How I Discovered a Libpng Vulnerability 11 Years After It Was Patched",
                 "href": "https://old.reddit.com/r/netsec/comments/1ltvprz/how_i_discovered_a_libpng_vulnerability_11_years/"
-            },
-            {
-                "title": "Resource for Those Who Need a Team for CTF",
-                "href": "https://old.reddit.com/r/netsec/comments/1lubn4m/resource_for_those_who_need_a_team_for_ctf/"
             }
         ]
     },
@@ -759,20 +759,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Bad Actors Are Grooming LLMs to Produce Falsehoods",
-                "href": "https://americansunlight.substack.com/cp/168074209"
+                "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
+                "href": "https://blog.decryption.net.au/posts/macpaint.html"
             },
             {
                 "title": "OpenAI\u2019s Windsurf deal is off, and Windsurf\u2019s CEO is going to Google",
                 "href": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai"
             },
             {
-                "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
-                "href": "https://blog.decryption.net.au/posts/macpaint.html"
-            },
-            {
                 "title": "Malware Found in Official GravityForms Plugin Indicating Supply Chain Breach",
                 "href": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"
+            },
+            {
+                "title": "Bad Actors Are Grooming LLMs to Produce Falsehoods",
+                "href": "https://americansunlight.substack.com/cp/168074209"
             },
             {
                 "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
@@ -799,12 +799,12 @@
                 "href": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals"
             },
             {
-                "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
-                "href": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price"
+                "title": "New Date(\"WTF\") \u2013 How well do you know JavaScript's Date class?",
+                "href": "https://jsdate.wtf"
             },
             {
-                "title": "Show HN: I built a toy music controller for my 5yo with a coding agent",
-                "href": "https://github.com/jeffmccune/sonoserve"
+                "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
+                "href": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price"
             },
             {
                 "title": "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
@@ -815,48 +815,60 @@
                 "href": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill"
             },
             {
+                "title": "Show HN: I built a toy music controller for my 5yo with a coding agent",
+                "href": "https://github.com/jeffmccune/sonoserve"
+            },
+            {
                 "title": "Dict Unpacking in Python",
                 "href": "https://github.com/asottile/dict-unpacking-at-home"
-            },
-            {
-                "title": "What is Incus?",
-                "href": "https://linuxcontainers.org/incus/"
-            },
-            {
-                "title": "OpenAI delays launch of open-weight model",
-                "href": "https://twitter.com/sama/status/1943837550369812814"
-            },
-            {
-                "title": "Reverse proxy deep dive",
-                "href": "https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5"
-            },
-            {
-                "title": "Andrew Ng: Building Faster with AI [video]",
-                "href": "https://www.youtube.com/watch?v=RNJCfif1dPY"
-            },
-            {
-                "title": "A software conference that advocates for quality",
-                "href": "https://bettersoftwareconference.com/"
-            },
-            {
-                "title": "HDD Clicker generates HDD clicking sounds, based on HDD Led activity",
-                "href": "https://www.serdashop.com/HDDClicker"
             },
             {
                 "title": "First malaria treatment for babies approved for use",
                 "href": "https://www.bbc.com/news/articles/c89e872jdjxo"
             },
             {
+                "title": "Reverse proxy deep dive",
+                "href": "https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5"
+            },
+            {
+                "title": "OpenAI delays launch of open-weight model",
+                "href": "https://twitter.com/sama/status/1943837550369812814"
+            },
+            {
+                "title": "HDD Clicker generates HDD clicking sounds, based on HDD Led activity",
+                "href": "https://www.serdashop.com/HDDClicker"
+            },
+            {
+                "title": "What is Incus?",
+                "href": "https://linuxcontainers.org/incus/"
+            },
+            {
+                "title": "Andrew Ng: Building Faster with AI [video]",
+                "href": "https://www.youtube.com/watch?v=RNJCfif1dPY"
+            },
+            {
                 "title": "Rice rebels: Research reveals grain's brewing benefits",
                 "href": "https://phys.org/news/2025-06-rice-rebels-reveals-grain-brewing.html"
+            },
+            {
+                "title": "A software conference that advocates for quality",
+                "href": "https://bettersoftwareconference.com/"
+            },
+            {
+                "title": "Repaste Your MacBook",
+                "href": "https://christianselig.com/2025/07/repaste-macbook/"
             },
             {
                 "title": "Psilocybin shows promise as anti-aging therapy",
                 "href": "https://neurosciencenews.com/psilocybin-longevity-aging-29425/"
             },
             {
-                "title": "Repaste Your MacBook",
-                "href": "https://christianselig.com/2025/07/repaste-macbook/"
+                "title": "Measuring power network frequency using junk you have in your closet",
+                "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
+            },
+            {
+                "title": "Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)",
+                "href": "https://careers.activeloop.ai/"
             },
             {
                 "title": "Monorail \u2013 Turn CSS animations into interactive SVG graphs",
@@ -865,18 +877,6 @@
             {
                 "title": "Astronomers race to study interstellar interloper",
                 "href": "https://www.science.org/content/article/astronomers-race-study-interstellar-interloper"
-            },
-            {
-                "title": "Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)",
-                "href": "https://careers.activeloop.ai/"
-            },
-            {
-                "title": "AWS Free Tier Changes on July 15, 2025",
-                "href": "https://freetier.co/articles/aws-free-tier-changes-july-15-2025"
-            },
-            {
-                "title": "Introduction to Digital Filters (2024)",
-                "href": "https://ccrma.stanford.edu/~jos/filters/"
             }
         ]
     }
