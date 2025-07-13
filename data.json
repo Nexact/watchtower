@@ -19,16 +19,16 @@
                 "href": "https://0x44.xyz/blog/web-request-blocking/"
             },
             {
-                "title": "Working through \u2018Writing A C Compiler\u2019",
-                "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
-            },
-            {
                 "title": "Don't animate height",
                 "href": "https://www.granola.ai/blog/dont-animate-height"
             },
             {
                 "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
                 "href": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/"
+            },
+            {
+                "title": "Working through \u2018Writing A C Compiler\u2019",
+                "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
             },
             {
                 "title": "constrained languages are easier to optimize",
@@ -51,6 +51,10 @@
                 "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
             },
             {
+                "title": "dict-unpacking-at-home: can we have dict unpacking in python?",
+                "href": "https://github.com/asottile/dict-unpacking-at-home"
+            },
+            {
                 "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
                 "href": "https://github.com/vpetersson/dslf"
             },
@@ -65,10 +69,6 @@
             {
                 "title": "jank is C++",
                 "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
-            },
-            {
-                "title": "dict-unpacking-at-home: can we have dict unpacking in python?",
-                "href": "https://github.com/asottile/dict-unpacking-at-home"
             },
             {
                 "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
@@ -118,6 +118,10 @@
             {
                 "title": "From Blind XSS to RCE: When Headers Became My Terminal",
                 "href": "https://old.reddit.com/r/netsec/comments/1lyfkpu/from_blind_xss_to_rce_when_headers_became_my/"
+            },
+            {
+                "title": "LLM crawlers continue to DDoS SourceHut",
+                "href": "https://old.reddit.com/r/netsec/comments/1lyoser/llm_crawlers_continue_to_ddos_sourcehut/"
             },
             {
                 "title": "I built a tool to track web exposure \u2014 screenshots, HTML/JS diff, and alerts",
@@ -210,10 +214,6 @@
             {
                 "title": "[CVE-2025-32461] Tiki Wiki CMS Groupware <= 28.3 Two SSTI Vulnerabilities",
                 "href": "https://old.reddit.com/r/netsec/comments/1lukohx/cve202532461_tiki_wiki_cms_groupware_283_two_ssti/"
-            },
-            {
-                "title": "How I Discovered a Libpng Vulnerability 11 Years After It Was Patched",
-                "href": "https://old.reddit.com/r/netsec/comments/1ltvprz/how_i_discovered_a_libpng_vulnerability_11_years/"
             }
         ]
     },
@@ -759,12 +759,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Let Me Pay for Firefox",
+                "href": "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
+            },
+            {
                 "title": "Reading Neuromancer for the first time in 2025",
                 "href": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson"
             },
             {
                 "title": "Bypassing Google's big anti-adblock update",
                 "href": "https://0x44.xyz/blog/web-request-blocking/"
+            },
+            {
+                "title": "Capturing the International Space Station (2022)",
+                "href": "https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station"
             },
             {
                 "title": "Switching to Claude Code and VSCode Inside Docker",
@@ -775,16 +783,12 @@
                 "href": "https://kristoff.it/blog/zig-new-async-io/"
             },
             {
-                "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
-                "href": "https://github.com/MoonshotAI/Kimi-K2"
+                "title": "Hill Space: Neural nets that do perfect arithmetic (to 10\u207b\u00b9\u2076 precision)",
+                "href": "https://hillspace.justindujardin.com/"
             },
             {
                 "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
                 "href": "https://blog.decryption.net.au/posts/macpaint.html"
-            },
-            {
-                "title": "Hill Space: Neural nets that do perfect arithmetic (to 10\u207b\u00b9\u2076 precision)",
-                "href": "https://hillspace.justindujardin.com/"
             },
             {
                 "title": "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
@@ -799,16 +803,12 @@
                 "href": "https://github.com/dsekz/chrome-x-browser-validation-header"
             },
             {
-                "title": "Capturing the International Space Station (2022)",
-                "href": "https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station"
+                "title": "Bayeux Tapestry Will Return to the U.K. In 950 Years",
+                "href": "https://news.artnet.com/art-world/bayeux-tapestry-british-museum-loan-2665313"
             },
             {
                 "title": "C++: Maps on Chains",
                 "href": "http://bannalia.blogspot.com/2025/07/maps-on-chains.html"
-            },
-            {
-                "title": "Bayeux Tapestry Will Return to the U.K. In 950 Years",
-                "href": "https://news.artnet.com/art-world/bayeux-tapestry-british-museum-loan-2665313"
             },
             {
                 "title": "Parse, Don't Validate (For C)",
@@ -835,24 +835,28 @@
                 "href": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/"
             },
             {
-                "title": "HNSW as abstract data structure: video intro to Redis vector sets",
-                "href": "https://www.youtube.com/watch?v=kVApsFUeuEA"
-            },
-            {
                 "title": "ISRO successfully conducts hot tests of Gaganyaan propulsion system",
                 "href": "https://www.thehindu.com/sci-tech/science/isro-successfully-conducts-hot-tests-of-gaganyaan-propulsion-system/article69790839.ece"
+            },
+            {
+                "title": "HNSW as abstract data structure: video intro to Redis vector sets",
+                "href": "https://www.youtube.com/watch?v=kVApsFUeuEA"
             },
             {
                 "title": "Two-step system makes plastic from carbon dioxide, water and electricity",
                 "href": "https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html"
             },
             {
+                "title": "A better Ghidra MCP server \u2013 GhidrAssistMCP",
+                "href": "https://github.com/jtang613/GhidrAssistMCP"
+            },
+            {
                 "title": "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
                 "href": "https://langfa.st/"
             },
             {
-                "title": "A better Ghidra MCP server \u2013 GhidrAssistMCP",
-                "href": "https://github.com/jtang613/GhidrAssistMCP"
+                "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+                "href": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
             },
             {
                 "title": "Malware found in official gravityforms plugin indicating supply chain breach",
@@ -863,20 +867,16 @@
                 "href": "https://jsdate.wtf"
             },
             {
-                "title": "Light exposure at night predicts incidence of cardiovascular diseases",
-                "href": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
-            },
-            {
                 "title": "Working through 'Writing A C Compiler'",
                 "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
             },
             {
-                "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
-                "href": "https://ellsberg.substack.com/p/free-speech"
+                "title": "Light exposure at night predicts incidence of cardiovascular diseases",
+                "href": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
             },
             {
-                "title": "Second Variety, by Philip K. Dick (1953)",
-                "href": "https://www.gutenberg.org/files/32032/32032-h/32032-h.htm"
+                "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
+                "href": "https://ellsberg.substack.com/p/free-speech"
             }
         ]
     }
