@@ -11,6 +11,14 @@
                 "href": "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/"
             },
             {
+                "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
+                "href": "https://savannah.gnu.org/patch/?10534"
+            },
+            {
+                "title": "Improving AVIF in Open Source",
+                "href": "https://halide.cx/blog/improving-avif-in-open-source/index.html"
+            },
+            {
                 "title": "Zig's New Async I/O",
                 "href": "https://kristoff.it/blog/zig-new-async-io/"
             },
@@ -19,8 +27,12 @@
                 "href": "https://bleuje.com/physarum-explanation/"
             },
             {
-                "title": "Improving AVIF in Open Source",
-                "href": "https://halide.cx/blog/improving-avif-in-open-source/index.html"
+                "title": "Using a USB Foot Pedal for Vibe Coding",
+                "href": "https://coding.napolux.com/using-a-usb-foot-pedal-for-vibe-coding/"
+            },
+            {
+                "title": "Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps",
+                "href": "https://gpfault.net/posts/asm-tut-0.txt.html"
             },
             {
                 "title": "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
@@ -31,24 +43,20 @@
                 "href": "https://github.com/graphitemaster/detour"
             },
             {
-                "title": "Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps",
-                "href": "https://gpfault.net/posts/asm-tut-0.txt.html"
-            },
-            {
-                "title": "Using a USB Foot Pedal for Vibe Coding",
-                "href": "https://coding.napolux.com/using-a-usb-foot-pedal-for-vibe-coding/"
-            },
-            {
                 "title": "Task Runner Census 2025",
                 "href": "https://aleyan.com/blog/2025-task-runners-census/"
             },
             {
-                "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
-                "href": "https://savannah.gnu.org/patch/?10534"
+                "title": "The hunt for a perfect laptop continues",
+                "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/"
             },
             {
                 "title": "Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: A RBTree Family Drama (Part One)",
                 "href": "https://syst3mfailure.io/rbtree-family-drama/"
+            },
+            {
+                "title": "How does a screen work?",
+                "href": "https://www.makingsoftware.com/chapters/how-a-screen-works"
             },
             {
                 "title": "How I found a bypass in Google's big anti-adblock update",
@@ -61,10 +69,6 @@
             {
                 "title": "Notes on Graham's ANSI Common Lisp",
                 "href": "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html"
-            },
-            {
-                "title": "How does a screen work?",
-                "href": "https://www.makingsoftware.com/chapters/how-a-screen-works"
             },
             {
                 "title": "Simple live reload for developing static sites",
@@ -97,10 +101,6 @@
             {
                 "title": "Haiku Activity & Contract Report, June 2025",
                 "href": "https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/"
-            },
-            {
-                "title": "The Design and Implementation of Extensible Records for Rust in CGP",
-                "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-3/"
             }
         ]
     },
@@ -196,10 +196,6 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1lusph0/scanning_for_postquantum_cryptographic_support/"
             },
             {
-                "title": "Shellcode execution using MessageBox Dialog",
-                "href": "https://old.reddit.com/r/netsec/comments/1lulu6j/shellcode_execution_using_messagebox_dialog/"
-            },
-            {
                 "title": "Lateral Movement with code execution in the context of active user sessions",
                 "href": "https://old.reddit.com/r/netsec/comments/1lunnbw/lateral_movement_with_code_execution_in_the/"
             },
@@ -214,6 +210,10 @@
             {
                 "title": "Microsoft hardens Windows 11 against file junction attacks",
                 "href": "https://old.reddit.com/r/netsec/comments/1lub77o/microsoft_hardens_windows_11_against_file/"
+            },
+            {
+                "title": "Abusing Windows, .NET quirks, and Unicode Normalization to exploit DNN (DotNetNuke)",
+                "href": "https://old.reddit.com/r/netsec/comments/1luix11/abusing_windows_net_quirks_and_unicode/"
             }
         ]
     },
@@ -779,72 +779,80 @@
                 "href": "https://arxiv.org/abs/2502.17424"
             },
             {
-                "title": "A Century of Quantum Mechanics",
-                "href": "https://home.cern/news/news/physics/century-quantum-mechanics"
+                "title": "East Asian air cleanup likely contributed to acceleration in global warming",
+                "href": "https://www.nature.com/articles/s43247-025-02527-3"
             },
             {
-                "title": "OpenCut: The open-source CapCut alternative",
-                "href": "https://github.com/OpenCut-app/OpenCut"
+                "title": "A Century of Quantum Mechanics",
+                "href": "https://home.cern/news/news/physics/century-quantum-mechanics"
             },
             {
                 "title": "How does a screen work?",
                 "href": "https://www.makingsoftware.com/chapters/how-a-screen-works"
             },
             {
-                "title": "The underground cathedral protecting Tokyo from floods (2018)",
-                "href": "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods"
+                "title": "OpenCut: The open-source CapCut alternative",
+                "href": "https://github.com/OpenCut-app/OpenCut"
             },
             {
-                "title": "APKLab: Android Reverse-Engineering Workbench for VS Code",
-                "href": "https://github.com/APKLab/APKLab"
+                "title": "The underground cathedral protecting Tokyo from floods (2018)",
+                "href": "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods"
             },
             {
                 "title": "Binding Application in Idris",
                 "href": "https://andrevidela.com/blog/2025/binding-application/"
             },
             {
-                "title": "A technical look at Iran's internet shutdowns",
-                "href": "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown"
+                "title": "APKLab: Android Reverse-Engineering Workbench for VS Code",
+                "href": "https://github.com/APKLab/APKLab"
             },
             {
-                "title": "Show HN: Built a desktop app to organize photos locally with duplicate detection",
-                "href": "https://organizer.flipfocus.nl/"
+                "title": "Bitcoin passes $120k milestone as US Congress readies for 'crypto week'",
+                "href": "https://www.ft.com/content/1d4c5942-7190-45e1-9167-a5eacfd93982"
             },
             {
                 "title": "Telef\u00f3nica DE shifts VMware support to Spinnaker due to cost",
                 "href": "https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/"
             },
             {
-                "title": "Hypercapitalism and the AI talent wars",
-                "href": "https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent"
+                "title": "A technical look at Iran's internet shutdowns",
+                "href": "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown"
             },
             {
                 "title": "Show HN: FFmpeg in plain English \u2013 LLM-assisted FFmpeg in the browser",
                 "href": "https://vidmix.app/ffmpeg-in-plain-english/"
             },
             {
-                "title": "Burning a Magnesium NeXT Cube (1993)",
-                "href": "https://simson.net/ref/1993/cubefire.html"
+                "title": "Hypercapitalism and the AI talent wars",
+                "href": "https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent"
             },
             {
                 "title": "Show HN: ArchGW \u2013 An intelligent edge and service proxy for agents",
                 "href": "https://github.com/katanemo/archgw/"
             },
             {
-                "title": "Concurrent Programming with Harmony",
-                "href": "https://harmony.cs.cornell.edu/book/"
+                "title": "Show HN: Built a desktop app to organize photos locally with duplicate detection",
+                "href": "https://organizer.flipfocus.nl/"
             },
             {
-                "title": "Myanmar\u2019s proliferating scam centers",
-                "href": "https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/"
+                "title": "Burning a Magnesium NeXT Cube (1993)",
+                "href": "https://simson.net/ref/1993/cubefire.html"
             },
             {
                 "title": "The Scourge of Arial (2001)",
                 "href": "https://www.marksimonson.com/notebook/view/the-scourge-of-arial/"
             },
             {
+                "title": "Myanmar\u2019s proliferating scam centers",
+                "href": "https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/"
+            },
+            {
                 "title": "The upcoming GPT-3 moment for RL",
                 "href": "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
+            },
+            {
+                "title": "Concurrent Programming with Harmony",
+                "href": "https://harmony.cs.cornell.edu/book/"
             },
             {
                 "title": "GLP-1s are breaking life insurance",
@@ -855,24 +863,16 @@
                 "href": "https://github.com/ByteAtATime/raycast-linux"
             },
             {
-                "title": "James Webb, Hubble space telescopes face reduction in operations",
-                "href": "https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/"
-            },
-            {
                 "title": "C3 solved memory lifetimes with scopes",
                 "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
             },
             {
+                "title": "James Webb, Hubble space telescopes face reduction in operations",
+                "href": "https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/"
+            },
+            {
                 "title": "Five companies now control over 90% of the restaurant food delivery market",
                 "href": "https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90"
-            },
-            {
-                "title": "Fine dining restaurants researching guests to make their dinner unforgettable",
-                "href": "https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php"
-            },
-            {
-                "title": "How to scale RL to 10^26 FLOPs",
-                "href": "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops"
             }
         ]
     }
