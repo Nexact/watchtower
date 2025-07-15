@@ -35,12 +35,12 @@
                 "href": "https://automerge.github.io/blog/automerge-3/"
             },
             {
-                "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
-                "href": "https://savannah.gnu.org/patch/?10534"
-            },
-            {
                 "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
                 "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333"
+            },
+            {
+                "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
+                "href": "https://savannah.gnu.org/patch/?10534"
             },
             {
                 "title": "Store tags after payloads",
@@ -51,32 +51,36 @@
                 "href": "https://benbridle.com/projects/bedrock.html"
             },
             {
-                "title": "you are in a box",
-                "href": "https://jyn.dev/you-are-in-a-box/"
+                "title": "How I keep up with AI progress",
+                "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
             },
             {
                 "title": "PHP RFC: Switching to 3-clause BSD licence",
                 "href": "https://wiki.php.net/rfc/php_license_update"
             },
             {
+                "title": "you are in a box",
+                "href": "https://jyn.dev/you-are-in-a-box/"
+            },
+            {
+                "title": "How to Get Foreign Keys Horribly Wrong",
+                "href": "https://hakibenita.com/django-foreign-keys"
+            },
+            {
                 "title": "Guessing the player's sunrise",
                 "href": "https://docs.getlost.gg/latest/blog/sun-time/"
+            },
+            {
+                "title": "Introducing TCP-in-UDP solution (eBPF)",
+                "href": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
             },
             {
                 "title": "Data alignment for speed: myth or reality? (2012)",
                 "href": "https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/"
             },
             {
-                "title": "How I keep up with AI progress",
-                "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
-            },
-            {
                 "title": "Strategies for very fast Lexers",
                 "href": "https://xnacly.me/posts/2025/fast-lexer-strategies/"
-            },
-            {
-                "title": "Introducing TCP-in-UDP solution (eBPF)",
-                "href": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
             },
             {
                 "title": "What are you doing this week?",
@@ -97,10 +101,6 @@
             {
                 "title": "Upyo: Simple and modern email sending library for JavaScript",
                 "href": "https://upyo.org/"
-            },
-            {
-                "title": "Programming Language Theory has a public relations problem",
-                "href": "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "Local Chatbot RAG with FreeBSD Knowledge",
                 "href": "https://old.reddit.com/r/netsec/comments/1m0eohz/local_chatbot_rag_with_freebsd_knowledge/"
+            },
+            {
+                "title": "Research Study Help Needed!",
+                "href": "https://old.reddit.com/r/netsec/comments/1m0fdjv/research_study_help_needed/"
             },
             {
                 "title": "CVE-2025-5333 - CVSS 9.5: Remote Code Execution in Broadcom Symantec Endpoint Management Suite (Altiris)",
@@ -210,16 +214,16 @@
             {
                 "title": "Bitchat MITM Flaw",
                 "href": "https://old.reddit.com/r/netsec/comments/1lus5jg/bitchat_mitm_flaw/"
-            },
-            {
-                "title": "Scanning for Post-Quantum Cryptographic Support",
-                "href": "https://old.reddit.com/r/netsec/comments/1lusph0/scanning_for_postquantum_cryptographic_support/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "OpenAI's ChatGPT-powered browser is codenamed 'Aura'",
+                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-powered-browser-is-codenamed-aura/"
+            },
             {
                 "title": "UK launches vulnerability research program for external experts",
                 "href": "https://www.bleepingcomputer.com/news/security/uk-launches-vulnerability-research-program-for-external-experts/"
@@ -263,10 +267,6 @@
             {
                 "title": "NVIDIA shares guidance to defend GDDR6 GPUs against Rowhammer attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/nvidia-shares-guidance-to-defend-gddr6-gpus-against-rowhammer-attacks/"
-            },
-            {
-                "title": "The zero-day that could've compromised every Cursor and Windsurf user",
-                "href": "https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/"
             }
         ]
     },
@@ -799,48 +799,52 @@
                 "href": "https://clickhouse.com/blog/sigterm-postgres-mystery"
             },
             {
-                "title": "Clashes between web and X11 colors in the CSS color scheme",
-                "href": "https://en.wikipedia.org/wiki/X11_color_names"
-            },
-            {
                 "title": "SQLite async connection pool for high-performance",
                 "href": "https://github.com/slaily/aiosqlitepool"
+            },
+            {
+                "title": "Clashes between web and X11 colors in the CSS color scheme",
+                "href": "https://en.wikipedia.org/wiki/X11_color_names"
             },
             {
                 "title": "Context Rot: How increasing input tokens impacts LLM performance",
                 "href": "https://research.trychroma.com/context-rot"
             },
             {
-                "title": "I used Suno AI to cover my own demo album",
-                "href": "https://app.mindthis.io/@yt/how-i-used-suno-ai-to-cover-my-own-demo-album"
+                "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
+                "href": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/"
             },
             {
                 "title": "Show HN: Bedrock \u2013 An 8-bit computing system for running programs anywhere",
                 "href": "https://benbridle.com/projects/bedrock.html"
             },
             {
+                "title": "I used Suno AI to cover my own demo album",
+                "href": "https://app.mindthis.io/@yt/how-i-used-suno-ai-to-cover-my-own-demo-album"
+            },
+            {
                 "title": "Show HN: VS Code extension to edit the filesystem like a text buffer",
                 "href": "https://github.com/ahrm/voil"
-            },
-            {
-                "title": "Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri",
-                "href": "https://www.ycombinator.com/companies/martin/jobs/"
-            },
-            {
-                "title": "VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)",
-                "href": "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf"
             },
             {
                 "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
                 "href": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/"
             },
             {
-                "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
-                "href": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/"
+                "title": "Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri",
+                "href": "https://www.ycombinator.com/companies/martin/jobs/"
             },
             {
                 "title": "Happy 20th Birthday, Django",
                 "href": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/"
+            },
+            {
+                "title": "VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)",
+                "href": "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf"
+            },
+            {
+                "title": "Doge Denizen Marko Elez Leaked API Key for XAI",
+                "href": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
             },
             {
                 "title": "NeuralOS: An operating system powered by neural networks",
@@ -855,10 +859,6 @@
                 "href": "https://dewlinemuseum.com/"
             },
             {
-                "title": "Doge Denizen Marko Elez Leaked API Key for XAI",
-                "href": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
-            },
-            {
                 "title": "Strategies for Fast Lexers",
                 "href": "https://xnacly.me/posts/2025/fast-lexer-strategies/"
             },
@@ -871,12 +871,12 @@
                 "href": "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/"
             },
             {
-                "title": "Cognition (Devin AI) to Acquire Windsurf",
-                "href": "https://cognition.ai/blog/windsurf"
+                "title": "Show HN: Minesweeper game I built to be real-time Multiplayer",
+                "href": "https://www.minesweeperpro.com/?v=2.1"
             },
             {
-                "title": "Embedding user-defined indexes in Apache Parquet",
-                "href": "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
+                "title": "Cognition (Devin AI) to Acquire Windsurf",
+                "href": "https://cognition.ai/blog/windsurf"
             }
         ]
     }
