@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "OpenZFS Bug Ported to Zig",
-                "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
-            },
-            {
                 "title": "Death by a thousand slops",
                 "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/"
+            },
+            {
+                "title": "OpenZFS Bug Ported to Zig",
+                "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
             },
             {
                 "title": "Trying Guix: A Nixer's Impressions",
@@ -35,12 +35,28 @@
                 "href": "https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people"
             },
             {
+                "title": "Adding lookbehinds to rust-lang/regex",
+                "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
+            },
+            {
                 "title": "Diving into Plasma Bigscreen",
                 "href": "https://espi.dev/posts/2025/07/plasma-bigscreen/"
             },
             {
                 "title": "Using Elm in 2025",
                 "href": "https://engagesoftware.com/news/post/7033/using-elm-in-2025"
+            },
+            {
+                "title": "Poor man's bitemporal data system in SQLite and Clojure",
+                "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
+            },
+            {
+                "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
+                "href": "https://benbridle.com/projects/bedrock.html"
+            },
+            {
+                "title": "Game of Trees Hub",
+                "href": "https://gothub.org/"
             },
             {
                 "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
@@ -51,24 +67,12 @@
                 "href": "https://nodaysoff.run/"
             },
             {
-                "title": "Game of Trees Hub",
-                "href": "https://gothub.org/"
-            },
-            {
-                "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
-                "href": "https://benbridle.com/projects/bedrock.html"
-            },
-            {
                 "title": "How to Get Foreign Keys Horribly Wrong",
                 "href": "https://hakibenita.com/django-foreign-keys"
             },
             {
                 "title": "The hunt for a perfect laptop continues",
                 "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/"
-            },
-            {
-                "title": "Poor man's bitemporal data system in SQLite and Clojure",
-                "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
             },
             {
                 "title": "Introducing TCP-in-UDP solution (eBPF)",
@@ -81,10 +85,6 @@
             {
                 "title": "A distributed systems reliability glossary",
                 "href": "https://antithesis.com/resources/reliability_glossary/"
-            },
-            {
-                "title": "Adding lookbehinds to rust-lang/regex",
-                "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
             },
             {
                 "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Police disrupt \u201cDiskstation\u201d ransomware gang attacking NAS devices",
+                "href": "https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/"
+            },
+            {
                 "title": "Android malware Konfety uses malformed APKs to evade detection",
                 "href": "https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Exploits for pre-auth Fortinet FortiWeb RCE flaw released, patch now",
                 "href": "https://www.bleepingcomputer.com/news/security/exploits-for-pre-auth-fortinet-fortiweb-rce-flaw-released-patch-now/"
-            },
-            {
-                "title": "WordPress Gravity Forms developer hacked to push backdoored plugins",
-                "href": "https://www.bleepingcomputer.com/news/security/wordpress-gravity-forms-developer-hacked-to-push-backdoored-plugins/"
             }
         ]
     },
@@ -763,76 +763,76 @@
                 "href": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
             },
             {
+                "title": "Show HN: Shoggoth Mini \u2013 A soft tentacle robot powered by GPT-4o and RL",
+                "href": "https://www.matthieulc.com/posts/shoggoth-mini"
+            },
+            {
                 "title": "LLM Inevitabilism",
                 "href": "https://tomrenner.com/posts/llm-inevitabilism/"
+            },
+            {
+                "title": "Reflections on OpenAI",
+                "href": "https://calv.info/openai-reflections"
             },
             {
                 "title": "Adding lookbehinds to rust-lang/regex",
                 "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
             },
             {
-                "title": "Show HN: Shoggoth Mini \u2013 A soft tentacle robot powered by GPT-4o and RL",
-                "href": "https://www.matthieulc.com/posts/shoggoth-mini"
-            },
-            {
                 "title": "Blender 4.5 LTS Released",
                 "href": "https://www.blender.org/download/releases/4-5/"
             },
             {
-                "title": "Cloudflare Starts Blocking Pirate Sites for UK Users",
-                "href": "https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"
+                "title": "CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)",
+                "href": "item?id=44573320"
             },
             {
                 "title": "Show HN: We made our own inference engine for Apple Silicon",
                 "href": "https://github.com/trymirai/uzu"
             },
             {
+                "title": "Petabit-class transmission over > 1000 km using standard 19-core optical fiber",
+                "href": "https://www.nict.go.jp/en/press/2025/05/29-1.html"
+            },
+            {
                 "title": "Apple's MLX adding CUDA support",
                 "href": "https://github.com/ml-explore/mlx/pull/1983"
             },
             {
-                "title": "Show HN: I built this to talk Danish to my girlfriend \u2013 works with any language",
-                "href": "https://menerdu.vercel.app/"
-            },
-            {
-                "title": "Ask HN: What's Your Useful Local LLM Stack?",
-                "href": "item?id=44572043"
-            },
-            {
-                "title": "Kiro:\u00a0A new agentic IDE",
-                "href": "https://kiro.dev/blog/introducing-kiro/"
+                "title": "Cloudflare Starts Blocking Pirate Sites for UK Users",
+                "href": "https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"
             },
             {
                 "title": "Literalism plaguing today\u2019s movies",
                 "href": "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
             },
             {
-                "title": "VHS, VCDs, and Laserdiscs in Southeast Asia",
-                "href": "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/"
+                "title": "Kiro:\u00a0A new agentic IDE",
+                "href": "https://kiro.dev/blog/introducing-kiro/"
             },
             {
-                "title": "LIGO detects most massive black hole merger to date",
-                "href": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date"
-            },
-            {
-                "title": "Crimson (YC X25) is hiring founding engineers in London",
-                "href": "https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack"
+                "title": "Show HN: I built this to talk Danish to my girlfriend \u2013 works with any language",
+                "href": "https://menerdu.vercel.app/"
             },
             {
                 "title": "Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"",
                 "href": "item?id=44571740"
             },
             {
-                "title": "Micro Adventure \u2013 Space Attack (online emulator)",
-                "href": "https://auri-microadventure.azurewebsites.net/"
+                "title": "LIGO detects most massive black hole merger to date",
+                "href": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date"
             },
             {
-                "title": "Petabit-class transmission over > 1000 km using standard 19-core optical fiber",
-                "href": "https://www.nict.go.jp/en/press/2025/05/29-1.html"
+                "title": "VHS, VCDs, and Laserdiscs in Southeast Asia",
+                "href": "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/"
             },
             {
                 "title": "Cognition (Devin AI) to Acquire Windsurf",
                 "href": "https://cognition.ai/blog/windsurf"
+            },
+            {
+                "title": "Micro Adventure \u2013 Space Attack (online emulator)",
+                "href": "https://auri-microadventure.azurewebsites.net/"
             },
             {
                 "title": "\"English Translators of Homer\": A Review",
@@ -843,16 +843,20 @@
                 "href": "https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy"
             },
             {
-                "title": "Win, lose, or draw: trends in English football match results",
-                "href": "https://blog.engora.com/2025/06/english-football-data.html"
+                "title": "Ask HN: What's Your Useful Local LLM Stack?",
+                "href": "item?id=44572043"
+            },
+            {
+                "title": "When Sigterm Does Nothing: A Postgres Mystery",
+                "href": "https://clickhouse.com/blog/sigterm-postgres-mystery"
             },
             {
                 "title": "SQLite async connection pool for high-performance",
                 "href": "https://github.com/slaily/aiosqlitepool"
             },
             {
-                "title": "When Sigterm Does Nothing: A Postgres Mystery",
-                "href": "https://clickhouse.com/blog/sigterm-postgres-mystery"
+                "title": "Win, lose, or draw: trends in English football match results",
+                "href": "https://blog.engora.com/2025/06/english-football-data.html"
             },
             {
                 "title": "Show HN: Bedrock \u2013 An 8-bit computing system for running programs anywhere",
@@ -863,20 +867,16 @@
                 "href": "https://research.trychroma.com/context-rot"
             },
             {
-                "title": "The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale",
-                "href": "https://arxiv.org/abs/2506.05987"
-            },
-            {
                 "title": "The Moving Assembly Line Turns 100 (2013)",
                 "href": "https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100"
             },
             {
-                "title": "Transition to using 16 KB page sizes for Android apps and games",
-                "href": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html"
+                "title": "The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale",
+                "href": "https://arxiv.org/abs/2506.05987"
             },
             {
-                "title": "NeuralOS: An operating system powered by neural networks",
-                "href": "https://neural-os.com/"
+                "title": "Transition to using 16 KB page sizes for Android apps and games",
+                "href": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html"
             }
         ]
     }
