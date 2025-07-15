@@ -3,6 +3,14 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Death by a thousand slops",
+                "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/"
+            },
+            {
+                "title": "OpenZFS Bug Ported to Zig",
+                "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
+            },
+            {
                 "title": "Trying Guix: A Nixer's Impressions",
                 "href": "https://tazj.in/blog/trying-guix"
             },
@@ -11,12 +19,8 @@
                 "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
             },
             {
-                "title": "OpenZFS Bug Ported to Zig",
-                "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
-            },
-            {
-                "title": "Death by a thousand slops",
-                "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/"
+                "title": "The sound of inevitability",
+                "href": "https://tomrenner.com/posts/llm-inevitabilism/"
             },
             {
                 "title": "Automerge 3.0",
@@ -29,10 +33,6 @@
             {
                 "title": "The Best C++ Library",
                 "href": "https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people"
-            },
-            {
-                "title": "The sound of inevitability",
-                "href": "https://tomrenner.com/posts/llm-inevitabilism/"
             },
             {
                 "title": "Diving into Plasma Bigscreen",
@@ -55,20 +55,24 @@
                 "href": "https://benbridle.com/projects/bedrock.html"
             },
             {
-                "title": "The hunt for a perfect laptop continues",
-                "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/"
+                "title": "Game of Trees Hub",
+                "href": "https://gothub.org/"
             },
             {
-                "title": "PHP RFC: Switching to 3-clause BSD licence",
-                "href": "https://wiki.php.net/rfc/php_license_update"
+                "title": "The hunt for a perfect laptop continues",
+                "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/"
             },
             {
                 "title": "Introducing TCP-in-UDP solution (eBPF)",
                 "href": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
             },
             {
-                "title": "Game of Trees Hub",
-                "href": "https://gothub.org/"
+                "title": "PHP RFC: Switching to 3-clause BSD licence",
+                "href": "https://wiki.php.net/rfc/php_license_update"
+            },
+            {
+                "title": "A distributed systems reliability glossary",
+                "href": "https://antithesis.com/resources/reliability_glossary/"
             },
             {
                 "title": "How to Get Foreign Keys Horribly Wrong",
@@ -79,12 +83,12 @@
                 "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
             },
             {
-                "title": "Store tags after payloads",
-                "href": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/"
-            },
-            {
                 "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
                 "href": "https://savannah.gnu.org/patch/?10534"
+            },
+            {
+                "title": "Store tags after payloads",
+                "href": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/"
             },
             {
                 "title": "you are in a box",
@@ -97,10 +101,6 @@
             {
                 "title": "Data alignment for speed: myth or reality? (2012)",
                 "href": "https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/"
-            },
-            {
-                "title": "Guessing the player's sunrise",
-                "href": "https://docs.getlost.gg/latest/blog/sun-time/"
             }
         ]
     },
@@ -136,16 +136,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1lzlpqs/recruitment_themed_phishing_campaign/"
             },
             {
-                "title": "Fooling the Sandbox: A Chrome-atic Escape",
-                "href": "https://old.reddit.com/r/netsec/comments/1lzj3jt/fooling_the_sandbox_a_chromeatic_escape/"
+                "title": "New OpenSecurityTraining2 class: \"Debuggers 1103: Introductory Binary Ninja\"",
+                "href": "https://old.reddit.com/r/netsec/comments/1lzj217/new_opensecuritytraining2_class_debuggers_1103/"
             },
             {
                 "title": "Revisiting automating MS-RPC vulnerability research and making the tool open source",
                 "href": "https://old.reddit.com/r/netsec/comments/1lzh1t5/revisiting_automating_msrpc_vulnerability/"
             },
             {
-                "title": "New OpenSecurityTraining2 class: \"Debuggers 1103: Introductory Binary Ninja\"",
-                "href": "https://old.reddit.com/r/netsec/comments/1lzj217/new_opensecuritytraining2_class_debuggers_1103/"
+                "title": "Fooling the Sandbox: A Chrome-atic Escape",
+                "href": "https://old.reddit.com/r/netsec/comments/1lzj3jt/fooling_the_sandbox_a_chromeatic_escape/"
             },
             {
                 "title": "[CVE-2024-58258] SugarCRM <= 14.0.0 (css/preview) LESS Code Injection Vulnerability",
@@ -759,16 +759,40 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "NIST Ion Clock Sets New Record for Most Accurate Clock in the World",
+                "href": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
+            },
+            {
                 "title": "LLM Inevitabilism",
                 "href": "https://tomrenner.com/posts/llm-inevitabilism/"
+            },
+            {
+                "title": "Adding lookbehinds to rust-lang/regex",
+                "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
+            },
+            {
+                "title": "Show HN: Shoggoth Mini \u2013 A soft tentacle robot powered by GPT-4o and RL",
+                "href": "https://www.matthieulc.com/posts/shoggoth-mini"
+            },
+            {
+                "title": "Cloudflare Starts Blocking Pirate Sites for UK Users",
+                "href": "https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"
+            },
+            {
+                "title": "SCP-055 is an \"antimeme\" \u2013 it erases itself from memory when observed",
+                "href": "https://scp-wiki.wikidot.com/scp-055"
+            },
+            {
+                "title": "Blender 4.5 LTS Released",
+                "href": "https://www.blender.org/download/releases/4-5/"
             },
             {
                 "title": "Show HN: I built this to talk Danish to my girlfriend \u2013 works with any language",
                 "href": "https://menerdu.vercel.app/"
             },
             {
-                "title": "Cloudflare Starts Blocking Pirate Sites for UK Users",
-                "href": "https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"
+                "title": "The IRS Is Building a System to Share Taxpayers' Data with ICE",
+                "href": "https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations"
             },
             {
                 "title": "Show HN: We made our own inference engine for Apple Silicon",
@@ -783,6 +807,14 @@
                 "href": "https://kiro.dev/blog/introducing-kiro/"
             },
             {
+                "title": "Crimson (YC X25) is hiring founding engineers in London",
+                "href": "https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack"
+            },
+            {
+                "title": "Literalism plaguing today\u2019s movies",
+                "href": "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
+            },
+            {
                 "title": "VHS, VCDs, and Laserdiscs in Southeast Asia",
                 "href": "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/"
             },
@@ -791,16 +823,12 @@
                 "href": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date"
             },
             {
-                "title": "Literalism plaguing today\u2019s movies",
-                "href": "https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies"
+                "title": "\"English Translators of Homer\": A Review",
+                "href": "https://whatisthequestion.wordpress.com/2025/07/12/english-translators-of-homer-by-simeon-underwood/"
             },
             {
                 "title": "Cognition (Devin AI) to Acquire Windsurf",
                 "href": "https://cognition.ai/blog/windsurf"
-            },
-            {
-                "title": "Crimson (YC X25) is hiring founding engineers in London",
-                "href": "https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack"
             },
             {
                 "title": "Micro Adventure \u2013 Space Attack (online emulator)",
@@ -809,10 +837,6 @@
             {
                 "title": "Win, lose, or draw: trends in English football match results",
                 "href": "https://blog.engora.com/2025/06/english-football-data.html"
-            },
-            {
-                "title": "\"English Translators of Homer\": A Review",
-                "href": "https://whatisthequestion.wordpress.com/2025/07/12/english-translators-of-homer-by-simeon-underwood/"
             },
             {
                 "title": "Random selection is necessary to create stable meritocratic institutions",
@@ -827,56 +851,32 @@
                 "href": "https://clickhouse.com/blog/sigterm-postgres-mystery"
             },
             {
-                "title": "Secret changes to major U.S. health datasets raise alarms",
-                "href": "https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/"
-            },
-            {
-                "title": "Happy 20th Birthday, Django",
-                "href": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/"
+                "title": "Show HN: Bedrock \u2013 An 8-bit computing system for running programs anywhere",
+                "href": "https://benbridle.com/projects/bedrock.html"
             },
             {
                 "title": "Context Rot: How increasing input tokens impacts LLM performance",
                 "href": "https://research.trychroma.com/context-rot"
             },
             {
-                "title": "Show HN: Bedrock \u2013 An 8-bit computing system for running programs anywhere",
-                "href": "https://benbridle.com/projects/bedrock.html"
-            },
-            {
                 "title": "The Moving Assembly Line Turns 100 (2013)",
                 "href": "https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100"
             },
             {
-                "title": "Blender 4.5 LTS Released",
-                "href": "https://www.blender.org/download/releases/4-5/"
-            },
-            {
-                "title": "Transition to using 16 KB page sizes for Android apps and games",
-                "href": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html"
-            },
-            {
-                "title": "VMware Workstation: Bringing Virtualization to the x86 Architecture (2012) [pdf]",
-                "href": "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf"
+                "title": "Ask HN: What's Your Useful Local LLM Stack?",
+                "href": "item?id=44572043"
             },
             {
                 "title": "The JPEG XL Image Coding History, Features, Coding Tools, Design Rationale",
                 "href": "https://arxiv.org/abs/2506.05987"
             },
             {
-                "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
-                "href": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/"
+                "title": "Transition to using 16 KB page sizes for Android apps and games",
+                "href": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html"
             },
             {
                 "title": "NeuralOS: An operating system powered by neural networks",
                 "href": "https://neural-os.com/"
-            },
-            {
-                "title": "Kubernetes Solves Its Biggest Problem: Managing Databases",
-                "href": "https://thenewstack.io/kubernetes-finally-solves-its-biggest-problem-managing-databases/"
-            },
-            {
-                "title": "AWS Lambda Silent Crash \u2013 A Platform Failure, Not an Application Bug [pdf]",
-                "href": "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf"
             }
         ]
     }
