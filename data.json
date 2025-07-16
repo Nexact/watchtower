@@ -3,10 +3,6 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "OpenZFS Bug Ported to C",
-                "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C"
-            },
-            {
                 "title": "Death by a thousand slops",
                 "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/"
             },
@@ -23,12 +19,12 @@
                 "href": "https://andrewshaw.nl/blog/reviving-genius"
             },
             {
-                "title": "OpenZFS Bug Ported to Zig",
-                "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
+                "title": "OpenZFS Bug Ported to C",
+                "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C"
             },
             {
-                "title": "The sound of inevitability",
-                "href": "https://tomrenner.com/posts/llm-inevitabilism/"
+                "title": "OpenZFS Bug Ported to Zig",
+                "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
             },
             {
                 "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
@@ -39,68 +35,72 @@
                 "href": "https://github.com/sogaiu/janet-features-demos"
             },
             {
+                "title": "The sound of inevitability",
+                "href": "https://tomrenner.com/posts/llm-inevitabilism/"
+            },
+            {
                 "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
                 "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/"
-            },
-            {
-                "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
-                "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5"
-            },
-            {
-                "title": "Trying Guix: A Nixer's Impressions",
-                "href": "https://tazj.in/blog/trying-guix"
-            },
-            {
-                "title": "Shipping WebGPU on Windows in Firefox 141",
-                "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
-            },
-            {
-                "title": "Compiler bootstrapping in Nixpkgs",
-                "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/"
             },
             {
                 "title": "Kiro and the future of AI spec-driven software development",
                 "href": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/"
             },
             {
-                "title": "The FIPS 140-3 Go Cryptographic Module",
-                "href": "https://go.dev/blog/fips140"
+                "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
+                "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5"
             },
             {
-                "title": "How I keep up with AI progress",
-                "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
+                "title": "Compiler bootstrapping in Nixpkgs",
+                "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/"
+            },
+            {
+                "title": "Trying Guix: A Nixer's Impressions",
+                "href": "https://tazj.in/blog/trying-guix"
             },
             {
                 "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
                 "href": "https://words.filippo.io/geomys/"
             },
             {
-                "title": "Hazel: A live functional programming environment with typed holes",
-                "href": "https://github.com/hazelgrove/hazel"
+                "title": "Shipping WebGPU on Windows in Firefox 141",
+                "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
+            },
+            {
+                "title": "Underused Techniques for Effective Emails",
+                "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/"
+            },
+            {
+                "title": "The FIPS 140-3 Go Cryptographic Module",
+                "href": "https://go.dev/blog/fips140"
             },
             {
                 "title": "GPUHammer: Rowhammer Attacks on GPU Memories are Practical",
                 "href": "https://gpuhammer.com/"
             },
             {
+                "title": "How I keep up with AI progress",
+                "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
+            },
+            {
+                "title": "Hazel: A live functional programming environment with typed holes",
+                "href": "https://github.com/hazelgrove/hazel"
+            },
+            {
                 "title": "Adding lookbehinds to rust-lang/regex",
                 "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
+            },
+            {
+                "title": "Expressive test assertions without testify/assert",
+                "href": "https://antonz.org/do-not-testify/"
             },
             {
                 "title": "Encrypting Files with Passkeys and age",
                 "href": "https://words.filippo.io/passkey-encryption/"
             },
             {
-                "title": "Poor man's bitemporal data system in SQLite and Clojure",
-                "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
-            },
-            {
-                "title": "FGL: a functional graph library (2002)",
-                "href": "http://web.engr.oregonstate.edu/~erwig/fgl/"
-            },
-            {
-                "title": "Graph foundation models for relational data",
-                "href": "https://research.google/blog/graph-foundation-models-for-relational-data/"
+                "title": "Emulator Bugs: Zenki - Tenchi Meidou",
+                "href": "https://jsgroth.dev/blog/posts/emulator-bugs-zenki-tenchi-meidou/"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware",
+                "href": "https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/"
+            },
+            {
                 "title": "New Fortinet FortiWeb hacks likely linked to public RCE exploits",
                 "href": "https://www.bleepingcomputer.com/news/security/new-fortinet-fortiweb-hacks-likely-linked-to-public-rce-exploits/"
             },
@@ -323,6 +327,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Stock-Tracking Tokens Debut With Price Chaos, Amazon Token Spikes 100x",
+                "href": "https://tech.slashdot.org/story/25/07/16/1428240/stock-tracking-tokens-debut-with-price-chaos-amazon-token-spikes-100x?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Seagate's 30TB HAMR Drives Hit Market for $600",
                 "href": "https://hardware.slashdot.org/story/25/07/16/140233/seagates-30tb-hamr-drives-hit-market-for-600?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +385,6 @@
             {
                 "title": "Cloudflare Starts Blocking Pirate Sites For UK Users",
                 "href": "https://yro.slashdot.org/story/25/07/15/194255/cloudflare-starts-blocking-pirate-sites-for-uk-users?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Hackers Can Remotely Trigger the Brakes on American Trains and the Problem Has Been Ignored for Years",
-                "href": "https://it.slashdot.org/story/25/07/15/1814234/hackers-can-remotely-trigger-the-brakes-on-american-trains-and-the-problem-has-been-ignored-for-years?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,84 +767,96 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Thunderbird: Fluent Windows 11 Design",
-                "href": "https://github.com/Deathbyteacup/fluentbird"
-            },
-            {
-                "title": "Linux Reaches 5% Desktop Market Share in USA",
-                "href": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/"
-            },
-            {
-                "title": "cppyy: Automatic Python-C++ Bindings",
-                "href": "https://cppyy.readthedocs.io/en/latest/"
-            },
-            {
-                "title": "AWS open-sourced Postgres active-active replication extension",
-                "href": "https://github.com/aws/pgactive"
-            },
-            {
-                "title": "Shipping WebGPU on Windows in Firefox 141",
-                "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
-            },
-            {
-                "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-                "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
-            },
-            {
-                "title": "Show HN: Improving RAG with chess Elo scores",
-                "href": "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
-            },
-            {
-                "title": "Pascal's Scams (2012)",
-                "href": "http://unenumerated.blogspot.com/2012/07/pascals-scams.html"
+                "title": "Altermagnets: The first new type of magnet in nearly a century",
+                "href": "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
             },
             {
                 "title": "Show HN: I gave Claude a sundial and it built a calendar",
                 "href": "https://github.com/jlumbroso/passage-of-time-mcp"
             },
             {
-                "title": "Tilck: A Tiny Linux-Compatible Kernel",
-                "href": "https://github.com/vvaltchev/tilck"
+                "title": "Show HN: Improving RAG with chess Elo scores",
+                "href": "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores"
             },
             {
-                "title": "I'm Switching to Python and Actually Liking It",
-                "href": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html"
+                "title": "AWS open-sourced Postgres active-active replication extension",
+                "href": "https://github.com/aws/pgactive"
             },
             {
-                "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
-                "href": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/"
+                "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+                "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
             },
             {
-                "title": "Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation",
-                "href": "https://dataramen.xyz/"
+                "title": "Shipping WebGPU on Windows in Firefox 141",
+                "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
             },
             {
-                "title": "MARS.EXE \u2192 COM (2021)",
-                "href": "https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/"
-            },
-            {
-                "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
-                "href": "https://gpuhammer.com/"
-            },
-            {
-                "title": "Denver's Deepest Dinosaur",
-                "href": "https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur"
+                "title": "Thunderbird: Fluent Windows 11 Design",
+                "href": "https://github.com/Deathbyteacup/fluentbird"
             },
             {
                 "title": "What's Happening to Reading?",
                 "href": "https://www.newyorker.com/culture/open-questions/whats-happening-to-reading"
             },
             {
+                "title": "Pascal's Scams (2012)",
+                "href": "http://unenumerated.blogspot.com/2012/07/pascals-scams.html"
+            },
+            {
+                "title": "I'm Switching to Python and Actually Liking It",
+                "href": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html"
+            },
+            {
+                "title": "Tilck: A Tiny Linux-Compatible Kernel",
+                "href": "https://github.com/vvaltchev/tilck"
+            },
+            {
+                "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
+                "href": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/"
+            },
+            {
+                "title": "cppyy: Automatic Python-C++ Bindings",
+                "href": "https://cppyy.readthedocs.io/en/latest/"
+            },
+            {
+                "title": "MARS.EXE \u2192 COM (2021)",
+                "href": "https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/"
+            },
+            {
+                "title": "Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation",
+                "href": "https://dataramen.xyz/"
+            },
+            {
+                "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
+                "href": "https://gpuhammer.com/"
+            },
+            {
+                "title": "Chain of thought monitorability: A new and fragile opportunity for AI safety",
+                "href": "https://arxiv.org/abs/2507.11473"
+            },
+            {
                 "title": "Atopile \u2013 Design circuit boards with code",
                 "href": "https://atopile.io/atopile/introduction"
+            },
+            {
+                "title": "Linux Reaches 5% Desktop Market Share in USA",
+                "href": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/"
+            },
+            {
+                "title": "Denver's Deepest Dinosaur",
+                "href": "https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur"
+            },
+            {
+                "title": "LLM Daydreaming",
+                "href": "https://gwern.net/ai-daydreaming"
             },
             {
                 "title": "Six Years of Gemini",
                 "href": "https://geminiprotocol.net/news/2025_06_20.gmi"
             },
             {
-                "title": "LLM Daydreaming",
-                "href": "https://gwern.net/ai-daydreaming"
+                "title": "Show HN: BloomSearch \u2013 Keyword search with hierarchical bloom filters",
+                "href": "https://github.com/danthegoodman1/bloomsearch"
             },
             {
                 "title": "Show HN: Shoggoth Mini \u2013 A soft tentacle robot powered by GPT-4o and RL",
@@ -859,10 +875,6 @@
                 "href": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
             },
             {
-                "title": "Pixel Piranhas",
-                "href": "https://rybakov.com/blog/pixel_piranhas/"
-            },
-            {
                 "title": "Documenting what you're willing to support (and not)",
                 "href": "https://rachelbythebay.com/w/2025/07/07/support/"
             },
@@ -873,14 +885,6 @@
             {
                 "title": "To be a better programmer, write little proofs in your head",
                 "href": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/"
-            },
-            {
-                "title": "Running a million-board chess MMO in a single process",
-                "href": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/"
-            },
-            {
-                "title": "My Family and the Flood",
-                "href": "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/"
             }
         ]
     }
