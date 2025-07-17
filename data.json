@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Artisanal Handcrafted Git Repositories",
-                "href": "https://drew.silcock.dev/blog/artisanal-git/"
-            },
-            {
                 "title": "Two Simple Rules to Fix Code Reviews",
                 "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews"
+            },
+            {
+                "title": "Artisanal Handcrafted Git Repositories",
+                "href": "https://drew.silcock.dev/blog/artisanal-git/"
             },
             {
                 "title": "Underused Techniques for Effective Emails",
@@ -17,6 +17,10 @@
             {
                 "title": "C++ Trailing Return Types (2022)",
                 "href": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html"
+            },
+            {
+                "title": "Parsing Protobuf Like Never Before",
+                "href": "https://mcyoung.xyz/2025/07/16/hyperpb/"
             },
             {
                 "title": "Firefox Security & Privacy newsletter 2025 Q2",
@@ -31,44 +35,48 @@
                 "href": "https://oakchris1955.eu/posts/bypassing_specialization/"
             },
             {
-                "title": "Parsing Protobuf Like Never Before",
-                "href": "https://mcyoung.xyz/2025/07/16/hyperpb/"
+                "title": "Blender HDR and the reference white issue",
+                "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/"
             },
             {
                 "title": "A Rust shaped hole",
                 "href": "https://mnvr.in/rust"
             },
             {
-                "title": "Blender HDR and the reference white issue",
-                "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/"
-            },
-            {
                 "title": "Defeating Dependency Duplication in Tests?",
                 "href": "https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests"
-            },
-            {
-                "title": "I'm unsatisfied with easing functions",
-                "href": "https://www.davepagurek.com/blog/easing-functions/"
-            },
-            {
-                "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
-                "href": "https://matrix.org/blog/2025/07/security-predisclosure/"
             },
             {
                 "title": "Terminal Trove - The $HOME of all things in the terminal",
                 "href": "https://terminaltrove.com/"
             },
             {
-                "title": "Bundler v2.7: last release before Bundler 4",
-                "href": "https://bundler.io/blog/2025/07/17/bundler-v2-7.html"
+                "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
+                "href": "https://matrix.org/blog/2025/07/security-predisclosure/"
+            },
+            {
+                "title": "I'm unsatisfied with easing functions",
+                "href": "https://www.davepagurek.com/blog/easing-functions/"
             },
             {
                 "title": "I was wrong about robots.txt",
                 "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/"
             },
             {
+                "title": "Bundler v2.7: last release before Bundler 4",
+                "href": "https://bundler.io/blog/2025/07/17/bundler-v2-7.html"
+            },
+            {
                 "title": "lsr: ls but with io_uring",
                 "href": "https://tangled.sh/@rockorager.dev/lsr"
+            },
+            {
+                "title": "Why pull-based pipelines are faster",
+                "href": "https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/"
+            },
+            {
+                "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
+                "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
             },
             {
                 "title": "We've got to stop sending files to each other",
@@ -79,8 +87,8 @@
                 "href": "https://andrewshaw.nl/blog/reviving-genius"
             },
             {
-                "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
-                "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
+                "title": "Zig's new Writer",
+                "href": "https://www.openmymind.net/Zigs-New-Writer/"
             },
             {
                 "title": "gccrs June 2025 monthly report",
@@ -93,14 +101,6 @@
             {
                 "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
                 "href": "https://words.filippo.io/geomys/"
-            },
-            {
-                "title": "Death by a thousand slops",
-                "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/"
-            },
-            {
-                "title": "Janet Feature Demos",
-                "href": "https://github.com/sogaiu/janet-features-demos"
             }
         ]
     },
@@ -120,16 +120,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1m29427/we_analyzed_1000_web_applications_73_have/"
             },
             {
+                "title": "Real-time CVE feed with filters, summaries, and email alerts",
+                "href": "https://old.reddit.com/r/netsec/comments/1m296mp/realtime_cve_feed_with_filters_summaries_and/"
+            },
+            {
                 "title": "Automated Function ID Database Generation in Ghidra on Windows",
                 "href": "https://old.reddit.com/r/netsec/comments/1m254kt/automated_function_id_database_generation_in/"
             },
             {
                 "title": "Bypassing root detection and RASP in sensitive Android apps",
                 "href": "https://old.reddit.com/r/netsec/comments/1m26i6a/bypassing_root_detection_and_rasp_in_sensitive/"
-            },
-            {
-                "title": "Real-time CVE feed with filters, summaries, and email alerts",
-                "href": "https://old.reddit.com/r/netsec/comments/1m296mp/realtime_cve_feed_with_filters_summaries_and/"
             },
             {
                 "title": "Code Execution Through Email: How I Used Claude to Hack Itself",
@@ -319,12 +319,20 @@
         "feedname": "slashdot",
         "items": [
             {
-                "title": "VMware Reboots Its Partner Program Again With New Invite-Only Program",
-                "href": "https://tech.slashdot.org/story/25/07/16/236216/vmware-reboots-its-partner-program-again-with-new-invite-only-program?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+                "title": "Uber Plans 20,000 Robotaxis in Six-Year Rollout with Lucid and Nuro",
+                "href": "https://tech.slashdot.org/story/25/07/17/145222/uber-plans-20000-robotaxis-in-six-year-rollout-with-lucid-and-nuro?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
                 "title": "360 Million Indians Just Got Premium AI Chatbots For Free For a Year",
                 "href": "https://slashdot.org/story/25/07/17/0742246/360-million-indians-just-got-premium-ai-chatbots-for-free-for-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Cinemas Weigh Launching New Large Screen Brand To Challenge Imax",
+                "href": "https://entertainment.slashdot.org/story/25/07/16/2325227/cinemas-weigh-launching-new-large-screen-brand-to-challenge-imax?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "VMware Reboots Its Partner Program Again With New Invite-Only Program",
+                "href": "https://tech.slashdot.org/story/25/07/16/236216/vmware-reboots-its-partner-program-again-with-new-invite-only-program?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
                 "title": "Transatlantic Communications Cable Doubles As Ocean Sensor",
@@ -369,14 +377,6 @@
             {
                 "title": "The Geography of Innovative Firms",
                 "href": "https://slashdot.org/story/25/07/16/194217/the-geography-of-innovative-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "VMware Reboots Its Partner Program Again",
-                "href": "https://it.slashdot.org/story/25/07/16/1850252/vmware-reboots-its-partner-program-again?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Meta Uses Open Source AI To Design Greener Concrete For Its Next Data Center",
-                "href": "https://tech.slashdot.org/story/25/07/16/1813221/meta-uses-open-source-ai-to-design-greener-concrete-for-its-next-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -521,7 +521,7 @@
                 "href": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-415"
             },
             {
-                "title": "Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2025-5349, CVE-2025-5777 and CVE-2025-6543 \u2013 Update 1",
+                "title": "Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2025-5349, CVE-2025-5777 and CVE-2025-6543 \u2013 Update 2",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-citrix-netscaler-adc-netscaler-gateway-cve-2025-5349-cve-2025-5777-cve-2025-6543"
             },
             {
@@ -795,40 +795,52 @@
                 "href": "https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf"
             },
             {
-                "title": "Celtuce",
-                "href": "https://en.wikipedia.org/wiki/Celtuce"
-            },
-            {
                 "title": "Rejoy Health (YC W21) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer"
-            },
-            {
-                "title": "Upcoming coordinated security fix for all Matrix server implementations",
-                "href": "https://matrix.org/blog/2025/07/security-predisclosure/"
             },
             {
                 "title": "I want an iPhone Mini-sized Android phone (2022)",
                 "href": "https://smallandroidphone.com/"
             },
             {
+                "title": "Upcoming coordinated security fix for all Matrix server implementations",
+                "href": "https://matrix.org/blog/2025/07/security-predisclosure/"
+            },
+            {
                 "title": "BB(6) Is Hard (Antihydra) (2024)",
                 "href": "https://www.sligocki.com//2024/07/06/bb-6-2-is-hard.html"
+            },
+            {
+                "title": "Celtuce",
+                "href": "https://en.wikipedia.org/wiki/Celtuce"
             },
             {
                 "title": "Code Execution Through Email: How I Used Claude to Hack Itself",
                 "href": "https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself"
             },
             {
-                "title": "FOSS4G Europe 2025 live streaming [video]",
-                "href": "https://2025.europe.foss4g.org/livestream/"
-            },
-            {
                 "title": "Altermagnets: The first new type of magnet in nearly a century",
                 "href": "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/"
             },
             {
+                "title": "FOSS4G Europe 2025 live streaming [video]",
+                "href": "https://2025.europe.foss4g.org/livestream/"
+            },
+            {
                 "title": "NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms",
                 "href": "https://nina.chat/"
+            },
+            {
+                "title": "Retro gaming YouTuber Once Were Nerd sued and raided by the Italian government",
+                "href": "https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/"
+            },
+            {
+                "title": "I was wrong about robots.txt",
+                "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/"
+            },
+            {
+                "title": "Inside the box: Everything I did with an Arduino starter kit",
+                "href": "https://lopespm.com/hardware/2025/07/15/arduino.html"
             },
             {
                 "title": "Xbox Hacks: The A20 (2021)",
@@ -839,32 +851,20 @@
                 "href": "https://github.com/Netflix/metaflow"
             },
             {
-                "title": "Retro gaming YouTuber Once Were Nerd sued and raided by the Italian government",
-                "href": "https://www.androidauthority.com/once-were-nerd-youtuber-copyright-lawsuit-3577995/"
-            },
-            {
-                "title": "Inside the box: Everything I did with an Arduino starter kit",
-                "href": "https://lopespm.com/hardware/2025/07/15/arduino.html"
-            },
-            {
-                "title": "I was wrong about robots.txt",
-                "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/"
+                "title": "Intel's retreat is unlike anything it's done before in Oregon",
+                "href": "https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html"
             },
             {
                 "title": "A Tale of Two Red-Bearded Visionaries",
                 "href": "https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries"
             },
             {
-                "title": "Intel's retreat is unlike anything it's done before in Oregon",
-                "href": "https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html"
+                "title": "Pgactive: Postgres active-active replication extension",
+                "href": "https://github.com/aws/pgactive"
             },
             {
                 "title": "Artisanal handcrafted Git repositories",
                 "href": "https://drew.silcock.dev/blog/artisanal-git/"
-            },
-            {
-                "title": "Pgactive: Postgres active-active replication extension",
-                "href": "https://github.com/aws/pgactive"
             },
             {
                 "title": "Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode",
@@ -875,8 +875,8 @@
                 "href": "https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell"
             },
             {
-                "title": "Mistakes Microsoft made in the Xbox security system (2005)",
-                "href": "https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System"
+                "title": "FDA Authorizes Juul E-Cigarettes",
+                "href": "https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963"
             }
         ]
     }
