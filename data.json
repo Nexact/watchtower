@@ -11,12 +11,12 @@
                 "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate"
             },
             {
-                "title": "connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time",
-                "href": "https://github.com/h2337/connmap"
-            },
-            {
                 "title": "Deeper theories of program design",
                 "href": "https://typesanitizer.com/blog/deeper-theories.html"
+            },
+            {
+                "title": "connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time",
+                "href": "https://github.com/h2337/connmap"
             },
             {
                 "title": "What are you doing this week?",
@@ -51,6 +51,10 @@
                 "href": "https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html"
             },
             {
+                "title": "Gren 25S: Easier interop, concurrent tasks and zero-install packages",
+                "href": "https://gren-lang.org/news/250721_gren_25s/"
+            },
+            {
                 "title": "Introducing XMLUI",
                 "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/"
             },
@@ -61,10 +65,6 @@
             {
                 "title": "stdio(3) change: FILE is now opaque",
                 "href": "https://undeadly.org/cgi?action=article;sid=20250717103345"
-            },
-            {
-                "title": "Gren 25S: Easier interop, concurrent tasks and zero-install packages",
-                "href": "https://gren-lang.org/news/250721_gren_25s/"
             },
             {
                 "title": "How I Found Myself In the Game Industry",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Hackers Exploit a Blind Spot By Hiding Malware Inside DNS Records",
+                "href": "https://it.slashdot.org/story/25/07/21/1739207/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "UK Backing Down on Apple Encryption Backdoor After Pressure From US",
                 "href": "https://news.slashdot.org/story/25/07/21/1643245/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "How Gmail Server Evidence Led to a Jury Verdict of $23.2 Million For Wrongful Death",
                 "href": "https://yro.slashdot.org/story/25/07/20/1559242/how-gmail-server-evidence-led-to-a-jury-verdict-of-232-million-for-wrongful-death?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Delta's Boeing 767 Makes Emergency Landing as Engine Catches Fire Moments After Takeoff",
-                "href": "https://tech.slashdot.org/story/25/07/20/1421220/deltas-boeing-767-makes-emergency-landing-as-engine-catches-fire-moments-after-takeoff?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -453,6 +453,14 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "Red Hat security advisory (AV25-438)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-438"
+            },
+            {
+                "title": "Dell security advisory (AV25-437)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-437"
+            },
+            {
                 "title": "IBM security advisory (AV25-436)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-436"
             },
@@ -463,10 +471,6 @@
             {
                 "title": "Ubuntu security advisory (AV25-434)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-434"
-            },
-            {
-                "title": "Dell security advisory (AV25-437)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-437"
             },
             {
                 "title": "Microsoft security advisory (AV25-433)",
@@ -647,10 +651,6 @@
             {
                 "title": "Brother security advisory (AV25-392)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/brother-security-advisory-av25-392"
-            },
-            {
-                "title": "HPE security advisory (AV25-390)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-390"
             }
         ]
     },
@@ -763,32 +763,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Solar+storage is so much farther along than you think",
-                "href": "https://www.volts.wtf/p/solarstorage-is-so-much-farther-along"
-            },
-            {
                 "title": "Gemini with Deep Think officially achieves gold-medal standard at the IMO",
                 "href": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/"
-            },
-            {
-                "title": "New records on Wendelstein 7-X",
-                "href": "https://www.iter.org/node/20687/new-records-wendelstein-7-x"
             },
             {
                 "title": "Using MacBook's trackpad as digital weighing scale",
                 "href": "https://github.com/KrishKrosh/TrackWeight"
             },
             {
+                "title": "New records on Wendelstein 7-X",
+                "href": "https://www.iter.org/node/20687/new-records-wendelstein-7-x"
+            },
+            {
+                "title": "Solar+storage is so much farther along than you think",
+                "href": "https://www.volts.wtf/p/solarstorage-is-so-much-farther-along"
+            },
+            {
                 "title": "Accountant Simulator 2025",
                 "href": "https://accounting.penrose.com/"
+            },
+            {
+                "title": "Jqfmt like gofmt, but for jq",
+                "href": "https://github.com/noperator/jqfmt"
+            },
+            {
+                "title": "Modern Debian-based Window Maker distribution",
+                "href": "https://wmlive.sourceforge.net/"
             },
             {
                 "title": "SecretSpec: Declarative Secrets Management",
                 "href": "https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/"
             },
             {
-                "title": "Modern Debian-based Window Maker distribution",
-                "href": "https://wmlive.sourceforge.net/"
+                "title": "Germany's Fairytale Castles Added to UNESCO's World Heritage List",
+                "href": "https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/"
             },
             {
                 "title": "UK backing down on Apple encryption backdoor after pressure from US",
@@ -807,48 +815,52 @@
                 "href": "https://asherfalcon.com/blog/posts/3"
             },
             {
-                "title": "Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field",
-                "href": "https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight"
-            },
-            {
-                "title": "Australian anti-porn group claims responsibility for Steams new censorship rules",
-                "href": "https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/"
-            },
-            {
-                "title": "India: Income Tax Bill allows officials to forcibly access social media, email",
-                "href": "https://www.thehindu.com/business/Economy/parliamentary-panel-retains-income-tax-bill-provisions-allowing-tax-officials-to-forcibly-access-social-media-private-email/article69837600.ece"
-            },
-            {
-                "title": "\u201cDynamic programming\u201d is not referring to \u201ccomputer programming\u201d",
-                "href": "https://www.vidarholen.net/contents/blog/?p=1172"
-            },
-            {
-                "title": "Quadratic forms beyond arithmetic",
-                "href": "https://www.ams.org/journals/notices/202507/noti3192/noti3192.html"
-            },
-            {
-                "title": "Extend (YC W23) is hiring engineers to build SOTA document processing",
-                "href": "https://jobs.ashbyhq.com/extend"
+                "title": "I deleted my entire social media presence before visiting the US \u2013 I'm a citizen",
+                "href": "https://www.theregister.com/2025/07/21/column_social_media_entrapment/"
             },
             {
                 "title": "Writing your Clojure tests in EDN files",
                 "href": "https://biffweb.com/p/edn-tests/"
             },
             {
+                "title": "Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field",
+                "href": "https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight"
+            },
+            {
+                "title": "\u201cDynamic programming\u201d is not referring to \u201ccomputer programming\u201d",
+                "href": "https://www.vidarholen.net/contents/blog/?p=1172"
+            },
+            {
+                "title": "Extend (YC W23) is hiring engineers to build SOTA document processing",
+                "href": "https://jobs.ashbyhq.com/extend"
+            },
+            {
+                "title": "India: Income Tax Bill allows officials to forcibly access social media, email",
+                "href": "https://www.thehindu.com/business/Economy/parliamentary-panel-retains-income-tax-bill-provisions-allowing-tax-officials-to-forcibly-access-social-media-private-email/article69837600.ece"
+            },
+            {
+                "title": "Make Map Icons with Orthographic Projections",
+                "href": "https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons"
+            },
+            {
+                "title": "Quadratic forms beyond arithmetic",
+                "href": "https://www.ams.org/journals/notices/202507/noti3192/noti3192.html"
+            },
+            {
                 "title": "The daily life of a medieval king",
                 "href": "https://www.medievalists.net/2025/07/medieval-king-daily-life/"
+            },
+            {
+                "title": "Amazon and the \"Profitless Business Model\" Fallacy",
+                "href": "https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative"
             },
             {
                 "title": "Comparison of MGR, SunView, OpenWindows and X11R6 (2022)",
                 "href": "http://oldvcr.blogspot.com/2022/10/if-one-guis-not-enough-for-your-sparc.html"
             },
             {
-                "title": "Occasionally USPS sends me pictures of other people's mail",
-                "href": "https://the418.substack.com/p/a-bug-in-the-mail"
-            },
-            {
-                "title": "Spanish police arrest five over $542M crypto investment scheme",
-                "href": "https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown"
+                "title": "Australian anti-porn group claims responsibility for Steams new censorship rules",
+                "href": "https://www.pcgamer.com/gaming-industry/australian-anti-porn-group-claims-responsibility-for-steams-new-censorship-rules-in-victory-against-porn-sick-brain-rotted-pedo-gamer-fetishists-and-things-only-get-weirder-from-there/"
             },
             {
                 "title": "Outdoor activity is better for cognition than indoor activity in young people",
@@ -859,28 +871,16 @@
                 "href": "https://johnscolaro.xyz/blog/log-by-time-not-by-count"
             },
             {
-                "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-                "href": "https://github.com/revk/ESP32-Faikin"
-            },
-            {
-                "title": "New colors without shooting lasers into your eyes",
-                "href": "https://dynomight.net/colors/"
-            },
-            {
                 "title": "Super-resolution microscopes reveal new details of cells and disease",
                 "href": "https://knowablemagazine.org/content/article/technology/2025/super-resolution-microscopes-reveal-new-details-cells"
             },
             {
-                "title": "Man wearing metallic necklace dies after being sucked into MRI machine",
-                "href": "https://www.bbc.com/news/articles/cx2n39dvp0po"
+                "title": "Spanish police arrest five over $542M crypto investment scheme",
+                "href": "https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown"
             },
             {
-                "title": "XMLUI",
-                "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/"
-            },
-            {
-                "title": "The Sumerian Game: The ancestor of modern city builders",
-                "href": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/"
+                "title": "Occasionally USPS sends me pictures of other people's mail",
+                "href": "https://the418.substack.com/p/a-bug-in-the-mail"
             }
         ]
     }
