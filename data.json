@@ -453,6 +453,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "HPE security advisory (AV25-452)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-452"
+            },
+            {
                 "title": "VMware security advisory (AV25-451)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-451"
             },
@@ -647,10 +651,6 @@
             {
                 "title": "Adobe security advisory (AV25-408)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-408"
-            },
-            {
-                "title": "Microsoft security advisory \u2013 July 2025 monthly rollup (AV25-407)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2025-monthly-rollup-av25-407"
             }
         ]
     },
@@ -767,20 +767,20 @@
                 "href": "https://avi.im/blag/2025/sqlite-wal-checksum/"
             },
             {
-                "title": "Use Your Type System",
-                "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
-            },
-            {
                 "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
                 "href": "https://www.vidarholen.net/contents/blog/?p=1160"
             },
             {
-                "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
-                "href": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
+                "title": "Use Your Type System",
+                "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
             },
             {
                 "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
                 "href": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more"
+            },
+            {
+                "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
+                "href": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
             },
             {
                 "title": "Vet is a safety net for the curl | bash pattern",
@@ -791,44 +791,52 @@
                 "href": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html"
             },
             {
+                "title": "The POSIX specification of vi",
+                "href": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html"
+            },
+            {
                 "title": "When swiping supplants scissors: The hidden cost of touchscreens",
                 "href": "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7"
             },
             {
-                "title": "There is no memory safety without thread safety",
-                "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
+                "title": "Open Source Maintenance Fee",
+                "href": "https://github.com/wixtoolset/issues/issues/8974"
             },
             {
                 "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
                 "href": "https://github.com/lslvr/mwm"
             },
             {
-                "title": "The POSIX specification of vi",
-                "href": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html"
+                "title": "Linux Distros for Gaming: CachyOS Takes Over, According to ProtonDB",
+                "href": "https://boilingsteam.com/distro-for-gaming-cachy-os-takes-over/"
             },
             {
-                "title": "Show HN: Nia \u2013 MCP server that gives more docs and repos to coding agents",
-                "href": "https://www.trynia.ai/"
+                "title": "A valid HTML zip bomb",
+                "href": "https://ache.one/notes/html_zip_bomb"
+            },
+            {
+                "title": "There is no memory safety without thread safety",
+                "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
             },
             {
                 "title": "AI overviews cause massive drop in search clicks",
                 "href": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/"
             },
             {
-                "title": "The FastLanes File Format [pdf]",
-                "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
+                "title": "Show HN: Nia \u2013 MCP server that gives more docs and repos to coding agents",
+                "href": "https://www.trynia.ai/"
             },
             {
                 "title": "CARA \u2013 High precision robot dog using rope",
                 "href": "https://www.aaedmusa.com/projects/cara"
             },
             {
-                "title": "Covers as a way of learning music and code",
-                "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/"
+                "title": "The FastLanes File Format [pdf]",
+                "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
             },
             {
-                "title": "A valid HTML zip bomb",
-                "href": "https://ache.one/notes/html_zip_bomb"
+                "title": "Covers as a way of learning music and code",
+                "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/"
             },
             {
                 "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
@@ -839,24 +847,32 @@
                 "href": "https://www.nature.com/articles/s44222-025-00323-4"
             },
             {
-                "title": "Two narratives about AI",
-                "href": "https://calnewport.com/no-one-knows-anything-about-ai/"
-            },
-            {
                 "title": "A list of changes to make it easier to build beautiful and walkable places",
                 "href": "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places"
-            },
-            {
-                "title": "OpenAI prepares to launch GPT-5 in August",
-                "href": "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad"
             },
             {
                 "title": "Show HN: A code editor that integrates into the browser",
                 "href": "https://tachicode.dev/"
             },
             {
+                "title": "Two narratives about AI",
+                "href": "https://calnewport.com/no-one-knows-anything-about-ai/"
+            },
+            {
+                "title": "OpenAI prepares to launch GPT-5 in August",
+                "href": "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad"
+            },
+            {
                 "title": "BGP.Tools: Browse the Internet Ecosystem",
                 "href": "https://bgp.tools/"
+            },
+            {
+                "title": "Show HN: Local Email Client for AI Horseless Carriages",
+                "href": "https://github.com/dbish/DispatchMail"
+            },
+            {
+                "title": "Diet, not lack of exercise, drives obesity, a new study finds",
+                "href": "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
             },
             {
                 "title": "Transformers Without Normalization",
@@ -865,22 +881,6 @@
             {
                 "title": "Web fingerprinting is worse than I thought (2023)",
                 "href": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
-            },
-            {
-                "title": "Diet, not lack of exercise, drives obesity, a new study finds",
-                "href": "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
-            },
-            {
-                "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
-                "href": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b"
-            },
-            {
-                "title": "Distillation makes AI models smaller and cheaper",
-                "href": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/"
-            },
-            {
-                "title": "Electric cars produce less brake dust pollution than combustion-engine cars",
-                "href": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/"
             }
         ]
     }
