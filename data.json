@@ -7,12 +7,12 @@
                 "href": "https://blog.whenhen.com/posts/no-more-erlang-manuals.html"
             },
             {
-                "title": "An AI tool I find useful",
-                "href": "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html"
-            },
-            {
                 "title": "I'm never going back to Matrix",
                 "href": "https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/"
+            },
+            {
+                "title": "An AI tool I find useful",
+                "href": "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html"
             },
             {
                 "title": "Weather Model based on ADS-B",
@@ -43,6 +43,10 @@
                 "href": "https://paretosecurity.com/blog/no-moar-cookies/"
             },
             {
+                "title": "rules_derive: deriving using macro_rules",
+                "href": "https://matx.com/research/rules_derive"
+            },
+            {
                 "title": "Following up on the Python JIT",
                 "href": "https://lwn.net/Articles/1029307/"
             },
@@ -51,12 +55,12 @@
                 "href": "https://xairy.io/articles/pixel-kgdb"
             },
             {
-                "title": "Loading credentials from Bitwarden with direnv",
-                "href": "https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/"
-            },
-            {
                 "title": "Linux 6.16 changelog",
                 "href": "https://kernelnewbies.org/Linux_6.16"
+            },
+            {
+                "title": "Loading credentials from Bitwarden with direnv",
+                "href": "https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/"
             },
             {
                 "title": "From XML to JSON to CBOR",
@@ -67,12 +71,12 @@
                 "href": "https://lisp.trane.studio/?tutor"
             },
             {
-                "title": "TIL: Exception.add_note",
-                "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
-            },
-            {
                 "title": "Identity and behaviour",
                 "href": "https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/"
+            },
+            {
+                "title": "TIL: Exception.add_note",
+                "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
             },
             {
                 "title": "The Useless useCallback",
@@ -97,10 +101,6 @@
             {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week"
-            },
-            {
-                "title": "Contraction Hierarchies: HMC Clinic Project Recap",
-                "href": "https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic"
             }
         ]
     },
@@ -221,6 +221,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "FBI seizes $2.4M in Bitcoin from new Chaos ransomware operation",
+                "href": "https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/"
+            },
+            {
+                "title": "How attackers are still phishing \"phishing-resistant\" authentication",
+                "href": "https://www.bleepingcomputer.com/news/security/how-attackers-are-still-phishing-phishing-resistant-authentication/"
+            },
+            {
                 "title": "Lovense sex toy app flaw leaks private user email addresses",
                 "href": "https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/"
             },
@@ -267,14 +275,6 @@
             {
                 "title": "Internet Archive is now a US federal depository library",
                 "href": "https://www.bleepingcomputer.com/news/technology/internet-archive-is-now-a-us-federal-depository-library/"
-            },
-            {
-                "title": "Free Autoswagger Tool Finds the API Flaws Attackers Hope You Miss",
-                "href": "https://www.bleepingcomputer.com/news/security/free-tool-autoswagger-finds-the-api-flaws-attackers-hope-you-miss/"
-            },
-            {
-                "title": "Scattered Spider is running a VMware ESXi hacking spree",
-                "href": "https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/"
             }
         ]
     },
@@ -326,6 +326,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "AI Boom Sparks Fight Over Soaring Power Costs",
+                "href": "https://hardware.slashdot.org/story/25/07/29/138232/ai-boom-sparks-fight-over-soaring-power-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Dog-Walking Startup 'Wag' Files For Bankruptcy",
                 "href": "https://slashdot.org/story/25/07/28/2359237/dog-walking-startup-wag-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -381,10 +385,6 @@
             {
                 "title": "Chinese Universities Want Students To Use More AI, Not Less",
                 "href": "https://news.slashdot.org/story/25/07/28/1732217/chinese-universities-want-students-to-use-more-ai-not-less?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Nearly Half of US Venture Capital Professionals in Middle To Senior Positions Have No Successful Investments",
-                "href": "https://news.slashdot.org/story/25/07/28/1653234/nearly-half-of-us-venture-capital-professionals-in-middle-to-senior-positions-have-no-successful-investments?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,56 +767,76 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
+                "href": "https://simonwillison.net/2025/Jul/29/space-invaders/"
+            },
+            {
+                "title": "Linux Performance Analysis in 60 seconds",
+                "href": "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
+            },
+            {
+                "title": "iPhone Cameras Are Good",
+                "href": "https://candid9.com/phone-camera/"
+            },
+            {
                 "title": "Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL",
                 "href": "https://github.com/Danau5tin/terminal-bench-rl"
+            },
+            {
+                "title": "Coverage.py Regex Pragmas",
+                "href": "https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html"
             },
             {
                 "title": "Pony: An actor-model, capabilities-secure, high-performance programming language",
                 "href": "https://www.ponylang.io/discover/"
             },
             {
-                "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
-                "href": "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/"
-            },
-            {
                 "title": "Nothing to watch \u2013 Experimental gallery visualizing 50k film posters",
                 "href": "https://nothing-to-watch.port80.ch"
+            },
+            {
+                "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
+                "href": "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/"
             },
             {
                 "title": "Age Verification Laws Send VPN Use Soaring\u2013and Threaten the Open Internet",
                 "href": "https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/"
             },
             {
-                "title": "Union Pacific to buy Norfolk in $85B mega U.S. railroad deal",
-                "href": "https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html"
-            },
-            {
-                "title": "Sign in with Google in Chrome",
-                "href": "https://underpassapp.com/news/2025/7/5.html"
-            },
-            {
-                "title": "Show HN: CUDA Fractal Renderer",
-                "href": "https://github.com/tripplyons/cuda-fractal-renderer"
+                "title": "Anker is no longer selling 3D Printers",
+                "href": "https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake"
             },
             {
                 "title": "Sendblue (YC S23) is hiring senior engineers",
                 "href": "https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer"
             },
             {
-                "title": "Anker is no longer selling 3D Printers",
-                "href": "https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake"
+                "title": "Can a Country Be Too Rich? Norway Is Finding Out",
+                "href": "https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay"
+            },
+            {
+                "title": "Sign in with Google in Chrome",
+                "href": "https://underpassapp.com/news/2025/7/5.html"
+            },
+            {
+                "title": "RP2350 A4, RP2354, and a New Hacking Challenge",
+                "href": "https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/"
             },
             {
                 "title": "Copyparty \u2013 Turn almost any device into a file server",
                 "href": "https://github.com/9001/copyparty"
             },
             {
-                "title": "I designed my own fast game streaming video codec \u2013 PyroWave",
-                "href": "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
-            },
-            {
                 "title": "Exploiting zero days in abandoned hardware",
                 "href": "https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/"
+            },
+            {
+                "title": "Show HN: CUDA Fractal Renderer",
+                "href": "https://github.com/tripplyons/cuda-fractal-renderer"
+            },
+            {
+                "title": "I designed my own fast game streaming video codec \u2013 PyroWave",
+                "href": "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
             },
             {
                 "title": "Tao on \u201cblue team\u201d vs. \u201cred team\u201d LLMs",
@@ -827,64 +847,44 @@
                 "href": "https://en.wikipedia.org/wiki/Truchet_tiles"
             },
             {
-                "title": "Rotring 600 Ballpoint Pen",
-                "href": "https://www.shellshore.com/review-rotring-600-ballpoint-pen/"
-            },
-            {
-                "title": "Hologram v0.5.0",
-                "href": "https://hologram.page/blog/hologram-v0-5-0-released"
-            },
-            {
                 "title": "Wish you could escape the planet? Too bad life in space would suck",
                 "href": "https://www.salon.com/2024/11/22/wish-you-could-escape-the-planet-too-life-in-space-would-suck/"
-            },
-            {
-                "title": "Optimi-Zi(n)g Sudoku-Solving",
-                "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/"
-            },
-            {
-                "title": "Ask HN: How will the OSA affect small Mastadon instances?",
-                "href": "item?id=44722602"
             },
             {
                 "title": "Anthropic Faces Potentially \"Business-Ending\" Copyright Lawsuit",
                 "href": "https://www.obsolete.pub/p/anthropic-faces-potentially-business"
             },
             {
-                "title": "Different Clocks",
-                "href": "https://ianto-cannon.github.io/clock.html"
+                "title": "Rotring 600 Ballpoint Pen",
+                "href": "https://www.shellshore.com/review-rotring-600-ballpoint-pen/"
+            },
+            {
+                "title": "Ask HN: How will the OSA affect small Mastodon instances?",
+                "href": "item?id=44722602"
+            },
+            {
+                "title": "Hologram v0.5.0",
+                "href": "https://hologram.page/blog/hologram-v0-5-0-released"
             },
             {
                 "title": "Tour de France confronts a new threat: Are cyclists using tiny motors?",
                 "href": "https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/"
             },
             {
-                "title": "Show HN: Companies use AI to take your calls. I built AI to make them for you",
-                "href": "https://www.pipervoice.com/"
-            },
-            {
-                "title": "Can a Country Be Too Rich? Norway Is Finding Out",
-                "href": "https://www.bloomberg.com/news/articles/2025-07-25/can-a-country-be-too-rich-norway-is-finding-out-essay"
-            },
-            {
                 "title": "Modernising the Amiga at Forty",
                 "href": "https://benjamin.computer/posts/2025-07-28-amiga40.html"
             },
             {
-                "title": "Enough AI copilots, we need AI HUDs",
-                "href": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds"
+                "title": "Show HN: Companies use AI to take your calls. I built AI to make them for you",
+                "href": "https://www.pipervoice.com/"
             },
             {
-                "title": "Claude Code weekly rate limits",
-                "href": "item?id=44713757"
+                "title": "Different Clocks",
+                "href": "https://ianto-cannon.github.io/clock.html"
             },
             {
-                "title": "SQLx \u2013 Rust SQL Toolkit",
-                "href": "https://github.com/launchbadge/sqlx"
-            },
-            {
-                "title": "Simplify, then add delightness: On designing for children",
-                "href": "https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/"
+                "title": "Union Pacific to buy Norfolk in $85B mega U.S. railroad deal",
+                "href": "https://www.cnbc.com/2025/07/29/union-pacific-to-buy-norfolk.html"
             }
         ]
     }
