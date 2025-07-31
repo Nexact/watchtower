@@ -47,6 +47,14 @@
                 "href": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/"
             },
             {
+                "title": "Secure boot certificate rollover is real but probably won't hurt you",
+                "href": "https://mjg59.dreamwidth.org/72892.html"
+            },
+            {
+                "title": "Schematra: Sinatra inspired Chicken web framework",
+                "href": "https://github.com/rolandoam/schematra"
+            },
+            {
                 "title": "[RFC] Upstream target support for CHERI-enabled architectures",
                 "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623"
             },
@@ -55,20 +63,20 @@
                 "href": "https://graydon2.dreamwidth.org/193447.html"
             },
             {
-                "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
-                "href": "https://yeet.cx/blog/you-are-the-bios-now"
+                "title": "PyPI Phishing Attack: Incident Report",
+                "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/"
             },
             {
-                "title": "Vanity import paths in Go (2019)",
-                "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/"
+                "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
+                "href": "https://yeet.cx/blog/you-are-the-bios-now"
             },
             {
                 "title": "Go's race detector has a mutex blind spot",
                 "href": "https://doublefree.dev/go-race-mutex-blindspot/"
             },
             {
-                "title": "Schematra: Sinatra inspired Chicken web framework",
-                "href": "https://github.com/rolandoam/schematra"
+                "title": "Vanity import paths in Go (2019)",
+                "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/"
             },
             {
                 "title": "Writing memory efficient C structs",
@@ -79,8 +87,12 @@
                 "href": "https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty"
             },
             {
-                "title": "Secure boot certificate rollover is real but probably won't hurt you",
-                "href": "https://mjg59.dreamwidth.org/72892.html"
+                "title": "In-Network Leaderless Replication for Distributed Data Stores",
+                "href": "https://www.vldb.org/pvldb/vol15/p1337-lee.pdf"
+            },
+            {
+                "title": "Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide",
+                "href": "https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/"
             },
             {
                 "title": "Tracking source locations in the Futhark compiler",
@@ -89,18 +101,6 @@
             {
                 "title": "Emacs: The MacOS Bug",
                 "href": "https://xlii.space/eng/emacs-the-macos-bug/"
-            },
-            {
-                "title": "Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide",
-                "href": "https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/"
-            },
-            {
-                "title": "2000 words about arrays and tables",
-                "href": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/"
-            },
-            {
-                "title": "I want to defend Wayland here and explain a crucial piece that I think people are missing",
-                "href": "https://ordinary.cafe/@technobaboo/114935252929285259"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Kali Linux can now run in Apple containers on macOS systems",
+                "href": "https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/"
+            },
+            {
                 "title": "Microsoft to disable Excel workbook links to blocked file types",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/"
             },
@@ -271,10 +275,6 @@
             {
                 "title": "Apple patches security flaw exploited in Chrome zero-day attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/apple-patches-security-flaw-exploited-in-chrome-zero-day-attacks/"
-            },
-            {
-                "title": "New Lenovo UEFI firmware updates fix Secure Boot bypass flaws",
-                "href": "https://www.bleepingcomputer.com/news/security/new-lenovo-uefi-firmware-updates-fix-secure-boot-bypass-flaws/"
             }
         ]
     },
@@ -326,6 +326,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "World's 'Oldest Baby' Born From Embryo Frozen in 1994",
+                "href": "https://science.slashdot.org/story/25/07/31/1812236/worlds-oldest-baby-born-from-embryo-frozen-in-1994?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Microsoft Ends Tradition of Naming Competitors in Regulatory Filings",
                 "href": "https://it.slashdot.org/story/25/07/31/1641202/microsoft-ends-tradition-of-naming-competitors-in-regulatory-filings?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -381,10 +385,6 @@
             {
                 "title": "Boring Company To Build Tesla Tunnels Under Nashville",
                 "href": "https://tech.slashdot.org/story/25/07/30/2015220/boring-company-to-build-tesla-tunnels-under-nashville?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Scammers Unleash Flood of Slick Online Gaming Sites",
-                "href": "https://tech.slashdot.org/story/25/07/30/205208/scammers-unleash-flood-of-slick-online-gaming-sites?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -771,48 +771,80 @@
                 "href": "https://lwn.net/Articles/1029851/"
             },
             {
-                "title": "Ubiquiti launches UniFi OS Server for self-hosting",
-                "href": "https://lazyadmin.nl/home-network/unifi-os-server/"
-            },
-            {
-                "title": "How was the Universal Pictures 1936 opening logo created?",
-                "href": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created"
-            },
-            {
-                "title": "Secure boot certificate rollover is real but probably won't hurt you",
-                "href": "https://mjg59.dreamwidth.org/72892.html"
+                "title": "Slow",
+                "href": "https://michaelnotebook.com/slow/index.html"
             },
             {
                 "title": "Gemini Embedding: Powering RAG and context engineering",
                 "href": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/"
             },
             {
+                "title": "AI Is a Floor Raiser, Not a Ceiling Raiser",
+                "href": "https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html"
+            },
+            {
+                "title": "Secure boot certificate rollover is real but probably won't hurt you",
+                "href": "https://mjg59.dreamwidth.org/72892.html"
+            },
+            {
                 "title": "MacBook Pro Insomnia",
                 "href": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia"
             },
             {
-                "title": "Launch HN: Gecko Security (YC F24) \u2013 AI That Finds Vulnerabilities in Code",
-                "href": "item?id=44747204"
+                "title": "How was the Universal Pictures 1936 opening logo created?",
+                "href": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created"
             },
             {
-                "title": "Introduction to Computer Music",
-                "href": "https://cmtext.com/"
+                "title": "Show HN: Mcp-use \u2013 Connect any LLM to any MCP",
+                "href": "https://github.com/mcp-use/mcp-use"
+            },
+            {
+                "title": "Show HN: AgentMail \u2013 Email infra for AI agents",
+                "href": "https://chat.agentmail.to/"
+            },
+            {
+                "title": "Face it: you're a crazy person",
+                "href": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person"
             },
             {
                 "title": "Kaizen (YC X25) is hiring engineers to build browser agents that work",
                 "href": "https://www.kaizenautomation.com/jobs"
             },
             {
-                "title": "Ursa: A leaderless, object storage\u2013based alternative to Kafka",
-                "href": "https://streamnative.io/products/ursa"
+                "title": "Launch HN: Gecko Security (YC F24) \u2013 AI That Finds Vulnerabilities in Code",
+                "href": "item?id=44747204"
+            },
+            {
+                "title": "Ubiquiti launches UniFi OS Server for self-hosting",
+                "href": "https://lazyadmin.nl/home-network/unifi-os-server/"
+            },
+            {
+                "title": "Introduction to Computer Music",
+                "href": "https://cmtext.com/"
             },
             {
                 "title": "I tried Servo",
                 "href": "https://www.spacebar.news/servo-undercover-web-browser-engine/"
             },
             {
-                "title": "Face it: you're a crazy person",
-                "href": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person"
+                "title": "Ursa: A leaderless, object storage\u2013based alternative to Kafka",
+                "href": "https://streamnative.io/products/ursa"
+            },
+            {
+                "title": "Ferrari Status",
+                "href": "https://collabfund.com/blog/ferrari-status/"
+            },
+            {
+                "title": "Astronomical Telescope \"Hadley\" \u2013 an easy assembly, high performance Newtonian",
+                "href": "https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig"
+            },
+            {
+                "title": "Carbon Language: An experimental successor to C++",
+                "href": "https://docs.carbon-lang.dev/"
+            },
+            {
+                "title": "What is gVisor?",
+                "href": "https://blog.yelinaung.com/posts/gvisor/"
             },
             {
                 "title": "Go Assembly Mutation Testing",
@@ -823,68 +855,36 @@
                 "href": "https://blog.bugsiki.dev/posts/zig-profilers/"
             },
             {
-                "title": "Show HN: Astro dev blog template with 60 interactive colorschemes",
-                "href": "https://multiterm.stelclementine.com"
+                "title": "NSW Fair Trading \u2013 Dark Patterns",
+                "href": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns"
             },
             {
-                "title": "Carbon Language: An experimental successor to C++",
-                "href": "https://docs.carbon-lang.dev/"
-            },
-            {
-                "title": "The Chrome Speculation Rules API allows the browser to preload and prerender",
-                "href": "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html"
-            },
-            {
-                "title": "What is gVisor?",
-                "href": "https://blog.yelinaung.com/posts/gvisor/"
+                "title": "Show HN: The easiest accessibility (a11y) checker for VSCode",
+                "href": "https://github.com/be-lenka/vscode-be-a11y"
             },
             {
                 "title": "Advanced Rust macros with derive-deftly",
                 "href": "https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/"
             },
             {
-                "title": "Ferrari Status",
-                "href": "https://collabfund.com/blog/ferrari-status/"
+                "title": "Show HN: Sourcebot \u2013\u00a0Self-hosted Perplexity for your codebase",
+                "href": "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0"
             },
             {
-                "title": "NSW Fair Trading \u2013 Dark Patterns",
-                "href": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns"
-            },
-            {
-                "title": "How to Scan Force Pushed Commits for Secrets",
-                "href": "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets"
-            },
-            {
-                "title": "The Future of Programming (2013)",
-                "href": "https://worrydream.com/dbx/"
+                "title": "How Long Before Superintelligence?",
+                "href": "https://nickbostrom.com/superintelligence"
             },
             {
                 "title": "U.S. senators introduce new pirate site blocking bill, \"Block BEARD\"",
                 "href": "https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/"
             },
             {
-                "title": "Magentic-UI: Towards Human-in-the-Loop Agentic Systems",
-                "href": "https://arxiv.org/abs/2507.22358"
+                "title": "How to Scan Force Pushed Commits for Secrets",
+                "href": "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets"
             },
             {
-                "title": "Orion Browser",
-                "href": "https://kagi.com/orion/"
-            },
-            {
-                "title": "Following Up on the Python JIT",
-                "href": "https://lwn.net/Articles/1029307/"
-            },
-            {
-                "title": "150 years of Hans Christian Andersen",
-                "href": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen"
-            },
-            {
-                "title": "GEPA: Reflective prompt evolution can outperform reinforcement learning",
-                "href": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution"
-            },
-            {
-                "title": "Sumo \u2013 Simulation of Urban Mobility",
-                "href": "https://eclipse.dev/sumo/"
+                "title": "Show HN: Astro dev blog template with 60 interactive colorschemes",
+                "href": "https://multiterm.stelclementine.com"
             }
         ]
     }
