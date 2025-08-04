@@ -27,6 +27,10 @@
                 "href": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
             },
             {
+                "title": "How we made JSON.stringify more than twice as fast",
+                "href": "https://v8.dev/blog/json-stringify"
+            },
+            {
                 "title": "Parse, don\u2019t validate (2019)",
                 "href": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
             },
@@ -43,10 +47,6 @@
                 "href": "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html"
             },
             {
-                "title": "How we made JSON.stringify more than twice as fast",
-                "href": "https://v8.dev/blog/json-stringify"
-            },
-            {
                 "title": "HTMX is hard so let's get it right",
                 "href": "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
             },
@@ -55,12 +55,20 @@
                 "href": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process"
             },
             {
+                "title": "A systematic evaluation of OpenBSD\u2019s mitigations (2019)",
+                "href": "https://isopenbsdsecu.re/"
+            },
+            {
                 "title": "a parser for typescript types, written in typescript types",
                 "href": "https://github.com/easrng/tsints"
             },
             {
-                "title": "A systematic evaluation of OpenBSD\u2019s mitigations (2019)",
-                "href": "https://isopenbsdsecu.re/"
+                "title": "Let's hax0r a GC\u2026 (eventually)",
+                "href": "https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/"
+            },
+            {
+                "title": "Complex Iterators are Slow",
+                "href": "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
             },
             {
                 "title": "People still use our old-fashioned Unix login servers",
@@ -71,12 +79,8 @@
                 "href": "https://grantslatton.com/how-to-design-document"
             },
             {
-                "title": "Let's hax0r a GC\u2026 (eventually)",
-                "href": "https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/"
-            },
-            {
-                "title": "Complex Iterators are Slow",
-                "href": "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
+                "title": "Practical Static Analysis for Privacy Bugs",
+                "href": "https://blog.brownplt.org/2025/08/03/paralegal.html"
             },
             {
                 "title": "NetBSD New build cluster speeds up daily autobuilds",
@@ -93,10 +97,6 @@
             {
                 "title": "Why Semantic HTML Still Matters",
                 "href": "https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/"
-            },
-            {
-                "title": "Practical Static Analysis for Privacy Bugs",
-                "href": "https://blog.brownplt.org/2025/08/03/paralegal.html"
             },
             {
                 "title": "NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "CTM360 spots Malicious \u2018ClickTok\u2019 Campaign Targeting TikTok Shop users",
+                "href": "https://www.bleepingcomputer.com/news/security/ctm360-spots-malicious-clicktok-campaign-targeting-tiktok-shop-users/"
+            },
+            {
                 "title": "New Plague Linux malware stealthily maintains SSH access",
                 "href": "https://www.bleepingcomputer.com/news/security/new-plague-malware-backdoors-linux-devices-removes-ssh-session-traces/"
             },
@@ -259,10 +263,6 @@
             {
                 "title": "AI-powered Cursor IDE vulnerable to prompt-injection attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/"
-            },
-            {
-                "title": "Pwn2Own hacking contest pays $1 million for WhatsApp exploit",
-                "href": "https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/"
             }
         ]
     },
@@ -650,6 +650,62 @@
         "feedname": "packetstorm",
         "items": [
             {
+                "title": "Researchers Exploited Google kernelCTF Instances And Debian 12 With A 0-Day",
+                "href": "https://cybersecuritynews.com/exploit-google-kernelctf-instances/"
+            },
+            {
+                "title": "Sean Cairncross Confirmed By Senate As National Cyber Director",
+                "href": "https://www.securityweek.com/sean-cairncross-confirmed-by-senate-as-national-cyber-director/"
+            },
+            {
+                "title": "PlayPraetor's Evolving Threat: How Chinese Speaking Actors Globally Scale An Android RAT",
+                "href": "https://www.cleafy.com/cleafy-labs/playpraetors-evolving-threat-how-chinese-speaking-actors-globally-scale-an-android-rat"
+            },
+            {
+                "title": "US Announces $100 Million For State, Local, And Tribal Security",
+                "href": "https://www.securityweek.com/us-announces-100-million-for-state-local-and-tribal-cybersecurity/"
+            },
+            {
+                "title": "Microsoft And Google Among Most Affected As Zero Day Exploits Jump 46%",
+                "href": "https://www.infosecurity-magazine.com/news/microsoft-google-zero-day-exploits/"
+            },
+            {
+                "title": "German Phone Repair Biz Collapses Following 2023 Ransomware Attack",
+                "href": "https://www.theregister.com/2025/08/04/einhaus_group_ransomware_collapse/"
+            },
+            {
+                "title": "Uptick In Akira Ransomware Activity Targeting SonicWall SSL VPN",
+                "href": "https://arcticwolf.com/resources/blog/arctic-wolf-observes-july-2025-uptick-in-akira-ransomware-activity-targeting-sonicwall-ssl-vpn/"
+            },
+            {
+                "title": "Cursor Flaw Risks RCE From Prompt Injections On MCP Server",
+                "href": "https://www.scworld.com/news/cursor-flaw-risks-rce-from-prompt-injections-on-mcp-server-researchers-say"
+            },
+            {
+                "title": "FUJIFILM Printers Vulnerabiilty Let Attackers Trigger DoS Condition",
+                "href": "https://cybersecuritynews.com/fujifilm-printers-vulnerability/"
+            },
+            {
+                "title": "Mozilla Flags Phishing Wave Aimed At Hijacking Trusted Firefox Add-ons",
+                "href": "https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/"
+            },
+            {
+                "title": "Plague: A Newly Discovered PAM-Based Backdoor For Linux",
+                "href": "https://www.nextron-systems.com/2025/08/01/plague-a-newly-discovered-pam-based-backdoor-for-linux/"
+            },
+            {
+                "title": "RIP Corporation For Public Broadcasting: 1967-2026",
+                "href": "https://arstechnica.com/tech-policy/2025/08/corporation-for-public-broadcasting-will-shut-down-in-2026/"
+            },
+            {
+                "title": "Cloud Intrusions Skyrocket In 2025",
+                "href": "https://www.infosecurity-magazine.com/news/cloud-intrusions-skyrocket/"
+            },
+            {
+                "title": "New PXA Stealer And Its Telegram-Powered Ecosystem",
+                "href": "https://www.sentinelone.com/labs/ghost-in-the-zip-new-pxa-stealer-and-its-telegram-powered-ecosystem/"
+            },
+            {
                 "title": "$1,000,000 For WhatsApp 0-Click RCE Exploit At Pwn2Own Ireland 2025",
                 "href": "https://cybersecuritynews.com/whatsapp-0-click-exploit/"
             },
@@ -692,62 +748,6 @@
             {
                 "title": "China Claims Nvidia Built Backdoor Into H20 Chip Designed For Chinese Market",
                 "href": "https://arstechnica.com/gadgets/2025/07/china-claims-nvidia-built-backdoor-into-h20-chip-designed-for-chinese-market/"
-            },
-            {
-                "title": "Honeywell Experion PKS Flaws Allow Manipulation Of Industrial Processes",
-                "href": "https://www.securityweek.com/honeywell-experion-pks-flaws-allow-manipulation-of-industrial-processes/"
-            },
-            {
-                "title": "Ransomware Attacks Escalate To Physical Threats Against Executives",
-                "href": "https://www.infosecurity-magazine.com/news/ransomware-attacks-escalate/"
-            },
-            {
-                "title": "Users Left Scrambling For A Plan B As Dropbox Drops Dropbox Passwords",
-                "href": "https://www.theregister.com/2025/07/30/dropbox_drops_dropbox_passwords/"
-            },
-            {
-                "title": "Internet Exchange Points Are Ignored, Vulnerable, And Absent From Infrastructure Protection Plans",
-                "href": "https://www.theregister.com/2025/07/31/ixp_resilience_call/"
-            },
-            {
-                "title": "Browser Extensions Pose Serious Threat To Gen-AI Tools Handling Sensitive Data",
-                "href": "https://www.securityweek.com/browser-extensions-pose-serious-threat-to-gen-ai-tools-handling-sensitive-data/"
-            },
-            {
-                "title": "NHS Disability Equipment Provider On Brink Of Collapse A Year After Cyberattack",
-                "href": "https://www.theregister.com/2025/07/31/nhs_disability_equipment_provider_nears/"
-            },
-            {
-                "title": "Spikes In Malicious Activity Precede New CVEs In 80% Of Cases",
-                "href": "https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/"
-            },
-            {
-                "title": "New Spear Phishing Attack Delivers VIP Keylogger Via Email Attachment",
-                "href": "https://cybersecuritynews.com/new-spear-phishing-attack-delivers-vip-keylogger/"
-            },
-            {
-                "title": "Alert Fatigue, Data Overload, And The Fall Of Traditional SIEMs",
-                "href": "https://thehackernews.com/2025/07/alert-fatigue-data-overload-and-fall-of.html"
-            },
-            {
-                "title": "Cybercriminals Spooked After Scattered Spider Arrests",
-                "href": "https://www.infosecurity-magazine.com/news/cybercriminals-spooked-scattered/"
-            },
-            {
-                "title": "LLMs Make Insecure Coding Choices For 45% Of Tasks, Study Finds",
-                "href": "https://www.scworld.com/news/llms-make-insecure-coding-choices-for-45-of-tasks-study-finds"
-            },
-            {
-                "title": "Over 200 Malicious Open Source Packages Traced To Lazarus Campaign",
-                "href": "https://www.infosecurity-magazine.com/news/200-malicious-open-source-lazarus/"
-            },
-            {
-                "title": "Hacker Arrested For Stealing Personal Data From Spanish Banks",
-                "href": "https://cybersecuritynews.com/hacker-arrested-for-stealing-spanish-banks/"
-            },
-            {
-                "title": "The DPRK Remote Worker Threat: Unmasking North Korea's Digital Deception",
-                "href": "https://flashpoint.io/blog/dprk-remote-worker-threat-north-korea/"
             }
         ]
     },
@@ -759,28 +759,32 @@
                 "href": "https://notashes.me/blog/part-1-memory-management/"
             },
             {
-                "title": "Century-Old Stone \u201cTsunami Stones\u201d Dot Japan's Coastline (2015)",
-                "href": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
-            },
-            {
                 "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
                 "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
+            },
+            {
+                "title": "Century-Old Stone \u201cTsunami Stones\u201d Dot Japan's Coastline (2015)",
+                "href": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
             },
             {
                 "title": "My Ideal Array Language",
                 "href": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html"
             },
             {
-                "title": "Genetic correlates of social stratification in Great Britain (2019) [pdf]",
-                "href": "https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf"
-            },
-            {
                 "title": "Scientists shine a laser through a human head",
                 "href": "https://spectrum.ieee.org/optical-brain-imaging"
             },
             {
+                "title": "Open IP Camera Firmware",
+                "href": "https://openipc.org/\u00e0"
+            },
+            {
                 "title": "GHz spiking neuromorphic photonic chip with in-situ training",
                 "href": "https://arxiv.org/abs/2506.14272"
+            },
+            {
+                "title": "Show HN: Tiny logic and number games I built for my kids",
+                "href": "https://quizmathgenius.com/"
             },
             {
                 "title": "Job-seekers are dodging AI interviewers",
@@ -795,40 +799,32 @@
                 "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html"
             },
             {
+                "title": "Genetic correlates of social stratification in Great Britain (2019) [pdf]",
+                "href": "https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf"
+            },
+            {
                 "title": "Do LLMs identify fonts?",
                 "href": "https://maxhalford.github.io/blog/llm-font-identification/"
             },
             {
-                "title": "Mastercard deflects blame for NSFW games being taken down",
-                "href": "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/"
-            },
-            {
-                "title": "How we built Bluey\u2019s world",
-                "href": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725"
+                "title": "ScreenCoder: An intelligent UI-to-code generation system",
+                "href": "https://github.com/leigest519/ScreenCoder"
             },
             {
                 "title": "Mozilla Firefox's extension store being flooded with malware",
                 "href": "https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/"
             },
             {
+                "title": "Mastercard deflects blame for NSFW games being taken down",
+                "href": "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/"
+            },
+            {
                 "title": "Modern Node.js Patterns",
                 "href": "https://kashw1n.com/blog/nodejs-2025/"
             },
             {
-                "title": "Objects should shut the fuck up",
-                "href": "https://dustri.org/b/objects-should-shut-the-fuck-up.html"
-            },
-            {
-                "title": "Open IP Camera Firmware",
-                "href": "https://openipc.org/\u00e0"
-            },
-            {
                 "title": "New quantum state of matter found at interface of exotic materials",
                 "href": "https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html"
-            },
-            {
-                "title": "ScreenCoder: An intelligent UI-to-code generation system",
-                "href": "https://github.com/leigest519/ScreenCoder"
             },
             {
                 "title": "So you want to parse a PDF?",
@@ -839,8 +835,20 @@
                 "href": "https://grantslatton.com/how-to-design-document"
             },
             {
+                "title": "How we built Bluey\u2019s world",
+                "href": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725"
+            },
+            {
+                "title": "Objects should shut the fuck up",
+                "href": "https://dustri.org/b/objects-should-shut-the-fuck-up.html"
+            },
+            {
                 "title": "Read your code",
                 "href": "https://etsd.tech/posts/rtfc/"
+            },
+            {
+                "title": "Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up",
+                "href": "https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8"
             },
             {
                 "title": "Persona vectors: Monitoring and controlling character traits in language models",
@@ -863,16 +871,8 @@
                 "href": "https://howtogrowalmostanything.notion.site/htgaa25"
             },
             {
-                "title": "How I configure BorgBackup and borgmatic (2023)",
-                "href": "https://www.justus.pw/garden/borgbackup.html"
-            },
-            {
-                "title": "How Python grew from a language to a community",
-                "href": "https://thenewstack.io/how-python-grew-from-a-language-to-a-community/"
-            },
-            {
-                "title": "ThinkBook Plus Gen 6 \u2013 Lenovo\u2019s rollable laptop",
-                "href": "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review"
+                "title": "Converge (YC S23) well-capitalized New York startup seeks product developers",
+                "href": "https://www.runconverge.com/careers"
             }
         ]
     }
