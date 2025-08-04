@@ -19,6 +19,10 @@
                 "href": "https://datagubbe.se/retnost/"
             },
             {
+                "title": "How we made JSON.stringify more than twice as fast",
+                "href": "https://v8.dev/blog/json-stringify"
+            },
+            {
                 "title": "The Future is NOT Self-Hosted",
                 "href": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
             },
@@ -27,28 +31,24 @@
                 "href": "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
             },
             {
-                "title": "How we made JSON.stringify more than twice as fast",
-                "href": "https://v8.dev/blog/json-stringify"
-            },
-            {
                 "title": "So you want to parse a PDF?",
                 "href": "https://eliot-jones.com/2025/8/pdf-parsing-xref"
+            },
+            {
+                "title": "The Generativity Pattern in Rust",
+                "href": "https://arhan.sh/blog/the-generativity-pattern-in-rust/"
             },
             {
                 "title": "Rust, Python, and TypeScript: the new trifecta",
                 "href": "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/"
             },
             {
-                "title": "Maybe the Fastest Disk Usage Program on macOS",
-                "href": "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos"
-            },
-            {
                 "title": "Introducing luzer, a coverage-guided Lua fuzzing engine",
                 "href": "https://bronevichok.ru/posts/introducing-luzer.html"
             },
             {
-                "title": "Parse, don\u2019t validate (2019)",
-                "href": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
+                "title": "Maybe the Fastest Disk Usage Program on macOS",
+                "href": "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos"
             },
             {
                 "title": "A systematic evaluation of OpenBSD\u2019s mitigations (2019)",
@@ -57,6 +57,10 @@
             {
                 "title": "NetBSD 11.0 release process underway",
                 "href": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process"
+            },
+            {
+                "title": "Parse, don\u2019t validate (2019)",
+                "href": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
             },
             {
                 "title": "Complex Iterators are Slow",
@@ -79,16 +83,12 @@
                 "href": "https://blog.netbsd.org/tnf/entry/new_build_cluster_speeds_up"
             },
             {
-                "title": "a parser for typescript types, written in typescript types",
-                "href": "https://github.com/easrng/tsints"
-            },
-            {
-                "title": "The Generativity Pattern in Rust",
-                "href": "https://arhan.sh/blog/the-generativity-pattern-in-rust/"
-            },
-            {
                 "title": "In the Future All Food Will Be Cooked in a Microwave, and if You Can\u2019t Deal With That Then You Need to Get Out of the Kitchen",
                 "href": "https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/"
+            },
+            {
+                "title": "a parser for typescript types, written in typescript types",
+                "href": "https://github.com/easrng/tsints"
             },
             {
                 "title": "People still use our old-fashioned Unix login servers",
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Proton fixes Authenticator bug leaking TOTP secrets in logs",
+                "href": "https://www.bleepingcomputer.com/news/security/proton-fixes-authenticator-bug-leaking-totp-secrets-in-logs/"
+            },
+            {
                 "title": "Microsoft: Outdated Office apps lose access to voice features in January",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-office-apps-lose-access-to-voice-features-in-january/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Pi-hole discloses data breach triggered by WordPress plugin flaw",
                 "href": "https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/"
-            },
-            {
-                "title": "AI-powered Cursor IDE vulnerable to prompt-injection attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "The Great Indian IT Squeeze",
+                "href": "https://it.slashdot.org/story/25/08/04/1845243/the-great-indian-it-squeeze?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Google Tells iPhone Buyers To 'Just Change Your Phone' After Apple's AI Delays",
                 "href": "https://tech.slashdot.org/story/25/08/04/184253/google-tells-iphone-buyers-to-just-change-your-phone-after-apples-ai-delays?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Winners Announced in 2025's 'International Obfuscated C Code Competition'",
                 "href": "https://developers.slashdot.org/story/25/08/03/2216259/winners-announced-in-2025s-international-obfuscated-c-code-competition?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "N6 (Hexanitrogen) Synthesized for the First Time - Twice As Energy Dense As TNT",
-                "href": "https://science.slashdot.org/story/25/08/03/2042230/n6-hexanitrogen-synthesized-for-the-first-time---twice-as-energy-dense-as-tnt?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,72 +763,88 @@
                 "href": "https://benholmen.com/blog/kilopixel/"
             },
             {
-                "title": "I Asked Four Former Friends Why We Stopped Speaking-Here's What I Learned (2023)",
-                "href": "https://www.vogue.com/article/reconnecting-with-ex-friends"
+                "title": "Offline.kids \u2013 Screen-free activities for kids",
+                "href": "https://offline.kids/"
             },
             {
-                "title": "Part 1: A Deep Dive into Rust and C Memory Interoperability",
+                "title": "Circadian justice",
+                "href": "https://eprints.lse.ac.uk/112431/"
+            },
+            {
+                "title": "A deep dive into Rust and C memory interoperability",
                 "href": "https://notashes.me/blog/part-1-memory-management/"
             },
             {
-                "title": "Facts will not Save You - AI, History and Soviet Sci-Fi",
-                "href": "https://hegemon.substack.com/p/facts-will-not-save-you"
-            },
-            {
-                "title": "Open IP Camera Firmware",
+                "title": "OpenIPC: Open IP Camera Firmware",
                 "href": "https://openipc.org/\u00e0"
-            },
-            {
-                "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
-                "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
             },
             {
                 "title": "Job-seekers are dodging AI interviewers",
                 "href": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/"
             },
             {
+                "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
+                "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
+            },
+            {
+                "title": "Indian Sign Painting: A Typeface Designer's Take on the Craft",
+                "href": "https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/"
+            },
+            {
                 "title": "My Ideal Array Language",
                 "href": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html"
-            },
-            {
-                "title": "Show HN: Tiny logic and number games I built for my kids",
-                "href": "https://quizmathgenius.com/"
-            },
-            {
-                "title": "Century-Old Stone \u201cTsunami Stones\u201d Dot Japan's Coastline (2015)",
-                "href": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
             },
             {
                 "title": "How we built Bluey\u2019s world",
                 "href": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725"
             },
             {
-                "title": "Scientists shine a laser through a human head",
-                "href": "https://spectrum.ieee.org/optical-brain-imaging"
-            },
-            {
-                "title": "Show HN: Kimu \u2013 Open-Source Video Editor",
-                "href": "https://www.trykimu.com/"
-            },
-            {
-                "title": "GHz spiking neuromorphic photonic chip with in-situ training",
-                "href": "https://arxiv.org/abs/2506.14272"
+                "title": "Century-Old Stone \u201cTsunami Stones\u201d Dot Japan's Coastline (2015)",
+                "href": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
             },
             {
                 "title": "Customizing tmux and making it less dreadful",
                 "href": "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/"
             },
             {
+                "title": "Scientists shine a laser through a human head",
+                "href": "https://spectrum.ieee.org/optical-brain-imaging"
+            },
+            {
+                "title": "Show HN: Tiny logic and number games I built for my kids",
+                "href": "https://quizmathgenius.com/"
+            },
+            {
                 "title": "Drawafish.com Postmortem: Whoops",
                 "href": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html"
+            },
+            {
+                "title": "GHz spiking neuromorphic photonic chip with in-situ training",
+                "href": "https://arxiv.org/abs/2506.14272"
+            },
+            {
+                "title": "Facts will not save you \u2013 AI, history and Soviet sci-fi",
+                "href": "https://hegemon.substack.com/p/facts-will-not-save-you"
+            },
+            {
+                "title": "Show HN: Kimu \u2013 Open-Source Video Editor",
+                "href": "https://www.trykimu.com/"
             },
             {
                 "title": "Lidar-based GIS map of New Hampshire stone walls",
                 "href": "https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83"
             },
             {
-                "title": "Gigabyte removes PCIe 5.0 support from B650 motherboards in latest BIOS update",
-                "href": "https://videocardz.com/newz/gigabyte-removes-unofficial-pcie-5-0-support-from-b650-motherboards-in-latest-bios-update"
+                "title": "Belgium's Arrest of IDF Soldiers Could Be a Watershed Moment",
+                "href": "https://jacobin.com/2025/08/belgium-israeli-soldiers-arrest-gaza"
+            },
+            {
+                "title": "I asked four former friends why we stopped speaking (2023)",
+                "href": "https://www.vogue.com/article/reconnecting-with-ex-friends"
+            },
+            {
+                "title": "Europe is breaking its reliance on American science",
+                "href": "https://www.reuters.com/sustainability/climate-energy/europe-is-breaking-its-reliance-american-science-2025-08-01/"
             },
             {
                 "title": "Perfecting anti-aliasing on signed distance functions",
@@ -843,40 +859,24 @@
                 "href": "https://github.com/leigest519/ScreenCoder"
             },
             {
-                "title": "Show HN: Mathpad \u2013 Physical keypad for typing 100+ math symbols anywhere",
-                "href": "https://www.crowdsupply.com/summa-cogni/mathpad"
+                "title": "Fine-tuned small LLMs can beat large ones with programmatic data curation",
+                "href": "https://www.tensorzero.com/blog/fine-tuned-small-llms-can-beat-large-ones-at-5-30x-lower-cost-with-programmatic-data-curation/"
             },
             {
-                "title": "Do LLMs identify fonts?",
-                "href": "https://maxhalford.github.io/blog/llm-font-identification/"
+                "title": "Show HN: Mathpad \u2013 Physical keypad for typing 100+ math symbols anywhere",
+                "href": "https://www.crowdsupply.com/summa-cogni/mathpad"
             },
             {
                 "title": "Mastercard deflects blame for NSFW games being taken down",
                 "href": "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/"
             },
             {
-                "title": "Genetic correlates of social stratification in Great Britain (2019) [pdf]",
-                "href": "https://research.vu.nl/ws/portalfiles/portal/127420931/Genetic_correlates_of_social_stratification_in_Great_Britain.pdf"
+                "title": "Do LLMs identify fonts?",
+                "href": "https://maxhalford.github.io/blog/llm-font-identification/"
             },
             {
-                "title": "Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up",
-                "href": "https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8"
-            },
-            {
-                "title": "So you want to parse a PDF?",
-                "href": "https://eliot-jones.com/2025/8/pdf-parsing-xref"
-            },
-            {
-                "title": "New quantum state of matter found at interface of exotic materials",
-                "href": "https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html"
-            },
-            {
-                "title": "Writing a good design document",
-                "href": "https://grantslatton.com/how-to-design-document"
-            },
-            {
-                "title": "Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash",
-                "href": "https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/"
+                "title": "1981 BASIC adventure game comes to a new platform, the TRS-80 MC-10",
+                "href": "https://www.arctic81.com/arctic-adventure-mc10.html"
             }
         ]
     }
