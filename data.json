@@ -15,6 +15,10 @@
                 "href": "https://arhan.sh/blog/the-generativity-pattern-in-rust/"
             },
             {
+                "title": "How we made JSON.stringify more than twice as fast",
+                "href": "https://v8.dev/blog/json-stringify"
+            },
+            {
                 "title": "The Q Programming Language",
                 "href": "https://git.urbach.dev/cli/q"
             },
@@ -23,8 +27,8 @@
                 "href": "https://datagubbe.se/retnost/"
             },
             {
-                "title": "How we made JSON.stringify more than twice as fast",
-                "href": "https://v8.dev/blog/json-stringify"
+                "title": "Introducing luzer, a coverage-guided Lua fuzzing engine",
+                "href": "https://bronevichok.ru/posts/introducing-luzer.html"
             },
             {
                 "title": "HTMX is hard so let's get it right",
@@ -43,28 +47,28 @@
                 "href": "https://eliot-jones.com/2025/8/pdf-parsing-xref"
             },
             {
-                "title": "Introducing luzer, a coverage-guided Lua fuzzing engine",
-                "href": "https://bronevichok.ru/posts/introducing-luzer.html"
-            },
-            {
                 "title": "NetBSD 11.0 release process underway",
                 "href": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process"
+            },
+            {
+                "title": "A Friendly Introduction to SVG",
+                "href": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
             },
             {
                 "title": "Maybe the Fastest Disk Usage Program on macOS",
                 "href": "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos"
             },
             {
-                "title": "A systematic evaluation of OpenBSD\u2019s mitigations (2019)",
-                "href": "https://isopenbsdsecu.re/"
-            },
-            {
                 "title": "Complex Iterators are Slow",
                 "href": "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
             },
             {
-                "title": "A Friendly Introduction to SVG",
-                "href": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
+                "title": "p-fast trie: lexically ordered hash map",
+                "href": "https://dotat.at/@/2025-08-04-p-fast-trie.html"
+            },
+            {
+                "title": "A systematic evaluation of OpenBSD\u2019s mitigations (2019)",
+                "href": "https://isopenbsdsecu.re/"
             },
             {
                 "title": "Parse, don\u2019t validate (2019)",
@@ -91,16 +95,12 @@
                 "href": "https://github.com/easrng/tsints"
             },
             {
-                "title": "Writing a good design document",
-                "href": "https://grantslatton.com/how-to-design-document"
-            },
-            {
-                "title": "People still use our old-fashioned Unix login servers",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed"
-            },
-            {
                 "title": "A Few Things About the Anchor Element\u2019s href You Might Not Have Known",
                 "href": "https://blog.jim-nielsen.com/2025/href-value-possibilities/"
+            },
+            {
+                "title": "Destructive in-order tree traversal",
+                "href": "https://morwenn.github.io//algorithms/2025/08/03/TSB002-destructive-inrder-tree-traversal.html"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Fashion giant Chanel hit in wave of Salesforce data theft attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/fashion-giant-chanel-hit-in-wave-of-salesforce-data-theft-attacks/"
+            },
+            {
                 "title": "Proton fixes Authenticator bug leaking TOTP secrets in logs",
                 "href": "https://www.bleepingcomputer.com/news/security/proton-fixes-authenticator-bug-leaking-totp-secrets-in-logs/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "SonicWall firewall devices hit in surge of Akira ransomware attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/surge-of-akira-ransomware-attacks-hits-sonicwall-firewall-devices/"
-            },
-            {
-                "title": "Pi-hole discloses data breach triggered by WordPress plugin flaw",
-                "href": "https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "ChatGPT Nears 700 Million Weekly Users, Up 4x From Last Year",
+                "href": "https://slashdot.org/story/25/08/04/200209/chatgpt-nears-700-million-weekly-users-up-4x-from-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Engineer Restores Pay Phones For Free Public Use",
                 "href": "https://mobile.slashdot.org/story/25/08/04/1948238/engineer-restores-pay-phones-for-free-public-use?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "How Napster Inspired a Generation of Rule-Breaking Entrepreneurs",
                 "href": "https://yro.slashdot.org/story/25/08/04/0146202/how-napster-inspired-a-generation-of-rule-breaking-entrepreneurs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "'A Black Hole': America's New Graduates Discover a Dismal Job Market",
-                "href": "https://it.slashdot.org/story/25/08/04/0048214/a-black-hole-americas-new-graduates-discover-a-dismal-job-market?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -771,96 +771,100 @@
                 "href": "https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/"
             },
             {
-                "title": "Circadian justice",
-                "href": "https://eprints.lse.ac.uk/112431/"
+                "title": "Indian Sign Painting: A typeface designer's take on the craft",
+                "href": "https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/"
             },
             {
                 "title": "Cellular Starlink expands to support IoT devices",
                 "href": "https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices"
             },
             {
-                "title": "Indian Sign Painting: A typeface designer's take on the craft",
-                "href": "https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/"
-            },
-            {
-                "title": "Content-Aware Spaced Repetition",
-                "href": "https://www.giacomoran.com/blog/content-aware-sr/"
-            },
-            {
-                "title": "OpenIPC: Open IP Camera Firmware",
-                "href": "https://openipc.org/\u00e0"
-            },
-            {
-                "title": "A deep dive into Rust and C memory interoperability",
-                "href": "https://notashes.me/blog/part-1-memory-management/"
-            },
-            {
-                "title": "Job-seekers are dodging AI interviewers",
-                "href": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/"
-            },
-            {
-                "title": "How we built Bluey\u2019s world",
-                "href": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725"
+                "title": "How we made JSON.stringify more than twice as fast",
+                "href": "https://v8.dev/blog/json-stringify"
             },
             {
                 "title": "Once a death sentence, cardiac amyloidosis is finally treatable",
                 "href": "https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html"
             },
             {
-                "title": "DrawAFish.com Postmortem",
-                "href": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html"
+                "title": "Circadian justice (2022)",
+                "href": "https://eprints.lse.ac.uk/112431/"
+            },
+            {
+                "title": "OpenIPC: Open IP Camera Firmware",
+                "href": "https://openipc.org/\u00e0"
+            },
+            {
+                "title": "Job-seekers are dodging AI interviewers",
+                "href": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/"
+            },
+            {
+                "title": "Content-Aware Spaced Repetition",
+                "href": "https://www.giacomoran.com/blog/content-aware-sr/"
+            },
+            {
+                "title": "A deep dive into Rust and C memory interoperability",
+                "href": "https://notashes.me/blog/part-1-memory-management/"
             },
             {
                 "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
                 "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
             },
             {
-                "title": "How we made JSON.stringify more than twice as fast",
-                "href": "https://v8.dev/blog/json-stringify"
+                "title": "DrawAFish.com Postmortem",
+                "href": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html"
             },
             {
-                "title": "My Ideal Array Language",
-                "href": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html"
+                "title": "How we built Bluey\u2019s world",
+                "href": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725"
             },
             {
-                "title": "Show HN: Mathpad \u2013 Physical keypad for typing math symbols",
-                "href": "https://www.crowdsupply.com/summa-cogni/mathpad"
-            },
-            {
-                "title": "Century-old stone \u201ctsunami stones\u201d dot Japan's coastline (2015)",
-                "href": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
+                "title": "What Happened When I Tried to Replace Myself with ChatGPT in My English Class",
+                "href": "https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/"
             },
             {
                 "title": "What Can a Cell Remember?",
                 "href": "https://www.quantamagazine.org/what-can-a-cell-remember-20250730/"
             },
             {
-                "title": "Lidar-based GIS map of New Hampshire stone walls",
-                "href": "https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83"
+                "title": "My Ideal Array Language",
+                "href": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html"
             },
             {
-                "title": "Is the interstellar object 3I/ATLAS alien technology? [pdf]",
-                "href": "https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf"
+                "title": "Customizing tmux",
+                "href": "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/"
+            },
+            {
+                "title": "Century-old stone \u201ctsunami stones\u201d dot Japan's coastline (2015)",
+                "href": "https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/"
             },
             {
                 "title": "Objects should shut up",
                 "href": "https://dustri.org/b/objects-should-shut-the-fuck-up.html"
             },
             {
-                "title": "The Revolution of Token-Level Rewards",
-                "href": "https://www.levroai.com/blog/revolution-of-token-rewards-08-01-2025"
+                "title": "Show HN: Mathpad \u2013 Physical keypad for typing math symbols",
+                "href": "https://www.crowdsupply.com/summa-cogni/mathpad"
+            },
+            {
+                "title": "Show HN: Sidequest.js \u2013 Background jobs for Node.js using your database",
+                "href": "https://docs.sidequestjs.com/quick-start"
+            },
+            {
+                "title": "Is the interstellar object 3I/ATLAS alien technology? [pdf]",
+                "href": "https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf"
+            },
+            {
+                "title": "Lidar-based GIS map of New Hampshire stone walls",
+                "href": "https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83"
             },
             {
                 "title": "Read your code",
                 "href": "https://etsd.tech/posts/rtfc/"
             },
             {
-                "title": "Scientists shine a laser through a human head",
-                "href": "https://spectrum.ieee.org/optical-brain-imaging"
-            },
-            {
-                "title": "Show HN: Sidequest.js \u2013 Background jobs for Node.js using your database",
-                "href": "https://docs.sidequestjs.com/quick-start"
+                "title": "The Revolution of Token-Level Rewards",
+                "href": "https://www.levroai.com/blog/revolution-of-token-rewards-08-01-2025"
             },
             {
                 "title": "Show HN: Tiny logic and number games I built for my kids",
@@ -871,12 +875,8 @@
                 "href": "https://www.greptile.com/blog/auditor"
             },
             {
-                "title": "Facts will not save you \u2013 AI, history and Soviet sci-fi",
-                "href": "https://hegemon.substack.com/p/facts-will-not-save-you"
-            },
-            {
-                "title": "Palantir is extending its reach even further into government",
-                "href": "https://www.wired.com/story/palantir-government-contracting-push/"
+                "title": "I asked four former friends why we stopped speaking (2023)",
+                "href": "https://www.vogue.com/article/reconnecting-with-ex-friends"
             }
         ]
     }
