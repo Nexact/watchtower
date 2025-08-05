@@ -7,6 +7,10 @@
                 "href": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md"
             },
             {
+                "title": "Gleam v1.12.0 released",
+                "href": "https://gleam.run/news/no-more-dependency-management-headaches/"
+            },
+            {
                 "title": "What trick of the trade took you too long to learn?",
                 "href": "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
             },
@@ -19,20 +23,16 @@
                 "href": "https://github.com/krig/LISP"
             },
             {
+                "title": "Quickshell, building blocks for your desktop",
+                "href": "https://quickshell.org/"
+            },
+            {
                 "title": "How Perplexity is Evading Anti-crawling Measures",
                 "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
             },
             {
-                "title": "Gleam v1.12.0 released",
-                "href": "https://gleam.run/news/no-more-dependency-management-headaches/"
-            },
-            {
                 "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
                 "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks"
-            },
-            {
-                "title": "Quickshell, building blocks for your desktop",
-                "href": "https://quickshell.org/"
             },
             {
                 "title": "What are you doing this week?",
@@ -43,6 +43,10 @@
                 "href": "https://lewiscampbell.tech/blog/250805.html"
             },
             {
+                "title": "No, AI is not Making Engineers 10x as Productive",
+                "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
+            },
+            {
                 "title": "Proxmox Virtual Environment 9.0 with Debian 13 released",
                 "href": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0"
             },
@@ -51,8 +55,8 @@
                 "href": "https://arxiv.org/html/2505.06456v1"
             },
             {
-                "title": "No, AI is not Making Engineers 10x as Productive",
-                "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
+                "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+                "href": "https://ergaster.org/til/base64-encoded-json/"
             },
             {
                 "title": "The PSF has paused our Grants Program",
@@ -79,6 +83,10 @@
                 "href": "https://mjg59.dreamwidth.org/73001.html"
             },
             {
+                "title": "How I make 3D Games",
+                "href": "https://www.youtube.com/watch?v=hAWv6AJ8M-Y"
+            },
+            {
                 "title": "When vibe coding, isn't the source code the prompt?",
                 "href": "https://boston.conman.org/2025/08/04.1"
             },
@@ -89,14 +97,6 @@
             {
                 "title": "My Ideal Array Language",
                 "href": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html"
-            },
-            {
-                "title": "p-fast trie: lexically ordered hash map",
-                "href": "https://dotat.at/@/2025-08-04-p-fast-trie.html"
-            },
-            {
-                "title": "A SPARC makes a little fire",
-                "href": "https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html"
             },
             {
                 "title": "How we made JSON.stringify more than twice as fast",
@@ -317,7 +317,68 @@
     },
     {
         "feedname": "slashdot",
-        "items": []
+        "items": [
+            {
+                "title": "OpenAI Releases First Open-Weight Models Since GPT-2",
+                "href": "https://slashdot.org/story/25/08/05/1848236/openai-releases-first-open-weight-models-since-gpt-2?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Three US Agencies Get Failing Grades For Not Following IT Best Practices",
+                "href": "https://news.slashdot.org/story/25/08/05/188236/three-us-agencies-get-failing-grades-for-not-following-it-best-practices?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Wikipedia Editors Adopt 'Speedy Deletion' Policy for AI Slop Articles",
+                "href": "https://news.slashdot.org/story/25/08/05/1746242/wikipedia-editors-adopt-speedy-deletion-policy-for-ai-slop-articles?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "'No One Cares' About Elite Degrees at Palantir, CEO Tells Investors",
+                "href": "https://news.slashdot.org/story/25/08/05/1712253/no-one-cares-about-elite-degrees-at-palantir-ceo-tells-investors?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Microsoft Teases the Future of Windows as an Agentic OS",
+                "href": "https://tech.slashdot.org/story/25/08/05/1647209/microsoft-teases-the-future-of-windows-as-an-agentic-os?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "AI Is Listening to Your Meetings. Watch What You Say.",
+                "href": "https://yro.slashdot.org/story/25/08/05/1546241/ai-is-listening-to-your-meetings-watch-what-you-say?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Nearly 100,000 ChatGPT Conversations Were Searchable on Google",
+                "href": "https://yro.slashdot.org/story/25/08/05/1535248/nearly-100000-chatgpt-conversations-were-searchable-on-google?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Deadly Titan Submersible Implosion Was Preventable Disaster, Coast Guard Concludes",
+                "href": "https://news.slashdot.org/story/25/08/05/1447232/deadly-titan-submersible-implosion-was-preventable-disaster-coast-guard-concludes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "An Illinois Bill Banning AI Therapy Has Been Signed Into Law",
+                "href": "https://slashdot.org/story/25/08/05/148238/an-illinois-bill-banning-ai-therapy-has-been-signed-into-law?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Fraudulent Scientific Papers Are Rapidly Increasing, Study Finds",
+                "href": "https://science.slashdot.org/story/25/08/05/0137204/fraudulent-scientific-papers-are-rapidly-increasing-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Man Controls iPad With His Mind Using Synchron Brain Implant",
+                "href": "https://science.slashdot.org/story/25/08/05/0040239/man-controls-ipad-with-his-mind-using-synchron-brain-implant?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "NASA's Lunar Trailblazer Mission Ends In Disappointment",
+                "href": "https://science.slashdot.org/story/25/08/05/0035201/nasas-lunar-trailblazer-mission-ends-in-disappointment?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "US To Expedite Plan For Nuclear Reactor On the Moon",
+                "href": "https://science.slashdot.org/story/25/08/04/2232239/us-to-expedite-plan-for-nuclear-reactor-on-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Google Agrees To Pause AI Workloads To Protect the Grid When Power Demand Spikes",
+                "href": "https://tech.slashdot.org/story/25/08/05/0144232/google-agrees-to-pause-ai-workloads-to-protect-the-grid-when-power-demand-spikes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Disney Scrapped Deepfakes For Moana and Tron To Avoid 'Bad Publicity'",
+                "href": "https://entertainment.slashdot.org/story/25/08/04/235206/disney-scrapped-deepfakes-for-moana-and-tron-to-avoid-bad-publicity?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            }
+        ]
     },
     {
         "feedname": "ciscotalos",
@@ -387,6 +448,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Android security advisory \u2013 August 2025 monthly rollup (AV25-482)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-august-2025-monthly-rollup-av25-482"
+            },
             {
                 "title": "[Control systems] CISA ICS security advisories (AV25-481)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-481"
@@ -582,10 +647,6 @@
             {
                 "title": "IBM security advisory (AV25-436)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-436"
-            },
-            {
-                "title": "[Control systems] CISA ICS security advisories (AV25\u2013435)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-435"
             }
         ]
     },
@@ -706,8 +767,16 @@
                 "href": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"
             },
             {
+                "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+                "href": "https://ergaster.org/til/base64-encoded-json/"
+            },
+            {
                 "title": "OpenAI Harmony",
                 "href": "https://github.com/openai/harmony"
+            },
+            {
+                "title": "Introducing gpt-oss",
+                "href": "https://openai.com/index/introducing-gpt-oss/"
             },
             {
                 "title": "Consider using Zstandard and/or LZ4 instead of Deflate",
@@ -718,8 +787,8 @@
                 "href": "https://apps.apple.com/app/ublock-origin-lite/id6745342698"
             },
             {
-                "title": "Introducing gpt-oss",
-                "href": "https://openai.com/index/introducing-gpt-oss/"
+                "title": "Ollama Turbo",
+                "href": "https://ollama.com/turbo"
             },
             {
                 "title": "Claude Opus 4.1",
@@ -734,36 +803,24 @@
                 "href": "https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging"
             },
             {
-                "title": "Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years",
-                "href": "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
+                "title": "Build Your Own Lisp",
+                "href": "https://www.buildyourownlisp.com/"
             },
             {
                 "title": "Show HN: Whittle \u2013 A Shrinking Word Game",
                 "href": "https://playwhittle.com/"
             },
             {
-                "title": "Build Your Own Lisp",
-                "href": "https://www.buildyourownlisp.com/"
-            },
-            {
-                "title": "Ask HN: Have you ever regretted open-sourcing something?",
-                "href": "item?id=44766771"
-            },
-            {
-                "title": "FCC abandons efforts to make U.S. broadband fast and affordable",
-                "href": "https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/"
-            },
-            {
-                "title": "Scientific fraud has become an 'industry,' alarming analysis finds",
-                "href": "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds"
+                "title": "Ozempic Shows Anti-Aging Effects in Trial, Reversing Biological Age by 3.1 Years",
+                "href": "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
             },
             {
                 "title": "GitHub pull requests were down",
                 "href": "https://www.githubstatus.com/incidents/6swp0zf7lk8h"
             },
             {
-                "title": "The X11 SECURITY extension from the 1990ies",
-                "href": "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html"
+                "title": "Scientific fraud has become an 'industry,' alarming analysis finds",
+                "href": "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds"
             },
             {
                 "title": "Monitor your security cameras with locally processed AI",
@@ -774,28 +831,40 @@
                 "href": "https://elevenlabs.io/blog/eleven-music-is-here"
             },
             {
-                "title": "No Comment (2010)",
-                "href": "https://prog21.dadgum.com/57.html"
+                "title": "The X11 SECURITY extension from the 1990ies",
+                "href": "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html"
             },
             {
-                "title": "Small Changes That Made Our Daily Stand-Ups More Useful",
-                "href": "https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/"
+                "title": "No Comment (2010)",
+                "href": "https://prog21.dadgum.com/57.html"
             },
             {
                 "title": "PHP 8.5 adds pipe operator",
                 "href": "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/"
             },
             {
-                "title": "SAML Shield: Drop-in protection that works for any stack",
-                "href": "https://samlshield.com/"
+                "title": "Small Changes That Made Our Daily Stand-Ups More Useful",
+                "href": "https://www.progractivity.com/flow/revolutionize-your-daily-stand-ups/"
             },
             {
-                "title": "US Coast Guard Report on Titan Submersible",
-                "href": "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/"
+                "title": "Show HN: I built a tool to replace capcut audio transcription",
+                "href": "https://meetcosmos.com/free-audio-transcription/"
+            },
+            {
+                "title": "FCC abandons efforts to make U.S. broadband fast and affordable",
+                "href": "https://www.techdirt.com/2025/08/05/trump-fcc-abandons-efforts-to-make-u-s-broadband-fast-and-affordable/"
             },
             {
                 "title": "Tell HN: Anthropic expires paid credits after a year",
                 "href": "item?id=44793446"
+            },
+            {
+                "title": "SAML Shield: Drop-in protection that works for any stack",
+                "href": "https://samlshield.com/"
+            },
+            {
+                "title": "Show HN: Tambo \u2013 build generative UX web apps",
+                "href": "https://github.com/tambo-ai/tambo"
             },
             {
                 "title": "Apache ECharts 6",
@@ -806,16 +875,8 @@
                 "href": "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/"
             },
             {
-                "title": "Show HN: I built a tool to replace capcut audio transcription",
-                "href": "https://meetcosmos.com/free-audio-transcription/"
-            },
-            {
-                "title": "Show HN: Tambo \u2013 build generative UX web apps",
-                "href": "https://github.com/tambo-ai/tambo"
-            },
-            {
-                "title": "US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief",
-                "href": "https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html"
+                "title": "US Coast Guard Report on Titan Submersible",
+                "href": "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/"
             }
         ]
     }
