@@ -15,16 +15,20 @@
                 "href": "https://gleam.run/news/no-more-dependency-management-headaches/"
             },
             {
-                "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
-                "href": "https://ergaster.org/til/base64-encoded-json/"
-            },
-            {
                 "title": "Why are Windows semiannual updates named H1 and H2?",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435"
             },
             {
+                "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+                "href": "https://ergaster.org/til/base64-encoded-json/"
+            },
+            {
                 "title": "Be Careful with Go Struct Embedding",
                 "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
+            },
+            {
+                "title": "zig-error-patterns",
+                "href": "https://glfmn.io/posts/zig-error-patterns/"
             },
             {
                 "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
@@ -35,28 +39,24 @@
                 "href": "https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing"
             },
             {
-                "title": "zig-error-patterns",
-                "href": "https://glfmn.io/posts/zig-error-patterns/"
-            },
-            {
-                "title": "A Proper X86 Assembler in Haskell Using the Escard\u00f3-Oliva Functional",
-                "href": "http://blog.vmchale.com/article/escardo-oliva-functional"
-            },
-            {
                 "title": "We shouldn\u2019t have needed lockfiles",
                 "href": "https://tonsky.me/blog/lockfiles/"
-            },
-            {
-                "title": "Quickshell, building blocks for your desktop",
-                "href": "https://quickshell.org/"
             },
             {
                 "title": "Python performance myths and fairy tales",
                 "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/"
             },
             {
+                "title": "A Proper X86 Assembler in Haskell Using the Escard\u00f3-Oliva Functional",
+                "href": "http://blog.vmchale.com/article/escardo-oliva-functional"
+            },
+            {
                 "title": "No, AI is not Making Engineers 10x as Productive",
                 "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
+            },
+            {
+                "title": "Quickshell, building blocks for your desktop",
+                "href": "https://quickshell.org/"
             },
             {
                 "title": "Bag of words, have mercy on us",
@@ -79,12 +79,12 @@
                 "href": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md"
             },
             {
-                "title": "What trick of the trade took you too long to learn?",
-                "href": "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
-            },
-            {
                 "title": "Digital hygiene: Emails",
                 "href": "https://herman.bearblog.dev/digital-hygiene-emails/"
+            },
+            {
+                "title": "What trick of the trade took you too long to learn?",
+                "href": "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
             },
             {
                 "title": "Scaling Correctness: Marc Brooker on a Decade of Formal Methods at AWS",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Call of Duty's Anti-Cheat Will Require TPM 2.0 and Secure Boot for PC Players",
+                "href": "https://games.slashdot.org/story/25/08/06/1741206/call-of-dutys-anti-cheat-will-require-tpm-20-and-secure-boot-for-pc-players?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Tornado Cash Co-Founder Storm Guilty in Crypto Mixing Case",
                 "href": "https://yro.slashdot.org/story/25/08/06/1729237/tornado-cash-co-founder-storm-guilty-in-crypto-mixing-case?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "OpenAI Offers 20 Million User Chats In ChatGPT Lawsuit. NYT Wants 120 Million.",
                 "href": "https://yro.slashdot.org/story/25/08/05/2130255/openai-offers-20-million-user-chats-in-chatgpt-lawsuit-nyt-wants-120-million?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Roku Launches Cheap, Ad-Free Streaming Service 'Howdy'",
-                "href": "https://entertainment.slashdot.org/story/25/08/05/2118233/roku-launches-cheap-ad-free-streaming-service-howdy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -452,6 +452,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Splunk security advisory (AV25-489)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-489"
+            },
             {
                 "title": "Cisco security advisory (AV25-488)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-488"
@@ -647,10 +651,6 @@
             {
                 "title": "Mozilla security advisory (AV25-442)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-442"
-            },
-            {
-                "title": "[Control systems] ABB security advisory (AV25-441)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-441"
             }
         ]
     },
@@ -763,96 +763,112 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Claude Code IDE integration for Emacs",
+                "href": "https://github.com/manzaltu/claude-code-ide.el"
+            },
+            {
                 "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
                 "href": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
             },
             {
-                "title": "Claude Code IDE integration for Emacs",
-                "href": "https://github.com/manzaltu/claude-code-ide.el"
+                "title": "Jules, our asynchronous coding agent",
+                "href": "https://blog.google/technology/google-labs/jules-now-available/"
             },
             {
                 "title": "Breaking the sorting barrier for directed single-source shortest paths",
                 "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/"
             },
             {
-                "title": "Dotfiles feel too intimate and personal to share",
-                "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
-            },
-            {
-                "title": "Jules, our asynchronous coding agent, is now available for everyone",
-                "href": "https://blog.google/technology/google-labs/jules-now-available/"
-            },
-            {
                 "title": "Show HN: Kitten TTS \u2013 25MB CPU-Only, Open-Source TTS Model",
                 "href": "https://github.com/KittenML/KittenTTS"
             },
             {
-                "title": "Zig-Error-Patterns",
+                "title": "Zig Error Patterns",
                 "href": "https://glfmn.io/posts/zig-error-patterns/"
+            },
+            {
+                "title": "Why is it worth spending time on type theory? (2013)",
+                "href": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory"
+            },
+            {
+                "title": "Why blocking LLMs from your website is dumb",
+                "href": "https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d"
             },
             {
                 "title": "303Gen \u2013 303 acid loops generator",
                 "href": "https://303-gen-06a668.netlify.app/"
             },
             {
-                "title": "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
-                "href": "https://github.com/berbyte/sinkzone"
-            },
-            {
-                "title": "NautilusTrader: Open-source algorithmic trading platform",
-                "href": "https://nautilustrader.io/"
+                "title": "Multics",
+                "href": "https://www.multicians.org/multics.html"
             },
             {
                 "title": "We shouldn't have needed lockfiles",
                 "href": "https://tonsky.me/blog/lockfiles/"
             },
             {
+                "title": "Show HN: Sinkzone DNS \u2013 Forwarder that blocks everything except your allowlist",
+                "href": "https://github.com/berbyte/sinkzone"
+            },
+            {
                 "title": "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
                 "href": "https://books.open.tudelft.nl/home/catalog/book/11"
-            },
-            {
-                "title": "About the BLOBs in Ventoy",
-                "href": "https://github.com/ventoy/Ventoy/issues/3224"
-            },
-            {
-                "title": "The Origin of Cisco Systems",
-                "href": "https://www.tcracs.org/tcrwp/1origin-of-cisco/"
             },
             {
                 "title": "Qwen3-4B-Thinking-2507",
                 "href": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
             },
             {
-                "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
+                "title": "About the BLOBs in Ventoy",
+                "href": "https://github.com/ventoy/Ventoy/issues/3224"
             },
             {
-                "title": "Why is it worth spending time on type theory?",
-                "href": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory"
+                "title": "NautilusTrader: Open-source algorithmic trading platform",
+                "href": "https://nautilustrader.io/"
             },
             {
-                "title": "NetBird Is Embracing the AGPLv3 License",
-                "href": "https://netbird.io/knowledge-hub/netbird-agpl-announcement"
+                "title": "Dotfiles feel too personal to share",
+                "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
             },
             {
-                "title": "Multics",
-                "href": "https://www.multicians.org/multics.html"
-            },
-            {
-                "title": "Providing ChatGPT to the U.S. federal workforce",
-                "href": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/"
+                "title": "The Origin of Cisco Systems",
+                "href": "https://www.tcracs.org/tcrwp/1origin-of-cisco/"
             },
             {
                 "title": "Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm",
                 "href": "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html"
             },
             {
+                "title": "When is the next caltrain? (minimal webapp)",
+                "href": "https://erikschluntz.com/caltrain"
+            },
+            {
+                "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
+            },
+            {
+                "title": "NetBird Is Embracing the AGPLv3 License",
+                "href": "https://netbird.io/knowledge-hub/netbird-agpl-announcement"
+            },
+            {
+                "title": "The internet wants to check your ID",
+                "href": "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
+            },
+            {
                 "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
                 "href": "https://github.com/shutootaki/bookwith"
             },
             {
+                "title": "How to Scale Proteomics",
+                "href": "https://www.asimov.press/p/proteomics"
+            },
+            {
                 "title": "Python performance myths and fairy tales",
                 "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/"
+            },
+            {
+                "title": "Providing ChatGPT to the U.S. federal workforce",
+                "href": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/"
             },
             {
                 "title": "Critcl \u2013 C Runtime in Tcl",
@@ -863,24 +879,8 @@
                 "href": "https://permacomputing.net/software_rot/"
             },
             {
-                "title": "How to Scale Proteomics",
-                "href": "https://www.asimov.press/p/proteomics"
-            },
-            {
                 "title": "Open models by OpenAI",
                 "href": "https://openai.com/open-models/"
-            },
-            {
-                "title": "LLM Inflation",
-                "href": "https://tratt.net/laurie/blog/2025/llm_inflation.html"
-            },
-            {
-                "title": "Omarchy, a Linux Distribution by DHH",
-                "href": "https://omarchy.org/"
-            },
-            {
-                "title": "When is the next caltrain? (minimal webapp)",
-                "href": "https://erikschluntz.com/caltrain"
             }
         ]
     }
