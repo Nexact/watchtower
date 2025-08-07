@@ -15,12 +15,16 @@
                 "href": "https://tonsky.me/blog/lockfiles/"
             },
             {
+                "title": "A Fast, Growable Array With Stable Pointers in C",
+                "href": "https://danielchasehooper.com/posts/segment_array/"
+            },
+            {
                 "title": "RFC 9457 - Problem Details for HTTP APIs",
                 "href": "https://datatracker.ietf.org/doc/html/rfc9457"
             },
             {
-                "title": "A Fast, Growable Array With Stable Pointers in C",
-                "href": "https://danielchasehooper.com/posts/segment_array/"
+                "title": "Announcing Rust 1.89.0",
+                "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/"
             },
             {
                 "title": "Why hx-boost is actually the most important feature of htmx",
@@ -31,28 +35,24 @@
                 "href": "https://portswigger.net/research/http1-must-die"
             },
             {
+                "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
+                "href": "https://xorvoid.com/forsp.html"
+            },
+            {
                 "title": "The Bluesky Dictionary",
                 "href": "https://www.avibagla.com/blueskydictionary/"
             },
             {
-                "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
-                "href": "https://xorvoid.com/forsp.html"
+                "title": "Live coding sucks",
+                "href": "https://hadid.dev/posts/living-coding/"
             },
             {
                 "title": "hardmode-triangle-0",
                 "href": "https://glfmn.io/posts/hardmode-triangle-0/"
             },
             {
-                "title": "Announcing Rust 1.89.0",
-                "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/"
-            },
-            {
                 "title": "zig-error-patterns",
                 "href": "https://glfmn.io/posts/zig-error-patterns/"
-            },
-            {
-                "title": "Live coding sucks",
-                "href": "https://hadid.dev/posts/living-coding/"
             },
             {
                 "title": "uBlock Origin Lite for Safari",
@@ -63,20 +63,28 @@
                 "href": "https://github.com/pythops/dmitui"
             },
             {
-                "title": "Why are Windows semiannual updates named H1 and H2?",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435"
+                "title": "Tone Mapping (2019)",
+                "href": "https://64.github.io/tonemapping/"
             },
             {
                 "title": "onion-lang",
                 "href": "https://github.com/sjrsjz/onion-lang"
             },
             {
+                "title": "You don't really need monads",
+                "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads"
+            },
+            {
+                "title": "Why are Windows semiannual updates named H1 and H2?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435"
+            },
+            {
                 "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
                 "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics"
             },
             {
-                "title": "Tone Mapping (2019)",
-                "href": "https://64.github.io/tonemapping/"
+                "title": "We replaced passwords with something worse",
+                "href": "https://blog.danielh.cc/blog/passwords"
             },
             {
                 "title": "Gleam v1.12.0 released",
@@ -87,20 +95,12 @@
                 "href": "https://ergaster.org/til/base64-encoded-json/"
             },
             {
+                "title": "Jujutsu support in Reviewboard",
+                "href": "https://reviews.reviewboard.org/r/14336/"
+            },
+            {
                 "title": "Bag of words, have mercy on us",
                 "href": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us"
-            },
-            {
-                "title": "Reasoning about systems' state spaces",
-                "href": "https://youtu.be/d9cM8f_qSLQ"
-            },
-            {
-                "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
-                "href": "https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas"
-            },
-            {
-                "title": "Be Careful with Go Struct Embedding",
-                "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "HTTP/1.1 must die: the desync endgame (whitepaper)",
                 "href": "https://old.reddit.com/r/netsec/comments/1mjkq38/http11_must_die_the_desync_endgame_whitepaper/"
+            },
+            {
+                "title": "Cracking the Vault: how we found zero-day flaws in authentication, identity, and authorization in HashiCorp Vault",
+                "href": "https://old.reddit.com/r/netsec/comments/1mjzm7g/cracking_the_vault_how_we_found_zeroday_flaws_in/"
             },
             {
                 "title": "See 694201 POST requests to /aura in a pentest? It's probably Salesforce - run this tool against it.",
@@ -210,10 +214,6 @@
             {
                 "title": "SharePoint ToolShell \u2013 One Request PreAuth RCE Chain",
                 "href": "https://old.reddit.com/r/netsec/comments/1m826b7/sharepoint_toolshell_one_request_preauth_rce_chain/"
-            },
-            {
-                "title": "New Advanced Stealer (SHUYAL) Targets Credentials Across 19 Popular Browsers",
-                "href": "https://old.reddit.com/r/netsec/comments/1m85euq/new_advanced_stealer_shuyal_targets_credentials/"
             }
         ]
     },
@@ -759,24 +759,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Leonardo Chiariglione: \u201cI closed MPEG on 2 June 2020\u201d",
-                "href": "https://leonardo.chiariglione.org/"
+                "title": "Infinite Pixels",
+                "href": "https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/"
             },
             {
                 "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
                 "href": "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/"
             },
             {
-                "title": "Schools are using AI surveillance to protect students. Sometimes arresting them",
-                "href": "https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a"
+                "title": "Leonardo Chiariglione: \u201cI closed MPEG on 2 June 2020\u201d",
+                "href": "https://leonardo.chiariglione.org/"
             },
             {
                 "title": "We replaced passwords with something worse",
                 "href": "https://blog.danielh.cc/blog/passwords"
             },
             {
-                "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
-                "href": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/"
+                "title": "An LLM does not need to understand MCP",
+                "href": "https://hackteam.io/blog/your-llm-does-not-care-about-mcp/"
+            },
+            {
+                "title": "Show HN: Stasher \u2013 Burn-after-read secrets from the CLI, no server, no trust",
+                "href": "https://github.com/stasher-dev/stasher-cli"
+            },
+            {
+                "title": "How AI Conquered the US Economy: A Visual FAQ",
+                "href": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
             },
             {
                 "title": "Claude Code IDE integration for Emacs",
@@ -787,64 +795,72 @@
                 "href": "item?id=44823354"
             },
             {
-                "title": "Show HN: Stasher \u2013 Burn-after-read secrets from the CLI, no server, no trust",
-                "href": "https://github.com/stasher-dev/stasher-cli"
+                "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
+                "href": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/"
+            },
+            {
+                "title": "The Whispering Earring (Scott Alexander)",
+                "href": "https://croissanthology.com/earring"
             },
             {
                 "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
                 "href": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/"
             },
             {
-                "title": "AI Ethics is being narrowed on purpose, like privacy was",
-                "href": "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose"
-            },
-            {
-                "title": "Ultra-processed foods make up more than 60% of us kids' diets",
-                "href": "https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet"
-            },
-            {
                 "title": "Show HN: Aura \u2013 Like robots.txt, but for AI actions",
                 "href": "https://github.com/osmandkitay/aura"
-            },
-            {
-                "title": "Debounce",
-                "href": "https://developer.mozilla.org/en-US/docs/Glossary/Debounce"
-            },
-            {
-                "title": "Project Hyperion: Interstellar ship design competition",
-                "href": "https://www.projecthyperion.org"
-            },
-            {
-                "title": "Rules by which a great empire may be reduced to a small one (1773)",
-                "href": "https://founders.archives.gov/documents/Franklin/01-20-02-0213"
             },
             {
                 "title": "Children's movie leads art historian to long-lost Hungarian masterpiece (2014)",
                 "href": "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece"
             },
             {
+                "title": "Baltimore Assessments Accidentally Subsidize Blight\u2013and How We Can Fix It",
+                "href": "https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally"
+            },
+            {
+                "title": "AI Ethics is being narrowed on purpose, like privacy was",
+                "href": "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose"
+            },
+            {
+                "title": "Debounce",
+                "href": "https://developer.mozilla.org/en-US/docs/Glossary/Debounce"
+            },
+            {
                 "title": "Splatshop: Efficiently Editing Large Gaussian Splat Models",
                 "href": "https://momentsingraphics.de/HPG2025.html"
             },
             {
-                "title": "Did Craigslist decimate newspapers? Legend meets reality",
-                "href": "https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/"
-            },
-            {
-                "title": "Show HN: Kitten TTS \u2013 25MB CPU-Only, Open-Source TTS Model",
-                "href": "https://github.com/KittenML/KittenTTS"
-            },
-            {
-                "title": "How AI Conquered the US Economy: A Visual FAQ",
-                "href": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
+                "title": "Maybe we should do an updated Super Cars",
+                "href": "https://spillhistorie.no/2025/07/31/maybe-we-should-do-an-updated-version/"
             },
             {
                 "title": "PastVu: Historical Photographs on Current Maps",
                 "href": "https://pastvu.com/?_nojs=1"
             },
             {
-                "title": "About AI",
-                "href": "https://priver.dev/blog/ai/about-ai/"
+                "title": "Project Hyperion: Interstellar ship design competition",
+                "href": "https://www.projecthyperion.org"
+            },
+            {
+                "title": "Arm Desktop: x86 Emulation",
+                "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/"
+            },
+            {
+                "title": "Did Craigslist decimate newspapers? Legend meets reality",
+                "href": "https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/"
+            },
+            {
+                "title": "Synthetic Biology for Space Exploration",
+                "href": "https://www.nature.com/articles/s41526-025-00488-7"
+            },
+            {
+                "title": "Show HN: Kitten TTS \u2013 25MB CPU-Only, Open-Source TTS Model",
+                "href": "https://github.com/KittenML/KittenTTS"
+            },
+            {
+                "title": "Rules by which a great empire may be reduced to a small one (1773)",
+                "href": "https://founders.archives.gov/documents/Franklin/01-20-02-0213"
             },
             {
                 "title": "A candidate giant planet imaged in the habitable zone of \u03b1  Cen A",
@@ -855,28 +871,12 @@
                 "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/"
             },
             {
-                "title": "Photographer spends years on street corner capturing same commuters daily (2017)",
-                "href": "https://mymodernmet.com/peter-funch-candid-photographs-commuters/"
-            },
-            {
                 "title": "Jules, our asynchronous coding agent",
                 "href": "https://blog.google/technology/google-labs/jules-now-available/"
             },
             {
                 "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
                 "href": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
-            },
-            {
-                "title": "We'd be better off with 9-bit bytes",
-                "href": "https://pavpanchekha.com/blog/9bit.html"
-            },
-            {
-                "title": "A fast, growable array with stable pointers in C",
-                "href": "https://danielchasehooper.com/posts/segment_array/"
-            },
-            {
-                "title": "The Bluesky Dictionary",
-                "href": "https://www.avibagla.com/blueskydictionary/"
             }
         ]
     }
