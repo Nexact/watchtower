@@ -67,16 +67,16 @@
                 "href": "https://pv.wtf/posts/taming-the-beast"
             },
             {
+                "title": "Cross-Site Request Forgery",
+                "href": "https://words.filippo.io/csrf/"
+            },
+            {
                 "title": "Arch shares its wiki strategy with Debian",
                 "href": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/"
             },
             {
                 "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
                 "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/"
-            },
-            {
-                "title": "Cross-Site Request Forgery",
-                "href": "https://words.filippo.io/csrf/"
             },
             {
                 "title": "Go 1.25 Release Notes",
@@ -116,12 +116,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/"
             },
             {
-                "title": "From Chrome renderer code exec to kernel with MSG_OOB",
-                "href": "https://old.reddit.com/r/netsec/comments/1mptuxa/from_chrome_renderer_code_exec_to_kernel_with_msg/"
-            },
-            {
                 "title": "Lessons learned from building AI hacker agents",
                 "href": "https://old.reddit.com/r/netsec/comments/1mpd5nv/lessons_learned_from_building_ai_hacker_agents/"
+            },
+            {
+                "title": "From Chrome renderer code exec to kernel with MSG_OOB",
+                "href": "https://old.reddit.com/r/netsec/comments/1mptuxa/from_chrome_renderer_code_exec_to_kernel_with_msg/"
             },
             {
                 "title": "Hacking Video Surveillance Platforms",
@@ -271,6 +271,51 @@
             {
                 "title": "Hackers leak Allianz Life data stolen in Salesforce attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/"
+            }
+        ]
+    },
+    {
+        "feedname": "krebsonsecurity",
+        "items": [
+            {
+                "title": "Microsoft Patch Tuesday, August 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/"
+            },
+            {
+                "title": "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series",
+                "href": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/"
+            },
+            {
+                "title": "Who Got Arrested in the Raid on the XSS Crime Forum?",
+                "href": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
+            },
+            {
+                "title": "Scammers Unleash Flood of Slick Online Gaming Sites",
+                "href": "https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/"
+            },
+            {
+                "title": "Phishers Target Aviation Execs to Scam Customers",
+                "href": "https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/"
+            },
+            {
+                "title": "Microsoft Fix Targets Attacks on SharePoint Zero-Day",
+                "href": "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/"
+            },
+            {
+                "title": "Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai",
+                "href": "https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/"
+            },
+            {
+                "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
+                "href": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
+            },
+            {
+                "title": "UK Arrests Four in \u2018Scattered Spider\u2019 Ransom Group",
+                "href": "https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/"
+            },
+            {
+                "title": "Microsoft Patch Tuesday, July 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/"
             }
         ]
     },
@@ -718,10 +763,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Debian 13 arrives with major updates for Linux users \u2013 what's new in 'Trixie'",
-                "href": "https://www.zdnet.com/article/debian-13-arrives-with-major-updates-for-linux-users-whats-new-in-trixie/"
-            },
-            {
                 "title": "Nginx introduces native support for ACME protocol",
                 "href": "https://blog.nginx.org/blog/native-support-for-acme-protocol"
             },
@@ -730,12 +771,12 @@
                 "href": "https://astral.sh/blog/introducing-pyx"
             },
             {
-                "title": "Show HN: Yet another memory system for LLMs",
-                "href": "https://github.com/trvon/yams"
-            },
-            {
                 "title": "Zenobia Pay \u2013 A mission to build an alternative to high-fee card networks",
                 "href": "https://zenobiapay.com/blog/open-source-payments"
+            },
+            {
+                "title": "Show HN: Yet another memory system for LLMs",
+                "href": "https://github.com/trvon/yams"
             },
             {
                 "title": "Funding Open Source like public infrastructure",
@@ -774,10 +815,6 @@
                 "href": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices"
             },
             {
-                "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
-                "href": "https://www.vaultrice.com/"
-            },
-            {
                 "title": "Open Banking and Payments Competition",
                 "href": "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/"
             },
@@ -790,16 +827,24 @@
                 "href": "https://video.golpoai.com/"
             },
             {
-                "title": "A telephony agent for my parents. Should I turn it into a full-fledged service?",
-                "href": "https://sutrasphere.com/"
-            },
-            {
                 "title": "Facial recognition vans to be rolled out across police forces in England",
                 "href": "https://news.sky.com/story/facial-recognition-vans-to-be-rolled-out-across-police-forces-in-england-13410613"
             },
             {
+                "title": "Show HN: Vaultrice \u2013 A real-time key-value store with a localStorage API",
+                "href": "https://www.vaultrice.com/"
+            },
+            {
                 "title": "Print, a one-line BASIC program",
                 "href": "https://10print.org"
+            },
+            {
+                "title": "500 Days of Math",
+                "href": "https://gmays.com/500-days-of-math/"
+            },
+            {
+                "title": "A telephony agent for my parents. Should I turn it into a full-fledged service?",
+                "href": "https://sutrasphere.com/"
             },
             {
                 "title": "Index 1.6B Keys with Automata and Rust (2015)",
@@ -818,16 +863,16 @@
                 "href": "https://github.com/PrivacyIsAllYouNeed/protector"
             },
             {
-                "title": "Study: Social media probably can't be fixed",
-                "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/"
-            },
-            {
                 "title": "Pebble Time 2 Design Reveal [video]",
                 "href": "https://www.youtube.com/watch?v=pcPzmDePH3E"
             },
             {
                 "title": "VC-backed company just killed my EU trademark for a small OSS project",
                 "href": "item?id=44883634"
+            },
+            {
+                "title": "Study: Social media probably can't be fixed",
+                "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/"
             },
             {
                 "title": "Illinois limits the use of AI in therapy and psychotherapy",
