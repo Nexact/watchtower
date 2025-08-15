@@ -19,20 +19,20 @@
                 "href": "https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend"
             },
             {
-                "title": "what is the go proxy even doing?",
-                "href": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing"
-            },
-            {
                 "title": "slog is aptly named",
                 "href": "https://flak.tedunangst.com/post/slog-is-aptly-named"
             },
             {
-                "title": "Why LLMs Can't Really Build Software",
-                "href": "https://zed.dev/blog/why-llms-cant-build-software"
+                "title": "what is the go proxy even doing?",
+                "href": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing"
             },
             {
                 "title": "An interactive guide to sensor fusion with quaternions",
                 "href": "https://quaternion.cafe/"
+            },
+            {
+                "title": "Why LLMs Can't Really Build Software",
+                "href": "https://zed.dev/blog/why-llms-cant-build-software"
             },
             {
                 "title": "Your Mac Game Is Probably Rendering Blurry",
@@ -51,6 +51,10 @@
                 "href": "https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh"
             },
             {
+                "title": "Anaphoric Macros",
+                "href": "https://letoverlambda.com/index.cl/guest/chap6.html"
+            },
+            {
                 "title": "Jujutsu with Radicle",
                 "href": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle"
             },
@@ -63,8 +67,8 @@
                 "href": "https://gambiconf.substack.com/p/development-journey-on-game-decompilation"
             },
             {
-                "title": "Anaphoric Macros",
-                "href": "https://letoverlambda.com/index.cl/guest/chap6.html"
+                "title": "Vaultwarden now supports SSO with OIDC",
+                "href": "https://news.ycombinator.com/item?id=44911560"
             },
             {
                 "title": "Fun with finite state transducers",
@@ -97,10 +101,6 @@
             {
                 "title": "Enforce Proper direnv Setup",
                 "href": "https://joeyates.info/posts/enforce-proper-direnv-setup/"
-            },
-            {
-                "title": "Snooping On Slow Builds (Using Syscalls)",
-                "href": "https://danielchasehooper.com/posts/syscall-build-snooping/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft Kills Volume Rebates in Name of 'Transparency'",
+                "href": "https://it.slashdot.org/story/25/08/15/1357205/microsoft-kills-volume-rebates-in-name-of-transparency?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "The Plan For Linux After Torvalds Has a Kernel of Truth: There Isn't One",
                 "href": "https://linux.slashdot.org/story/25/08/15/1549253/the-plan-for-linux-after-torvalds-has-a-kernel-of-truth-there-isnt-one?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Google Releases Pint-Size Gemma Open AI Model",
                 "href": "https://tech.slashdot.org/story/25/08/14/2150230/google-releases-pint-size-gemma-open-ai-model?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple Returns Blood Oxygen Monitoring to the Latest Apple Watches",
-                "href": "https://yro.slashdot.org/story/25/08/14/2018223/apple-returns-blood-oxygen-monitoring-to-the-latest-apple-watches?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,16 +767,8 @@
                 "href": "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/"
             },
             {
-                "title": "People do not believe that adding supply reduces housing prices",
-                "href": "https://www.aeaweb.org/articles?id=10.1257/jep.20241428"
-            },
-            {
-                "title": "Do Things That Don't Scale",
+                "title": "Do Things That Don't Scale (2013)",
                 "href": "https://paulgraham.com/ds.html"
-            },
-            {
-                "title": "The Timmy Trap",
-                "href": "https://jenson.org/timmy/"
             },
             {
                 "title": "Letting inmates run the asylum: Using AI to secure AI",
@@ -787,24 +779,32 @@
                 "href": "https://soonly.com/electric-fences/"
             },
             {
-                "title": "Vaultwarden commit introduces SSO using OpenID Connect",
-                "href": "https://github.com/dani-garcia/vaultwarden/pull/3899"
+                "title": "SC's proposed nuclear reboot: 'We're going to finish these reactors'",
+                "href": "https://scdailygazette.com/2025/08/14/sen-graham-on-scs-proposed-nuclear-reboot-were-going-to-finish-these-reactors/"
+            },
+            {
+                "title": "The Timmy Trap",
+                "href": "https://jenson.org/timmy/"
             },
             {
                 "title": "I let LLMs write an Elixir NIF in C; it mostly worked",
                 "href": "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/"
             },
             {
-                "title": "ARM adds neural accelerators to GPUs",
-                "href": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology"
+                "title": "Vaultwarden commit introduces SSO using OpenID Connect",
+                "href": "https://github.com/dani-garcia/vaultwarden/pull/3899"
             },
             {
                 "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
                 "href": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
             },
             {
-                "title": "SC's proposed nuclear reboot: 'We're going to finish these reactors'",
-                "href": "https://scdailygazette.com/2025/08/14/sen-graham-on-scs-proposed-nuclear-reboot-were-going-to-finish-these-reactors/"
+                "title": "ARM adds neural accelerators to GPUs",
+                "href": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology"
+            },
+            {
+                "title": "Steam can't escape the fallout from its censorship controversy",
+                "href": "https://www.polygon.com/steam-paypal-issues-censorship-visa-mastercard/"
             },
             {
                 "title": "Simulating and Visualising the Central Limit Theorem",
@@ -827,10 +827,6 @@
                 "href": "https://mitchellh.com/writing/ghostty-gtk-rewrite"
             },
             {
-                "title": "Court Records Reveal Sig Sauer Knew of Pistol Risks for Years",
-                "href": "https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/"
-            },
-            {
                 "title": "Recto \u2013 A Truly 2D Language",
                 "href": "https://masatohagiwara.net/recto.html"
             },
@@ -839,24 +835,36 @@
                 "href": "https://phys.org/news/2025-07-fairness-powerful.html"
             },
             {
+                "title": "Court Records Reveal Sig Sauer Knew of Pistol Risks for Years",
+                "href": "https://smokinggun.org/court-records-reveal-sig-sauer-knew-of-pistol-risks-for-years/"
+            },
+            {
+                "title": "People do not believe that adding supply reduces housing prices",
+                "href": "https://www.aeaweb.org/articles?id=10.1257/jep.20241428"
+            },
+            {
                 "title": "I used to know how to write in Japanese",
                 "href": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese"
+            },
+            {
+                "title": "Ransomware crews don't care about your endpoint security they killed it",
+                "href": "https://www.theregister.com/2025/08/14/edr_killers_ransomware/"
             },
             {
                 "title": "I made a real-time C/C++/Rust build visualizer",
                 "href": "https://danielchasehooper.com/posts/syscall-build-snooping/"
             },
             {
-                "title": "Citybound: City building game, microscopic models to vividly simulate organism",
-                "href": "https://aeplay.org/citybound"
+                "title": "An interactive guide to sensor fusion with quaternions",
+                "href": "https://quaternion.cafe/"
             },
             {
                 "title": "Making reliable distributed systems in the presence of software errors (2003) [pdf]",
                 "href": "http://erlang.org/download/armstrong_thesis_2003.pdf"
             },
             {
-                "title": "ADHD drug treatment and risk of negative events and outcomes",
-                "href": "https://www.bmj.com/content/390/bmj-2024-083658"
+                "title": "Citybound: City building game, microscopic models to vividly simulate organism",
+                "href": "https://aeplay.org/citybound"
             },
             {
                 "title": "Show HN: OWhisper \u2013 Ollama for realtime speech-to-text",
@@ -869,14 +877,6 @@
             {
                 "title": "Airbrush art of the 80s (2015)",
                 "href": "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/"
-            },
-            {
-                "title": "Show HN: I built a free alternative to Adobe Acrobat PDF viewer",
-                "href": "https://github.com/embedpdf/embed-pdf-viewer"
-            },
-            {
-                "title": "Steve Wozniak: Life to me was never about accomplishment, but about happiness",
-                "href": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466"
             }
         ]
     }
