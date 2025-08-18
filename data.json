@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "\u201cEmail is Easy\u201d email address quiz",
-                "href": "https://e-mail.wtf"
-            },
-            {
                 "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
                 "href": "https://vim.gabornyeki.com/"
+            },
+            {
+                "title": "\u201cEmail is Easy\u201d email address quiz",
+                "href": "https://e-mail.wtf"
             },
             {
                 "title": "I Tried Every Todo App and Ended Up With a .txt File",
@@ -27,40 +27,48 @@
                 "href": "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/monzbv/what_are_you_doing_this_week"
-            },
-            {
                 "title": "wrkflw: Validate and Run GitHub Actions locally",
                 "href": "https://github.com/bahdotsh/wrkflw"
+            },
+            {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/monzbv/what_are_you_doing_this_week"
             },
             {
                 "title": "Who does your assistant serve?",
                 "href": "https://xeiaso.net/blog/2025/who-assistant-serve/"
             },
             {
-                "title": "SystemD Service Hardening",
-                "href": "https://roguesecurity.dev/blog/systemd-hardening"
-            },
-            {
                 "title": "Recto \u2014 a truly 2D language",
                 "href": "https://masatohagiwara.net/recto.html"
             },
             {
-                "title": "A programmer's field guide to assertions",
-                "href": "https://typesanitizer.com/blog/assertions.html"
+                "title": "SystemD Service Hardening",
+                "href": "https://roguesecurity.dev/blog/systemd-hardening"
             },
             {
                 "title": "LLMs aren\u2019t world models",
                 "href": "https://yosefk.com/blog/llms-arent-world-models.html"
             },
             {
-                "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
-                "href": "https://developmentseed.org/blog/2025-08-01-obstore/"
+                "title": "A programmer's field guide to assertions",
+                "href": "https://typesanitizer.com/blog/assertions.html"
+            },
+            {
+                "title": "AsciiDots: an esolang based on ascii art",
+                "href": "https://ajanse.me/asciidots/"
             },
             {
                 "title": "GPT-5 goes hard on real-world programming",
                 "href": "https://www.omerba.dev/blog/gpt-5-evtx-zig-parser"
+            },
+            {
+                "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
+                "href": "https://developmentseed.org/blog/2025-08-01-obstore/"
+            },
+            {
+                "title": "Atmos",
+                "href": "https://github.com/atmos-lang/atmos"
             },
             {
                 "title": "Customizing Lisp REPLs",
@@ -71,16 +79,12 @@
                 "href": "https://nixos-and-flakes.thiscute.world/introduction/"
             },
             {
+                "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII"
+            },
+            {
                 "title": "BusyBee: Lightweight and observable background processing for .NET applications",
                 "href": "https://github.com/mikasjp/BusyBee"
-            },
-            {
-                "title": "AsciiDots: an esolang based on ascii art",
-                "href": "https://ajanse.me/asciidots/"
-            },
-            {
-                "title": "Atmos",
-                "href": "https://github.com/atmos-lang/atmos"
             },
             {
                 "title": "Basic dependency injection in OCaml with objects",
@@ -89,10 +93,6 @@
             {
                 "title": "Preventing NAPTR Spam",
                 "href": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/"
-            },
-            {
-                "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII"
             },
             {
                 "title": "Lobsters Blog Carnival",
@@ -116,12 +116,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/"
             },
             {
-                "title": "How attackers can execute arbitrary code at the kernel level: A critical Linux Kernel netfilter: ipset: Missing Range Check LPE",
-                "href": "https://old.reddit.com/r/netsec/comments/1mth772/how_attackers_can_execute_arbitrary_code_at_the/"
-            },
-            {
                 "title": "Intel Outside: Hacking every Intel employee and various internal websites",
                 "href": "https://old.reddit.com/r/netsec/comments/1mtnqme/intel_outside_hacking_every_intel_employee_and/"
+            },
+            {
+                "title": "How attackers can execute arbitrary code at the kernel level: A critical Linux Kernel netfilter: ipset: Missing Range Check LPE",
+                "href": "https://old.reddit.com/r/netsec/comments/1mth772/how_attackers_can_execute_arbitrary_code_at_the/"
             },
             {
                 "title": "How Exposed TeslaMate Instances Leak Sensitive Tesla Data",
@@ -271,53 +271,12 @@
         ]
     },
     {
-        "feedname": "krebsonsecurity",
-        "items": [
-            {
-                "title": "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout Scheme",
-                "href": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/"
-            },
-            {
-                "title": "Microsoft Patch Tuesday, August 2025 Edition",
-                "href": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/"
-            },
-            {
-                "title": "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series",
-                "href": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/"
-            },
-            {
-                "title": "Who Got Arrested in the Raid on the XSS Crime Forum?",
-                "href": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
-            },
-            {
-                "title": "Scammers Unleash Flood of Slick Online Gaming Sites",
-                "href": "https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/"
-            },
-            {
-                "title": "Phishers Target Aviation Execs to Scam Customers",
-                "href": "https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/"
-            },
-            {
-                "title": "Microsoft Fix Targets Attacks on SharePoint Zero-Day",
-                "href": "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/"
-            },
-            {
-                "title": "Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai",
-                "href": "https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/"
-            },
-            {
-                "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
-                "href": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
-            },
-            {
-                "title": "UK Arrests Four in \u2018Scattered Spider\u2019 Ransom Group",
-                "href": "https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/"
-            }
-        ]
-    },
-    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "'The One Feature That Keeps Me From Recommending Flip Phones'",
+                "href": "https://tech.slashdot.org/story/25/08/18/102226/the-one-feature-that-keeps-me-from-recommending-flip-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Wikipedia Volunteer Uncovers Decade-Long Campaign That Created 335 Articles About One Composer",
                 "href": "https://news.slashdot.org/story/25/08/18/0953228/wikipedia-volunteer-uncovers-decade-long-campaign-that-created-335-articles-about-one-composer?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +332,6 @@
             {
                 "title": "Former Intel Engineer Sentenced for Stealing Trade Secrets for Microsoft",
                 "href": "https://yro.slashdot.org/story/25/08/17/1123235/former-intel-engineer-sentenced-for-stealing-trade-secrets-for-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Phishing Training Is Pretty Pointless, Researchers Find",
-                "href": "https://it.slashdot.org/story/25/08/17/0134258/phishing-training-is-pretty-pointless-researchers-find?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -448,6 +403,14 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV25-523)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-523"
+            },
+            {
+                "title": "Dell security advisory (AV25-522)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-522"
+            },
             {
                 "title": "VMware security advisory (AV25-521)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-521"
@@ -639,14 +602,6 @@
             {
                 "title": "HPE security advisory (AV25-475)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-475"
-            },
-            {
-                "title": "SUSE Linux security advisory (AV25-474)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av25-474"
-            },
-            {
-                "title": "Apple security advisory (AV25-473)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-473"
             }
         ]
     },
@@ -759,28 +714,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Show HN: I built an app to block Shorts and Reels",
-                "href": "https://scrollguard.app/"
-            },
-            {
                 "title": "FFmpeg Assembly Language Lessons",
                 "href": "https://github.com/FFmpeg/asm-lessons"
+            },
+            {
+                "title": "Show HN: I built an app to block Shorts and Reels",
+                "href": "https://scrollguard.app/"
             },
             {
                 "title": "Web apps in a single, portable, self-updating, vanilla HTML file",
                 "href": "https://hyperclay.com/"
             },
             {
-                "title": "Electromechanical reshaping,  an alternative to laser eye surgery",
-                "href": "https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html"
+                "title": "Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI",
+                "href": "https://github.com/wieslawsoltes/HackerNewsWatch"
             },
             {
                 "title": "MCP doesn't need tools, it needs code",
                 "href": "https://lucumr.pocoo.org/2025/8/18/code-mcps/"
             },
             {
-                "title": "Show HN: A Minimal Hacker News Reader for Apple Watch Built with SwiftUI",
-                "href": "https://github.com/wieslawsoltes/HackerNewsWatch"
+                "title": "Electromechanical reshaping,  an alternative to laser eye surgery",
+                "href": "https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html"
+            },
+            {
+                "title": "AI is predominantly replacing outsourced, offshore workers",
+                "href": "https://www.axios.com/2025/08/18/ai-jobs-layoffs"
+            },
+            {
+                "title": "95% of AI Pilots Failing",
+                "href": "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/"
             },
             {
                 "title": "Walkie-Textie Wireless Communicator",
@@ -791,92 +754,84 @@
                 "href": "https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/"
             },
             {
-                "title": "MCP tools with dependent types",
-                "href": "https://vlaaad.github.io/mcp-tools-with-dependent-types"
+                "title": "Sky Calendar",
+                "href": "https://abramsplanetarium.org/SkyCalendar/index.html"
             },
             {
                 "title": "Class-action suit claims Otter AI records private work conversations",
                 "href": "https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit"
             },
             {
+                "title": "MCP tools with dependent types",
+                "href": "https://vlaaad.github.io/mcp-tools-with-dependent-types"
+            },
+            {
                 "title": "Vibe coding tips and tricks",
                 "href": "https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md"
-            },
-            {
-                "title": "Sky Calendar",
-                "href": "https://abramsplanetarium.org/SkyCalendar/index.html"
-            },
-            {
-                "title": "AI is predominantly replacing outsourced, offshore workers",
-                "href": "https://www.axios.com/2025/08/18/ai-jobs-layoffs"
-            },
-            {
-                "title": "Texas law gives grid operator power to disconnect data centers during crisis",
-                "href": "https://www.utilitydive.com/news/texas-law-gives-grid-operator-power-to-disconnect-data-centers-during-crisi/751587/"
-            },
-            {
-                "title": "8x19 Text Mode Font Origins",
-                "href": "https://www.os2museum.com/wp/8x19-text-mode-font-origins/"
-            },
-            {
-                "title": "SystemD Service Hardening",
-                "href": "https://roguesecurity.dev/blog/systemd-hardening"
-            },
-            {
-                "title": "When you're asking AI chatbots for answers, they're data-mining you",
-                "href": "https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/"
-            },
-            {
-                "title": "The Lives and Loves of James Baldwin",
-                "href": "https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review"
-            },
-            {
-                "title": "Claudia \u2013 Desktop companion for Claude code",
-                "href": "https://claudiacode.com/"
             },
             {
                 "title": "Typechecker Zoo",
                 "href": "https://sdiehl.github.io/typechecker-zoo/"
             },
             {
+                "title": "Texas law gives grid operator power to disconnect data centers during crisis",
+                "href": "https://www.utilitydive.com/news/texas-law-gives-grid-operator-power-to-disconnect-data-centers-during-crisi/751587/"
+            },
+            {
+                "title": "SystemD Service Hardening",
+                "href": "https://roguesecurity.dev/blog/systemd-hardening"
+            },
+            {
+                "title": "8x19 Text Mode Font Origins",
+                "href": "https://www.os2museum.com/wp/8x19-text-mode-font-origins/"
+            },
+            {
+                "title": "When you're asking AI chatbots for answers, they're data-mining you",
+                "href": "https://www.theregister.com/2025/08/18/opinion_column_ai_surveillance/"
+            },
+            {
+                "title": "Claudia \u2013 Desktop companion for Claude code",
+                "href": "https://claudiacode.com/"
+            },
+            {
+                "title": "The Lives and Loves of James Baldwin",
+                "href": "https://www.newyorker.com/magazine/2025/08/18/baldwin-a-love-story-nicholas-boggs-book-review"
+            },
+            {
                 "title": "LLMs and coding agents are a security nightmare",
                 "href": "https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare"
-            },
-            {
-                "title": "Scientists discover surprising language 'shortcuts' in birdsong \u2013 like humans",
-                "href": "https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/"
-            },
-            {
-                "title": "AI accounts impersonating doctors on social media [video]",
-                "href": "https://www.youtube.com/watch?v=iNNA-66vKPE"
-            },
-            {
-                "title": "The Enterprise Experience",
-                "href": "https://churchofturing.github.io/the-enterprise-experience.html"
-            },
-            {
-                "title": "Unification (2018)",
-                "href": "https://eli.thegreenplace.net/2018/unification/"
-            },
-            {
-                "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
-                "href": "https://github.com/ngafar/llama-scan"
             },
             {
                 "title": "Weather Radar APIs in 2025: A Founder's Complete Market Overview",
                 "href": "https://www.rainviewer.com/blog/weather-radar-apis-2025-overview.html"
             },
             {
-                "title": "Nvidia Tilus: A Tile-Level GPU Kernel Programming Language",
-                "href": "https://github.com/NVIDIA/tilus"
+                "title": "The Enterprise Experience",
+                "href": "https://churchofturing.github.io/the-enterprise-experience.html"
+            },
+            {
+                "title": "AI accounts impersonating doctors on social media [video]",
+                "href": "https://www.youtube.com/watch?v=iNNA-66vKPE"
+            },
+            {
+                "title": "Scientists discover surprising language 'shortcuts' in birdsong \u2013 like humans",
+                "href": "https://www.manchester.ac.uk/about/news/scientists-discover-surprising-language-shortcuts-in-birdsong--just-like-humans/"
+            },
+            {
+                "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
+                "href": "https://github.com/ngafar/llama-scan"
+            },
+            {
+                "title": "Unification (2018)",
+                "href": "https://eli.thegreenplace.net/2018/unification/"
             },
             {
                 "title": "Website is served from nine Neovim buffers on my old ThinkPad",
                 "href": "https://vim.gabornyeki.com/"
             },
             {
-                "title": "Show HN: OverType \u2013 A Markdown WYSIWYG editor that's just a textarea",
-                "href": "item?id=44932651"
+                "title": "Nvidia Tilus: A Tile-Level GPU Kernel Programming Language",
+                "href": "https://github.com/NVIDIA/tilus"
             }
         ]
     }
