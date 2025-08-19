@@ -27,6 +27,10 @@
                 "href": "https://timharek.no/blog/why-developers-question-everything/"
             },
             {
+                "title": "Without the futex, it's futile",
+                "href": "https://h4x0r.org/futex/"
+            },
+            {
                 "title": "Intel Outside: Hacking every Intel employee and various internal websites",
                 "href": "https://eaton-works.com/2025/08/18/intel-outside-hack/"
             },
@@ -43,16 +47,20 @@
                 "href": "https://sabrinas.space"
             },
             {
-                "title": "Without the futex, it's futile",
-                "href": "https://h4x0r.org/futex/"
-            },
-            {
                 "title": "Phrack 72",
                 "href": "https://phrack.org/issues/72/1"
             },
             {
+                "title": "Language Models as Thespians",
+                "href": "https://jstrieb.github.io/posts/llm-thespians/"
+            },
+            {
                 "title": "Understanding GNOME Shell\u2019s focus stealing prevention",
                 "href": "https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/"
+            },
+            {
+                "title": "Emacs as your video-trimming tool",
+                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
                 "title": "In-memory Filesystems in Rust",
@@ -67,16 +75,16 @@
                 "href": "https://www.al3rez.com/todo-txt-journey"
             },
             {
-                "title": "Language Models as Thespians",
-                "href": "https://jstrieb.github.io/posts/llm-thespians/"
-            },
-            {
                 "title": "The Multimedia Renaissance",
                 "href": "https://giannirosato.com/blog/post/the-multimedia-renaissance/"
             },
             {
                 "title": "The Lawnmower IRC Server",
                 "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
+            },
+            {
+                "title": "Making a floppy disk from scratch",
+                "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8"
             },
             {
                 "title": "\u201cEmail is Easy\u201d email address quiz",
@@ -91,16 +99,8 @@
                 "href": "https://www.omerba.dev/blog/gpt-5-evtx-zig-parser"
             },
             {
-                "title": "Making a floppy disk from scratch",
-                "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8"
-            },
-            {
                 "title": "Basic dependency injection in OCaml with objects",
                 "href": "https://gr-im.github.io/a/dependency-injection.html"
-            },
-            {
-                "title": "Why I prefer rST [reStructuredText] to Markdown (2024)",
-                "href": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/"
             }
         ]
     },
@@ -132,12 +132,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1mulz7f/deep_learning_with_leagues_championship_algorithm/"
             },
             {
-                "title": "Trivial C# Random Exploitation",
-                "href": "https://old.reddit.com/r/netsec/comments/1muf1om/trivial_c_random_exploitation/"
-            },
-            {
                 "title": "Enumerating AWS the quiet way: CloudTrail-free discovery with Resource Explorer | Datadog Security Labs",
                 "href": "https://old.reddit.com/r/netsec/comments/1mumxdo/enumerating_aws_the_quiet_way_cloudtrailfree/"
+            },
+            {
+                "title": "Trivial C# Random Exploitation",
+                "href": "https://old.reddit.com/r/netsec/comments/1muf1om/trivial_c_random_exploitation/"
             },
             {
                 "title": "Intel Outside: Hacking every Intel employee and various internal websites",
@@ -221,6 +221,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Elastic rejects claims of a zero-day RCE flaw in Defend EDR",
+                "href": "https://www.bleepingcomputer.com/news/security/elastic-rejects-claims-of-a-zero-day-rce-flaw-in-defend-edr/"
+            },
+            {
+                "title": "OpenAI releases $4 ChatGPT plan, but it's not available in the US for now",
+                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-4-chatgpt-plan-but-its-not-available-in-the-us-for-now/"
+            },
+            {
                 "title": "Pharma firm Inotiv says ransomware attack impacted operations",
                 "href": "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-says-ransomware-attack-impacted-operations/"
             },
@@ -263,14 +271,6 @@
             {
                 "title": "Microsoft: Recent Windows updates may fail to install via WUSA",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/"
-            },
-            {
-                "title": "HR giant Workday discloses data breach after Salesforce attack",
-                "href": "https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/"
-            },
-            {
-                "title": "OpenAI releases warmer GPT-5 personality, but only for non thinking model",
-                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/"
             }
         ]
     },
@@ -775,20 +775,28 @@
                 "href": "https://www.svendewaerhert.com/blog/telescope-mount/"
             },
             {
+                "title": "Launch HN: Parachute (YC S25) \u2013 Guardrails for Clinical AI",
+                "href": "item?id=44952246"
+            },
+            {
+                "title": "Candle Flame Oscillations as a Clock",
+                "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/"
+            },
+            {
                 "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
                 "href": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
             },
             {
-                "title": "Launch HN: Parachute (YC S25) \u2013 Guardrails for Clinical AI",
-                "href": "item?id=44952246"
+                "title": "Emacs as your video-trimming tool",
+                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
                 "title": "Launch HN: Uplift (YC S25) \u2013 Voice models for under-served languages",
                 "href": "item?id=44950661"
             },
             {
-                "title": "Candle Flame Oscillations as a Clock",
-                "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/"
+                "title": "How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos",
+                "href": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
             },
             {
                 "title": "Lazy-brush \u2013 smooth drawing with mouse or finger",
@@ -815,24 +823,28 @@
                 "href": "https://tangled.sh/@adam.tngl.sh/vim-beancounting"
             },
             {
-                "title": "Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering",
-                "href": "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27"
-            },
-            {
                 "title": "Positron, a New Data Science IDE",
                 "href": "https://posit.co/blog/positron-product-announcement-aug-2025/"
             },
             {
-                "title": "How to Build a Medieval Castle",
-                "href": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/"
+                "title": "Guile bindings for Sway window manager",
+                "href": "https://github.com/ebeem/guile-swayer"
             },
             {
                 "title": "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
                 "href": "https://www.hitachi.com/New/cnews/060206.html"
             },
             {
-                "title": "Guile bindings for Sway window manager",
-                "href": "https://github.com/ebeem/guile-swayer"
+                "title": "How to Build a Medieval Castle",
+                "href": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/"
+            },
+            {
+                "title": "Octopolis and Octlantis",
+                "href": "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis"
+            },
+            {
+                "title": "Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering",
+                "href": "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27"
             },
             {
                 "title": "EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)",
@@ -843,44 +855,32 @@
                 "href": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"
             },
             {
-                "title": "Octopolis and Octlantis",
-                "href": "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis"
+                "title": "Ted Chiang: The Secret Third Thing",
+                "href": "https://linch.substack.com/p/ted-chiang-review"
             },
             {
                 "title": "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
                 "href": "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/"
             },
             {
-                "title": "Ted Chiang: The Secret Third Thing",
-                "href": "https://linch.substack.com/p/ted-chiang-review"
-            },
-            {
                 "title": "Counter-Strike: A billion-dollar game built in a dorm room",
                 "href": "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html"
-            },
-            {
-                "title": "The Life and Death of London's Crystal Palace (2021)",
-                "href": "https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/"
             },
             {
                 "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
                 "href": "https://github.com/tiny-tpu-v2/tiny-tpu"
             },
             {
-                "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
-                "href": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/"
+                "title": "The Life and Death of London's Crystal Palace (2021)",
+                "href": "https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/"
             },
             {
                 "title": "Show HN: I built an app to block Shorts and Reels",
                 "href": "https://scrollguard.app/"
             },
             {
-                "title": "Left to Right Programming",
-                "href": "https://graic.net/p/left-to-right-programming"
-            },
-            {
-                "title": "Obsidian Bases",
-                "href": "https://help.obsidian.md/bases"
+                "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
+                "href": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/"
             }
         ]
     }
