@@ -23,12 +23,16 @@
                 "href": "https://matklad.github.io/2025/08/16/reserve-first.html"
             },
             {
+                "title": "Without the futex, it's futile",
+                "href": "https://h4x0r.org/futex/"
+            },
+            {
                 "title": "Why developers question everything",
                 "href": "https://timharek.no/blog/why-developers-question-everything/"
             },
             {
-                "title": "Without the futex, it's futile",
-                "href": "https://h4x0r.org/futex/"
+                "title": "Emacs as your video-trimming tool",
+                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
                 "title": "Intel Outside: Hacking every Intel employee and various internal websites",
@@ -51,40 +55,36 @@
                 "href": "https://phrack.org/issues/72/1"
             },
             {
+                "title": "The Lawnmower IRC Server",
+                "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
+            },
+            {
                 "title": "Language Models as Thespians",
                 "href": "https://jstrieb.github.io/posts/llm-thespians/"
-            },
-            {
-                "title": "Understanding GNOME Shell\u2019s focus stealing prevention",
-                "href": "https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/"
-            },
-            {
-                "title": "Emacs as your video-trimming tool",
-                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
                 "title": "In-memory Filesystems in Rust",
                 "href": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/"
             },
             {
-                "title": "All ATC message routing in Germany was done through Emacs (2021)",
-                "href": "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/"
-            },
-            {
-                "title": "I Tried Every Todo App and Ended Up With a .txt File",
-                "href": "https://www.al3rez.com/todo-txt-journey"
+                "title": "Understanding GNOME Shell\u2019s focus stealing prevention",
+                "href": "https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/"
             },
             {
                 "title": "The Multimedia Renaissance",
                 "href": "https://giannirosato.com/blog/post/the-multimedia-renaissance/"
             },
             {
-                "title": "The Lawnmower IRC Server",
-                "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
+                "title": "All ATC message routing in Germany was done through Emacs (2021)",
+                "href": "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/"
             },
             {
                 "title": "Making a floppy disk from scratch",
                 "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8"
+            },
+            {
+                "title": "I Tried Every Todo App and Ended Up With a .txt File",
+                "href": "https://www.al3rez.com/todo-txt-journey"
             },
             {
                 "title": "\u201cEmail is Easy\u201d email address quiz",
@@ -120,12 +120,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1mum7o6/grapheneos_another_contributor_attacked_banned_by/"
             },
             {
-                "title": "Phrack 72",
-                "href": "https://old.reddit.com/r/netsec/comments/1mu5o6p/phrack_72/"
-            },
-            {
                 "title": "How We Exploited CodeRabbit: From a Simple PR to RCE and Write Access on 1M Repositories",
                 "href": "https://old.reddit.com/r/netsec/comments/1mumb6z/how_we_exploited_coderabbit_from_a_simple_pr_to/"
+            },
+            {
+                "title": "Phrack 72",
+                "href": "https://old.reddit.com/r/netsec/comments/1mu5o6p/phrack_72/"
             },
             {
                 "title": "Deep learning with leagues championship algorithm based intrusion detection",
@@ -150,6 +150,10 @@
             {
                 "title": "Git 2.51: Preparing for the future with SHA-256",
                 "href": "https://old.reddit.com/r/netsec/comments/1mukaxf/git_251_preparing_for_the_future_with_sha256/"
+            },
+            {
+                "title": "pyghidra-mcp: Headless Ghidra MCP Server for Project-Wide, Multi-Binary Analysis",
+                "href": "https://old.reddit.com/r/netsec/comments/1muobce/pyghidramcp_headless_ghidra_mcp_server_for/"
             },
             {
                 "title": "\u201cVibe Hacking\u201d: Abusing Developer Trust in Cursor and VS Code Remote Development",
@@ -210,10 +214,6 @@
             {
                 "title": "Zero Click, One NTLM: Microsoft Security Patch Bypass (CVE-2025-50154)",
                 "href": "https://old.reddit.com/r/netsec/comments/1mof7r5/zero_click_one_ntlm_microsoft_security_patch/"
-            },
-            {
-                "title": "Windows OOBE Breakout Revived",
-                "href": "https://old.reddit.com/r/netsec/comments/1mo44fs/windows_oobe_breakout_revived/"
             }
         ]
     },
@@ -763,12 +763,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Chrome intends to remove XSLT from the HTML spec",
-                "href": "https://github.com/whatwg/html/pull/11563"
+                "title": "How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos",
+                "href": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
             },
             {
                 "title": "Without the Futex, It's Futile",
                 "href": "https://h4x0r.org/futex/"
+            },
+            {
+                "title": "Emacs as your video-trimming tool",
+                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
+            },
+            {
+                "title": "\"Remove mentions of XSLT from the html spec\"",
+                "href": "https://github.com/whatwg/html/pull/11563"
+            },
+            {
+                "title": "Candle Flame Oscillations as a Clock",
+                "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/"
             },
             {
                 "title": "Custom telescope mount using harmonic drives and ESP32",
@@ -779,24 +791,12 @@
                 "href": "item?id=44952246"
             },
             {
-                "title": "Candle Flame Oscillations as a Clock",
-                "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/"
-            },
-            {
-                "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
-                "href": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
-            },
-            {
-                "title": "Emacs as your video-trimming tool",
-                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
-            },
-            {
                 "title": "Launch HN: Uplift (YC S25) \u2013 Voice models for under-served languages",
                 "href": "item?id=44950661"
             },
             {
-                "title": "How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos",
-                "href": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
+                "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
+                "href": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
             },
             {
                 "title": "Lazy-brush \u2013 smooth drawing with mouse or finger",
@@ -805,6 +805,10 @@
             {
                 "title": "Geotoy \u2013 Shadertoy for 3D Geometry",
                 "href": "https://3d.ameo.design/geotoy"
+            },
+            {
+                "title": "Positron, a New Data Science IDE",
+                "href": "https://posit.co/blog/positron-product-announcement-aug-2025/"
             },
             {
                 "title": "Prime Number Grid",
@@ -823,64 +827,60 @@
                 "href": "https://tangled.sh/@adam.tngl.sh/vim-beancounting"
             },
             {
-                "title": "Positron, a New Data Science IDE",
-                "href": "https://posit.co/blog/positron-product-announcement-aug-2025/"
+                "title": "As Alaska's salmon plummet, scientists home in on the killer \u2013 Science \u2013 AAAS",
+                "href": "https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer"
             },
             {
-                "title": "Guile bindings for Sway window manager",
-                "href": "https://github.com/ebeem/guile-swayer"
-            },
-            {
-                "title": "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
-                "href": "https://www.hitachi.com/New/cnews/060206.html"
-            },
-            {
-                "title": "How to Build a Medieval Castle",
-                "href": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/"
-            },
-            {
-                "title": "Octopolis and Octlantis",
-                "href": "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis"
+                "title": "CEO pay at top US companies accelerates at fastest pace in 4 years",
+                "href": "https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269"
             },
             {
                 "title": "Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering",
                 "href": "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27"
             },
             {
+                "title": "Show HN: Chroma Cloud \u2013 serverless search database for AI",
+                "href": "https://trychroma.com/cloud"
+            },
+            {
+                "title": "Guile bindings for Sway window manager",
+                "href": "https://github.com/ebeem/guile-swayer"
+            },
+            {
+                "title": "The Mysterious Underground City Found in a Man's Basement",
+                "href": "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps"
+            },
+            {
+                "title": "How to Build a Medieval Castle",
+                "href": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/"
+            },
+            {
+                "title": "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
+                "href": "https://www.hitachi.com/New/cnews/060206.html"
+            },
+            {
+                "title": "Staff disquiet as Alan Turing Institute faces identity crisis",
+                "href": "https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis"
+            },
+            {
                 "title": "EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)",
                 "href": "https://github.com/eloqdata/eloqkv"
+            },
+            {
+                "title": "Octopolis and Octlantis",
+                "href": "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis"
             },
             {
                 "title": "Show HN: Whispering \u2013 Open-source, local-first dictation you can trust",
                 "href": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"
             },
             {
-                "title": "Ted Chiang: The Secret Third Thing",
-                "href": "https://linch.substack.com/p/ted-chiang-review"
-            },
-            {
-                "title": "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
-                "href": "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/"
-            },
-            {
                 "title": "Counter-Strike: A billion-dollar game built in a dorm room",
                 "href": "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html"
             },
             {
-                "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
-                "href": "https://github.com/tiny-tpu-v2/tiny-tpu"
-            },
-            {
-                "title": "The Life and Death of London's Crystal Palace (2021)",
-                "href": "https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/"
-            },
-            {
-                "title": "Show HN: I built an app to block Shorts and Reels",
-                "href": "https://scrollguard.app/"
-            },
-            {
-                "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
-                "href": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/"
+                "title": "Ted Chiang: The Secret Third Thing",
+                "href": "https://linch.substack.com/p/ted-chiang-review"
             }
         ]
     }
