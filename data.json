@@ -23,6 +23,10 @@
                 "href": "https://mmapped.blog/posts/44-tag-based-logging"
             },
             {
+                "title": "Const Trait Counterexamples",
+                "href": "https://dbeef.dev/const-trait-counterexamples/"
+            },
+            {
                 "title": "Emacs as your video-trimming tool",
                 "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
@@ -35,16 +39,16 @@
                 "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/"
             },
             {
-                "title": "Without the futex, it's futile",
-                "href": "https://h4x0r.org/futex/"
-            },
-            {
                 "title": "Monoid-augmented FIFOs, deamortised",
                 "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
             },
             {
                 "title": "Why is my device a touchpad and a mouse and a keyboard?",
                 "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html"
+            },
+            {
+                "title": "Without the futex, it's futile",
+                "href": "https://h4x0r.org/futex/"
             },
             {
                 "title": "The Lawnmower IRC Server",
@@ -61,6 +65,10 @@
             {
                 "title": "Language Models as Thespians",
                 "href": "https://jstrieb.github.io/posts/llm-thespians/"
+            },
+            {
+                "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+                "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/"
             },
             {
                 "title": "Building a Regex Engine",
@@ -83,10 +91,6 @@
                 "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html"
             },
             {
-                "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-                "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/"
-            },
-            {
                 "title": "Drunken Bishop (2023)",
                 "href": "https://re.factorcode.org/2023/08/drunken-bishop.html"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Why developers question everything",
                 "href": "https://timharek.no/blog/why-developers-question-everything/"
-            },
-            {
-                "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
-                "href": "https://vim.gabornyeki.com/"
             }
         ]
     },
@@ -221,6 +221,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Major password managers can leak logins in clickjacking attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/"
+            },
+            {
                 "title": "Microsoft investigates outage impacting Copilot, Office.com",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/"
             },
@@ -267,10 +271,6 @@
             {
                 "title": "Microsoft: August security updates break Windows recovery, reset",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/"
-            },
-            {
-                "title": "NY Business Council discloses data breach affecting 47,000 people",
-                "href": "https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/"
             }
         ]
     },
@@ -322,6 +322,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Is Rotten Tomatoes Still Reliable? A Statistical Analysis",
+                "href": "https://entertainment.slashdot.org/story/25/08/20/1436205/is-rotten-tomatoes-still-reliable-a-statistical-analysis?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Microsoft Warns Excel's New AI Function 'Can Give Incorrect Responses' in High-Stakes Scenarios",
                 "href": "https://it.slashdot.org/story/25/08/20/128217/microsoft-warns-excels-new-ai-function-can-give-incorrect-responses-in-high-stakes-scenarios?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -377,10 +381,6 @@
             {
                 "title": "Three-Quarters of Countries Face Below-Replacement Fertility by 2050",
                 "href": "https://news.slashdot.org/story/25/08/19/162258/three-quarters-of-countries-face-below-replacement-fertility-by-2050?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Gates Funds $1 Million AI Alzheimer's Prize",
-                "href": "https://science.slashdot.org/story/25/08/19/150204/gates-funds-1-million-ai-alzheimers-prize?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,16 +767,16 @@
                 "href": "https://visualrambling.space/moving-objects-in-3d/"
             },
             {
-                "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-                "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/"
-            },
-            {
                 "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
                 "href": "https://tidewave.ai/blog/tidewave-web-phoenix-rails"
             },
             {
-                "title": "Show HN: Project management system for Claude Code",
-                "href": "https://github.com/automazeio/ccpm"
+                "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+                "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/"
+            },
+            {
+                "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
+                "href": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3"
             },
             {
                 "title": "AGENTS.md \u2013 Open format for guiding coding agents",
@@ -799,6 +799,10 @@
                 "href": "https://muffinman.io/blog/invaders/"
             },
             {
+                "title": "Show HN: Typed-arrow \u2013 compile\u2011time Arrow schemas for Rust",
+                "href": "https://github.com/tonbo-io/typed-arrow"
+            },
+            {
                 "title": "Ask HN: Why does the US Visa application website do a port-scan of my network?",
                 "href": "item?id=44959073"
             },
@@ -807,12 +811,12 @@
                 "href": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/"
             },
             {
-                "title": "Copilot broke audit logs, but Microsoft won't tell customers",
-                "href": "https://pistachioapp.com/blog/copilot-broke-your-audit-log"
+                "title": "Show HN: Project management system for Claude Code",
+                "href": "https://github.com/automazeio/ccpm"
             },
             {
-                "title": "The End of Handwriting",
-                "href": "https://www.wired.com/story/the-end-of-handwriting/"
+                "title": "Copilot broke audit logs, but Microsoft won't tell customers",
+                "href": "https://pistachioapp.com/blog/copilot-broke-your-audit-log"
             },
             {
                 "title": "Mirrorshades: The Cyberpunk Anthology (1986)",
@@ -821,6 +825,10 @@
             {
                 "title": "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
                 "href": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"
+            },
+            {
+                "title": "The End of Handwriting",
+                "href": "https://www.wired.com/story/the-end-of-handwriting/"
             },
             {
                 "title": "D2 (text to diagram tool) now supports ASCII renders",
@@ -835,52 +843,44 @@
                 "href": "https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc"
             },
             {
-                "title": "Fast and observable background job processing for .NET",
-                "href": "https://github.com/mikasjp/BusyBee"
-            },
-            {
                 "title": "Gaussian Processes for Machine Learning (2006) [pdf]",
                 "href": "https://gaussianprocess.org/gpml/chapters/RW.pdf"
             },
             {
-                "title": "Customizing Lisp REPLs",
-                "href": "https://aartaka.me/customize-repl.html"
+                "title": "Fast and observable background job processing for .NET",
+                "href": "https://github.com/mikasjp/BusyBee"
             },
             {
                 "title": "How I Made Ruby Faster Than Ruby",
                 "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster"
             },
             {
-                "title": "Emacs as your video-trimming tool",
-                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
+                "title": "Customizing Lisp REPLs",
+                "href": "https://aartaka.me/customize-repl.html"
             },
             {
-                "title": "Graphene capacitors achieve rapid, high-depth modulation of terahertz waves",
-                "href": "https://phys.org/news/2025-08-graphene-capacitors-rapid-high-depth.html"
+                "title": "Emacs as your video-trimming tool",
+                "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
                 "title": "Rails Charts Using ECharts from Apache",
                 "href": "https://github.com/railsjazz/rails_charts"
             },
             {
-                "title": "Show HN: I've made an easy to extend and flexible JavaScript logger",
-                "href": "https://github.com/inshinrei/halua"
-            },
-            {
-                "title": "Databricks is raising a Series K Investment at >$100B valuation",
-                "href": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation"
+                "title": "The value of hitting the HN front page",
+                "href": "https://www.mooreds.com/wordpress/archives/3530"
             },
             {
                 "title": "Candle Flame Oscillations as a Clock",
                 "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/"
             },
             {
-                "title": "The value of hitting the HN front page",
-                "href": "https://www.mooreds.com/wordpress/archives/3530"
-            },
-            {
                 "title": "Without the futex, it's futile",
                 "href": "https://h4x0r.org/futex/"
+            },
+            {
+                "title": "Databricks is raising a Series K Investment at >$100B valuation",
+                "href": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation"
             }
         ]
     }
