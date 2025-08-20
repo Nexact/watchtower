@@ -11,12 +11,12 @@
                 "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
-                "title": "Left to Right Programming",
-                "href": "https://graic.net/p/left-to-right-programming"
+                "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
+                "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/"
             },
             {
-                "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-                "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/"
+                "title": "Left to Right Programming",
+                "href": "https://graic.net/p/left-to-right-programming"
             },
             {
                 "title": "Without the futex, it's futile",
@@ -27,8 +27,8 @@
                 "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
             },
             {
-                "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
-                "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/"
+                "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
+                "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/"
             },
             {
                 "title": "Language Models as Thespians",
@@ -37,6 +37,10 @@
             {
                 "title": "Google is killing the open web",
                 "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/"
+            },
+            {
+                "title": "The long season of langdev",
+                "href": "https://blog.fogus.me/langdev/long-season.html"
             },
             {
                 "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
@@ -59,8 +63,16 @@
                 "href": "https://eaton-works.com/2025/08/18/intel-outside-hack/"
             },
             {
+                "title": "Monoid-augmented FIFOs, deamortised",
+                "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
+            },
+            {
                 "title": "Prime Number Grid",
                 "href": "https://susam.net/primegrid.html"
+            },
+            {
+                "title": "Drunken Bishop (2023)",
+                "href": "https://re.factorcode.org/2023/08/drunken-bishop.html"
             },
             {
                 "title": "The peculiar case of Japanese web design (2022)",
@@ -71,10 +83,6 @@
                 "href": "http://bitmason.blogspot.com/2024/02/the-sinking-of-itanic-free-ebook.html"
             },
             {
-                "title": "The long season of langdev",
-                "href": "https://blog.fogus.me/langdev/long-season.html"
-            },
-            {
                 "title": "In-memory Filesystems in Rust",
                 "href": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/"
             },
@@ -83,24 +91,16 @@
                 "href": "https://phrack.org/issues/72/1"
             },
             {
+                "title": "Some Tricks for List Manipulation",
+                "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html"
+            },
+            {
                 "title": "Jepsen 18: Serializable Mom by Kyle Kingsbury",
                 "href": "https://youtu.be/dpTxWePmW5Y"
             },
             {
-                "title": "The Multimedia Renaissance",
-                "href": "https://giannirosato.com/blog/post/the-multimedia-renaissance/"
-            },
-            {
-                "title": "Drunken Bishop (2023)",
-                "href": "https://re.factorcode.org/2023/08/drunken-bishop.html"
-            },
-            {
-                "title": "Making a floppy disk from scratch",
-                "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8"
-            },
-            {
-                "title": "Monoid-augmented FIFOs, deamortised",
-                "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
+                "title": "Type-machine",
+                "href": "https://arthi-chaud.github.io/posts/type-machine/"
             }
         ]
     },
@@ -144,12 +144,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1muobce/pyghidramcp_headless_ghidra_mcp_server_for/"
             },
             {
-                "title": "Intel Outside: Hacking every Intel employee and various internal websites",
-                "href": "https://old.reddit.com/r/netsec/comments/1mtnqme/intel_outside_hacking_every_intel_employee_and/"
-            },
-            {
                 "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
                 "href": "https://old.reddit.com/r/netsec/comments/1mukfs9/beware_the_false_falsepositive_how_to_distinguish/"
+            },
+            {
+                "title": "Intel Outside: Hacking every Intel employee and various internal websites",
+                "href": "https://old.reddit.com/r/netsec/comments/1mtnqme/intel_outside_hacking_every_intel_employee_and/"
             },
             {
                 "title": "\u201cVibe Hacking\u201d: Abusing Developer Trust in Cursor and VS Code Remote Development",
@@ -275,53 +275,12 @@
         ]
     },
     {
-        "feedname": "krebsonsecurity",
-        "items": [
-            {
-                "title": "Oregon Man Charged in \u2018Rapper Bot\u2019 DDoS Service",
-                "href": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/"
-            },
-            {
-                "title": "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout Scheme",
-                "href": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/"
-            },
-            {
-                "title": "Microsoft Patch Tuesday, August 2025 Edition",
-                "href": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/"
-            },
-            {
-                "title": "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series",
-                "href": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/"
-            },
-            {
-                "title": "Who Got Arrested in the Raid on the XSS Crime Forum?",
-                "href": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
-            },
-            {
-                "title": "Scammers Unleash Flood of Slick Online Gaming Sites",
-                "href": "https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/"
-            },
-            {
-                "title": "Phishers Target Aviation Execs to Scam Customers",
-                "href": "https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/"
-            },
-            {
-                "title": "Microsoft Fix Targets Attacks on SharePoint Zero-Day",
-                "href": "https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/"
-            },
-            {
-                "title": "Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai",
-                "href": "https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/"
-            },
-            {
-                "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
-                "href": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/"
-            }
-        ]
-    },
-    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "India's Got Time",
+                "href": "https://news.slashdot.org/story/25/08/19/2356238/indias-got-time?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Apple is Reportedly Making More of Its New iPhones in India Instead of China",
                 "href": "https://apple.slashdot.org/story/25/08/19/2351234/apple-is-reportedly-making-more-of-its-new-iphones-in-india-instead-of-china?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -377,10 +336,6 @@
             {
                 "title": "US FTC Sues Ticket Reseller For Evading Taylor Swift's Eras Tour Ticket Limits",
                 "href": "https://news.slashdot.org/story/25/08/19/0716252/us-ftc-sues-ticket-reseller-for-evading-taylor-swifts-eras-tour-ticket-limits?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "US Spy Chief Gabbard Says UK Agreed To Drop 'Backdoor' Mandate for Apple",
-                "href": "https://apple.slashdot.org/story/25/08/19/0345252/us-spy-chief-gabbard-says-uk-agreed-to-drop-backdoor-mandate-for-apple?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,16 +746,12 @@
                 "href": "https://d2lang.com/blog/ascii/"
             },
             {
-                "title": "Tiny, removable \"mini SSD\" could eventually be a big deal for gaming handhelds",
-                "href": "https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/"
-            },
-            {
-                "title": "Monoid-Augmented FIFOs, Deamortised",
-                "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
-            },
-            {
                 "title": "The End of Handwriting",
                 "href": "https://www.wired.com/story/the-end-of-handwriting/"
+            },
+            {
+                "title": "How I Made Ruby Faster Than Ruby",
+                "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster"
             },
             {
                 "title": "Drunken Bishop (2023)",
@@ -811,20 +762,20 @@
                 "href": "https://xenodium.com/emacs-as-your-video-trimming-tool"
             },
             {
-                "title": "The Troubling Lines That Columbia Is Drawing",
-                "href": "https://www.newyorker.com/news/the-lede/the-troubling-lines-that-columbia-is-drawing"
+                "title": "Monoid-Augmented FIFOs, Deamortised",
+                "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
             },
             {
-                "title": "Physically Based Rendering in Filament",
-                "href": "https://google.github.io/filament/Filament.md.html#overview"
+                "title": "Rails Charts Using ECharts from Apache",
+                "href": "https://github.com/railsjazz/rails_charts"
             },
             {
                 "title": "How to Scale Your Model: How to Think About GPUs",
                 "href": "https://jax-ml.github.io/scaling-book/gpus/"
             },
             {
-                "title": "Rails Charts Using ECharts from Apache",
-                "href": "https://github.com/railsjazz/rails_charts"
+                "title": "Physically Based Rendering in Filament",
+                "href": "https://google.github.io/filament/Filament.md.html#overview"
             },
             {
                 "title": "Without the futex, it's futile",
@@ -835,8 +786,20 @@
                 "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/"
             },
             {
+                "title": "We\u2019re Not So Special: A new book challenges human exceptionalism",
+                "href": "https://democracyjournal.org/magazine/78/were-not-so-special/"
+            },
+            {
                 "title": "CRDT: Text Buffer",
                 "href": "https://madebyevan.com/algos/crdt-text-buffer/"
+            },
+            {
+                "title": "The Value of Hitting the HN Front Page",
+                "href": "https://www.mooreds.com/wordpress/archives/3530"
+            },
+            {
+                "title": "How Figma\u2019s multiplayer technology works (2019)",
+                "href": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
             },
             {
                 "title": "AnduinOS",
@@ -847,8 +810,12 @@
                 "href": "https://github.com/openai/openai-reflect"
             },
             {
-                "title": "How Figma\u2019s multiplayer technology works (2019)",
-                "href": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
+                "title": "Calling Their Bluff",
+                "href": "https://anguscheng.com/post/2025-08-13-calling-their-bluff/"
+            },
+            {
+                "title": "China blocked all HTTPS connection abroad for 1 hour in midnight",
+                "href": "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/"
             },
             {
                 "title": "Why Semantic Layers Matter (and how to build one with DuckDB)",
@@ -857,10 +824,6 @@
             {
                 "title": "Custom telescope mount using harmonic drives and ESP32",
                 "href": "https://www.svendewaerhert.com/blog/telescope-mount/"
-            },
-            {
-                "title": "The Value of Hitting the HN Front Page",
-                "href": "https://www.mooreds.com/wordpress/archives/3530"
             },
             {
                 "title": "Launch HN: Uplift (YC S25) \u2013 Voice models for under-served languages",
@@ -873,14 +836,6 @@
             {
                 "title": "A renovation project in Turkey led to the discovery of a lost city (2023)",
                 "href": "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps"
-            },
-            {
-                "title": "Passive Microwave Repeaters",
-                "href": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html"
-            },
-            {
-                "title": "Geotoy \u2013 Shadertoy for 3D Geometry",
-                "href": "https://3d.ameo.design/geotoy"
             }
         ]
     }
