@@ -31,12 +31,16 @@
                 "href": "https://github.com/whit3rabbit/bubbletea-rs"
             },
             {
-                "title": "Why Was Apache Kafka Created?",
-                "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created"
+                "title": "RFC 9839 and Bad Unicode",
+                "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839"
             },
             {
                 "title": "A string formatting library in 65 lines of C++",
                 "href": "https://riki.house/fmt"
+            },
+            {
+                "title": "Why Was Apache Kafka Created?",
+                "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created"
             },
             {
                 "title": "On the use of LLM assistants for kernel development",
@@ -63,10 +67,6 @@
                 "href": "https://maggieappleton.com/ai-enlightenment"
             },
             {
-                "title": "RFC 9839 and Bad Unicode",
-                "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839"
-            },
-            {
                 "title": "The issue of anti-cheat on Linux",
                 "href": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
             },
@@ -77,6 +77,10 @@
             {
                 "title": "Closing the Nix Gap: From Environments to Packaged Applications for Rust",
                 "href": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/"
+            },
+            {
+                "title": "io_uring, kTLS and Rust for zero syscall HTTPS server",
+                "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html"
             },
             {
                 "title": "Optimizing our way through Metroid",
@@ -97,10 +101,6 @@
             {
                 "title": "Rethinking the Linux cloud stack for confidential VMs",
                 "href": "https://lwn.net/Articles/1030818/"
-            },
-            {
-                "title": "w65c832: W65C832 (32 bit 6502) in an FPGA",
-                "href": "https://github.com/mikeakohn/w65c832"
             }
         ]
     },
@@ -775,12 +775,12 @@
                 "href": "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch"
             },
             {
-                "title": "Developer's block",
-                "href": "https://underlap.org/developers-block/"
-            },
-            {
                 "title": "Librebox: An open source, Roblox-compatible game engine",
                 "href": "https://github.com/librebox-devs/librebox-demo"
+            },
+            {
+                "title": "Developer's block",
+                "href": "https://underlap.org/developers-block/"
             },
             {
                 "title": "WebR \u2013 R in the Browser",
@@ -807,16 +807,16 @@
                 "href": "https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445"
             },
             {
-                "title": "The ROI of Exercise",
-                "href": "https://herman.bearblog.dev/exercise/"
+                "title": "Show HN: JavaScript-free (X)HTML Includes",
+                "href": "https://github.com/Evidlo/xsl-website"
             },
             {
                 "title": "I'm too dumb for Zig's new IO interface",
                 "href": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
             },
             {
-                "title": "Show HN: JavaScript-free (X)HTML Includes",
-                "href": "https://github.com/Evidlo/xsl-website"
+                "title": "Nitro: A tiny but flexible init system and process supervisor",
+                "href": "https://git.vuxu.org/nitro/about/"
             },
             {
                 "title": "David Klein's TWA Posters (2018)",
@@ -827,32 +827,36 @@
                 "href": "https://epan.land/essays/2025-8_FancyRugDilemma"
             },
             {
-                "title": "Nitro: A tiny but flexible init system and process supervisor",
-                "href": "https://git.vuxu.org/nitro/about/"
+                "title": "ArduinoOS (2017)",
+                "href": "https://github.com/DrBubble/ArduinoOS"
             },
             {
                 "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
                 "href": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/"
             },
             {
+                "title": "I run a full Linux desktop in Docker just because I can",
+                "href": "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/"
+            },
+            {
                 "title": "The first Media over QUIC CDN: Cloudflare",
                 "href": "https://moq.dev/blog/first-cdn/"
+            },
+            {
+                "title": "Websites and web developers mostly don't care about client-side problems",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients"
             },
             {
                 "title": "The theory and practice of selling the Aga cooker (1935) [pdf]",
                 "href": "https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf"
             },
             {
-                "title": "I run a full Linux desktop in Docker just because I can",
-                "href": "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/"
+                "title": "The ROI of Exercise",
+                "href": "https://herman.bearblog.dev/exercise/"
             },
             {
                 "title": "Echidna Enters a New Era of Symbolic Execution",
                 "href": "https://gustavo-grieco.github.io/blog/echidna-symexec/"
-            },
-            {
-                "title": "Websites and web developers mostly don't care about client-side problems",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients"
             },
             {
                 "title": "Self-driving cars begin testing on NYC streets",
@@ -873,10 +877,6 @@
             {
                 "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
                 "href": "https://github.com/mbuhot/glyn"
-            },
-            {
-                "title": "Measuring the environmental impact of AI inference",
-                "href": "https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/"
             }
         ]
     }
