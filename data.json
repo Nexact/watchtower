@@ -3,12 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
+                "href": "https://lina.sh/blog/telefonica-sabotages-me"
+            },
+            {
                 "title": "I Hacked Monster Energy and Uncovered Their Employee Training Material",
                 "href": "https://bobdahacker.com/blog/monster-energy"
             },
             {
-                "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
-                "href": "https://lina.sh/blog/telefonica-sabotages-me"
+                "title": "Secret Management on NixOS with sops-nix",
+                "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/"
             },
             {
                 "title": "Big O",
@@ -17,10 +21,6 @@
             {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend"
-            },
-            {
-                "title": "Secret Management on NixOS with sops-nix",
-                "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/"
             },
             {
                 "title": "rue: A programming language that is a minimal subset of Rust",
@@ -55,6 +55,10 @@
                 "href": "https://ghuntley.com/agent/"
             },
             {
+                "title": "The Great Giana Sisters (COMMODORE 64)",
+                "href": "http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html"
+            },
+            {
                 "title": "seed: Interactive software environment based on Common Lisp",
                 "href": "https://github.com/phantomics/seed"
             },
@@ -63,20 +67,24 @@
                 "href": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html"
             },
             {
-                "title": "The Great Giana Sisters (COMMODORE 64)",
-                "href": "http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html"
+                "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
+                "href": "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html"
             },
             {
                 "title": "microdot: The impossibly small web framework for Python and MicroPython",
                 "href": "https://github.com/miguelgrinberg/microdot"
             },
             {
-                "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
-                "href": "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html"
+                "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
+                "href": "https://blog.cf8.gg/surrealdbs-ch/"
             },
             {
                 "title": "Lobsters Interview with Matklad",
                 "href": "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad"
+            },
+            {
+                "title": "debdelta",
+                "href": "https://debdelta.debian.net/"
             },
             {
                 "title": "Neural Nets vs. Cellular Automata",
@@ -93,14 +101,6 @@
             {
                 "title": "WebR - R in the Browser",
                 "href": "https://docs.r-wasm.org/webr/latest/"
-            },
-            {
-                "title": "Why Was Apache Kafka Created?",
-                "href": "https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created"
-            },
-            {
-                "title": "debdelta",
-                "href": "https://debdelta.debian.net/"
             }
         ]
     },
@@ -763,24 +763,32 @@
                 "href": "https://lina.sh/blog/telefonica-sabotages-me"
             },
             {
+                "title": "Show HN: Clearcam \u2013 Add AI Object Detection to Your IP CCTV Cameras in a Minute",
+                "href": "https://github.com/roryclear/clearcam"
+            },
+            {
+                "title": "Dynamically patch a Python function's source code at runtime",
+                "href": "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/"
+            },
+            {
                 "title": "Spending Too Much Time at Airports",
                 "href": "https://thezvi.substack.com/p/spending-too-much-time-at-airports"
+            },
+            {
+                "title": "ICE Uses Celebrity Loophole to Hide Deportation Flights",
+                "href": "https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/"
             },
             {
                 "title": "How to build a coding agent",
                 "href": "https://ghuntley.com/agent/"
             },
             {
-                "title": "Turning Claude Code into My Best Design Partner",
-                "href": "https://betweentheprompts.com/design-partner/"
-            },
-            {
-                "title": "Show HN: Clearcam \u2013 Add AI Object Detection to Your IP CCTV Cameras in a Minute",
-                "href": "https://github.com/roryclear/clearcam"
-            },
-            {
                 "title": "Seed: Interactive software environment based on Common Lisp",
                 "href": "https://github.com/phantomics/seed"
+            },
+            {
+                "title": "Turning Claude Code into My Best Design Partner",
+                "href": "https://betweentheprompts.com/design-partner/"
             },
             {
                 "title": "The oldest unopened bottle of wine in the world",
@@ -791,10 +799,6 @@
                 "href": "https://youaretheassistantnow.com/"
             },
             {
-                "title": "Show HN: Bicyclopedia",
-                "href": "https://bicyclopedia.lemoing.ca/"
-            },
-            {
                 "title": "Setting serial baud rate on ESP-IDF does nothing",
                 "href": "https://atomic14.substack.com/p/this-number-does-nothing"
             },
@@ -803,40 +807,56 @@
                 "href": "https://daniel.lawrence.lu/blog/y2025m09d21/"
             },
             {
-                "title": "The cost of interrupted work (2023)",
-                "href": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html"
+                "title": "Germany's Copyright Clearing House now requires courts for website blocks",
+                "href": "https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html"
             },
             {
-                "title": "Valve Software handbook for new employees [pdf] (2012)",
-                "href": "https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"
+                "title": "SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]",
+                "href": "https://www.vldb.org/pvldb/vol18/p4295-haas.pdf"
+            },
+            {
+                "title": "Show HN: Bicyclopedia",
+                "href": "https://bicyclopedia.lemoing.ca/"
             },
             {
                 "title": "ThinkMesh: A Python lib for parallel thinking in LLMs",
                 "href": "https://github.com/martianlantern/ThinkMesh"
             },
             {
-                "title": "Programming People (2016)",
-                "href": "https://leftoversalad.com/c/015_programmingpeople/"
-            },
-            {
-                "title": "Rolling the dice with CSS random()",
-                "href": "https://webkit.org/blog/17285/rolling-the-dice-with-css-random/"
+                "title": "The cost of interrupted work (2023)",
+                "href": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html"
             },
             {
                 "title": "How can AI ID a cat?",
                 "href": "https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/"
             },
             {
+                "title": "Valve Software handbook for new employees [pdf] (2012)",
+                "href": "https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf"
+            },
+            {
                 "title": "What makes Claude Code so damn good",
                 "href": "https://minusx.ai/blog/decoding-claude-code/"
             },
             {
-                "title": "Show HN: Port Kill \u2013 A lightweight macOS status bar development port monitor",
-                "href": "https://github.com/kagehq/port-kill"
+                "title": "Rolling the dice with CSS random()",
+                "href": "https://webkit.org/blog/17285/rolling-the-dice-with-css-random/"
+            },
+            {
+                "title": "A Family Project (2022)",
+                "href": "https://bittersoutherner.com/feature/2022/a-family-project"
             },
             {
                 "title": "Physics of badminton's new killer spin serve",
                 "href": "https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/"
+            },
+            {
+                "title": "Programming People (2016)",
+                "href": "https://leftoversalad.com/c/015_programmingpeople/"
+            },
+            {
+                "title": "Show HN: Port Kill \u2013 A lightweight macOS status bar development port monitor",
+                "href": "https://github.com/kagehq/port-kill"
             },
             {
                 "title": "A 2k-year-old sun hat worn by a Roman soldier in Egypt",
@@ -851,32 +871,12 @@
                 "href": "https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/"
             },
             {
-                "title": "A Family Project (2022)",
-                "href": "https://bittersoutherner.com/feature/2022/a-family-project"
-            },
-            {
-                "title": "Equal Earth \u2013 Political Wall Map (2018)",
-                "href": "https://equal-earth.com/index.html"
-            },
-            {
-                "title": "A Clash Course in Solving Sudoku (Functional Pearl) [pdf]",
-                "href": "https://unsafeperform.io/papers/2025-hs-clash-sudoku/2025-hs-clash-sudoku.pdf"
-            },
-            {
                 "title": "Evaluating LLMs for my personal use case",
                 "href": "https://darkcoding.net/software/personal-ai-evals-aug-2025/"
             },
             {
                 "title": "Acronis True Image costs performance when not used",
                 "href": "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/"
-            },
-            {
-                "title": "Texas Instruments\u2019 new plants where Apple will make iPhone chips",
-                "href": "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html"
-            },
-            {
-                "title": "Static sites with Python, uv, Caddy, and Docker",
-                "href": "https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/"
             }
         ]
     }
