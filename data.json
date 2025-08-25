@@ -11,16 +11,20 @@
                 "href": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html"
             },
             {
-                "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
-                "href": "https://github.com/DavidBuchanan314/anubis_offload"
-            },
-            {
                 "title": "I Don't Like Imports",
                 "href": "https://kevincox.ca/2025/07/20/no-imports/"
             },
             {
+                "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
+                "href": "https://github.com/DavidBuchanan314/anubis_offload"
+            },
+            {
                 "title": "ghrc.io Appears to be Malicious",
                 "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
+            },
+            {
+                "title": "Secret Management on NixOS with sops-nix",
+                "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/"
             },
             {
                 "title": "Which Programming Language Should I Teach First?",
@@ -29,10 +33,6 @@
             {
                 "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
                 "href": "https://avi.im/blag/2025/sqlite-fsync/"
-            },
-            {
-                "title": "Secret Management on NixOS with sops-nix",
-                "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/"
             },
             {
                 "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
@@ -51,12 +51,12 @@
                 "href": "https://blog.winny.tech/posts/update-on-my-racket-exit/"
             },
             {
-                "title": "kruci: Post-mortem of a UI library",
-                "href": "https://pwy.io/posts/kruci-post-mortem/"
-            },
-            {
                 "title": "Introducing Zod Codecs",
                 "href": "https://colinhacks.com/essays/introducing-zod-codecs"
+            },
+            {
+                "title": "kruci: Post-mortem of a UI library",
+                "href": "https://pwy.io/posts/kruci-post-mortem/"
             },
             {
                 "title": "Automating Pre-Push Checks with Jujutsu",
@@ -67,12 +67,12 @@
                 "href": "https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend"
             },
             {
-                "title": "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
-                "href": "https://esoteric.codes/blog/jon-corbett"
-            },
-            {
                 "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
                 "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/"
+            },
+            {
+                "title": "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
+                "href": "https://esoteric.codes/blog/jon-corbett"
             },
             {
                 "title": "Big O",
@@ -87,6 +87,10 @@
                 "href": "https://ghuntley.com/agent/"
             },
             {
+                "title": "True names matter in C++",
+                "href": "https://quuxplusone.github.io/blog/2025/08/01/true-names/"
+            },
+            {
                 "title": "frogmouth: A Markdown browser for your terminal",
                 "href": "https://github.com/Textualize/frogmouth"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "I Hacked Monster Energy and Uncovered Their Employee Training Material",
                 "href": "https://bobdahacker.com/blog/monster-energy"
-            },
-            {
-                "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
-                "href": "https://swtch.com/~rsc/regexp/regexp1.html"
             }
         ]
     },
@@ -759,32 +759,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Prison isn\u2019t set up for today\u2019s tech so we have to do legal work the old way",
-                "href": "https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/"
-            },
-            {
-                "title": "How to check if your Apple Silicon Mac is booting securely",
-                "href": "https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/"
-            },
-            {
-                "title": "Everything I know about good API design",
-                "href": "https://www.seangoedecke.com/good-api-design/"
-            },
-            {
-                "title": "Ghrc.io appears to be malicious",
-                "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
-            },
-            {
-                "title": "Show HN: Sping \u2013 An HTTP/TCP Latency Tool That's Easy on the Eye",
+                "title": "Show HN: Sping \u2013 An HTTP/TCP latency tool that's easy on the eye",
                 "href": "https://dseltzer.gitlab.io/sping/docs/"
-            },
-            {
-                "title": "The two versions of Parquet",
-                "href": "https://www.jeronimo.dev/the-two-versions-of-parquet/"
             },
             {
                 "title": "Busy beaver hunters reach numbers that overwhelm ordinary math",
                 "href": "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/"
+            },
+            {
+                "title": "Bash Strict Mode",
+                "href": "http://redsymbol.net/articles/unofficial-bash-strict-mode/"
+            },
+            {
+                "title": "From Hackathon to YC",
+                "href": "https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc"
+            },
+            {
+                "title": "The two versions of Parquet",
+                "href": "https://www.jeronimo.dev/the-two-versions-of-parquet/"
             },
             {
                 "title": "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?",
@@ -795,12 +787,24 @@
                 "href": "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md"
             },
             {
-                "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
-                "href": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/"
+                "title": "Ghrc.io appears to be malicious",
+                "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
+            },
+            {
+                "title": "Prison isn\u2019t set up for today\u2019s tech so we have to do legal work the old way",
+                "href": "https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/"
+            },
+            {
+                "title": "Y Combinator files brief supporting Epic Games, says store fees stifle startups",
+                "href": "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/"
             },
             {
                 "title": "My ZIP isn't your ZIP: Identifying and exploiting semantic gaps between parsers",
                 "href": "https://www.usenix.org/conference/usenixsecurity25/presentation/you"
+            },
+            {
+                "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
+                "href": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/"
             },
             {
                 "title": "A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision",
@@ -811,20 +815,28 @@
                 "href": "https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/"
             },
             {
-                "title": "How many paths of length K are there between A and B? (2021)",
-                "href": "https://horace.io/walks"
-            },
-            {
-                "title": "Y Combinator files brief supporting Epic Games, says store fees stifle startups",
-                "href": "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/"
-            },
-            {
                 "title": "Burner Phone 101",
                 "href": "https://rebeccawilliams.info/burner-phone-101/"
             },
             {
+                "title": "How to check if your Apple Silicon Mac is booting securely",
+                "href": "https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/"
+            },
+            {
+                "title": "How many paths of length K are there between A and B? (2021)",
+                "href": "https://horace.io/walks"
+            },
+            {
+                "title": "Everything I know about good API design",
+                "href": "https://www.seangoedecke.com/good-api-design/"
+            },
+            {
                 "title": "Cloudflare incident on August 21, 2025",
                 "href": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/"
+            },
+            {
+                "title": "German contest to live in depopulated Soviet-era city proves global hit",
+                "href": "https://www.theguardian.com/world/2025/aug/21/german-contest-to-live-in-depopulated-soviet-era-city-proves-global-hit"
             },
             {
                 "title": "Halt and Catch Fire Syllabus (2021)",
@@ -835,24 +847,20 @@
                 "href": "https://github.com/roryclear/clearcam"
             },
             {
-                "title": "GNU cross-tools: musl-cross 313.3M",
-                "href": "https://github.com/cross-tools/musl-cross"
-            },
-            {
-                "title": "Bash Strict Mode",
-                "href": "http://redsymbol.net/articles/unofficial-bash-strict-mode/"
-            },
-            {
                 "title": "Iterative DFS with stack-based graph traversal (2024)",
                 "href": "https://dwf.dev/blog/2024/09/23/2024/dfs-iterative-stack-based"
             },
             {
-                "title": "NASA's Juno mission leaves legacy of science at Jupiter",
-                "href": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/"
+                "title": "Show HN: I Built a XSLT Blog Framework",
+                "href": "https://vgr.land/content/posts/20250821.xml"
             },
             {
-                "title": "OS Yamato lets your data fade away",
-                "href": "https://github.com/osyamato/os-yamato"
+                "title": "Stepanov's biggest blunder? The curious case of adjacent difference",
+                "href": "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
+            },
+            {
+                "title": "NASA's Juno mission leaves legacy of science at Jupiter",
+                "href": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/"
             },
             {
                 "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
@@ -863,20 +871,12 @@
                 "href": "https://twitter.com/SebastienBubeck/status/1958198661139009862"
             },
             {
-                "title": "Stepanov's biggest blunder? The curious case of adjacent difference",
-                "href": "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
+                "title": "GNU cross-tools: musl-cross 313.3M",
+                "href": "https://github.com/cross-tools/musl-cross"
             },
             {
-                "title": "Uncle Sam shouldn't own Intel stock",
-                "href": "https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d"
-            },
-            {
-                "title": "Show HN: I Built a XSLT Blog Framework",
-                "href": "https://vgr.land/content/posts/20250821.xml"
-            },
-            {
-                "title": "Will at centre of legal battle over Shakespeare\u2019s home unearthed after 150 years",
-                "href": "https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years"
+                "title": "OS Yamato lets your data fade away",
+                "href": "https://github.com/osyamato/os-yamato"
             }
         ]
     }
