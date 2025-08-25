@@ -35,12 +35,12 @@
                 "href": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html"
             },
             {
-                "title": "I Don't Like Imports",
-                "href": "https://kevincox.ca/2025/07/20/no-imports/"
-            },
-            {
                 "title": "The Limits of NTP Accuracy on Linux",
                 "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
+            },
+            {
+                "title": "I Don't Like Imports",
+                "href": "https://kevincox.ca/2025/07/20/no-imports/"
             },
             {
                 "title": "What are you doing this week?",
@@ -59,6 +59,10 @@
                 "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/"
             },
             {
+                "title": "How much power does gzip save on IoT web access?",
+                "href": "https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html"
+            },
+            {
                 "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
                 "href": "https://swtch.com/~rsc/regexp/regexp1.html"
             },
@@ -73,10 +77,6 @@
             {
                 "title": "Tag Suggestion: scraping",
                 "href": "https://lobste.rs/s/ljjpmg/tag_suggestion_scraping"
-            },
-            {
-                "title": "How much power does gzip save on IoT web access?",
-                "href": "https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html"
             },
             {
                 "title": "Secret Management on NixOS with sops-nix",
@@ -122,10 +122,6 @@
             {
                 "title": "Tracking malicious code execution in Python",
                 "href": "https://old.reddit.com/r/netsec/comments/1mzk3l4/tracking_malicious_code_execution_in_python/"
-            },
-            {
-                "title": "New Platform to Attract Global Security and Technology Talent to Australia",
-                "href": "https://old.reddit.com/r/netsec/comments/1mzrxas/new_platform_to_attract_global_security_and/"
             },
             {
                 "title": "New Gmail Phishing Scam Uses AI-Style Prompt Injection to Evade Detection",
@@ -214,12 +210,20 @@
             {
                 "title": "Intel Outside: Hacking every Intel employee and various internal websites",
                 "href": "https://old.reddit.com/r/netsec/comments/1mtnqme/intel_outside_hacking_every_intel_employee_and/"
+            },
+            {
+                "title": "\u201cVibe Hacking\u201d: Abusing Developer Trust in Cursor and VS Code Remote Development",
+                "href": "https://old.reddit.com/r/netsec/comments/1mtpvuu/vibe_hacking_abusing_developer_trust_in_cursor/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Critical Docker Desktop flaw lets attackers hijack Windows hosts",
+                "href": "https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/"
+            },
             {
                 "title": "Defending against malware persistence techniques with Wazuh",
                 "href": "https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/"
@@ -255,10 +259,6 @@
             {
                 "title": "Massive anti-cybercrime operation leads to over 1,200 arrests in Africa",
                 "href": "https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/"
-            },
-            {
-                "title": "DaVita says ransomware gang stole data of nearly 2.7 million people",
-                "href": "https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/"
             }
         ]
     },
@@ -646,6 +646,70 @@
         "feedname": "packetstorm",
         "items": [
             {
+                "title": "Chip Programming Firm Data I/O Hit By Ransomware",
+                "href": "https://www.securityweek.com/chip-programming-firm-data-i-o-hit-by-ransomware/"
+            },
+            {
+                "title": "Australian University Used Wi-Fi Location Data To Identify Student Protestors",
+                "href": "https://www.theregister.com/2025/08/25/asia_tech_news_in_brief/"
+            },
+            {
+                "title": "New Android Malware Poses As Antivirus From Russian Intelligence Agency",
+                "href": "https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/"
+            },
+            {
+                "title": "Defending Against Malware Persistence Techniques With Wazuh",
+                "href": "https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/"
+            },
+            {
+                "title": "Pakistani Hackers Back At Targeting Indian Government Entities",
+                "href": "https://www.securityweek.com/pakistani-hackers-back-at-targeting-indian-government-entities/"
+            },
+            {
+                "title": "Aspire Rural Health System Data Breach Impacts Nearly 140,000",
+                "href": "https://www.securityweek.com/aspire-rural-health-system-data-breach-impacts-nearly-140000/"
+            },
+            {
+                "title": "Anatsa Android Banking Trojan Now Targeting 830 Financial Apps",
+                "href": "https://www.securityweek.com/anatsa-android-banking-trojan-now-targeting-830-financial-institutions/"
+            },
+            {
+                "title": "The Resurgence Of IoT Malware: Inside The Mirai-Based Gayfemboy Botnet Campaign",
+                "href": "https://www.fortinet.com/blog/threat-research/iot-malware-gayfemboy-mirai-based-botnet-campaign"
+            },
+            {
+                "title": "Vtenext 25.02: A Three-Way Path To RCE",
+                "href": "https://blog.sicuranext.com/vtenext-25-02-a-three-way-path-to-rce/"
+            },
+            {
+                "title": "Your Connection, Their Cash: Threat Actors Misuse SDKs To Sell Your Bandwidth",
+                "href": "https://unit42.paloaltonetworks.com/attackers-sell-your-bandwidth-using-sdks/"
+            },
+            {
+                "title": "Malicious Go Module Disguised As SSH Brute Forcer Exfiltrates Credentials Via Telegram",
+                "href": "https://socket.dev/blog/malicious-go-module-disguised-as-ssh-brute-forcer-exfiltrates-credentials"
+            },
+            {
+                "title": "Farmers Insurance Data Breach Impacts Over 1 Million People",
+                "href": "https://www.securityweek.com/farmers-insurance-data-breach-impacts-over-1-million-people/"
+            },
+            {
+                "title": "Fake macOS Help Sites Seek To Spread Infostealer In Targeted Campaign",
+                "href": "https://www.infosecurity-magazine.com/news/fake-macos-spread-infostealer/"
+            },
+            {
+                "title": "Bug Bounties: The Good, The Bad, And The Frankly Ridiculous Ways To Do It",
+                "href": "https://www.theregister.com/2025/08/24/bug_bounty_advice/"
+            },
+            {
+                "title": "Hackers Leverage Google Classroom For Over 115,000 Phishing Emails",
+                "href": "https://cybersecuritynews.com/google-classroom-phishing/"
+            },
+            {
+                "title": "0-Click Zendesk Account Takeover Vulnerability Allows Access To All Tickets",
+                "href": "https://cybersecuritynews.com/zendesk-account-takeover-vulnerability/"
+            },
+            {
                 "title": "Fake Mac Fixes Trick Users Into Installing New Shamos Infostealer",
                 "href": "https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/"
             },
@@ -680,70 +744,6 @@
             {
                 "title": "Europol Says Qilin Ransomware Reward Fake",
                 "href": "https://www.securityweek.com/europol-says-qilin-ransomware-reward-fake/"
-            },
-            {
-                "title": "New Cryptojacking Attack Exploits Redis Servers To Install Miners And Disable Defenses",
-                "href": "https://cybersecuritynews.com/new-cryptojacking-attack-exploits-redis-servers/"
-            },
-            {
-                "title": "The Silent, Fileless Threat Of VShell",
-                "href": "https://www.trellix.com/blogs/research/the-silent-fileless-threat-of-vshell/"
-            },
-            {
-                "title": "African Authorities Dismantle Massive Cybercrime And Fraud Networks, Recover Millions",
-                "href": "https://www.interpol.int/en/News-and-Events/News/2025/African-authorities-dismantle-massive-cybercrime-and-fraud-networks-recover-millions"
-            },
-            {
-                "title": "MURKY PANDA: A Trusted-Relationship Threat In The Cloud",
-                "href": "https://www.crowdstrike.com/en-us/blog/murky-panda-trusted-relationship-threat-in-cloud/"
-            },
-            {
-                "title": "Colt Changes Tune, Admits Data Theft As Warlock Gang Begins Auction",
-                "href": "https://www.theregister.com/2025/08/21/colt_warlock_auction/"
-            },
-            {
-                "title": "Intel Employee Data Exposed By Vulnerabilities",
-                "href": "https://www.securityweek.com/intel-employee-data-exposed-by-vulnerabilities/"
-            },
-            {
-                "title": "Orange Data Breach Raises SIM-Swapping Attack Fears",
-                "href": "https://www.infosecurity-magazine.com/news/orange-data-breach-sim-swapping/"
-            },
-            {
-                "title": "Apple Patches Zero-Day Exploited In Targeted Attacks",
-                "href": "https://www.securityweek.com/apple-patches-zero-day-exploited-in-targeted-attacks/"
-            },
-            {
-                "title": "China Cut Itself Off From The Global Internet For An Hour On Wednesday",
-                "href": "https://www.theregister.com/2025/08/21/china_port_443_block_outage/"
-            },
-            {
-                "title": "Scattered Spider Hacker Sentenced To Prison",
-                "href": "https://www.securityweek.com/scattered-spider-hacker-sentenced-to-prison/"
-            },
-            {
-                "title": "APT MuddyWater Deploys Multi-Stage Phishing To Target CFOs",
-                "href": "https://hunt.io/blog/apt-muddywater-deploys-multi-stage-phishing-to-target-cfos"
-            },
-            {
-                "title": "NIST Unveils Guidelines To Help Spot Face Morphing Attacks",
-                "href": "https://www.infosecurity-magazine.com/news/nist-unveils-guidelines-spot-face/"
-            },
-            {
-                "title": "Hundreds Of Thousands Of Grok Chats Exposed In Google Results",
-                "href": "https://www.bbc.com/news/articles/cdrkmk00jy0o"
-            },
-            {
-                "title": "Amazon Quietly Fixed Q Developer Flaws That Made AI Agent Vulnerable To Prompt Injection, RCE",
-                "href": "https://www.theregister.com/2025/08/20/amazon_quietly_fixed_q_developer_flaws/"
-            },
-            {
-                "title": "QUIC-LEAK: New High-Risk Pre-Handshake Remote Denial of Service in LSQUIC QUIC Implementation",
-                "href": "https://www.imperva.com/blog/quic-leak-cve-2025-54939-new-high-risk-pre-handshake-remote-denial-of-service-in-lsquic-quic-implementation/"
-            },
-            {
-                "title": "Internet Archive Abused For Hosting Stealthy JScript Loader Malware",
-                "href": "https://cybersecuritynews.com/internet-archive-abused/"
             }
         ]
     },
@@ -751,8 +751,8 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The unlikely revival of nuclear batteries",
-                "href": "https://spectrum.ieee.org/nuclear-battery-revival"
+                "title": "Show HN: Base, an SQLite database editor for macOS",
+                "href": "https://menial.co.uk/base/"
             },
             {
                 "title": "What are OKLCH colors?",
@@ -771,16 +771,12 @@
                 "href": "https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station"
             },
             {
-                "title": "Show HN: Base, an SQLite database editor for macOS",
-                "href": "https://menial.co.uk/base/"
-            },
-            {
                 "title": "An Illustrated Guide to OAuth",
                 "href": "https://www.ducktyped.org/p/an-illustrated-guide-to-oauth"
             },
             {
-                "title": "The Size of Adobe Reader Installers Through the Years",
-                "href": "https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html"
+                "title": "The unlikely revival of nuclear batteries",
+                "href": "https://spectrum.ieee.org/nuclear-battery-revival"
             },
             {
                 "title": "Standard Thermal: Energy Storage 500x Cheaper Than Batteries",
@@ -789,6 +785,10 @@
             {
                 "title": "SmallJS: Smalltalk-80 that compiles to JavaScript",
                 "href": "https://small-js.org/Home/Home.html"
+            },
+            {
+                "title": "What Is a Color Space?",
+                "href": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts"
             },
             {
                 "title": "Mathematical secrets of ancient tablet unlocked after nearly a century of study (2017)",
@@ -803,12 +803,16 @@
                 "href": "https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed"
             },
             {
-                "title": "Busy beaver hunters reach numbers that overwhelm ordinary math",
-                "href": "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/"
+                "title": "How to Make Things Slower So They Go Faster",
+                "href": "https://www.gojiberries.io/how-to-make-things-slower-so-they-go-faster-a-jitter-design-manual/"
             },
             {
-                "title": "The air is hissing out of the overinflated AI balloon",
-                "href": "https://www.theregister.com/2025/08/25/overinflated_ai_balloon/"
+                "title": "The Size of Adobe Reader Installers Through the Years",
+                "href": "https://sigwait.org/~alex/blog/2025/08/25/zw6z4E.html"
+            },
+            {
+                "title": "Busy beaver hunters reach numbers that overwhelm ordinary math",
+                "href": "https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/"
             },
             {
                 "title": "The Unix-Haters Handbook (1994) [pdf]",
@@ -823,10 +827,6 @@
                 "href": "https://github.com/ENDESGA/PEP"
             },
             {
-                "title": "What Is a Color Space?",
-                "href": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts"
-            },
-            {
                 "title": "A lightweight TypeScript library for assertion-based runtime data validation",
                 "href": "https://github.com/nimeshnayaju/decode-kit"
             },
@@ -839,16 +839,16 @@
                 "href": "https://dseltzer.gitlab.io/sping/docs/"
             },
             {
+                "title": "The great medieval water myth (2013)",
+                "href": "https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html"
+            },
+            {
                 "title": "Ban me at the IP level if you don't like me",
                 "href": "https://boston.conman.org/2025/08/21.1"
             },
             {
                 "title": "In-Memory Filesystems in Rust",
                 "href": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/"
-            },
-            {
-                "title": "The great medieval water myth (2013)",
-                "href": "https://leslefts.blogspot.com/2013/11/the-great-medieval-water-myth.html"
             },
             {
                 "title": "Trees on city streets cope with drought by drinking from leaky pipes",
@@ -867,8 +867,8 @@
                 "href": "https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc"
             },
             {
-                "title": "Show HN: CasCache \u2013 multi-generational cache with optimistic concurrency control",
-                "href": "https://github.com/unkn0wn-root/cascache"
+                "title": "Show HN: Clearcam \u2013 Add AI object detection to your IP CCTV cameras",
+                "href": "https://github.com/roryclear/clearcam"
             }
         ]
     }
