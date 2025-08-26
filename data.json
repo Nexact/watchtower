@@ -11,12 +11,16 @@
                 "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"
             },
             {
+                "title": "Developing an alt text button for images on my website",
+                "href": "https://jamesg.blog/2025/08/17/alt-text-button"
+            },
+            {
                 "title": "Xz format inadequate for general use",
                 "href": "https://www.nongnu.org/lzip/xz_inadequate.html"
             },
             {
-                "title": "Developing an alt text button for images on my website",
-                "href": "https://jamesg.blog/2025/08/17/alt-text-button"
+                "title": "We should rethink how we teach people to code",
+                "href": "https://deadsimpletech.com/blog/notes_teaching_coding"
             },
             {
                 "title": "macOS dotfiles should not go in ~/Library/Application Support",
@@ -31,12 +35,20 @@
                 "href": "https://zylinski.se/posts/temporary-allocator-your-first-arena/"
             },
             {
-                "title": "We should rethink how we teach people to code",
-                "href": "https://deadsimpletech.com/blog/notes_teaching_coding"
+                "title": "Inside Windows 3",
+                "href": "https://www.xtof.info/inside-windows3.html"
             },
             {
                 "title": "Bro, ban me at the IP level if you don't like me",
                 "href": "https://boston.conman.org/2025/08/21.1"
+            },
+            {
+                "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
+                "href": "https://www.philipzucker.com/compose_datalog/"
+            },
+            {
+                "title": "Stable, Mutable References",
+                "href": "https://antelang.org/blog/stable_mutable_refs/"
             },
             {
                 "title": "Who's Afraid of a Hard Page Load?",
@@ -45,14 +57,6 @@
             {
                 "title": "What are OKLCH colors?",
                 "href": "https://jakub.kr/components/oklch-colors"
-            },
-            {
-                "title": "Inside Windows 3",
-                "href": "https://www.xtof.info/inside-windows3.html"
-            },
-            {
-                "title": "Stable, Mutable References",
-                "href": "https://antelang.org/blog/stable_mutable_refs/"
             },
             {
                 "title": "Emulating aarch64 in software using JIT compilation and Rust",
@@ -67,16 +71,24 @@
                 "href": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/"
             },
             {
+                "title": "Put a ring on it: a lock-free MPMC ring buffer",
+                "href": "https://h4x0r.org/ring/"
+            },
+            {
                 "title": "Nullable vs nullable in C#",
                 "href": "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/"
+            },
+            {
+                "title": "Hands on Capture Checking in Scala",
+                "href": "https://nrinaudo.github.io/articles/capture_checking.html"
             },
             {
                 "title": "Prediction-Encoded Pixels: a tiny yet powerful pixel art compression method",
                 "href": "https://github.com/ENDESGA/PEP"
             },
             {
-                "title": "Hands on Capture Checking in Scala",
-                "href": "https://nrinaudo.github.io/articles/capture_checking.html"
+                "title": "Summary of everything we know about kOS",
+                "href": "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746"
             },
             {
                 "title": "Barking Up The Ratchet Tree \u2013 MLS Is Neither Royal Nor Nude",
@@ -89,18 +101,6 @@
             {
                 "title": "ghrc.io Appears to be Malicious",
                 "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
-            },
-            {
-                "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
-                "href": "https://github.com/DavidBuchanan314/anubis_offload"
-            },
-            {
-                "title": "Summary of everything we know about kOS",
-                "href": "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746"
-            },
-            {
-                "title": "Design Microservice Architectures the Right Way",
-                "href": "https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/"
             }
         ]
     },
@@ -755,32 +755,52 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Google will allow only apps from verified developers to be installed on Android",
-                "href": "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
-            },
-            {
-                "title": "Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step",
-                "href": "https://markdown-ui.com/"
-            },
-            {
-                "title": "The Relativity of Wrong (1988)",
-                "href": "https://hermiene.net/essays-trans/relativity_of_wrong.html"
-            },
-            {
-                "title": "SSL certificate requirements are becoming obnoxious",
-                "href": "https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/"
+                "title": "Gemini 2.5 Flash Image",
+                "href": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"
             },
             {
                 "title": "Deeper Than Deep: David Reich's genetics lab unveils our prehistoric past (2017)",
                 "href": "https://www.laphamsquarterly.org/roundtable/deeper-deep"
             },
             {
+                "title": "Google will allow only apps from verified developers to be installed on Android",
+                "href": "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
+            },
+            {
+                "title": "The Relativity of Wrong (1988)",
+                "href": "https://hermiene.net/essays-trans/relativity_of_wrong.html"
+            },
+            {
+                "title": "One Universal Antiviral to Rule Them All?",
+                "href": "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all"
+            },
+            {
+                "title": "Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step",
+                "href": "https://markdown-ui.com/"
+            },
+            {
+                "title": "Show HN: Smart email filters to unfuck your email",
+                "href": "https://unfuck.email"
+            },
+            {
                 "title": "US Intel",
                 "href": "https://stratechery.com/2025/u-s-intel/"
             },
             {
-                "title": "'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals",
-                "href": "https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/"
+                "title": "SSL certificate requirements are becoming obnoxious",
+                "href": "https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/"
+            },
+            {
+                "title": "The McPhee method for writing deeply reported nonfiction",
+                "href": "https://jsomers.net/blog/the-mcphee-method"
+            },
+            {
+                "title": "SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)",
+                "href": "https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7"
+            },
+            {
+                "title": "DSLRoot, Proxies, and the Threat of 'Legal Botnets'",
+                "href": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/"
             },
             {
                 "title": "A bug saved the company",
@@ -791,16 +811,20 @@
                 "href": "https://www.linusakesson.net/programming/tty/"
             },
             {
+                "title": "'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals",
+                "href": "https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/"
+            },
+            {
                 "title": "Ask HN: How can I recover and run my old mobile game from the 2010s?",
                 "href": "item?id=45010951"
             },
             {
-                "title": "SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)",
-                "href": "https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7"
-            },
-            {
                 "title": "Explanation of the Linux-kernel memory consistency model (2017)",
                 "href": "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
+            },
+            {
+                "title": "AI Is Wrecking Young Americans' Job Prospects",
+                "href": "https://www.wsj.com/economy/jobs/ai-entry-level-job-impact-5c687c84"
             },
             {
                 "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
@@ -809,10 +833,6 @@
             {
                 "title": "Linear Scan with Lifetime Holes",
                 "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/"
-            },
-            {
-                "title": "The McPhee method for writing deeply reported nonfiction",
-                "href": "https://jsomers.net/blog/the-mcphee-method"
             },
             {
                 "title": "Google's Liquid Cooling",
@@ -825,10 +845,6 @@
             {
                 "title": "Show HN: Base, an SQLite database editor for macOS",
                 "href": "https://menial.co.uk/base/"
-            },
-            {
-                "title": "Show HN: Mixing Deterministic Codegen with LLM Codegen for Client SDKs",
-                "href": "https://github.com/Sideko-Inc/sideko/tree/main/releases/determinism-plus-llms"
             },
             {
                 "title": "macOS dotfiles should not go in \u2013/Library/Application Support",
@@ -847,32 +863,16 @@
                 "href": "https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/"
             },
             {
-                "title": "The Limits of NTP Accuracy on Linux",
-                "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
-            },
-            {
                 "title": "Ask HN: Why hasn't x86 caught up with Apple M series?",
                 "href": "item?id=45019483"
             },
             {
+                "title": "The Limits of NTP Accuracy on Linux",
+                "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
+            },
+            {
                 "title": "The Annotated Transformer (2022)",
                 "href": "https://nlp.seas.harvard.edu/annotated-transformer/"
-            },
-            {
-                "title": "DeepWiki: Understand Any Codebase",
-                "href": "https://www.aitidbits.ai/p/deepwiki"
-            },
-            {
-                "title": "Do I not like Ruby anymore? (2024)",
-                "href": "https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/"
-            },
-            {
-                "title": "Neural Nets vs. Cellular Automata",
-                "href": "https://www.nets-vs-automata.net/"
-            },
-            {
-                "title": "How RubyGems.org protects OSS infrastructure",
-                "href": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html"
             }
         ]
     }
