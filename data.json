@@ -11,12 +11,12 @@
                 "href": "https://ratfactor.com/b/technical-books"
             },
             {
-                "title": "macOS dotfiles should not go in ~/Library/Application Support",
-                "href": "https://becca.ooo/blog/macos-dotfiles/"
-            },
-            {
                 "title": "Xz format inadequate for general use",
                 "href": "https://www.nongnu.org/lzip/xz_inadequate.html"
+            },
+            {
+                "title": "macOS dotfiles should not go in ~/Library/Application Support",
+                "href": "https://becca.ooo/blog/macos-dotfiles/"
             },
             {
                 "title": "Bro, ban me at the IP level if you don't like me",
@@ -55,6 +55,10 @@
                 "href": "https://zylinski.se/posts/temporary-allocator-your-first-arena/"
             },
             {
+                "title": "Stable, Mutable References",
+                "href": "https://antelang.org/blog/stable_mutable_refs/"
+            },
+            {
                 "title": "ghrc.io Appears to be Malicious",
                 "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
             },
@@ -67,6 +71,14 @@
                 "href": "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html"
             },
             {
+                "title": "Apple vs. Facebook is Kayfabe",
+                "href": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/"
+            },
+            {
+                "title": "Structural vs. Mathematical \u201cUnder\u201d (2023)",
+                "href": "https://www.dyalog.com/blog/2023/01/structural-vs-mathematical-under/"
+            },
+            {
                 "title": "Design Microservice Architectures the Right Way",
                 "href": "https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/"
             },
@@ -75,32 +87,20 @@
                 "href": "https://msrc.microsoft.com/blog/2025/08/postmessaged-and-compromised/"
             },
             {
-                "title": "Structural vs. Mathematical \u201cUnder\u201d (2023)",
-                "href": "https://www.dyalog.com/blog/2023/01/structural-vs-mathematical-under/"
-            },
-            {
                 "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
                 "href": "https://lina.sh/blog/telefonica-sabotages-me"
-            },
-            {
-                "title": "Stable, Mutable References",
-                "href": "https://antelang.org/blog/stable_mutable_refs/"
-            },
-            {
-                "title": "Summary of everything we know about kOS",
-                "href": "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746"
             },
             {
                 "title": "Barking Up The Ratchet Tree \u2013 MLS Is Neither Royal Nor Nude",
                 "href": "https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/"
             },
             {
-                "title": "teletext in north america",
-                "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html"
+                "title": "Summary of everything we know about kOS",
+                "href": "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746"
             },
             {
-                "title": "Making Software: What is a color space?",
-                "href": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts"
+                "title": "teletext in north america",
+                "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html"
             }
         ]
     },
@@ -759,8 +759,8 @@
                 "href": "https://9to5google.com/2025/08/25/android-apps-developer-verification/"
             },
             {
-                "title": "Do I not like Ruby anymore? (2024)",
-                "href": "https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/"
+                "title": "Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step",
+                "href": "https://markdown-ui.com/"
             },
             {
                 "title": "macOS dotfiles should not go in \u2013/Library/Application Support",
@@ -771,28 +771,40 @@
                 "href": "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/"
             },
             {
-                "title": "Interactive Map of Paul's First Century Travels in Roman World",
-                "href": "https://www.intofarlands.com/map-of-pauls-journeys"
-            },
-            {
-                "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
-                "href": "https://github.com/pandax381/xv6-riscv-net"
-            },
-            {
-                "title": "Will Smith's concert crowds are real, but AI is blurring the lines",
-                "href": "https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/"
+                "title": "'Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals",
+                "href": "https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/"
             },
             {
                 "title": "Dangerous Advice for Software Engineers",
                 "href": "https://www.seangoedecke.com/dangerous-advice/"
             },
             {
+                "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
+                "href": "https://github.com/pandax381/xv6-riscv-net"
+            },
+            {
+                "title": "Do I not like Ruby anymore? (2024)",
+                "href": "https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/"
+            },
+            {
                 "title": "Google's Liquid Cooling",
                 "href": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips"
             },
             {
+                "title": "Will Smith's concert crowds are real, but AI is blurring the lines",
+                "href": "https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/"
+            },
+            {
+                "title": "Explanation of the Linux-Kernel Memory Consistency Model",
+                "href": "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
+            },
+            {
                 "title": "A visual introduction to big O notation",
                 "href": "https://samwho.dev/big-o/"
+            },
+            {
+                "title": "Teletext in North America",
+                "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html"
             },
             {
                 "title": "Show HN: Base, an SQLite database editor for macOS",
@@ -803,12 +815,12 @@
                 "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
             },
             {
-                "title": "Explanation of the Linux-Kernel Memory Consistency Model",
-                "href": "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
-            },
-            {
                 "title": "The Annotated Transformer (2022)",
                 "href": "https://nlp.seas.harvard.edu/annotated-transformer/"
+            },
+            {
+                "title": "Paying attention to feature distribution alignment (pun intended)",
+                "href": "https://alexshtf.github.io/2025/08/19/Orthogonality.html"
             },
             {
                 "title": "The Physics of Parabolic Microphones: Frequency Dependence of Gain",
@@ -819,10 +831,6 @@
                 "href": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls"
             },
             {
-                "title": "Teletext in North America",
-                "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html"
-            },
-            {
                 "title": "Neural Nets vs. Cellular Automata",
                 "href": "https://www.nets-vs-automata.net/"
             },
@@ -831,20 +839,24 @@
                 "href": "https://nrinaudo.github.io/articles/capture_checking.html"
             },
             {
-                "title": "Memory optimizations to reduce CPU costs",
-                "href": "https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs"
-            },
-            {
                 "title": "DeepWiki: Understand Any Codebase",
                 "href": "https://www.aitidbits.ai/p/deepwiki"
+            },
+            {
+                "title": "Ask HN: Why hasn't x86 caught up with Apple M series?",
+                "href": "item?id=45019483"
+            },
+            {
+                "title": "Memory optimizations to reduce CPU costs",
+                "href": "https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs"
             },
             {
                 "title": "How RubyGems.org protects OSS infrastructure",
                 "href": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html"
             },
             {
-                "title": "Ask HN: Why hasn't x86 caught up with Apple M series?",
-                "href": "item?id=45019483"
+                "title": "Interactive Map of Paul's First Century Travels in Roman World",
+                "href": "https://www.intofarlands.com/map-of-pauls-journeys"
             },
             {
                 "title": "Reverse Engineering All the Raspberry Pis",
@@ -859,20 +871,8 @@
                 "href": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons"
             },
             {
-                "title": "Fenster: Most minimal cross-platform GUI library",
-                "href": "https://github.com/zserge/fenster"
-            },
-            {
                 "title": "Turning a Decommissioned iPhone into a UniFi Protect Camera",
                 "href": "https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera"
-            },
-            {
-                "title": "WiFi-3D-Fusion \u2013 Real-time 3D motion sensing with Wi-Fi",
-                "href": "https://github.com/MaliosDark/wifi-3d-fusion"
-            },
-            {
-                "title": "What Are Oklch Colors?",
-                "href": "https://jakub.kr/components/oklch-colors"
             }
         ]
     }
