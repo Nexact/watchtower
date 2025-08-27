@@ -43,16 +43,20 @@
                 "href": "https://deadsimpletech.com/blog/notes_teaching_coding"
             },
             {
-                "title": "Das Problem mit German Strings",
-                "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
-            },
-            {
                 "title": "Chez Scheme vs. SBCL: a comparison (2019)",
                 "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez"
             },
             {
+                "title": "Das Problem mit German Strings",
+                "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
+            },
+            {
                 "title": "Xz format inadequate for general use",
                 "href": "https://www.nongnu.org/lzip/xz_inadequate.html"
+            },
+            {
+                "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
+                "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/"
             },
             {
                 "title": "Stable, Mutable References",
@@ -71,8 +75,20 @@
                 "href": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/"
             },
             {
-                "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
-                "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/"
+                "title": "A Qt Model for all C++ Ranges",
+                "href": "https://www.qt.io/blog/a-model-for-all-ranges"
+            },
+            {
+                "title": "GNU Artanis - Web app framework for Scheme",
+                "href": "https://artanis.dev/"
+            },
+            {
+                "title": "Outlandish Recursive Query Examples",
+                "href": "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples"
+            },
+            {
+                "title": "How my mail notifier avoids interrupting me (2010)",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts"
             },
             {
                 "title": "Trying to get error backtraces in rust libraries right",
@@ -83,24 +99,8 @@
                 "href": "https://nshipster.com/uncertainty/"
             },
             {
-                "title": "A Qt Model for all C++ Ranges",
-                "href": "https://www.qt.io/blog/a-model-for-all-ranges"
-            },
-            {
-                "title": "How my mail notifier avoids interrupting me (2010)",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts"
-            },
-            {
-                "title": "GNU Artanis - Web app framework for Scheme",
-                "href": "https://artanis.dev/"
-            },
-            {
                 "title": "Linearizability testing S2 with deterministic simulation",
                 "href": "https://s2.dev/blog/linearizability#collecting-concurrent-histories"
-            },
-            {
-                "title": "macOS dotfiles should not go in ~/Library/Application Support",
-                "href": "https://becca.ooo/blog/macos-dotfiles/"
             }
         ]
     },
@@ -327,6 +327,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Pig Lung Transplanted Into a Human In Major Scientific First",
+                "href": "https://science.slashdot.org/story/25/08/26/2257216/pig-lung-transplanted-into-a-human-in-major-scientific-first?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Canada's Tech Job Market Has Gone From Boom To Bust In Last Five Years",
                 "href": "https://news.slashdot.org/story/25/08/26/2250204/canadas-tech-job-market-has-gone-from-boom-to-bust-in-last-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -381,10 +385,6 @@
             {
                 "title": "Video Platform Kick Investigated Over Streamer's Death",
                 "href": "https://news.slashdot.org/story/25/08/26/1438236/video-platform-kick-investigated-over-streamers-death?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AT&amp;T To Buy Wireless Spectrum From EchoStar For $23 Billion Cash",
-                "href": "https://mobile.slashdot.org/story/25/08/26/1155219/att-to-buy-wireless-spectrum-from-echostar-for-23-billion-cash?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -779,20 +779,16 @@
                 "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html"
             },
             {
-                "title": "Show HN: Regolith \u2013 Regex library that prevents ReDoS CVEs in TypeScript",
-                "href": "https://github.com/JakeRoggenbuck/regolith"
-            },
-            {
                 "title": "GNU Artanis \u2013 A fast web application framework for Scheme",
                 "href": "https://artanis.dev/index.html"
             },
             {
-                "title": "Rv, a new kind of Ruby management tool",
-                "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"
+                "title": "Show HN: Regolith \u2013 Regex library that prevents ReDoS CVEs in TypeScript",
+                "href": "https://github.com/JakeRoggenbuck/regolith"
             },
             {
-                "title": "Game theory at work: When to talk and when to shut up (2024)",
-                "href": "https://swaits.com/game-theory-at-work-and-when-to-shutup/"
+                "title": "Rv, a new kind of Ruby management tool",
+                "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"
             },
             {
                 "title": "Chinese astronauts make rocket fuel and oxygen in space",
@@ -807,12 +803,16 @@
                 "href": "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all"
             },
             {
-                "title": "Neuralink 'Participant 1' says his life has changed",
-                "href": "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/"
+                "title": "Integer continued fractions for complex numbers",
+                "href": "https://arxiv.org/abs/2508.15078"
             },
             {
                 "title": "US Intel",
                 "href": "https://stratechery.com/2025/u-s-intel/"
+            },
+            {
+                "title": "Neuralink 'Participant 1' says his life has changed",
+                "href": "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/"
             },
             {
                 "title": "Japan has opened its first osmotic power plant",
@@ -827,48 +827,48 @@
                 "href": "https://github.com/explosion/spaCy"
             },
             {
-                "title": "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
-                "href": "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"
-            },
-            {
-                "title": "Cascata delle Marmore",
-                "href": "https://en.wikipedia.org/wiki/Cascata_delle_Marmore"
-            },
-            {
                 "title": "Why do people keep writing about the imaginary compound Cr2Gr2Te6?",
                 "href": "https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html"
             },
             {
-                "title": "LiteLLM (YC W23) is hiring a back end engineer",
-                "href": "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer"
-            },
-            {
-                "title": "Show HN: Async \u2013 Claude code and Linear and GitHub PRs in one opinionated tool",
-                "href": "https://github.com/bkdevs/async-server"
-            },
-            {
-                "title": "Integer continued fractions for complex numbers",
-                "href": "https://arxiv.org/abs/2508.15078"
-            },
-            {
-                "title": "Connecting M.2 drives to various things (and not doing so)",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings"
-            },
-            {
-                "title": "\"Special register groups\" invaded computer dictionaries for decades (2019)",
-                "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html"
+                "title": "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
+                "href": "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"
             },
             {
                 "title": "Proposal: AI Content Disclosure Header",
                 "href": "https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html"
             },
             {
+                "title": "Show HN: Async \u2013 Claude code and Linear and GitHub PRs in one opinionated tool",
+                "href": "https://github.com/bkdevs/async-server"
+            },
+            {
+                "title": "Cascata delle Marmore",
+                "href": "https://en.wikipedia.org/wiki/Cascata_delle_Marmore"
+            },
+            {
+                "title": "LiteLLM (YC W23) is hiring a back end engineer",
+                "href": "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer"
+            },
+            {
                 "title": "iOS 18.6.1 0-click RCE POC",
                 "href": "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md"
             },
             {
+                "title": "Connecting M.2 drives to various things (and not doing so)",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings"
+            },
+            {
+                "title": "Stop Talking to Technology Executives Like They Have Anything to Say",
+                "href": "https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say"
+            },
+            {
                 "title": "The McPhee method for writing deeply reported nonfiction",
                 "href": "https://jsomers.net/blog/the-mcphee-method"
+            },
+            {
+                "title": "\"Special register groups\" invaded computer dictionaries for decades (2019)",
+                "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html"
             },
             {
                 "title": "How to store weather forecast data for fast time-series APIs (2022)",
@@ -883,8 +883,8 @@
                 "href": "https://arstechnica.com/space/2025/08/china-may-have-taken-an-early-lead-in-the-race-for-a-military-megaconstellation/"
             },
             {
-                "title": "The \u201cWow!\u201d signal was likely from extraterrestrial source, and more powerful",
-                "href": "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"
+                "title": "Das Problem mit German Strings",
+                "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
             }
         ]
     }
