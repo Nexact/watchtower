@@ -19,20 +19,20 @@
                 "href": "https://ziglang.org/news/2025-financials/"
             },
             {
-                "title": "Adding #[derive(From)] to Rust",
-                "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
-            },
-            {
                 "title": "Passkeys and Modern Authentication",
                 "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/"
             },
             {
-                "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
-                "href": "https://status.matrix.org/incidents/mm9hdm78svgv"
+                "title": "Adding #[derive(From)] to Rust",
+                "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
             },
             {
                 "title": "%CPU Utilization Is A Lie",
                 "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
+            },
+            {
+                "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
+                "href": "https://status.matrix.org/incidents/mm9hdm78svgv"
             },
             {
                 "title": "why self-host 9front",
@@ -75,6 +75,10 @@
                 "href": "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/"
             },
             {
+                "title": "Airbus B612 cockpit font",
+                "href": "https://github.com/polarsys/b612"
+            },
+            {
                 "title": "Things Kids Do (1975)",
                 "href": "https://www.youtube.com/watch?v=k3QAVEweMkY"
             },
@@ -87,16 +91,12 @@
                 "href": "https://blog.meca.sh/3lxoty3shjc2z"
             },
             {
-                "title": "Airbus B612 cockpit font",
-                "href": "https://github.com/polarsys/b612"
+                "title": "The Anatomy of a Mach-O: Structure, Code Signing, and PAC",
+                "href": "https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/"
             },
             {
                 "title": "Sharing a mutable reference between Rust and Python",
                 "href": "https://blog.lilyf.org/posts/python-mutable-reference/"
-            },
-            {
-                "title": "Reflections on Haskell@Meta",
-                "href": "https://www.youtube.com/watch?v=gEWBHP0PvRw"
             },
             {
                 "title": "Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel",
@@ -759,12 +759,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Voyager is an interactive RGBD video generation model",
+                "title": "Voyager is an interactive video generation model with realtime 3D reconstruction",
                 "href": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"
             },
             {
                 "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
                 "href": "https://microsoft.github.io/VibeVoice/"
+            },
+            {
+                "title": "Building the most accurate DIY CNC lathe in the world [video]",
+                "href": "https://www.youtube.com/watch?v=vEr2CJruwEM"
             },
             {
                 "title": "John Coltrane's Tone Circle",
@@ -783,32 +787,36 @@
                 "href": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
             },
             {
-                "title": "Energy Dashboard (UK)",
-                "href": "https://www.energydashboard.co.uk/map"
+                "title": "For all that's holy, can you just leverage the Web, please?",
+                "href": "https://blog.tomayac.com/2025/09/03/for-all-thats-holy-can-you-just-leverage-the-web-please/"
             },
             {
                 "title": "Magic Lantern Is Back",
                 "href": "https://www.magiclantern.fm/forum/index.php?topic=27315.0"
             },
             {
-                "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
-                "href": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html"
-            },
-            {
-                "title": "Building the most accurate DIY CNC lathe in the world [video]",
-                "href": "https://www.youtube.com/watch?v=vEr2CJruwEM"
+                "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
+                "href": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
             },
             {
                 "title": "Dynamo AI (YC W22) Is Hiring for AI Product Managers",
                 "href": "https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai"
             },
             {
-                "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
-                "href": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
+                "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
+                "href": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html"
+            },
+            {
+                "title": "Energy Dashboard (UK)",
+                "href": "https://www.energydashboard.co.uk/map"
             },
             {
                 "title": "Lit: a library for building fast, lightweight web components",
                 "href": "https://lit.dev"
+            },
+            {
+                "title": "Abstract Machine Models Also: what Rust got particularly right",
+                "href": "https://dr-knz.net/abstract-machine-models.html"
             },
             {
                 "title": "Finding thousands of exposed Ollama instances using Shodan",
@@ -819,52 +827,48 @@
                 "href": "https://www.newyorker.com/magazine/2025/09/01/inside-the-world-of-the-great-british-bake-off"
             },
             {
-                "title": "%CPU utilization is a lie",
-                "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
+                "title": "Today, I learned that eels are fish",
+                "href": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08"
             },
             {
-                "title": "This blog is running on a recycled Google Pixel 5 (2024)",
-                "href": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/"
+                "title": "%CPU utilization is a lie",
+                "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
             },
             {
                 "title": "Sharing a mutable reference between Rust and Python",
                 "href": "https://blog.lilyf.org/posts/python-mutable-reference/"
             },
             {
-                "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
-                "href": "https://github.com/awslabs/amazonq.nvim"
+                "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+                "href": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/"
             },
             {
-                "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
-                "href": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
+                "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
+                "href": "https://github.com/awslabs/amazonq.nvim"
             },
             {
                 "title": "A staff engineer's journey with Claude Code",
                 "href": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage"
             },
             {
-                "title": "No place in children's hands: <16s in UK to be banned from buying energy drinks",
-                "href": "https://www.theguardian.com/business/2025/sep/02/children-energy-drinks-government-obesity-health"
+                "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+                "href": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
             },
             {
                 "title": "TPDE-LLVM: Faster LLVM -O0 Back-End",
                 "href": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
             },
             {
-                "title": "AI is going great for the blind (2023)",
-                "href": "https://robertkingett.com/posts/6230/"
-            },
-            {
-                "title": "Apple's Assault on Standards",
-                "href": "https://infrequently.org/2025/09/apples-crimes-against-the-internet-community/"
+                "title": "Sharing Is Scaring: Linking Cloud File-Sharing to Programming Language Semantics",
+                "href": "https://cs.brown.edu/~sk/Publications/Papers/Published/akf-sharing-scaring/"
             },
             {
                 "title": "We already live in social credit, we just don't call it that",
                 "href": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
             },
             {
-                "title": "Sharing Is Scaring: Linking Cloud File-Sharing to Programming Language Semantics",
-                "href": "https://cs.brown.edu/~sk/Publications/Papers/Published/akf-sharing-scaring/"
+                "title": "AI is going great for the blind (2023)",
+                "href": "https://robertkingett.com/posts/6230/"
             },
             {
                 "title": "The staff ate it later",
@@ -873,10 +877,6 @@
             {
                 "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
                 "href": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html"
-            },
-            {
-                "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
-                "href": "https://dgross.ca/blog/linux-home-server-auto-sleep"
             }
         ]
     }
