@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Video Game Blurs (and how the best one works)",
+                "href": "https://blog.frost.kiwi/dual-kawase/"
+            },
+            {
                 "title": "Physically based rendering from first principles",
                 "href": "https://imadr.me/pbr/"
             },
@@ -11,12 +15,16 @@
                 "href": "https://ziglang.org/news/2025-financials/"
             },
             {
+                "title": "Adding #[derive(From)] to Rust",
+                "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
+            },
+            {
                 "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
                 "href": "https://status.matrix.org/incidents/mm9hdm78svgv"
             },
             {
-                "title": "Adding #[derive(From)] to Rust",
-                "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
+                "title": "Passkeys and Modern Authentication",
+                "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/"
             },
             {
                 "title": "why self-host 9front",
@@ -27,16 +35,24 @@
                 "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html"
             },
             {
-                "title": "Passkeys and Modern Authentication",
-                "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/"
+                "title": "Search Index in 150 Lines of Haskell",
+                "href": "https://entropicthoughts.com/search-index-150-lines-haskell"
             },
             {
                 "title": "New gABI/ELF Spec Available for Public Review",
                 "href": "https://groups.google.com/g/generic-abi/c/doY6WIIPqhU/"
             },
             {
+                "title": "%CPU Utilization Is A Lie",
+                "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
+            },
+            {
                 "title": "Debugging Rustler on illumos",
                 "href": "https://system-illumination.org/01-rustler.html"
+            },
+            {
+                "title": "Wild Performance Tricks | David Lattimore",
+                "href": "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html"
             },
             {
                 "title": "IRC - The Serial Port's love letter to Internet Relay Chat",
@@ -51,20 +67,8 @@
                 "href": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html"
             },
             {
-                "title": "Search Index in 150 Lines of Haskell",
-                "href": "https://entropicthoughts.com/search-index-150-lines-haskell"
-            },
-            {
-                "title": "%CPU Utilization Is A Lie",
-                "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
-            },
-            {
                 "title": "Making XML human-readable without XSLT",
                 "href": "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/"
-            },
-            {
-                "title": "Video Game Blurs (and how the best one works)",
-                "href": "https://blog.frost.kiwi/dual-kawase/"
             },
             {
                 "title": "Bear is now source-available",
@@ -97,10 +101,6 @@
             {
                 "title": "Aperiodic Tilings V: the Refinable Frontier",
                 "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-refine/"
-            },
-            {
-                "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
-                "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html"
             }
         ]
     },
@@ -654,8 +654,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Tencent Open Sourced a 3D World Model",
+                "href": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"
+            },
+            {
                 "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
                 "href": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/"
+            },
+            {
+                "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+                "href": "https://microsoft.github.io/VibeVoice/"
+            },
+            {
+                "title": "Energy Dashboard (UK)",
+                "href": "https://www.energydashboard.co.uk/map"
             },
             {
                 "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
@@ -666,12 +678,20 @@
                 "href": "https://www.magiclantern.fm/forum/index.php?topic=27315.0"
             },
             {
-                "title": "Finding thousands of exposed Ollama instances using Shodan",
-                "href": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama"
+                "title": "Dynamo AI (YC W22) Is Hiring for AI Product Managers",
+                "href": "https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai"
             },
             {
                 "title": "How to Give a Good Talk",
                 "href": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
+            },
+            {
+                "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
+                "href": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
+            },
+            {
+                "title": "Finding thousands of exposed Ollama instances using Shodan",
+                "href": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama"
             },
             {
                 "title": "AI is going great for the blind (2023)",
@@ -682,64 +702,56 @@
                 "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
             },
             {
-                "title": "Lit: a library for building fast, lightweight web components",
-                "href": "https://lit.dev"
+                "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+                "href": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/"
             },
             {
                 "title": "TPDE-LLVM: Faster LLVM -O0 Back-End",
                 "href": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
             },
             {
-                "title": "This blog is running on a recycled Google Pixel 5 (2024)",
-                "href": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/"
+                "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
+                "href": "https://github.com/awslabs/amazonq.nvim"
             },
             {
                 "title": "A staff engineer's journey with Claude Code",
                 "href": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage"
             },
             {
-                "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
-                "href": "https://github.com/awslabs/amazonq.nvim"
-            },
-            {
                 "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
                 "href": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
             },
             {
-                "title": "Energy Dashboard (UK)",
-                "href": "https://www.energydashboard.co.uk/map"
+                "title": "Lit: a library for building fast, lightweight web components",
+                "href": "https://lit.dev"
+            },
+            {
+                "title": "Sharing Is Scaring: Linking Cloud File-Sharing to Programming Language Semantics",
+                "href": "https://cs.brown.edu/~sk/Publications/Papers/Published/akf-sharing-scaring/"
             },
             {
                 "title": "We already live in social credit, we just don't call it that",
                 "href": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/"
             },
             {
-                "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
-                "href": "https://github.com/krig/LISP"
-            },
-            {
-                "title": "Finnish City Inaugurates 1 MW/100 MWh Sand Battery",
-                "href": "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/"
+                "title": "The staff ate it later",
+                "href": "https://en.wikipedia.org/wiki/The_staff_ate_it_later"
             },
             {
                 "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
                 "href": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html"
             },
             {
-                "title": "The staff ate it later",
-                "href": "https://en.wikipedia.org/wiki/The_staff_ate_it_later"
+                "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+                "href": "https://github.com/krig/LISP"
             },
             {
                 "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
                 "href": "https://dgross.ca/blog/linux-home-server-auto-sleep"
             },
             {
-                "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
-                "href": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/"
-            },
-            {
-                "title": "Acorn and the future of (AI?) theorem proving",
-                "href": "https://lmao.bearblog.dev/acorn-ai-proving/"
+                "title": "The Middle Earth",
+                "href": "https://www.historytoday.com/archive/out-margins/real-middle-earth"
             },
             {
                 "title": "Computing simplified coverage polygons",
@@ -750,28 +762,16 @@
                 "href": "https://github.com/the-litte-book-of/linear-algebra"
             },
             {
-                "title": "The Middle Earth",
-                "href": "https://www.historytoday.com/archive/out-margins/real-middle-earth"
-            },
-            {
                 "title": "Physically based rendering from first principles",
                 "href": "https://imadr.me/pbr/"
             },
             {
+                "title": "Acorn and the future of (AI?) theorem proving",
+                "href": "https://lmao.bearblog.dev/acorn-ai-proving/"
+            },
+            {
                 "title": "<template>: The Content Template element",
                 "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template"
-            },
-            {
-                "title": "Chicago has the most lead pipes in the nation",
-                "href": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/"
-            },
-            {
-                "title": "Introduction to Ada: a project-based exploration with rosettas",
-                "href": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
-            },
-            {
-                "title": "Static sites enable a good time travel experience",
-                "href": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/"
             }
         ]
     }
