@@ -47,20 +47,28 @@
                 "href": "https://slint.dev/blog/slint-1.13-released"
             },
             {
+                "title": "Faster Rust builds on Mac",
+                "href": "https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html"
+            },
+            {
                 "title": "Serious Shanns: Comic Sans for hackers",
                 "href": "https://github.com/kaBeech/serious-shanns"
+            },
+            {
+                "title": "How big are our embeddings now and why?",
+                "href": "https://newsletter.vickiboykis.com/archive/how-big-are-our-embeddings-now-and-why/"
             },
             {
                 "title": "Setting up cgit with Caddy v2 (2022)",
                 "href": "https://www.sixfoisneuf.fr/posts/setting-up-cgit-with-caddy2/"
             },
             {
-                "title": "2025 Financial Report and Fundraiser",
-                "href": "https://ziglang.org/news/2025-financials/"
+                "title": "Route, Layer and Process Kafka Messages with Tansu Services",
+                "href": "https://blog.tansu.io/articles/route-layer-service"
             },
             {
-                "title": "How big are our embeddings now and why?",
-                "href": "https://newsletter.vickiboykis.com/archive/how-big-are-our-embeddings-now-and-why/"
+                "title": "2025 Financial Report and Fundraiser",
+                "href": "https://ziglang.org/news/2025-financials/"
             },
             {
                 "title": "Welcoming the Rust Innovation Lab",
@@ -69,10 +77,6 @@
             {
                 "title": "Your Biggest Customer Might Be Your Biggest Bottleneck",
                 "href": "https://densumesh.dev/blog/fair-queue/"
-            },
-            {
-                "title": "Faster Rust builds on Mac",
-                "href": "https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html"
             },
             {
                 "title": "Physically based rendering from first principles",
@@ -97,10 +101,6 @@
             {
                 "title": "Building Terminal Applications With Elixir",
                 "href": "https://www.youtube.com/watch?v=eNbZcWTu0i0"
-            },
-            {
-                "title": "Adding #[derive(From)] to Rust",
-                "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
             }
         ]
     },
@@ -755,36 +755,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Melvyn Bragg steps down from presenting In Our Time",
-                "href": "https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/"
-            },
-            {
                 "title": "30 minutes with a stranger",
                 "href": "https://pudding.cool/2025/06/hello-stranger/"
             },
             {
-                "title": "\u00c9toil\u00e9 \u2013 desktop built on GNUStep",
-                "href": "http://etoileos.com/"
+                "title": "Melvyn Bragg steps down from presenting In Our Time",
+                "href": "https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/"
             },
             {
                 "title": "Show HN: A roguelike game that runs inside Notepad++",
                 "href": "https://github.com/thelowsunoverthemoon/NeuroPriest"
             },
             {
-                "title": "William Wordsworth's letter: \"The Law of Copyright\" (1838)",
-                "href": "https://gutenberg.org/cache/epub/76806/pg76806-images.html"
-            },
-            {
-                "title": "Reverse engineering Solos smart glasses",
-                "href": "https://jfloren.net/b/2025/8/28/0"
+                "title": "\u00c9toil\u00e9 \u2013 desktop built on GNUStep",
+                "href": "http://etoileos.com/"
             },
             {
                 "title": "Neovim Pack",
                 "href": "https://neovim.io/doc/user/pack.html#vim.pack"
             },
             {
-                "title": "Minesweeper thermodynamics",
-                "href": "https://oscarcunningham.com/792/minesweeper-thermodynamics/"
+                "title": "Reverse engineering Solos smart glasses",
+                "href": "https://jfloren.net/b/2025/8/28/0"
             },
             {
                 "title": "Claude Code: Now in Beta in Zed",
@@ -795,12 +787,24 @@
                 "href": "https://danybittel.ch/fluid"
             },
             {
+                "title": "Minesweeper thermodynamics",
+                "href": "https://oscarcunningham.com/792/minesweeper-thermodynamics/"
+            },
+            {
+                "title": "William Wordsworth's letter: \"The Law of Copyright\" (1838)",
+                "href": "https://gutenberg.org/cache/epub/76806/pg76806-images.html"
+            },
+            {
                 "title": "The Bitter Lesson Is Misunderstood",
                 "href": "https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood"
             },
             {
                 "title": "Nuclear: Desktop music player focused on streaming from free sources",
                 "href": "https://github.com/nukeop/nuclear"
+            },
+            {
+                "title": "Half an year on Alpine: just musl aside",
+                "href": "https://blog.jutty.dev/posts/half-an-year-on-alpine/"
             },
             {
                 "title": "New knot theory discovery overturns long-held mathematical assumption",
@@ -811,36 +815,40 @@
                 "href": "https://vgel.me/posts/c500/"
             },
             {
-                "title": "ReMarkable Paper Pro Move",
-                "href": "https://remarkable.com/products/remarkable-paper/pro-move"
-            },
-            {
-                "title": "Half an year on Alpine: just musl aside",
-                "href": "https://blog.jutty.dev/posts/half-an-year-on-alpine/"
-            },
-            {
                 "title": "Understanding Transformers Using a Minimal Example",
                 "href": "https://rti.github.io/gptvis/"
             },
             {
-                "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
-                "href": "https://gimletlabs.ai/blog/ai-generated-metal-kernels"
+                "title": "ReMarkable Paper Pro Move",
+                "href": "https://remarkable.com/products/remarkable-paper/pro-move"
+            },
+            {
+                "title": "The Wetware Crisis: The Thermocline of Truth (2008)",
+                "href": "https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/"
             },
             {
                 "title": "What is it like to be a bat?",
                 "href": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F"
             },
             {
+                "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
+                "href": "https://gimletlabs.ai/blog/ai-generated-metal-kernels"
+            },
+            {
                 "title": "Eels are fish",
                 "href": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08"
+            },
+            {
+                "title": "We're Joining OpenAI",
+                "href": "https://www.alexcodes.app/blog/alex-team-joins-openai"
             },
             {
                 "title": "The wall confronting large language models",
                 "href": "https://arxiv.org/abs/2507.19703"
             },
             {
-                "title": "We're Joining OpenAI",
-                "href": "https://www.alexcodes.app/blog/alex-team-joins-openai"
+                "title": "Poor man's bitemporal data system in SQLite and Clojure",
+                "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
             },
             {
                 "title": "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
@@ -851,28 +859,20 @@
                 "href": "https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding"
             },
             {
-                "title": "Evaluating Agents",
-                "href": "https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/"
-            },
-            {
                 "title": "How to Give a Good Talk",
                 "href": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
-            },
-            {
-                "title": "Microsoft BASIC for 6502 Microprocessor \u2013 Version 1.1",
-                "href": "https://github.com/microsoft/BASIC-M6502"
-            },
-            {
-                "title": "A Random Walk in 10 Dimensions (2021)",
-                "href": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/"
             },
             {
                 "title": "Building the most accurate DIY CNC lathe in the world [video]",
                 "href": "https://www.youtube.com/watch?v=vEr2CJruwEM"
             },
             {
-                "title": "Evidence that AI is destroying jobs for young people",
-                "href": "https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying"
+                "title": "A Random Walk in 10 Dimensions (2021)",
+                "href": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/"
+            },
+            {
+                "title": "Microsoft BASIC for 6502 Microprocessor \u2013 Version 1.1",
+                "href": "https://github.com/microsoft/BASIC-M6502"
             }
         ]
     }
