@@ -7,12 +7,12 @@
                 "href": "https://substack.com/inbox/post/172538377"
             },
             {
-                "title": "Why ML Needs a New Programming Language",
-                "href": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/"
-            },
-            {
                 "title": "jujutsu v0.33.0 released",
                 "href": "https://github.com/jj-vcs/jj/releases/tag/v0.33.0"
+            },
+            {
+                "title": "Why ML Needs a New Programming Language",
+                "href": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/"
             },
             {
                 "title": "Faster Rust builds on Mac",
@@ -55,12 +55,24 @@
                 "href": "https://github.com/microsoft/BASIC-M6502"
             },
             {
+                "title": "A practical introduction to parsing in Rust",
+                "href": "https://jhwlr.io/intro-to-parsing/"
+            },
+            {
                 "title": "How we made Kagi Assistant load twice as fast",
                 "href": "https://jacobwinters.com/kagi-assistant-optimization/"
             },
             {
                 "title": "Slint 1.13 Released with Live-Preview for Rust and C++",
                 "href": "https://slint.dev/blog/slint-1.13-released"
+            },
+            {
+                "title": "Making a small Clippy lint",
+                "href": "https://erk.dev/2025/08/21/clippy-lint"
+            },
+            {
+                "title": "Old type-in BASIC games refactored and playable in-browser",
+                "href": "https://basic-code.bearblog.dev"
             },
             {
                 "title": "The Programming-Lang of the Future",
@@ -75,14 +87,6 @@
                 "href": "https://blog.tansu.io/articles/route-layer-service"
             },
             {
-                "title": "Making a small Clippy lint",
-                "href": "https://erk.dev/2025/08/21/clippy-lint"
-            },
-            {
-                "title": "Old type-in BASIC games refactored and playable in-browser",
-                "href": "https://basic-code.bearblog.dev"
-            },
-            {
                 "title": "Formally verifying FP division with Gappa",
                 "href": "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
             },
@@ -93,10 +97,6 @@
             {
                 "title": "Strategically Holding Back Bugs and Patches",
                 "href": "https://rya.nc/files/strategically_holding_back_bugs_patches_spw25.pdf"
-            },
-            {
-                "title": "A practical introduction to parsing in Rust",
-                "href": "https://jhwlr.io/intro-to-parsing/"
             },
             {
                 "title": "How big are our embeddings now and why?",
@@ -160,12 +160,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1n6jj7q/deep_specter_research_uncovers_a_global_phishing/"
             },
             {
-                "title": "Golden dMSA",
-                "href": "https://old.reddit.com/r/netsec/comments/1n6g94k/golden_dmsa/"
-            },
-            {
                 "title": "anti-patterns and patterns for achieving secure generation of code via AI",
                 "href": "https://old.reddit.com/r/netsec/comments/1n788af/antipatterns_and_patterns_for_achieving_secure/"
+            },
+            {
+                "title": "Golden dMSA",
+                "href": "https://old.reddit.com/r/netsec/comments/1n6g94k/golden_dmsa/"
             },
             {
                 "title": "[Article] IPv6 Security: Attacks and Detection Methods",
@@ -315,12 +315,12 @@
         "feedname": "slashdot",
         "items": [
             {
-                "title": "New AI Model Turns Photos Into Explorable 3D Worlds, With Caveats",
-                "href": "https://news.slashdot.org/story/25/09/03/2312210/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
                 "title": "India's AI Story Is 'All Talk, Little Substance,' Says Bernstein",
                 "href": "https://slashdot.org/story/25/09/04/1231230/indias-ai-story-is-all-talk-little-substance-says-bernstein?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "New AI Model Turns Photos Into Explorable 3D Worlds, With Caveats",
+                "href": "https://news.slashdot.org/story/25/09/03/2312210/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
             {
                 "title": "Sweeteners Can Harm Cognitive Health Equivalent To 1.6 Years of Aging, Study Finds",
@@ -444,6 +444,14 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Atlassian security advisory (AV25-566)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-566"
+            },
+            {
+                "title": "VMware security advisory (AV25-565)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-565"
+            },
             {
                 "title": "Jenkins security advisory (AV25-564)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-564"
@@ -635,20 +643,64 @@
             {
                 "title": "Cisco security advisory (AV25-519)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-519"
-            },
-            {
-                "title": "[Control systems] Siemens security advisory (AV25-518)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/cyber-control-systems-siemens-security-advisory-av25-518"
-            },
-            {
-                "title": "N-able security advisory (AV25-517)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av25-517"
             }
         ]
     },
     {
         "feedname": "packetstorm",
         "items": [
+            {
+                "title": "US Offers $10 Million For Three Russian Energy Firm Hackers",
+                "href": "https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/"
+            },
+            {
+                "title": "Congressional Panel Throws Cyber Threat Intel-Sharing, Funding A Lifeline",
+                "href": "https://www.theregister.com/2025/09/04/cyber_threat_intelsharing_funding_lifeline/"
+            },
+            {
+                "title": "These Psychological Tricks Can Get LLMs To Respond To Forbidden Prompts",
+                "href": "https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/"
+            },
+            {
+                "title": "Sainsbury's Eyes Up Shoplifters With Live Facial Recognition",
+                "href": "https://www.theregister.com/2025/09/04/sainsburys_lfr/"
+            },
+            {
+                "title": "Healthcare Sector Takes 58 Days To Resolve Serious Vulnerabilities",
+                "href": "https://www.infosecurity-magazine.com/news/healthcare-58-days-resolve-serious/"
+            },
+            {
+                "title": "ViewState Deserialization Zero-Day Vulnerability In Sitecore Products",
+                "href": "https://cloud.google.com/blog/topics/threat-intelligence/viewstate-deserialization-zero-day-vulnerability/?hl=en"
+            },
+            {
+                "title": "Wytec Expects Significant Financial Loss Following Website Hack",
+                "href": "https://www.securityweek.com/wytec-expects-significant-financial-loss-following-website-hack/"
+            },
+            {
+                "title": "CNIL Fines Google 325 MillIon Euros And Shein 150 Million Euros Over Cookie Compliance",
+                "href": "https://www.cnil.fr/en/cookie-regulation-cnil-continuing-action-plan-initiated-2019-and-has-imposed-two-fines-shein-and"
+            },
+            {
+                "title": "Microsoft Confirms UAC Bug Breaks App Install On Windows 11 And 10 Versions",
+                "href": "https://cybersecuritynews.com/windows-uac-bug-breaks-app/"
+            },
+            {
+                "title": "Grok AI Amplifies Malicious Links Via Promoted Posts",
+                "href": "https://cybersecuritynews.com/hackers-exploit-xs-grok-ai/"
+            },
+            {
+                "title": "Not Safe for Work: Tracking and Investigating Stealerium and Phantom Infostealers",
+                "href": "https://www.proofpoint.com/us/blog/threat-insight/not-safe-work-tracking-and-investigating-stealerium-and-phantom-infostealers"
+            },
+            {
+                "title": "TP-Link Bug, WhatsApp Zero-Day Added To List Of Exploited Vulnerabilities",
+                "href": "https://www.scworld.com/news/tp-link-bug-whatsapp-zero-day-added-to-list-of-exploited-vulnerabilities"
+            },
+            {
+                "title": "Ethereum Smart Contracts Used To Push Malicious Code On npm",
+                "href": "https://www.reversinglabs.com/blog/ethereum-contracts-malicious-code"
+            },
             {
                 "title": "How Big Will This Drift Get? Cloudflare Cops To Salesloft Drift Breach",
                 "href": "https://www.theregister.com/2025/09/02/cloudflare_salesloft_drift_breach/"
@@ -696,58 +748,6 @@
             {
                 "title": "Jaguar Land Rover Production Severely Hit By Cyber-Attack",
                 "href": "https://www.bbc.com/news/articles/c9wywvllq7wo"
-            },
-            {
-                "title": "Google Investors Surprisingly Chill About Major Data Breach",
-                "href": "https://gizmodo.com/google-data-breach-2000650970"
-            },
-            {
-                "title": "Frostbyte10 Bugs Put Thousands Of Refrigerators At Major Grocery Chains At Risk",
-                "href": "https://www.theregister.com/2025/09/02/frostbyte10_copeland_controller_bugs/"
-            },
-            {
-                "title": "Zscaler Customer Info Taken In Salesloft Data Breach",
-                "href": "https://www.infosecurity-magazine.com/news/zscaler-customer-info-taken/"
-            },
-            {
-                "title": "Europe Putin The Blame On Russia After GPS Jamming Disrupts President's Plane",
-                "href": "https://www.theregister.com/2025/09/02/eu_gps_jamming_russia_response/"
-            },
-            {
-                "title": "Stolen OAuth Tokens Expose Palo Alto Customer Data",
-                "href": "https://www.theregister.com/2025/09/02/stolen_oauth_tokens_expose_palo/"
-            },
-            {
-                "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver To Deploy ValleyRAT Malware",
-                "href": "https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html"
-            },
-            {
-                "title": "Ukrainian Network FDN3 Launches Massive Brute-Force Attacks On SSL-VPN And RDP Devices",
-                "href": "https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html"
-            },
-            {
-                "title": "WhatsApp Zero-Day Exploited In Attacks Targeting Apple Users",
-                "href": "https://www.securityweek.com/whatsapp-zero-day-exploited-in-attacks-targeting-apple-users/"
-            },
-            {
-                "title": "Record-Breaking 11.5 Tbps UDP Flood DDoS Attack Originated From Google Cloud Platform",
-                "href": "https://cybersecuritynews.com/record-breaking-ddos-attack-11-5-tbps/"
-            },
-            {
-                "title": "MystRodX: The Covert Dual-Mode Backdoor Threat",
-                "href": "https://blog.xlab.qianxin.com/mystrodx_covert_dual-mode_backdoor_en/"
-            },
-            {
-                "title": "SQL Injection Vulnerability Patched In Paid Membership Subscriptions Plugin",
-                "href": "https://patchstack.com/articles/sql-injection-vulnerability-patched-in-paid-membership-subscriptions-plugin/"
-            },
-            {
-                "title": "Ransomware Attack On Pennsylvania's AG Office Disrupts Court Cases",
-                "href": "https://www.infosecurity-magazine.com/news/ransomware-pennsylvania-ag/"
-            },
-            {
-                "title": "PromptLock: First AI-Powered Ransomware Emerges",
-                "href": "https://www.securityweek.com/promptlock-first-ai-powered-ransomware-emerges/"
             }
         ]
     },
@@ -767,76 +767,80 @@
                 "href": "https://pudding.cool/2025/06/hello-stranger/"
             },
             {
-                "title": "How to build vector tiles from scratch",
-                "href": "https://www.debuisne.com/writing/geo-tiles/"
-            },
-            {
-                "title": "We Found the Hidden Cost of Data Centers. It's in Your Electric Bill [video]",
-                "href": "https://www.youtube.com/watch?v=YN6BEUA4jNU"
-            },
-            {
-                "title": "Inverting the Xorshift128 random number generator",
-                "href": "https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/"
-            },
-            {
                 "title": "The Hand-Drawn Hits That Hollywood Isn't Making",
                 "href": "https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood"
+            },
+            {
+                "title": "Calling your boss a dickhead is not a sackable offence, UK tribunal rules",
+                "href": "https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules"
+            },
+            {
+                "title": "How to build vector tiles from scratch",
+                "href": "https://www.debuisne.com/writing/geo-tiles/"
             },
             {
                 "title": "Electromechanical Reshaping Offers Safer Eye Surgery",
                 "href": "https://spectrum.ieee.org/electrochemistry-for-eye-surgeries"
             },
             {
-                "title": "Polycyclic Aromatic Hydrocarbons",
-                "href": "https://johncarlosbaez.wordpress.com/2025/09/01/polycyclic-aromatic-hydrocarbons/"
+                "title": "Inverting the Xorshift128 random number generator",
+                "href": "https://littlemaninmyhead.wordpress.com/2025/08/31/inverting-the-xorshift128-random-number-generator/"
             },
             {
-                "title": "Polars Cloud and Distributed Polars now available",
-                "href": "https://pola.rs/posts/polars-cloud-launch/"
+                "title": "Polycyclic Aromatic Hydrocarbons",
+                "href": "https://johncarlosbaez.wordpress.com/2025/09/01/polycyclic-aromatic-hydrocarbons/"
             },
             {
                 "title": "The Color of the Future: A history of blue",
                 "href": "https://www.hopefulmons.com/p/the-color-of-the-future"
             },
             {
-                "title": "\u00c9toil\u00e9 \u2013 desktop built on GNUStep",
-                "href": "http://etoileos.com/"
-            },
-            {
                 "title": "Claude Code: Now in Beta in Zed",
                 "href": "https://zed.dev/blog/claude-code-via-acp"
             },
             {
-                "title": "The Browser Company (Arc, Dia) Has Been Acquired by Atlassian",
-                "href": "https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company"
+                "title": "\u00c9toil\u00e9 \u2013 desktop built on GNUStep",
+                "href": "http://etoileos.com/"
+            },
+            {
+                "title": "We Found the Hidden Cost of Data Centers. It's in Your Electric Bill [video]",
+                "href": "https://www.youtube.com/watch?v=YN6BEUA4jNU"
             },
             {
                 "title": "Use Bayes rule to mechanically solve probability riddles",
                 "href": "https://cloud.disroot.org/s/Ec4xTMFDteTrFio"
             },
             {
-                "title": "I Should Have Loved Electrical Engineering",
-                "href": "https://blog.tdhttt.com/post/love-ee/"
-            },
-            {
-                "title": "The company behind the Dia and Arc browsers is being acquired",
-                "href": "https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian"
-            },
-            {
-                "title": "Neovim Pack",
-                "href": "https://neovim.io/doc/user/pack.html#vim.pack"
+                "title": "Polars Cloud and Distributed Polars now available",
+                "href": "https://pola.rs/posts/polars-cloud-launch/"
             },
             {
                 "title": "Show HN: A roguelike game that runs inside Notepad++",
                 "href": "https://github.com/thelowsunoverthemoon/NeuroPriest"
             },
             {
+                "title": "Atlassian is acquiring the Browser Company",
+                "href": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html"
+            },
+            {
                 "title": "Minesweeper thermodynamics",
                 "href": "https://oscarcunningham.com/792/minesweeper-thermodynamics/"
             },
             {
+                "title": "Neovim Pack",
+                "href": "https://neovim.io/doc/user/pack.html#vim.pack"
+            },
+            {
+                "title": "The company behind the Dia and Arc browsers is being acquired",
+                "href": "https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian"
+            },
+            {
                 "title": "The Bitter Lesson Is Misunderstood",
                 "href": "https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood"
+            },
+            {
+                "title": "I Should Have Loved Electrical Engineering",
+                "href": "https://blog.tdhttt.com/post/love-ee/"
             },
             {
                 "title": "Reverse engineering Solos smart glasses",
@@ -851,8 +855,12 @@
                 "href": "https://github.com/nukeop/nuclear"
             },
             {
-                "title": "Say Bye with JavaScript Beacon",
-                "href": "https://hemath.dev/blog/say-bye-with-javascript-beacon/"
+                "title": "The Browser Company (Arc, Dia) Has Been Acquired by Atlassian",
+                "href": "https://www.atlassian.com/blog/announcements/atlassian-acquires-the-browser-company"
+            },
+            {
+                "title": "Understanding Transformers Using a Minimal Example",
+                "href": "https://rti.github.io/gptvis/"
             },
             {
                 "title": "Hledger 1.50",
@@ -863,16 +871,8 @@
                 "href": "https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29"
             },
             {
-                "title": "Understanding Transformers Using a Minimal Example",
-                "href": "https://rti.github.io/gptvis/"
-            },
-            {
                 "title": "Writing a C compiler in 500 lines of Python (2023)",
                 "href": "https://vgel.me/posts/c500/"
-            },
-            {
-                "title": "New knot theory discovery overturns long-held mathematical assumption",
-                "href": "https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/"
             }
         ]
     }
