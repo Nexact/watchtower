@@ -27,6 +27,10 @@
                 "href": "https://lewiscampbell.tech/blog/250908.html"
             },
             {
+                "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
+                "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi"
+            },
+            {
                 "title": "Bye Intel, hi AMD! I\u2019m done after 2 dead Intels",
                 "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/"
             },
@@ -39,12 +43,16 @@
                 "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/"
             },
             {
+                "title": "Introducing Signal Secure Backups",
+                "href": "https://signal.org/blog/introducing-secure-backups/"
+            },
+            {
                 "title": "Do you have a personal wiki?",
                 "href": "https://lobste.rs/s/odeql3/do_you_have_personal_wiki"
             },
             {
-                "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
-                "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi"
+                "title": "Anatomy of a billion-download NPM supply-chain attack",
+                "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the"
             },
             {
                 "title": "Pico CSS \u2022 Minimal CSS Framework for semantic HTML",
@@ -75,10 +83,6 @@
                 "href": "https://www.openmymind.net/Everything-Is-A-u8-array/"
             },
             {
-                "title": "Anatomy of a billion-download NPM supply-chain attack",
-                "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the"
-            },
-            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/z3iuxt/what_are_you_doing_this_week"
             },
@@ -89,10 +93,6 @@
             {
                 "title": "Hilbert space: treating functions as vectors",
                 "href": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/"
-            },
-            {
-                "title": "Introducing Signal Secure Backups",
-                "href": "https://signal.org/blog/introducing-secure-backups/"
             },
             {
                 "title": "Tiny LLM - LLM Serving in a Week",
@@ -118,6 +118,10 @@
             {
                 "title": "Windows Defender's vulnerability: Break The Protective Shell Of Windows Defender With The Folder Redirect Technique",
                 "href": "https://old.reddit.com/r/netsec/comments/1nbo70m/windows_defenders_vulnerability_break_the/"
+            },
+            {
+                "title": "NPM Debug and Chalk Packages Compromised",
+                "href": "https://old.reddit.com/r/netsec/comments/1nbu5zm/npm_debug_and_chalk_packages_compromised/"
             },
             {
                 "title": "GitHub Actions: A Cloudy Day for Security - Part 1",
@@ -206,10 +210,6 @@
             {
                 "title": "How They Got In \u2014 DaVita\u2019s Data Breach",
                 "href": "https://old.reddit.com/r/netsec/comments/1n7efek/how_they_got_in_davitas_data_breach/"
-            },
-            {
-                "title": "Secondary Context Path Traversal in Omnissa Workspace ONE UEM",
-                "href": "https://old.reddit.com/r/netsec/comments/1n7b8m3/secondary_context_path_traversal_in_omnissa/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "US Man Still Alive Six Months After Pig Kidney Transplant",
+                "href": "https://science.slashdot.org/story/25/09/08/1727212/us-man-still-alive-six-months-after-pig-kidney-transplant?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Whistle-Blower Sues Meta Over Claims of WhatsApp Security Flaws",
                 "href": "https://yro.slashdot.org/story/25/09/08/1647240/whistle-blower-sues-meta-over-claims-of-whatsapp-security-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Scientists Discuss Next Steps to Prevent Dangerous 'Mirror Life' Research",
                 "href": "https://science.slashdot.org/story/25/09/07/1510215/scientists-discuss-next-steps-to-prevent-dangerous-mirror-life-research?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AI Tool Usage 'Correlates Negatively' With Performance in CS Class, Estonian Study Finds",
-                "href": "https://news.slashdot.org/story/25/09/07/0533233/ai-tool-usage-correlates-negatively-with-performance-in-cs-class-estonian-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -440,6 +440,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV25\u2013574)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-574"
+            },
             {
                 "title": "Microsoft Edge security advisory (AV25-573)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-573"
@@ -635,10 +639,6 @@
             {
                 "title": "Red Hat security advisory (AV25-527)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-527"
-            },
-            {
-                "title": "Microsoft Edge security advisory (AV25-526)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-526"
             }
         ]
     },
@@ -767,52 +767,48 @@
                 "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/"
             },
             {
-                "title": "Our data shows San Francisco tech workers are working Saturdays",
-                "href": "https://ramp.com/velocity/san-francisco-tech-workers-996-schedule"
-            },
-            {
                 "title": "OpenWrt: A Linux OS targeting embedded devices",
                 "href": "https://openwrt.org/"
-            },
-            {
-                "title": "Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia",
-                "href": "https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872"
-            },
-            {
-                "title": "Clankers Die on Christmas",
-                "href": "https://remyhax.xyz/posts/clankers-die-on-christmas/"
-            },
-            {
-                "title": "Will Amazon S3 Vectors Kill Vector Databases\u2013Or Save Them?",
-                "href": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them"
-            },
-            {
-                "title": "Google gets away almost scot-free in US search antitrust case",
-                "href": "https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html"
             },
             {
                 "title": "Firefox 32-bit Linux Support to End in 2026",
                 "href": "https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/"
             },
             {
+                "title": "Dietary omega-3 polyunsaturated fatty acids as a protective factor of myopia",
+                "href": "https://bjo.bmj.com/content/early/2025/08/17/bjo-2024-326872"
+            },
+            {
+                "title": "Will Amazon S3 Vectors Kill Vector Databases\u2013Or Save Them?",
+                "href": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them"
+            },
+            {
+                "title": "Clankers Die on Christmas",
+                "href": "https://remyhax.xyz/posts/clankers-die-on-christmas/"
+            },
+            {
+                "title": "Google gets away almost scot-free in US search antitrust case",
+                "href": "https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html"
+            },
+            {
                 "title": "Browser Fingerprint Detector",
                 "href": "https://fingerprint.goldenowl.ai/"
-            },
-            {
-                "title": "Meta suppressed research on child safety, employees say",
-                "href": "https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/"
-            },
-            {
-                "title": "Building an acoustic camera with UMA-16 and Acoular",
-                "href": "https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16"
             },
             {
                 "title": "Immich \u2013 High performance self-hosted photo and video management solution",
                 "href": "https://github.com/immich-app/immich"
             },
             {
+                "title": "Meta suppressed research on child safety, employees say",
+                "href": "https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/"
+            },
+            {
                 "title": "A complete map of the Rust type system",
                 "href": "https://rustcurious.com/elements/"
+            },
+            {
+                "title": "Building an acoustic camera with UMA-16 and Acoular",
+                "href": "https://www.minidsp.com/applications/usb-mic-array/acoustic-camera-uma16"
             },
             {
                 "title": "14 Killed in anti-government protests in Nepal",
@@ -823,52 +819,56 @@
                 "href": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
             },
             {
-                "title": "RSS Beat Microsoft",
-                "href": "https://buttondown.com/blog/rss-vs-ice"
-            },
-            {
                 "title": "What if artificial intelligence is just a \"normal\" technology?",
                 "href": "https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology"
+            },
+            {
+                "title": "RSS Beat Microsoft",
+                "href": "https://buttondown.com/blog/rss-vs-ice"
             },
             {
                 "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
                 "href": "https://twitter.com/samhenrigold/status/1964428927159382261"
             },
             {
-                "title": "Why Is Japan Still Investing in Custom Floating Point Accelerators?",
-                "href": "https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/"
+                "title": "Our data shows San Francisco tech workers are working Saturdays",
+                "href": "https://ramp.com/velocity/san-francisco-tech-workers-996-schedule"
             },
             {
-                "title": "VMware's in court again. Customer relationships rarely go this wrong",
-                "href": "https://www.theregister.com/2025/09/08/vmware_in_court_opinion/"
+                "title": "Why Is Japan Still Investing in Custom Floating Point Accelerators?",
+                "href": "https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/"
             },
             {
                 "title": "American Flying Empty Airbus A321neo Across the Atlantic 20 Times",
                 "href": "https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/"
             },
             {
-                "title": "We Rarely Lose Technology (2023)",
-                "href": "https://www.hopefulmons.com/p/we-rarely-lose-technology"
-            },
-            {
-                "title": "Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64",
-                "href": "https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/"
+                "title": "VMware's in court again. Customer relationships rarely go this wrong",
+                "href": "https://www.theregister.com/2025/09/08/vmware_in_court_opinion/"
             },
             {
                 "title": "Formatting code should be unnecessary",
                 "href": "https://maxleiter.com/blog/formatting"
             },
             {
-                "title": "'We can do it for under $100M': Startup joins race to build local ChatGPT",
-                "href": "https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o"
-            },
-            {
                 "title": "Integer Programming (2002) [pdf]",
                 "href": "https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf"
             },
             {
-                "title": "Writing by manipulating visual representations of stories",
-                "href": "https://github.com/m-damien/VisualStoryWriting"
+                "title": "'We can do it for under $100M': Startup joins race to build local ChatGPT",
+                "href": "https://www.afr.com/technology/we-can-do-it-for-under-100m-start-up-joins-race-to-build-local-chatgpt-20250908-p5mt5o"
+            },
+            {
+                "title": "Indiana Jones and the Last Crusade Adventure Prototype Recovered for the C64",
+                "href": "https://www.gamesthatwerent.com/2025/09/indiana-jones-and-the-last-crusade-adventure-prototype-recovered-for-the-commodore-64/"
+            },
+            {
+                "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
+                "href": "https://simonwillison.net/2025/Sep/6/research-goblin/"
+            },
+            {
+                "title": "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
+                "href": "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/"
             }
         ]
     }
