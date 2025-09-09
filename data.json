@@ -7,12 +7,12 @@
                 "href": "https://github.com/mmulet/term.everything"
             },
             {
-                "title": "The First ziglang.org Outage",
-                "href": "https://ziglang.org/news/first-outage/"
-            },
-            {
                 "title": "Apple Event for September 9th, 2025",
                 "href": "https://www.apple.com/apple-events/"
+            },
+            {
+                "title": "The First ziglang.org Outage",
+                "href": "https://ziglang.org/news/first-outage/"
             },
             {
                 "title": "Batched Critical Sections",
@@ -27,6 +27,10 @@
                 "href": "https://maxleiter.com/blog/formatting"
             },
             {
+                "title": "A new experimental Go API for JSON",
+                "href": "https://go.dev/blog/jsonv2-exp"
+            },
+            {
                 "title": "Rich Already Answered That",
                 "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f"
             },
@@ -39,28 +43,28 @@
                 "href": "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel"
             },
             {
-                "title": "A new experimental Go API for JSON",
-                "href": "https://go.dev/blog/jsonv2-exp"
-            },
-            {
                 "title": "Testing the compiler optimizations your code relies on",
                 "href": "https://pythonspeed.com/articles/testing-compiler-optimizations/"
-            },
-            {
-                "title": "Memory Integrity Enforcement: A complete vision for memory safety in Apple devices",
-                "href": "https://security.apple.com/blog/memory-integrity-enforcement/"
-            },
-            {
-                "title": "Package Managers are Evil",
-                "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/"
             },
             {
                 "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
                 "href": "https://www.ethanheilman.com/x/35/index.html"
             },
             {
+                "title": "Package Managers are Evil",
+                "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/"
+            },
+            {
                 "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
                 "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi"
+            },
+            {
+                "title": "How to Build Python Code with Bazel (and Why)",
+                "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/"
+            },
+            {
+                "title": "How I Made Ruby Faster than Ruby",
+                "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster"
             },
             {
                 "title": "Introducing Signal Secure Backups",
@@ -71,36 +75,32 @@
                 "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md"
             },
             {
-                "title": "How to Build Python Code with Bazel (and Why)",
-                "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/"
+                "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
+                "href": "https://kube.io/blog/liquid-glass-css-svg/"
             },
             {
                 "title": "How to Prove False Statements: Practical Attacks on Fiat-Shamir",
                 "href": "https://eprint.iacr.org/2025/118.pdf"
             },
             {
-                "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-                "href": "https://kube.io/blog/liquid-glass-css-svg/"
+                "title": "Unauthorized Windows/386",
+                "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/"
             },
             {
                 "title": "Analyzing the memory ordering models of the Apple M1 (2023)",
                 "href": "https://www.sciencedirect.com/science/article/pii/S1383762124000390"
             },
             {
-                "title": "Unauthorized Windows/386",
-                "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/"
+                "title": "Compiling a functional language to LLVM",
+                "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
             },
             {
                 "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
                 "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/"
             },
             {
-                "title": "How I Made Ruby Faster than Ruby",
-                "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster"
-            },
-            {
-                "title": "Compiling a functional language to LLVM",
-                "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
+                "title": "Hashed sorting is typically faster than hash tables",
+                "href": "https://reiner.org/hashed-sorting"
             }
         ]
     },
@@ -110,6 +110,10 @@
             {
                 "title": "r/netsec monthly discussion & tool thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1n5oqio/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "A Technical Analysis on How a Chinese Company is Exporting The Great Firewall to Autocratic Regimes",
+                "href": "https://old.reddit.com/r/netsec/comments/1ncsu89/a_technical_analysis_on_how_a_chinese_company_is/"
             },
             {
                 "title": "NPM Debug and Chalk Packages Compromised",
@@ -206,10 +210,6 @@
             {
                 "title": "Guide pour relayer NTLM sur HTTP - l'exemple de GLPI",
                 "href": "https://old.reddit.com/r/netsec/comments/1n861aa/guide_pour_relayer_ntlm_sur_http_lexemple_de_glpi/"
-            },
-            {
-                "title": "How They Got In \u2014 DaVita\u2019s Data Breach",
-                "href": "https://old.reddit.com/r/netsec/comments/1n7efek/how_they_got_in_davitas_data_breach/"
             }
         ]
     },
@@ -759,24 +759,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Dropbox Paper mobile App Discontinuation",
-                "href": "https://help.dropbox.com/installs/paper-mobile-discontinuation"
+                "title": "iPhone Air",
+                "href": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/"
+            },
+            {
+                "title": "Memory Integrity Enforcement",
+                "href": "https://security.apple.com/blog/memory-integrity-enforcement/"
             },
             {
                 "title": "Claude can now create and edit files",
                 "href": "https://www.anthropic.com/news/create-files"
             },
             {
+                "title": "Dropbox Paper mobile App Discontinuation",
+                "href": "https://help.dropbox.com/installs/paper-mobile-discontinuation"
+            },
+            {
                 "title": "We all dodged a bullet",
                 "href": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/"
             },
             {
-                "title": "The Dying Dream of a Decentralized Web",
-                "href": "https://spectrum.ieee.org/web3-hardware-security"
+                "title": "Classic Mac OS System 1 Patterns",
+                "href": "https://paulsmith.github.io/classic-mac-patterns/"
             },
             {
-                "title": "Memory Integrity Enforcement",
-                "href": "https://security.apple.com/blog/memory-integrity-enforcement/"
+                "title": "AI Darwin Awards 2025",
+                "href": "https://aidarwinawards.org/index.html"
+            },
+            {
+                "title": "Polylaminin, promotes regeneration after spinal cord injury",
+                "href": "https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury"
+            },
+            {
+                "title": "E-Paper Display Refresh Rate Reaches New Heights",
+                "href": "https://spectrum.ieee.org/e-paper-display-modos"
             },
             {
                 "title": "A new experimental Go API for JSON",
@@ -787,6 +803,14 @@
                 "href": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai"
             },
             {
+                "title": "The Dying Dream of a Decentralized Web",
+                "href": "https://spectrum.ieee.org/web3-hardware-security"
+            },
+            {
+                "title": "Weave (YC W25) is hiring a founding AI engineer",
+                "href": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
+            },
+            {
                 "title": "ICE Is Using Fake Cell Towers to Spy on People's Phones",
                 "href": "https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/"
             },
@@ -795,20 +819,16 @@
                 "href": "https://cedardb.com/blog/doomql/"
             },
             {
-                "title": "E-Paper Display Refresh Rate Reaches New Heights",
-                "href": "https://spectrum.ieee.org/e-paper-display-modos"
-            },
-            {
-                "title": "Weave (YC W25) is hiring a founding AI engineer",
-                "href": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
-            },
-            {
-                "title": "X open sourced their latest algorithm",
-                "href": "https://github.com/twitter/the-algorithm"
+                "title": "iPhone 17 Pro and iPhone 17 Pro Max",
+                "href": "https://www.apple.com/iphone-17-pro/"
             },
             {
                 "title": "Go for Bash Programmers \u2013 Part II: CLI Tools",
                 "href": "https://github.com/go-monk/from-bash-to-go-part-ii"
+            },
+            {
+                "title": "X open sourced their latest algorithm",
+                "href": "https://github.com/twitter/the-algorithm"
             },
             {
                 "title": "A clickable visual guide to the Rust type system",
@@ -819,24 +839,28 @@
                 "href": "https://www.getxeneva.com/"
             },
             {
-                "title": "I solved a distributed queue problem after 15 years",
-                "href": "https://www.dbos.dev/blog/durable-queues"
+                "title": "Cities Obey the Laws of Living Things",
+                "href": "https://nautil.us/cities-obey-the-laws-of-living-things-1236057/"
             },
             {
                 "title": "You too can run malware from NPM (I mean without consequences)",
                 "href": "https://github.com/naugtur/running-qix-malware"
             },
             {
-                "title": "An attacker\u2019s blunder gave us a look into their operations",
-                "href": "https://www.huntress.com/blog/rare-look-inside-attacker-operation"
+                "title": "Judge: Anthropic's $1.5B settlement is being shoved \"down the throat of authors\"",
+                "href": "https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/"
+            },
+            {
+                "title": "I solved a distributed queue problem after 15 years",
+                "href": "https://www.dbos.dev/blog/durable-queues"
             },
             {
                 "title": "Microserfs ordered back to the office, given 10 days to appeal",
                 "href": "https://www.theregister.com/2025/09/09/microsoft_return_to_work/"
             },
             {
-                "title": "Judge: Anthropic's $1.5B settlement is being shoved \"down the throat of authors\"",
-                "href": "https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/"
+                "title": "Show HN: Superagents \u2013 connect spreadsheets to any database, API or MCP server",
+                "href": "https://sourcetable.com/superagents"
             },
             {
                 "title": "How can England possibly be running out of water?",
@@ -847,36 +871,12 @@
                 "href": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet"
             },
             {
-                "title": "Tomorrow's Emoji, Today: Unicode 17.0",
-                "href": "https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170"
-            },
-            {
                 "title": "Yet Another TypeSafe and Generic Programming Candidate for C",
                 "href": "https://github.com/brightprogrammer/MisraStdC"
             },
             {
                 "title": "U.S. Added 911,000 Fewer Jobs in the Year Ended in March",
                 "href": "https://www.wsj.com/economy/jobs/us-job-growth-revision-a9777d98"
-            },
-            {
-                "title": "Disrupting the DRAM roadmap with capacitor-less IGZO-DRAM technology",
-                "href": "https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology"
-            },
-            {
-                "title": "William James at CERN (1995)",
-                "href": "http://bactra.org/wm-james-at-cern/"
-            },
-            {
-                "title": "Synthesizing Object-Oriented and Functional Design to Promote Re-Use",
-                "href": "https://cs.brown.edu/~sk/Publications/Papers/Published/kff-synth-fp-oo/"
-            },
-            {
-                "title": "New Mexico is first state in US to offer universal child care",
-                "href": "https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/"
-            },
-            {
-                "title": "Strong Eventual Consistency \u2013 The Big Idea Behind CRDTs",
-                "href": "https://lewiscampbell.tech/blog/250908.html"
             }
         ]
     }
