@@ -19,10 +19,6 @@
                 "href": "https://github.com/go-task/task/releases/tag/v3.45.3"
             },
             {
-                "title": "Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599"
-            },
-            {
                 "title": "Java 25",
                 "href": "https://openjdk.org/projects/jdk/25/"
             },
@@ -31,8 +27,16 @@
                 "href": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
             },
             {
+                "title": "Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599"
+            },
+            {
                 "title": "Wanted to spy on my dog, ended up spying on TP-Link",
                 "href": "https://kennedn.com/blog/posts/tapo/"
+            },
+            {
+                "title": "How to implement the Outbox pattern in Go and Postgres",
+                "href": "https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2"
             },
             {
                 "title": "A detailed review of macOS 26 Tahoe",
@@ -41,10 +45,6 @@
             {
                 "title": "Swift 6.2 Released",
                 "href": "https://www.swift.org/blog/swift-6.2-released/"
-            },
-            {
-                "title": "How to implement the Outbox pattern in Go and Postgres",
-                "href": "https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2"
             },
             {
                 "title": "React Won by Default \u2013 And It's Killing Frontend Innovation",
@@ -67,12 +67,24 @@
                 "href": "https://blog.asciinema.org/post/three-point-o/"
             },
             {
-                "title": "A painful road to Java modularity with OSGi",
-                "href": "https://blog.enioka.com/2025/06/18/a-painful-road-to-java-modularity/"
+                "title": "In Defense of C++",
+                "href": "https://dayvster.com/blog/in-defense-of-cpp/"
+            },
+            {
+                "title": "Adios Chicos, 25 Years of KDE",
+                "href": "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/"
             },
             {
                 "title": "Just for fun: animating a mosaic of 90s GIFs",
                 "href": "https://alexplescan.com/posts/2025/09/15/gifs/"
+            },
+            {
+                "title": "A painful road to Java modularity with OSGi",
+                "href": "https://blog.enioka.com/2025/06/18/a-painful-road-to-java-modularity/"
+            },
+            {
+                "title": "Good Times in River City: Bridgetown 2.0 is Here",
+                "href": "https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/"
             },
             {
                 "title": "The E Language",
@@ -83,24 +95,12 @@
                 "href": "https://paretosecurity.com/blog/automating-distro-updates-in-ci/"
             },
             {
-                "title": "Good Times in River City: Bridgetown 2.0 is Here",
-                "href": "https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/"
-            },
-            {
                 "title": "Varnish: 8.0.0 with bonus project news",
                 "href": "https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news"
             },
             {
                 "title": "The idea of /usr/sbin has failed in practice",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice"
-            },
-            {
-                "title": "Hosting a WebSite on a Disposable Vape",
-                "href": "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
-            },
-            {
-                "title": "Adios Chicos, 25 Years of KDE",
-                "href": "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/"
             }
         ]
     },
@@ -275,8 +275,57 @@
         ]
     },
     {
+        "feedname": "krebsonsecurity",
+        "items": [
+            {
+                "title": "Self-Replicating Worm Hits 180+ Software Packages",
+                "href": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/"
+            },
+            {
+                "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+                "href": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/"
+            },
+            {
+                "title": "Microsoft Patch Tuesday, September 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/"
+            },
+            {
+                "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
+                "href": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/"
+            },
+            {
+                "title": "GOP Cries Censorship Over Spam Filters That Work",
+                "href": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/"
+            },
+            {
+                "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+                "href": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/"
+            },
+            {
+                "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
+                "href": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/"
+            },
+            {
+                "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
+                "href": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/"
+            },
+            {
+                "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
+                "href": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/"
+            },
+            {
+                "title": "Oregon Man Charged in \u2018Rapper Bot\u2019 DDoS Service",
+                "href": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/"
+            }
+        ]
+    },
+    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Verizon To Offer $20 Broadband In California To Obtain Merger Approval",
+                "href": "https://tech.slashdot.org/story/25/09/16/1950246/verizon-to-offer-20-broadband-in-california-to-obtain-merger-approval?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Waymo Gets Green Light For Airport Service in San Francisco",
                 "href": "https://tech.slashdot.org/story/25/09/16/1856253/waymo-gets-green-light-for-airport-service-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -332,10 +381,6 @@
             {
                 "title": "FTC Probes Whether Ticketmaster Does Enough To Stop Resale Bots",
                 "href": "https://yro.slashdot.org/story/25/09/15/2213254/ftc-probes-whether-ticketmaster-does-enough-to-stop-resale-bots?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "'Meta Ray-Ban Display' Glasses Design, HUD Clips Leak",
-                "href": "https://hardware.slashdot.org/story/25/09/15/2049228/meta-ray-ban-display-glasses-design-hud-clips-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -407,6 +452,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "HPE security advisory (AV25-595)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-595"
+            },
             {
                 "title": "Mozilla security advisory (AV25-594)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-594"
@@ -602,10 +651,6 @@
             {
                 "title": "Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2025-7775, CVE-2025-7776 and CVE-2025-8424",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vulnerabilities-impacting-citrix-netscaler-adc-netscaler-gateway-cve-2025-7775-cve-2025-7776-cve-2025-8424"
-            },
-            {
-                "title": "Docker security advisory (AV25\u2013546)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av25-546"
             }
         ]
     },
@@ -722,6 +767,10 @@
                 "href": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
             },
             {
+                "title": "How to make the Framework Desktop run even quieter",
+                "href": "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter"
+            },
+            {
                 "title": "Things you can do with a Software Defined Radio (2024)",
                 "href": "https://blinry.org/50-things-with-sdr/"
             },
@@ -730,20 +779,8 @@
                 "href": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit"
             },
             {
-                "title": "How to make the Framework Desktop run even quieter",
-                "href": "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter"
-            },
-            {
                 "title": "Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out",
                 "href": "https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out"
-            },
-            {
-                "title": "Show HN: AI Code Detector \u2013 detect AI-generated code with 95% accuracy",
-                "href": "https://code-detector.ai/"
-            },
-            {
-                "title": "I built my own phone because innovation is sad rn [video]",
-                "href": "https://www.youtube.com/watch?v=qy_9w_c2ub0"
             },
             {
                 "title": "Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video",
@@ -752,6 +789,10 @@
             {
                 "title": "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
                 "href": "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
+            },
+            {
+                "title": "I built my own phone because innovation is sad rn [video]",
+                "href": "https://www.youtube.com/watch?v=qy_9w_c2ub0"
             },
             {
                 "title": "Plugin System",
@@ -770,6 +811,14 @@
                 "href": "https://blog.google/products/search/google-app-windows-labs/"
             },
             {
+                "title": "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
+                "href": "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
+            },
+            {
+                "title": "Wind turbine blade transportation challenges",
+                "href": "https://spectrum.ieee.org/wind-turbine-blade-transport-plane"
+            },
+            {
                 "title": "CIA Freedom of Information Act Electronic Reading Room",
                 "href": "https://www.cia.gov/readingroom"
             },
@@ -782,60 +831,56 @@
                 "href": "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/"
             },
             {
-                "title": "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
-                "href": "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
+                "title": "Writing an operating system kernel from scratch \u2013 RISC-V/OpenSBI/Zig",
+                "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
             },
             {
-                "title": "Implicit ODE Solvers Are Not Universally More Robust Than Explicit ODE Solvers",
-                "href": "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/"
-            },
-            {
-                "title": "The Linux Process Journey (2023) [pdf]",
-                "href": "https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf"
+                "title": "Top UN legal investigators conclude Israel is guilty of genocide in Gaza",
+                "href": "https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza"
             },
             {
                 "title": "Paper Folding Assembly Line [video]",
                 "href": "https://www.youtube.com/watch?v=XhUuhl9iWpQ"
             },
             {
+                "title": "The Linux Process Journey (2023) [pdf]",
+                "href": "https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf"
+            },
+            {
                 "title": "Development of the MOS Technology 6502: A Historical Perspective (2022)",
                 "href": "https://www.EmbeddedRelated.com/showarticle/1453.php"
             },
             {
-                "title": "Writing an operating system kernel from scratch \u2013 RISC-V/OpenSBI/Zig",
-                "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
+                "title": "Implicit ODE Solvers Are Not Universally More Robust Than Explicit ODE Solvers",
+                "href": "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/"
             },
             {
-                "title": "Generative AI as Seniority-Biased Technological Change",
-                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555"
+                "title": "Should We Drain the Everglades?",
+                "href": "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades"
             },
             {
                 "title": "60 years after Gemini, newly processed images reveal details",
                 "href": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/"
             },
             {
+                "title": "Generative AI as Seniority-Biased Technological Change",
+                "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555"
+            },
+            {
                 "title": "Microsoft Favors Anthropic over OpenAI for Visual Studio Code",
                 "href": "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4"
-            },
-            {
-                "title": "Will I run Boston 2026?",
-                "href": "https://getfast.ai/blogs/boston-2026"
-            },
-            {
-                "title": "Teen safety, freedom, and privacy",
-                "href": "https://openai.com/index/teen-safety-freedom-and-privacy"
             },
             {
                 "title": "Java 25 officially released",
                 "href": "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html"
             },
             {
-                "title": "Scientists uncover extreme life inside the Arctic ice",
-                "href": "https://news.stanford.edu/stories/2025/09/extreme-life-arctic-ice-diatoms-ecological-discovery"
+                "title": "Teen safety, freedom, and privacy",
+                "href": "https://openai.com/index/teen-safety-freedom-and-privacy"
             },
             {
-                "title": "Migrating to React Native's new architecture",
-                "href": "https://shopify.engineering/react-native-new-architecture"
+                "title": "Will I run Boston 2026?",
+                "href": "https://getfast.ai/blogs/boston-2026"
             }
         ]
     }
