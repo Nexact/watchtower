@@ -35,12 +35,20 @@
                 "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
             },
             {
+                "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs",
+                "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/"
+            },
+            {
                 "title": "What are you doing this week?",
                 "href": "https://lobste.rs/s/zxxdp0/what_are_you_doing_this_week"
             },
             {
-                "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs",
-                "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/"
+                "title": "The FLP theorem",
+                "href": "https://shachaf.net/w/flp"
+            },
+            {
+                "title": "A long look at NetBSD 10.1",
+                "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd"
             },
             {
                 "title": "@ts-ignore is almost always the worst option",
@@ -59,10 +67,6 @@
                 "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8"
             },
             {
-                "title": "A long look at NetBSD 10.1",
-                "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd"
-            },
-            {
                 "title": "Are XSLT stylesheets pure functions?",
                 "href": "https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions"
             },
@@ -79,8 +83,8 @@
                 "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/"
             },
             {
-                "title": "The FLP theorem",
-                "href": "https://shachaf.net/w/flp"
+                "title": "aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin",
+                "href": "https://github.com/johnousterhout/aposd-vs-clean-code"
             },
             {
                 "title": "The free software commons",
@@ -97,10 +101,6 @@
             {
                 "title": "The story of Musium",
                 "href": "https://ruudvanasseldonk.com/2025/musium"
-            },
-            {
-                "title": "Linux Kernel Runtime Guard (LKRG) 1.0",
-                "href": "https://www.openwall.com/presentations/NullconBerlin2025-LKRG/"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Apple's iPhone 17 Pro Can Be Easily Scratched",
+                "href": "https://mobile.slashdot.org/story/25/09/22/1913255/apples-iphone-17-pro-can-be-easily-scratched?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Uber CEO Says Robotaxis Could Displace Drivers in 10 To 15 Years and Create 'a Big, Big Societal Question'",
                 "href": "https://tech.slashdot.org/story/25/09/22/185208/uber-ceo-says-robotaxis-could-displace-drivers-in-10-to-15-years-and-create-a-big-big-societal-question?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "AI Tools Give Dangerous Powers to Cyberattackers, Security Researchers Warn",
                 "href": "https://yro.slashdot.org/story/25/09/21/2022257/ai-tools-give-dangerous-powers-to-cyberattackers-security-researchers-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "More Durable UV Coating For Solar Panels Made From Red Onion Skins",
-                "href": "https://news.slashdot.org/story/25/09/21/1942234/more-durable-uv-coating-for-solar-panels-made-from-red-onion-skins?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -755,48 +755,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
-                "href": "https://openai.com/index/openai-nvidia-systems-partnership/"
-            },
-            {
                 "title": "A collection of technical things every software developer should know about",
                 "href": "https://github.com/mtdvio/every-programmer-should-know"
-            },
-            {
-                "title": "PlanetScale for Postgres is now GA",
-                "href": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
-            },
-            {
-                "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-                "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
-            },
-            {
-                "title": "A board member's perspective of the RubyGems controversy",
-                "href": "https://apiguy.substack.com/p/a-board-members-perspective-of-the"
-            },
-            {
-                "title": "SWE-Bench Pro",
-                "href": "https://github.com/scaleapi/SWE-bench_Pro-os"
             },
             {
                 "title": "Qwen3-Omni: Native Omni AI Model for Text, Image & Video",
                 "href": "https://github.com/QwenLM/Qwen3-Omni"
             },
             {
+                "title": "PlanetScale for Postgres is now GA",
+                "href": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
+            },
+            {
+                "title": "A board member's perspective of the RubyGems controversy",
+                "href": "https://apiguy.substack.com/p/a-board-members-perspective-of-the"
+            },
+            {
+                "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
+                "href": "https://openai.com/index/openai-nvidia-systems-partnership/"
+            },
+            {
+                "title": "SWE-Bench Pro",
+                "href": "https://github.com/scaleapi/SWE-bench_Pro-os"
+            },
+            {
+                "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+                "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
+            },
+            {
                 "title": "Choose Your Own Adventure",
                 "href": "https://www.filfre.net/2025/09/choose-your-own-adventure/"
-            },
-            {
-                "title": "Morgan and Morgan takes Disney to court over 'Steamboat Willie' in ads",
-                "href": "https://www.clickorlando.com/news/local/2025/09/17/morgan-morgan-takes-disney-to-court-over-rights-to-feature-steamboat-willie-in-law-firm-ads/"
-            },
-            {
-                "title": "Mentra (YC W25) Is Hiring to build smart glasses",
-                "href": "item?id=45336282"
-            },
-            {
-                "title": "Cap'n Web: a new RPC system for browsers and web servers",
-                "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/"
             },
             {
                 "title": "A simple way to measure knots has come unraveled",
@@ -807,36 +795,40 @@
                 "href": "https://arxiv.org/abs/2503.05136"
             },
             {
-                "title": "Easy Forth (2015)",
-                "href": "https://skilldrick.github.io/easyforth/"
+                "title": "Mentra (YC W25) Is Hiring to build smart glasses",
+                "href": "item?id=45336282"
             },
             {
-                "title": "CompileBench: Can AI Compile 22-year-old Code?",
-                "href": "https://quesma.com/blog/introducing-compilebench/"
-            },
-            {
-                "title": "What is algebraic about algebraic effects?",
-                "href": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+                "title": "Cap'n Web: a new RPC system for browsers and web servers",
+                "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/"
             },
             {
                 "title": "Testing is better than Data Structures and Algorithms",
                 "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
             },
             {
+                "title": "AI-Generated \"Workslop\" Is Destroying Productivity",
+                "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity"
+            },
+            {
+                "title": "CompileBench: Can AI Compile 22-year-old Code?",
+                "href": "https://quesma.com/blog/introducing-compilebench/"
+            },
+            {
                 "title": "Diffusion Beats Autoregressive in Data-Constrained Settings",
                 "href": "https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/"
             },
             {
-                "title": "AI-Generated \"Workslop\" Is Destroying Productivity",
-                "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity"
+                "title": "What is algebraic about algebraic effects?",
+                "href": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
             },
             {
                 "title": "Show HN: Python Audio Transcription: Convert Speech to Text Locally",
                 "href": "https://www.pavlinbg.com/posts/python-speech-to-text-guide"
             },
             {
-                "title": "A New Internet Business Model?",
-                "href": "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
+                "title": "Easy Forth (2015)",
+                "href": "https://skilldrick.github.io/easyforth/"
             },
             {
                 "title": "Beyond the Front Page: A Personal Guide to Hacker News",
@@ -847,12 +839,16 @@
                 "href": "https://github.com/sgi-demos"
             },
             {
-                "title": "Human-Oriented Markup Language",
-                "href": "https://huml.io/"
+                "title": "A New Internet Business Model?",
+                "href": "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
             },
             {
-                "title": "Appleii Air Attack.BAS",
-                "href": "https://basic-code.bearblog.dev/applesoft-air-attackbas/"
+                "title": "Morgan and Morgan takes Disney to court over 'Steamboat Willie' in ads",
+                "href": "https://www.clickorlando.com/news/local/2025/09/17/morgan-morgan-takes-disney-to-court-over-rights-to-feature-steamboat-willie-in-law-firm-ads/"
+            },
+            {
+                "title": "California issues historic fine over lawyer's ChatGPT fabrications",
+                "href": "https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/"
             },
             {
                 "title": "The Strange Tale of the Hotchkiss",
@@ -863,12 +859,16 @@
                 "href": "https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/"
             },
             {
-                "title": "California issues historic fine over lawyer's ChatGPT fabrications",
-                "href": "https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/"
+                "title": "Appleii Air Attack.BAS",
+                "href": "https://basic-code.bearblog.dev/applesoft-air-attackbas/"
             },
             {
                 "title": "Biconnected components",
                 "href": "https://emi-h.com/articles/bcc.html"
+            },
+            {
+                "title": "Anti-*: The Things We Do but Not All the Way",
+                "href": "https://blog.jim-nielsen.com/2025/my-antis/"
             },
             {
                 "title": "Dear GitHub: no YAML anchors, please",
