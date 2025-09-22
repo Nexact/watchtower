@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Under the hood: Vec<T>",
+                "href": "https://marma.dev/articles/2025/under-the-hood-vec-t"
+            },
+            {
+                "title": "kernel: Introduce multikernel architecture support",
+                "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/"
+            },
+            {
                 "title": "@ts-ignore is almost always the worst option",
                 "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/"
             },
             {
                 "title": "NixCon 2025 Trip Report",
                 "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/"
-            },
-            {
-                "title": "Under the hood: Vec<T>",
-                "href": "https://marma.dev/articles/2025/under-the-hood-vec-t"
             },
             {
                 "title": "Multikernel architecture proposed for Linux",
@@ -31,10 +35,6 @@
                 "href": "https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions"
             },
             {
-                "title": "kernel: Introduce multikernel architecture support",
-                "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/"
-            },
-            {
                 "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
                 "href": "https://obsidian.md/blog/less-is-safer/"
             },
@@ -43,12 +43,12 @@
                 "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
             },
             {
-                "title": "The free software commons",
-                "href": "https://jenniferplusplus.com/the-free-software-commons/"
-            },
-            {
                 "title": "\u7b2c\u56db: a Japanese and Forth inspired postfix language",
                 "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8"
+            },
+            {
+                "title": "The free software commons",
+                "href": "https://jenniferplusplus.com/the-free-software-commons/"
             },
             {
                 "title": "My Hacking Simulator runs on a Cyberdeck",
@@ -61,6 +61,10 @@
             {
                 "title": "Not a Robot",
                 "href": "https://neal.fun/not-a-robot/"
+            },
+            {
+                "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
+                "href": "https://jonathan-frere.com/posts/bigints-are-cool/"
             },
             {
                 "title": "Linkgraphs are fun",
@@ -81,10 +85,6 @@
             {
                 "title": "Git: Introduce Rust and announce that it will become mandatory",
                 "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/"
-            },
-            {
-                "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
-                "href": "https://jonathan-frere.com/posts/bigints-are-cool/"
             },
             {
                 "title": "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
@@ -755,32 +755,40 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
+                "href": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds"
+            },
+            {
                 "title": "SGI demos from long ago in the browser via WASM",
                 "href": "https://github.com/sgi-demos"
+            },
+            {
+                "title": "Tesla coast-to-coast FSD crashes after 60 miles",
+                "href": "https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/"
             },
             {
                 "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
                 "href": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner"
             },
             {
-                "title": "M4.6 Earthquake \u2013 2 km ESE of Berkeley, CA",
-                "href": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive"
-            },
-            {
-                "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
-                "href": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf"
+                "title": "Easy Forth",
+                "href": "https://skilldrick.github.io/easyforth/"
             },
             {
                 "title": "Biconnected components",
                 "href": "https://emi-h.com/articles/bcc.html"
             },
             {
+                "title": "M4.6 Earthquake \u2013 2 km ESE of Berkeley, CA",
+                "href": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive"
+            },
+            {
                 "title": "You did this with an AI and you do not understand what you're doing here",
                 "href": "https://hackerone.com/reports/3340109"
             },
             {
-                "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
-                "href": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds"
+                "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
+                "href": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf"
             },
             {
                 "title": "Show HN: Software Freelancers Contract Template",
@@ -791,6 +799,14 @@
                 "href": "https://github.com/rxi/sj.h"
             },
             {
+                "title": "Metamaterials, AI, and the Road to Invisibility Cloaks",
+                "href": "https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to"
+            },
+            {
+                "title": "What happens when coding agents stop feeling like dialup?",
+                "href": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
+            },
+            {
                 "title": "Download responsibly",
                 "href": "https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/"
             },
@@ -799,48 +815,52 @@
                 "href": "https://jacobneu.phd/"
             },
             {
-                "title": "Metamaterials, AI, and the Road to Invisibility Cloaks",
-                "href": "https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to"
-            },
-            {
                 "title": "Why is Venus hell and Earth an Eden?",
                 "href": "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/"
-            },
-            {
-                "title": "LinkedIn will soon train AI models with data from European users",
-                "href": "https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/"
             },
             {
                 "title": "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof",
                 "href": "https://arxiv.org/abs/2509.01035"
             },
             {
+                "title": "What if AMD FX had \"real\" cores? [video]",
+                "href": "https://www.youtube.com/watch?v=Lb4FDtAwnqU"
+            },
+            {
                 "title": "Simulating a Machine from the 80s",
                 "href": "https://rmazur.io/blog/fahivets.html"
             },
             {
-                "title": "Tell the EU: Don't Break Encryption with \"Chat Control\"",
-                "href": "https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/"
-            },
-            {
-                "title": "What happens when coding agents stop feeling like dialup?",
-                "href": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
+                "title": "LinkedIn will soon train AI models with data from European users",
+                "href": "https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/"
             },
             {
                 "title": "How can I influence others without manipulating them?",
                 "href": "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating"
             },
             {
-                "title": "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
-                "href": "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html"
-            },
-            {
-                "title": "Show HN: Coding Agents swarming your codebase",
-                "href": "https://infrastructureas.ai"
+                "title": "I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years",
+                "href": "https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/"
             },
             {
                 "title": "Lightweight, highly accurate line and paragraph detection",
                 "href": "https://arxiv.org/abs/2203.09638"
+            },
+            {
+                "title": "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
+                "href": "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html"
+            },
+            {
+                "title": "Tell the EU: Don't Break Encryption with \"Chat Control\"",
+                "href": "https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/"
+            },
+            {
+                "title": "DeepSeek-v3.1-Terminus",
+                "href": "https://api-docs.deepseek.com/news/news250922"
+            },
+            {
+                "title": "Be careful with Go struct embedding",
+                "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
             },
             {
                 "title": "The death rays that guard life",
@@ -851,28 +871,8 @@
                 "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
             },
             {
-                "title": "I uncovered an ACPI bug in my Dell Inspiron 5567. It was plaguing me for 8 years",
-                "href": "https://triangulatedexistence.mataroa.blog/blog/i-uncovered-an-acpi-bug-in-my-dell-inspiron-5667-it-was-plaguing-me-for-8-years/"
-            },
-            {
-                "title": "Be careful with Go struct embedding",
-                "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
-            },
-            {
                 "title": "Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem",
                 "href": "https://github.com/NVIDIA/nvmath-python"
-            },
-            {
-                "title": "South Korea's President says US investment demands would spark financial crisis",
-                "href": "https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html"
-            },
-            {
-                "title": "Why your outdoorsy friend suddenly has a gummy bear power bank",
-                "href": "https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank"
-            },
-            {
-                "title": "Show HN: Tips to stay safe from NPM supply chain attacks",
-                "href": "https://github.com/bodadotsh/npm-security-best-practices"
             }
         ]
     }
