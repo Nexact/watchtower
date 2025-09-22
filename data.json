@@ -35,12 +35,20 @@
                 "href": "https://lobste.rs/s/zxxdp0/what_are_you_doing_this_week"
             },
             {
+                "title": "Memory Allocation in Go",
+                "href": "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html"
+            },
+            {
                 "title": "Multikernel architecture proposed for Linux",
                 "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/"
             },
             {
                 "title": "A long look at NetBSD 10.1",
                 "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd"
+            },
+            {
+                "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs",
+                "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/"
             },
             {
                 "title": "I Once Appeared in The Old New Thing",
@@ -51,6 +59,10 @@
                 "href": "https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions"
             },
             {
+                "title": "Tips for Working with Legacy Code",
+                "href": "https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/"
+            },
+            {
                 "title": "Parsing Crusader Kings III data files to generate mods",
                 "href": "https://wheybags.com/blog/ck3mods.html"
             },
@@ -59,20 +71,12 @@
                 "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8"
             },
             {
-                "title": "NixCon 2025 Trip Report",
-                "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/"
-            },
-            {
-                "title": "Memory Allocation in Go",
-                "href": "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html"
-            },
-            {
                 "title": "Testing is better than Data Structures and Algorithms",
                 "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
             },
             {
-                "title": "Tips for Working with Legacy Code",
-                "href": "https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/"
+                "title": "NixCon 2025 Trip Report",
+                "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/"
             },
             {
                 "title": "The free software commons",
@@ -85,10 +89,6 @@
             {
                 "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
                 "href": "https://obsidian.md/blog/less-is-safer/"
-            },
-            {
-                "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs",
-                "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/"
             },
             {
                 "title": "The story of Musium",
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft is Bringing Video Wallpapers To Windows 11",
+                "href": "https://tech.slashdot.org/story/25/09/22/1726236/microsoft-is-bringing-video-wallpapers-to-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Nvidia To Invest $100 Billion in OpenAI",
                 "href": "https://slashdot.org/story/25/09/22/1637225/nvidia-to-invest-100-billion-in-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Meta's UK Arbitration 'Threatens to Bankrupt' Facebook Whistleblower, Says Her Lawyer",
                 "href": "https://tech.slashdot.org/story/25/09/21/195215/metas-uk-arbitration-threatens-to-bankrupt-facebook-whistleblower-says-her-lawyer?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "America's Space Force is Preparing for a New Kind of War",
-                "href": "https://news.slashdot.org/story/25/09/21/1815235/americas-space-force-is-preparing-for-a-new-kind-of-war?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -755,28 +755,20 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "PlanetScale for Postgres is now GA",
-                "href": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
-            },
-            {
-                "title": "The American nations across North America",
-                "href": "https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/"
-            },
-            {
-                "title": "OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems",
+                "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
                 "href": "https://openai.com/index/openai-nvidia-systems-partnership/"
             },
             {
-                "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-                "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
+                "title": "PlanetScale for Postgres is now GA",
+                "href": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
             },
             {
                 "title": "SWE-Bench Pro",
                 "href": "https://github.com/scaleapi/SWE-bench_Pro-os"
             },
             {
-                "title": "Mentra (YC W25) Is Hiring to build smart glasses",
-                "href": "item?id=45336282"
+                "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+                "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
             },
             {
                 "title": "A simple way to measure knots has come unraveled",
@@ -787,24 +779,28 @@
                 "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/"
             },
             {
-                "title": "Easy Forth (2015)",
-                "href": "https://skilldrick.github.io/easyforth/"
+                "title": "Mentra (YC W25) Is Hiring to build smart glasses",
+                "href": "item?id=45336282"
             },
             {
-                "title": "A New Internet Business Model?",
-                "href": "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
+                "title": "Easy Forth (2015)",
+                "href": "https://skilldrick.github.io/easyforth/"
             },
             {
                 "title": "CompileBench: Can AI Compile 22-year-old Code?",
                 "href": "https://quesma.com/blog/introducing-compilebench/"
             },
             {
+                "title": "A New Internet Business Model?",
+                "href": "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
+            },
+            {
                 "title": "What is algebraic about algebraic effects?",
                 "href": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
             },
             {
-                "title": "What if we treated Postgres like SQLite?",
-                "href": "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite"
+                "title": "A board member's perspective of the RubyGems controversy",
+                "href": "https://apiguy.substack.com/p/a-board-members-perspective-of-the"
             },
             {
                 "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
@@ -815,32 +811,20 @@
                 "href": "https://github.com/sgi-demos"
             },
             {
-                "title": "Anti-*: The Things We Do but Not All the Way",
-                "href": "https://blog.jim-nielsen.com/2025/my-antis/"
-            },
-            {
                 "title": "The Strange Tale of the Hotchkiss",
                 "href": "https://www.edrdg.org/~jwb/mondir/hotchkiss.html"
-            },
-            {
-                "title": "Dear GitHub: no YAML anchors, please",
-                "href": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors"
-            },
-            {
-                "title": "Human-Oriented Markup Language",
-                "href": "https://huml.io/"
             },
             {
                 "title": "Beyond the Front Page: A Personal Guide to Hacker News",
                 "href": "https://hsu.cy/2025/09/how-to-read-hn/"
             },
             {
-                "title": "A board member's perspective of the RubyGems controversy",
-                "href": "https://apiguy.substack.com/p/a-board-members-perspective-of-the"
+                "title": "Human-Oriented Markup Language",
+                "href": "https://huml.io/"
             },
             {
-                "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
-                "href": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds"
+                "title": "Dear GitHub: no YAML anchors, please",
+                "href": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors"
             },
             {
                 "title": "A Beautiful Maths Game",
@@ -851,12 +835,28 @@
                 "href": "https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/"
             },
             {
+                "title": "The American nations across North America",
+                "href": "https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/"
+            },
+            {
+                "title": "Anti-*: The Things We Do but Not All the Way",
+                "href": "https://blog.jim-nielsen.com/2025/my-antis/"
+            },
+            {
+                "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
+                "href": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds"
+            },
+            {
                 "title": "Emerald Source Code Commentary",
                 "href": "https://0xabad1dea.github.io/emeraldscc/"
             },
             {
                 "title": "You did this with an AI and you do not understand what you're doing here",
                 "href": "https://hackerone.com/reports/3340109"
+            },
+            {
+                "title": "California issues historic fine over lawyer's ChatGPT fabrications",
+                "href": "https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/"
             },
             {
                 "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
@@ -867,12 +867,12 @@
                 "href": "https://emi-h.com/articles/bcc.html"
             },
             {
-                "title": "Show HN: Software Freelancers Contract Template",
-                "href": "https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en"
+                "title": "The death rays that guard life",
+                "href": "https://worksinprogress.co/issue/the-death-rays-that-guard-life/"
             },
             {
-                "title": "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof",
-                "href": "https://arxiv.org/abs/2509.01035"
+                "title": "What if we treated Postgres like SQLite?",
+                "href": "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite"
             }
         ]
     }
