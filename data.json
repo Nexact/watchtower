@@ -15,12 +15,12 @@
                 "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P"
             },
             {
-                "title": "AI is impressive because we\u2019ve failed at semantic web and personal computing",
-                "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing"
-            },
-            {
                 "title": "Don't even consider starting with Microsoft",
                 "href": "https://lionelbarrow.substack.com/p/dont-even-consider-starting-with"
+            },
+            {
+                "title": "AI is impressive because we\u2019ve failed at semantic web and personal computing",
+                "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing"
             },
             {
                 "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
@@ -39,6 +39,14 @@
                 "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/"
             },
             {
+                "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
+                "href": "https://lukefleed.xyz/posts/compressed-fixedvec/"
+            },
+            {
+                "title": "Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8 | Boa JS",
+                "href": "https://boajs.dev/blog/2025/09/24/temporal-release"
+            },
+            {
                 "title": "From Rust to Reality: The Hidden Journey of fetch_max",
                 "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
             },
@@ -47,24 +55,28 @@
                 "href": "https://go-review.googlesource.com/c/go/+/674077"
             },
             {
-                "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
-                "href": "https://lukefleed.xyz/posts/compressed-fixedvec/"
+                "title": "Moving fast in hardware: how the iPod shipped in 6 months",
+                "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/"
             },
             {
                 "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
                 "href": "https://zubanls.com/"
             },
             {
-                "title": "Moving fast in hardware: how the iPod shipped in 6 months",
-                "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/"
+                "title": "Software substrates: should there be only one?",
+                "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf"
+            },
+            {
+                "title": "The 128-Language Quine Relay (2018)",
+                "href": "https://esoteric.codes/blog/the-128-language-quine-relay"
             },
             {
                 "title": "Imagining a Language without Booleans",
                 "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html"
             },
             {
-                "title": "The 128-Language Quine Relay (2018)",
-                "href": "https://esoteric.codes/blog/the-128-language-quine-relay"
+                "title": "Adventures in CPU contention",
+                "href": "https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/"
             },
             {
                 "title": "Using DNS for responding to ACME challenges",
@@ -83,24 +95,12 @@
                 "href": "https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/"
             },
             {
-                "title": "Software substrates: should there be only one?",
-                "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf"
-            },
-            {
                 "title": "Our plan for a more secure npm supply chain",
                 "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/"
             },
             {
-                "title": "Adventures in CPU contention",
-                "href": "https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/"
-            },
-            {
                 "title": "What if Humanity forgot how to make CPUs?",
                 "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk"
-            },
-            {
-                "title": "Libghostty Is Coming",
-                "href": "https://mitchellh.com/writing/libghostty-is-coming"
             }
         ]
     },
@@ -116,12 +116,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1npcera/new_macos_threat_abuses_ads_and_social_media_to/"
             },
             {
-                "title": "Is This Bad? This Feels Bad. (GoAnywhere CVE-2025-10035) - watchTowr Labs",
-                "href": "https://old.reddit.com/r/netsec/comments/1npbkxz/is_this_bad_this_feels_bad_goanywhere/"
-            },
-            {
                 "title": "Tiantong-1 and satphone security: Part 2",
                 "href": "https://old.reddit.com/r/netsec/comments/1np7rda/tiantong1_and_satphone_security_part_2/"
+            },
+            {
+                "title": "Is This Bad? This Feels Bad. (GoAnywhere CVE-2025-10035) - watchTowr Labs",
+                "href": "https://old.reddit.com/r/netsec/comments/1npbkxz/is_this_bad_this_feels_bad_goanywhere/"
             },
             {
                 "title": "Image Forensics: Detecting AI Fakes with Compression Artifacts",
@@ -763,10 +763,6 @@
                 "href": "https://github.com/yt-dlp/yt-dlp/issues/14404"
             },
             {
-                "title": "US Airlines Push to Strip Away Travelers' Rights by Rolling Back Key Protections",
-                "href": "https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/"
-            },
-            {
                 "title": "That Secret Service SIM farm story is bogus",
                 "href": "https://cybersect.substack.com/p/that-secret-service-sim-farm-story"
             },
@@ -775,48 +771,72 @@
                 "href": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/"
             },
             {
-                "title": "Learning Persian with Anki, ChatGPT and YouTube",
-                "href": "https://cjauvin.github.io/posts/learning-persian/"
+                "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
+                "href": "https://mathstodon.xyz/@tao/115259943398316677"
             },
             {
-                "title": "EU age verification app not planning desktop support",
-                "href": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22"
-            },
-            {
-                "title": "How to Lead in a Room Full of Experts",
-                "href": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts"
+                "title": "US Airlines Push to Strip Away Travelers' Rights by Rolling Back Key Protections",
+                "href": "https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/"
             },
             {
                 "title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
                 "href": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly"
             },
             {
-                "title": "Who Funds Misfit Research?",
-                "href": "https://blog.spec.tech/p/who-funds-misfit-research"
+                "title": "Learning Persian with Anki, ChatGPT and YouTube",
+                "href": "https://cjauvin.github.io/posts/learning-persian/"
             },
             {
-                "title": "How HubSpot Scaled AI Adoption",
-                "href": "https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption"
+                "title": "Zed's Pricing Has Changed: LLM Usage Is Now Token-Based",
+                "href": "https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based"
+            },
+            {
+                "title": "How to Lead in a Room Full of Experts",
+                "href": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts"
+            },
+            {
+                "title": "EU age verification app not planning desktop support",
+                "href": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/issues/22"
+            },
+            {
+                "title": "Who Funds Misfit Research?",
+                "href": "https://blog.spec.tech/p/who-funds-misfit-research"
             },
             {
                 "title": "Smartphone Cameras Go Hyperspectral",
                 "href": "https://spectrum.ieee.org/hyperspectral-imaging"
             },
             {
-                "title": "The Lambda Calculus \u2013 Stanford Encyclopedia of Philosophy",
-                "href": "https://plato.stanford.edu/entries/lambda-calculus/"
+                "title": "New bacteria, and two potential antibiotics, discovered in soil",
+                "href": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/"
             },
             {
-                "title": "Replace PostgreSQL with Git for your next project",
-                "href": "https://devcenter.upsun.com/posts/why-you-should-replace-postgresql-with-git-for-your-next-project/"
+                "title": "The Lambda Calculus \u2013 Stanford Encyclopedia of Philosophy",
+                "href": "https://plato.stanford.edu/entries/lambda-calculus/"
             },
             {
                 "title": "How to Be a Leader When the Vibes Are Off",
                 "href": "https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/"
             },
             {
-                "title": "New bacteria, and two potential antibiotics, discovered in soil",
-                "href": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/"
+                "title": "How HubSpot Scaled AI Adoption",
+                "href": "https://product.hubspot.com/blog/context-is-key-how-hubspot-scaled-ai-adoption"
+            },
+            {
+                "title": "Better Curl Saul: a lightweight API testing CLI focused on UX and simplicity",
+                "href": "https://github.com/DeprecatedLuar/better-curl-saul"
+            },
+            {
+                "title": "Product Hunt Is Dead",
+                "href": "https://sedimental.org/product_hunt_is_dead.html"
+            },
+            {
+                "title": "S3 scales to petabytes a second on top of slow HDDs",
+                "href": "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
+            },
+            {
+                "title": "The Data Commons Model Context Protocol (MCP) Server",
+                "href": "https://developers.googleblog.com/en/datacommonsmcp/"
             },
             {
                 "title": "Rights groups urge UK PM Starmer to abandon plans for mandatory digital ID",
@@ -825,10 +845,6 @@
             {
                 "title": "My Ed(1) Toolbox",
                 "href": "https://aartaka.me/my-ed.html"
-            },
-            {
-                "title": "S3 scales to petabytes a second on top of slow HDDs",
-                "href": "https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
             },
             {
                 "title": "Just Let Me Select Text",
@@ -843,40 +859,24 @@
                 "href": "https://maoni0.medium.com/preparing-for-the-net-10-gc-88718b261ef2"
             },
             {
-                "title": "WiGLE: Wireless Network Mapping",
-                "href": "https://wigle.net/index"
-            },
-            {
                 "title": "Everyone's trying vectors and graphs for AI memory. We went back to SQL",
                 "href": "item?id=45329322"
-            },
-            {
-                "title": "Huntington's disease treated for first time",
-                "href": "https://www.bbc.com/news/articles/cevz13xkxpro"
             },
             {
                 "title": "Exploring GrapheneOS secure allocator: Hardened Malloc",
                 "href": "https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc"
             },
             {
-                "title": "Identity Types",
-                "href": "https://bartoszmilewski.com/2025/09/22/identity-types/"
+                "title": "Huntington's disease treated for first time",
+                "href": "https://www.bbc.com/news/articles/cevz13xkxpro"
             },
             {
                 "title": "My game's server is blocked in Spain whenever there's a football match on",
                 "href": "https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/"
             },
             {
-                "title": "I Spent Three Nights Solving Listen Labs Berghain Challenge (and Got #16)",
-                "href": "https://kuber.studio/blog/Projects/How-I-Spent-Three-Nights-Solving-Listen-Labs-Berghain-Challenge"
-            },
-            {
                 "title": "Find SF parking cops",
                 "href": "https://walzr.com/sf-parking/"
-            },
-            {
-                "title": "Baldur's Gate 3 Steam Deck \u2013 Native Version",
-                "href": "https://larian.com/support/faqs/steam-deck-native-version_121"
             }
         ]
     }
