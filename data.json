@@ -31,16 +31,16 @@
                 "href": "https://mattnite.net/blog/sycl-2026-announcement/"
             },
             {
+                "title": "The expression problem and Rust",
+                "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/"
+            },
+            {
                 "title": "F-Droid and Google's Developer Registration Decree",
                 "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html"
             },
             {
                 "title": "Subtleties of SQLite Indexes",
                 "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/"
-            },
-            {
-                "title": "The expression problem and Rust",
-                "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/"
             },
             {
                 "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
@@ -63,8 +63,24 @@
                 "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/"
             },
             {
+                "title": "Designing agentic loops",
+                "href": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/"
+            },
+            {
+                "title": "Investigating and fixing \"StopPodSandbox from runtime service failed\" Kubelet errors",
+                "href": "https://marcusnoble.co.uk/2025-09-28-investigating-and-fixing-stoppodsandbox-from-runtime-service-failed-kubelet-errors/"
+            },
+            {
                 "title": "Custom LNAddress with Self-Hosted AlbyHub",
                 "href": "https://emre.xyz/posts/custom-lnaddress/"
+            },
+            {
+                "title": "More speculations on arenas in C++",
+                "href": "https://nullprogram.com/blog/2025/09/30/"
+            },
+            {
+                "title": "Subtext Retrospective",
+                "href": "https://www.subtext-lang.org/retrospective.html"
             },
             {
                 "title": "Introducing Claude Sonnet 4.5",
@@ -75,32 +91,16 @@
                 "href": "https://github.com/golang/go/issues/73787"
             },
             {
-                "title": "We built our coding agent for Slack instead of the terminal",
-                "href": "https://www.mintlify.com/blog/we-built-our-coding-agent-for-slack"
-            },
-            {
                 "title": "io_uring is not an event system (2021)",
                 "href": "https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/"
             },
             {
-                "title": "Subtext Retrospective",
-                "href": "https://www.subtext-lang.org/retrospective.html"
-            },
-            {
-                "title": "Prototype-First Software Design With Agents",
-                "href": "https://serce.me/posts/2025-09-30-prototype-first-software-design-with-agents"
-            },
-            {
-                "title": "deml: The Directed Acyclic Graph Elevation Markup Language",
-                "href": "https://github.com/Mcmartelle/deml"
+                "title": "We built our coding agent for Slack instead of the terminal",
+                "href": "https://www.mintlify.com/blog/we-built-our-coding-agent-for-slack"
             },
             {
                 "title": "Introducing tdom: HTML templating with t\u2011strings",
                 "href": "https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/"
-            },
-            {
-                "title": "Code golfing a tiny demo using maths and a pinch of insanity",
-                "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Kindle Scribe Redesign Adds Color Model and AI-powered Notebook Features",
+                "href": "https://news.slashdot.org/story/25/09/30/1529241/kindle-scribe-redesign-adds-color-model-and-ai-powered-notebook-features?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Boeing Has Started Working on a 737 MAX Replacement",
                 "href": "https://tech.slashdot.org/story/25/09/30/1456248/boeing-has-started-working-on-a-737-max-replacement?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Open Source Android Repository F-Droid Says Google's New Rules Will Shut It Down",
                 "href": "https://tech.slashdot.org/story/25/09/29/2015257/open-source-android-repository-f-droid-says-googles-new-rules-will-shut-it-down?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "OpenAI's New Sora Video Generator To Require Copyright Holders To Opt Out",
-                "href": "https://slashdot.org/story/25/09/29/1959236/openais-new-sora-video-generator-to-require-copyright-holders-to-opt-out?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -767,60 +767,64 @@
                 "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/"
             },
             {
-                "title": "How the AI bubble ate Y Combinator",
-                "href": "https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632"
-            },
-            {
                 "title": "Deml: The Directed Acyclic Graph Elevation Markup Language",
                 "href": "https://github.com/Mcmartelle/deml"
-            },
-            {
-                "title": "Google CTF 2025 \u2013 webz : Exploiting zlib's Huffman Code Table",
-                "href": "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English"
             },
             {
                 "title": "dgsh \u2013 Directed Graph Shell",
                 "href": "https://www2.dmst.aueb.gr/dds/sw/dgsh/"
             },
             {
+                "title": "Google CTF 2025 \u2013 webz : Exploiting zlib's Huffman Code Table",
+                "href": "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English"
+            },
+            {
                 "title": "Bcachefs removed from the mainline kernel",
                 "href": "https://lwn.net/Articles/1040120/"
+            },
+            {
+                "title": "How the AI bubble ate Y Combinator",
+                "href": "https://www.inc.com/sam-blum/how-the-ai-bubble-ate-y-combinator/91240632"
             },
             {
                 "title": "How Does Lossless Compression in Fuji RAF Files Work? (2020)",
                 "href": "https://capnfabs.net/posts/fuji-raf-compression-algorithm/"
             },
             {
-                "title": "Show HN: A web version of Pips game (NYT domino game)",
-                "href": "https://pipsgamer.com"
-            },
-            {
                 "title": "I\u2019ve removed Disqus. It was making my blog worse",
                 "href": "https://ryansouthgate.com/goodbye-disqus/"
+            },
+            {
+                "title": "Show HN: A web version of Pips game (NYT domino game)",
+                "href": "https://pipsgamer.com"
             },
             {
                 "title": "Geolocation and Starlink",
                 "href": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html"
             },
             {
+                "title": "Claude Code 2.0",
+                "href": "https://www.npmjs.com/package/@anthropic-ai/claude-code"
+            },
+            {
                 "title": "Airgoods (YC S23) Is Hiring",
                 "href": "https://airgoods.com/careers?utm_source=hacker_news"
             },
             {
-                "title": "Claude Code 2.0",
-                "href": "https://www.npmjs.com/package/@anthropic-ai/claude-code"
+                "title": "Electronic Arts to be acquired for $52B in largest private equity buyout",
+                "href": "https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432"
             },
             {
                 "title": "Using the TPDE Codegen Back End in LLVM Orc",
                 "href": "https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html"
             },
             {
-                "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
-                "href": "https://dl.acm.org/doi/10.1145/359024.359031"
-            },
-            {
                 "title": "Orbiting the H\u00e9non Attractor",
                 "href": "https://observablehq.com/@yurivish/orbiting-the-henon-attractor"
+            },
+            {
+                "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+                "href": "https://dl.acm.org/doi/10.1145/359024.359031"
             },
             {
                 "title": "How to create an OS from scratch",
@@ -831,24 +835,16 @@
                 "href": "https://www.anthropic.com/news/claude-sonnet-4-5"
             },
             {
-                "title": "How has mathematics gotten so abstract?",
-                "href": "https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract"
-            },
-            {
                 "title": "Safe zero-copy operations in C#",
                 "href": "https://ssg.dev/safe-zero-copy-operations-in-c/"
-            },
-            {
-                "title": "Show HN: Devbox \u2013 Containers for better dev environments",
-                "href": "https://devbox.ar0.eu/"
             },
             {
                 "title": "The ABS programming language",
                 "href": "https://www.abs-lang.org/"
             },
             {
-                "title": "Wtm (Worktree Manager): A simpler way to work with Git Worktrees",
-                "href": "https://github.com/jarredkenny/worktree-manager"
+                "title": "Show HN: Devbox \u2013 Containers for better dev environments",
+                "href": "https://devbox.ar0.eu/"
             },
             {
                 "title": "Bad Apple but it's played inside Super Mario Bros",
@@ -863,24 +859,28 @@
                 "href": "https://loadmo.re"
             },
             {
-                "title": "A tutorial for the Mercury programming language",
-                "href": "https://sebastian.graphics/projects/a-mercury-tutorial/index.html"
+                "title": "Explore Digital Edition of Printing Types from 1922",
+                "href": "https://www.openculture.com/2025/09/explore-a-new-digital-edition-of-printing-types-the-authoritative-history-of-printing-typography-from-1922.html"
             },
             {
                 "title": "Implementing a Kalman Filter in Postgres",
                 "href": "https://neon.com/blog/implementing-a-kalman-filter-in-postgres-to-smooth-gps-data"
             },
             {
-                "title": "Show HN: ProcASM v1.1",
-                "href": "https://procasm.temware.site/"
-            },
-            {
-                "title": "Electronic Arts to be acquired for $52B in largest private equity buyout",
-                "href": "https://www.nbcnews.com/business/business-news/electronic-arts-acquired-largest-ever-private-equity-buyout-rcna234432"
+                "title": "How has mathematics gotten so abstract?",
+                "href": "https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract"
             },
             {
                 "title": "Instant Checkout and the Agentic Commerce Protocol",
                 "href": "https://openai.com/index/buy-it-in-chatgpt/"
+            },
+            {
+                "title": "A tutorial for the Mercury programming language",
+                "href": "https://sebastian.graphics/projects/a-mercury-tutorial/index.html"
+            },
+            {
+                "title": "iRobot Founder: Don't Believe the AI and Robotics Hype",
+                "href": "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/"
             }
         ]
     }
