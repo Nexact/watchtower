@@ -39,6 +39,10 @@
                 "href": "https://blog.craigie.dev/introducing-glide/"
             },
             {
+                "title": "Installing NixOS on Raspberry Pi 4",
+                "href": "https://mtlynch.io/nixos-pi4/"
+            },
+            {
                 "title": "Stop Trusting Nix Caches",
                 "href": "https://garnix.io/blog/stop-trusting-nix-caches"
             },
@@ -47,20 +51,24 @@
                 "href": "https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025"
             },
             {
+                "title": "datafusion-postgres: postgres protocol adapter for datafusion query engine",
+                "href": "https://github.com/datafusion-contrib/datafusion-postgres"
+            },
+            {
                 "title": "Serving a half billion requests per day with Rust + CGI",
                 "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/"
             },
             {
-                "title": "Installing NixOS on Raspberry Pi 4",
-                "href": "https://mtlynch.io/nixos-pi4/"
-            },
-            {
-                "title": "[RFC] LLVM AI tool policy: start small, no slop",
-                "href": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476"
+                "title": "Nine HTTP Edge Cases",
+                "href": "https://blog.dochia.dev/blog/http_edge_cases/"
             },
             {
                 "title": "Primitive overloading",
                 "href": "https://mlochbaum.github.io/BQN/commentary/overload.html"
+            },
+            {
+                "title": "[RFC] LLVM AI tool policy: start small, no slop",
+                "href": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476"
             },
             {
                 "title": "Custom Carets and Users",
@@ -71,8 +79,16 @@
                 "href": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf"
             },
             {
+                "title": "An Empirical Evaluation of Property-Based Testing in Python",
+                "href": "https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf"
+            },
+            {
                 "title": "IP Over Lasers",
                 "href": "https://www.mikekohn.net/micro/ip_over_lasers.php"
+            },
+            {
+                "title": "We tried Go's experimental Green Tea garbage collector and it didn't help performance",
+                "href": "https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/"
             },
             {
                 "title": "How Engineers Operationalize Machine Learning",
@@ -85,22 +101,6 @@
             {
                 "title": "What was the longest time you ever took to return to a software project?",
                 "href": "https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return"
-            },
-            {
-                "title": "We tried Go's experimental Green Tea garbage collector and it didn't help performance",
-                "href": "https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/"
-            },
-            {
-                "title": "The Software Essays that Shaped Me",
-                "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/"
-            },
-            {
-                "title": "Organize your Slack channels by \u201cHow Often\u201d, not \u201cWhat\u201d",
-                "href": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/"
-            },
-            {
-                "title": "As a Gopher I'm excited about Gleam, maybe you'll be too",
-                "href": "https://www.youtube.com/watch?v=ctiRV4rRYYc"
             }
         ]
     },
@@ -221,6 +221,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft Outlook stops displaying inline SVG images used in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/"
+            },
+            {
+                "title": "DrayTek warns of remote code execution bug in Vigor routers",
+                "href": "https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/"
+            },
+            {
                 "title": "HackerOne paid $81 million in bug bounties over the past year",
                 "href": "https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/"
             },
@@ -263,14 +271,6 @@
             {
                 "title": "Android malware uses VNC to give attackers hands-on access",
                 "href": "https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/"
-            },
-            {
-                "title": "F-Droid project threatened by Google's new dev registration rules",
-                "href": "https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/"
-            },
-            {
-                "title": "Microsoft to force install Microsoft 365 companion apps in October",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/"
             }
         ]
     },
@@ -322,6 +322,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Earth Is Getting Darker, Literally, and Scientists Are Trying To Find Out Why",
+                "href": "https://news.slashdot.org/story/25/10/02/1659218/earth-is-getting-darker-literally-and-scientists-are-trying-to-find-out-why?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Japan is Running Out of Its Favorite Beer After Ransomware Attack",
                 "href": "https://slashdot.org/story/25/10/02/1559205/japan-is-running-out-of-its-favorite-beer-after-ransomware-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -377,16 +381,16 @@
             {
                 "title": "Meta Plans To Sell Targeted Ads Based On Data In Your AI Chats",
                 "href": "https://meta.slashdot.org/story/25/10/01/2113247/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "A Bullet Crashed the Internet In Texas",
-                "href": "https://tech.slashdot.org/story/25/10/01/180206/a-bullet-crashed-the-internet-in-texas?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "ciscotalos",
         "items": [
+            {
+                "title": "Family group chats: Your (very last) line of cyber defense",
+                "href": "https://blog.talosintelligence.com/family-group-chats-your-very-last-line-of-cyber-defense/"
+            },
             {
                 "title": "UAT-8099: Chinese-speaking cybercrime group targets high-value IIS for SEO fraud",
                 "href": "https://blog.talosintelligence.com/uat-8099-chinese-speaking-cybercrime-group-seo-fraud/"
@@ -442,16 +446,16 @@
             {
                 "title": "Link up, lift up, level up",
                 "href": "https://blog.talosintelligence.com/link-up-lift-up-level-up/"
-            },
-            {
-                "title": "Libbiosig, Tenda, SAIL, PDF XChange, Foxit vulnerabilities",
-                "href": "https://blog.talosintelligence.com/libbiosig-tenda-sail-pdf-xchange-foxit-vulnerabilities/"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Google Chrome security advisory (AV25-634)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-634"
+            },
             {
                 "title": "Cisco security advisory (AV25-633)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-633"
@@ -647,10 +651,6 @@
             {
                 "title": "GitHub security advisory (AV25-586)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av25-586"
-            },
-            {
-                "title": "Cisco security advisory (AV25-585)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-585"
             }
         ]
     },
@@ -767,56 +767,76 @@
                 "href": "https://signal.org/blog/spqr/"
             },
             {
-                "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
-                "href": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main"
+                "title": "I Keep Blogging with Emacs",
+                "href": "https://entropicthoughts.com/why-stick-to-emacs-blog"
             },
             {
-                "title": "The history of cataract surgery",
-                "href": "https://www.asimov.press/p/cataracts"
+                "title": "Watch MLB games from the comfort of your own terminal",
+                "href": "https://github.com/paaatrick/playball"
+            },
+            {
+                "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
+                "href": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main"
             },
             {
                 "title": "N8n added native persistent storage with DataTables",
                 "href": "https://community.n8n.io/t/data-tables-are-here/192256"
             },
             {
-                "title": "Launch HN: Simplex (YC S24) \u2013 Browser automation platform for developers",
-                "href": "https://www.simplex.sh/"
+                "title": "The history of cataract surgery",
+                "href": "https://www.asimov.press/p/cataracts"
             },
             {
                 "title": "The Atlantic Quantum team is joining Google",
                 "href": "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/"
             },
             {
+                "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
+                "href": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson"
+            },
+            {
                 "title": "Liva AI (YC S25) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead"
+            },
+            {
+                "title": "Launch HN: Simplex (YC S24) \u2013 Browser automation platform for developers",
+                "href": "https://www.simplex.sh/"
             },
             {
                 "title": "Work is not school: Surviving institutional stupidity",
                 "href": "https://www.leadingsapiens.com/surviving-institutional-stupidity/"
             },
             {
-                "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
-                "href": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson"
+                "title": "Daniel Stenberg on 22 curl bugs found by AI and fixed",
+                "href": "https://mastodon.social/@bagder/115241241075258997"
             },
             {
                 "title": "NL Judge: Meta must respect user's choice of recommendation system",
                 "href": "https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/"
             },
             {
-                "title": "Daniel Stenberg on 22 curl bugs found by AI and fixed",
-                "href": "https://mastodon.social/@bagder/115241241075258997"
+                "title": "Show HN: Traceroute Visualizer",
+                "href": "https://kriztalz.sh/traceroute-visualizer/"
             },
             {
-                "title": "Autism should not be seen as single condition with one cause, say scientists",
-                "href": "https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists"
-            },
-            {
-                "title": "Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?",
-                "href": "item?id=45451567"
+                "title": "Why I chose Lua for this blog",
+                "href": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
             },
             {
                 "title": "I built ChatGPT with Minecraft redstone [video]",
                 "href": "https://www.youtube.com/watch?v=VaeI9YgE1o8"
+            },
+            {
+                "title": "Stealing from Google",
+                "href": "https://taqib.dev/blog/stealing-from-google/"
+            },
+            {
+                "title": "Pharma is a small component of US health care spending",
+                "href": "https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans"
+            },
+            {
+                "title": "Adding a new instruction to RISC-V back end in LLVM",
+                "href": "https://blog.gustavoleite.me/llvm-riscv-instruction"
             },
             {
                 "title": "Red Hat confirms security incident after hackers breach GitLab instance",
@@ -831,12 +851,16 @@
                 "href": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf"
             },
             {
-                "title": "Pharma is a small component of US health care spending",
-                "href": "https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans"
+                "title": "Dropping Trust in US Media",
+                "href": "https://news.gallup.com/poll/695762/trust-media-new-low.aspx"
             },
             {
                 "title": "Pong Wars: A battle between day and night, good and bad",
                 "href": "https://github.com/vnglst/pong-wars"
+            },
+            {
+                "title": "How Israeli actions caused famine in Gaza, visualized",
+                "href": "https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl"
             },
             {
                 "title": "EU funds are flowing into spyware companies and politicians demanding answers",
@@ -847,40 +871,16 @@
                 "href": "https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/"
             },
             {
-                "title": "Tesla Robotaxi Reports 3 Crashes in Austin in July, Hides Details",
-                "href": "https://www.forbes.com/sites/bradtempleton/2025/09/18/tesla-robotaxi-reports-3-crashes-in-austin-on-july-1-details-hidden/"
-            },
-            {
-                "title": "Show HN: Traceroute Visualizer",
-                "href": "https://kriztalz.sh/traceroute-visualizer/"
-            },
-            {
-                "title": "Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)",
-                "href": "https://americanart.si.edu/blog/throne-james-hampton"
-            },
-            {
-                "title": "A 3K-year-old copper smelting site could be key to understanding origins of iron",
-                "href": "https://phys.org/news/2025-09-year-copper-smelting-site-key.html"
-            },
-            {
-                "title": "Show HN: Autism Simulator",
-                "href": "https://autism-simulator.vercel.app/"
+                "title": "Autism should not be seen as single condition with one cause, say scientists",
+                "href": "https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists"
             },
             {
                 "title": "Meta will listen into AI conversations to personalize ads",
                 "href": "https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/"
             },
             {
-                "title": "Immich v2.0.0 \u2013 First stable release",
-                "href": "https://github.com/immich-app/immich/discussions/22546"
-            },
-            {
-                "title": "Adding a new instruction to RISC-V back end in LLVM",
-                "href": "https://blog.gustavoleite.me/llvm-riscv-instruction"
-            },
-            {
-                "title": "Building the heap: racking 30 petabytes of hard drives for pretraining",
-                "href": "https://si.inc/posts/the-heap/"
+                "title": "Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)",
+                "href": "https://americanart.si.edu/blog/throne-james-hampton"
             }
         ]
     }
