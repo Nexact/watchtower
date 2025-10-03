@@ -11,20 +11,20 @@
                 "href": "https://overreacted.io/where-its-at/"
             },
             {
-                "title": "Dropping upstream Nix from Determinate Nix Installer",
-                "href": "https://determinate.systems/blog/installer-dropping-upstream/"
-            },
-            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend"
             },
             {
-                "title": "A threat model for accessibility on the web",
-                "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/"
+                "title": "Dropping upstream Nix from Determinate Nix Installer",
+                "href": "https://determinate.systems/blog/installer-dropping-upstream/"
             },
             {
                 "title": "Signal Protocol and Post-Quantum Ratchets",
                 "href": "https://signal.org/blog/spqr/"
+            },
+            {
+                "title": "A threat model for accessibility on the web",
+                "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/"
             },
             {
                 "title": "Litestream v0.5.0 is Here",
@@ -75,12 +75,20 @@
                 "href": "https://ratfactor.com/papers/sam-language"
             },
             {
+                "title": "Ghosts of Unix Past: a historical search for design patterns (2010)",
+                "href": "https://lwn.net/Articles/411845/"
+            },
+            {
                 "title": "Beginner-friendly issues across all repositories",
                 "href": "https://tangled.org/goodfirstissues"
             },
             {
                 "title": "What on Earth Does Pointer Provenance Have to do With RCU?",
                 "href": "https://people.kernel.org/paulmck/what-on-earth-does-lifetime-end-pointer-zap-have-to-do-with-rcu"
+            },
+            {
+                "title": "How would you approach a browser automation project?",
+                "href": "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
             },
             {
                 "title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
@@ -93,14 +101,6 @@
             {
                 "title": "datafusion-postgres: postgres protocol adapter for datafusion query engine",
                 "href": "https://github.com/datafusion-contrib/datafusion-postgres"
-            },
-            {
-                "title": "CI/CD components to generate and verify provenance attestation",
-                "href": "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548"
-            },
-            {
-                "title": "Installing NixOS on Raspberry Pi 4",
-                "href": "https://mtlynch.io/nixos-pi4/"
             }
         ]
     },
@@ -221,6 +221,18 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "ShinyHunters launches Salesforce data leak site to extort 39 victims",
+                "href": "https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/"
+            },
+            {
+                "title": "CommetJacking attack tricks Comet browser into stealing emails",
+                "href": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/"
+            },
+            {
+                "title": "Presenting AI to the Board as a CISO? Here\u2019s a Template.",
+                "href": "https://www.bleepingcomputer.com/news/security/presenting-ai-to-the-board-as-a-ciso-heres-a-template/"
+            },
+            {
                 "title": "Oracle links Clop extortion attacks to July 2025 vulnerabilities",
                 "href": "https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/"
             },
@@ -255,18 +267,6 @@
             {
                 "title": "Android spyware campaigns impersonate Signal and ToTok messengers",
                 "href": "https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/"
-            },
-            {
-                "title": "Red Hat confirms security incident after hackers breach GitLab instance",
-                "href": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/"
-            },
-            {
-                "title": "Clop extortion emails claim theft of Oracle E-Business Suite data",
-                "href": "https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/"
-            },
-            {
-                "title": "Data breach at dealership software provider impacts 766k clients",
-                "href": "https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "The Dawn of the Post-Literate Society",
+                "href": "https://news.slashdot.org/story/25/10/03/096256/the-dawn-of-the-post-literate-society?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "NYT Podcast On Job Market For Recent CS Grads Raises Ire of Code.org",
                 "href": "https://developers.slashdot.org/story/25/10/03/0426240/nyt-podcast-on-job-market-for-recent-cs-grads-raises-ire-of-codeorg?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Google Says Hackers Are Sending Extortion Emails To Executives",
                 "href": "https://tech.slashdot.org/story/25/10/02/1812256/google-says-hackers-are-sending-extortion-emails-to-executives?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Walmart To Deploy Sensors To Track 90 Million Grocery Pallets by Next Year",
-                "href": "https://tech.slashdot.org/story/25/10/02/180240/walmart-to-deploy-sensors-to-track-90-million-grocery-pallets-by-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -448,6 +448,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Microsoft Edge security advisory (AV25-639)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-639"
+            },
             {
                 "title": "TeamViewer security advisory (AV25-638)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av25-638"
@@ -643,10 +647,6 @@
             {
                 "title": "[Control systems] CISA ICS security advisories (AV25\u2013591)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av25-591"
-            },
-            {
-                "title": "Dell security advisory (AV25-590)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-590"
             }
         ]
     },
@@ -763,8 +763,16 @@
                 "href": "https://github.com/YaLTeR/niri"
             },
             {
+                "title": "California Needs to Learn from Houston and Dallas about Homelessness",
+                "href": "https://www.governance.fyi/p/california-needs-to-learn-from-houston"
+            },
+            {
                 "title": "Modern Font Stacks",
                 "href": "https://modernfontstacks.com/"
+            },
+            {
+                "title": "A Thermometer for Measuring Quantumness",
+                "href": "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/"
             },
             {
                 "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
@@ -775,12 +783,8 @@
                 "href": "https://blog.burkert.me/posts/in_praise_of_syndication/"
             },
             {
-                "title": "A Thermometer for Measuring Quantumness",
-                "href": "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/"
-            },
-            {
-                "title": "TikTok 'directs child accounts to pornographic content within a few clicks'",
-                "href": "https://www.theguardian.com/technology/2025/oct/03/tiktok-child-accounts-pornographic-content-accessible"
+                "title": "Faroes",
+                "href": "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr"
             },
             {
                 "title": "The Beer Can",
@@ -799,52 +803,44 @@
                 "href": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/"
             },
             {
-                "title": "Amazon Vega OS and Vega Developer Tools",
-                "href": "https://developer.amazon.com/apps-and-games/vega"
+                "title": "Ask HN: What's your experience with using graph databases for agentic use-cases?",
+                "href": "item?id=45436010"
             },
             {
                 "title": "Signal Protocol and Post-Quantum Ratchets",
                 "href": "https://signal.org/blog/spqr/"
             },
             {
+                "title": "Apple removes ICEBlock and similar tracking apps from the App Store",
+                "href": "https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/"
+            },
+            {
                 "title": "How England misplaced its first king",
                 "href": "https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king"
-            },
-            {
-                "title": "Kairos: Immutable Distro for K8s at the Edge",
-                "href": "https://kairos.io/"
-            },
-            {
-                "title": "Media trust hits new low across the political spectrum",
-                "href": "https://www.axios.com/2025/10/02/media-trust-new-low"
             },
             {
                 "title": "The strangest letter of the alphabet: The rise and fall of yogh",
                 "href": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh"
             },
             {
-                "title": "Ask HN: What's your experience with using graph databases for agentic use-cases?",
-                "href": "item?id=45436010"
+                "title": "Kairos: Immutable Distro for K8s at the Edge",
+                "href": "https://kairos.io/"
+            },
+            {
+                "title": "Amber Room",
+                "href": "https://en.wikipedia.org/wiki/Amber_Room"
             },
             {
                 "title": "Potential issues in curl found using AI assisted tools",
                 "href": "https://mastodon.social/@bagder/115241241075258997"
             },
             {
-                "title": "Consistent hashing",
-                "href": "https://eli.thegreenplace.net/2025/consistent-hashing/"
-            },
-            {
                 "title": "Playball \u2013 Watch MLB games from a terminal",
                 "href": "https://github.com/paaatrick/playball"
             },
             {
-                "title": "You Want Technology with Warts",
-                "href": "https://entropicthoughts.com/you-want-technology-with-warts"
-            },
-            {
-                "title": "Move over Dijkstra: New Algorithm Just Rewrote 70 Years of Computer Science",
-                "href": "https://medium.com/@kanishks772/move-over-dijkstra-the-new-algorithm-that-just-rewrote-70-years-of-computer-science-d670696c440d"
+                "title": "Consistent hashing",
+                "href": "https://eli.thegreenplace.net/2025/consistent-hashing/"
             },
             {
                 "title": "Babel is why I keep blogging with Emacs",
@@ -855,24 +851,28 @@
                 "href": "https://debuggingleadership.com/stdlib"
             },
             {
-                "title": "Blender 4.5 brings big changes",
-                "href": "https://lwn.net/Articles/1036262/"
-            },
-            {
                 "title": "Why I chose Lua for this blog",
                 "href": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
             },
             {
-                "title": "Dbos: Durable Workflow Orchestration with Go and PostgreSQL",
-                "href": "https://github.com/dbos-inc/dbos-transact-golang"
+                "title": "Blender 4.5 brings big changes",
+                "href": "https://lwn.net/Articles/1036262/"
+            },
+            {
+                "title": "You Want Technology with Warts",
+                "href": "https://entropicthoughts.com/you-want-technology-with-warts"
+            },
+            {
+                "title": "Microcomputers \u2013 The Second Wave: Toward a Mass Market",
+                "href": "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/"
             },
             {
                 "title": "Icebird: JavaScript Iceberg Reader",
                 "href": "https://github.com/hyparam/icebird"
             },
             {
-                "title": "Microcomputers \u2013 The Second Wave: Toward a Mass Market",
-                "href": "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/"
+                "title": "Highest bridge unveiled at more than 2,000ft above ground",
+                "href": "https://www.independent.co.uk/tv/news/china-worlds-highest-bridge-video-b2835886.html"
             },
             {
                 "title": "How I block all 26M of your curl requests",
