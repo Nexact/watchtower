@@ -11,6 +11,10 @@
                 "href": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
             },
             {
+                "title": "Hashcards: A Plain-Text Spaced Repetition System",
+                "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
+            },
+            {
                 "title": "Retiring test-ipv6.com",
                 "href": "https://retire.test-ipv6.com/"
             },
@@ -19,28 +23,28 @@
                 "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/"
             },
             {
-                "title": "Hashcards: A Plain-Text Spaced Repetition System",
-                "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
-            },
-            {
                 "title": "Self-Hosting Email Like It\u2019s 1984",
                 "href": "https://maxadamski.com/blog/2025/10/email.html"
             },
             {
-                "title": "Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga",
-                "href": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/"
+                "title": "Conventional Commits considered harmful",
+                "href": "https://larr.net/p/cc.html"
             },
             {
                 "title": "What .NET 10 GC Changes Mean for Developers",
                 "href": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
             },
             {
+                "title": "Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga",
+                "href": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/"
+            },
+            {
                 "title": "Cuckoo hashing improves SIMD hash tables",
                 "href": "https://reiner.org/cuckoo-hashing"
             },
             {
-                "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
-                "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
+                "title": "Hobby Hilbert Simplex",
+                "href": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html"
             },
             {
                 "title": "Paged Out! Issue #7",
@@ -51,8 +55,8 @@
                 "href": "https://knotbin.leaflet.pub/3lx3uqveyj22f"
             },
             {
-                "title": "Hobby Hilbert Simplex",
-                "href": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html"
+                "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+                "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
             },
             {
                 "title": "Zig Builds Are Getting Faster",
@@ -69,6 +73,14 @@
             {
                 "title": "Cancelling async Rust",
                 "href": "https://sunshowers.io/posts/cancelling-async-rust/"
+            },
+            {
+                "title": "The Case for Learned Index Structures",
+                "href": "https://dl.acm.org/doi/10.1145/3183713.3196909"
+            },
+            {
+                "title": "RacketCon - Day 2 - Livestream",
+                "href": "https://con.racket-lang.org/"
             },
             {
                 "title": "Adding Stride Scheduling to xv6",
@@ -89,18 +101,6 @@
             {
                 "title": "Attack paths for exfiltrating data using 1Password CLI",
                 "href": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure"
-            },
-            {
-                "title": "My DjangoCon US 2025",
-                "href": "https://www.paulox.net/2025/10/05/my-djangocon-us-2025/"
-            },
-            {
-                "title": "Apertus: a fully open, transparent, multilingual language model",
-                "href": "https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html"
-            },
-            {
-                "title": "The jank community has stepped up",
-                "href": "https://jank-lang.org/blog/2025-10-03-community/"
             }
         ]
     },
@@ -767,6 +767,10 @@
                 "href": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide"
             },
             {
+                "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+                "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
+            },
+            {
                 "title": "What .NET 10 GC Changes Mean for Developers",
                 "href": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
             },
@@ -791,6 +795,10 @@
                 "href": "https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/"
             },
             {
+                "title": "Why I Choose Email over Messaging",
+                "href": "https://www.spinellis.gr/blog/20250926/?li"
+            },
+            {
                 "title": "Leveling Up My Homelab",
                 "href": "https://cweagans.net/2025/09/leveling-up-my-homelab/"
             },
@@ -799,52 +807,44 @@
                 "href": "https://dl.acm.org/doi/pdf/10.1145/106972.107003"
             },
             {
-                "title": "1Password CLI Vulnerability",
-                "href": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure"
-            },
-            {
                 "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
                 "href": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md"
+            },
+            {
+                "title": "1Password CLI Vulnerability",
+                "href": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure"
             },
             {
                 "title": "Laptops create systems. Phones feed algorithms. The asymmetry determines power",
                 "href": "https://zakelfassi.com/command-interface-device-power"
             },
             {
-                "title": "Parrot \u2013 type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
-                "href": "https://github.com/daniellionel01/parrot"
+                "title": "Which Table Format Do LLMs Understand Best? (Results for 11 Formats)",
+                "href": "https://www.improvingagents.com/blog/best-input-data-format-for-llms"
             },
             {
-                "title": "Mod. 5140 - IBM's First Laptop Computer",
-                "href": "https://richardsapperdesign.com/products/mod-5140/"
+                "title": "Parrot \u2013 type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+                "href": "https://github.com/daniellionel01/parrot"
             },
             {
                 "title": "Newton: physics simulation engine built upon NVIDIA Warp",
                 "href": "https://github.com/newton-physics/newton"
             },
             {
-                "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
-                "href": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/"
-            },
-            {
                 "title": "Blog Feeds",
                 "href": "https://blogfeeds.net"
             },
             {
+                "title": "Mod. 5140 - IBM's First Laptop Computer",
+                "href": "https://richardsapperdesign.com/products/mod-5140/"
+            },
+            {
+                "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
+                "href": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/"
+            },
+            {
                 "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
                 "href": "https://blog.cr.yp.to/20251004-weakened.html"
-            },
-            {
-                "title": "Show HN: 2D Spine Animation AI for Game",
-                "href": "https://www.godmodeai.co/ai-spine-animation"
-            },
-            {
-                "title": "Skills I Was Missing as a MongoDB User",
-                "href": "https://www.mongodb.com/company/blog/technical/10-skills-was-missing-as-mongodb-user"
-            },
-            {
-                "title": "Why I Choose Email over Messaging",
-                "href": "https://www.spinellis.gr/blog/20250926/?li"
             },
             {
                 "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
@@ -855,12 +855,20 @@
                 "href": "https://salykova.github.io/matrix-cores-cdna"
             },
             {
-                "title": "XiangShan Vector Floating-Point Unit Design",
-                "href": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/"
+                "title": "Show HN: 2D Spine Animation AI for Game",
+                "href": "https://www.godmodeai.co/ai-spine-animation"
+            },
+            {
+                "title": "Self hosting 10TB in S3 on a framework laptop and disks",
+                "href": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/"
             },
             {
                 "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
                 "href": "https://arxiv.org/abs/2509.18103"
+            },
+            {
+                "title": "XiangShan Vector Floating-Point Unit Design",
+                "href": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/"
             },
             {
                 "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
@@ -869,14 +877,6 @@
             {
                 "title": "Earth was born dry until a cosmic collision made it a blue planet",
                 "href": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm"
-            },
-            {
-                "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-                "href": "https://arxiv.org/abs/2509.19371"
-            },
-            {
-                "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
-                "href": "https://github.com/lsartory/Clavier"
             }
         ]
     }
