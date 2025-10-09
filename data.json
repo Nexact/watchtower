@@ -35,12 +35,12 @@
                 "href": "https://huml.io"
             },
             {
-                "title": "Julia v1.12 release highlights",
-                "href": "https://julialang.org/blog/2025/10/julia-1.12-highlights/"
-            },
-            {
                 "title": "Oral History of Ken Thompson",
                 "href": "https://www.youtube.com/watch?v=OmVHkL0IWk4"
+            },
+            {
+                "title": "Julia v1.12 release highlights",
+                "href": "https://julialang.org/blog/2025/10/julia-1.12-highlights/"
             },
             {
                 "title": "How we found a bug in Go's arm64 compiler",
@@ -57,6 +57,10 @@
             {
                 "title": "Why we didn't rewrite our feed handler in Rust",
                 "href": "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust"
+            },
+            {
+                "title": "The Write Stuff: Concurrent Write Transactions in SQLite",
+                "href": "https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/"
             },
             {
                 "title": "Four years, Five failures, One compiler - The journey",
@@ -95,12 +99,8 @@
                 "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/"
             },
             {
-                "title": "Who needs git when you have 1M context windows?",
-                "href": "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
-            },
-            {
-                "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance",
-                "href": "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance"
+                "title": "C++26: range support for std::optional",
+                "href": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
             }
         ]
     },
@@ -110,6 +110,10 @@
             {
                 "title": "r/netsec monthly discussion & tool thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1nv88jp/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "Security Analysis of a medical device: Methods and Findings",
+                "href": "https://old.reddit.com/r/netsec/comments/1o29iec/security_analysis_of_a_medical_device_methods_and/"
             },
             {
                 "title": "From CPU Spikes to Defense",
@@ -206,10 +210,6 @@
             {
                 "title": "The Phantom Extension: Backdooring chrome through uncharted pathways",
                 "href": "https://old.reddit.com/r/netsec/comments/1nr9aw5/the_phantom_extension_backdooring_chrome_through/"
-            },
-            {
-                "title": "Supply-Chain Guardrails for npm, pnpm, and Yarn",
-                "href": "https://old.reddit.com/r/netsec/comments/1nr727w/supplychain_guardrails_for_npm_pnpm_and_yarn/"
             }
         ]
     },
@@ -759,16 +759,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The great software quality collapse or, how we normalized catastrophe",
-                "href": "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
-            },
-            {
                 "title": "Why Self-Host?",
                 "href": "https://romanzipp.com/blog/why-a-homelab-why-self-host"
             },
             {
-                "title": "Silver Trades to $50 an Ounce",
-                "href": "https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/"
+                "title": "The great software quality collapse or, how we normalized catastrophe",
+                "href": "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
+            },
+            {
+                "title": "GitHub Issues",
+                "href": "https://www.githubstatus.com/incidents/k7bhmjkblcwp"
             },
             {
                 "title": "Nobel Prize in Literature 2025: L\u00e1szl\u00f3 Krasznahorkai",
@@ -779,12 +779,24 @@
                 "href": "https://www.figure.ai/news/introducing-figure-03"
             },
             {
+                "title": "CPU cache-friendly data structures in Go",
+                "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
+            },
+            {
                 "title": "Zippers: Making Functional \"Updates\" Efficient (2010)",
                 "href": "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/"
             },
             {
-                "title": "CPU cache-friendly data structures in Go",
-                "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
+                "title": "TIL: Python's splitlines does more than just newlines",
+                "href": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
+            },
+            {
+                "title": "Using a Laptop as an HDMI Monitor for an SBC",
+                "href": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
+            },
+            {
+                "title": "Real-time Nvidia GPU dashboard",
+                "href": "https://github.com/psalias2006/gpu-hot"
             },
             {
                 "title": "Two things LLM coding agents are still bad at",
@@ -795,44 +807,40 @@
                 "href": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/"
             },
             {
-                "title": "Real-time Nvidia GPU dashboard",
-                "href": "https://github.com/psalias2006/gpu-hot"
-            },
-            {
-                "title": "Using a Laptop as an HDMI Monitor for an SBC",
-                "href": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
-            },
-            {
-                "title": "TIL: Python's splitlines does more than just newlines",
-                "href": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
-            },
-            {
-                "title": "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
-                "href": "https://dunkels.com/adam/stress-testing-next-generation-beacons/"
+                "title": "The Debugging Book",
+                "href": "https://www.debuggingbook.org/"
             },
             {
                 "title": "A History of Large Language Models",
                 "href": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/"
             },
             {
-                "title": "The Debugging Book",
-                "href": "https://www.debuggingbook.org/"
-            },
-            {
-                "title": "The C++ programmer and educator Rainer Grimm has passed away",
-                "href": "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/"
+                "title": "Show HN: I Hid Labubus in World Labs' AI Worlds",
+                "href": "https://www.akadeb.xyz/vibes/world-labubus/"
             },
             {
                 "title": "Vec<T>",
                 "href": "https://marma.dev/articles/2025/under-the-hood-vec-t"
             },
             {
+                "title": "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
+                "href": "https://dunkels.com/adam/stress-testing-next-generation-beacons/"
+            },
+            {
                 "title": "N8n raises $180M",
                 "href": "https://blog.n8n.io/series-c/"
             },
             {
+                "title": "The C++ programmer and educator Rainer Grimm has passed away",
+                "href": "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/"
+            },
+            {
                 "title": "Representation Engineering (2024)",
                 "href": "https://vgel.me/posts/representation-engineering/"
+            },
+            {
+                "title": "We found a bug in Go's ARM64 compiler",
+                "href": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"
             },
             {
                 "title": "The React Foundation",
@@ -843,16 +851,12 @@
                 "href": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer"
             },
             {
-                "title": "We found a bug in Go's ARM64 compiler",
-                "href": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"
+                "title": "WinBoat: Windows apps on Linux with seamless integration",
+                "href": "https://www.winboat.app/"
             },
             {
                 "title": "Show HN: I built a web framework in C",
                 "href": "https://github.com/ashtonjamesd/lavandula"
-            },
-            {
-                "title": "WinBoat: Windows apps on Linux with seamless integration",
-                "href": "https://www.winboat.app/"
             },
             {
                 "title": "Designing a Low Latency 10G Ethernet Core (2023)",
@@ -869,10 +873,6 @@
             {
                 "title": "Discord says 70k users may have had their government IDs leaked in breach",
                 "href": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
-            },
-            {
-                "title": "A Tissue Therapeutics Revolution",
-                "href": "https://cutiss.swiss/"
             },
             {
                 "title": "Rejected announces from libtorrent clients proxying through SOCKS",
