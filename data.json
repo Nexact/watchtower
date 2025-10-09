@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Citizen Protest Halts Chat Control",
-                "href": "https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/"
-            },
-            {
                 "title": "TIL: Python's splitlines does a lot more than just newlines",
                 "href": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
+            },
+            {
+                "title": "Citizen Protest Halts Chat Control",
+                "href": "https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/"
             },
             {
                 "title": "The Programmer Identity Crisis",
@@ -31,16 +31,28 @@
                 "href": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/"
             },
             {
+                "title": "What is Algebraic about Algebraic Effects?",
+                "href": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+            },
+            {
                 "title": "HUML :: Human-oriented Markup Language",
                 "href": "https://huml.io"
+            },
+            {
+                "title": "Julia v1.12 release highlights",
+                "href": "https://julialang.org/blog/2025/10/julia-1.12-highlights/"
             },
             {
                 "title": "Oral History of Ken Thompson",
                 "href": "https://www.youtube.com/watch?v=OmVHkL0IWk4"
             },
             {
-                "title": "Julia v1.12 release highlights",
-                "href": "https://julialang.org/blog/2025/10/julia-1.12-highlights/"
+                "title": "Solving Git's Pain Points with Jujutsu",
+                "href": "https://www.youtube.com/watch?v=ulJ_Pw8qqsE"
+            },
+            {
+                "title": "Two Kinds of \"Relicensing\"",
+                "href": "https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing"
             },
             {
                 "title": "How we found a bug in Go's arm64 compiler",
@@ -49,10 +61,6 @@
             {
                 "title": "How I Learned to Code (using Japanese Method)",
                 "href": "https://blog.stackademic.com/how-i-learned-to-code-using-japanese-method-a01a74c35224"
-            },
-            {
-                "title": "Solving Git's Pain Points with Jujutsu",
-                "href": "https://www.youtube.com/watch?v=ulJ_Pw8qqsE"
             },
             {
                 "title": "Why we didn't rewrite our feed handler in Rust",
@@ -87,20 +95,12 @@
                 "href": "https://www.youtube.com/watch?v=ECMa7rFnQ2w"
             },
             {
-                "title": "Next steps for BPF support in the GNU toolchain",
-                "href": "https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/"
-            },
-            {
                 "title": "Vibe engineering",
                 "href": "https://simonwillison.net/2025/Oct/7/vibe-engineering/"
             },
             {
-                "title": "The Handle trait",
-                "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/"
-            },
-            {
-                "title": "C++26: range support for std::optional",
-                "href": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
+                "title": "Next steps for BPF support in the GNU toolchain",
+                "href": "https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/"
             }
         ]
     },
@@ -112,12 +112,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1nv88jp/rnetsec_monthly_discussion_tool_thread/"
             },
             {
-                "title": "Security Analysis of a medical device: Methods and Findings",
-                "href": "https://old.reddit.com/r/netsec/comments/1o29iec/security_analysis_of_a_medical_device_methods_and/"
-            },
-            {
                 "title": "From CPU Spikes to Defense",
                 "href": "https://old.reddit.com/r/netsec/comments/1o27kui/from_cpu_spikes_to_defense/"
+            },
+            {
+                "title": "Security Analysis of a medical device: Methods and Findings",
+                "href": "https://old.reddit.com/r/netsec/comments/1o29iec/security_analysis_of_a_medical_device_methods_and/"
             },
             {
                 "title": "Bash a newline: Exploiting SSH via ProxyCommand, again (CVE-2025-61984)",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "McKinsey Wonders How To Sell AI Apps With No Measurable Benefits",
+                "href": "https://slashdot.org/story/25/10/09/1132230/mckinsey-wonders-how-to-sell-ai-apps-with-no-measurable-benefits?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "China Confirms Solar Panel Projects Are Irreversibly Changing Desert Ecosystems",
                 "href": "https://news.slashdot.org/story/25/10/09/1058217/china-confirms-solar-panel-projects-are-irreversibly-changing-desert-ecosystems?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Insurers Balk At Paying Out Huge Settlements For Claims Against AI Firms",
                 "href": "https://news.slashdot.org/story/25/10/08/207203/insurers-balk-at-paying-out-huge-settlements-for-claims-against-ai-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Salesforce Says It Won't Pay Extortion Demand in 1 Billion Records Breach",
-                "href": "https://yro.slashdot.org/story/25/10/08/208202/salesforce-says-it-wont-pay-extortion-demand-in-1-billion-records-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,40 +759,56 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Why Self-Host?",
-                "href": "https://romanzipp.com/blog/why-a-homelab-why-self-host"
-            },
-            {
-                "title": "The great software quality collapse or, how we normalized catastrophe",
-                "href": "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
-            },
-            {
                 "title": "GitHub Issues",
                 "href": "https://www.githubstatus.com/incidents/k7bhmjkblcwp"
             },
             {
-                "title": "Nobel Prize in Literature 2025: L\u00e1szl\u00f3 Krasznahorkai",
-                "href": "https://www.nobelprize.org/prizes/literature/2025/press-release/"
-            },
-            {
-                "title": "Figure 03, our 3rd generation humanoid robot",
-                "href": "https://www.figure.ai/news/introducing-figure-03"
-            },
-            {
-                "title": "CPU cache-friendly data structures in Go",
-                "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
-            },
-            {
-                "title": "Zippers: Making Functional \"Updates\" Efficient (2010)",
-                "href": "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/"
+                "title": "Why Self-Host?",
+                "href": "https://romanzipp.com/blog/why-a-homelab-why-self-host"
             },
             {
                 "title": "TIL: Python's splitlines does more than just newlines",
                 "href": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
             },
             {
+                "title": "Nobel Prize in Literature 2025: L\u00e1szl\u00f3 Krasznahorkai",
+                "href": "https://www.nobelprize.org/prizes/literature/2025/press-release/"
+            },
+            {
+                "title": "The great software quality collapse or, how we normalized catastrophe",
+                "href": "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
+            },
+            {
+                "title": "CPU cache-friendly data structures in Go",
+                "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
+            },
+            {
+                "title": "New nanotherapy clears amyloid-\u03b2 reversing Alzheimer's in mice",
+                "href": "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/"
+            },
+            {
+                "title": "My First Contribution to Linux",
+                "href": "https://vkoskiv.com/first-linux-patch/"
+            },
+            {
+                "title": "Figure 03, our 3rd generation humanoid robot",
+                "href": "https://www.figure.ai/news/introducing-figure-03"
+            },
+            {
                 "title": "Using a Laptop as an HDMI Monitor for an SBC",
                 "href": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"
+            },
+            {
+                "title": "Launch HN: Extend (YC W23) \u2013 Turn your messiest documents into data",
+                "href": "https://www.extend.ai/"
+            },
+            {
+                "title": "Zippers: Making Functional \"Updates\" Efficient (2010)",
+                "href": "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/"
+            },
+            {
+                "title": "Show HN: I've built a tiny hand-held keyboard",
+                "href": "https://github.com/mafik/keyer"
             },
             {
                 "title": "Real-time Nvidia GPU dashboard",
@@ -807,24 +823,28 @@
                 "href": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/"
             },
             {
-                "title": "The Debugging Book",
-                "href": "https://www.debuggingbook.org/"
+                "title": "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
+                "href": "https://dunkels.com/adam/stress-testing-next-generation-beacons/"
             },
             {
-                "title": "A History of Large Language Models",
-                "href": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/"
+                "title": "The Debugging Book",
+                "href": "https://www.debuggingbook.org/"
             },
             {
                 "title": "Show HN: I Hid Labubus in World Labs' AI Worlds",
                 "href": "https://www.akadeb.xyz/vibes/world-labubus/"
             },
             {
-                "title": "Vec<T>",
-                "href": "https://marma.dev/articles/2025/under-the-hood-vec-t"
+                "title": "A History of Large Language Models",
+                "href": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/"
             },
             {
-                "title": "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
-                "href": "https://dunkels.com/adam/stress-testing-next-generation-beacons/"
+                "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
+                "href": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer"
+            },
+            {
+                "title": "Vec<T>",
+                "href": "https://marma.dev/articles/2025/under-the-hood-vec-t"
             },
             {
                 "title": "N8n raises $180M",
@@ -835,48 +855,28 @@
                 "href": "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/"
             },
             {
-                "title": "Representation Engineering (2024)",
-                "href": "https://vgel.me/posts/representation-engineering/"
-            },
-            {
                 "title": "We found a bug in Go's ARM64 compiler",
                 "href": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"
+            },
+            {
+                "title": "Representation Engineering (2024)",
+                "href": "https://vgel.me/posts/representation-engineering/"
             },
             {
                 "title": "The React Foundation",
                 "href": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/"
             },
             {
-                "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
-                "href": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer"
+                "title": "Talk Python in Production",
+                "href": "https://talkpython.fm/books/python-in-production"
             },
             {
                 "title": "WinBoat: Windows apps on Linux with seamless integration",
                 "href": "https://www.winboat.app/"
             },
             {
-                "title": "Show HN: I built a web framework in C",
-                "href": "https://github.com/ashtonjamesd/lavandula"
-            },
-            {
                 "title": "Designing a Low Latency 10G Ethernet Core (2023)",
                 "href": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html"
-            },
-            {
-                "title": "Talk Python in Production",
-                "href": "https://talkpython.fm/books/python-in-production"
-            },
-            {
-                "title": "The RSS feed reader landscape",
-                "href": "https://lighthouseapp.io/blog/feed-reader-deep-dive"
-            },
-            {
-                "title": "Discord says 70k users may have had their government IDs leaked in breach",
-                "href": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
-            },
-            {
-                "title": "Rejected announces from libtorrent clients proxying through SOCKS",
-                "href": "https://catgirl.online/2025/10/01/libtorrent-socks-woes"
             }
         ]
     }
