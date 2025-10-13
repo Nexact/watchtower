@@ -3,12 +3,12 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "The Country That Broke Kotlin",
-                "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
-            },
-            {
                 "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
                 "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code"
+            },
+            {
+                "title": "The Country That Broke Kotlin",
+                "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
             },
             {
                 "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
@@ -31,6 +31,10 @@
                 "href": "https://github.com/junegunn/fzf/releases/tag/v0.66.0"
             },
             {
+                "title": "JIT: so you want to be faster than an interpreter on modern CPUs\u2026",
+                "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/"
+            },
+            {
                 "title": "Find where a specific object was allocated in JavaScript with DevTools",
                 "href": "http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/"
             },
@@ -41,6 +45,10 @@
             {
                 "title": "smolBSD \u2014 build your own minimal BSD system",
                 "href": "https://smolbsd.org"
+            },
+            {
+                "title": "Strudel REPL - a music live coding environment living in the browser",
+                "href": "https://strudel.cc"
             },
             {
                 "title": "Introducing oavif: faster target quality image compression",
@@ -57,14 +65,6 @@
             {
                 "title": "Building multi-step login forms that work well with password managers",
                 "href": "https://evertpot.com/multi-step-login-forms-for-password-managers/"
-            },
-            {
-                "title": "Strudel REPL - a music live coding environment living in the browser",
-                "href": "https://strudel.cc"
-            },
-            {
-                "title": "JIT: so you want to be faster than an interpreter on modern CPUs\u2026",
-                "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/"
             },
             {
                 "title": "I'd like to speak to the Bellcore ManaGeR",
@@ -759,36 +759,44 @@
                 "href": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html"
             },
             {
-                "title": "Wireguard FPGA",
-                "href": "https://github.com/chili-chips-ba/wireguard-fpga"
+                "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
+                "href": "https://arxiv.org/abs/2510.03761"
             },
             {
-                "title": "Putting a Dumb Weather Station on the Internet",
-                "href": "https://colincogle.name/blog/byo-weather-station/"
+                "title": "Wireguard FPGA",
+                "href": "https://github.com/chili-chips-ba/wireguard-fpga"
             },
             {
                 "title": "Tauri binding for Python through Pyo3",
                 "href": "https://github.com/pytauri/pytauri"
             },
             {
-                "title": "Ask HN: What are you working on? (October 2025)",
-                "href": "item?id=45561428"
+                "title": "Putting a Dumb Weather Station on the Internet",
+                "href": "https://colincogle.name/blog/byo-weather-station/"
             },
             {
-                "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
-                "href": "https://arxiv.org/abs/2510.03761"
+                "title": "German industrial output falls to 2005 levels as auto sector craters",
+                "href": "https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39"
+            },
+            {
+                "title": "Ask HN: What are you working on? (October 2025)",
+                "href": "item?id=45561428"
             },
             {
                 "title": "MicroPythonOS \u2013 An Android-like OS for microcontrollers",
                 "href": "https://micropythonos.com"
             },
             {
-                "title": "Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France",
-                "href": "https://en.wikipedia.org/wiki/Jeffrey_Hudson"
+                "title": "HTTP3 Explained",
+                "href": "https://http3-explained.haxx.se"
             },
             {
                 "title": "Show HN: Baby's first international landline",
                 "href": "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/"
+            },
+            {
+                "title": "Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France",
+                "href": "https://en.wikipedia.org/wiki/Jeffrey_Hudson"
             },
             {
                 "title": "Emacs agent-shell (powered by ACP)",
@@ -797,10 +805,6 @@
             {
                 "title": "Three ways formally verified code can go wrong in practice",
                 "href": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/"
-            },
-            {
-                "title": "HTTP3 Explained",
-                "href": "https://http3-explained.haxx.se"
             },
             {
                 "title": "Bird photographer of the year gives a lesson in planning and patience",
@@ -815,12 +819,20 @@
                 "href": "https://3dpaws.comet.ucar.edu"
             },
             {
+                "title": "A years-long Turkish alphabet bug in the Kotlin compiler",
+                "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
+            },
+            {
                 "title": "MAML \u2013 A new configuration language",
                 "href": "https://maml.dev/"
             },
             {
-                "title": "A years-long Turkish alphabet bug in the Kotlin compiler",
-                "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
+                "title": "Making regular GPS ultra-precise",
+                "href": "https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/"
+            },
+            {
+                "title": "An initial investigation into WDDM on ReactOS",
+                "href": "https://reactos.org/blogs/investigating-wddm/"
             },
             {
                 "title": "Free software hasn't won",
@@ -831,48 +843,36 @@
                 "href": "https://cceckman.com/writing/keyboard-holders-gen1/"
             },
             {
-                "title": "An initial investigation into WDDM on ReactOS",
-                "href": "https://reactos.org/blogs/investigating-wddm/"
+                "title": "After 2 decades, are promises of a graphene revolution coming true?",
+                "href": "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true"
             },
             {
                 "title": "For centuries massive meals amazed visitors to Korea (2019)",
                 "href": "https://www.atlasobscura.com/articles/history-of-korean-food"
             },
             {
-                "title": "A better SQL validator and comparison with existing SQL validators",
-                "href": "https://app.sqlai.ai/posts/better-sql-validator/"
-            },
-            {
                 "title": "Novelty Automation",
                 "href": "https://www.novelty-automation.com/"
-            },
-            {
-                "title": "After 2 decades, are promises of a graphene revolution coming true?",
-                "href": "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true"
-            },
-            {
-                "title": "The Tiny Teams Playbook",
-                "href": "https://www.latent.space/p/tiny"
             },
             {
                 "title": "Show HN: I built a simple ambient sound app with no ads or subscriptions",
                 "href": "https://ambisounds.app/"
             },
             {
+                "title": "The Tiny Teams Playbook",
+                "href": "https://www.latent.space/p/tiny"
+            },
+            {
                 "title": "Completing a BASIC language interpreter in 2025",
                 "href": "https://nanochess.org/ecs_basic_2.html"
             },
             {
-                "title": "Countering Trusting Trust Through Diverse Double-Compiling (DDC)",
-                "href": "https://dwheeler.com/trusting-trust/"
+                "title": "A better SQL validator and comparison with existing SQL validators",
+                "href": "https://app.sqlai.ai/posts/better-sql-validator/"
             },
             {
                 "title": "John Searle has died",
                 "href": "https://www.nytimes.com/2025/10/12/books/john-searle-dead.html"
-            },
-            {
-                "title": "A whirlwind introduction to dataflow graphs (2018)",
-                "href": "https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/"
             }
         ]
     }
