@@ -11,16 +11,16 @@
                 "href": "https://automerge.org/"
             },
             {
-                "title": "Syntax highlighting is a waste of an information channel",
+                "title": "Syntax highlighting is a waste of an information channel (2020)",
                 "href": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
-            },
-            {
-                "title": "How I Almost Got Hacked By A 'Job Interview'",
-                "href": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"
             },
             {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "How I Almost Got Hacked By A 'Job Interview'",
+                "href": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"
             },
             {
                 "title": "Forgejo v13.0 is available",
@@ -47,6 +47,10 @@
                 "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"
             },
             {
+                "title": "Flight Path - GPU Instanced Rendering",
+                "href": "https://jeantimex.github.io/flight-path/"
+            },
+            {
                 "title": "An Introduction To Event Theory",
                 "href": "https://yonkeltron.com/posts/an-introduction-to-event-theory/"
             },
@@ -55,16 +59,16 @@
                 "href": "https://arpi.se/anders/#design-for-the-trash-can"
             },
             {
-                "title": "Flight Path - GPU Instanced Rendering",
-                "href": "https://jeantimex.github.io/flight-path/"
-            },
-            {
                 "title": "Nix: connecting to the Sandbox",
                 "href": "https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/"
             },
             {
                 "title": "jj part 4: configuration",
                 "href": "https://andre.arko.net/2025/10/15/jj-part-4-configuration/"
+            },
+            {
+                "title": "Lexical differential highlighting instead of syntax highlighting",
+                "href": "https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html"
             },
             {
                 "title": "An effort to create a K8s cluster with 1M active nodes",
@@ -83,12 +87,12 @@
                 "href": "https://isovalent.com/blog/post/demystifying-cni/"
             },
             {
-                "title": "An Introduction to Multisets",
-                "href": "https://arxiv.org/abs/2110.12902"
-            },
-            {
                 "title": "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
                 "href": "https://github.com/atgreen/cl-tuition"
+            },
+            {
+                "title": "An Introduction to Multisets",
+                "href": "https://arxiv.org/abs/2110.12902"
             },
             {
                 "title": "The World's Fastest Scrabble Program (1988)",
@@ -97,10 +101,6 @@
             {
                 "title": "Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?",
                 "href": "https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability"
-            },
-            {
-                "title": "Lexical differential highlighting instead of syntax highlighting",
-                "href": "https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/"
+            },
+            {
                 "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Microsoft adds Copilot voice activation on Windows 11 PCs",
                 "href": "https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/"
-            },
-            {
-                "title": "Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Only 40% of Workers Have High-Quality Jobs, Gallup Finds",
+                "href": "https://slashdot.org/story/25/10/17/0836202/only-40-of-workers-have-high-quality-jobs-gallup-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "EU Expands USB-C Mandate To Chargers",
                 "href": "https://hardware.slashdot.org/story/25/10/17/003211/eu-expands-usb-c-mandate-to-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Sal Khan Will Become the Public Face of the TED Conference",
                 "href": "https://news.slashdot.org/story/25/10/16/1758203/sal-khan-will-become-the-public-face-of-the-ted-conference?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Fossil Fuels To Dominate Global Energy Use Past 2050, McKinsey Says",
-                "href": "https://hardware.slashdot.org/story/25/10/16/1748214/fossil-fuels-to-dominate-global-energy-use-past-2050-mckinsey-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -787,24 +787,32 @@
                 "href": "https://hackeryarn.com/post/rust-macros-1/"
             },
             {
-                "title": "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
-                "href": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
-            },
-            {
                 "title": "Claude Skills",
                 "href": "https://www.anthropic.com/news/skills"
             },
             {
-                "title": "Next steps for BPF support in the GNU toolchain",
-                "href": "https://lwn.net/Articles/1039827/"
+                "title": "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
+                "href": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
             },
             {
                 "title": "Show HN: OnlyJPG \u2013 Client-Side PNG/HEIC/AVIF/PDF/etc to JPG",
                 "href": "https://onlyjpg.com"
             },
             {
+                "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+                "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
+            },
+            {
+                "title": "Show HN: A large format XY scanning hyperspectral camera",
+                "href": "https://www.anfractuosity.com/projects/waverider/"
+            },
+            {
                 "title": "A classified network of SpaceX satellites is emitting a mysterious signal",
                 "href": "https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal"
+            },
+            {
+                "title": "Next steps for BPF support in the GNU toolchain",
+                "href": "https://lwn.net/Articles/1039827/"
             },
             {
                 "title": "Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course",
@@ -815,8 +823,8 @@
                 "href": "https://notes.mtb.xyz/p/your-data-model-is-your-destiny"
             },
             {
-                "title": "Create a Custom Interactive dashboard using SVG",
-                "href": "https://0xmm.in/posts/custom_dash/"
+                "title": "A 4k-Room Text Adventure Written by One Human in QBasic No AI",
+                "href": "https://the-ventureweaver.itch.io/tlote4111"
             },
             {
                 "title": "Cloudflare Sandbox SDK",
@@ -827,44 +835,40 @@
                 "href": "https://about.doordash.com/en-us/news/waymo"
             },
             {
-                "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-                "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
+                "title": "Codex Is Live in Zed",
+                "href": "https://zed.dev/blog/codex-is-live-in-zed"
             },
             {
                 "title": "Gemini 3.0 spotted in the wild through A/B testing",
                 "href": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/"
             },
             {
-                "title": "Codex Is Live in Zed",
-                "href": "https://zed.dev/blog/codex-is-live-in-zed"
-            },
-            {
-                "title": "A 4k-Room Text Adventure Written by One Human in QBasic No AI",
-                "href": "https://the-ventureweaver.itch.io/tlote4111"
-            },
-            {
-                "title": "Virtual Memory for Real-time RISC-V systems using hPMP",
-                "href": "https://arxiv.org/abs/2504.04498"
-            },
-            {
                 "title": "Elixir 1.19",
                 "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"
-            },
-            {
-                "title": "Show HN: A large format XY scanning hyperspectral camera",
-                "href": "https://www.anfractuosity.com/projects/waverider/"
             },
             {
                 "title": "Hyperflask \u2013 Full stack Flask and Htmx framework",
                 "href": "https://hyperflask.dev/"
             },
             {
-                "title": "A liver transplant from start to finish",
-                "href": "https://press.asimov.com/articles/liver"
+                "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city",
+                "href": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/"
             },
             {
                 "title": "Talent",
                 "href": "https://www.felixstocker.com/blog/talent"
+            },
+            {
+                "title": "Virtual Memory for Real-time RISC-V systems using hPMP",
+                "href": "https://arxiv.org/abs/2504.04498"
+            },
+            {
+                "title": "A liver transplant from start to finish",
+                "href": "https://press.asimov.com/articles/liver"
+            },
+            {
+                "title": "Create a Custom Interactive dashboard using SVG",
+                "href": "https://0xmm.in/posts/custom_dash/"
             },
             {
                 "title": "Lead Limited Brain and Language Development in Neanderthals and Other Hominids?",
@@ -873,10 +877,6 @@
             {
                 "title": "Post office in France rolls out croissant-scented stamp",
                 "href": "https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/"
-            },
-            {
-                "title": "Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl",
-                "href": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html"
             }
         ]
     }
