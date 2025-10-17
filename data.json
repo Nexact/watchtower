@@ -15,16 +15,20 @@
                 "href": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
             },
             {
-                "title": "Lexical differential highlighting instead of syntax highlighting",
-                "href": "https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html"
-            },
-            {
                 "title": "jj part 4: configuration",
                 "href": "https://andre.arko.net/2025/10/15/jj-part-4-configuration/"
             },
             {
+                "title": "Lexical differential highlighting instead of syntax highlighting",
+                "href": "https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html"
+            },
+            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "Compilation is communication",
+                "href": "https://mmapped.blog/posts/45-compilation-is-communication"
             },
             {
                 "title": "Forgejo v13.0 is available",
@@ -39,24 +43,24 @@
                 "href": "https://ocaml.org/tools/platform-roadmap"
             },
             {
+                "title": "Bundler 2.6: Enhanced Security with Built-in Checksum Verification",
+                "href": "https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/"
+            },
+            {
                 "title": "Zed editor is now available on Windows",
                 "href": "https://zed.dev/blog/zed-for-windows-is-here"
-            },
-            {
-                "title": "Compilation is communication",
-                "href": "https://mmapped.blog/posts/45-compilation-is-communication"
-            },
-            {
-                "title": "Flight Path - GPU Instanced Rendering",
-                "href": "https://jeantimex.github.io/flight-path/"
             },
             {
                 "title": "What\u2019s your go-to strategy for giving engineers access to production?",
                 "href": "https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving"
             },
             {
-                "title": "Bundler 2.6: Enhanced Security with Built-in Checksum Verification",
-                "href": "https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/"
+                "title": "Flight Path - GPU Instanced Rendering",
+                "href": "https://jeantimex.github.io/flight-path/"
+            },
+            {
+                "title": "The World's Fastest Scrabble Program (1988)",
+                "href": "https://dl.acm.org/doi/pdf/10.1145/42411.42420"
             },
             {
                 "title": "Colored Highlighter - A terminal tool to highlight specific words in your command output with colors",
@@ -67,12 +71,16 @@
                 "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"
             },
             {
+                "title": "Design for the trash can",
+                "href": "https://arpi.se/anders/#design-for-the-trash-can"
+            },
+            {
                 "title": "An Introduction To Event Theory",
                 "href": "https://yonkeltron.com/posts/an-introduction-to-event-theory/"
             },
             {
-                "title": "Design for the trash can",
-                "href": "https://arpi.se/anders/#design-for-the-trash-can"
+                "title": "An effort to create a K8s cluster with 1M active nodes",
+                "href": "https://bchess.github.io/k8s-1m/"
             },
             {
                 "title": "Systems Software in the Large",
@@ -83,24 +91,16 @@
                 "href": "https://isovalent.com/blog/post/demystifying-cni/"
             },
             {
-                "title": "An effort to create a K8s cluster with 1M active nodes",
-                "href": "https://bchess.github.io/k8s-1m/"
-            },
-            {
-                "title": "Nix: connecting to the Sandbox",
-                "href": "https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/"
-            },
-            {
-                "title": "The World's Fastest Scrabble Program (1988)",
-                "href": "https://dl.acm.org/doi/pdf/10.1145/42411.42420"
+                "title": "Claude Skills may be a bigger deal than MCP",
+                "href": "https://simonwillison.net/2025/Oct/16/claude-skills/"
             },
             {
                 "title": "Speculations on arenas and non-trivial destructors",
                 "href": "https://nullprogram.com/blog/2025/10/16/"
             },
             {
-                "title": "Let's write a macro in Rust",
-                "href": "https://hackeryarn.com/post/rust-macros-1/"
+                "title": "Nix: connecting to the Sandbox",
+                "href": "https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "12 Years of HDD Analysis Brings Insight To the Bathtub Curve's Reliability",
+                "href": "https://hardware.slashdot.org/story/25/10/17/1711228/12-years-of-hdd-analysis-brings-insight-to-the-bathtub-curves-reliability?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Instant Coffee Beats Drip in Blind Taste Tests",
                 "href": "https://news.slashdot.org/story/25/10/17/157201/instant-coffee-beats-drip-in-blind-taste-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Sony Tells SCOTUS That People Accused of Piracy Aren't 'Innocent Grandmothers'",
                 "href": "https://yro.slashdot.org/story/25/10/16/2111255/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Meta Is Building a Smart TV In VR",
-                "href": "https://entertainment.slashdot.org/story/25/10/16/215216/meta-is-building-a-smart-tv-in-vr?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,64 +759,80 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The Rapper 50 Cent, Adjusted for Inflation",
-                "href": "https://50centadjustedforinflation.com/"
+                "title": "Scientists discover intercellular nanotubular communication system in brain",
+                "href": "https://www.science.org/doi/10.1126/science.adr7403"
             },
             {
                 "title": "Live Stream from the Namib Desert",
                 "href": "https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html"
             },
             {
-                "title": "Scientists discover intercellular nanotubular communication system in brain",
-                "href": "https://www.science.org/doi/10.1126/science.adr7403"
+                "title": "Andrej Karpathy \u2013 AGI is still a decade away",
+                "href": "https://www.dwarkesh.com/p/andrej-karpathy"
             },
             {
-                "title": "Ruby core team takes ownership of RubyGems and Bundler",
-                "href": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/"
+                "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+                "href": "https://simonwillison.net/2025/Oct/16/claude-skills/"
+            },
+            {
+                "title": "OpenAI Needs $400B In The Next 12 Months",
+                "href": "https://www.wheresyoured.at/openai400bn/"
             },
             {
                 "title": "EVs are depreciating faster than gas-powered cars",
                 "href": "https://restofworld.org/2025/ev-depreciation-blusmart-collapse/"
             },
             {
-                "title": "Meow.camera",
-                "href": "https://meow.camera/"
+                "title": "I built an F5 QKview scanner for CISA ED 26-01",
+                "href": "https://www.usenabla.com/blog/emergency-scanning-cisa-endpoint"
             },
             {
-                "title": "Migrating from AWS to Hetzner",
-                "href": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/"
-            },
-            {
-                "title": "Resizeable Bar Support on the Raspberry Pi",
-                "href": "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi"
-            },
-            {
-                "title": "AI has a cargo cult problem",
-                "href": "https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7"
-            },
-            {
-                "title": "You did no fact checking, and I must scream",
-                "href": "https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/"
-            },
-            {
-                "title": "Cartridge Chaos: The Official Nintendo Region Converter and More",
-                "href": "https://nicole.express/2025/not-just-for-robert.html"
-            },
-            {
-                "title": "4Chan Lawyer publishes Ofcom correspondence",
-                "href": "https://alecmuffett.com/article/117792"
+                "title": "Ruby core team takes ownership of RubyGems and Bundler",
+                "href": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/"
             },
             {
                 "title": "MIT physicists improve the precision of atomic clocks",
                 "href": "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008"
             },
             {
-                "title": "Dead or Alive creator Tomonobu Itagaki, 58 passes away",
-                "href": "https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58"
+                "title": "Meow.camera",
+                "href": "https://meow.camera/"
+            },
+            {
+                "title": "AI has a cargo cult problem",
+                "href": "https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7"
+            },
+            {
+                "title": "Migrating from AWS to Hetzner",
+                "href": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/"
+            },
+            {
+                "title": "4Chan Lawyer publishes Ofcom correspondence",
+                "href": "https://alecmuffett.com/article/117792"
+            },
+            {
+                "title": "Cartridge Chaos: The Official Nintendo Region Converter and More",
+                "href": "https://nicole.express/2025/not-just-for-robert.html"
+            },
+            {
+                "title": "The Rapper 50 Cent, Adjusted for Inflation",
+                "href": "https://50centadjustedforinflation.com/"
+            },
+            {
+                "title": "You did no fact checking, and I must scream",
+                "href": "https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/"
+            },
+            {
+                "title": "Resizeable Bar Support on the Raspberry Pi",
+                "href": "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi"
             },
             {
                 "title": "Let's write a macro in Rust",
                 "href": "https://hackeryarn.com/post/rust-macros-1/"
+            },
+            {
+                "title": "Dead or Alive creator Tomonobu Itagaki, 58 passes away",
+                "href": "https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58"
             },
             {
                 "title": "How I bypassed Amazon's Kindle web DRM",
@@ -827,6 +843,10 @@
                 "href": "item?id=45613567"
             },
             {
+                "title": "Email bombs exploit lax authentication in Zendesk",
+                "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
+            },
+            {
                 "title": "Trap the Critters with Paint",
                 "href": "https://deepanwadhwa.github.io/freeze_trap/"
             },
@@ -835,48 +855,28 @@
                 "href": "https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/"
             },
             {
-                "title": "Email bombs exploit lax authentication in Zendesk",
-                "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
-            },
-            {
-                "title": "Next steps for BPF support in the GNU toolchain",
-                "href": "https://lwn.net/Articles/1039827/"
+                "title": "Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps",
+                "href": "https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/"
             },
             {
                 "title": "Show HN: OnlyJPG \u2013 Client-Side PNG/HEIC/AVIF/PDF/etc to JPG",
                 "href": "https://onlyjpg.com"
             },
             {
-                "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)",
-                "href": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/"
-            },
-            {
-                "title": "Amazon-backed, nuclear facility for Washington state",
-                "href": "https://www.geekwire.com/2025/a-first-look-at-the-amazon-backed-next-generation-nuclear-facility-planned-for-washington-state/"
-            },
-            {
-                "title": "Amazon\u2019s Ring to partner with Flock",
-                "href": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
-            },
-            {
-                "title": "Stinkbug Leg Organ Hosts Symbiotic Fungi That Protect Eggs from Parasitic Wasps",
-                "href": "https://bioengineer.org/stinkbug-leg-organ-hosts-symbiotic-fungi-that-protect-eggs-from-parasitic-wasps/"
-            },
-            {
-                "title": "New computer model helps reveal how the brain both adapts and misfires",
-                "href": "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course"
+                "title": "Next steps for BPF support in the GNU toolchain",
+                "href": "https://lwn.net/Articles/1039827/"
             },
             {
                 "title": "Your data model is your destiny",
                 "href": "https://notes.mtb.xyz/p/your-data-model-is-your-destiny"
             },
             {
-                "title": "Show HN: A large format XY scanning hyperspectral camera",
-                "href": "https://www.anfractuosity.com/projects/waverider/"
+                "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)",
+                "href": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/"
             },
             {
-                "title": "Ask HN: How does one build large front end apps without a framework like React?",
-                "href": "item?id=45615193"
+                "title": "New computer model helps reveal how the brain both adapts and misfires",
+                "href": "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course"
             }
         ]
     }
