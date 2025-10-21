@@ -7,16 +7,20 @@
                 "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/"
             },
             {
-                "title": "Some Smalltalk about Ruby Loops",
-                "href": "https://tech.stonecharioteer.com/posts/2025/ruby-loops/"
-            },
-            {
                 "title": "Fil-C",
                 "href": "https://fil-c.org"
             },
             {
+                "title": "Some Smalltalk about Ruby Loops",
+                "href": "https://tech.stonecharioteer.com/posts/2025/ruby-loops/"
+            },
+            {
                 "title": "Gleam v1.13.0 released",
                 "href": "https://gleam.run/news/formalising-external-apis/"
+            },
+            {
+                "title": "AWS experiences 12+ hour multi-service outage",
+                "href": "https://health.aws.amazon.com/health/status?ts=20251020"
             },
             {
                 "title": "We need to start doing web blocking for non-technical reasons",
@@ -27,16 +31,16 @@
                 "href": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/"
             },
             {
-                "title": "AWS experiences 12+ hour multi-service outage",
-                "href": "https://health.aws.amazon.com/health/status?ts=20251020"
-            },
-            {
                 "title": "The Day My Smart Vacuum Turned Against Me",
                 "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/"
             },
             {
                 "title": "Measuring Engineering Productivity",
                 "href": "https://justoffbyone.com/posts/measuring-engineering-productivity/"
+            },
+            {
+                "title": "Nix CI Benchmarks",
+                "href": "https://garnix-io.github.io/benchmarks"
             },
             {
                 "title": "Continuously keep local mailboxes in sync with an IMAP server",
@@ -47,20 +51,20 @@
                 "href": "https://xenodium.com/emacs-time-zones-mode"
             },
             {
-                "title": "Nix CI Benchmarks",
-                "href": "https://garnix-io.github.io/benchmarks"
-            },
-            {
                 "title": "Ruby Butler: It\u2019s Time to Rethink RubyGems and Bundler",
                 "href": "https://rubyelders.com/writings/2025-10-ruby-butler-1.html"
             },
             {
-                "title": "Go proposal: Compare IP subnets",
-                "href": "https://antonz.org/accepted/netip-prefix-compare/"
-            },
-            {
                 "title": "How I accidentally became PureGym's unofficial Apple Wallet developer",
                 "href": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/"
+            },
+            {
+                "title": "The joy of rediscovering Perl",
+                "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/"
+            },
+            {
+                "title": "Go proposal: Compare IP subnets",
+                "href": "https://antonz.org/accepted/netip-prefix-compare/"
             },
             {
                 "title": "What are you doing this week?",
@@ -71,8 +75,20 @@
                 "href": "https://www.evalapply.org/posts/software-debt/index.html"
             },
             {
+                "title": "atproto Check-in (Fall 2025)",
+                "href": "https://docs.bsky.app/blog/protocol-checkin-fall-2025"
+            },
+            {
+                "title": "Judo (Jujutsu GUI)",
+                "href": "https://judojj.com/"
+            },
+            {
                 "title": "In favor of comments, what does empirical engineering says? (2022)",
                 "href": "https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/"
+            },
+            {
+                "title": "Turn off Cursor, turn on your mind",
+                "href": "https://allvpv.org/turn-off-cursor/"
             },
             {
                 "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
@@ -85,22 +101,6 @@
             {
                 "title": "The future of Python web services looks GIL-free",
                 "href": "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
-            },
-            {
-                "title": "Matrix Conference 2025 Highlights",
-                "href": "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/"
-            },
-            {
-                "title": "The joy of rediscovering Perl",
-                "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/"
-            },
-            {
-                "title": "Weird, but Haskell feels easy",
-                "href": "https://xlii.space/eng/haskell-feels-easy/"
-            },
-            {
-                "title": "Three times faster with lazy imports",
-                "href": "https://hugovk.dev/blog/2025/lazy-imports/"
             }
         ]
     },
@@ -122,10 +122,6 @@
             {
                 "title": "Better-Auth Critical Account Takeover via Unauthenticated API Key Creation (CVE-2025-61928)",
                 "href": "https://old.reddit.com/r/netsec/comments/1obrlhi/betterauth_critical_account_takeover_via/"
-            },
-            {
-                "title": "DefenderWrite: Abusing Whitelisted Programs for Arbitrary Writes into Antivirus's Operating Folder",
-                "href": "https://old.reddit.com/r/netsec/comments/1oaq5nx/defenderwrite_abusing_whitelisted_programs_for/"
             },
             {
                 "title": "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
@@ -210,6 +206,10 @@
             {
                 "title": "Security Analysis of a medical device: Methods and Findings",
                 "href": "https://old.reddit.com/r/netsec/comments/1o29iec/security_analysis_of_a_medical_device_methods_and/"
+            },
+            {
+                "title": "Bash a newline: Exploiting SSH via ProxyCommand, again (CVE-2025-61984)",
+                "href": "https://old.reddit.com/r/netsec/comments/1o170wz/bash_a_newline_exploiting_ssh_via_proxycommand/"
             }
         ]
     },
@@ -319,6 +319,18 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Foreign Hackers Breached a US Nuclear Weapons Plant Via SharePoint Flaws",
+                "href": "https://it.slashdot.org/story/25/10/20/2139236/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "iOS 26.1 Beta 4 Lets Users Control Liquid Glass Transparency With New Toggle",
+                "href": "https://apple.slashdot.org/story/25/10/20/2113254/ios-261-beta-4-lets-users-control-liquid-glass-transparency-with-new-toggle?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Chess Influencer and Grandmaster Daniel Naroditsky Dies At 29",
+                "href": "https://games.slashdot.org/story/25/10/20/2126230/chess-influencer-and-grandmaster-daniel-naroditsky-dies-at-29?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Florida Issues Criminal Subpoenas To Roblox Over Child Safety",
                 "href": "https://games.slashdot.org/story/25/10/20/219228/florida-issues-criminal-subpoenas-to-roblox-over-child-safety?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,18 +377,6 @@
             {
                 "title": "Peanut Allergies Have Plummeted in Children, Study Shows",
                 "href": "https://science.slashdot.org/story/25/10/20/1524254/peanut-allergies-have-plummeted-in-children-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "India Draft Plan Reveals $21 Trillion Net-Zero Investment Need",
-                "href": "https://news.slashdot.org/story/25/10/20/1447219/india-draft-plan-reveals-21-trillion-net-zero-investment-need?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Are We Living in a Golden Age of Stupidity?",
-                "href": "https://science.slashdot.org/story/25/10/20/148243/are-we-living-in-a-golden-age-of-stupidity?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AWS Outage Takes Thousands of Websites Offline for Three Hours",
-                "href": "https://tech.slashdot.org/story/25/10/20/140248/aws-outage-takes-thousands-of-websites-offline-for-three-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -763,120 +763,120 @@
                 "href": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
             },
             {
-                "title": "Claude Code on the web",
-                "href": "https://www.anthropic.com/news/claude-code-on-the-web"
-            },
-            {
-                "title": "You don't need Kafka: Building a message queue with Unix signals",
+                "title": "Building a message queue with only two UNIX signals",
                 "href": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals"
             },
             {
-                "title": "BERT is just a single text diffusion step",
-                "href": "https://nathan.rs/posts/roberta-diffusion/"
-            },
-            {
-                "title": "Production RAG: what I learned from processing 5M+ documents",
-                "href": "https://blog.abdellatif.io/production-rag-processing-5m-documents"
-            },
-            {
-                "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
-                "href": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
-            },
-            {
-                "title": "My trick for getting consistent classification from LLMs",
-                "href": "https://verdik.substack.com/p/how-to-get-consistent-classification"
-            },
-            {
-                "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
-                "href": "https://judojj.com"
+                "title": "Claude Code on the web",
+                "href": "https://www.anthropic.com/news/claude-code-on-the-web"
             },
             {
                 "title": "A laser pointer at 2B FPS [video]",
                 "href": "https://www.youtube.com/watch?v=o4TdHrMi6do"
             },
             {
-                "title": "Today is when the Amazon brain drain sent AWS down the spout",
-                "href": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/"
+                "title": "My trick for getting consistent classification from LLMs",
+                "href": "https://verdik.substack.com/p/how-to-get-consistent-classification"
             },
             {
-                "title": "Code from MIT's 1986 SICP video lectures",
-                "href": "https://github.com/felipap/sicp-code"
+                "title": "Production RAG: what I learned from processing 5M+ documents",
+                "href": "https://blog.abdellatif.io/production-rag-processing-5m-documents"
             },
             {
-                "title": "x86-64 Playground \u2013 An online assembly editor and GDB-like debugger",
-                "href": "https://x64.halb.it/"
+                "title": "BERT is just a single text diffusion step",
+                "href": "https://nathan.rs/posts/roberta-diffusion/"
             },
             {
-                "title": "TernFS \u2013 an exabyte scale, multi-region distributed filesystem",
-                "href": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped"
-            },
-            {
-                "title": "The scariest \"user support\" email I've ever received",
-                "href": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
-            },
-            {
-                "title": "AWS Multiple Services Down in us-east-1",
-                "href": "https://health.aws.amazon.com/health/status?ts=20251020"
-            },
-            {
-                "title": "How to stop Linux threads cleanly",
-                "href": "https://mazzo.li/posts/stopping-linux-threads.html"
-            },
-            {
-                "title": "Atomic-Scale Protein Filters",
-                "href": "https://press.asimov.com/articles/filters"
-            },
-            {
-                "title": "Art Must Act",
-                "href": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche"
-            },
-            {
-                "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
-                "href": "https://www.youtube.com/watch?v=RsGHr7dXLuI"
+                "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+                "href": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
             },
             {
                 "title": "Postman which I thought worked locally on my computer, is down",
                 "href": "https://status.postman.com"
             },
             {
-                "title": "J.P. Morgan's OpenAI loan is strange",
-                "href": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/"
+                "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
+                "href": "https://judojj.com"
+            },
+            {
+                "title": "Today is when the Amazon brain drain sent AWS down the spout",
+                "href": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/"
+            },
+            {
+                "title": "The scariest \"user support\" email I've ever received",
+                "href": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
+            },
+            {
+                "title": "Why UUIDs won't protect your secrets",
+                "href": "https://alexsci.com/blog/uuids-and-idor/"
+            },
+            {
+                "title": "x86-64 Playground \u2013 An online assembly editor and GDB-like debugger",
+                "href": "https://x64.halb.it/"
+            },
+            {
+                "title": "AWS Multiple Services Down in us-east-1",
+                "href": "https://health.aws.amazon.com/health/status?ts=20251020"
+            },
+            {
+                "title": "Code from MIT's 1986 SICP video lectures",
+                "href": "https://github.com/felipap/sicp-code"
+            },
+            {
+                "title": "TernFS \u2013 an exabyte scale, multi-region distributed filesystem",
+                "href": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped"
+            },
+            {
+                "title": "How to stop Linux threads cleanly",
+                "href": "https://mazzo.li/posts/stopping-linux-threads.html"
+            },
+            {
+                "title": "Art Must Act",
+                "href": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche"
+            },
+            {
+                "title": "Old Computer Challenge \u2013 Modern Web for the ZX Spectrum",
+                "href": "https://0x00.cl/blog/2025/occ-2025/"
+            },
+            {
+                "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+                "href": "https://www.youtube.com/watch?v=RsGHr7dXLuI"
+            },
+            {
+                "title": "Old Is Gold: Optimizing Single-Threaded Applications with Exgen-Malloc",
+                "href": "https://arxiv.org/abs/2510.10219"
+            },
+            {
+                "title": "Atomic-Scale Protein Filters",
+                "href": "https://press.asimov.com/articles/filters"
             },
             {
                 "title": "Space Elevator",
                 "href": "https://neal.fun/space-elevator/"
             },
             {
-                "title": "iOS 26.1 lets users control Liquid Glass transparency",
-                "href": "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/"
-            },
-            {
                 "title": "The longest baseball game took 33 innings to win",
                 "href": "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played"
-            },
-            {
-                "title": "Servo v0.0.1",
-                "href": "https://github.com/servo/servo"
             },
             {
                 "title": "Docker Systems Status: Full Service Disruption",
                 "href": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c"
             },
             {
+                "title": "Servo v0.0.1",
+                "href": "https://github.com/servo/servo"
+            },
+            {
+                "title": "J.P. Morgan's OpenAI loan is strange",
+                "href": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/"
+            },
+            {
                 "title": "DeepSeek OCR",
                 "href": "https://github.com/deepseek-ai/DeepSeek-OCR"
             },
             {
-                "title": "Show HN: Playwright Skill for Claude Code \u2013 Less context than playwright-MCP",
-                "href": "https://github.com/lackeyjb/playwright-skill"
-            },
-            {
-                "title": "When a stadium adds AI to everything, it's worse experience for everyone",
-                "href": "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/"
-            },
-            {
-                "title": "Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen",
-                "href": "https://github.com/eloqdata/eloqdoc"
+                "title": "iOS 26.1 lets users control Liquid Glass transparency",
+                "href": "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/"
             }
         ]
     }
