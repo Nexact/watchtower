@@ -55,6 +55,10 @@
                 "href": "https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/"
             },
             {
+                "title": "Simple, minimal SQL database migrations written in Go with generics. Std lib database/sql and SQLX supported OOTB",
+                "href": "https://github.com/padurean/gosmig"
+            },
+            {
                 "title": "StarGrid: Brand-New Palm OS Strategy Game in 2025",
                 "href": "https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html"
             },
@@ -79,6 +83,10 @@
                 "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/"
             },
             {
+                "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+                "href": "https://dl.acm.org/doi/10.1145/359024.359031"
+            },
+            {
                 "title": "GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace",
                 "href": "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace"
             },
@@ -87,20 +95,12 @@
                 "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/"
             },
             {
-                "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
-                "href": "https://dl.acm.org/doi/10.1145/359024.359031"
+                "title": "Async DNS Resolution",
+                "href": "https://ziglang.org/devlog/2025/#2025-10-15"
             },
             {
                 "title": "The joy of rediscovering Perl",
                 "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/"
-            },
-            {
-                "title": "15 Go Subtleties You May Not Already Know",
-                "href": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
-            },
-            {
-                "title": "A deep dive into BPF LPM trie performance and optimization",
-                "href": "https://blog.cloudflare.com/a-deep-dive-into-bpf-lpm-trie-performance-and-optimization/"
             }
         ]
     },
@@ -763,32 +763,28 @@
                 "href": "https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service"
             },
             {
-                "title": "Evaluating the Infinity Cache in AMD Strix Halo",
-                "href": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in"
-            },
-            {
                 "title": "MinIO (apparently) becomes source-only",
                 "href": "https://github.com/minio/minio/issues/21647"
             },
             {
-                "title": "The Gypsy Life of Robert Louis Stevenson",
-                "href": "https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/"
+                "title": "Evaluating the Infinity Cache in AMD Strix Halo",
+                "href": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in"
             },
             {
                 "title": "Show HN: Cadence \u2013 A Guitar Theory App",
                 "href": "https://cadenceguitar.com/"
             },
             {
-                "title": "Knocker, a knock based access control system for your homelab",
-                "href": "https://github.com/FarisZR/knocker"
-            },
-            {
-                "title": "rlsw \u2013 Raylib software OpenGL renderer in less than 5k LOC",
-                "href": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
+                "title": "The Gypsy Life of Robert Louis Stevenson",
+                "href": "https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/"
             },
             {
                 "title": "Go Subtleties You May Not Know",
                 "href": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
+            },
+            {
+                "title": "rlsw \u2013 Raylib software OpenGL renderer in less than 5k LOC",
+                "href": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
             },
             {
                 "title": "LLMs can get \"brain rot\"",
@@ -803,16 +799,24 @@
                 "href": "item?id=45657345"
             },
             {
-                "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
-                "href": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"
+                "title": "Knocker, a knock based access control system for your homelab",
+                "href": "https://github.com/FarisZR/knocker"
             },
             {
                 "title": "Neural audio codecs: how to get audio into LLMs",
                 "href": "https://kyutai.org/next/codec-explainer"
             },
             {
+                "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+                "href": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"
+            },
+            {
                 "title": "NASA chief suggests SpaceX may be booted from moon mission",
                 "href": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
+            },
+            {
+                "title": "Evaluating Argon2 Adoption and Effectiveness in Real-World Software",
+                "href": "https://arxiv.org/abs/2504.17121"
             },
             {
                 "title": "The Hidden Engineering of Niagara Falls",
@@ -823,24 +827,20 @@
                 "href": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
             },
             {
-                "title": "OpenBSD 7.8",
-                "href": "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT"
-            },
-            {
                 "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
                 "href": "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/"
             },
             {
-                "title": "ChatGPT Atlas",
-                "href": "https://chatgpt.com/atlas"
+                "title": "OpenBSD 7.8",
+                "href": "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT"
             },
             {
                 "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
                 "href": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/"
             },
             {
-                "title": "French ex-president Sarkozy begins jail sentence",
-                "href": "https://www.bbc.com/news/articles/cvgkm2j0xelo"
+                "title": "ChatGPT Atlas",
+                "href": "https://chatgpt.com/atlas"
             },
             {
                 "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
@@ -851,28 +851,28 @@
                 "href": "https://www.nan.fyi/database"
             },
             {
-                "title": "What do we do if SETI is successful?",
-                "href": "https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful"
+                "title": "Researchers complete first human trial on viability of enteral ventilation",
+                "href": "https://newatlas.com/disease/butt-breathing-ignobel-prize/"
             },
             {
                 "title": "The death of thread per core",
                 "href": "https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/"
             },
             {
-                "title": "Researchers complete first human trial on viability of enteral ventilation",
-                "href": "https://newatlas.com/disease/butt-breathing-ignobel-prize/"
-            },
-            {
                 "title": "KDE Connect: Enabling communication between all your devices",
                 "href": "https://community.kde.org/KDEConnect"
+            },
+            {
+                "title": "Principles and Methodologies for Serial Performance Optimization",
+                "href": "https://danglingpointers.substack.com/p/principles-and-methodologies-for"
             },
             {
                 "title": "Minds, brains, and programs (1980) [pdf]",
                 "href": "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf"
             },
             {
-                "title": "Principles and Methodologies for Serial Performance Optimization",
-                "href": "https://danglingpointers.substack.com/p/principles-and-methodologies-for"
+                "title": "Show HN: Katakate \u2013 Dozens of VMs per node for safe code exec",
+                "href": "https://github.com/Katakate/k7"
             },
             {
                 "title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
