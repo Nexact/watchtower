@@ -51,12 +51,20 @@
                 "href": "https://github.com/nik-rev/awesome-tiny-crates"
             },
             {
-                "title": "Organizing your Nix configuration without flakes",
-                "href": "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
+                "title": "I see a future in jj",
+                "href": "https://steveklabnik.com/writing/i-see-a-future-in-jj/"
+            },
+            {
+                "title": "Slint 1.14 Released",
+                "href": "https://slint.dev/blog/slint-1.14-released"
             },
             {
                 "title": "Plasma 6.5",
                 "href": "https://kde.org/announcements/plasma/6/6.5.0/"
+            },
+            {
+                "title": "Organizing your Nix configuration without flakes",
+                "href": "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
             },
             {
                 "title": "Modal editing is a weird historical contingency we have through sheer happenstance",
@@ -65,10 +73,6 @@
             {
                 "title": "Simple, minimal SQL database migrations written in Go with generics. Std lib database/sql and SQLX supported OOTB",
                 "href": "https://github.com/padurean/gosmig"
-            },
-            {
-                "title": "Slint 1.14 Released",
-                "href": "https://slint.dev/blog/slint-1.14-released"
             },
             {
                 "title": "Why SSA?",
@@ -83,24 +87,20 @@
                 "href": "https://ziglang.org/devlog/2025/#2025-10-15"
             },
             {
-                "title": "Tracking Time Without Clock",
-                "href": "https://tigerbeetle.com/blog/2025-10-21-clockless-time/"
-            },
-            {
-                "title": "The Greatness of Text Adventures",
-                "href": "https://entropicthoughts.com/the-greatness-of-text-adventures"
-            },
-            {
                 "title": "Advanced Self-Aware ed(1)",
                 "href": "https://aartaka.me/advanc-ed.html"
             },
             {
-                "title": "OpenBSD 7.8",
-                "href": "https://www.openbsd.org/78.html"
+                "title": "Tracking Time Without Clock",
+                "href": "https://tigerbeetle.com/blog/2025-10-21-clockless-time/"
             },
             {
                 "title": "modshim: Override and customize Python packages without touching their code",
                 "href": "https://github.com/joouha/modshim"
+            },
+            {
+                "title": "The Greatness of Text Adventures",
+                "href": "https://entropicthoughts.com/the-greatness-of-text-adventures"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/"
+            },
+            {
                 "title": "Meta launches new anti-scam tools for WhatsApp and Messenger",
                 "href": "https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/"
             },
@@ -263,16 +267,16 @@
             {
                 "title": "Maximizing gateway security: Beyond the basic configuration",
                 "href": "https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/"
-            },
-            {
-                "title": "Microsoft fixes bug preventing users from opening classic Outlook",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/"
             }
         ]
     },
     {
         "feedname": "krebsonsecurity",
         "items": [
+            {
+                "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+                "href": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/"
+            },
             {
                 "title": "Email Bombs Exploit Lax Authentication in Zendesk",
                 "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
@@ -308,16 +312,16 @@
             {
                 "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
                 "href": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/"
-            },
-            {
-                "title": "GOP Cries Censorship Over Spam Filters That Work",
-                "href": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/"
             }
         ]
     },
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Meta Allows Deepfake of Irish Presidential Candidate To Spread for 12 Hours Before Removal",
+                "href": "https://tech.slashdot.org/story/25/10/22/1724212/meta-allows-deepfake-of-irish-presidential-candidate-to-spread-for-12-hours-before-removal?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Uber Will Pay Drivers $4,000 To Switch To EVs",
                 "href": "https://tech.slashdot.org/story/25/10/22/1639229/uber-will-pay-drivers-4000-to-switch-to-evs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "US Investigates Waymo Robotaxis Over Safety Around School Buses",
                 "href": "https://tech.slashdot.org/story/25/10/21/2244249/us-investigates-waymo-robotaxis-over-safety-around-school-buses?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "ISP Deceived Customers About Fiber Internet, German Court Finds",
-                "href": "https://tech.slashdot.org/story/25/10/21/2138208/isp-deceived-customers-about-fiber-internet-german-court-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -759,8 +759,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Google demonstrates 'verifiable quantum advantage' with their Willow processor",
+                "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
                 "href": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
+            },
+            {
+                "title": "Introducing Galaxy XR, the first Android XR headset",
+                "href": "https://blog.google/products/android/samsung-galaxy-xr/"
+            },
+            {
+                "title": "HP SitePrint",
+                "href": "https://www.hp.com/us-en/printers/site-print/layout-robot.html"
             },
             {
                 "title": "Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)",
@@ -771,6 +779,14 @@
                 "href": "https://dfir.ch/posts/linux_capabilities/"
             },
             {
+                "title": "Meta is axing 600 roles across its AI division",
+                "href": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence"
+            },
+            {
+                "title": "Bild AI (YC W25) Is Hiring a Founding AI Engineer",
+                "href": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai"
+            },
+            {
                 "title": "MinIO stops distributing free Docker images",
                 "href": "https://github.com/minio/minio/issues/21647#issuecomment-3418675115"
             },
@@ -779,64 +795,64 @@
                 "href": "https://drobinin.com/posts/designing-software-for-things-that-rot/"
             },
             {
-                "title": "Bild AI (YC W25) Is Hiring a Founding AI Engineer",
-                "href": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai"
-            },
-            {
-                "title": "Introducing Galaxy XR, the first Android XR headset",
-                "href": "https://blog.google/products/android/samsung-galaxy-xr/"
-            },
-            {
                 "title": "AI assistants misrepresent news content 45% of the time",
                 "href": "https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content"
-            },
-            {
-                "title": "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
-                "href": "https://www.source.dev/journal/sourcefs"
-            },
-            {
-                "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
-                "href": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/"
-            },
-            {
-                "title": "Die shots of as many CPUs and other interesting chips as possible",
-                "href": "https://commons.wikimedia.org/wiki/User:Birdman86"
             },
             {
                 "title": "The security paradox of local LLMs",
                 "href": "https://quesma.com/blog/local-llms-security-paradox/"
             },
             {
-                "title": "Meta is axing 600 roles across its AI division",
-                "href": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence"
+                "title": "Die shots of as many CPUs and other interesting chips as possible",
+                "href": "https://commons.wikimedia.org/wiki/User:Birdman86"
+            },
+            {
+                "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
+                "href": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/"
+            },
+            {
+                "title": "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
+                "href": "https://www.source.dev/journal/sourcefs"
             },
             {
                 "title": "The Logarithmic Time Perception Hypothesis",
                 "href": "http://www.kafalas.com/Logtime.html"
             },
             {
-                "title": "Patina: a Rust implementation of UEFI firmware",
-                "href": "https://github.com/OpenDevicePartnership/patina"
+                "title": "Farming Hard Drives (2012)",
+                "href": "https://www.backblaze.com/blog/backblaze_drive_farming/"
             },
             {
-                "title": "Go subtleties",
-                "href": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
+                "title": "Patina: a Rust implementation of UEFI firmware",
+                "href": "https://github.com/OpenDevicePartnership/patina"
             },
             {
                 "title": "French ex-president Sarkozy begins jail sentence",
                 "href": "https://www.bbc.com/news/articles/cvgkm2j0xelo"
             },
             {
+                "title": "Count-Min Sketches in JS \u2013 Frequencies, but without the data",
+                "href": "https://www.instantdb.com/essays/count_min_sketch"
+            },
+            {
+                "title": "Go subtleties",
+                "href": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
+            },
+            {
                 "title": "Evaluating the Infinity Cache in AMD Strix Halo",
                 "href": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in"
             },
             {
-                "title": "Farming Hard Drives (2012)",
-                "href": "https://www.backblaze.com/blog/backblaze_drive_farming/"
+                "title": "A non-diagonal SSM RNN computed in parallel without requiring stabilization",
+                "href": "https://github.com/glassroom/goom_ssm_rnn"
             },
             {
                 "title": "Show HN: Cadence \u2013 A Guitar Theory App",
                 "href": "https://cadenceguitar.com/"
+            },
+            {
+                "title": "Power over Ethernet (PoE) basics and beyond",
+                "href": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
             },
             {
                 "title": "Knocker, a knock based access control system for your homelab",
@@ -847,8 +863,8 @@
                 "href": "https://www.pgdp.net/wiki/In_Memoriam/gbnewby"
             },
             {
-                "title": "A non-diagonal SSM RNN computed in parallel without requiring stabilization",
-                "href": "https://github.com/glassroom/goom_ssm_rnn"
+                "title": "Scripts I wrote that I use all the time",
+                "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
             },
             {
                 "title": "The Dragon Hatchling: The missing link between the transformer and brain models",
@@ -859,24 +875,8 @@
                 "href": "https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania"
             },
             {
-                "title": "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
-                "href": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss"
-            },
-            {
                 "title": "Ghostly swamp will-O'-the-wisps may be explained by science",
                 "href": "https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry"
-            },
-            {
-                "title": "Power over Ethernet (PoE) basics and beyond",
-                "href": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
-            },
-            {
-                "title": "Starcloud",
-                "href": "https://blogs.nvidia.com/blog/starcloud/"
-            },
-            {
-                "title": "Ask HN: Our AWS account got compromised after their outage",
-                "href": "item?id=45657345"
             }
         ]
     }
