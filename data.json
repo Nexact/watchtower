@@ -35,20 +35,24 @@
                 "href": "https://interjectedfuture.com/the-best-way-to-learn-might-be-starting-at-the-end/"
             },
             {
-                "title": "I see a future in jj",
-                "href": "https://steveklabnik.com/writing/i-see-a-future-in-jj/"
+                "title": "Carbon values, variables, and pointers",
+                "href": "https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md"
             },
             {
-                "title": "4 Unconventional Ways to Cast in Typescript",
-                "href": "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/"
+                "title": "I see a future in jj",
+                "href": "https://steveklabnik.com/writing/i-see-a-future-in-jj/"
             },
             {
                 "title": "Building like it's 1984: Scrollbars in web applications",
                 "href": "https://web.archive.org/web/20250110081649/https://height.app/blog/scrollbars-in-web-applications"
             },
             {
-                "title": "Carbon values, variables, and pointers",
-                "href": "https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md"
+                "title": "4 Unconventional Ways to Cast in Typescript",
+                "href": "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/"
+            },
+            {
+                "title": "Date bug affects Ubuntu 25.10 automatic updates",
+                "href": "https://lwn.net/Articles/1043103/"
             },
             {
                 "title": "Tuckr - Stow alternative with symlink checking",
@@ -61,10 +65,6 @@
             {
                 "title": "Zram Performance Analysis",
                 "href": "https://notes.xeome.dev/notes/Zram"
-            },
-            {
-                "title": "Date bug affects Ubuntu 25.10 automatic updates",
-                "href": "https://lwn.net/Articles/1043103/"
             },
             {
                 "title": "Programming With Less Than Nothing",
@@ -87,6 +87,10 @@
                 "href": "https://discourse.nixos.org/t/nixifying-kubernetes-with-nix-csi-easykubenix-and-dinix/70899"
             },
             {
+                "title": "How to Avoid Fighting Rust Borrow Checker | qouteall notes",
+                "href": "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue"
+            },
+            {
                 "title": "SVG in GTK",
                 "href": "https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Code like a surgeon",
                 "href": "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon"
-            },
-            {
-                "title": "A Word on Omarchy",
-                "href": "https://\u30de\u30ea\u30a6\u30b9.com/a-word-on-omarchy/"
             }
         ]
     },
@@ -217,6 +217,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/"
+            },
+            {
                 "title": "Amazon: This week\u2019s AWS outage caused by major DNS failure",
                 "href": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Zero Trust Has a Blind Spot\u2014Your AI Agents",
                 "href": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/"
-            },
-            {
-                "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
-                "href": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/"
             }
         ]
     },
@@ -662,32 +662,36 @@
                 "href": "https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge"
             },
             {
+                "title": "Where's the AI Design Renaissance?",
+                "href": "https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html"
+            },
+            {
                 "title": "Typst 0.14",
                 "href": "https://typst.app/blog/2025/typst-0.14/"
+            },
+            {
+                "title": "The Mainframe Six",
+                "href": "https://arcanesciences.com/os2200/app1.html"
             },
             {
                 "title": "Twake Drive \u2013 An open-source alternative to Google Drive",
                 "href": "https://github.com/linagora/twake-drive"
             },
             {
-                "title": "Where's the AI Design Renaissance?",
-                "href": "https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html"
-            },
-            {
                 "title": "Mesh2Motion \u2013 Open-source web application to animate 3D models",
                 "href": "https://mesh2motion.org/"
             },
             {
-                "title": "Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust",
-                "href": "https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update"
+                "title": "Roc Camera",
+                "href": "https://roc.camera/"
             },
             {
                 "title": "Why formalize mathematics \u2013 more than catching errors",
                 "href": "https://rkirov.github.io/posts/why_lean/"
             },
             {
-                "title": "Roc Camera",
-                "href": "https://roc.camera/"
+                "title": "Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust",
+                "href": "https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update"
             },
             {
                 "title": "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
@@ -698,84 +702,80 @@
                 "href": "https://stonetools.ghost.io/visicalc-apple2/"
             },
             {
+                "title": "Linux disk I/O diagram (2024)",
+                "href": "https://zenodo.org/records/15234151"
+            },
+            {
                 "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
                 "href": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/"
             },
             {
-                "title": "Show HN: I built an 8-bit CPU simulator in Python from scratch",
-                "href": "https://github.com/sql-hkr/tiny8"
+                "title": "LightlyStudio \u2013 an open-source multimodal data curation and labeling tool",
+                "href": "https://github.com/lightly-ai/lightly-studio"
             },
             {
-                "title": "Poker fraud used X-ray tables, high-tech glasses and NBA players",
-                "href": "https://www.bbc.com/news/articles/cz6nd9wnzn6o"
+                "title": "A \u201cknot dominated era\u201d may have existed in the early universe: study",
+                "href": "https://phys.org/news/2025-10-key-universe-1800s-idea-science.html"
             },
             {
                 "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
                 "href": "https://padlet.jobs"
             },
             {
-                "title": "/dev/null is an ACID compliant database",
-                "href": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
+                "title": "Clojure Zippers (2021)",
+                "href": "https://grishaev.me/en/clojure-zippers/"
             },
             {
-                "title": "Show HN: MacOS Live Screensaver \u2013 A screensaver that plays live video streams",
-                "href": "https://github.com/hauxir/macos-live-screensaver"
+                "title": "Poker fraud used X-ray tables, high-tech glasses and NBA players",
+                "href": "https://www.bbc.com/news/articles/cz6nd9wnzn6o"
             },
             {
-                "title": "Traffic Light Protocol",
-                "href": "https://www.first.org/tlp/"
-            },
-            {
-                "title": "Claude Memory",
-                "href": "https://www.anthropic.com/news/memory"
-            },
-            {
-                "title": "Betty White's shoulder bag is a time capsule of World War II (2023)",
-                "href": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii"
+                "title": "Public Montessori programs strengthen learning outcomes at lower costs: study",
+                "href": "https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html"
             },
             {
                 "title": "Show HN: A fast, privacy-first image converter that runs in browser",
                 "href": "https://imageconverter.dev/"
             },
             {
-                "title": "Benchmarking Postgres 17 vs. 18",
-                "href": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18"
+                "title": "/dev/null is an ACID compliant database",
+                "href": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
             },
             {
-                "title": "JupyterGIS breaks through to the next level",
-                "href": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/"
+                "title": "SierraDB: A distributed event store built in Rust",
+                "href": "https://tqwewe.com/blog/building-sierradb/"
+            },
+            {
+                "title": "Why can't transformers learn multiplication?",
+                "href": "https://arxiv.org/abs/2510.00184"
+            },
+            {
+                "title": "Traffic Light Protocol",
+                "href": "https://www.first.org/tlp/"
+            },
+            {
+                "title": "Show HN: MacOS Live Screensaver \u2013 A screensaver that plays live video streams",
+                "href": "https://github.com/hauxir/macos-live-screensaver"
+            },
+            {
+                "title": "Claude Memory",
+                "href": "https://www.anthropic.com/news/memory"
             },
             {
                 "title": "Rust Contagious Borrow Issue",
                 "href": "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue"
             },
             {
-                "title": "Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates",
-                "href": "https://lwn.net/Articles/1043103/"
+                "title": "Betty White's shoulder bag is a time capsule of World War II (2023)",
+                "href": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii"
             },
             {
-                "title": "Can \u201csecond life\u201d EV batteries work as grid-scale energy storage?",
-                "href": "https://www.volts.wtf/p/can-second-life-ev-batteries-work"
+                "title": "Ivy League psychologist: 'Bring your whole self to work' is bad advice",
+                "href": "https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html"
             },
             {
-                "title": "Interstellar Mission to a Black Hole",
-                "href": "https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/"
-            },
-            {
-                "title": "Clang Bytecode Interpreter Update",
-                "href": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update"
-            },
-            {
-                "title": "How memory maps (mmap) deliver faster file access in Go",
-                "href": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"
-            },
-            {
-                "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
-                "href": "https://arxiv.org/abs/2505.22618"
-            },
-            {
-                "title": "OpenAI acquires Sky.app",
-                "href": "https://openai.com/index/openai-acquires-software-applications-incorporated"
+                "title": "JupyterGIS breaks through to the next level",
+                "href": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/"
             }
         ]
     }
