@@ -39,16 +39,16 @@
                 "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"
             },
             {
+                "title": "A brief history of random numbers",
+                "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"
+            },
+            {
                 "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
                 "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
             },
             {
                 "title": "It's NOT always DNS",
                 "href": "https://notes.pault.ag/its-not-always-dns/"
-            },
-            {
-                "title": "A brief history of random numbers",
-                "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"
             },
             {
                 "title": "Handwriting Programs in J (2017)",
@@ -63,8 +63,16 @@
                 "href": "https://fil-c.org/invisicaps_by_example"
             },
             {
+                "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
+                "href": "https://tailscale.com/blog/services-beta"
+            },
+            {
                 "title": "iroh-blobs",
                 "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
+            },
+            {
+                "title": "The present and potential future of progressive image rendering",
+                "href": "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/"
             },
             {
                 "title": "Stackful Coroutine Made Fast",
@@ -79,12 +87,12 @@
                 "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
             },
             {
-                "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
-                "href": "https://tailscale.com/blog/services-beta"
+                "title": "Linux VM without VM software - User Mode Linux",
+                "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/"
             },
             {
-                "title": "The present and potential future of progressive image rendering",
-                "href": "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/"
+                "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
             },
             {
                 "title": "The Impossible Optimization, and the Metaprogramming To Achieve It",
@@ -93,14 +101,6 @@
             {
                 "title": "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
                 "href": "https://dramforever.github.io/easyriscv/"
-            },
-            {
-                "title": "Printing at FedEx",
-                "href": "https://v7.robweychert.com/blog/2025/10/printing-at-fedex/"
-            },
-            {
-                "title": "How I turned Zig into my favorite language to write network programs in",
-                "href": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"
             }
         ]
     },
@@ -112,16 +112,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1nv88jp/rnetsec_monthly_discussion_tool_thread/"
             },
             {
+                "title": "Hack-cessibility: When DLL Hijacks Meet Windows Helpers",
+                "href": "https://old.reddit.com/r/netsec/comments/1oibw4h/hackcessibility_when_dll_hijacks_meet_windows/"
+            },
+            {
                 "title": "New Ubuntu Kernel LPE!",
                 "href": "https://old.reddit.com/r/netsec/comments/1oi73gp/new_ubuntu_kernel_lpe/"
             },
             {
                 "title": "404 to arbitrary file read in WSO2 API Manager (CVE-2025-2905)",
                 "href": "https://old.reddit.com/r/netsec/comments/1oi416x/404_to_arbitrary_file_read_in_wso2_api_manager/"
-            },
-            {
-                "title": "Hack-cessibility: When DLL Hijacks Meet Windows Helpers",
-                "href": "https://old.reddit.com/r/netsec/comments/1oibw4h/hackcessibility_when_dll_hijacks_meet_windows/"
             },
             {
                 "title": "I built a tool that notifies you only when new vulnerabilities affect your products \ud83d\udd12",
@@ -670,71 +670,75 @@
                 "href": "https://eurollm.io/"
             },
             {
-                "title": "HOPL: The Human Only Public License",
-                "href": "https://vanderessen.com/posts/hopl/"
-            },
-            {
                 "title": "Vitamin D reduces incidence and duration of colds in those with low levels",
                 "href": "https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/"
-            },
-            {
-                "title": "The AirPods Pro 3 flight problem",
-                "href": "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"
             },
             {
                 "title": "A brief history of random numbers",
                 "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"
             },
             {
-                "title": "SigNoz (YC W21, Open Source O11y Platform) Is Hiring DevRel Engineers in the US",
-                "href": "https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3"
-            },
-            {
                 "title": "Ubiquiti SFP Wizard",
                 "href": "https://blog.ui.com/article/welcome-to-sfp-liberation-day"
+            },
+            {
+                "title": "Apple will phase out Rosetta 2 in macOS 28",
+                "href": "https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment"
+            },
+            {
+                "title": "SigNoz (YC W21) Is Hiring DevRel Engineers in the US \u2013 Open Source O11y Platform",
+                "href": "https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3"
             },
             {
                 "title": "The Decline of Deviance",
                 "href": "https://www.experimental-history.com/p/the-decline-of-deviance"
             },
             {
-                "title": "Sick: Indexed deduplicated binary storage for JSON-like data structures",
-                "href": "https://github.com/7mind/sick"
+                "title": "The AirPods Pro 3 flight problem",
+                "href": "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"
             },
             {
-                "title": "Show HN: ISS in Real Time \u2013 25 Years Aboard the International Space Station",
-                "href": "https://issinrealtime.org"
-            },
-            {
-                "title": "How to build a 747 \u2013 A WorldFlight Story",
-                "href": "https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"
-            },
-            {
-                "title": "Washington Post editorials omit a key disclosure: Bezos' financial ties",
-                "href": "https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties"
-            },
-            {
-                "title": "Show HN: Bash Screensavers",
-                "href": "https://github.com/attogram/bash-screensavers"
+                "title": "HOPL: The Human Only Public License",
+                "href": "https://vanderessen.com/posts/hopl/"
             },
             {
                 "title": "Text2SQL is dead \u2013 long live text2SQL",
                 "href": "https://www.exasol.com/blog/text-to-sql-governance/"
             },
             {
-                "title": "The next chapter of the Microsoft\u2013OpenAI partnership",
-                "href": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership/"
-            },
-            {
-                "title": "Show HN: Dexto \u2013 Connect your AI Agents with real-world tools and data",
-                "href": "https://github.com/truffle-ai/dexto"
+                "title": "Show HN: ISS in Real Time \u2013 25 Years Aboard the International Space Station",
+                "href": "https://issinrealtime.org"
             },
             {
                 "title": "Our LLM-controlled office robot can't pass butter",
                 "href": "https://andonlabs.com/evals/butter-bench"
             },
             {
-                "title": "Austrian Ministry Kicks Out Microsoft in Favor of Nextcloud",
+                "title": "Sick: Indexed deduplicated binary storage for JSON-like data structures",
+                "href": "https://github.com/7mind/sick"
+            },
+            {
+                "title": "Washington Post editorials omit a key disclosure: Bezos' financial ties",
+                "href": "https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties"
+            },
+            {
+                "title": "How to build a 747 \u2013 A WorldFlight Story",
+                "href": "https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"
+            },
+            {
+                "title": "Show HN: Bash Screensavers",
+                "href": "https://github.com/attogram/bash-screensavers"
+            },
+            {
+                "title": "The next chapter of the Microsoft\u2013OpenAI partnership",
+                "href": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership/"
+            },
+            {
+                "title": "Poker Tournament for LLMs",
+                "href": "https://pokerbattle.ai/event"
+            },
+            {
+                "title": "Austrian ministry kicks out Microsoft in favor of Nextcloud",
                 "href": "https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/"
             },
             {
@@ -742,8 +746,12 @@
                 "href": "https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf"
             },
             {
-                "title": "The Science of Satiety per Calorie",
-                "href": "https://www.dietdoctor.com/satiety/science"
+                "title": "Show HN: Dexto \u2013 Connect your AI Agents with real-world tools and data",
+                "href": "https://github.com/truffle-ai/dexto"
+            },
+            {
+                "title": "Texas Attorney General sues Tylenol makers over autism claims",
+                "href": "https://www.bbc.com/news/articles/ce9d3n1r08do"
             },
             {
                 "title": "Nvidia takes $1B stake in Nokia",
@@ -754,8 +762,12 @@
                 "href": "https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/"
             },
             {
-                "title": "Texas Attorney General sues Tylenol makers over autism claims",
-                "href": "https://www.bbc.com/news/articles/ce9d3n1r08do"
+                "title": "The Science of Satiety per Calorie",
+                "href": "https://www.dietdoctor.com/satiety/science"
+            },
+            {
+                "title": "I've been loving Claude Code on the Web",
+                "href": "https://ben.page/claude-code-web"
             },
             {
                 "title": "How the brain's activity, energy use and blood flow change as people fall asleep",
@@ -768,18 +780,6 @@
             {
                 "title": "Easy RISC-V",
                 "href": "https://dramforever.github.io/easyriscv/"
-            },
-            {
-                "title": "Claude for Excel",
-                "href": "https://www.claude.com/claude-for-excel"
-            },
-            {
-                "title": "3D printed maquette of Amsterdam on scale 1:2000",
-                "href": "https://www.at5.nl/nieuws/235139/de-hele-stad-in-schaal-12000-hell-of-a-job"
-            },
-            {
-                "title": "Complete Digitization of Leonardo da Vinci's Codex Atlanticus",
-                "href": "https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html"
             }
         ]
     }
