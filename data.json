@@ -11,6 +11,10 @@
                 "href": "https://owen.cafe/posts/struct-sizes/"
             },
             {
+                "title": "Frozen String Literals: Past, Present, Future?",
+                "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html"
+            },
+            {
                 "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
                 "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html"
             },
@@ -19,44 +23,40 @@
                 "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/"
             },
             {
-                "title": "Frozen String Literals: Past, Present, Future?",
-                "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html"
+                "title": "Linux VM without VM software - User Mode Linux",
+                "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/"
             },
             {
                 "title": "A brief history of random numbers",
                 "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"
             },
             {
-                "title": "Recent Rust Changes",
-                "href": "https://www.ncameron.org/blog/recent-rust-changes/"
-            },
-            {
                 "title": "Fil-C: A memory-safe C implementation",
                 "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/"
             },
             {
-                "title": "Linux VM without VM software - User Mode Linux",
-                "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/"
-            },
-            {
-                "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
-                "href": "https://github.com/edubart/minicoro"
+                "title": "Recent Rust Changes",
+                "href": "https://www.ncameron.org/blog/recent-rust-changes/"
             },
             {
                 "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
                 "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/"
             },
             {
+                "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
+                "href": "https://github.com/edubart/minicoro"
+            },
+            {
                 "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
                 "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
             },
             {
-                "title": "Why Busy Beaver Hunters Fear the Antihydra",
-                "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"
-            },
-            {
                 "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
                 "href": "https://tailscale.com/blog/services-beta"
+            },
+            {
+                "title": "Why Busy Beaver Hunters Fear the Antihydra",
+                "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"
             },
             {
                 "title": "It's NOT always DNS",
@@ -71,16 +71,20 @@
                 "href": "https://fil-c.org/invisicaps_by_example"
             },
             {
+                "title": "Indexing coffee with Notion",
+                "href": "https://xvw.lol/en/articles/notion-coffee.html"
+            },
+            {
                 "title": "Handwriting Programs in J (2017)",
                 "href": "https://www.hillelwayne.com/handwriting-j/"
             },
             {
-                "title": "Firefox Security & Privacy Newsletter 2025 Q3",
-                "href": "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html"
-            },
-            {
                 "title": "iroh-blobs",
                 "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
+            },
+            {
+                "title": "Firefox Security & Privacy Newsletter 2025 Q3",
+                "href": "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html"
             },
             {
                 "title": "What We Talk About When We Talk About Sideloading",
@@ -93,10 +97,6 @@
             {
                 "title": "Stackful Coroutine Made Fast",
                 "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast"
-            },
-            {
-                "title": "Indexing coffee with Notion",
-                "href": "https://xvw.lol/en/articles/notion-coffee.html"
             },
             {
                 "title": "CPU Cache-Friendly Data Structures in Go",
@@ -138,10 +138,6 @@
             {
                 "title": "Crafting self masking functions using LLVM",
                 "href": "https://old.reddit.com/r/netsec/comments/1oi3jnm/crafting_self_masking_functions_using_llvm/"
-            },
-            {
-                "title": "I built a tool that notifies you only when new vulnerabilities affect your products \ud83d\udd12",
-                "href": "https://old.reddit.com/r/netsec/comments/1oidaz9/i_built_a_tool_that_notifies_you_only_when_new/"
             },
             {
                 "title": "Vibecoding and the illusion of security",
@@ -210,12 +206,24 @@
             {
                 "title": "From Path Traversal to Supply Chain Compromise: Breaking MCP Server Hosting",
                 "href": "https://old.reddit.com/r/netsec/comments/1od926x/from_path_traversal_to_supply_chain_compromise/"
+            },
+            {
+                "title": "Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)",
+                "href": "https://old.reddit.com/r/netsec/comments/1od7afg/cryptographic_issues_in_cloudflares_circl_fourq/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
+                "href": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/"
+            },
+            {
+                "title": "CISA warns of two more actively exploited Dassault vulnerabilities",
+                "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/"
+            },
             {
                 "title": "Microsoft: Copilot now lets you build apps, automate workflows",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/"
@@ -259,14 +267,6 @@
             {
                 "title": "Windows will soon prompt for memory scans after BSOD crashes",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/"
-            },
-            {
-                "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
-                "href": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/"
-            },
-            {
-                "title": "Italian spyware vendor linked to Chrome zero-day attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "OpenAI Wants To Get To $1 Trillion a Year in Infrastructure Spend, Sam Altman Says",
+                "href": "https://slashdot.org/story/25/10/28/1848223/openai-wants-to-get-to-1-trillion-a-year-in-infrastructure-spend-sam-altman-says?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Jensen Huang Introduces NVQLink To Bridge Quantum and Classical Computing",
                 "href": "https://tech.slashdot.org/story/25/10/28/1819200/jensen-huang-introduces-nvqlink-to-bridge-quantum-and-classical-computing?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Firefox Plans Smarter, Privacy-First Search Suggestions In Your Address Bar",
                 "href": "https://news.slashdot.org/story/25/10/27/236208/firefox-plans-smarter-privacy-first-search-suggestions-in-your-address-bar?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Ransomware Profits Drop As Victims Stop Paying Hackers",
-                "href": "https://it.slashdot.org/story/25/10/27/2044254/ransomware-profits-drop-as-victims-stop-paying-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -662,6 +662,10 @@
                 "href": "https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw"
             },
             {
+                "title": "Chrome to warn on unencrypted HTTP by default",
+                "href": "https://security.googleblog.com/2025/10/https-by-default.html"
+            },
+            {
                 "title": "Vitamin D reduces incidence and duration of colds in those with low levels",
                 "href": "https://ijmpr.in/article/the-role-of-vitamin-d-supplementation-in-the-prevention-of-acute-respiratory-infections-a-double-blind-randomized-controlled-trial-1327/"
             },
@@ -670,8 +674,12 @@
                 "href": "https://eurollm.io/"
             },
             {
-                "title": "Chrome to warn on unencrypted HTTP by default",
-                "href": "https://security.googleblog.com/2025/10/https-by-default.html"
+                "title": "Passkeys: They're not perfect but they're getting better",
+                "href": "https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;"
+            },
+            {
+                "title": "1X Neo \u2013 Home Robot - Pre Order",
+                "href": "https://www.1x.tech/order"
             },
             {
                 "title": "Ubiquiti SFP Wizard",
@@ -686,28 +694,32 @@
                 "href": "https://andonlabs.com/evals/butter-bench"
             },
             {
-                "title": "Passkeys: They're not perfect but they're getting better",
-                "href": "https://www.ncsc.gov.uk/blog-post/passkeys-not-perfect-getting-better&lt;/a&gt;&lt;"
-            },
-            {
-                "title": "How to build a 747 \u2013 A WorldFlight Story",
-                "href": "https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"
-            },
-            {
                 "title": "SigNoz (YC W21) Is Hiring DevRel Engineers in the US \u2013 Open Source O11y Platform",
                 "href": "https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3"
+            },
+            {
+                "title": "What We Talk About When We Talk About Sideloading",
+                "href": "https://f-droid.org/2025/10/28/sideloading.html"
+            },
+            {
+                "title": "I've been loving Claude Code on the Web",
+                "href": "https://ben.page/claude-code-web"
             },
             {
                 "title": "Washington Post editorials omit a key disclosure: Bezos' financial ties",
                 "href": "https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties"
             },
             {
+                "title": "How to build a 747 \u2013 A WorldFlight Story",
+                "href": "https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"
+            },
+            {
                 "title": "Sick: Indexed deduplicated binary storage for JSON-like data structures",
                 "href": "https://github.com/7mind/sick"
             },
             {
-                "title": "I've been loving Claude Code on the Web",
-                "href": "https://ben.page/claude-code-web"
+                "title": "Grokipedia and the Coup Against Reality Itself",
+                "href": "https://www.thedissident.news/grokipedia-and-the-coup-against-reality-itself/"
             },
             {
                 "title": "Show HN: Bash Screensavers",
@@ -722,14 +734,6 @@
                 "href": "https://www.exasol.com/blog/text-to-sql-governance/"
             },
             {
-                "title": "Subvocalization: Toward Hearing the Inner Thoughts of Developers (2011) [pdf]",
-                "href": "https://chrisparnin.me/pdf/emg.pdf"
-            },
-            {
-                "title": "The AirPods Pro 3 flight problem",
-                "href": "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"
-            },
-            {
                 "title": "Poker Tournament for LLMs",
                 "href": "https://pokerbattle.ai/event"
             },
@@ -738,44 +742,40 @@
                 "href": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership/"
             },
             {
+                "title": "The AirPods Pro 3 flight problem",
+                "href": "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"
+            },
+            {
                 "title": "Austrian ministry kicks out Microsoft in favor of Nextcloud",
                 "href": "https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/"
             },
             {
-                "title": "What We Talk About When We Talk About Sideloading",
-                "href": "https://f-droid.org/2025/10/28/sideloading.html"
+                "title": "Subvocalization: Toward Hearing the Inner Thoughts of Developers (2011) [pdf]",
+                "href": "https://chrisparnin.me/pdf/emg.pdf"
+            },
+            {
+                "title": "Mapping the off-target effects of every FDA-approved drug in existence",
+                "href": "https://www.owlposting.com/p/mapping-the-off-target-effects-of"
             },
             {
                 "title": "Show HN: Dexto \u2013 Connect your AI Agents with real-world tools and data",
                 "href": "https://github.com/truffle-ai/dexto"
             },
             {
-                "title": "1X Neo \u2013 Home Robot - Pre Order",
-                "href": "https://www.1x.tech/order"
-            },
-            {
-                "title": "Do Users Verify SSH Keys? (2011) [pdf]",
-                "href": "https://www.usenix.org/system/files/login/articles/105484-Gutmann.pdf"
-            },
-            {
                 "title": "Emily Riehl is rewriting the foundations of higher category theory (2020)",
                 "href": "https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/"
-            },
-            {
-                "title": "How the brain's activity, energy use and blood flow change as people fall asleep",
-                "href": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep"
             },
             {
                 "title": "The Science of Satiety per Calorie",
                 "href": "https://www.dietdoctor.com/satiety/science"
             },
             {
-                "title": "The Programming Languages Zoo",
-                "href": "https://plzoo.andrej.com/"
+                "title": "How the brain's activity, energy use and blood flow change as people fall asleep",
+                "href": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep"
             },
             {
-                "title": "Easy RISC-V",
-                "href": "https://dramforever.github.io/easyriscv/"
+                "title": "Show HN: Apache Fory Rust \u2013 10-20x faster serialization than JSON/Protobuf",
+                "href": "https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/"
             }
         ]
     }
