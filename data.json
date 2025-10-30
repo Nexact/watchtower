@@ -39,6 +39,14 @@
                 "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
             },
             {
+                "title": "Reliable Django Signals",
+                "href": "https://hakibenita.com/django-reliable-signals"
+            },
+            {
+                "title": "The Math Mode Problem in Typst",
+                "href": "https://laurmaedje.github.io/posts/math-mode-problem/"
+            },
+            {
                 "title": "The Vindication of Bubble Sort",
                 "href": "https://entropicthoughts.com/vindication-of-bubble-sort"
             },
@@ -55,16 +63,8 @@
                 "href": "https://go.dev/blog/greenteagc"
             },
             {
-                "title": "The Math Mode Problem in Typst",
-                "href": "https://laurmaedje.github.io/posts/math-mode-problem/"
-            },
-            {
                 "title": "word2vec-style vector arithmetic on docs embeddings",
                 "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html"
-            },
-            {
-                "title": "Reliable Django Signals",
-                "href": "https://hakibenita.com/django-reliable-signals"
             },
             {
                 "title": "Fevela.me \u2013 A RSS reader like client for the Nostr social network",
@@ -75,12 +75,12 @@
                 "href": "https://visualrambling.space/dithering-part-1/"
             },
             {
-                "title": "Zig's New Async I/O",
-                "href": "https://www.youtube.com/watch?v=mdOxIc0HM04"
-            },
-            {
                 "title": "AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS",
                 "href": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"
+            },
+            {
+                "title": "Zig's New Async I/O",
+                "href": "https://www.youtube.com/watch?v=mdOxIc0HM04"
             },
             {
                 "title": "What Context Can Bring to Terminal Mouse Clicks",
@@ -91,16 +91,16 @@
                 "href": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/"
             },
             {
-                "title": "What We Talk About When We Talk About Sideloading",
-                "href": "https://f-droid.org/2025/10/28/sideloading.html"
-            },
-            {
                 "title": "I built an actually faster Notion in Rust",
                 "href": "https://imedadel.com/outcrop/"
             },
             {
-                "title": "Developing a web server with C and FastCGI",
-                "href": "https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi"
+                "title": "What We Talk About When We Talk About Sideloading",
+                "href": "https://f-droid.org/2025/10/28/sideloading.html"
+            },
+            {
+                "title": "The (rust) Clippy Changelog Cat Contest, a brief retrospective",
+                "href": "https://blog.goose.love/posts/history-of-clippy-changelog-cat/"
             }
         ]
     },
@@ -658,80 +658,92 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files",
-                "href": "https://github.com/ventoy/Ventoy"
-            },
-            {
-                "title": "Affinity by Canva",
-                "href": "https://www.affinity.studio/"
+                "title": "Affinity Studio now free",
+                "href": "https://www.affinity.studio/get-affinity"
             },
             {
                 "title": "987654321 / 123456789",
                 "href": "https://www.johndcook.com/blog/2025/10/26/987654321/"
             },
             {
-                "title": "ZOZO's Contact Solver (for physics-based simulations)",
-                "href": "https://github.com/st-tech/ppf-contact-solver"
-            },
-            {
                 "title": "Launch HN: Propolis (YC X25) \u2013 Browser agents that QA your web app autonomously",
                 "href": "https://app.propolis.tech/#/launch"
             },
             {
-                "title": "Free software scares normal people",
-                "href": "https://danieldelaney.net/normal/"
-            },
-            {
-                "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
-                "href": "https://therecord.media/us-declines-signing-cybercrime-treaty?"
-            },
-            {
-                "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
-                "href": "https://emily.space/posts/251023-uv"
-            },
-            {
-                "title": "Show HN: In a single HTML file, an app to encourage my children to invest",
-                "href": "https://roberdam.com/en/dinversiones.html"
-            },
-            {
-                "title": "Estimating the Perceived 'Claustrophobia' of New York City's Streets (2024)",
-                "href": "http://mfranchi.net/posts/claustrophobic-streets/"
-            },
-            {
-                "title": "Frozen DuckLakes for Multi-User, Serverless Data Access",
-                "href": "https://ducklake.select/2025/10/24/frozen-ducklake/"
-            },
-            {
-                "title": "Replacing EBS and Rethinking Postgres Storage from First Principles",
-                "href": "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
-            },
-            {
-                "title": "Qt Creator 18 Released",
-                "href": "https://www.qt.io/blog/qt-creator-18-released"
+                "title": "ZOZO's Contact Solver for physics-based simulations",
+                "href": "https://github.com/st-tech/ppf-contact-solver"
             },
             {
                 "title": "Show HN: I made a heatmap diff viewer for code reviews",
                 "href": "https://0github.com"
             },
             {
+                "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
+                "href": "https://therecord.media/us-declines-signing-cybercrime-treaty?"
+            },
+            {
+                "title": "Qt Creator 18 Released",
+                "href": "https://www.qt.io/blog/qt-creator-18-released"
+            },
+            {
+                "title": "Show HN: In a single HTML file, an app to encourage my children to invest",
+                "href": "https://roberdam.com/en/dinversiones.html"
+            },
+            {
+                "title": "Falling panel prices lead to global solar boom, except for the US",
+                "href": "https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/"
+            },
+            {
+                "title": "Frozen DuckLakes for Multi-User, Serverless Data Access",
+                "href": "https://ducklake.select/2025/10/24/frozen-ducklake/"
+            },
+            {
+                "title": "Free software scares normal people",
+                "href": "https://danieldelaney.net/normal/"
+            },
+            {
+                "title": "Replacing EBS and Rethinking Postgres Storage from First Principles",
+                "href": "https://www.tigerdata.com/blog/fluid-storage-forkable-ephemeral-durable-infrastructure-age-of-agents"
+            },
+            {
+                "title": "Estimating the Perceived 'Claustrophobia' of New York City's Streets (2024)",
+                "href": "http://mfranchi.net/posts/claustrophobic-streets/"
+            },
+            {
+                "title": "Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files",
+                "href": "https://github.com/ventoy/Ventoy"
+            },
+            {
                 "title": "Tell HN: Azure outage",
                 "href": "item?id=45748661"
+            },
+            {
+                "title": "NaN, the not-a-number number that isn't NaN",
+                "href": "https://piccalil.li/blog/nan-the-not-a-number-number-that-isnt-nan/"
+            },
+            {
+                "title": "Acronymy (Can we define every word as an acronym?)",
+                "href": "https://acronymy.net/"
             },
             {
                 "title": "Spinning Up an Onion Mirror Is Stupid Easy",
                 "href": "https://flower.codes/2025/10/23/onion-mirror.html"
             },
             {
-                "title": "Typst's Math Mode Problem",
-                "href": "https://laurmaedje.github.io/posts/math-mode-problem/"
+                "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
+                "href": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code"
+            },
+            {
+                "title": "Minecraft removing obfuscation in Java Edition",
+                "href": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"
             },
             {
                 "title": "Language models are injective and hence invertible",
                 "href": "https://arxiv.org/abs/2510.15511"
             },
             {
-                "title": "Minecraft removing obfuscation in Java Edition",
-                "href": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition"
+                "title": "Typst's Math Mode Problem",
+                "href": "https://laurmaedje.github.io/posts/math-mode-problem/"
             },
             {
                 "title": "Some Smalltalk about Ruby Loops",
@@ -742,12 +754,12 @@
                 "href": "https://worldhistory.substack.com/p/how-ancient-people-saw-themselves"
             },
             {
-                "title": "Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet",
-                "href": "https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"
-            },
-            {
                 "title": "The Aesthete's Progress",
                 "href": "https://sydneyreviewofbooks.com/essays/the-aesthetes-progress"
+            },
+            {
+                "title": "Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet",
+                "href": "https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet"
             },
             {
                 "title": "Hello-World iOS App in Assembly",
@@ -762,20 +774,8 @@
                 "href": "https://visualrambling.space/dithering-part-1/"
             },
             {
-                "title": "3D solar tower increases capacity factor 50%, triples solar surface area",
-                "href": "https://www.pv-magazine.com/2025/10/27/3d-solar-tower-increases-capacity-factor-50-triples-solar-surface-area/"
-            },
-            {
-                "title": "Keep Android Open",
-                "href": "http://keepandroidopen.org/"
-            },
-            {
-                "title": "The Internet runs on free and open source software and so does the DNS",
-                "href": "https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en"
-            },
-            {
-                "title": "Board: New game console recognizes physical pieces, with an open SDK",
-                "href": "https://board.fun/"
+                "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
+                "href": "https://emily.space/posts/251023-uv"
             }
         ]
     }
