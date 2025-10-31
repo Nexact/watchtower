@@ -11,6 +11,10 @@
                 "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly"
             },
             {
+                "title": "Roadmap for improving the Swift type checker",
+                "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
+            },
+            {
                 "title": "Announcing Rust 1.91.0",
                 "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/"
             },
@@ -21,10 +25,6 @@
             {
                 "title": "Normalize Identifying Corporate Devices in Your Software",
                 "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/"
-            },
-            {
-                "title": "Roadmap for improving the Swift type checker",
-                "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
             },
             {
                 "title": "Crunchyroll is destroying its subtitles for no good reason",
@@ -47,12 +47,16 @@
                 "href": "https://arxiv.org/abs/2510.15511"
             },
             {
-                "title": "uv is the best thing to happen to the Python ecosystem in a decade",
-                "href": "https://emily.space/posts/251023-uv"
+                "title": "GHC 9.14.1-rc1 is now available",
+                "href": "https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194"
             },
             {
                 "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
                 "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
+            },
+            {
+                "title": "uv is the best thing to happen to the Python ecosystem in a decade",
+                "href": "https://emily.space/posts/251023-uv"
             },
             {
                 "title": "Corrosion - a distributed system for propagating SQLite state across a cluster of nodes",
@@ -61,6 +65,10 @@
             {
                 "title": "Challenging the Fastest OSS Workflow Engine",
                 "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/"
+            },
+            {
+                "title": "Hacking India\u2019s largest automaker: Tata Motors",
+                "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/"
             },
             {
                 "title": "Nix derivation madness",
@@ -79,10 +87,6 @@
                 "href": "https://www.chibiakumas.com/z80/"
             },
             {
-                "title": "Hacking India\u2019s largest automaker: Tata Motors",
-                "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/"
-            },
-            {
                 "title": "Conversions in Ruby are a mess",
                 "href": "https://github.com/sampersand/blog/blob/master/conversions.md"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Kafka is Fast - I'll use Postgres",
                 "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
-            },
-            {
-                "title": "Jujutsu at Google",
-                "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6"
             }
         ]
     },
@@ -666,12 +666,16 @@
                 "href": "https://www.affinity.studio/get-affinity"
             },
             {
-                "title": "Rouille \u2013 Rust Programming, in French",
-                "href": "https://github.com/bnjbvr/rouille"
+                "title": "Result is all I need",
+                "href": "https://rockyj-blogs.web.app/2025/10/25/result-monad.html"
             },
             {
                 "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
                 "href": "https://github.com/MoonshotAI/Kimi-Linear"
+            },
+            {
+                "title": "Rouille \u2013 Rust Programming, in French",
+                "href": "https://github.com/bnjbvr/rouille"
             },
             {
                 "title": "How the cochlea computes (2024)",
@@ -682,10 +686,6 @@
                 "href": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works"
             },
             {
-                "title": "John Carmack on mutable variables",
-                "href": "https://twitter.com/id_aa_carmack/status/1983593511703474196"
-            },
-            {
                 "title": "Free software scares normal people",
                 "href": "https://danieldelaney.net/normal/"
             },
@@ -694,12 +694,8 @@
                 "href": "https://www.johndcook.com/blog/2025/10/26/987654321/"
             },
             {
-                "title": "Modifying a radiation meter for (radioactive) rock collecting",
-                "href": "https://maurycyz.com/projects/ludlum3/"
-            },
-            {
-                "title": "Exceptional Measurement of Chirality",
-                "href": "https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality"
+                "title": "John Carmack on mutable variables",
+                "href": "https://twitter.com/id_aa_carmack/status/1983593511703474196"
             },
             {
                 "title": "Show HN: Quibbler \u2013 A critic for your coding agent that learns what you want",
@@ -710,6 +706,14 @@
                 "href": "https://www.joshwcomeau.com/animation/linear-timing-function/"
             },
             {
+                "title": "A Closer Look at Piezoelectric Crystal",
+                "href": "https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html"
+            },
+            {
+                "title": "Exceptional Measurement of Chirality",
+                "href": "https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality"
+            },
+            {
                 "title": "NPM flooded with malicious packages downloaded more than 86k times",
                 "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
             },
@@ -718,36 +722,36 @@
                 "href": "https://theamericanscholar.org/scrolling-through/"
             },
             {
-                "title": "A Classic Graphic Reveals Nature's Most Efficient Traveler",
-                "href": "https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/"
+                "title": "Minecraft HDL, an HDL for Redstone",
+                "href": "https://github.com/itsfrank/MinecraftHDL"
             },
             {
                 "title": "Florian Schneider Collection: Instruments and equipment up for auction",
                 "href": "https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk"
             },
             {
-                "title": "Minecraft HDL, an HDL for Redstone",
-                "href": "https://github.com/itsfrank/MinecraftHDL"
-            },
-            {
-                "title": "A Closer Look at Piezoelectric Crystal",
-                "href": "https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html"
+                "title": "Modifying a radiation meter for (radioactive) rock collecting",
+                "href": "https://maurycyz.com/projects/ludlum3/"
             },
             {
                 "title": "Show HN: I made a heatmap diff viewer for code reviews",
                 "href": "https://0github.com"
             },
             {
+                "title": "Roadmap for Improving the Type Checker",
+                "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
+            },
+            {
                 "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
                 "href": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal"
             },
             {
-                "title": "Lenses in Julia",
-                "href": "https://juliaobjects.github.io/Accessors.jl/stable/lenses/"
+                "title": "A Classic Graphic Reveals Nature's Most Efficient Traveler",
+                "href": "https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/"
             },
             {
-                "title": "Roadmap for Improving the Type Checker",
-                "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
+                "title": "Lenses in Julia",
+                "href": "https://juliaobjects.github.io/Accessors.jl/stable/lenses/"
             },
             {
                 "title": "Show HN: Front End Fuzzy and Substring and Prefix Search",
@@ -762,20 +766,16 @@
                 "href": "https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/"
             },
             {
-                "title": "We are building AI slaves. Alignment through control will fail",
-                "href": "https://utopai.substack.com/p/autopoietic-mutualism"
-            },
-            {
                 "title": "Independently verifying Go's reproducible builds",
                 "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds"
             },
             {
-                "title": "ICE and the Smartphone Panopticon",
-                "href": "https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon"
-            },
-            {
                 "title": "Show HN: Status of my favorite bike share stations",
                 "href": "https://blog.alexboden.ca/toronto-bike-share-status/"
+            },
+            {
+                "title": "Show HN: In a single HTML file, an app to encourage my children to invest",
+                "href": "https://roberdam.com/en/dinversiones.html"
             }
         ]
     }
