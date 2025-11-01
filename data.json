@@ -19,12 +19,12 @@
                 "href": "https://gomakethings.com/just-use-a-button/"
             },
             {
-                "title": "A deep dive into deeply recursive Go",
-                "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/"
-            },
-            {
                 "title": "Intent to Deprecate and Remove: Deprecate and remove XSLT",
                 "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ"
+            },
+            {
+                "title": "A deep dive into deeply recursive Go",
+                "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/"
             },
             {
                 "title": "Futurelock",
@@ -39,16 +39,16 @@
                 "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application"
             },
             {
-                "title": "Project goals for 2025H2",
-                "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/"
+                "title": "Claude Code Can Debug Low-level Cryptography",
+                "href": "https://words.filippo.io/claude-debugging/"
             },
             {
                 "title": "AI scrapers request commented scripts",
                 "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
             },
             {
-                "title": "Claude Code Can Debug Low-level Cryptography",
-                "href": "https://words.filippo.io/claude-debugging/"
+                "title": "Project goals for 2025H2",
+                "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/"
             },
             {
                 "title": "Text rendering and effects using GPU-computed distances",
@@ -69,6 +69,10 @@
             {
                 "title": "Ubuntu introduces architecture variants",
                 "href": "https://lwn.net/Articles/1044383/"
+            },
+            {
+                "title": "Port of Linux to WebAssembly",
+                "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -97,10 +101,6 @@
             {
                 "title": "GHC now runs in your browser",
                 "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
-            },
-            {
-                "title": "wastrel, a profligate implementation of webassembly",
-                "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly"
             }
         ]
     },
@@ -120,12 +120,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1olpb18/open_source_cve_scanner_for_project_dependencies/"
             },
             {
-                "title": "EDR-Redir V2: Blind EDR With Fake \"Program Files\"",
-                "href": "https://old.reddit.com/r/netsec/comments/1olkuwg/edrredir_v2_blind_edr_with_fake_program_files/"
-            },
-            {
                 "title": "Quantifying Swiss Cheese, the Bayesian Way",
                 "href": "https://old.reddit.com/r/netsec/comments/1oluzam/quantifying_swiss_cheese_the_bayesian_way/"
+            },
+            {
+                "title": "EDR-Redir V2: Blind EDR With Fake \"Program Files\"",
+                "href": "https://old.reddit.com/r/netsec/comments/1olkuwg/edrredir_v2_blind_edr_with_fake_program_files/"
             },
             {
                 "title": "How we found +2k vulns, 400+ secrets and 175 PII instances in publicly exposed apps built on vibe-coded platforms (Research methodology)",
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "NASA Seeks Backup Plan for Carrying Astronauts to the Moon",
+                "href": "https://science.slashdot.org/story/25/11/01/1737240/nasa-seeks-backup-plan-for-carrying-astronauts-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Scientists Say 'Dueling Dinosaurs' Fossil Confirms a Smaller Tyrannosaur Species, Not a Teenaged T. Rex",
                 "href": "https://science.slashdot.org/story/25/11/01/0740245/scientists-say-dueling-dinosaurs-fossil-confirms-a-smaller-tyrannosaur-species-not-a-teenaged-t-rex?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "YouTube TV Loses ESPN, ABC and Other Disney Channels",
                 "href": "https://entertainment.slashdot.org/story/25/10/31/2017209/youtube-tv-loses-espn-abc-and-other-disney-channels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon To Block Piracy Apps On Fire TV",
-                "href": "https://yro.slashdot.org/story/25/10/31/2012202/amazon-to-block-piracy-apps-on-fire-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -662,20 +662,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Chat Control proposal fails again after public opposition",
-                "href": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/"
-            },
-            {
                 "title": "Updated practice for review articles and position papers in ArXiv CS category",
                 "href": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/"
             },
             {
                 "title": "GHC now runs in the browser",
                 "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
-            },
-            {
-                "title": "How I Learned to Stop Worrying and Love My Shitty Life",
-                "href": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/"
             },
             {
                 "title": "SQLite concurrency and why you should care about it",
@@ -686,28 +678,36 @@
                 "href": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals"
             },
             {
+                "title": "Chat Control proposal fails again after public opposition",
+                "href": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/"
+            },
+            {
                 "title": "CharlotteOS \u2013 An Experimental Modern Operating System",
                 "href": "https://github.com/charlotte-os/Catten"
-            },
-            {
-                "title": "OpenAI Moves to Complete Potentially the Largest Theft in Human History",
-                "href": "https://thezvi.substack.com/p/openai-moves-to-complete-potentially"
-            },
-            {
-                "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
-                "href": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/"
-            },
-            {
-                "title": "Studies increasingly find links between air pollutants and dementia",
-                "href": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html"
             },
             {
                 "title": "Open-Source Ada: From Gateware to Application",
                 "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application"
             },
             {
+                "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
+                "href": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/"
+            },
+            {
+                "title": "US will not send officials to COP30 climate talks",
+                "href": "https://www.reuters.com/sustainability/cop/us-will-not-send-officials-cop30-climate-talks-white-house-says-2025-10-31/"
+            },
+            {
+                "title": "Studies increasingly find links between air pollutants and dementia",
+                "href": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html"
+            },
+            {
                 "title": "Show HN: Strange Attractors",
                 "href": "https://blog.shashanktomar.com/posts/strange-attractors"
+            },
+            {
+                "title": "Reconfigurable Analog Computers",
+                "href": "https://arxiv.org/abs/2510.25942"
             },
             {
                 "title": "Hard Rust requirements from May onward",
@@ -718,12 +718,20 @@
                 "href": "https://asherfalcon.com/blog/posts/5"
             },
             {
+                "title": "OpenAI Moves to Complete Potentially the Largest Theft in Human History",
+                "href": "https://thezvi.substack.com/p/openai-moves-to-complete-potentially"
+            },
+            {
                 "title": "Frank Gasking on preserving \u00ablost\u00bb games",
                 "href": "https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/"
             },
             {
                 "title": "Data centers contribute to high prices as energy bills electrify local politics",
                 "href": "https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b"
+            },
+            {
+                "title": "The hardest program I've ever written (2015)",
+                "href": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/"
             },
             {
                 "title": "Powell \u2013 unlike the dotcom boom, AI spending isn't a bubble",
@@ -742,8 +750,8 @@
                 "href": "https://github.com/vindar/SARCASM"
             },
             {
-                "title": "Screenwriter Eric Heisserer on Lights Out, the Rules of Horror",
-                "href": "https://filmmakermagazine.com/99327-screenwriter-eric-heisserer-lights-out-the-rules-of-horror-and-collaborating-with-james-wan/"
+                "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+                "href": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"
             },
             {
                 "title": "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
@@ -754,16 +762,16 @@
                 "href": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/"
             },
             {
-                "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-                "href": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/"
+                "title": "Screenwriter Eric Heisserer on Lights Out, the Rules of Horror",
+                "href": "https://filmmakermagazine.com/99327-screenwriter-eric-heisserer-lights-out-the-rules-of-horror-and-collaborating-with-james-wan/"
             },
             {
                 "title": "Futurelock: A subtle risk in async Rust",
                 "href": "https://rfd.shared.oxide.computer/rfd/0609"
             },
             {
-                "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-                "href": "https://github.com/samrolken/nokode"
+                "title": "How I Learned to Stop Worrying and Love My Shitty Life",
+                "href": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/"
             },
             {
                 "title": "The giant basket case countries",
@@ -772,14 +780,6 @@
             {
                 "title": "Addiction Markets",
                 "href": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate"
-            },
-            {
-                "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
-                "href": "https://verdagon.dev/blog/impossible-optimization"
-            },
-            {
-                "title": "Introducing architecture variants",
-                "href": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312"
             }
         ]
     }
