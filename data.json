@@ -19,12 +19,12 @@
                 "href": "https://typesanitizer.com/blog/effects-convo.html"
             },
             {
-                "title": "Your URL Is Your State",
-                "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
-            },
-            {
                 "title": "De-escalating Tailscale CGNAT conflict",
                 "href": "https://ysun.co/tscgnat/"
+            },
+            {
+                "title": "Your URL Is Your State",
+                "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
             },
             {
                 "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
@@ -39,16 +39,16 @@
                 "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ"
             },
             {
+                "title": "Text rendering and effects using GPU-computed distances",
+                "href": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html"
+            },
+            {
                 "title": "A deep dive into deeply recursive Go",
                 "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/"
             },
             {
                 "title": "Futurelock",
                 "href": "https://rfd.shared.oxide.computer/rfd/0609"
-            },
-            {
-                "title": "Text rendering and effects using GPU-computed distances",
-                "href": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html"
             },
             {
                 "title": "My impressions of the MacBook Pro M4",
@@ -61,6 +61,10 @@
             {
                 "title": "AI scrapers request commented scripts",
                 "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
+            },
+            {
+                "title": "Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis",
+                "href": "https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers"
             },
             {
                 "title": "Project goals for 2025H2",
@@ -97,10 +101,6 @@
             {
                 "title": "Ghosts in the Compilation",
                 "href": "https://predr.ag/blog/ghosts-in-the-compilation/"
-            },
-            {
-                "title": "Rotating Workforce Scheduling in MiniZinc",
-                "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Researchers Consider The Advantages of 'Swarm Robotics'",
+                "href": "https://hardware.slashdot.org/story/25/11/02/0247242/researchers-consider-the-advantages-of-swarm-robotics?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Race for All-Solid-State EV Batteries Heats Up with New Samsung SDI/BMW/Solid Power Partnership",
                 "href": "https://tech.slashdot.org/story/25/11/01/2158238/race-for-all-solid-state-ev-batteries-heats-up-with-new-samsung-sdibmwsolid-power-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "OpenAI Launches Aardvark To Detect and Patch Hidden Bugs In Code",
                 "href": "https://it.slashdot.org/story/25/10/31/2314223/openai-launches-aardvark-to-detect-and-patch-hidden-bugs-in-code?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "FCC To Rescind Ruling That Said ISPs Are Required To Secure Their Networks",
-                "href": "https://it.slashdot.org/story/25/10/31/237241/fcc-to-rescind-ruling-that-said-isps-are-required-to-secure-their-networks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -662,32 +662,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-                "href": "https://sailfishos.org/info/"
-            },
-            {
-                "title": "OS maintained by a single developer since 1997: Visopsys",
+                "title": "Visopsys: OS maintained by a single developer since 1997",
                 "href": "https://visopsys.org/"
             },
             {
-                "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
+                "title": "How I use every Claude Code feature",
+                "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature"
+            },
+            {
+                "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
                 "href": "https://blog.cloudflare.com/private-rate-limiting/"
+            },
+            {
+                "title": "Pomelli",
+                "href": "https://blog.google/technology/google-labs/pomelli/"
             },
             {
                 "title": "Updated practice for review articles and position papers in ArXiv CS category",
                 "href": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/"
             },
             {
-                "title": "Why \"Everyone Dies\" Gets AGI All Wrong",
-                "href": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong"
-            },
-            {
-                "title": "Claude Code Can Debug Low-Level Cryptography",
+                "title": "Claude Code can debug low-level cryptography",
                 "href": "https://words.filippo.io/claude-debugging/"
-            },
-            {
-                "title": "Pomelli",
-                "href": "https://labs.google.com/pomelli/about/"
             },
             {
                 "title": "GHC now runs in the browser",
@@ -698,88 +694,92 @@
                 "href": "https://github.com/samrolken/nokode"
             },
             {
-                "title": "Beginner-friendly, unofficial documentation for Helix text editor",
-                "href": "https://helix-editor.vercel.app/start-here/basics/"
+                "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+                "href": "https://sailfishos.org/info/"
             },
             {
-                "title": "SQLite concurrency and why you should care about it",
-                "href": "https://jellyfin.org/posts/SQLite-locking/"
+                "title": "Beginner-friendly, unofficial documentation for Helix text editor",
+                "href": "https://helix-editor.vercel.app/start-here/basics/"
             },
             {
                 "title": "3M Diskette Reference Manual (1983) [pdf]",
                 "href": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf"
             },
             {
-                "title": "OpenDesk by the Centre for Digital Sovereignty",
-                "href": "https://www.opendesk.eu/en/product"
+                "title": "SQLite concurrency and why you should care about it",
+                "href": "https://jellyfin.org/posts/SQLite-locking/"
+            },
+            {
+                "title": "A Few Words About Async",
+                "href": "https://yoric.github.io/post/quite-a-few-words-about-async/"
+            },
+            {
+                "title": "Why \"everyone dies\" gets AGI all wrong",
+                "href": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong"
             },
             {
                 "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
                 "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook"
             },
             {
-                "title": "Show HN: KeyLeak Detector \u2013 Scan websites for exposed API keys and secrets",
-                "href": "https://github.com/Amal-David/keyleak-detector"
+                "title": "How to Build a Solar Powered Electric Oven",
+                "href": "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/"
+            },
+            {
+                "title": "OpenDesk by the Centre for Digital Sovereignty",
+                "href": "https://www.opendesk.eu/en/product"
             },
             {
                 "title": "RegEx Crossword",
                 "href": "https://jimbly.github.io/regex-crossword/"
             },
             {
-                "title": "Show HN: Duper \u2013 The Format That's Super",
-                "href": "https://duper.dev.br/"
-            },
-            {
-                "title": "How I Use Every Claude Code Feature",
-                "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature"
+                "title": "The hardest program I've ever written (2015)",
+                "href": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/"
             },
             {
                 "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
                 "href": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals"
             },
             {
-                "title": "How to Build a Solar Powered Electric Oven",
-                "href": "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/"
-            },
-            {
-                "title": "The hardest program I've ever written (2015)",
-                "href": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/"
-            },
-            {
-                "title": "Chat Control proposal fails again after public opposition",
-                "href": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/"
+                "title": "Hard Rust requirements from May onward",
+                "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
             },
             {
                 "title": "CharlotteOS \u2013 An Experimental Modern Operating System",
                 "href": "https://github.com/charlotte-os/Catten"
             },
             {
+                "title": "Chat Control proposal fails again after public opposition",
+                "href": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/"
+            },
+            {
+                "title": "Show HN: A simple drag and drop tool to document and label fuse boxes",
+                "href": "https://github.com/alexadam/fuse-box-labels"
+            },
+            {
+                "title": "Show HN: KeyLeak Detector \u2013 Scan websites for exposed API keys and secrets",
+                "href": "https://github.com/Amal-David/keyleak-detector"
+            },
+            {
                 "title": "Word2vec-style vector arithmetic on docs embeddings",
                 "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html"
-            },
-            {
-                "title": "Hard Rust requirements from May onward",
-                "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
-            },
-            {
-                "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
-                "href": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/"
             },
             {
                 "title": "I built my own CityMapper",
                 "href": "https://asherfalcon.com/blog/posts/5"
             },
             {
+                "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
+                "href": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/"
+            },
+            {
+                "title": "Show HN: Duper \u2013 The Format That's Super",
+                "href": "https://duper.dev.br/"
+            },
+            {
                 "title": "Ask HN: Where to begin with \"modern\" Emacs?",
                 "href": "item?id=45783376"
-            },
-            {
-                "title": "Studies increasingly find links between air pollutants and dementia",
-                "href": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html"
-            },
-            {
-                "title": "NJVL: Nim's New Intermediate Representation",
-                "href": "https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md"
             }
         ]
     }
