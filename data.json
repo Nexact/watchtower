@@ -15,28 +15,28 @@
                 "href": "https://jyn.dev/build-system-tradeoffs"
             },
             {
-                "title": "Port of Linux to WebAssembly",
-                "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/"
-            },
-            {
                 "title": "Using FreeBSD to make self-hosting fun again",
                 "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
             },
             {
-                "title": "Claude Code Can Debug Low-level Cryptography",
-                "href": "https://words.filippo.io/claude-debugging/"
+                "title": "Port of Linux to WebAssembly",
+                "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/"
             },
             {
                 "title": "Making an Easy-to-Install Application in Python",
                 "href": "https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/"
             },
             {
-                "title": "Visopsys single developer \"Visual Operating System\"",
-                "href": "https://visopsys.org/"
+                "title": "Claude Code Can Debug Low-level Cryptography",
+                "href": "https://words.filippo.io/claude-debugging/"
             },
             {
                 "title": "AWK technical notes (2023)",
                 "href": "https://maximullaris.com/awk_tech_notes.html"
+            },
+            {
+                "title": "Visopsys single developer \"Visual Operating System\"",
+                "href": "https://visopsys.org/"
             },
             {
                 "title": "De-escalating Tailscale CGNAT conflict",
@@ -45,6 +45,10 @@
             {
                 "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
                 "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
+            },
+            {
+                "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
+                "href": "https://github.com/bagnalla/6502"
             },
             {
                 "title": "react-native-godot: React Native Godot - Embed Godot Engine in React Native apps",
@@ -67,12 +71,12 @@
                 "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature"
             },
             {
-                "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
-                "href": "https://github.com/bagnalla/6502"
-            },
-            {
                 "title": "Moving tables across PostgreSQL instances",
                 "href": "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html"
+            },
+            {
+                "title": "Skeena Indigenous Typeface",
+                "href": "https://microsoft.github.io/Skeena-Indigenous-Typeface/"
             },
             {
                 "title": "Thinking About Thinking With LLMs",
@@ -97,10 +101,6 @@
             {
                 "title": "Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis",
                 "href": "https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers"
-            },
-            {
-                "title": "Open-Source Ada: From Gateware to Application",
-                "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application"
             }
         ]
     },
@@ -221,6 +221,18 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
+                "href": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/"
+            },
+            {
+                "title": "Open VSX rotates access tokens used in supply-chain malware attack",
+                "href": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/"
+            },
+            {
+                "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT",
+                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/"
+            },
+            {
                 "title": "Google confirms AI search will have ads, but they may look different",
                 "href": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/"
             },
@@ -259,18 +271,6 @@
             {
                 "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/"
-            },
-            {
-                "title": "Google says Search AI Mode will know everything about you",
-                "href": "https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/"
-            },
-            {
-                "title": "Windows zero-day actively exploited to spy on European diplomats",
-                "href": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/"
-            },
-            {
-                "title": "Ukrainian extradited from Ireland on Conti ransomware charges",
-                "href": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/"
             }
         ]
     },
@@ -662,40 +662,48 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Using FreeBSD to make self-hosting fun again",
-                "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
+                "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It",
+                "href": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html"
             },
             {
-                "title": "Lisp: Notes on its Past and Future (1980)",
-                "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html"
+                "title": "Using FreeBSD to make self-hosting fun again",
+                "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
             },
             {
                 "title": "Linux gamers on Steam cross over the 3% mark",
                 "href": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/"
             },
             {
-                "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
-                "href": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/"
+                "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
+                "href": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/"
             },
             {
-                "title": "Why don't you use dependent types?",
-                "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
+                "title": "Lisp: Notes on its Past and Future (1980)",
+                "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html"
+            },
+            {
+                "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
+                "href": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/"
             },
             {
                 "title": "FurtherAI (Series A \u2013 A16Z, YC) Is Hiring Across Software and AI",
                 "href": "item?id=45793652"
             },
             {
+                "title": "Why don't you use dependent types?",
+                "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
+            },
+            {
                 "title": "Tongyi DeepResearch \u2013 open-source 30B MoE Model that rivals OpenAI DeepResearch",
                 "href": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/"
             },
             {
-                "title": "Solar-powered QR reading postboxes being rolled out across UK",
-                "href": "https://www.bbc.co.uk/news/articles/cgln72rgrero"
-            },
-            {
                 "title": "URLs are state containers",
                 "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
+            },
+            {
+                "title": "Solar-powered QR reading postboxes being rolled out across UK",
+                "href": "https://www.bbc.co.uk/news/articles/cgln72rgrero"
             },
             {
                 "title": "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
@@ -710,16 +718,16 @@
                 "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
             },
             {
-                "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
-                "href": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/"
-            },
-            {
-                "title": "Printed circuit board substrates derived from lignocellulose nanofibrils",
-                "href": "https://www.nature.com/articles/s41598-025-91653-1"
+                "title": "Why does Swiss cheese have holes?",
+                "href": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes"
             },
             {
                 "title": "Autodesk's John Walker Explained HP and IBM in 1991 (2015)",
                 "href": "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/"
+            },
+            {
+                "title": "Printed circuit board substrates derived from lignocellulose nanofibrils",
+                "href": "https://www.nature.com/articles/s41598-025-91653-1"
             },
             {
                 "title": "Notes by djb on using Fil-C",
@@ -742,44 +750,36 @@
                 "href": "item?id=45792951"
             },
             {
-                "title": "Rats filmed snatching bats from air",
-                "href": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time"
+                "title": "\"You Don't Need Kafka, Just Use Postgres\" Considered Harmful",
+                "href": "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/"
             },
             {
-                "title": "New South Korean national law will turn large parking lots into solar farms",
-                "href": "https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/"
+                "title": "Rats filmed snatching bats from air",
+                "href": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time"
             },
             {
                 "title": "Mock \u2013 An API creation and testing utility: Examples",
                 "href": "https://dhuan.github.io/mock/latest/examples.html"
             },
             {
-                "title": "At the end you use Git bisect",
-                "href": "https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html"
-            },
-            {
                 "title": "Visopsys: OS maintained by a single developer since 1997",
                 "href": "https://visopsys.org/"
-            },
-            {
-                "title": "OpenBSD 7.8 Highlights",
-                "href": "https://rsadowski.de/posts/2025/openbsd-78/"
             },
             {
                 "title": "Go Primitive in Java, or Go in a Box",
                 "href": "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574"
             },
             {
+                "title": "New South Korean national law will turn large parking lots into solar farms",
+                "href": "https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/"
+            },
+            {
                 "title": "Claude Code can debug low-level cryptography",
                 "href": "https://words.filippo.io/claude-debugging/"
             },
             {
-                "title": "Welcome to hell; please drive carefully",
-                "href": "https://2earth.github.io/website/20251026.html"
-            },
-            {
-                "title": "Updated practice for review articles and position papers in ArXiv CS category",
-                "href": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/"
+                "title": "At the end you use Git bisect",
+                "href": "https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html"
             }
         ]
     }
