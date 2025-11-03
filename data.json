@@ -35,6 +35,10 @@
                 "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
             },
             {
+                "title": "CHERIoT 1.0 Released",
+                "href": "https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html"
+            },
+            {
                 "title": "A Soiree into Symbols in Ruby",
                 "href": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/"
             },
@@ -43,28 +47,24 @@
                 "href": "https://jyn.dev/build-system-tradeoffs"
             },
             {
-                "title": "CHERIoT 1.0 Released",
-                "href": "https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html"
-            },
-            {
                 "title": "Notes by djb on using Fil-C",
                 "href": "https://cr.yp.to/2025/fil-c.html"
-            },
-            {
-                "title": "Prefer boring technology",
-                "href": "https://itwont.work/blog/prefer-boring-technology"
             },
             {
                 "title": "Using Assisted-by commit footers instead of banning AI tools",
                 "href": "https://xeiaso.net/notes/2025/assisted-by-footer/"
             },
             {
-                "title": "Setting up a very simple home router with OpenBSD",
-                "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/"
+                "title": "Prefer boring technology",
+                "href": "https://itwont.work/blog/prefer-boring-technology"
             },
             {
                 "title": "Cure - Verification-First Programming for the BEAM",
                 "href": "https://cure-lang.org/"
+            },
+            {
+                "title": "Setting up a very simple home router with OpenBSD",
+                "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/"
             },
             {
                 "title": "Skeena Indigenous Typeface",
@@ -83,12 +83,16 @@
                 "href": "https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck"
             },
             {
+                "title": "AWK technical notes (2023)",
+                "href": "https://maximullaris.com/awk_tech_notes.html"
+            },
+            {
                 "title": "C++ move semantics from scratch (2022)",
                 "href": "https://cbarrete.com/move-from-scratch.html"
             },
             {
-                "title": "AWK technical notes (2023)",
-                "href": "https://maximullaris.com/awk_tech_notes.html"
+                "title": "Control structures in programming languages",
+                "href": "http://xavierleroy.org/control-structures/"
             },
             {
                 "title": "Abstract Syntax Tree: An Example in C",
@@ -97,10 +101,6 @@
             {
                 "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
                 "href": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html"
-            },
-            {
-                "title": "Control structures in programming languages",
-                "href": "http://xavierleroy.org/control-structures/"
             }
         ]
     },
@@ -124,12 +124,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1on6yjx/quick_writeup_for_what_to_check_when_you_see/"
             },
             {
-                "title": "RondoDox v2: When an IoT Botnet Goes Enterprise-Ready",
-                "href": "https://old.reddit.com/r/netsec/comments/1oncwno/rondodox_v2_when_an_iot_botnet_goes/"
-            },
-            {
                 "title": "Sniffing established BLE connections with HackRF One",
                 "href": "https://old.reddit.com/r/netsec/comments/1onhmk2/sniffing_established_ble_connections_with_hackrf/"
+            },
+            {
+                "title": "RondoDox v2: When an IoT Botnet Goes Enterprise-Ready",
+                "href": "https://old.reddit.com/r/netsec/comments/1oncwno/rondodox_v2_when_an_iot_botnet_goes/"
             },
             {
                 "title": "Steal MS Teams app cookies",
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "arXiv Changes Rules After Getting Spammed With AI-Generated 'Research' Papers",
+                "href": "https://slashdot.org/story/25/11/03/1716252/arxiv-changes-rules-after-getting-spammed-with-ai-generated-research-papers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Palantir Thinks College Might Be a Waste. So It's Hiring High-School Grads.",
                 "href": "https://news.slashdot.org/story/25/11/03/1620202/palantir-thinks-college-might-be-a-waste-so-its-hiring-high-school-grads?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Sound Blaster Crowdfunds Linux-Powered Audio Hub 'Re:Imagine' For Creators and Gamers",
                 "href": "https://news.slashdot.org/story/25/11/02/1758252/sound-blaster-crowdfunds-linux-powered-audio-hub-reimagine-for-creators-and-gamers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "GoFundMe Created 1.4 Million Donation Pages for Nonprofits Without Their Consent",
-                "href": "https://slashdot.org/story/25/11/02/1728231/gofundme-created-14-million-donation-pages-for-nonprofits-without-their-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -662,72 +662,64 @@
                 "href": "item?id=45800465"
             },
             {
-                "title": "Why We Migrated from Python to Node.js",
-                "href": "https://blog.yakkomajuri.com/blog/python-to-node"
-            },
-            {
                 "title": "Learning to read Arthur Whitney's C to become Smart (2024)",
                 "href": "https://needleful.net/blog/2024/01/arthur_whitney.html"
+            },
+            {
+                "title": "No Socials November",
+                "href": "https://bjhess.com/posts/no-socials-november"
+            },
+            {
+                "title": "Why We Migrated from Python to Node.js",
+                "href": "https://blog.yakkomajuri.com/blog/python-to-node"
             },
             {
                 "title": "VimGraph",
                 "href": "https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/"
             },
             {
-                "title": "Robert Hooke's \"Cyberpunk\u201d Letter to Gottfried Leibniz",
-                "href": "https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/"
-            },
-            {
                 "title": "The Case Against PGVector",
                 "href": "https://alex-jacobs.com/posts/the-case-against-pgvector/"
-            },
-            {
-                "title": "WebAssembly (WASM) arch support for the Linux kernel",
-                "href": "https://github.com/joelseverin/linux-wasm"
             },
             {
                 "title": "A visualization of the RGB space covered by named colors",
                 "href": "https://codepen.io/meodai/full/zdgXJj/"
             },
             {
-                "title": "Why Nextcloud feels slow to use",
-                "href": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
+                "title": "Robert Hooke's \"Cyberpunk\u201d Letter to Gottfried Leibniz",
+                "href": "https://mynamelowercase.com/blog/robert-hookes-cyberpunk-letter-to-gottfried-leibniz/"
+            },
+            {
+                "title": "WebAssembly (WASM) arch support for the Linux kernel",
+                "href": "https://github.com/joelseverin/linux-wasm"
             },
             {
                 "title": "Skyfall-GS \u2013 Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
                 "href": "https://skyfall-gs.jayinnn.dev/"
             },
             {
-                "title": "An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product",
-                "href": "https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot"
-            },
-            {
                 "title": "The Continual Learning Problem",
                 "href": "https://jessylin.com/2025/10/20/continual-learning/"
             },
             {
-                "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
-                "href": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html"
+                "title": "Why Nextcloud feels slow to use",
+                "href": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/"
             },
             {
                 "title": "State of Terminal Emulators in 2025: The Errant Champions",
                 "href": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
             },
             {
+                "title": "An Illustrated Introduction to Linear Algebra, Chapter 2: The Dot Product",
+                "href": "https://www.ducktyped.org/p/linear-algebra-chapter-2-the-dot"
+            },
+            {
                 "title": "Offline Math: Converting LaTeX to SVG with MathJax",
                 "href": "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html"
             },
             {
-                "title": "The Problem with Farmed Seafood",
-                "href": "https://nautil.us/the-problem-with-farmed-seafood-1243674/"
-            },
-            {
                 "title": "A collection of links that existed about Anguilla as of 2003",
                 "href": "https://web.ai/"
-            },
-            {
-                "title": "No Socials November",
-                "href": "https://bjhess.com/posts/no-socials-november"
             },
             {
                 "title": "Show HN: a Rust ray tracer that runs on any GPU \u2013 even in the browser",
@@ -738,8 +730,20 @@
                 "href": "https://blog.cloudflare.com/measuring-network-connections-at-scale/"
             },
             {
+                "title": "The Problem with Farmed Seafood",
+                "href": "https://nautil.us/the-problem-with-farmed-seafood-1243674/"
+            },
+            {
+                "title": "Show HN: I was tired of wasting engineer time on screening calls so I built Niju",
+                "href": "https://niju.dev"
+            },
+            {
                 "title": "Show HN: FinBodhi \u2013 Local-first, double-entry app/PWA for your financial journey",
                 "href": "https://finbodhi.com/"
+            },
+            {
+                "title": "Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"",
+                "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23"
             },
             {
                 "title": "OSS Alternative to Open WebUI \u2013 ChatGPT-Like UI, API and CLI",
@@ -750,12 +754,16 @@
                 "href": "https://katex.org/"
             },
             {
-                "title": "Python Steering Council unanimously accepts \"PEP 810, Explicit lazy imports\"",
-                "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23"
+                "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
+                "href": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html"
             },
             {
                 "title": "I analyzed 180M jobs to see what jobs AI is replacing today",
                 "href": "https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/"
+            },
+            {
+                "title": "Google pulls AI model after senator says it fabricated assault allegation",
+                "href": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination"
             },
             {
                 "title": "A turn lane in Rhododendron",
@@ -768,14 +776,6 @@
             {
                 "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
                 "href": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html"
-            },
-            {
-                "title": "Tiny electric motor can produce more than 1,000 horsepower",
-                "href": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/"
-            },
-            {
-                "title": "The Arduino Uno Q is a weird hybrid SBC",
-                "href": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc"
             }
         ]
     }
