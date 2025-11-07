@@ -23,6 +23,10 @@
                 "href": "https://github.com/jj-vcs/jj/releases/tag/v0.35.0"
             },
             {
+                "title": "I use Typst now",
+                "href": "https://www.christopherbiscardi.com/i-use-typst-now"
+            },
+            {
                 "title": "Introduction to IncusOS",
                 "href": "https://linuxcontainers.org/incus-os/"
             },
@@ -31,12 +35,16 @@
                 "href": "https://ploum.net/2025-09-03-calendar-txt.html"
             },
             {
-                "title": "I use Typst now",
-                "href": "https://www.christopherbiscardi.com/i-use-typst-now"
-            },
-            {
                 "title": "Firefox Forcing LLM Features",
                 "href": "https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/"
+            },
+            {
+                "title": "Typst-Unlit: Write literate Haskell programs in Typst",
+                "href": "https://cdn.oppi.li/typst-unlit.pdf"
+            },
+            {
+                "title": "AI's 70% Problem",
+                "href": "https://zed.dev/blog/ai-70-problem-addy-osmani"
             },
             {
                 "title": "You Should Write An Agent",
@@ -55,32 +63,28 @@
                 "href": "https://wthhyb.sacha.house/"
             },
             {
-                "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
-                "href": "https://github.com/sayyadirfanali/Myna"
+                "title": "Linking and shrinking Rust static libraries: a tale of fire",
+                "href": "https://centricular.com/devlog/2025-11/dragonfire/"
             },
             {
-                "title": "AI's 70% Problem",
-                "href": "https://zed.dev/blog/ai-70-problem-addy-osmani"
+                "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
+                "href": "https://github.com/sayyadirfanali/Myna"
             },
             {
                 "title": "When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug",
                 "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/"
             },
             {
-                "title": "Self-hosting your Mastodon media with SeaweedFS",
-                "href": "https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/"
-            },
-            {
                 "title": "Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads",
                 "href": "https://blog.wilsonl.in/blobd/"
             },
             {
-                "title": "Results from Testing Six AI Models on Advanced Security Exploits",
-                "href": "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced"
+                "title": "Self-hosting your Mastodon media with SeaweedFS",
+                "href": "https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/"
             },
             {
-                "title": "Linking and shrinking Rust static libraries: a tale of fire",
-                "href": "https://centricular.com/devlog/2025-11/dragonfire/"
+                "title": "Results from Testing Six AI Models on Advanced Security Exploits",
+                "href": "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced"
             },
             {
                 "title": "qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run",
@@ -97,10 +101,6 @@
             {
                 "title": "Man Pages (Part 1)",
                 "href": "https://abochannek.github.io/utilities/2024/12/08/man-pages.html"
-            },
-            {
-                "title": "Exceptions in Cranelift and Wasmtime",
-                "href": "https://cfallin.org/blog/2025/11/06/exceptions/"
             }
         ]
     },
@@ -690,12 +690,12 @@
                 "href": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/"
             },
             {
-                "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
-                "href": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/"
-            },
-            {
                 "title": "Game design is simple",
                 "href": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/"
+            },
+            {
+                "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
+                "href": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/"
             },
             {
                 "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
@@ -704,6 +704,10 @@
             {
                 "title": "A Note on Fil-C",
                 "href": "https://graydon2.dreamwidth.org/320265.html"
+            },
+            {
+                "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
+                "href": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view"
             },
             {
                 "title": "We built a cloud GPU notebook that boots in seconds",
@@ -718,16 +722,12 @@
                 "href": "https://cryptography101.ca"
             },
             {
-                "title": "From web developer to database developer in 10 years",
-                "href": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html"
-            },
-            {
                 "title": "Analysis indicates that the universe\u2019s expansion is not accelerating",
                 "href": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding"
             },
             {
-                "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
-                "href": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view"
+                "title": "From web developer to database developer in 10 years",
+                "href": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html"
             },
             {
                 "title": "Open Source Implementation of Apple's Private Compute Cloud",
@@ -738,16 +738,20 @@
                 "href": "https://github.com/jeremyaboyd/jerm-cad"
             },
             {
+                "title": "Machine Scheduler in LLVM \u2013 Part II",
+                "href": "https://myhsu.xyz/llvm-machine-scheduler-2/"
+            },
+            {
                 "title": "HTML Slides with notes",
                 "href": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides"
             },
             {
-                "title": "Word2Vec-style vector arithmetic on docs embeddings",
-                "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html"
-            },
-            {
                 "title": "Dead Framework Theory",
                 "href": "https://aifoc.us/dead-framework-theory/"
+            },
+            {
+                "title": "Word2Vec-style vector arithmetic on docs embeddings",
+                "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html"
             },
             {
                 "title": "Swift on FreeBSD Preview",
@@ -772,10 +776,6 @@
             {
                 "title": "I analyzed the lineups at the most popular nightclubs",
                 "href": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/"
-            },
-            {
-                "title": "My tutorial and take on C++20 coroutines (2021)",
-                "href": "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html"
             }
         ]
     }
