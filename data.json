@@ -31,6 +31,10 @@
                 "href": "https://elijahm.com/posts/local_first_htmx/"
             },
             {
+                "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
+                "href": "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun"
+            },
+            {
                 "title": "Trait-Constrained Enums in Rust",
                 "href": "https://kcsongor.github.io/gadts-in-rust/"
             },
@@ -59,6 +63,18 @@
                 "href": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing"
             },
             {
+                "title": "email-verification-protocol: verified autofill",
+                "href": "https://github.com/WICG/email-verification-protocol"
+            },
+            {
+                "title": "$1 Trillion in Tech Stocks Sold Off as Market Grows Skeptical of AI",
+                "href": "https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226"
+            },
+            {
+                "title": "Fixing the Biggest Problem With Mechanical Keyboards",
+                "href": "https://youtu.be/N3FEv1qw4_w"
+            },
+            {
                 "title": "Imperative to relational",
                 "href": "https://madhadron.com/imperative_to_relational.html"
             },
@@ -69,10 +85,6 @@
             {
                 "title": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity",
                 "href": "https://github.com/Snapchat/Valdi"
-            },
-            {
-                "title": "Fixing the Biggest Problem With Mechanical Keyboards",
-                "href": "https://youtu.be/N3FEv1qw4_w"
             },
             {
                 "title": "Why Nextcloud feels slow to use",
@@ -89,18 +101,6 @@
             {
                 "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
                 "href": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
-            },
-            {
-                "title": "Error Codes for Control Flow",
-                "href": "https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html"
-            },
-            {
-                "title": "FFmpeg Assembly Language Lessons",
-                "href": "https://github.com/FFmpeg/asm-lessons"
-            },
-            {
-                "title": "Typst-Unlit: Write literate Haskell programs in Typst",
-                "href": "https://cdn.oppi.li/typst-unlit.pdf"
             }
         ]
     },
@@ -670,76 +670,92 @@
                 "href": "https://github.com/WICG/email-verification-protocol"
             },
             {
-                "title": "Alive internet theory",
-                "href": "https://alivetheory.net/"
+                "title": "Using bubblewrap to add sandboxing to NetBSD",
+                "href": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing"
             },
             {
                 "title": "I Am Mark Zuckerberg",
                 "href": "https://iammarkzuckerberg.com/"
             },
             {
+                "title": "Alive internet theory",
+                "href": "https://alivetheory.net/"
+            },
+            {
                 "title": "Ironclad \u2013 formally verified, real-time capable, Unix-like OS kernel",
                 "href": "https://ironclad-os.org/"
-            },
-            {
-                "title": "Show HN: Pipeflow-PHP \u2013 Automate anything with pipelines even non-devs can edit",
-                "href": "https://github.com/marcosiino/pipeflow-php"
-            },
-            {
-                "title": "Ask HN: How would you set up a child\u2019s first Linux computer?",
-                "href": "item?id=45864732"
             },
             {
                 "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
                 "href": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/"
             },
             {
-                "title": "Largest cargo sailboat completes first Atlantic crossing",
-                "href": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/"
+                "title": "How to get the GOT address from a PLT stub using GDB",
+                "href": "https://rafaelbeirigo.github.io/cybersec-dojo/research/2025/11/01/how-to-get-the-got-address-from-a-plt-stub-using-gdb.html"
             },
             {
                 "title": "The overengineered solution to my pigeon problem (2022)",
                 "href": "https://maxnagy.com/posts/pigeons/"
             },
             {
+                "title": "Largest cargo sailboat completes first Atlantic crossing",
+                "href": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/"
+            },
+            {
+                "title": "Ask HN: How would you set up a child\u2019s first Linux computer?",
+                "href": "item?id=45864732"
+            },
+            {
                 "title": "Show HN: I built a self-hosted error tracker in Rails",
                 "href": "https://telebugs.com"
             },
             {
-                "title": "Drax: Speech Recognition with Discrete Flow Matching",
-                "href": "https://huggingface.co/papers/2510.04162"
+                "title": "Show HN: Pipeflow-PHP \u2013 Automate anything with pipelines even non-devs can edit",
+                "href": "https://github.com/marcosiino/pipeflow-php"
             },
             {
                 "title": "Marko \u2013 A declarative, HTML\u2011based language",
                 "href": "https://markojs.com/"
             },
             {
+                "title": "Zensical \u2013 A modern static site generator built by the Material for MkDocs team",
+                "href": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/"
+            },
+            {
+                "title": "Forth \u2013 Is it still relevant?",
+                "href": "https://github.com/chochain/eforth"
+            },
+            {
+                "title": "Drax: Speech Recognition with Discrete Flow Matching",
+                "href": "https://huggingface.co/papers/2510.04162"
+            },
+            {
                 "title": "Toolkit to help you get started with Spec-Driven Development",
                 "href": "https://github.com/github/spec-kit"
-            },
-            {
-                "title": "How Airbus took off",
-                "href": "https://worksinprogress.co/issue/how-airbus-took-off/"
-            },
-            {
-                "title": "Defeating KASLR by doing nothing at all",
-                "href": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html"
             },
             {
                 "title": "Study identifies weaknesses in how AI systems are evaluated",
                 "href": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
             },
             {
+                "title": "How Airbus took off",
+                "href": "https://worksinprogress.co/issue/how-airbus-took-off/"
+            },
+            {
                 "title": "Open-source communications by bouncing signals off the Moon",
                 "href": "https://open.space/"
             },
             {
-                "title": "Tabloid: The Clickbait Headline Programming Language",
-                "href": "https://tabloid.vercel.app/"
+                "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
+                "href": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/"
             },
             {
-                "title": "Forth \u2013 Is it still relevant?",
-                "href": "https://github.com/chochain/eforth"
+                "title": "Defeating KASLR by doing nothing at all",
+                "href": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html"
+            },
+            {
+                "title": "Tabloid: The Clickbait Headline Programming Language",
+                "href": "https://tabloid.vercel.app/"
             },
             {
                 "title": "Control structures in programming languages: from goto to algebraic effects",
@@ -760,22 +776,6 @@
             {
                 "title": "Show HN: Sparktype \u2013 a CMS and SSG that runs entirely in the browser",
                 "href": "https://app.sparktype.org"
-            },
-            {
-                "title": "Opencloud \u2013 An alternative to Nextcloud written in Go",
-                "href": "https://github.com/opencloud-eu/opencloud"
-            },
-            {
-                "title": "Grok 4 Fast now has 2M context window",
-                "href": "https://docs.x.ai/docs/models"
-            },
-            {
-                "title": "How to build your own VPN, or: the history of WARP",
-                "href": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/"
-            },
-            {
-                "title": "Show HN: PingStalker \u2013 A macOS tool for network engineers",
-                "href": "https://www.pingstalker.com/?hn"
             }
         ]
     }
