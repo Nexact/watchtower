@@ -19,12 +19,12 @@
                 "href": "https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider"
             },
             {
-                "title": "Small Language Models are the Future of Agentic AI",
-                "href": "https://arxiv.org/pdf/2506.02153"
-            },
-            {
                 "title": "Trait-Constrained Enums in Rust",
                 "href": "https://kcsongor.github.io/gadts-in-rust/"
+            },
+            {
+                "title": "Small Language Models are the Future of Agentic AI",
+                "href": "https://arxiv.org/pdf/2506.02153"
             },
             {
                 "title": "GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD",
@@ -33,6 +33,10 @@
             {
                 "title": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity",
                 "href": "https://github.com/Snapchat/Valdi"
+            },
+            {
+                "title": "Why I don't love Rust (either)",
+                "href": "https://cbarrete.com/rust-bad.html"
             },
             {
                 "title": "Fixing the Biggest Problem With Mechanical Keyboards",
@@ -55,12 +59,12 @@
                 "href": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
             },
             {
-                "title": "Ironclad, a formally verified Unix-like kernel written in Ada",
-                "href": "https://ironclad-os.org/"
+                "title": "Building a CI/CD Pipeline Runner from Scratch in Python",
+                "href": "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/"
             },
             {
-                "title": "Why I don't love Rust (either)",
-                "href": "https://cbarrete.com/rust-bad.html"
+                "title": "Ironclad, a formally verified Unix-like kernel written in Ada",
+                "href": "https://ironclad-os.org/"
             },
             {
                 "title": "Error Codes for Control Flow",
@@ -97,10 +101,6 @@
             {
                 "title": "Why I don\u2019t test different designs at the same time",
                 "href": "https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/"
-            },
-            {
-                "title": "Introduction to IncusOS",
-                "href": "https://linuxcontainers.org/incus-os/"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "How much latency does a Throwing Star LAN Tap add to packet capture? (practical numbers appreciated)",
                 "href": "https://old.reddit.com/r/netsec/comments/1os0u8d/how_much_latency_does_a_throwing_star_lan_tap_add/"
+            },
+            {
+                "title": "Update] VulScan-MCP: Now shows detailed CVE descriptions, severity, and mitigation steps",
+                "href": "https://old.reddit.com/r/netsec/comments/1osau0p/update_vulscanmcp_now_shows_detailed_cve/"
             },
             {
                 "title": "Arbitrary App Installation on Intune Managed Android Enterprise BYOD in Work Profile",
@@ -210,10 +214,6 @@
             {
                 "title": "Automating COM/DCOM vulnerability research",
                 "href": "https://old.reddit.com/r/netsec/comments/1okanf4/automating_comdcom_vulnerability_research/"
-            },
-            {
-                "title": "Can you break our pickle sandbox? Blog + exploit challenge inside",
-                "href": "https://old.reddit.com/r/netsec/comments/1ok6iot/can_you_break_our_pickle_sandbox_blog_exploit/"
             }
         ]
     },
@@ -658,12 +658,20 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Ironclad \u2013 formally verified, real-time capable, Unix-like OS kernel",
+                "href": "https://ironclad-os.org/"
+            },
+            {
+                "title": "Grok 4 Fast now has 2M context window",
+                "href": "https://docs.x.ai/docs/models"
+            },
+            {
                 "title": "Tabloid: The Clickbait Headline Programming Language",
                 "href": "https://tabloid.vercel.app/"
             },
             {
-                "title": "Ironclad \u2013 formally verified, real-time capable, Unix-like OS kernel",
-                "href": "https://ironclad-os.org/"
+                "title": "Boring Company fined nearly $500K after it dumped drilling fluids into manholes",
+                "href": "https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html"
             },
             {
                 "title": "Marko \u2013 A declarative, HTML\u2011based language",
@@ -678,28 +686,16 @@
                 "href": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
             },
             {
-                "title": "Boring Company fined nearly $500K after it dumped drilling fluids into manholes",
-                "href": "https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html"
-            },
-            {
-                "title": "Syntax and Semantics of Programming Languages (1995)",
-                "href": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/"
-            },
-            {
-                "title": "Grok 4 Fast now has 2M context window",
-                "href": "https://docs.x.ai/docs/models"
-            },
-            {
-                "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
-                "href": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
-            },
-            {
                 "title": "Control structures in programming languages: from goto to algebraic effects",
                 "href": "http://xavierleroy.org/control-structures/"
             },
             {
                 "title": "Open-source communications by bouncing signals off the Moon",
                 "href": "https://open.space/"
+            },
+            {
+                "title": "Syntax and Semantics of Programming Languages (1995)",
+                "href": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/"
             },
             {
                 "title": "WriterdeckOS",
@@ -710,6 +706,10 @@
                 "href": "http://iotic.com/averia/"
             },
             {
+                "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
+                "href": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
+            },
+            {
                 "title": "How to build your own VPN, or: the history of WARP",
                 "href": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/"
             },
@@ -718,48 +718,44 @@
                 "href": "https://vicinity.social/"
             },
             {
-                "title": "IP blocking the UK is not enough to comply with the Online Safety Act",
-                "href": "https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/"
-            },
-            {
-                "title": "Cloudflare scrubs Aisuru botnet from top domains list",
-                "href": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
-            },
-            {
-                "title": "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
-                "href": "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1"
+                "title": "How Airbus Took Off",
+                "href": "https://worksinprogress.co/issue/how-airbus-took-off/"
             },
             {
                 "title": "Judge denies request to exempt Flock footage from Public Records Act",
                 "href": "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html"
             },
             {
-                "title": "Show HN: Hephaestus \u2013 Autonomous Multi-Agent Orchestration Framework",
-                "href": "https://github.com/Ido-Levi/Hephaestus"
+                "title": "Cloudflare scrubs Aisuru botnet from top domains list",
+                "href": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
+            },
+            {
+                "title": "IP blocking the UK is not enough to comply with the Online Safety Act",
+                "href": "https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/"
             },
             {
                 "title": "My first fifteen compilers (2019)",
                 "href": "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/"
             },
             {
-                "title": "Valdi \u2013 A cross-platform UI framework that delivers native performance",
-                "href": "https://github.com/Snapchat/Valdi"
+                "title": "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
+                "href": "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1"
             },
             {
-                "title": "How Airbus Took Off",
-                "href": "https://worksinprogress.co/issue/how-airbus-took-off/"
+                "title": "Valdi \u2013 A cross-platform UI framework that delivers native performance",
+                "href": "https://github.com/Snapchat/Valdi"
             },
             {
                 "title": "Why is Zig so cool?",
                 "href": "https://nilostolte.github.io/tech/articles/ZigCool.html"
             },
             {
-                "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
-                "href": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf"
+                "title": "Show HN: Hephaestus \u2013 Autonomous Multi-Agent Orchestration Framework",
+                "href": "https://github.com/Ido-Levi/Hephaestus"
             },
             {
-                "title": "Humanity's Endgame",
-                "href": "https://www.noemamag.com/humanitys-endgame/"
+                "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
+                "href": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf"
             },
             {
                 "title": "Ticker: Don't die of heart disease",
@@ -774,8 +770,12 @@
                 "href": "https://github.com/openai/codex/releases/tag/rust-v0.56.0"
             },
             {
-                "title": "How did I get here?",
-                "href": "https://how-did-i-get-here.net/"
+                "title": "Humanity's Endgame",
+                "href": "https://www.noemamag.com/humanitys-endgame/"
+            },
+            {
+                "title": "IRIX Introduction",
+                "href": "http://www.sgistuff.net/software/irixintro/index.html"
             }
         ]
     }
