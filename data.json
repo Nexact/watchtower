@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "A brief look at FreeBSD",
+                "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/"
+            },
+            {
                 "title": "A domain for the Queer Community, by the Queer Community",
                 "href": "https://www.dotmeow.org/en/what"
             },
@@ -11,12 +15,12 @@
                 "href": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/"
             },
             {
-                "title": "the terminal of the future",
-                "href": "https://jyn.dev/the-terminal-of-the-future"
-            },
-            {
                 "title": "Servo: A new web engine written in Rust",
                 "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/"
+            },
+            {
+                "title": "the terminal of the future",
+                "href": "https://jyn.dev/the-terminal-of-the-future"
             },
             {
                 "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
@@ -31,8 +35,8 @@
                 "href": "https://grebedoc.dev"
             },
             {
-                "title": "A brief look at FreeBSD",
-                "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/"
+                "title": "Async and Finaliser Deadlocks",
+                "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
             },
             {
                 "title": "Firefox expands fingerprint protections: advancing towards a more private web",
@@ -51,10 +55,6 @@
                 "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"
             },
             {
-                "title": "Async and Finaliser Deadlocks",
-                "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
-            },
-            {
                 "title": "Agentic Pelican on a Bicycle",
                 "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/"
             },
@@ -63,12 +63,20 @@
                 "href": "https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf"
             },
             {
-                "title": "Just call clone (or alias)",
-                "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/"
+                "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+                "href": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
             },
             {
                 "title": "Readonly Characters Are a Big Deal",
                 "href": "https://matklad.github.io/2025/11/10/readonly-characters.html"
+            },
+            {
+                "title": "Just call clone (or alias)",
+                "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/"
+            },
+            {
+                "title": "Scaling HNSWs",
+                "href": "https://antirez.com/news/156"
             },
             {
                 "title": "How arch-delta Saves 80+% Of Bandwidth On Upgrades",
@@ -77,14 +85,6 @@
             {
                 "title": "Wordle in LibreOffice",
                 "href": "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/"
-            },
-            {
-                "title": "Where's the Shovelware? Why AI Coding Claims Don't Add Up",
-                "href": "https://substack.com/home/post/p-172538377"
-            },
-            {
-                "title": "Scaling HNSWs",
-                "href": "https://antirez.com/news/156"
             },
             {
                 "title": "sudo-rs update to address two moderate vulnerabilities",
@@ -118,6 +118,10 @@
             {
                 "title": "No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE",
                 "href": "https://old.reddit.com/r/netsec/comments/1ouyold/no_leak_no_problem_bypassing_aslr_with_a_rop/"
+            },
+            {
+                "title": "Is It CitrixBleed4? Well, No. Is It Good? Also, No. (Citrix NetScaler Memory Leak & RXSS CVE-2025-12101) - watchTowr Labs",
+                "href": "https://old.reddit.com/r/netsec/comments/1ov4lab/is_it_citrixbleed4_well_no_is_it_good_also_no/"
             },
             {
                 "title": "MacOS Infection Vector: Using AppleScripts to bypass Gatekeeper",
@@ -210,10 +214,6 @@
             {
                 "title": "EDR-Redir V2: Blind EDR With Fake \"Program Files\"",
                 "href": "https://old.reddit.com/r/netsec/comments/1olkuwg/edrredir_v2_blind_edr_with_fake_program_files/"
-            },
-            {
-                "title": "How we found +2k vulns, 400+ secrets and 175 PII instances in publicly exposed apps built on vibe-coded platforms (Research methodology)",
-                "href": "https://old.reddit.com/r/netsec/comments/1ok3ffd/how_we_found_2k_vulns_400_secrets_and_175_pii/"
             }
         ]
     },
@@ -666,12 +666,12 @@
                 "href": "https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models"
             },
             {
-                "title": "Please donate to keep Network Time Protocol up \u2013 Goal 1k",
-                "href": "https://www.ntp.org/"
-            },
-            {
                 "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
                 "href": "https://github.com/yt-dlp/yt-dlp/issues/15012"
+            },
+            {
+                "title": "Please donate to keep Network Time Protocol up \u2013 Goal 1k",
+                "href": "https://www.ntp.org/"
             },
             {
                 "title": "What happened to Transmeta, the last big dotcom IPO",
@@ -682,28 +682,32 @@
                 "href": "https://twitter.com/omar_quraishi/status/1988518627859951986"
             },
             {
-                "title": "Simulating a Planet on the GPU: Part 1 (2022)",
-                "href": "https://www.patrickcelentano.com/blog/planet-sim-part-1"
+                "title": "Laptops with Stickers",
+                "href": "https://stickertop.art/main/"
             },
             {
                 "title": "X5.1 solar flare, G4 geomagnetic storm watch",
                 "href": "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html"
             },
             {
-                "title": "Laptops with Stickers",
-                "href": "https://stickertop.art/main/"
+                "title": "Simulating a Planet on the GPU: Part 1 (2022)",
+                "href": "https://www.patrickcelentano.com/blog/planet-sim-part-1"
             },
             {
                 "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
                 "href": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
             },
             {
-                "title": ".NET 10",
-                "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"
+                "title": "A Vision of Chocolate's Future in an Amsterdam Brownie",
+                "href": "https://www.bloomberg.com/graphics/2025-opinion-future-of-chocolate/"
             },
             {
                 "title": "Bluetooth 6.2 \u2013 more responsive, improves security, USB comms, and testing",
                 "href": "https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/"
+            },
+            {
+                "title": "Ask HN: How does one stay motivated to grind through LeetCode?",
+                "href": "item?id=45898856"
             },
             {
                 "title": "Four strange places to see London's Roman Wall",
@@ -714,32 +718,20 @@
                 "href": "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia"
             },
             {
-                "title": "Perkeep \u2013 Personal storage system for life",
-                "href": "https://perkeep.org/"
-            },
-            {
-                "title": "You will own nothing and be (un)happy",
-                "href": "https://racc.blog/you-will-own-nothing-and-be-unhappy/"
-            },
-            {
-                "title": "The terminal of the future",
-                "href": "https://jyn.dev/the-terminal-of-the-future"
-            },
-            {
-                "title": "Show HN: Hotkey \u2192 Screenshot \u2192 AI Help. Works in Every App",
-                "href": "https://github.com/thisisharsh7/seeva-ai-assistant"
-            },
-            {
                 "title": "Using Street Lamps as EV Chargers",
                 "href": "https://www.techbriefs.com/component/content/article/54104-using-street-lamps-as-ev-chargers"
             },
             {
-                "title": "Why Nietzsche matters in the age of artificial intelligence",
-                "href": "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/"
+                "title": "Perkeep \u2013 Personal storage system for life",
+                "href": "https://perkeep.org/"
             },
             {
-                "title": "Stochastic computing",
-                "href": "https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/"
+                "title": ".NET 10",
+                "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"
+            },
+            {
+                "title": "The terminal of the future",
+                "href": "https://jyn.dev/the-terminal-of-the-future"
             },
             {
                 "title": "Pikaday: A friendly guide to front-end date pickers",
@@ -754,6 +746,18 @@
                 "href": "https://www.soke.engineering/"
             },
             {
+                "title": "Why Nietzsche matters in the age of artificial intelligence",
+                "href": "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/"
+            },
+            {
+                "title": "Stochastic computing",
+                "href": "https://scottlocklin.wordpress.com/2025/10/31/stochastic-computing/"
+            },
+            {
+                "title": "You will own nothing and be (un)happy",
+                "href": "https://racc.blog/you-will-own-nothing-and-be-unhappy/"
+            },
+            {
                 "title": "The Department of War just shot the accountants and opted for speed",
                 "href": "https://steveblank.com/2025/11/11/the-department-of-war-just-shot-the-accountants-and-opted-for-speed/"
             },
@@ -762,12 +766,12 @@
                 "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
             },
             {
-                "title": "Ask HN: How does one stay motivated to grind through LeetCode?",
-                "href": "item?id=45898856"
-            },
-            {
                 "title": "My fan worked fine, so I gave it WiFi",
                 "href": "https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/"
+            },
+            {
+                "title": "New study finds users are marrying and having virtual children with AI chatbots",
+                "href": "https://www.psypost.org/new-study-finds-users-are-marrying-and-having-virtual-children-with-ai-chatbots/"
             },
             {
                 "title": "Heroku Support for .NET 10",
@@ -776,10 +780,6 @@
             {
                 "title": "We ran over 600 image generations to compare AI image models",
                 "href": "https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/"
-            },
-            {
-                "title": "Scaling HNSWs",
-                "href": "https://antirez.com/news/156"
             }
         ]
     }
