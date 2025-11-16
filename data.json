@@ -43,6 +43,10 @@
                 "href": "https://nicolasfella.de/posts/a-new-online-accounts-system/"
             },
             {
+                "title": "Bundle Configuration with Binaries using Nix",
+                "href": "https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/"
+            },
+            {
                 "title": "Oblique Strategies: Prompts for Programmers",
                 "href": "https://kevinlawler.com/prompts"
             },
@@ -71,16 +75,24 @@
                 "href": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/"
             },
             {
+                "title": "Penrose: From Mathematical Notation to Beautiful Diagrams",
+                "href": "https://www.youtube.com/watch?v=OyD4LIv2PDc"
+            },
+            {
                 "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
                 "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html"
+            },
+            {
+                "title": "InterpN: Fast Interpolation",
+                "href": "https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/"
             },
             {
                 "title": "A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare",
                 "href": "https://github.com/nathan-barry/tiny-diffusion"
             },
             {
-                "title": "Penrose: From Mathematical Notation to Beautiful Diagrams",
-                "href": "https://www.youtube.com/watch?v=OyD4LIv2PDc"
+                "title": "A 6502 emulator in LabVIEW",
+                "href": "https://www.crossover-eng.it/view.php?post=post_4"
             },
             {
                 "title": "spr\u00e6: Hydrate HTML/JSX tree with signal-powered reactive attributes",
@@ -89,18 +101,6 @@
             {
                 "title": "Small functions considered harmful (2017)",
                 "href": "https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29"
-            },
-            {
-                "title": "I can\u2019t recommend Grafana anymore",
-                "href": "https://henrikgerdes.me/blog/2025-11-grafana-mess/"
-            },
-            {
-                "title": "SuperSonic - SuperCollider's Synthesis Engine in the Browser",
-                "href": "https://sonic-pi.net/supersonic/demo.html"
-            },
-            {
-                "title": "10 patterns for faster python code",
-                "href": "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/"
             }
         ]
     },
@@ -130,14 +130,6 @@
             {
                 "title": "When The Impersonation Function Gets Used To Impersonate Users (Fortinet FortiWeb (??) Auth. Bypass) - watchTowr Labs",
                 "href": "https://old.reddit.com/r/netsec/comments/1owxxey/when_the_impersonation_function_gets_used_to/"
-            },
-            {
-                "title": "CyberRecon project",
-                "href": "https://old.reddit.com/r/netsec/comments/1oxvw4q/cyberrecon_project/"
-            },
-            {
-                "title": "Face Scrapper Ai like faceSeek -netsec analysis",
-                "href": "https://old.reddit.com/r/netsec/comments/1oxri7y/face_scrapper_ai_like_faceseek_netsec_analysis/"
             },
             {
                 "title": "Milvus Proxy Authentication Bypass Vulnerability(CVE-2025-64513)",
@@ -206,6 +198,14 @@
             {
                 "title": "LeakyInjector and LeakyStealer Duo Hunts For Crypto and Browser History",
                 "href": "https://old.reddit.com/r/netsec/comments/1oq1ia4/leakyinjector_and_leakystealer_duo_hunts_for/"
+            },
+            {
+                "title": "New! Cloud Filter Arbitrary File Creation EoP Patch Bypass LPE - CVE-2025-55680",
+                "href": "https://old.reddit.com/r/netsec/comments/1ooz5a9/new_cloud_filter_arbitrary_file_creation_eop/"
+            },
+            {
+                "title": "Critical RCE Vulnerability CVE-2025-11953 Puts React Native Developers at Risk",
+                "href": "https://old.reddit.com/r/netsec/comments/1oo9ic9/critical_rce_vulnerability_cve202511953_puts/"
             }
         ]
     },
@@ -311,6 +311,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Deaths Linked to Antibiotic-Resistant Superbugs Rose 17% in England in 2024",
+                "href": "https://science.slashdot.org/story/25/11/16/2042254/deaths-linked-to-antibiotic-resistant-superbugs-rose-17-in-england-in-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "The Internet Archive Now Captures AI-Generated Content (Including Google's AI Overviews)",
                 "href": "https://tech.slashdot.org/story/25/11/16/1852218/the-internet-archive-now-captures-ai-generated-content-including-googles-ai-overviews?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -365,10 +369,6 @@
             {
                 "title": "Sony Killed This Game in 2024.  Three Developers Reverse-Engineered It Back to Life",
                 "href": "https://games.slashdot.org/story/25/11/15/0521203/sony-killed-this-game-in-2024-three-developers-reverse-engineered-it-back-to-life?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Why Solarpunk Is Already Happening In Africa",
-                "href": "https://news.slashdot.org/story/25/11/15/0433216/why-solarpunk-is-already-happening-in-africa?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -775,64 +775,80 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The fate of \"small\" open source",
-                "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
-            },
-            {
                 "title": "62 chapter open-source Zig book",
                 "href": "https://www.zigbook.net"
             },
             {
-                "title": "Heretic: Automatic censorship removal for language models",
-                "href": "https://github.com/p-e-w/heretic"
+                "title": "The fate of \"small\" open source",
+                "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/"
             },
             {
                 "title": "Tracking users with favicons, even in incognito mode",
                 "href": "https://github.com/jonasstrehle/supercookie"
             },
             {
+                "title": "Heretic: Automatic censorship removal for language models",
+                "href": "https://github.com/p-e-w/heretic"
+            },
+            {
                 "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
                 "href": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm"
             },
             {
-                "title": "FPGA Based IBM-PC-XT",
-                "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
+                "title": "Dark Pattern Games",
+                "href": "https://www.darkpattern.games"
             },
             {
                 "title": "Linux mode setting, from the comfort of OCaml",
                 "href": "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/"
             },
             {
-                "title": "Fourier Transforms",
-                "href": "https://www.continuummechanics.org/fourierxforms.html"
+                "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+                "href": "https://jonathanclark.com/posts/coinbase-breach-timeline.html"
+            },
+            {
+                "title": "FPGA Based IBM-PC-XT",
+                "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
             },
             {
                 "title": "I finally understand Cloudflare Zero Trust tunnels",
                 "href": "https://david.coffee/cloudflare-zero-trust-tunnels"
             },
             {
-                "title": "I have recordings proving Coinbase knew about breach 4 months before disclosure",
-                "href": "https://jonathanclark.com/posts/coinbase-breach-timeline.html"
+                "title": "Decoding Leibniz Notation (2024)",
+                "href": "https://www.spakhm.com/leibniz"
+            },
+            {
+                "title": "Fourier Transforms",
+                "href": "https://www.continuummechanics.org/fourierxforms.html"
+            },
+            {
+                "title": "What if you don't need MCP at all?",
+                "href": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/"
             },
             {
                 "title": "Brimstone: ES2025 JavaScript engine written in Rust",
                 "href": "https://github.com/Hans-Halverson/brimstone"
             },
             {
-                "title": "Decoding Leibniz Notation (2024)",
-                "href": "https://www.spakhm.com/leibniz"
+                "title": "Your Land, My Land (Offrange) \u2013 Lithium vs. Lettuce in the Imperial Valley, CA",
+                "href": "https://ambrook.com/offrange/photo-essay/lithium-v-lettuce"
+            },
+            {
+                "title": "The Pragmatic Programmer: 20th Anniversary Edition",
+                "href": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html"
             },
             {
                 "title": "Anthropic\u2019s paper smells like bullshit",
                 "href": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/"
             },
             {
-                "title": "Garbage Collection Is Useful",
-                "href": "https://dubroy.com/blog/garbage-collection-is-useful/"
-            },
-            {
                 "title": "De Bruijn Numerals",
                 "href": "https://text.marvinborner.de/2023-08-22-22.html"
+            },
+            {
+                "title": "Garbage Collection Is Useful",
+                "href": "https://dubroy.com/blog/garbage-collection-is-useful/"
             },
             {
                 "title": "Holes (1970) [pdf]",
@@ -843,6 +859,10 @@
                 "href": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
             },
             {
+                "title": "Shell Grotto, Margate",
+                "href": "https://en.wikipedia.org/wiki/Shell_Grotto,_Margate"
+            },
+            {
                 "title": "Measuring the doppler shift of WWVB during a flight",
                 "href": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
             },
@@ -851,24 +871,16 @@
                 "href": "https://tedium.co/2025/10/25/web-dead-predictions-george-colony/"
             },
             {
-                "title": "What if you don't need MCP at all?",
-                "href": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/"
-            },
-            {
-                "title": "Your Land, My Land (Offrange) \u2013 Lithium vs. Lettuce in the Imperial Valley, CA",
-                "href": "https://ambrook.com/offrange/photo-essay/lithium-v-lettuce"
-            },
-            {
-                "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
-                "href": "https://research.swtch.com/nih"
-            },
-            {
                 "title": "Vintage Large Language Models",
                 "href": "https://owainevans.github.io/talk-transcript.html"
             },
             {
-                "title": "Where Educational Technology Fails: A seventh-grader's perspective",
-                "href": "https://micahblachman.beehiiv.com/p/where-educational-technology-fails"
+                "title": "Adding an imaginary unit to a finite field",
+                "href": "https://www.johndcook.com/blog/2025/11/16/finite-field-i/"
+            },
+            {
+                "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
+                "href": "https://research.swtch.com/nih"
             },
             {
                 "title": "AirPods libreated from Apple's ecosystem",
@@ -881,18 +893,6 @@
             {
                 "title": "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
                 "href": "https://www.youtube.com/watch?v=uB0gr7Fh6lY"
-            },
-            {
-                "title": "PgFirstAid: PostgreSQL function for improving stability and performance",
-                "href": "https://github.com/randoneering/pgFirstAid"
-            },
-            {
-                "title": "Production-Grade Container Deployment with Podman Quadlets \u2013 Larvitz Blog",
-                "href": "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html"
-            },
-            {
-                "title": "Maybe you\u2019re not trying",
-                "href": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying"
             }
         ]
     }
