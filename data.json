@@ -23,6 +23,10 @@
                 "href": "https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/"
             },
             {
+                "title": "Garbage collection is useful",
+                "href": "https://dubroy.com/blog/garbage-collection-is-useful/"
+            },
+            {
                 "title": "S\u014dzu HTTP reverse proxy",
                 "href": "https://github.com/sozu-proxy/sozu"
             },
@@ -31,20 +35,20 @@
                 "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/"
             },
             {
-                "title": "Garbage collection is useful",
-                "href": "https://dubroy.com/blog/garbage-collection-is-useful/"
+                "title": "Towards interplanetary QUIC traffic",
+                "href": "https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/"
             },
             {
                 "title": "Typechecking is undecideable when 'type' is a type (1989)",
                 "href": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf"
             },
             {
-                "title": "Towards interplanetary QUIC traffic",
-                "href": "https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/"
-            },
-            {
                 "title": "What if everything was \"Async\", but nothing needed \"Await\"?",
                 "href": "https://www.youtube.com/watch?v=tpICs7uG3n8"
+            },
+            {
+                "title": "Add a VLAN to OPNsense in Just 26 Clicks Across 6 Screens",
+                "href": "https://mtlynch.io/notes/opnsense-clicks/"
             },
             {
                 "title": "JavaScript engines zoo",
@@ -71,12 +75,16 @@
                 "href": "https://lobste.rs/s/eefzex/what_are_you_doing_this_week"
             },
             {
-                "title": "brimstone: New JavaScript engine written in Rust",
-                "href": "https://github.com/Hans-Halverson/brimstone"
+                "title": "Chuck Moore retires from colorforth after latest Windows breaks rendering",
+                "href": "https://www.youtube.com/watch?v=MvkGBWXb2oQ"
             },
             {
                 "title": "Living my best Sun Microsystems ecosystem life in 2025",
                 "href": "https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/"
+            },
+            {
+                "title": "brimstone: New JavaScript engine written in Rust",
+                "href": "https://github.com/Hans-Halverson/brimstone"
             },
             {
                 "title": "Godbolt's Rule",
@@ -87,20 +95,12 @@
                 "href": "https://www.jmeiners.com/think-in-math/"
             },
             {
-                "title": "Add a VLAN to OPNsense in Just 26 Clicks Across 6 Screens",
-                "href": "https://mtlynch.io/notes/opnsense-clicks/"
-            },
-            {
                 "title": "Goofing on Meta's AI Crawler",
                 "href": "https://bruceediger.com/posts/goofing-on-meta/"
             },
             {
                 "title": "FPGA based IBM-PC-XT",
                 "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
-            },
-            {
-                "title": "k-anonymity, the parent of all privacy definitions",
-                "href": "https://desfontain.es/blog/k-anonymity.html"
             }
         ]
     },
@@ -213,6 +213,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
+                "href": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/"
+            },
+            {
                 "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
                 "href": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/"
             },
@@ -255,10 +259,6 @@
             {
                 "title": "Jaguar Land Rover cyberattack cost the company over $220 million",
                 "href": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/"
-            },
-            {
-                "title": "Logitech confirms data breach after Clop extortion attack",
-                "href": "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/"
             }
         ]
     },
@@ -310,6 +310,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Tech Giants' Cloud Power Probed As EU Weighs Inclusion In DMA",
+                "href": "https://slashdot.org/story/25/11/17/2056254/tech-giants-cloud-power-probed-as-eu-weighs-inclusion-in-dma?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "'Buy Now, Pay Later' is Expanding Fast, and That Should Worry Everyone",
                 "href": "https://news.slashdot.org/story/25/11/17/1851247/buy-now-pay-later-is-expanding-fast-and-that-should-worry-everyone?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -365,10 +369,6 @@
             {
                 "title": "Bitcoin Erases Year's Gain as Crypto Bear Market Deepens",
                 "href": "https://news.slashdot.org/story/25/11/17/024220/bitcoin-erases-years-gain-as-crypto-bear-market-deepens?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "More Tech Moguls Want to Build Data Centers in Outer Space",
-                "href": "https://science.slashdot.org/story/25/11/17/0527202/more-tech-moguls-want-to-build-data-centers-in-outer-space?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -783,20 +783,24 @@
                 "href": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/"
             },
             {
-                "title": "Show HN: PrinceJS \u2013 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)",
-                "href": "https://princejs.vercel.app"
-            },
-            {
                 "title": "\"One Student One Chip\" Course Homepage",
                 "href": "https://ysyx.oscc.cc/docs/en/"
             },
             {
-                "title": "Project Gemini",
-                "href": "https://geminiprotocol.net/"
+                "title": "Show HN: PrinceJS \u2013 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)",
+                "href": "https://princejs.vercel.app"
             },
             {
                 "title": "My stages of learning to be a socially normal person",
                 "href": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a"
+            },
+            {
+                "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
+            },
+            {
+                "title": "Project Gemini",
+                "href": "https://geminiprotocol.net/"
             },
             {
                 "title": "Show HN: ESPectre \u2013 Motion detection based on Wi-Fi spectre analysis",
@@ -811,20 +815,20 @@
                 "href": "https://blog.google/technology/google-deepmind/weathernext-2/"
             },
             {
-                "title": "An official atlas of North Korea",
-                "href": "https://www.cartographerstale.com/p/an-official-atlas-of-north-korea"
+                "title": "Show HN: Continuous Claude \u2013 run Claude Code in a loop",
+                "href": "https://github.com/AnandChowdhary/continuous-claude"
             },
             {
                 "title": "Insects on the Space Menu",
                 "href": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu"
             },
             {
-                "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
-                "href": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/"
+                "title": "An official atlas of North Korea",
+                "href": "https://www.cartographerstale.com/p/an-official-atlas-of-north-korea"
             },
             {
-                "title": "Show HN: Continuous Claude \u2013 run Claude Code in a loop",
-                "href": "https://github.com/AnandChowdhary/continuous-claude"
+                "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
+                "href": "https://angadh.com/inkhaven-7"
             },
             {
                 "title": "Our dogs' diversity can be traced back to the Stone Age",
@@ -839,60 +843,56 @@
                 "href": "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570"
             },
             {
-                "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
-                "href": "https://angadh.com/inkhaven-7"
+                "title": "Giving C a superpower: custom header file (safe_c.h)",
+                "href": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
             },
             {
                 "title": "How when AWS was down, we were not",
                 "href": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"
             },
             {
-                "title": "Giving C a superpower: custom header file (safe_c.h)",
-                "href": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
-            },
-            {
-                "title": "A graph explorer of the Epstein emails",
-                "href": "https://epstein-doc-explorer-1.onrender.com/"
+                "title": "My Kind of REPL",
+                "href": "https://ianthehenry.com/posts/my-kind-of-repl/"
             },
             {
                 "title": "The time has finally come for geothermal energy",
                 "href": "https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy"
             },
             {
-                "title": "EEG-based neurofeedback in athletes and non-athletes",
-                "href": "https://www.mdpi.com/2306-5354/12/11/1202"
+                "title": "A graph explorer of the Epstein emails",
+                "href": "https://epstein-doc-explorer-1.onrender.com/"
+            },
+            {
+                "title": "More liberals, people of color and LGBTQ say they're buying guns out of fear",
+                "href": "https://www.npr.org/2025/11/15/nx-s1-5607064/guns-liberals-trump-administration-people-of-color-lgbtq-fear"
+            },
+            {
+                "title": "Grok 4.1",
+                "href": "https://x.ai/news/grok-4-1"
             },
             {
                 "title": "Where do the children play?",
                 "href": "https://unpublishablepapers.substack.com/p/where-do-the-children-play"
             },
             {
-                "title": "DESI's Dizzying Results",
-                "href": "https://www.universetoday.com/articles/desis-dizzying-results"
-            },
-            {
-                "title": "Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO",
-                "href": "https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/"
-            },
-            {
                 "title": "Are you stuck in movie logic?",
                 "href": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic"
             },
             {
-                "title": "Google is killing the open web, part 2",
-                "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/"
+                "title": "DESI's Dizzying Results",
+                "href": "https://www.universetoday.com/articles/desis-dizzying-results"
             },
             {
-                "title": "Replicate is joining Cloudflare",
-                "href": "https://replicate.com/blog/replicate-cloudflare"
+                "title": "EEG-based neurofeedback in athletes and non-athletes",
+                "href": "https://www.mdpi.com/2306-5354/12/11/1202"
             },
             {
                 "title": "People are using iPad OS features on their iPhones",
                 "href": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/"
             },
             {
-                "title": "How Honda screwed up an expensive project with a simple math error (2008)",
-                "href": "https://davidsd.org/2008/12/honda-needs-a-tune-up/"
+                "title": "Replicate is joining Cloudflare",
+                "href": "https://replicate.com/blog/replicate-cloudflare"
             }
         ]
     }
