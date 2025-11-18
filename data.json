@@ -7,16 +7,20 @@
                 "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
             },
             {
-                "title": "My next chapter with Mastodon",
-                "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
-            },
-            {
                 "title": "Rebecca Heineman - from homelessness to porting Doom",
                 "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/"
             },
             {
+                "title": "My next chapter with Mastodon",
+                "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
+            },
+            {
                 "title": "6 years after too much crypto",
                 "href": "https://bfswa.substack.com/p/6-years-after-too-much-crypto"
+            },
+            {
+                "title": "Announcing Lix 2.94 \u201cA\u00e7a\u00ed na tigela\u201d",
+                "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/"
             },
             {
                 "title": "Chuck Moore retires from colorforth after latest Windows breaks rendering",
@@ -29,10 +33,6 @@
             {
                 "title": "A 'small' vanilla Kubernetes install on NixOS",
                 "href": "https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html"
-            },
-            {
-                "title": "Announcing Lix 2.94 \u201cA\u00e7a\u00ed na tigela\u201d",
-                "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/"
             },
             {
                 "title": "A 450 KB static site generator based on Markdown and Lua",
@@ -67,6 +67,10 @@
                 "href": "https://fabiensanglard.net/quake_chunnel/"
             },
             {
+                "title": "Google Summer of Code 2025 results",
+                "href": "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/"
+            },
+            {
                 "title": "Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects",
                 "href": "https://arxiv.org/abs/2511.04427"
             },
@@ -85,10 +89,6 @@
             {
                 "title": "Minimal Periodic Task Runner in Elixir",
                 "href": "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/"
-            },
-            {
-                "title": "Google Summer of Code 2025 results",
-                "href": "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/"
             },
             {
                 "title": "Ruby 4.0.0 preview2 Released",
@@ -122,6 +122,14 @@
             {
                 "title": "Gotchas in Email Parsing - Lessons from Jakarta Mail",
                 "href": "https://old.reddit.com/r/netsec/comments/1p084xf/gotchas_in_email_parsing_lessons_from_jakarta_mail/"
+            },
+            {
+                "title": "LSASS Dump \u2013 Windows Error Reporting",
+                "href": "https://old.reddit.com/r/netsec/comments/1p0hsc8/lsass_dump_windows_error_reporting/"
+            },
+            {
+                "title": "Threat Actor \"888\" Claims LG Electronics Data Breach - Source Code and Hardcoded Credentials Allegedly Leaked [Unconfirmed]",
+                "href": "https://old.reddit.com/r/netsec/comments/1p0ho9s/threat_actor_888_claims_lg_electronics_data/"
             },
             {
                 "title": "A Cracker Barrel vulnerability",
@@ -198,20 +206,20 @@
             {
                 "title": "Free test for Post-Quantum Cryptography TLS",
                 "href": "https://old.reddit.com/r/netsec/comments/1oqsojn/free_test_for_postquantum_cryptography_tls/"
-            },
-            {
-                "title": "Free IOC tool",
-                "href": "https://old.reddit.com/r/netsec/comments/1or42i7/free_ioc_tool/"
-            },
-            {
-                "title": "Evading Elastic EDR's call stack signatures with call gadgets",
-                "href": "https://old.reddit.com/r/netsec/comments/1opyr37/evading_elastic_edrs_call_stack_signatures_with/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Microsoft Teams to let users report messages wrongly flagged as threats",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/"
+            },
+            {
+                "title": "French agency Pajemploi reports data breach affecting 1.2M people",
+                "href": "https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/"
+            },
             {
                 "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA",
                 "href": "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/"
@@ -259,14 +267,6 @@
             {
                 "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
-            },
-            {
-                "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
-                "href": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/"
-            },
-            {
-                "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
-                "href": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/"
             }
         ]
     },
@@ -799,64 +799,76 @@
                 "href": "https://antigravity.google/blog/introducing-google-antigravity"
             },
             {
-                "title": "Gemini 3",
-                "href": "https://blog.google/products/gemini/gemini-3/"
-            },
-            {
-                "title": "Nearly all UK drivers say headlights are too bright",
-                "href": "https://www.bbc.com/news/articles/c1j8ewy1p86o"
-            },
-            {
-                "title": "Short Little Difficult Books",
-                "href": "https://countercraft.substack.com/p/short-little-difficult-books"
-            },
-            {
                 "title": "A Day at Hetzner Online in the Falkenstein Data Center",
                 "href": "https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/"
-            },
-            {
-                "title": "How Quake.exe got its TCP/IP stack",
-                "href": "https://fabiensanglard.net/quake_chunnel/index.html"
-            },
-            {
-                "title": "Do Not Put Your Site Behind Cloudflare If You Don't Need To",
-                "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
-            },
-            {
-                "title": "Google Brings Gemini 3 AI Model to Search and AI Mode",
-                "href": "https://blog.google/products/search/gemini-3-search-ai-mode/"
-            },
-            {
-                "title": "Google Antigravity",
-                "href": "https://antigravity.google/"
-            },
-            {
-                "title": "Experiment: Making TypeScript Immutable-by-Default",
-                "href": "https://evanhahn.com/typescript-immutability-experiment/"
-            },
-            {
-                "title": "The Miracle of W\u00f6rgl",
-                "href": "https://scf.green/story-of-worgl-and-others/"
-            },
-            {
-                "title": "Gemini 3 Pro Model Card",
-                "href": "https://pixeldrain.com/u/hwgaNKeH"
             },
             {
                 "title": "5 Things to Try with Gemini 3 Pro in Gemini CLI",
                 "href": "https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/"
             },
             {
+                "title": "Gemini 3",
+                "href": "https://blog.google/products/gemini/gemini-3/"
+            },
+            {
+                "title": "Strix Halo's Memory Subsystem: Tackling iGPU Challenges",
+                "href": "https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling"
+            },
+            {
+                "title": "Nearly all UK drivers say headlights are too bright",
+                "href": "https://www.bbc.com/news/articles/c1j8ewy1p86o"
+            },
+            {
+                "title": "Solving a Million-Step LLM Task with Zero Errors",
+                "href": "https://arxiv.org/abs/2511.09030"
+            },
+            {
+                "title": "Short Little Difficult Books",
+                "href": "https://countercraft.substack.com/p/short-little-difficult-books"
+            },
+            {
+                "title": "How Quake.exe got its TCP/IP stack",
+                "href": "https://fabiensanglard.net/quake_chunnel/index.html"
+            },
+            {
+                "title": "Google Brings Gemini 3 AI Model to Search and AI Mode",
+                "href": "https://blog.google/products/search/gemini-3-search-ai-mode/"
+            },
+            {
                 "title": "Show HN: Optimizing LiteLLM with Rust \u2013 When Expectations Meet Reality",
                 "href": "https://github.com/neul-labs/fast-litellm"
             },
             {
-                "title": "Ruby 4.0.0 Preview2 Released",
-                "href": "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"
+                "title": "Do Not Put Your Site Behind Cloudflare If You Don't Need To",
+                "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
+            },
+            {
+                "title": "Google Antigravity",
+                "href": "https://antigravity.google/"
+            },
+            {
+                "title": "The Miracle of W\u00f6rgl",
+                "href": "https://scf.green/story-of-worgl-and-others/"
+            },
+            {
+                "title": "Looking for Hidden Gems in Scientific Literature",
+                "href": "https://elicit.com/blog/literature-based-discovery"
+            },
+            {
+                "title": "Experiment: Making TypeScript Immutable-by-Default",
+                "href": "https://evanhahn.com/typescript-immutability-experiment/"
             },
             {
                 "title": "Mathematics and Computation (2019) [pdf]",
                 "href": "https://www.math.ias.edu/files/Book-online-Aug0619.pdf"
+            },
+            {
+                "title": "Gemini 3 Pro Model Card",
+                "href": "https://pixeldrain.com/u/hwgaNKeH"
+            },
+            {
+                "title": "Ruby 4.0.0 Preview2 Released",
+                "href": "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"
             },
             {
                 "title": "GoSign Desktop RCE flaws affecting users in Italy",
@@ -887,20 +899,8 @@
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
             },
             {
-                "title": "Multiple Digital Ocean services down",
-                "href": "https://status.digitalocean.com/incidents/lgt5xs2843rx"
-            },
-            {
-                "title": "Ditch your (mut)ex, you deserve better",
-                "href": "https://chrispenner.ca/posts/mutexes"
-            },
-            {
                 "title": "The surprising benefits of giving up",
                 "href": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
-            },
-            {
-                "title": "A/B Tests over Evals",
-                "href": "https://www.raindrop.ai/blog/thoughts-on-evals/"
             }
         ]
     }
