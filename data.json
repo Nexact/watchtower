@@ -51,12 +51,12 @@
                 "href": "https://dubroy.com/blog/garbage-collection-is-useful/"
             },
             {
-                "title": "The Uselessness of \"Fast\" and \"Slow\" in Programming",
-                "href": "https://jerf.org/iri/post/2025/the_uselessness_of_fast/"
-            },
-            {
                 "title": "Ruby 4.0.0 preview2 Released",
                 "href": "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"
+            },
+            {
+                "title": "The Uselessness of \"Fast\" and \"Slow\" in Programming",
+                "href": "https://jerf.org/iri/post/2025/the_uselessness_of_fast/"
             },
             {
                 "title": "My First Fifteen Compilers",
@@ -79,6 +79,10 @@
                 "href": "https://zylinski.se/posts/know-why-you-dont-like-oop/"
             },
             {
+                "title": "WhatsApp Census",
+                "href": "https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf"
+            },
+            {
                 "title": "Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects",
                 "href": "https://arxiv.org/abs/2511.04427"
             },
@@ -91,16 +95,12 @@
                 "href": "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/"
             },
             {
+                "title": "Ditch your (mut)ex, you deserve better",
+                "href": "https://chrispenner.ca/posts/mutexes"
+            },
+            {
                 "title": "Launching the 2025 State of Rust Survey",
                 "href": "https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/"
-            },
-            {
-                "title": "Inside Rust's std and parking_lot mutexes - who wins?",
-                "href": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
-            },
-            {
-                "title": "Digital Signals Theory",
-                "href": "https://brianmcfee.net/dstbook-site/content/intro.html"
             }
         ]
     },
@@ -783,68 +783,64 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Cloudflare Global Network experiencing issues",
-                "href": "https://www.cloudflarestatus.com/?t=1"
-            },
-            {
-                "title": "Gemini 3 for developers: New reasoning, agentic capabilities",
-                "href": "https://blog.google/technology/developers/gemini-3-developers/"
-            },
-            {
-                "title": "Gemini 3 Pro Preview Live in AI Studio",
-                "href": "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview"
-            },
-            {
-                "title": "Pebble, Rebble, and a Path Forward",
-                "href": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/"
-            },
-            {
-                "title": "A Day at Hetzner Online in the Falkenstein Data Center",
-                "href": "https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/"
-            },
-            {
-                "title": "5 Things to Try with Gemini 3 Pro in Gemini CLI",
-                "href": "https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/"
-            },
-            {
                 "title": "Gemini 3",
                 "href": "https://blog.google/products/gemini/gemini-3/"
-            },
-            {
-                "title": "Solving a Million-Step LLM Task with Zero Errors",
-                "href": "https://arxiv.org/abs/2511.09030"
-            },
-            {
-                "title": "Google Brings Gemini 3 AI Model to Search and AI Mode",
-                "href": "https://blog.google/products/search/gemini-3-search-ai-mode/"
-            },
-            {
-                "title": "Strix Halo's Memory Subsystem: Tackling iGPU Challenges",
-                "href": "https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling"
-            },
-            {
-                "title": "How Quake.exe got its TCP/IP stack",
-                "href": "https://fabiensanglard.net/quake_chunnel/index.html"
-            },
-            {
-                "title": "Nearly all UK drivers say headlights are too bright",
-                "href": "https://www.bbc.com/news/articles/c1j8ewy1p86o"
-            },
-            {
-                "title": "Do Not Put Your Site Behind Cloudflare If You Don't Need To",
-                "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
-            },
-            {
-                "title": "Show HN: Guts \u2013 convert Golang types to TypeScript",
-                "href": "https://github.com/coder/guts"
             },
             {
                 "title": "Google Antigravity",
                 "href": "https://antigravity.google/"
             },
             {
+                "title": "Pebble, Rebble, and a Path Forward",
+                "href": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/"
+            },
+            {
+                "title": "A day at Hetzner online in the Falkenstein data center",
+                "href": "https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/"
+            },
+            {
+                "title": "Cloudflare Global Network experiencing issues",
+                "href": "https://www.cloudflarestatus.com/?t=1"
+            },
+            {
+                "title": "Show HN: Guts \u2013 convert Golang types to TypeScript",
+                "href": "https://github.com/coder/guts"
+            },
+            {
+                "title": "Solving a Million-Step LLM Task with Zero Errors",
+                "href": "https://arxiv.org/abs/2511.09030"
+            },
+            {
+                "title": "How Quake.exe got its TCP/IP stack",
+                "href": "https://fabiensanglard.net/quake_chunnel/index.html"
+            },
+            {
+                "title": "Strix Halo's Memory Subsystem: Tackling iGPU Challenges",
+                "href": "https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling"
+            },
+            {
+                "title": "Nearly all UK drivers say headlights are too bright",
+                "href": "https://www.bbc.com/news/articles/c1j8ewy1p86o"
+            },
+            {
+                "title": "Short Little Difficult Books",
+                "href": "https://countercraft.substack.com/p/short-little-difficult-books"
+            },
+            {
+                "title": "Do not put your site behind Cloudflare if you don't need to",
+                "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont"
+            },
+            {
                 "title": "Show HN: Optimizing LiteLLM with Rust \u2013 When Expectations Meet Reality",
                 "href": "https://github.com/neul-labs/fast-litellm"
+            },
+            {
+                "title": "Beauty in/of mathematics: tessellations and their formulas",
+                "href": "https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472"
+            },
+            {
+                "title": "A squeaky nail, or the wheel that sticks out",
+                "href": "https://prashanth.world/squeaky-nail/"
             },
             {
                 "title": "The Miracle of W\u00f6rgl",
@@ -855,52 +851,56 @@
                 "href": "https://pixeldrain.com/u/hwgaNKeH"
             },
             {
-                "title": "A squeaky nail, or the wheel that sticks out",
-                "href": "https://prashanth.world/squeaky-nail/"
-            },
-            {
-                "title": "Beauty in/of mathematics: tessellations and their formulas",
-                "href": "https://www.tandfonline.com/doi/full/10.1080/00036811.2025.2510472"
+                "title": "Experiment: Making TypeScript Immutable-by-Default",
+                "href": "https://evanhahn.com/typescript-immutability-experiment/"
             },
             {
                 "title": "Mathematics and Computation (2019) [pdf]",
                 "href": "https://www.math.ias.edu/files/Book-online-Aug0619.pdf"
             },
             {
-                "title": "Google Antigravity, a New Era in AI-Assisted Software Development",
-                "href": "https://antigravity.google/blog/introducing-google-antigravity"
-            },
-            {
                 "title": "Ruby 4.0.0 Preview2 Released",
                 "href": "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"
-            },
-            {
-                "title": "Short Little Difficult Books",
-                "href": "https://countercraft.substack.com/p/short-little-difficult-books"
-            },
-            {
-                "title": "I've Wanted to Play That 'Killer Shark' Arcade Game Briefly Seen in 'Jaws'",
-                "href": "https://www.remindmagazine.com/article/15694/jaws-arcade-video-game-killer-shark-atari-sega-electromechanical/"
-            },
-            {
-                "title": "How many video games include a marriage proposal? At least one",
-                "href": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball"
             },
             {
                 "title": "Looking for Hidden Gems in Scientific Literature",
                 "href": "https://elicit.com/blog/literature-based-discovery"
             },
             {
-                "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
-                "href": "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6"
+                "title": "I've Wanted to Play That 'Killer Shark' Arcade Game Briefly Seen in 'Jaws'",
+                "href": "https://www.remindmagazine.com/article/15694/jaws-arcade-video-game-killer-shark-atari-sega-electromechanical/"
+            },
+            {
+                "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
+                "href": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/"
+            },
+            {
+                "title": "How many video games include a marriage proposal? At least one",
+                "href": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball"
             },
             {
                 "title": "GoSign Desktop RCE flaws affecting users in Italy",
                 "href": "https://www.ush.it/2025/11/14/multiple-vulnerabilities-gosign-desktop-remote-code-execution/"
             },
             {
+                "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
+                "href": "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6"
+            },
+            {
                 "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/"
+            },
+            {
+                "title": "NPR to get $36M in settlement to operate US public radio system",
+                "href": "https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a"
+            },
+            {
+                "title": "The surprising benefits of giving up",
+                "href": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
+            },
+            {
+                "title": "Ditch your (mut)ex, you deserve better",
+                "href": "https://chrispenner.ca/posts/mutexes"
             }
         ]
     }
