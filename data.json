@@ -23,36 +23,44 @@
                 "href": "https://blog.cloudflare.com/18-november-2025-outage/"
             },
             {
-                "title": "Self-hosting DNS for no fun, but a little profit",
-                "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
+                "title": "Twenty years of Django releases",
+                "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/"
             },
             {
-                "title": "Rebecca Heineman - from homelessness to porting Doom",
-                "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/"
+                "title": "Self-hosting DNS for no fun, but a little profit",
+                "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
             },
             {
                 "title": "Why BSDs?",
                 "href": "https://blog.thechases.com/posts/why-bsds/"
             },
             {
-                "title": "Twenty years of Django releases",
-                "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/"
+                "title": "Rebecca Heineman - from homelessness to porting Doom",
+                "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/"
             },
             {
                 "title": "LLMs are bullshitters. But that doesn't mean they're not useful",
                 "href": "https://blog.kagi.com/llms"
             },
             {
+                "title": "Disallow code usage with a custom `clippy.toml`",
+                "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/"
+            },
+            {
                 "title": "A Function Inliner for Wasmtime and Cranelift",
                 "href": "https://fitzgen.com/2025/11/19/inliner.html"
             },
             {
-                "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
-                "href": "https://docs.rs/simd-csv"
+                "title": "Are large language models worth it?",
+                "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
             },
             {
-                "title": "Disallow code usage with a custom `clippy.toml`",
-                "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/"
+                "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
+            },
+            {
+                "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
+                "href": "https://docs.rs/simd-csv"
             },
             {
                 "title": "Building with Distributed Actors: What and Why",
@@ -75,20 +83,12 @@
                 "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/"
             },
             {
-                "title": "Are large language models worth it?",
-                "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
-            },
-            {
                 "title": "My next chapter with Mastodon",
                 "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
             },
             {
                 "title": "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
                 "href": "https://github.com/cloudflare/vibesdk"
-            },
-            {
-                "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
             },
             {
                 "title": "Experiment: making TypeScript immutable-by-default",
@@ -99,8 +99,8 @@
                 "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/"
             },
             {
-                "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
-                "href": "https://julianyap.com/posts/2025-11-16-1763340628/"
+                "title": "Precise geolocation via Wi-Fi Positioning System",
+                "href": "https://www.amoses.dev/blog/wifi-location/"
             }
         ]
     },
@@ -267,8 +267,61 @@
         ]
     },
     {
+        "feedname": "krebsonsecurity",
+        "items": [
+            {
+                "title": "The Cloudflare Outage May Be a Security Roadmap",
+                "href": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/"
+            },
+            {
+                "title": "Microsoft Patch Tuesday, November 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/"
+            },
+            {
+                "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+                "href": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/"
+            },
+            {
+                "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
+                "href": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/"
+            },
+            {
+                "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+                "href": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
+            },
+            {
+                "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
+                "href": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/"
+            },
+            {
+                "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+                "href": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/"
+            },
+            {
+                "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+                "href": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/"
+            },
+            {
+                "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+                "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
+            },
+            {
+                "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
+                "href": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/"
+            }
+        ]
+    },
+    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Tokyo Court Finds Cloudflare Liable For Manga Piracy in Long-Running Lawsuit",
+                "href": "https://yro.slashdot.org/story/25/11/19/2247224/tokyo-court-finds-cloudflare-liable-for-manga-piracy-in-long-running-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Adobe Bolsters AI Marketing Tools With $1.9 Billion Semrush Buy",
+                "href": "https://slashdot.org/story/25/11/19/2238242/adobe-bolsters-ai-marketing-tools-with-19-billion-semrush-buy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Apple N1 Wi-Fi Chip Improves On Older Broadcom Chips In Every Way",
                 "href": "https://hardware.slashdot.org/story/25/11/19/2228257/apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -320,14 +373,6 @@
             {
                 "title": "CDC Data Confirms US is 2 Months Away From Losing Measles Elimination Status",
                 "href": "https://science.slashdot.org/story/25/11/19/1540212/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Chinese University Collected More AI Patents Than MIT, Stanford, Princeton and Harvard Combined",
-                "href": "https://yro.slashdot.org/story/25/11/19/153210/chinese-university-collected-more-ai-patents-than-mit-stanford-princeton-and-harvard-combined?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Cloudflare Explains Its Worst Outage Since 2019",
-                "href": "https://tech.slashdot.org/story/25/11/19/1447256/cloudflare-explains-its-worst-outage-since-2019?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -734,23 +779,43 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Jailbreaking AI Models to Phish Elderly Victims",
+                "href": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish"
+            },
+            {
                 "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
                 "href": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx"
+            },
+            {
+                "title": "Verifying your Matrix devices is becoming mandatory",
+                "href": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/"
             },
             {
                 "title": "Researchers discover security vulnerability in WhatsApp",
                 "href": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp"
             },
             {
-                "title": "Building more with GPT-5.1-Codex-Max",
-                "href": "https://openai.com/index/gpt-5-1-codex-max/"
+                "title": "Workday to acquire Pipedream",
+                "href": "https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream"
             },
             {
                 "title": "Europe is scaling back GDPR and relaxing AI laws",
                 "href": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"
             },
             {
-                "title": "It's your fault my laptop knows where I am",
+                "title": "Debunking the Myths of the HBO Chernobyl series (2023)",
+                "href": "https://blog.osm-ai.net/investigation/2023/01/05/hbo-chernobyl-myth.html"
+            },
+            {
+                "title": "Why CUDA translation wont unlock AMD",
+                "href": "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/"
+            },
+            {
+                "title": "Building more with GPT-5.1-Codex-Max",
+                "href": "https://openai.com/index/gpt-5-1-codex-max/"
+            },
+            {
+                "title": "Precise geolocation via Wi-Fi Positioning System",
                 "href": "https://www.amoses.dev/blog/wifi-location/"
             },
             {
@@ -758,36 +823,32 @@
                 "href": "https://ai.meta.com/sam3/"
             },
             {
-                "title": "Gaming on Linux has never been more approachable",
-                "href": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos"
+                "title": "Microsoft AI CEO pushes back against critics after recent Windows AI backlash",
+                "href": "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me"
+            },
+            {
+                "title": "Roblox Requires Age Checks for Communication, Ushering in New Safety Standard",
+                "href": "https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat"
             },
             {
                 "title": "How Slide Rules Work",
                 "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
             },
             {
-                "title": "Cognitive and mental health correlates of short-form video use",
-                "href": "https://psycnet.apa.org/fulltext/2026-89350-001.html"
+                "title": "Gaming on Linux has never been more approachable",
+                "href": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos"
             },
             {
                 "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
                 "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/"
             },
             {
-                "title": "How to identify a prime number without a computer",
-                "href": "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
-            },
-            {
                 "title": "Larry Summers resigns from OpenAI board",
                 "href": "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html"
             },
             {
-                "title": "Launch HN: Mosaic (YC W25) \u2013 Agentic Video Editing",
-                "href": "https://mosaic.so"
-            },
-            {
-                "title": "Pozsar's Bretton Woods III: The Framework",
-                "href": "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/"
+                "title": "The patent office is about to make bad patents untouchable",
+                "href": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"
             },
             {
                 "title": "Thunderbird adds native Microsoft Exchange email support",
@@ -798,60 +859,44 @@
                 "href": "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html"
             },
             {
-                "title": "The Death of Arduino?",
-                "href": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H"
+                "title": "Linux Career Opportunities in 2025: Skills in High Demand",
+                "href": "https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/"
             },
             {
-                "title": "The patent office is about to make bad patents untouchable",
-                "href": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"
+                "title": "Launch HN: Mosaic (YC W25) \u2013 Agentic Video Editing",
+                "href": "https://mosaic.so"
             },
             {
                 "title": "Vortex: An extensible, state of the art columnar file format",
                 "href": "https://github.com/vortex-data/vortex"
             },
             {
-                "title": "Tailscale Down",
-                "href": "https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC"
+                "title": "Branching with or Without PII: The Future of Environments",
+                "href": "https://neon.com/blog/branching-environments-anonymized-pii"
             },
             {
-                "title": "Why CUDA translation wont unlock AMD",
-                "href": "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/"
+                "title": "Cognitive and mental health correlates of short-form video use",
+                "href": "https://psycnet.apa.org/fulltext/2026-89350-001.html"
             },
             {
-                "title": "A $1k AWS mistake",
-                "href": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/"
+                "title": "How to identify a prime number without a computer",
+                "href": "https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/"
             },
             {
-                "title": "Show HN: DNS Benchmark Tool \u2013 Compare and monitor resolvers",
-                "href": "https://github.com/frankovo/dns-benchmark-tool"
+                "title": "The Death of Arduino?",
+                "href": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H"
             },
             {
-                "title": "Roblox Requires Age Checks for Communication, Ushering in New Safety Standard",
-                "href": "https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat"
-            },
-            {
-                "title": "The Subversive Hyperlink",
-                "href": "https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/"
-            },
-            {
-                "title": "Exploring the limits of large language models as quant traders",
-                "href": "https://nof1.ai/blog/TechPost1"
-            },
-            {
-                "title": "Control LLM Spend and Access with any-LLM-gateway",
-                "href": "https://blog.mozilla.ai/control-llm-spend-and-access-with-any-llm-gateway/"
+                "title": "Pozsar's Bretton Woods III: The Framework",
+                "href": "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/"
             },
             {
                 "title": "What Killed Perl?",
                 "href": "https://entropicthoughts.com/what-killed-perl"
             },
             {
-                "title": "The Future of Programming (2013) [video]",
-                "href": "https://www.youtube.com/watch?v=8pTEmbeENF4"
-            },
-            {
-                "title": "Reproducible C++ builds by logging Git hashes",
-                "href": "https://jgarby.uk/posts/git_repr/"
+                "title": "A $1k AWS mistake",
+                "href": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/"
             }
         ]
     }
