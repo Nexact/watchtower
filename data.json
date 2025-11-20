@@ -55,12 +55,12 @@
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
             },
             {
-                "title": "Are large language models worth it?",
-                "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
-            },
-            {
                 "title": "Precise geolocation via Wi-Fi Positioning System",
                 "href": "https://www.amoses.dev/blog/wifi-location/"
+            },
+            {
+                "title": "Are large language models worth it?",
+                "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
             },
             {
                 "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
@@ -71,12 +71,20 @@
                 "href": "https://withblue.ink/2025/11/19/distributed-actors-model.html"
             },
             {
+                "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
+                "href": "https://julianyap.com/posts/2025-11-16-1763340628/"
+            },
+            {
                 "title": "Inside a global campaign hijacking open-source project identities",
                 "href": "https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/"
             },
             {
                 "title": "Hachi:  An Image search engine",
                 "href": "https://eagledot.xyz/hachi.md.html"
+            },
+            {
+                "title": "50th anniversary of BITBLT",
+                "href": "https://mastodon.sdf.org/@fvzappa/115574872559813280"
             },
             {
                 "title": "A surprise with how '#!' handles its program argument in practice",
@@ -87,20 +95,12 @@
                 "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/"
             },
             {
-                "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
-                "href": "https://julianyap.com/posts/2025-11-16-1763340628/"
-            },
-            {
                 "title": "My next chapter with Mastodon",
                 "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
             },
             {
                 "title": "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
                 "href": "https://github.com/cloudflare/vibesdk"
-            },
-            {
-                "title": "50th anniversary of BITBLT",
-                "href": "https://mastodon.sdf.org/@fvzappa/115574872559813280"
             }
         ]
     },
@@ -122,6 +122,14 @@
             {
                 "title": "RCE via a malicious SVG in mPDF",
                 "href": "https://old.reddit.com/r/netsec/comments/1p1hrnq/rce_via_a_malicious_svg_in_mpdf/"
+            },
+            {
+                "title": "Breaking Oracle\u2019s Identity Manager: Pre-Auth RCE (CVE-2025-61757)",
+                "href": "https://old.reddit.com/r/netsec/comments/1p1siyi/breaking_oracles_identity_manager_preauth_rce/"
+            },
+            {
+                "title": "HelixGuard uncovers malicious \"spellchecker\" packages on PyPI using multi-layer encryption to steal crypto wallets.",
+                "href": "https://old.reddit.com/r/netsec/comments/1p1svnz/helixguard_uncovers_malicious_spellchecker/"
             },
             {
                 "title": "LITE XL RCE (CVE-2025-12121)",
@@ -198,14 +206,6 @@
             {
                 "title": "Implementing the Etherhiding technique",
                 "href": "https://old.reddit.com/r/netsec/comments/1orqn0f/implementing_the_etherhiding_technique/"
-            },
-            {
-                "title": "What\u2019s That Coming Over The Hill? (Monsta FTP Remote Code Execution CVE-2025-34299) - watchTowr Labs",
-                "href": "https://old.reddit.com/r/netsec/comments/1oquo6r/whats_that_coming_over_the_hill_monsta_ftp_remote/"
-            },
-            {
-                "title": "The DragonForce Cartel: Scattered Spider at the gate",
-                "href": "https://old.reddit.com/r/netsec/comments/1oqr275/the_dragonforce_cartel_scattered_spider_at_the/"
             }
         ]
     },
@@ -267,53 +267,12 @@
         ]
     },
     {
-        "feedname": "krebsonsecurity",
-        "items": [
-            {
-                "title": "The Cloudflare Outage May Be a Security Roadmap",
-                "href": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/"
-            },
-            {
-                "title": "Microsoft Patch Tuesday, November 2025 Edition",
-                "href": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/"
-            },
-            {
-                "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-                "href": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/"
-            },
-            {
-                "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
-                "href": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/"
-            },
-            {
-                "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-                "href": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
-            },
-            {
-                "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
-                "href": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/"
-            },
-            {
-                "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-                "href": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/"
-            },
-            {
-                "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-                "href": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/"
-            },
-            {
-                "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-                "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/"
-            },
-            {
-                "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
-                "href": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/"
-            }
-        ]
-    },
-    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "In the AI Race, Chinese Talent Still Drives American Research",
+                "href": "https://slashdot.org/story/25/11/19/2313246/in-the-ai-race-chinese-talent-still-drives-american-research?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "China's Diesel Trucks Are Shifting To Electric",
                 "href": "https://tech.slashdot.org/story/25/11/19/2256247/chinas-diesel-trucks-are-shifting-to-electric?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -369,10 +328,6 @@
             {
                 "title": "The Growing Problem With China's Unreliable Numbers",
                 "href": "https://slashdot.org/story/25/11/19/1635239/the-growing-problem-with-chinas-unreliable-numbers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "More Than 60 US and Canadian Police Units Now Use Boston Dynamics' Robot Dog",
-                "href": "https://hardware.slashdot.org/story/25/11/19/1622209/more-than-60-us-and-canadian-police-units-now-use-boston-dynamics-robot-dog?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -783,20 +738,8 @@
                 "href": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/"
             },
             {
-                "title": "Jailbreaking AI Models to Phish Elderly Victims",
-                "href": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish"
-            },
-            {
-                "title": "Blame as a Service",
-                "href": "https://www.humaninvariant.com/blog/blame"
-            },
-            {
                 "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
                 "href": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx"
-            },
-            {
-                "title": "Workday to acquire Pipedream",
-                "href": "https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream"
             },
             {
                 "title": "Researchers discover security vulnerability in WhatsApp",
@@ -815,52 +758,68 @@
                 "href": "https://openai.com/index/gpt-5-1-codex-max/"
             },
             {
+                "title": "Workday to acquire Pipedream",
+                "href": "https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream"
+            },
+            {
                 "title": "Precise geolocation via Wi-Fi Positioning System",
                 "href": "https://www.amoses.dev/blog/wifi-location/"
             },
             {
-                "title": "Crypto got everything it wanted. Now it's sinking",
-                "href": "https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking"
+                "title": "Robert Louis Stevenson's Art of Living (and Dying)",
+                "href": "https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/"
             },
             {
-                "title": "Microsoft AI CEO pushes back against critics after recent Windows AI backlash",
-                "href": "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me"
+                "title": "Launch HN: Mosaic (YC W25) \u2013 Agentic Video Editing",
+                "href": "https://mosaic.so"
             },
             {
                 "title": "What really happened with the CIA and The Paris Review?",
                 "href": "https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/"
             },
             {
-                "title": "How Slide Rules Work",
-                "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
+                "title": "Measuring the impact of AI scams on the elderly",
+                "href": "https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish"
+            },
+            {
+                "title": "Three Hapsburgs and a Reporter Walk into a Canadian Vault",
+                "href": "https://www.nytimes.com/2025/11/16/insider/florentine-diamond-hapsburgs.html"
+            },
+            {
+                "title": "What Influence Has the BBC Had on History?",
+                "href": "https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history"
             },
             {
                 "title": "AI is a front for consolidation of resources and power",
                 "href": "https://www.chrbutler.com/what-ai-is-really-for"
             },
             {
-                "title": "Gaming on Linux has never been more approachable",
-                "href": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos"
+                "title": "How Slide Rules Work",
+                "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
             },
             {
                 "title": "Larry Summers resigns from OpenAI board",
                 "href": "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html"
             },
             {
-                "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
-                "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/"
+                "title": "Gaming on Linux has never been more approachable",
+                "href": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos"
             },
             {
                 "title": "Thunderbird adds native Microsoft Exchange email support",
                 "href": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/"
             },
             {
-                "title": "The patent office is about to make bad patents untouchable",
-                "href": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"
+                "title": "Blame as a Service",
+                "href": "https://www.humaninvariant.com/blog/blame"
             },
             {
-                "title": "Why CUDA translation wont unlock AMD",
-                "href": "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/"
+                "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
+                "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/"
+            },
+            {
+                "title": "The patent office is about to make bad patents untouchable",
+                "href": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"
             },
             {
                 "title": "Vortex: An extensible, state of the art columnar file format",
@@ -871,32 +830,28 @@
                 "href": "https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html"
             },
             {
-                "title": "Launch HN: Mosaic (YC W25) \u2013 Agentic Video Editing",
-                "href": "https://mosaic.so"
+                "title": "Microsoft AI CEO pushes back against critics after recent Windows AI backlash",
+                "href": "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me"
             },
             {
-                "title": "Cognitive and mental health correlates of short-form video use",
-                "href": "https://psycnet.apa.org/fulltext/2026-89350-001.html"
+                "title": "CornHub",
+                "href": "https://cornhub.website/"
             },
             {
                 "title": "Branching with or Without PII: The Future of Environments",
                 "href": "https://neon.com/blog/branching-environments-anonymized-pii"
             },
             {
-                "title": "Pozsar's Bretton Woods III: The Framework",
-                "href": "https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/"
+                "title": "Cognitive and mental health correlates of short-form video use",
+                "href": "https://psycnet.apa.org/fulltext/2026-89350-001.html"
             },
             {
                 "title": "Measuring political bias in Claude",
                 "href": "https://www.anthropic.com/news/political-even-handedness"
             },
             {
-                "title": "The Death of Arduino?",
-                "href": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H"
-            },
-            {
-                "title": "Linux Career Opportunities in 2025: Skills in High Demand",
-                "href": "https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/"
+                "title": "Why CUDA translation wont unlock AMD",
+                "href": "https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/"
             }
         ]
     }
