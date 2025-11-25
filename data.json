@@ -15,12 +15,24 @@
                 "href": "https://lemire.me/blog/2025/11/23/how-good-are-chinese-cpus-benchmarking-the-loongson-3a6000/"
             },
             {
+                "title": "Quick tutorial to get started on Org Social",
+                "href": "https://en.andros.dev/blog/ddd78757/quick-tutorial-to-get-started-on-org-social/"
+            },
+            {
+                "title": "emacs for code editing",
+                "href": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"
+            },
+            {
                 "title": "Why I (still) love Linux",
                 "href": "https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/"
             },
             {
                 "title": "RuBee",
                 "href": "https://computer.rip/2025-11-22-RuBee.html"
+            },
+            {
+                "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
+                "href": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/"
             },
             {
                 "title": "edn.c: A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration",
@@ -31,24 +43,12 @@
                 "href": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
             },
             {
-                "title": "emacs for code editing",
-                "href": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"
-            },
-            {
-                "title": "Quick tutorial to get started on Org Social",
-                "href": "https://en.andros.dev/blog/ddd78757/quick-tutorial-to-get-started-on-org-social/"
-            },
-            {
                 "title": "World's Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
                 "href": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/"
             },
             {
                 "title": "Shai-Hulud Returns: Over 300 NPM Packages infected via Fake Bun Runtime Within Hours",
                 "href": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
-            },
-            {
-                "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
-                "href": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/"
             },
             {
                 "title": "Optique 0.7.0: Smarter error messages and validation library integrations",
@@ -59,6 +59,10 @@
                 "href": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/"
             },
             {
+                "title": "The Lambda Papers (transcribed)",
+                "href": "https://research.scheme.org/"
+            },
+            {
                 "title": "Event Design for Streaming Systems: A Primer",
                 "href": "https://www.iankduncan.com/engineering/2025-11-14-event-design-for-streaming-systems"
             },
@@ -67,8 +71,12 @@
                 "href": "https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/"
             },
             {
-                "title": "The Lambda Papers (transcribed)",
-                "href": "https://research.scheme.org/"
+                "title": "The Promise of P-Graphs",
+                "href": "https://pavpanchekha.com/blog/p-graphs.html"
+            },
+            {
+                "title": "Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation",
+                "href": "https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf"
             },
             {
                 "title": "Is LaTeX worth it? (2023)",
@@ -93,14 +101,6 @@
             {
                 "title": "Open Source Has Too Many Parasocial Relationships",
                 "href": "https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/"
-            },
-            {
-                "title": "Alice - new build system for Ocaml",
-                "href": "https://www.alicecaml.org/"
-            },
-            {
-                "title": "Building a Simple Search Engine That Actually Works",
-                "href": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Unpowered SSDs in Your Drawer Are Slowly Losing Data",
+                "href": "https://hardware.slashdot.org/story/25/11/25/1511242/unpowered-ssds-in-your-drawer-are-slowly-losing-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Singapore Orders Apple, Google To Prevent Government Spoofing on Messaging Platforms",
                 "href": "https://apple.slashdot.org/story/25/11/25/1446250/singapore-orders-apple-google-to-prevent-government-spoofing-on-messaging-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Americans Are Holding Onto Devices Longer Than Ever",
                 "href": "https://slashdot.org/story/25/11/24/1754230/americans-are-holding-onto-devices-longer-than-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Udio Users Can't Download Their AI Music Creations Anymore",
-                "href": "https://entertainment.slashdot.org/story/25/11/24/1845207/udio-users-cant-download-their-ai-music-creations-anymore?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -779,36 +779,32 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Apt Rust requirement raises questions",
-                "href": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/"
-            },
-            {
                 "title": "Launch HN: Onyx (YC W24) \u2013 The open-source chat UI",
                 "href": "item?id=46045987"
-            },
-            {
-                "title": "Pebble Watch software is now open source",
-                "href": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source"
             },
             {
                 "title": "Human brains are preconfigured with instructions for understanding the world",
                 "href": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/"
             },
             {
-                "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
-                "href": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/"
+                "title": "Pebble Watch software is now open source",
+                "href": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source"
             },
             {
                 "title": "Meta Segment Anything Model 3",
                 "href": "https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1"
             },
             {
+                "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
+                "href": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/"
+            },
+            {
                 "title": "Making Crash Bandicoot (2011)",
                 "href": "https://all-things-andy-gavin.com/video-games/making-crash/"
             },
             {
-                "title": "Brain has five 'eras' with adult mode not starting until early 30s",
-                "href": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study"
+                "title": "Apt Rust requirement raises questions",
+                "href": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/"
             },
             {
                 "title": "Unpowered SSDs slowly lose data",
@@ -819,16 +815,20 @@
                 "href": "https://www.svendewaerhert.com/blog/nearby-peer-discovery/"
             },
             {
+                "title": "Brain has five 'eras' with adult mode not starting until early 30s",
+                "href": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study"
+            },
+            {
                 "title": "Broccoli Man, Remastered",
                 "href": "https://mbleigh.dev/posts/broccoli-man-remastered/"
             },
             {
-                "title": "Using an Array of Needles to Create Solid Knitted Shapes",
-                "href": "https://dl.acm.org/doi/10.1145/3746059.3747759"
-            },
-            {
                 "title": "Claude Advanced Tool Use",
                 "href": "https://www.anthropic.com/engineering/advanced-tool-use"
+            },
+            {
+                "title": "Using an Array of Needles to Create Solid Knitted Shapes",
+                "href": "https://dl.acm.org/doi/10.1145/3746059.3747759"
             },
             {
                 "title": "Mary Beard: Hollywood Lied to You About Ancient Rome. Here's the Truth",
@@ -851,10 +851,6 @@
                 "href": "https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html"
             },
             {
-                "title": "Rethinking C++: Architecture, Concepts, and Responsibility",
-                "href": "https://blogs.embarcadero.com/rethinking-c-architecture-concepts-and-responsibility/"
-            },
-            {
                 "title": "Implications of AI to schools",
                 "href": "https://twitter.com/karpathy/status/1993010584175141038"
             },
@@ -867,12 +863,12 @@
                 "href": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
             },
             {
-                "title": "Show HN: OCR Arena \u2013 A playground for OCR models",
-                "href": "https://www.ocrarena.ai/battle"
-            },
-            {
                 "title": "What OpenAI did when ChatGPT users lost touch with reality",
                 "href": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html"
+            },
+            {
+                "title": "Show HN: OCR Arena \u2013 A playground for OCR models",
+                "href": "https://www.ocrarena.ai/battle"
             },
             {
                 "title": "The history of Indian science fiction",
@@ -883,20 +879,24 @@
                 "href": "https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/"
             },
             {
-                "title": "Dumb Ways to Die: Printed Ephemera",
-                "href": "https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/"
-            },
-            {
                 "title": "Claude Opus 4.5",
                 "href": "https://www.anthropic.com/news/claude-opus-4-5"
             },
             {
-                "title": "Google's new 'Aluminium OS' project brings Android to PC",
-                "href": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/"
+                "title": "Dumb Ways to Die: Printed Ephemera",
+                "href": "https://ilovetypography.com/2025/11/19/dumb-ways-to-die-printed-ephemera/"
             },
             {
                 "title": "Chrome Jpegxl Issue Reopened",
                 "href": "https://issues.chromium.org/issues/40168998"
+            },
+            {
+                "title": "Mind-reading devices can now predict preconscious thoughts",
+                "href": "https://www.nature.com/articles/d41586-025-03714-0"
+            },
+            {
+                "title": "Google's new 'Aluminium OS' project brings Android to PC",
+                "href": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/"
             }
         ]
     }
