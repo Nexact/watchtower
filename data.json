@@ -23,6 +23,10 @@
                 "href": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
             },
             {
+                "title": "I want a better build executor",
+                "href": "https://jyn.dev/i-want-a-better-build-executor/"
+            },
+            {
                 "title": "How to speed up the Rust compiler in December 2025",
                 "href": "https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html"
             },
@@ -43,10 +47,6 @@
                 "href": "https://nobloat.org/articles/2025-07-01-hello-blog.html"
             },
             {
-                "title": "I want a better build executor",
-                "href": "https://jyn.dev/i-want-a-better-build-executor/"
-            },
-            {
                 "title": "Eventual Rust in CPython",
                 "href": "https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/"
             },
@@ -65,6 +65,10 @@
             {
                 "title": "SVG Filters - Clickjacking 2.0",
                 "href": "https://lyra.horse/blog/2025/12/svg-clickjacking/"
+            },
+            {
+                "title": "What's the Point of Learning Functional Programming?",
+                "href": "https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -97,10 +101,6 @@
             {
                 "title": "Should CSS be Constraints?",
                 "href": "https://pavpanchekha.com/blog/why-css-bad.html"
-            },
-            {
-                "title": "Why We Built Lightpanda in Zig",
-                "href": "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig"
             }
         ]
     },
@@ -263,6 +263,51 @@
             {
                 "title": "CISA warns of Chinese \"BrickStorm\" malware attacks on VMware servers",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/"
+            }
+        ]
+    },
+    {
+        "feedname": "krebsonsecurity",
+        "items": [
+            {
+                "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+                "href": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/"
+            },
+            {
+                "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
+                "href": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/"
+            },
+            {
+                "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+                "href": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/"
+            },
+            {
+                "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+                "href": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/"
+            },
+            {
+                "title": "The Cloudflare Outage May Be a Security Roadmap",
+                "href": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/"
+            },
+            {
+                "title": "Microsoft Patch Tuesday, November 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/"
+            },
+            {
+                "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+                "href": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/"
+            },
+            {
+                "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
+                "href": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/"
+            },
+            {
+                "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+                "href": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
+            },
+            {
+                "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
+                "href": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/"
             }
         ]
     },
@@ -734,28 +779,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Self-hosting my photos with Immich",
-                "href": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/"
-            },
-            {
                 "title": "I cracked a $200 software protection with xcopy",
                 "href": "https://www.ud2.rip/blog/enigma-protector/"
+            },
+            {
+                "title": "Self-hosting my photos with Immich",
+                "href": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/"
             },
             {
                 "title": "Nook Browser",
                 "href": "https://browsewithnook.com"
             },
             {
-                "title": "Have I been Flocked? \u2013 Check if your license plate is being watched",
-                "href": "https://haveibeenflocked.com/"
-            },
-            {
                 "title": "Cloudflare outage on December 5, 2025",
                 "href": "https://blog.cloudflare.com/5-december-2025-outage/"
             },
             {
-                "title": "Albert Michelson's Harmonic Analyzer (2014) [pdf]",
-                "href": "https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf"
+                "title": "Have I been Flocked? \u2013 Check if your license plate is being watched",
+                "href": "https://haveibeenflocked.com/"
             },
             {
                 "title": "Leaving Intel",
@@ -766,36 +807,48 @@
                 "href": "https://blog.google/technology/developers/gemini-3-pro-vision/"
             },
             {
-                "title": "Extra Instructions Of The 65XX Series CPU (1996)",
-                "href": "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes"
+                "title": "Albert Michelson's Harmonic Analyzer (2014) [pdf]",
+                "href": "https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf"
+            },
+            {
+                "title": "PalmOS on FisherPrice Pixter Toy",
+                "href": "https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter"
             },
             {
                 "title": "Netflix to Acquire Warner Bros",
                 "href": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros"
             },
             {
-                "title": "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
-                "href": "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml"
+                "title": "Extra Instructions Of The 65XX Series CPU (1996)",
+                "href": "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes"
+            },
+            {
+                "title": "Ivan Sutherland Sketchpad Demo 1963 [video]",
+                "href": "https://www.youtube.com/watch?v=6orsmFndx_o"
             },
             {
                 "title": "Frinkiac \u2013 3M \"The Simpsons\" Screencaps",
                 "href": "https://frinkiac.com/"
             },
             {
-                "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
-                "href": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg"
+                "title": "Most technical problems are people problems",
+                "href": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html"
+            },
+            {
+                "title": "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
+                "href": "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml"
             },
             {
                 "title": "Perpetual futures, explained",
                 "href": "https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/"
             },
             {
-                "title": "Most technical problems are people problems",
-                "href": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html"
+                "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
+                "href": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg"
             },
             {
-                "title": "Ivan Sutherland Sketchpad Demo 1963 [video]",
-                "href": "https://www.youtube.com/watch?v=6orsmFndx_o"
+                "title": "Guide to making a CHIP-8 emulator (2020)",
+                "href": "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"
             },
             {
                 "title": "Idempotency keys for exactly-once processing",
@@ -804,10 +857,6 @@
             {
                 "title": "Patterns for Defensive Programming in Rust",
                 "href": "https://corrode.dev/blog/defensive-programming/"
-            },
-            {
-                "title": "Guide to making a CHIP-8 emulator",
-                "href": "https://tobiasvl.github.io/blog/write-a-chip-8-emulator/"
             },
             {
                 "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
@@ -826,16 +875,16 @@
                 "href": "https://hackclub.com/fiscal-sponsorship/mobile/"
             },
             {
-                "title": "PalmOS on FisherPrice Pixter Toy",
-                "href": "https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter"
-            },
-            {
                 "title": "Tides are weirder than you think",
                 "href": "https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/"
             },
             {
-                "title": "Sam Altman\u2019s DRAM Deal",
-                "href": "https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal"
+                "title": "The missing standard library for multithreading in JavaScript",
+                "href": "https://github.com/W4G1/multithreading"
+            },
+            {
+                "title": "Making RSS More Fun",
+                "href": "https://matduggan.com/making-rss-more-fun/"
             },
             {
                 "title": "Frank Gehry has died",
@@ -846,12 +895,8 @@
                 "href": "item?id=46163977"
             },
             {
-                "title": "EU hits X with \u20ac120M fine for breaching the Digital Services Act",
-                "href": "https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724"
-            },
-            {
-                "title": "The missing standard library for multithreading in JavaScript",
-                "href": "https://github.com/W4G1/multithreading"
+                "title": "Sam Altman\u2019s DRAM Deal",
+                "href": "https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal"
             }
         ]
     }
