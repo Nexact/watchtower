@@ -11,6 +11,10 @@
                 "href": "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life"
             },
             {
+                "title": "Go proposal: Secret mode",
+                "href": "https://antonz.org/accepted/runtime-secret/"
+            },
+            {
                 "title": "Icons in Menus Everywhere \u2014 Send Help",
                 "href": "https://blog.jim-nielsen.com/2025/icons-in-menus/"
             },
@@ -21,10 +25,6 @@
             {
                 "title": "Factor 0.101 now available",
                 "href": "https://re.factorcode.org/2025/12/factor-0-101-now-available.html"
-            },
-            {
-                "title": "Go proposal: Secret mode",
-                "href": "https://antonz.org/accepted/runtime-secret/"
             },
             {
                 "title": "Metacode: The new standard for machine-readable comments for Python",
@@ -39,6 +39,14 @@
                 "href": "https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/"
             },
             {
+                "title": "39C3 Fahrplan 2025",
+                "href": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/"
+            },
+            {
+                "title": "Fighting the Client Spaghetti Monster with Rust Traits",
+                "href": "http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/"
+            },
+            {
                 "title": "Deprecations via warnings don\u2019t work for Python libraries",
                 "href": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries"
             },
@@ -47,12 +55,16 @@
                 "href": "https://nova-lang.net/"
             },
             {
-                "title": "39C3 Fahrplan 2025",
-                "href": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/"
-            },
-            {
                 "title": "UringMachine Benchmarks",
                 "href": "https://github.com/digital-fabric/uringmachine/blob/main/benchmark/README.md"
+            },
+            {
+                "title": "No ARIA is better than Bad ARIA",
+                "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/"
+            },
+            {
+                "title": "TextKit 2 - the promised land",
+                "href": "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/"
             },
             {
                 "title": "Compiler Engineering in Practice - Part 1: What is a Compiler?",
@@ -63,28 +75,24 @@
                 "href": "https://mastodon.pirateparty.be/@surfhosting/115674236291033568"
             },
             {
-                "title": "xkcd 1313: Regex Golf (2014)",
-                "href": "https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb"
-            },
-            {
-                "title": "No ARIA is better than Bad ARIA",
-                "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/"
+                "title": "Addressing Linux's Missing PKI Infrastructure",
+                "href": "https://discourse.ubuntu.com/t/addressing-linuxs-missing-pki-infrastructure/73314"
             },
             {
                 "title": "Disagreements over post-quantum encryption for TLS",
                 "href": "https://lwn.net/SubscriberLink/1048978/8efe916082e53bfe/"
             },
             {
+                "title": "xkcd 1313: Regex Golf (2014)",
+                "href": "https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb"
+            },
+            {
+                "title": "Zig asserts are not C asserts",
+                "href": "https://cryptocode.github.io/blog/docs/assert/"
+            },
+            {
                 "title": "Semi-Interactive Assembly Verification in Knuckledragger",
                 "href": "https://www.philipzucker.com/asm_verify4/"
-            },
-            {
-                "title": "Addressing Linux's Missing PKI Infrastructure",
-                "href": "https://discourse.ubuntu.com/t/addressing-linuxs-missing-pki-infrastructure/73314"
-            },
-            {
-                "title": "TextKit 2 - the promised land",
-                "href": "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/"
             },
             {
                 "title": "A New Way to Watch Your Linux System Work",
@@ -93,14 +101,6 @@
             {
                 "title": "Practical guide to XHTML (2021)",
                 "href": "https://www.nayuki.io/page/practical-guide-to-xhtml"
-            },
-            {
-                "title": "An apologia for lazy evaluation",
-                "href": "https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html"
-            },
-            {
-                "title": "Why the Sanitizer API is just `setHTML()`",
-                "href": "https://frederikbraun.de/why-sethtml.html"
             }
         ]
     },
@@ -376,6 +376,10 @@
                 "href": "https://blog.talosintelligence.com/byovd-loader-deadlock-ransomware/"
             },
             {
+                "title": "New in Snort3: Enhanced rule grouping for greater flexibility and control",
+                "href": "https://blog.talosintelligence.com/new-in-snort3-enhanced-rule-grouping-for-greater-flexibility-and-control/"
+            },
+            {
                 "title": "Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities",
                 "href": "https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/"
             },
@@ -402,10 +406,6 @@
             {
                 "title": "Bill Largent: On epic reads, lifelong learning, and empathy",
                 "href": "https://blog.talosintelligence.com/bill-largent-on-epic-reads-lifelong-learning-and-empathy/"
-            },
-            {
-                "title": "New in Snort3: Enhanced rule grouping for greater flexibility and control",
-                "href": "https://blog.talosintelligence.com/new-in-snort3-enhanced-rule-grouping-for-greater-flexibility-and-control/"
             },
             {
                 "title": "Viasat and the terrible, horrible, no good, very bad day",
@@ -771,8 +771,24 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "New Pebble Device",
+                "href": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain"
+            },
+            {
+                "title": "Kaiju \u2013 General purpose 3D/2D game engine in Go and Vulkan with built in editor",
+                "href": "https://github.com/KaijuEngine/kaiju"
+            },
+            {
                 "title": "LLM from scratch, part 28 \u2013 training a base model from scratch on an RTX 3090",
                 "href": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch"
+            },
+            {
+                "title": "Show HN: AlgoDrill \u2013 Interactive drills to stop forgetting LeetCode patterns",
+                "href": "https://algodrill.io"
+            },
+            {
+                "title": "Engineers: Stop trying to win other people's game",
+                "href": "https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior"
             },
             {
                 "title": "The Joy of Playing Grandia, on Sega Saturn",
@@ -783,20 +799,20 @@
                 "href": "https://www.arxiv.org/pdf/2511.10811"
             },
             {
-                "title": "Why frozen test fixtures are a problem on large projects and how to avoid them",
-                "href": "https://radanskoric.com/articles/frozen-test-fixtures"
-            },
-            {
                 "title": "Constructing the Word's First JPEG XL MD5 Hash Quine",
                 "href": "https://stackchk.fail/blog/jxl_hashquine_writeup"
             },
             {
-                "title": "Show HN: AlgoDrill \u2013 Interactive drills to stop forgetting LeetCode patterns",
-                "href": "https://algodrill.io"
+                "title": "Apple's Slow AI Pace Becomes a Strength as Market Grows Weary of Spending",
+                "href": "https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html"
             },
             {
                 "title": "Icons in Menus Everywhere \u2013 Send Help",
                 "href": "https://blog.jim-nielsen.com/2025/icons-in-menus/"
+            },
+            {
+                "title": "The Gamma Language",
+                "href": "https://lair.masot.net/gamma/"
             },
             {
                 "title": "Brent's Encapsulated C Programming Rules (2020)",
@@ -807,12 +823,12 @@
                 "href": "https://airbus-seclab.github.io/qemu_blog/tcg_p1.html"
             },
             {
-                "title": "Epsilon: A WASM virtual machine written in Go",
-                "href": "https://github.com/ziggy42/epsilon"
-            },
-            {
                 "title": "ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades",
                 "href": "https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/"
+            },
+            {
+                "title": "Epsilon: A WASM virtual machine written in Go",
+                "href": "https://github.com/ziggy42/epsilon"
             },
             {
                 "title": "The universal weight subspace hypothesis",
@@ -823,12 +839,16 @@
                 "href": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/"
             },
             {
-                "title": "Show HN: I built a system for active note-taking in regular meetings like 1-1s",
-                "href": "https://withdocket.com"
+                "title": "30 Year Anniversary of WarCraft II: Tides of Darkness",
+                "href": "https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z"
             },
             {
-                "title": "Rahm Emanuel says U.S. should follow Australia's youth social media ban",
-                "href": "https://www.politico.com/news/2025/12/09/rahm-emanuel-says-u-s-should-follow-australias-youth-social-media-ban-00682185"
+                "title": "No ARIA is better than bad ARIA",
+                "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/"
+            },
+            {
+                "title": "Show HN: I built a system for active note-taking in regular meetings like 1-1s",
+                "href": "https://withdocket.com"
             },
             {
                 "title": "Manual: Spaces",
@@ -839,20 +859,12 @@
                 "href": "https://jepsen.io/analyses/nats-2.12.1"
             },
             {
-                "title": "30 Year Anniversary of WarCraft II: Tides of Darkness",
-                "href": "https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z"
-            },
-            {
                 "title": "Strong earthquake hits northern Japan, tsunami warning issued",
                 "href": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/"
             },
             {
                 "title": "Mazda suitcase car, a portable three-wheeled vehicle that fits in the luggage",
                 "href": "https://www.designboom.com/technology/rediscover-mazda-suitcase-car-portable-three-wheeled-vehicle-fits-luggage-12-06-2025/"
-            },
-            {
-                "title": "No ARIA is better than bad ARIA",
-                "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/"
             },
             {
                 "title": "Microsoft increases Office 365 and Microsoft 365 license prices",
@@ -877,18 +889,6 @@
             {
                 "title": "IBM to acquire Confluent",
                 "href": "https://www.confluent.io/blog/ibm-to-acquire-confluent/"
-            },
-            {
-                "title": "AMD GPU Debugger",
-                "href": "https://thegeeko.me/blog/amd-gpu-debugging/"
-            },
-            {
-                "title": "Horses: AI progress is steady. Human equivalence is sudden",
-                "href": "https://andyljones.com/posts/horses.html"
-            },
-            {
-                "title": "Hunting for North Korean Fiber Optic Cables",
-                "href": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/"
             }
         ]
     }
