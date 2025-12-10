@@ -1,5 +1,110 @@
 [
     {
+        "feedname": "lobster",
+        "items": [
+            {
+                "title": "Rust in the kernel is no longer experimental",
+                "href": "https://lwn.net/Articles/1049831/"
+            },
+            {
+                "title": "How Google Maps quietly allocates survival across London\u2019s restaurants - and how I built a dashboard to see through it",
+                "href": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates"
+            },
+            {
+                "title": "Stop Breaking TLS",
+                "href": "https://www.markround.com/blog/2025/12/09/stop-breaking-tls/"
+            },
+            {
+                "title": "Size of Life",
+                "href": "https://neal.fun/size-of-life/"
+            },
+            {
+                "title": "You Don't Need an ORM",
+                "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs"
+            },
+            {
+                "title": "New tag suggestion: \"genai-assisted\"",
+                "href": "https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted"
+            },
+            {
+                "title": "Do Not Optimize Away",
+                "href": "https://matklad.github.io/2025/12/09/do-not-optimize-away.html"
+            },
+            {
+                "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
+                "href": "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html"
+            },
+            {
+                "title": "Zig asserts are not C asserts",
+                "href": "https://cryptocode.github.io/blog/docs/assert/"
+            },
+            {
+                "title": "Revisiting \"Let's Build a Compiler\"",
+                "href": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/"
+            },
+            {
+                "title": "why i think jj-vcs is worth your time",
+                "href": "https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time"
+            },
+            {
+                "title": "Join the on-call roster, it\u2019ll change your life",
+                "href": "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life"
+            },
+            {
+                "title": "Go proposal: Secret mode",
+                "href": "https://antonz.org/accepted/runtime-secret/"
+            },
+            {
+                "title": "Gin is a very bad software library",
+                "href": "https://eblog.fly.dev/ginbad.html"
+            },
+            {
+                "title": "RFC 9180 Hybrid Public Key Encryption",
+                "href": "https://www.rfc-editor.org/rfc/rfc9180.html"
+            },
+            {
+                "title": "My favourite small hash table",
+                "href": "https://www.corsix.org/content/my-favourite-small-hash-table"
+            },
+            {
+                "title": "Get in Line - superfast SPSC Queue",
+                "href": "https://abhikja.in/blog/2025-12-07-get-in-line/"
+            },
+            {
+                "title": "Jepsen: NATS 2.12.1",
+                "href": "https://jepsen.io/analyses/nats-2.12.1"
+            },
+            {
+                "title": "The world needs social sovereignty",
+                "href": "https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/"
+            },
+            {
+                "title": "Compressing embedded files in Go",
+                "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed"
+            },
+            {
+                "title": "Memory leak regression testing with V8/Node.js",
+                "href": "https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/"
+            },
+            {
+                "title": "SWIM: Outsourced Heartbeats",
+                "href": "https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/"
+            },
+            {
+                "title": "Multiplying our way out of division",
+                "href": "https://xania.org/202512/07-division-again"
+            },
+            {
+                "title": "Testing and Benchmarking of AI Compilers",
+                "href": "https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers"
+            },
+            {
+                "title": "Factor 0.101 now available",
+                "href": "https://re.factorcode.org/2025/12/factor-0-101-now-available.html"
+            }
+        ]
+    },
+    {
         "feedname": "netsec",
         "items": [
             {
@@ -702,16 +807,24 @@
                 "href": "https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits"
             },
             {
-                "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
-                "href": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html"
+                "title": "Is it a bubble?",
+                "href": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
             },
             {
                 "title": "Factor 0.101 now available",
                 "href": "https://re.factorcode.org/2025/12/factor-0-101-now-available.html"
             },
             {
+                "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+                "href": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html"
+            },
+            {
                 "title": "9 Mothers (YC X26) Is Hiring",
                 "href": "https://app.dover.com/jobs/9mothers"
+            },
+            {
+                "title": "Golang's big miss on memory arenas",
+                "href": "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
             },
             {
                 "title": "COM Like a Bomb: Rust Outlook Add-in",
@@ -720,14 +833,6 @@
             {
                 "title": "Launch HN: InspectMind (YC W24) \u2013 AI agent for reviewing construction drawings",
                 "href": "item?id=46219386"
-            },
-            {
-                "title": "Golang's big miss on memory arenas",
-                "href": "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
-            },
-            {
-                "title": "Is it a bubble?",
-                "href": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
             },
             {
                 "title": "RoboCrop: Teaching robots how to pick tomatoes",
@@ -742,16 +847,16 @@
                 "href": "https://www.cam.ac.uk/stories/volcanoes-black-death"
             },
             {
-                "title": "Deprecations via warnings don't work for Python libraries",
-                "href": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries"
+                "title": "Show HN: A 2-row, 16-key keyboard designed for smartphones",
+                "href": "https://k-keyboard.com/Why-QWERTY-mini"
             },
             {
                 "title": "Super-Flat ASTs",
                 "href": "https://jhwlr.io/super-flat-ast/"
             },
             {
-                "title": "Show HN: A 2-row, 16-key keyboard designed for smartphones",
-                "href": "https://k-keyboard.com/Why-QWERTY-mini"
+                "title": "Kernel Float: Unlocking Mixed-Precision GPU Programming",
+                "href": "https://dl.acm.org/doi/pdf/10.1145/3779120"
             },
             {
                 "title": "Revisiting \"Let's Build a Compiler\"",
@@ -762,36 +867,36 @@
                 "href": "https://the307.substack.com/p/revealed-israel-used-palantir-technologies"
             },
             {
-                "title": "Map of all the buildings in the world",
-                "href": "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696"
+                "title": "Show HN: Automated license plate reader coverage in the USA",
+                "href": "https://alpranalysis.com"
             },
             {
-                "title": "England Historic Aerial Photo Explorer",
-                "href": "https://historicengland.org.uk/images-books/archive/collections/aerial-photos/"
+                "title": "Map of all the buildings in the world",
+                "href": "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696"
             },
             {
                 "title": "Rust in the kernel is no longer experimental",
                 "href": "https://lwn.net/Articles/1049831/"
             },
             {
+                "title": "England Historic Aerial Photo Explorer",
+                "href": "https://historicengland.org.uk/images-books/archive/collections/aerial-photos/"
+            },
+            {
                 "title": "Cloth Simulation",
                 "href": "https://cloth.mikail-khan.com/"
+            },
+            {
+                "title": "Bruno Simon \u2013 3D Portfolio",
+                "href": "https://bruno-simon.com/"
             },
             {
                 "title": "New benchmark shows top LLMs struggle in real mental health care",
                 "href": "https://swordhealth.com/newsroom/sword-introduces-mindeval"
             },
             {
-                "title": "Show HN: MCPShark \u2013 Traffic Inspector for Model Context Protocol",
-                "href": "item?id=46220577"
-            },
-            {
-                "title": "In New York City, congestion pricing leads to marked drop in pollution",
-                "href": "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution"
-            },
-            {
-                "title": "Bruno Simon \u2013 3D Portfolio",
-                "href": "https://bruno-simon.com/"
+                "title": "When a video codec wins an Emmy",
+                "href": "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/"
             }
         ]
     }
