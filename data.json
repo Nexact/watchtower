@@ -7,6 +7,10 @@
                 "href": "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
             },
             {
+                "title": "Announcing Rust 1.92.0",
+                "href": "https://blog.rust-lang.org/2025/12/11/Rust-1.92.0"
+            },
+            {
                 "title": "The Cost Of a Closure in C",
                 "href": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y"
             },
@@ -15,24 +19,32 @@
                 "href": "https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html"
             },
             {
-                "title": "Announcing Rust 1.92.0",
-                "href": "https://blog.rust-lang.org/2025/12/11/Rust-1.92.0"
-            },
-            {
                 "title": "Using edge detection to preserve significant features while downsampling",
                 "href": "http://yogthos.net/pixel-mosaic.html"
+            },
+            {
+                "title": "Programmers and software developers lost the plot on naming their tools",
+                "href": "https://larr.net/p/namings.html"
             },
             {
                 "title": "Useful patterns for building HTML tools",
                 "href": "https://simonwillison.net/2025/Dec/10/html-tools/"
             },
             {
-                "title": "Nature's many attempts to evolve a Nostr",
-                "href": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a"
+                "title": "Cosmic Desktop is a fantastic first draft",
+                "href": "https://www.youtube.com/watch?v=ob-Y77kuVwM"
             },
             {
                 "title": "mmap in Go considered harmful",
                 "href": "https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d"
+            },
+            {
+                "title": "Nature's many attempts to evolve a Nostr",
+                "href": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a"
+            },
+            {
+                "title": "Litestream VFS",
+                "href": "https://fly.io/blog/litestream-vfs/"
             },
             {
                 "title": "A pragmatic guide to modern CSS colours - part two",
@@ -43,20 +55,16 @@
                 "href": "https://neal.fun/size-of-life/"
             },
             {
-                "title": "Programmers and software developers lost the plot on naming their tools",
-                "href": "https://larr.net/p/namings.html"
-            },
-            {
-                "title": "Cosmic Desktop is a fantastic first draft",
-                "href": "https://www.youtube.com/watch?v=ob-Y77kuVwM"
-            },
-            {
                 "title": "Fish Alpinism",
                 "href": "https://triapul.cz/_/1765291397"
             },
             {
                 "title": "CDKTF has been deprecated",
                 "href": "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af"
+            },
+            {
+                "title": "HELLDIVERS 2 - 85% reduction in install size with minimal performance impact",
+                "href": "https://store.steampowered.com/news/app/553850/view/491583942944621371"
             },
             {
                 "title": "Rust in the kernel is no longer experimental",
@@ -67,16 +75,16 @@
                 "href": "https://google.github.io/eng-practices/"
             },
             {
-                "title": "How Google Maps quietly allocates survival across London\u2019s restaurants - and how I built a dashboard to see through it",
-                "href": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates"
-            },
-            {
                 "title": "Deprecate Like You Mean It",
                 "href": "https://entropicthoughts.com/deprecate-like-you-mean-it"
             },
             {
-                "title": "Litestream VFS",
-                "href": "https://fly.io/blog/litestream-vfs/"
+                "title": "How Google Maps quietly allocates survival across London\u2019s restaurants - and how I built a dashboard to see through it",
+                "href": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates"
+            },
+            {
+                "title": "Over 10,000 Docker Hub images found leaking credentials, auth keys",
+                "href": "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/"
             },
             {
                 "title": "Compressing embedded files in Go",
@@ -89,14 +97,6 @@
             {
                 "title": "glic: Turn any (npm) library into a command-line utility",
                 "href": "https://github.com/vagos/glic"
-            },
-            {
-                "title": "HELLDIVERS 2 - 85% reduction in install size with minimal performance impact",
-                "href": "https://store.steampowered.com/news/app/553850/view/491583942944621371"
-            },
-            {
-                "title": "Over 10,000 Docker Hub images found leaking credentials, auth keys",
-                "href": "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/"
             },
             {
                 "title": "Stop Breaking TLS",
@@ -380,6 +380,10 @@
         "feedname": "ciscotalos",
         "items": [
             {
+                "title": "One newsletter to rule them all",
+                "href": "https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/"
+            },
+            {
                 "title": "Microsoft Patch Tuesday for December 2025 \u2014 Snort rules and prominent vulnerabilities",
                 "href": "https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/"
             },
@@ -434,10 +438,6 @@
             {
                 "title": "Remember, remember the fifth of November",
                 "href": "https://blog.talosintelligence.com/remember-remember-the-fifth-of-november/"
-            },
-            {
-                "title": "Do robots dream of secure networking? Teaching cybersecurity to AI systems",
-                "href": "https://blog.talosintelligence.com/do-robots-dream-of-secure-networking/"
             }
         ]
     },
@@ -779,60 +779,52 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
-                "href": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/"
-            },
-            {
-                "title": "Days since last GitHub incident",
-                "href": "https://github-incidents.pages.dev/"
-            },
-            {
                 "title": "Litestream VFS",
                 "href": "https://fly.io/blog/litestream-vfs/"
             },
             {
-                "title": "Programmers and software developers lost the plot on naming their tools",
-                "href": "https://larr.net/p/namings.html"
-            },
-            {
-                "title": "GPT-5.2",
-                "href": "https://platform.openai.com/docs/guides/latest-model"
+                "title": "Going Through Snowden Documents, Part 1",
+                "href": "https://libroot.org/posts/going-through-snowden-documents-part-1/"
             },
             {
                 "title": "GPT-5.2",
                 "href": "https://openai.com/index/introducing-gpt-5-2/"
             },
             {
-                "title": "Craft software that makes people feel something",
-                "href": "https://rapha.land/craft-software-that-makes-people-feel-something/"
+                "title": "Show HN: SIM \u2013 Apache-2.0 n8n alternative",
+                "href": "https://github.com/simstudioai/sim"
             },
             {
-                "title": "Things I want to say to my boss",
-                "href": "https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss"
+                "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+                "href": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/"
+            },
+            {
+                "title": "Craft software that makes people feel something",
+                "href": "https://rapha.land/craft-software-that-makes-people-feel-something/"
             },
             {
                 "title": "An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions",
                 "href": "https://arxiv.org/abs/2512.09643"
             },
             {
-                "title": "Show HN: SIM \u2013 Apache-2.0 n8n alternative",
-                "href": "https://github.com/simstudioai/sim"
-            },
-            {
                 "title": "Launch HN: BrowserBook (YC F24) \u2013 IDE for deterministic browser automation",
                 "href": "item?id=46232434"
-            },
-            {
-                "title": "Size of Life",
-                "href": "https://neal.fun/size-of-life/"
             },
             {
                 "title": "Show HN: I've asked Claude to improve codebase quality 200 times",
                 "href": "https://gricha.dev/blog/the-highest-quality-codebase"
             },
             {
-                "title": "Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them",
-                "href": "https://github.com/privacyshield-ai/privacy-firewall"
+                "title": "Things I want to say to my boss",
+                "href": "https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss"
+            },
+            {
+                "title": "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
+                "href": "https://chicagoreader.com/news/prove-it-all-night/"
+            },
+            {
+                "title": "Days since last GitHub incident",
+                "href": "https://github-incidents.pages.dev/"
             },
             {
                 "title": "Auto-grading decade-old Hacker News discussions with hindsight",
@@ -843,12 +835,12 @@
                 "href": "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/"
             },
             {
-                "title": "Kicking Robots",
-                "href": "https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/"
+                "title": "Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them",
+                "href": "https://github.com/privacyshield-ai/privacy-firewall"
             },
             {
-                "title": "Oldest attestation of Austronesian language: \u0110\u00f4ng Y\u00ean Ch\u00e2u inscription",
-                "href": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription"
+                "title": "GPT-5.2",
+                "href": "https://platform.openai.com/docs/guides/latest-model"
             },
             {
                 "title": "Getting a Gemini API key is an exercise in frustration",
@@ -859,8 +851,28 @@
                 "href": "https://www.patterns.dev/"
             },
             {
+                "title": "Oldest attestation of Austronesian language: \u0110\u00f4ng Y\u00ean Ch\u00e2u inscription",
+                "href": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription"
+            },
+            {
+                "title": "Deprecate like you mean it",
+                "href": "https://entropicthoughts.com/deprecate-like-you-mean-it"
+            },
+            {
+                "title": "Kicking Robots",
+                "href": "https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/"
+            },
+            {
+                "title": "Helldivers 2 on-disk size 85% reduction",
+                "href": "https://store.steampowered.com/news/app/553850/view/491583942944621371"
+            },
+            {
                 "title": "Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus",
                 "href": "item?id=46233009"
+            },
+            {
+                "title": "The Cost of a Closure in C",
+                "href": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y"
             },
             {
                 "title": "Giant of the Attic: On the Majesty of Alan Moore",
@@ -871,16 +883,8 @@
                 "href": "https://xania.org/202512/11-pop-goes-the-weasel-er-count"
             },
             {
-                "title": "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
-                "href": "https://chicagoreader.com/news/prove-it-all-night/"
-            },
-            {
-                "title": "Helldivers 2 on-disk size 85% reduction",
-                "href": "https://store.steampowered.com/news/app/553850/view/491583942944621371"
-            },
-            {
-                "title": "The Cost of a Closure in C",
-                "href": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y"
+                "title": "Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released",
+                "href": "https://blog.system76.com/post/pop-os-letter-from-our-founder/"
             },
             {
                 "title": "Disney making $1B investment in OpenAI, will allow characters on Sora AI",
@@ -891,12 +895,8 @@
                 "href": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/"
             },
             {
-                "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
-                "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
-            },
-            {
-                "title": "How Google Maps allocates survival across London's restaurants",
-                "href": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates"
+                "title": "Size of Life",
+                "href": "https://neal.fun/size-of-life/"
             }
         ]
     }
