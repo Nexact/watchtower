@@ -3,16 +3,20 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "What's the point of lightweight code with modern computers?",
-                "href": "https://liam-on-linux.dreamwidth.org/97426.html"
-            },
-            {
                 "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
                 "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
             },
             {
+                "title": "What's the point of lightweight code with modern computers?",
+                "href": "https://liam-on-linux.dreamwidth.org/97426.html"
+            },
+            {
                 "title": "Rats Play Doom",
                 "href": "https://ratsplaydoom.com/"
+            },
+            {
+                "title": "The state of the kernel Rust experiment",
+                "href": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
             },
             {
                 "title": "The Typeframe PX-88 Portable Computing System",
@@ -21,10 +25,6 @@
             {
                 "title": "Please stop using middleware to protect your routes (2024)",
                 "href": "https://pilcrowonpaper.com/blog/middleware-auth/"
-            },
-            {
-                "title": "The state of the kernel Rust experiment",
-                "href": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
             },
             {
                 "title": "Editors should have an opt-in for less assistance (2024)",
@@ -63,12 +63,16 @@
                 "href": "https://sgt.hootr.club/blog/docker-protips/"
             },
             {
+                "title": "Can I use HTTPS RRs?",
+                "href": "https://www.netmeister.org/blog/https-caniuse.html"
+            },
+            {
                 "title": "The Coming Need for Formal Specification",
                 "href": "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/"
             },
             {
-                "title": "Can I use HTTPS RRs?",
-                "href": "https://www.netmeister.org/blog/https-caniuse.html"
+                "title": "Indices point between elements (2015)",
+                "href": "https://blog.nelhage.com/2015/08/indices-point-between-elements/"
             },
             {
                 "title": "Trying manual memory management in Go",
@@ -83,10 +87,6 @@
                 "href": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html"
             },
             {
-                "title": "Indices point between elements (2015)",
-                "href": "https://blog.nelhage.com/2015/08/indices-point-between-elements/"
-            },
-            {
                 "title": "Skills vs Dynamic MCP Loadouts",
                 "href": "https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/"
             },
@@ -95,12 +95,12 @@
                 "href": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/"
             },
             {
-                "title": "Pure vs. impure iterators in Go",
-                "href": "https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/"
-            },
-            {
                 "title": "I couldn't find a logging library that worked for my library, so I made one",
                 "href": "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
+            },
+            {
+                "title": "Pure vs. impure iterators in Go",
+                "href": "https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/"
             }
         ]
     },
@@ -783,10 +783,6 @@
                 "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
             },
             {
-                "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
-                "href": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/"
-            },
-            {
                 "title": "Cryptids",
                 "href": "https://wiki.bbchallenge.org/wiki/Cryptids"
             },
@@ -795,84 +791,104 @@
                 "href": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/"
             },
             {
-                "title": "Z8086: Rebuilding the 8086 from Original Microcode",
-                "href": "https://nand2mario.github.io/posts/2025/z8086/"
-            },
-            {
-                "title": "Java FFM zero-copy transport using io_uring",
-                "href": "https://www.mvp.express/"
-            },
-            {
-                "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-                "href": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt"
+                "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
+                "href": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/"
             },
             {
                 "title": "Useful patterns for building HTML tools",
                 "href": "https://simonwillison.net/2025/Dec/10/html-tools/"
             },
             {
-                "title": "Photographer built a medium-format rangefinder, and so can you",
-                "href": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/"
+                "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+                "href": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt"
             },
             {
-                "title": "EasyPost (YC S13) Is Hiring",
-                "href": "https://www.easypost.com/careers"
+                "title": "Java FFM zero-copy transport using io_uring",
+                "href": "https://www.mvp.express/"
+            },
+            {
+                "title": "Photographer built a medium-format rangefinder",
+                "href": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/"
             },
             {
                 "title": "What is the nicest thing a stranger has ever done for you?",
                 "href": "https://louplummer.lol/nice-stranger/"
             },
             {
-                "title": "Go Proposal: Secret Mode",
-                "href": "https://antonz.org/accepted/runtime-secret/"
+                "title": "EasyPost (YC S13) Is Hiring",
+                "href": "https://www.easypost.com/careers"
+            },
+            {
+                "title": "Ask HN: How can I get better at using AI for programming?",
+                "href": "item?id=46255285"
             },
             {
                 "title": "How exchanges turn order books into distributed logs",
                 "href": "https://quant.engineering/exchange-order-book-distributed-logs.html"
             },
             {
+                "title": "Dick Van Dyke turns 100",
+                "href": "https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang"
+            },
+            {
+                "title": "Go Proposal: Secret Mode",
+                "href": "https://antonz.org/accepted/runtime-secret/"
+            },
+            {
+                "title": "Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%",
+                "href": "https://github.com/WozzHQ/wozz"
+            },
+            {
                 "title": "Researchers seeking better measures of cognitive fatigue",
                 "href": "https://www.nature.com/articles/d41586-025-03974-w"
-            },
-            {
-                "title": "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
-                "href": "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql"
-            },
-            {
-                "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
-                "href": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
             },
             {
                 "title": "GNU Unifont",
                 "href": "https://unifoundry.com/unifont/index.html"
             },
             {
+                "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
+                "href": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html"
+            },
+            {
+                "title": "Using Python for Scripting",
+                "href": "https://hypirion.com/musings/use-python-for-scripting"
+            },
+            {
                 "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
                 "href": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born"
             },
             {
-                "title": "Show HN: LinkedQL \u2013 Live Queries over Postgres, MySQL, MariaDB",
-                "href": "https://github.com/linked-db/linked-ql"
-            },
-            {
-                "title": "Building an efficient hash table in Java",
-                "href": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/"
-            },
-            {
-                "title": "Dynamic Pong Wars",
-                "href": "https://markodenic.tech/dynamic-pong-wars/"
+                "title": "Z8086: Rebuilding the 8086 from Original Microcode",
+                "href": "https://nand2mario.github.io/posts/2025/z8086/"
             },
             {
                 "title": "Rats Play DOOM",
                 "href": "https://ratsplaydoom.com/"
             },
             {
-                "title": "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
-                "href": "item?id=46252993"
+                "title": "Show HN: LinkedQL \u2013 Live Queries over Postgres, MySQL, MariaDB",
+                "href": "https://github.com/linked-db/linked-ql"
             },
             {
                 "title": "Will West Coast Jazz Get Some Respect?",
                 "href": "https://www.honest-broker.com/p/will-west-coast-jazz-finally-get"
+            },
+            {
+                "title": "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
+                "href": "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql"
+            },
+            {
+                "title": "Dynamic Pong Wars",
+                "href": "https://markodenic.tech/dynamic-pong-wars/"
+            },
+            {
+                "title": "A Giant Ball Will Help This Man Survive a Year on an Iceberg",
+                "href": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/how-giant-ball-will-help-man-survive-year-iceberg/"
+            },
+            {
+                "title": "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
+                "href": "item?id=46252993"
             },
             {
                 "title": "Beautiful Abelian Sandpiles",
@@ -881,22 +897,6 @@
             {
                 "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
                 "href": "https://simonwillison.net/2025/Dec/12/openai-skills/"
-            },
-            {
-                "title": "Show HN: I made a spreadsheet where formulas also update backwards",
-                "href": "https://victorpoughon.github.io/bidicalc/"
-            },
-            {
-                "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
-                "href": "https://github.com/ringtailsoftware/uvm32"
-            },
-            {
-                "title": "Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%",
-                "href": "https://github.com/WozzHQ/wozz"
-            },
-            {
-                "title": "Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]",
-                "href": "https://gwern.net/doc/technology/2008-sower.pdf"
             }
         ]
     }
