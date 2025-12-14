@@ -47,16 +47,16 @@
                 "href": "https://ratsplaydoom.com/"
             },
             {
+                "title": "ACME Device Attestation Extension",
+                "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/"
+            },
+            {
                 "title": "The state of the kernel Rust experiment",
                 "href": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
             },
             {
-                "title": "Myna v2.0.0 Beta: supports bold, italic, contextual alternates, and even APL programming now",
+                "title": "Myna v2.0.0 Beta: supports bold/italic, contextual alternates, and even APL programming now",
                 "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta"
-            },
-            {
-                "title": "ACME Device Attestation Extension",
-                "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/"
             },
             {
                 "title": "Indexed Reverse Polish Notation, an Alternative to AST",
@@ -67,8 +67,16 @@
                 "href": "https://www.typeframe.net/"
             },
             {
+                "title": "Go is portable, until it isn't",
+                "href": "https://simpleobservability.com/blog/go-portable-until-isnt"
+            },
+            {
                 "title": "Using nvi as a Minimal and Fast Text Editor",
                 "href": "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt"
+            },
+            {
+                "title": "Improved My Feedreader\u2019s Writing to the Web",
+                "href": "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/"
             },
             {
                 "title": "Concrete syntax matters, actually",
@@ -77,10 +85,6 @@
             {
                 "title": "Please stop using middleware to protect your routes (2024)",
                 "href": "https://pilcrowonpaper.com/blog/middleware-auth/"
-            },
-            {
-                "title": "Go is portable, until it isn't",
-                "href": "https://simpleobservability.com/blog/go-portable-until-isnt"
             },
             {
                 "title": "Faster double-to-string conversion",
@@ -97,10 +101,6 @@
             {
                 "title": "What's the point of lightweight code with modern computers?",
                 "href": "https://liam-on-linux.dreamwidth.org/97426.html"
-            },
-            {
-                "title": "The (Mostly) Complete Unicode Spiral (2022)",
-                "href": "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/"
             }
         ]
     },
@@ -779,20 +779,24 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Apple Maps claims it's 29,905 miles away",
-                "href": "https://mathstodon.xyz/@dpiponi/115651419771418748"
-            },
-            {
                 "title": "AI and the ironies of automation \u2013 Part 2",
                 "href": "https://www.ufried.com/blog/ironies_of_ai_2/"
             },
             {
-                "title": "The Gorman Paradox: Where Are All the AI-Generated Apps?",
-                "href": "https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/"
+                "title": "Apple Maps claims it's 29,905 miles away",
+                "href": "https://mathstodon.xyz/@dpiponi/115651419771418748"
             },
             {
                 "title": "Linux Sandboxes and Fil-C",
                 "href": "https://fil-c.org/seccomp"
+            },
+            {
+                "title": "Using Git add -p for fun (and profit)",
+                "href": "https://techne98.com/blog/using-git-add-p/"
+            },
+            {
+                "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
+                "href": "https://twitter.com/awnihannun/status/1943723599971443134"
             },
             {
                 "title": "Dagger: Define software delivery workflows and dev environments",
@@ -803,32 +807,28 @@
                 "href": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/"
             },
             {
-                "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
-                "href": "https://twitter.com/awnihannun/status/1943723599971443134"
-            },
-            {
-                "title": "Using Git add -p for fun (and profit)",
-                "href": "https://techne98.com/blog/using-git-add-p/"
-            },
-            {
                 "title": "Compiler Engineering in Practice",
                 "href": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html"
+            },
+            {
+                "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
+                "href": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies"
+            },
+            {
+                "title": "The Gorman Paradox: Where Are All the AI-Generated Apps?",
+                "href": "https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/"
+            },
+            {
+                "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
+                "href": "https://trigger.dev/blog/shai-hulud-postmortem"
             },
             {
                 "title": "I fed 24 years of my blog posts to a Markov model",
                 "href": "https://susam.net/fed-24-years-of-posts-to-markov-model.html"
             },
             {
-                "title": "Baumol's Cost Disease",
-                "href": "https://en.wikipedia.org/wiki/Baumol_effect"
-            },
-            {
                 "title": "Recovering Anthony Bourdain's Li.st's",
                 "href": "https://sandyuraz.com/blogs/bourdain/"
-            },
-            {
-                "title": "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
-                "href": "https://github.com/loadingalias/cargo-rail"
             },
             {
                 "title": "Cat Gap",
@@ -839,16 +839,28 @@
                 "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
             },
             {
+                "title": "Baumol's Cost Disease",
+                "href": "https://en.wikipedia.org/wiki/Baumol_effect"
+            },
+            {
+                "title": "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
+                "href": "https://github.com/loadingalias/cargo-rail"
+            },
+            {
+                "title": "Efficient Basic Coding for the ZX Spectrum",
+                "href": "https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/"
+            },
+            {
                 "title": "Lean theorem prover mathlib",
                 "href": "https://github.com/leanprover-community/mathlib4"
             },
             {
-                "title": "Create a Markdown Editor in Ruby on Rails",
-                "href": "https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html"
-            },
-            {
                 "title": "An Implementation of J (1992)",
                 "href": "https://www.jsoftware.com/ioj/ioj.htm"
+            },
+            {
+                "title": "Create a Markdown Editor in Ruby on Rails",
+                "href": "https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html"
             },
             {
                 "title": "Closures as Win32 Window Procedures",
@@ -863,12 +875,12 @@
                 "href": "https://subject.space/projects/no-tifier/"
             },
             {
-                "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
-                "href": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies"
-            },
-            {
                 "title": "Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece",
                 "href": "https://www.wired.com/2014/04/mst3k-oral-history/"
+            },
+            {
+                "title": "An off-grid, flat-packable washing machine",
+                "href": "https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/"
             },
             {
                 "title": "Useful patterns for building HTML tools",
@@ -883,20 +895,8 @@
                 "href": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain"
             },
             {
-                "title": "An off-grid, flat-packable washing machine",
-                "href": "https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/"
-            },
-            {
-                "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
-                "href": "https://trigger.dev/blog/shai-hulud-postmortem"
-            },
-            {
                 "title": "Go Proposal: Secret Mode",
                 "href": "https://antonz.org/accepted/runtime-secret/"
-            },
-            {
-                "title": "VPN location claims don't match real traffic exits",
-                "href": "https://ipinfo.io/blog/vpn-location-mismatch-report"
             }
         ]
     }
