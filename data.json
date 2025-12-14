@@ -15,12 +15,20 @@
                 "href": "https://github.com/KovalevDima/ClickHaskell"
             },
             {
-                "title": "icl: Interactive Common Lisp: an enhanced REPL",
-                "href": "https://github.com/atgreen/icl"
+                "title": "A distraction-free writing environment",
+                "href": "https://github.com/andrewmd5/dawn"
+            },
+            {
+                "title": "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
+                "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta"
             },
             {
                 "title": "Build Systems A La Carte",
                 "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf"
+            },
+            {
+                "title": "icl: Interactive Common Lisp: an enhanced REPL",
+                "href": "https://github.com/atgreen/icl"
             },
             {
                 "title": "what is a build system, anyway?",
@@ -35,16 +43,8 @@
                 "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html"
             },
             {
-                "title": "A distraction-free writing environment",
-                "href": "https://github.com/andrewmd5/dawn"
-            },
-            {
                 "title": "ACME Device Attestation Extension",
                 "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/"
-            },
-            {
-                "title": "Myna v2.0.0 Beta: supports new variants and basic APL programming",
-                "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta"
             },
             {
                 "title": "Rats Play Doom",
@@ -59,6 +59,14 @@
                 "href": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
             },
             {
+                "title": "Go is portable, until it isn't",
+                "href": "https://simpleobservability.com/blog/go-portable-until-isnt"
+            },
+            {
+                "title": "Indexed Reverse Polish Notation, an Alternative to AST",
+                "href": "https://burakemir.ch/post/indexed-rpn/"
+            },
+            {
                 "title": "Improved My Feedreader\u2019s Writing to the Web",
                 "href": "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/"
             },
@@ -67,32 +75,24 @@
                 "href": "https://www.typeframe.net/"
             },
             {
-                "title": "Indexed Reverse Polish Notation, an Alternative to AST",
-                "href": "https://burakemir.ch/post/indexed-rpn/"
-            },
-            {
                 "title": "Tier list of Linux security mechanisms (2024)",
                 "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/"
-            },
-            {
-                "title": "Go is portable, until it isn't",
-                "href": "https://simpleobservability.com/blog/go-portable-until-isnt"
-            },
-            {
-                "title": "Using nvi as a Minimal and Fast Text Editor",
-                "href": "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt"
             },
             {
                 "title": "Concrete syntax matters, actually",
                 "href": "https://www.youtube.com/watch?v=kQjrcSMYpaA"
             },
             {
-                "title": "Please stop using middleware to protect your routes (2024)",
-                "href": "https://pilcrowonpaper.com/blog/middleware-auth/"
+                "title": "Using nvi as a Minimal and Fast Text Editor",
+                "href": "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt"
             },
             {
                 "title": "Faster double-to-string conversion",
                 "href": "https://vitaut.net/posts/2025/faster-dtoa/"
+            },
+            {
+                "title": "Please stop using middleware to protect your routes (2024)",
+                "href": "https://pilcrowonpaper.com/blog/middleware-auth/"
             },
             {
                 "title": "Goodbye Microservices: From 100s of problem children to 1 superstar",
@@ -213,6 +213,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+                "href": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/"
+            },
+            {
+                "title": "CyberVolk\u2019s ransomware debut stumbles on cryptography weakness",
+                "href": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/"
+            },
+            {
                 "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/"
             },
@@ -251,18 +259,6 @@
             {
                 "title": "Brave browser starts testing agentic AI mode for automated tasks",
                 "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/"
-            },
-            {
-                "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/"
-            },
-            {
-                "title": "Notepad++ fixes flaw that let attackers push malicious update files",
-                "href": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/"
-            },
-            {
-                "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
-                "href": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/"
             }
         ]
     },
@@ -795,24 +791,36 @@
                 "href": "https://abseil.io/fast/99"
             },
             {
-                "title": "Linux Sandboxes and Fil-C",
-                "href": "https://fil-c.org/seccomp"
+                "title": "Vacuum Is a Lie: About Your Indexes",
+                "href": "https://boringsql.com/posts/vacuum-is-lie/"
             },
             {
                 "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
                 "href": "https://trigger.dev/blog/shai-hulud-postmortem"
             },
             {
+                "title": "Linux Sandboxes and Fil-C",
+                "href": "https://fil-c.org/seccomp"
+            },
+            {
                 "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
                 "href": "https://twitter.com/awnihannun/status/1943723599971443134"
+            },
+            {
+                "title": "Efficient Basic Coding for the ZX Spectrum",
+                "href": "https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/"
+            },
+            {
+                "title": "Compiler Engineering in Practice",
+                "href": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html"
             },
             {
                 "title": "Dagger: Define software delivery workflows and dev environments",
                 "href": "https://dagger.io/"
             },
             {
-                "title": "Compiler Engineering in Practice",
-                "href": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html"
+                "title": "Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"",
+                "href": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/"
             },
             {
                 "title": "Using e-ink tablet as monitor for Linux",
@@ -823,44 +831,44 @@
                 "href": "https://susam.net/fed-24-years-of-posts-to-markov-model.html"
             },
             {
-                "title": "Efficient Basic Coding for the ZX Spectrum",
-                "href": "https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/"
+                "title": "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
+                "href": "https://github.com/loadingalias/cargo-rail"
             },
             {
-                "title": "Recovering Anthony Bourdain's Li.st's",
-                "href": "https://sandyuraz.com/blogs/bourdain/"
+                "title": "The Secret Life of Moles: What They're Up to Underground",
+                "href": "https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/"
             },
             {
-                "title": "Building a Modern C64 Assembly AI Toolchain",
-                "href": "https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458"
-            },
-            {
-                "title": "Cat Gap",
-                "href": "https://en.wikipedia.org/wiki/Cat_gap"
-            },
-            {
-                "title": "Vacuum Is a Lie: About Your Indexes",
-                "href": "https://boringsql.com/posts/vacuum-is-lie/"
-            },
-            {
-                "title": "I tried Gleam for Advent of Code",
-                "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
+                "title": "Getting into Public Speaking",
+                "href": "https://james.brooks.page/blog/getting-into-public-speaking"
             },
             {
                 "title": "The Gorman Paradox: Where Are All the AI-Generated Apps?",
                 "href": "https://codemanship.wordpress.com/2025/12/14/the-gorman-paradox-where-are-all-the-ai-generated-apps/"
             },
             {
-                "title": "Show HN: Cargo-rail: graph-aware monorepo tooling for Rust; 11 deps",
-                "href": "https://github.com/loadingalias/cargo-rail"
+                "title": "Cat Gap",
+                "href": "https://en.wikipedia.org/wiki/Cat_gap"
+            },
+            {
+                "title": "Recovering Anthony Bourdain's Li.st's",
+                "href": "https://sandyuraz.com/blogs/bourdain/"
+            },
+            {
+                "title": "I tried Gleam for Advent of Code",
+                "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
+            },
+            {
+                "title": "Private Equity Finds a New Source of Profit: Volunteer Fire Departments",
+                "href": "https://www.nytimes.com/2025/12/14/us/fire-department-software-private-equity.html"
+            },
+            {
+                "title": "Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited",
+                "href": "https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/"
             },
             {
                 "title": "Baumol's Cost Disease",
                 "href": "https://en.wikipedia.org/wiki/Baumol_effect"
-            },
-            {
-                "title": "Getting into Public Speaking",
-                "href": "https://james.brooks.page/blog/getting-into-public-speaking"
             },
             {
                 "title": "Lean theorem prover mathlib",
@@ -871,32 +879,20 @@
                 "href": "https://www.jsoftware.com/ioj/ioj.htm"
             },
             {
-                "title": "Create a Markdown Editor in Ruby on Rails",
-                "href": "https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html"
+                "title": "An off-grid, flat-packable washing machine",
+                "href": "https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/"
             },
             {
                 "title": "Closures as Win32 Window Procedures",
                 "href": "https://nullprogram.com/blog/2025/12/12/"
             },
             {
-                "title": "An off-grid, flat-packable washing machine",
-                "href": "https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/"
-            },
-            {
                 "title": "Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece",
                 "href": "https://www.wired.com/2014/04/mst3k-oral-history/"
             },
             {
-                "title": "No-Tifier (2017)",
-                "href": "https://subject.space/projects/no-tifier/"
-            },
-            {
-                "title": "Useful patterns for building HTML tools",
-                "href": "https://simonwillison.net/2025/Dec/10/html-tools/"
-            },
-            {
-                "title": "Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"",
-                "href": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/"
+                "title": "Building a Modern C64 Assembly AI Toolchain",
+                "href": "https://medium.com/@gianlucabailo/building-a-modern-c64-assembly-ai-toolchain-using-google-gemini-3-1a36464c9458"
             }
         ]
     }
