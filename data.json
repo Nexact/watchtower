@@ -43,12 +43,12 @@
                 "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/"
             },
             {
-                "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
-                "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
-            },
-            {
                 "title": "Rust's v0 mangling scheme in a nutshell",
                 "href": "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/"
+            },
+            {
+                "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
+                "href": "https://blog.tymscar.com/posts/gleamaoc2025/"
             },
             {
                 "title": "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
@@ -69,6 +69,10 @@
             {
                 "title": "A very basic implementation of a virtual continuum fingerboard",
                 "href": "https://continuum.awalgarg.me"
+            },
+            {
+                "title": "The experimental Sokol Vulkan backend",
+                "href": "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html"
             },
             {
                 "title": "The World Is Not A Desktop (1994)",
@@ -97,10 +101,6 @@
             {
                 "title": "icl: Interactive Common Lisp: an enhanced REPL",
                 "href": "https://github.com/atgreen/icl"
-            },
-            {
-                "title": "ACME Device Attestation Extension",
-                "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/"
             }
         ]
     },
@@ -213,6 +213,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "French Interior Ministry confirms cyberattack on email servers",
+                "href": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/"
+            },
+            {
                 "title": "Microsoft: December security updates cause Message Queuing failures",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/"
             },
@@ -255,10 +259,6 @@
             {
                 "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
                 "href": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/"
-            },
-            {
-                "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
-                "href": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/"
             }
         ]
     },
@@ -775,28 +775,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Adafruit: Arduino\u2019s Rules Are \u2018Incompatible With Open Source\u2019",
-                "href": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/"
-            },
-            {
                 "title": "Avoid UUIDv4 Primary Keys",
                 "href": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys"
             },
             {
-                "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
-                "href": "https://arborium.bearcove.eu/"
+                "title": "Adafruit: Arduino\u2019s Rules Are \u2018Incompatible With Open Source\u2019",
+                "href": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/"
             },
             {
                 "title": "Unscii",
                 "href": "http://viznut.fi/unscii/"
             },
             {
-                "title": "Ask HN: What Are You Working On? (December 2025)",
-                "href": "item?id=46264491"
+                "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
+                "href": "https://arborium.bearcove.eu/"
             },
             {
                 "title": "Roomba maker goes bankrupt, Chinese owner emerges",
                 "href": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years"
+            },
+            {
+                "title": "Ask HN: What Are You Working On? (December 2025)",
+                "href": "item?id=46264491"
             },
             {
                 "title": "$5 whale listening hydrophone making workshop",
@@ -827,28 +827,40 @@
                 "href": "https://pragprog.com/titles/aodjs/debugging-typescript-applications/"
             },
             {
-                "title": "CapROS: Capability-Based Reliable Operating System",
-                "href": "https://www.capros.org/"
-            },
-            {
-                "title": "Hashcards: A plain-text spaced repetition system",
-                "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
-            },
-            {
-                "title": "The History of Xerox",
-                "href": "https://www.abortretry.fail/p/the-history-of-xerox"
-            },
-            {
-                "title": "JSDoc is TypeScript",
-                "href": "https://culi.bearblog.dev/jsdoc-is-typescript/"
+                "title": "Rob Reiner has died",
+                "href": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/"
             },
             {
                 "title": "Running on Empty: Copper",
                 "href": "https://thehonestsorcerer.substack.com/p/running-on-empty-copper"
             },
             {
-                "title": "Rob Reiner has died",
-                "href": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/"
+                "title": "A trip through the Graphics Pipeline (2011)",
+                "href": "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/"
+            },
+            {
+                "title": "Hashcards: A plain-text spaced repetition system",
+                "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
+            },
+            {
+                "title": "JSDoc is TypeScript",
+                "href": "https://culi.bearblog.dev/jsdoc-is-typescript/"
+            },
+            {
+                "title": "CapROS: Capability-Based Reliable Operating System",
+                "href": "https://www.capros.org/"
+            },
+            {
+                "title": "The Java Ring: A Wearable Computer (1998)",
+                "href": "https://www.nngroup.com/articles/javaring-wearable-computer/"
+            },
+            {
+                "title": "AI agents are starting to eat SaaS",
+                "href": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
+            },
+            {
+                "title": "The History of Xerox",
+                "href": "https://www.abortretry.fail/p/the-history-of-xerox"
             },
             {
                 "title": "Read Something Wonderful",
@@ -859,10 +871,6 @@
                 "href": "https://apnews.com/article/brazil-rio-talipot-palm-flamengo-park-dcfb1ce237af7a10ab72205fc9bbdc02"
             },
             {
-                "title": "AI agents are starting to eat SaaS",
-                "href": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/"
-            },
-            {
                 "title": "Elevated errors across many models",
                 "href": "https://status.claude.com/incidents/9g6qpr72ttbr"
             },
@@ -871,20 +879,12 @@
                 "href": "https://web.stanford.edu/class/cs81n/command.txt"
             },
             {
-                "title": "A trip through the Graphics Pipeline (2011)",
-                "href": "https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/"
-            },
-            {
                 "title": "An attempt to articulate Forth's practical strengths and eternal usefulness",
                 "href": "https://im-just-lee.ing/forth-why-cb234c03.txt"
             },
             {
                 "title": "How well do you know C++ auto type deduction?",
                 "href": "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/"
-            },
-            {
-                "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
-                "href": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted"
             },
             {
                 "title": "Price of a bot army revealed across online platforms",
