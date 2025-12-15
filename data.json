@@ -31,10 +31,6 @@
                 "href": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week"
-            },
-            {
                 "title": "Rust's v0 mangling scheme in a nutshell",
                 "href": "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/"
             },
@@ -43,8 +39,16 @@
                 "href": "https://www.youtube.com/watch?v=1JHOY0zqNBY"
             },
             {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week"
+            },
+            {
                 "title": "L5: A Processing Library in Lua for Interactive Artwork",
                 "href": "https://l5lua.org/"
+            },
+            {
+                "title": "Using E-Ink tablet as monitor for Linux",
+                "href": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/"
             },
             {
                 "title": "30 Years of <br> Tags",
@@ -59,24 +63,32 @@
                 "href": "https://benhoyt.com/writings/jubilant/"
             },
             {
-                "title": "Using E-Ink tablet as monitor for Linux",
-                "href": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/"
+                "title": "Swift Configuration 1.0 released",
+                "href": "https://swift.org/blog/swift-configuration-1.0-released/"
             },
             {
                 "title": "How I wrote JustHTML using coding agents",
                 "href": "https://friendlybit.com/python/writing-justhtml-with-coding-agents/"
             },
             {
-                "title": "Advent of Swift",
-                "href": "https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html"
-            },
-            {
                 "title": "The experimental Sokol Vulkan backend",
                 "href": "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html"
             },
             {
+                "title": "D-Bus is a disgrace to the Linux desktop",
+                "href": "https://blog.vaxry.net/articles/2025-dbusSucks"
+            },
+            {
+                "title": "Advent of Swift",
+                "href": "https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html"
+            },
+            {
                 "title": "IronFleet: Proving Practical Distributed Systems Correct",
                 "href": "https://www.andrew.cmu.edu/user/bparno/papers/ironfleet.pdf"
+            },
+            {
+                "title": "TLA+ modeling tips",
+                "href": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html"
             },
             {
                 "title": "System Observability: Metrics, Sampling, and Tracing",
@@ -89,18 +101,6 @@
             {
                 "title": "A distraction-free writing environment",
                 "href": "https://github.com/andrewmd5/dawn"
-            },
-            {
-                "title": "Virtualizing NVidia HGX B200 GPUs with Open Source",
-                "href": "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source"
-            },
-            {
-                "title": "Swift Configuration 1.0 released",
-                "href": "https://swift.org/blog/swift-configuration-1.0-released/"
-            },
-            {
-                "title": "Tier list of Linux security mechanisms (2024)",
-                "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/"
             }
         ]
     },
@@ -122,6 +122,10 @@
             {
                 "title": "CVE-2025-64669: Uncovering Local Privilege Escalation Vulnerability in Windows Admin Center",
                 "href": "https://old.reddit.com/r/netsec/comments/1pncz82/cve202564669_uncovering_local_privilege/"
+            },
+            {
+                "title": "Makop ransomware: GuLoader and privilege escalation in attacks against Indian businesses",
+                "href": "https://old.reddit.com/r/netsec/comments/1pnj2xy/makop_ransomware_guloader_and_privilege/"
             },
             {
                 "title": "Capabilities Are the Only Way to Secure Agent Delegation",
@@ -202,10 +206,6 @@
             {
                 "title": "Tracing JavaScript Value Origins in Modern SPAs: Breakpoint-Driven Heap Search (BDHS)",
                 "href": "https://old.reddit.com/r/netsec/comments/1pewyze/tracing_javascript_value_origins_in_modern_spas/"
-            },
-            {
-                "title": "Scam Telegram: Uncovering a network of groups spreading crypto drainers",
-                "href": "https://old.reddit.com/r/netsec/comments/1pegf92/scam_telegram_uncovering_a_network_of_groups/"
             }
         ]
     },
@@ -775,40 +775,28 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "\u201cSuper secure\u201d MAGA-themed messaging app leaks everyone's phone number",
-                "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"
-            },
-            {
-                "title": "D-Bus is a disgrace to the Linux desktop",
-                "href": "https://blog.vaxry.net/articles/2025-dbusSucks"
-            },
-            {
-                "title": "United 777-200 fleet faces an uncertain future after Dulles engine failure",
-                "href": "https://liveandletsfly.com/united-airlines-777-200-future/"
-            },
-            {
                 "title": "Upcoming Changes to Let's Encrypt Certificates",
                 "href": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873"
-            },
-            {
-                "title": "Carrier Landing in Top Gun for the NES",
-                "href": "https://relaxing.run/blag/posts/top-gun-landing/"
             },
             {
                 "title": "Umbrel \u2013 Personal Cloud",
                 "href": "https://umbrel.com"
             },
             {
-                "title": "In Defense of Matlab Code",
-                "href": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code"
+                "title": "\u201cSuper secure\u201d messaging app leaks everyone's phone number",
+                "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"
+            },
+            {
+                "title": "Essential Semiconductor Physics [pdf]",
+                "href": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf"
             },
             {
                 "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
                 "href": "https://www.science.org/doi/10.1126/sciadv.adx7892"
             },
             {
-                "title": "Essential Semiconductor Physics [pdf]",
-                "href": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf"
+                "title": "In Defense of Matlab Code",
+                "href": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code"
             },
             {
                 "title": "Chafa: Terminal Graphics for the 21st Century",
@@ -819,44 +807,52 @@
                 "href": "https://www.bbc.com/news/articles/cp34442z25ko"
             },
             {
+                "title": "Problems with D-Bus on the Linux desktop",
+                "href": "https://blog.vaxry.net/articles/2025-dbusSucks"
+            },
+            {
                 "title": "Avoid UUID Version 4 Primary Keys in Postgres",
                 "href": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys"
+            },
+            {
+                "title": "Carrier Landing in Top Gun for the NES",
+                "href": "https://relaxing.run/blag/posts/top-gun-landing/"
+            },
+            {
+                "title": "A Kernel Bug Froze My Machine: Debugging an Async-Profiler Deadlock",
+                "href": "https://questdb.com/blog/async-profiler-kernel-bug/"
             },
             {
                 "title": "It seems that OpenAI is scraping [certificate transparency] logs",
                 "href": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3"
             },
             {
-                "title": "Taiwan May Restart Nuclear Power Plant in 2028, Minister Says",
-                "href": "https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/"
-            },
-            {
-                "title": "We architected an edge caching layer to eliminate cold starts",
-                "href": "https://www.mintlify.com/blog/page-speed-improvements"
+                "title": "Liquid-rust: Liquid templating for Rust",
+                "href": "https://github.com/cobalt-org/liquid-rust"
             },
             {
                 "title": "Roomba maker goes bankrupt, Chinese owner emerges",
                 "href": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years"
             },
             {
-                "title": "Google discontinuing their dark web report",
-                "href": "https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid"
-            },
-            {
                 "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
                 "href": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt"
+            },
+            {
+                "title": "We architected an edge caching layer to eliminate cold starts",
+                "href": "https://www.mintlify.com/blog/page-speed-improvements"
+            },
+            {
+                "title": "Google discontinuing their dark web report",
+                "href": "https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid"
             },
             {
                 "title": "If AI replaces workers, should it also pay taxes?",
                 "href": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html"
             },
             {
-                "title": "Liquid-rust: Liquid templating for Rust",
-                "href": "https://github.com/cobalt-org/liquid-rust"
-            },
-            {
-                "title": "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
-                "href": "https://www.optery.com/careers/"
+                "title": "Building an efficient hash table in Java",
+                "href": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/"
             },
             {
                 "title": "US Tech Force",
@@ -867,28 +863,32 @@
                 "href": "http://viznut.fi/unscii/"
             },
             {
+                "title": "United 777-200 fleet faces an uncertain future after Dulles engine failure",
+                "href": "https://liveandletsfly.com/united-airlines-777-200-future/"
+            },
+            {
                 "title": "Show HN: I Ching simulator with accurate Yarrow Stalk probabilities",
                 "href": "https://castiching.com/"
             },
             {
-                "title": "Show HN: A pager",
-                "href": "https://www.udp7777.com/"
+                "title": "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
+                "href": "https://www.optery.com/careers/"
             },
             {
                 "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
                 "href": "https://arborium.bearcove.eu/"
             },
             {
-                "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
-                "href": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html"
-            },
-            {
-                "title": "Ask HN: Is building a calm, non-gamified learning app a mistake?",
-                "href": "item?id=46276019"
+                "title": "Show HN: A pager",
+                "href": "https://www.udp7777.com/"
             },
             {
                 "title": "Ask HN: What Are You Working On? (December 2025)",
                 "href": "item?id=46264491"
+            },
+            {
+                "title": "Former CIA spy: agency's tools can takeover your phone, TV, and even your car",
+                "href": "https://currentindia.com/channels/timesofindia/toi-world/yes-they-can-former-cia-spy-warns-agencys-tools-can-takeover-your-phone-tv-and-even-your-car/"
             },
             {
                 "title": "SoundCloud has banned VPN access",
