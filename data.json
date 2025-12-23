@@ -15,6 +15,10 @@
                 "href": "https://folder.zone"
             },
             {
+                "title": "The Linux kernel is just a program",
+                "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
+            },
+            {
                 "title": "Lua 5.5 Released",
                 "href": "https://www.lua.org/manual/5.5/readme.html#changes"
             },
@@ -27,16 +31,12 @@
                 "href": "https://github.com/chase-lambert/vigil"
             },
             {
-                "title": "The Linux kernel is just a program",
-                "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
+                "title": "dirlock",
+                "href": "https://gitlab.steamos.cloud/holo/dirlock"
             },
             {
                 "title": "I foretold that Mac app notarization is security theater",
                 "href": "https://lapcatsoftware.com/articles/2025/12/5.html"
-            },
-            {
-                "title": "dirlock",
-                "href": "https://gitlab.steamos.cloud/holo/dirlock"
             },
             {
                 "title": "Instant database clones with PostgreSQL 18",
@@ -63,12 +63,16 @@
                 "href": "https://elisa.tech/ambassadors/2025/12/10/schrodingers-test-the-dev-mem-case/"
             },
             {
-                "title": "I\u2019m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
-                "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/"
+                "title": "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
+                "href": "https://github.com/mmomtchev/sqlite-wasm-http"
             },
             {
                 "title": "What's \"new\" in Miri (and also, there's a Miri paper!)",
                 "href": "https://www.ralfj.de/blog/2025/12/22/miri.html"
+            },
+            {
+                "title": "I\u2019m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
+                "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/"
             },
             {
                 "title": "NPM Package With 56K Downloads Caught Stealing WhatsApp Messages",
@@ -77,10 +81,6 @@
             {
                 "title": "An initial analysis of the discovered Unix V4 tape",
                 "href": "https://www.spinellis.gr/blog/20251223/?yc261223"
-            },
-            {
-                "title": "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
-                "href": "https://github.com/mmomtchev/sqlite-wasm-http"
             },
             {
                 "title": "FreeBSD Closes the Laptop Gap: Year One Project Update",
@@ -99,8 +99,8 @@
                 "href": "https://youtu.be/xa4Ok7WNFHY"
             },
             {
-                "title": "LAVD: Meta\u2019s New Default Scheduler",
-                "href": "https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf"
+                "title": "Mostly Automated Proof Repair for Verified Libraries",
+                "href": "https://kirancodes.me/pdfs/sisyphus-pldi23.pdf"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "'Fragmented' Microsoft Tools Undercut Efficiency at Amazon and Whole Foods, Internal Deloitte Review Finds",
+                "href": "https://tech.slashdot.org/story/25/12/23/1830242/fragmented-microsoft-tools-undercut-efficiency-at-amazon-and-whole-foods-internal-deloitte-review-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Is the Dictionary Done For?",
                 "href": "https://news.slashdot.org/story/25/12/23/191223/is-the-dictionary-done-for?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "How a Power Outage In Colorado Caused US Official Time To Be 4.8 Microseconds",
                 "href": "https://science.slashdot.org/story/25/12/23/018200/how-a-power-outage-in-colorado-caused-us-official-time-to-be-48-microseconds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Garmin Emergency Autoland Has First Save",
-                "href": "https://tech.slashdot.org/story/25/12/23/0050202/garmin-emergency-autoland-has-first-save?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -791,8 +791,20 @@
                 "href": "https://c0de517e.com/026_c64fire.htm"
             },
             {
+                "title": "Perfect Software \u2013 Software for an Audience of One",
+                "href": "https://outofdesk.netlify.app/blog/perfect-software"
+            },
+            {
+                "title": "Lua 5.5",
+                "href": "https://lua.org/versions.html#5.5"
+            },
+            {
                 "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
                 "href": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"
+            },
+            {
+                "title": "Un-Redactor",
+                "href": "https://github.com/kvthweatt/unredactor"
             },
             {
                 "title": "Towards a secure peer-to-peer app platform for Clan",
@@ -803,32 +815,24 @@
                 "href": "https://computerhistory.org/blog/adobe-photoshop-source-code/"
             },
             {
-                "title": "Lua 5.5",
-                "href": "https://lua.org/versions.html#5.5"
-            },
-            {
-                "title": "Fuck You, I Won't Use Tailwind",
-                "href": "https://fuckyouiwontusetailwind.com"
-            },
-            {
                 "title": "Instant database clones with PostgreSQL 18",
                 "href": "https://boringsql.com/posts/instant-database-clones/"
-            },
-            {
-                "title": "Un-Redactor",
-                "href": "https://github.com/kvthweatt/unredactor"
             },
             {
                 "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
                 "href": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen"
             },
             {
+                "title": "Fixed-Wing Runway Design",
+                "href": "https://www.wbdg.org/building/aviation/fixed-wing-runway-design"
+            },
+            {
                 "title": "Astrophotography Target Planner: Discover Hidden Nebulas",
                 "href": "https://astroimagery.com/techniques/imaging/astrophotography-target-planner/"
             },
             {
-                "title": "Perfect Software \u2013 Software for an Audience of One",
-                "href": "https://outofdesk.netlify.app/blog/perfect-software"
+                "title": "Fifty problems with standard web APIs in 2025",
+                "href": "https://zerotrickpony.com/articles/browser-bugs/"
             },
             {
                 "title": "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
@@ -839,24 +843,28 @@
                 "href": "https://alperenkeles.com/posts/test-dont-verify/"
             },
             {
-                "title": "HTTP Caching, a Refresher",
-                "href": "https://danburzo.ro/http-caching-refresher/"
+                "title": "What makes you senior",
+                "href": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/"
             },
             {
-                "title": "An initial analysis of the discovered Unix V4 tape",
-                "href": "https://www.spinellis.gr/blog/20251223/?yc261223"
+                "title": "HTTP Caching, a Refresher",
+                "href": "https://danburzo.ro/http-caching-refresher/"
             },
             {
                 "title": "Local AI is driving the biggest change in laptops in decades",
                 "href": "https://spectrum.ieee.org/ai-models-locally"
             },
             {
-                "title": "What makes you senior",
-                "href": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/"
+                "title": "Space Math Academy",
+                "href": "https://space-math.academy"
             },
             {
-                "title": "Fifty problems with standard web APIs in 2025",
-                "href": "https://zerotrickpony.com/articles/browser-bugs/"
+                "title": "An initial analysis of the discovered Unix V4 tape",
+                "href": "https://www.spinellis.gr/blog/20251223/?yc261223"
+            },
+            {
+                "title": "10 years bootstrapped: \u20ac6.5M revenue with a team of 13",
+                "href": "https://www.datocms.com/blog/a-look-back-at-2025"
             },
             {
                 "title": "Font with Built-In Syntax Highlighting (2024)",
@@ -867,36 +875,28 @@
                 "href": "https://willmcgugan.github.io/toad-released/"
             },
             {
-                "title": "10 years bootstrapped: \u20ac6.5M revenue with a team of 13",
-                "href": "https://www.datocms.com/blog/a-look-back-at-2025"
-            },
-            {
-                "title": "The post-GeForce era: What if Nvidia abandons PC gaming?",
-                "href": "https://www.pcworld.com/article/3013044/the-post-geforce-era-what-if-nvidia-abandons-pc-gaming.html"
+                "title": "Dancing around the rhythm space with Euclid",
+                "href": "https://pv.wtf/posts/euclidean-rhythms"
             },
             {
                 "title": "iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA",
                 "href": "https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/"
             },
             {
-                "title": "Snitch \u2013 A friendlier ss/netstat",
-                "href": "https://github.com/karol-broda/snitch"
+                "title": "The post-GeForce era: What if Nvidia abandons PC gaming?",
+                "href": "https://www.pcworld.com/article/3013044/the-post-geforce-era-what-if-nvidia-abandons-pc-gaming.html"
             },
             {
-                "title": "Space Math Academy",
-                "href": "https://space-math.academy"
+                "title": "Carnap \u2013 A formal logic framework for Haskell",
+                "href": "https://carnap.io/"
             },
             {
-                "title": "Dancing around the rhythm space with Euclid",
-                "href": "https://pv.wtf/posts/euclidean-rhythms"
+                "title": "Ryanair fined \u20ac256M over \u2018abusive strategy\u2019 to limit ticket sales by OTAs",
+                "href": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota"
             },
             {
-                "title": "It's Always TCP_NODELAY",
-                "href": "https://brooker.co.za/blog/2024/05/09/nagle.html"
-            },
-            {
-                "title": "The Coffee Warehouse",
-                "href": "https://www.scopeofwork.net/the-coffee-warehouse/"
+                "title": "Show HN: CineCLI \u2013 Browse and torrent movies directly from your terminal",
+                "href": "https://github.com/eyeblech/cinecli"
             }
         ]
     }
