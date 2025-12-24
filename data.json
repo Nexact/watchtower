@@ -7,12 +7,12 @@
                 "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/"
             },
             {
-                "title": "The Linux kernel is just a program",
-                "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
-            },
-            {
                 "title": "Avoid mini-frameworks",
                 "href": "https://laike9m.com/blog/avoid-mini-frameworks,171/"
+            },
+            {
+                "title": "The Linux kernel is just a program",
+                "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
             },
             {
                 "title": "mquickjs: Micro QuickJS Javascript Engine",
@@ -23,6 +23,10 @@
                 "href": "https://github.com/antonmedv/textarea"
             },
             {
+                "title": "How and why I moved from Apple Services to my own server",
+                "href": "https://bastiangruber.ca/posts/mass-quitting-apple/"
+            },
+            {
                 "title": "They made me an offer I couldn't refuse (1997)",
                 "href": "http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/"
             },
@@ -31,16 +35,16 @@
                 "href": "https://buttondown.com/apperceptive/archive/ai-is-bad-ux/"
             },
             {
+                "title": "Implementation of optimized vector of strings in C++ in SumatraPDF",
+                "href": "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html"
+            },
+            {
                 "title": "folder.zone: Share end-to-end encrypted folders live",
                 "href": "https://folder.zone"
             },
             {
-                "title": "Just in time software",
-                "href": "https://commaok.xyz/ai/just-in-time-software/"
-            },
-            {
-                "title": "Implementation of optimized vector of strings in C++ in SumatraPDF",
-                "href": "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html"
+                "title": "ZipPop: a space conserving unzipping script",
+                "href": "https://github.com/th0ma5w/ZipPop"
             },
             {
                 "title": "cpu: cpu command in Go, inspired by the Plan 9 cpu command",
@@ -55,12 +59,20 @@
                 "href": "https://github.com/chase-lambert/vigil"
             },
             {
+                "title": "Custom Cross Compiler with Nix",
+                "href": "https://www.hobson.space/posts/nixcross/"
+            },
+            {
                 "title": "Are we Loong yet?",
                 "href": "https://areweloongyet.com/en/"
             },
             {
-                "title": "Custom Cross Compiler with Nix",
-                "href": "https://www.hobson.space/posts/nixcross/"
+                "title": "My 2026 Open Social Web Predictions",
+                "href": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
+            },
+            {
+                "title": "What the Internet Was Like in 2003",
+                "href": "https://cybercultural.com/p/internet-2003/"
             },
             {
                 "title": "Nix State of the SBOM",
@@ -71,8 +83,8 @@
                 "href": "https://www.spinellis.gr/blog/20251223/?yc261223"
             },
             {
-                "title": "What the Internet Was Like in 2003",
-                "href": "https://cybercultural.com/p/internet-2003/"
+                "title": "Swanky Python: Interactive development for Python",
+                "href": "https://emacsconf.org/2025/talks/swanky/"
             },
             {
                 "title": "FreeBSD: Installation on a ThinkPad X200 Tablet in 2025",
@@ -89,18 +101,6 @@
             {
                 "title": "Lua 5.5 Released",
                 "href": "https://www.lua.org/manual/5.5/readme.html#changes"
-            },
-            {
-                "title": "My 2026 Open Social Web Predictions",
-                "href": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
-            },
-            {
-                "title": "A Couple 3D AABB Tricks",
-                "href": "https://gpfault.net/posts/aabb-tricks.html"
-            },
-            {
-                "title": "dirlock",
-                "href": "https://gitlab.steamos.cloud/holo/dirlock"
             }
         ]
     },
@@ -263,8 +263,57 @@
         ]
     },
     {
+        "feedname": "krebsonsecurity",
+        "items": [
+            {
+                "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+                "href": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/"
+            },
+            {
+                "title": "Most Parked Domains Now Serving Malicious Content",
+                "href": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/"
+            },
+            {
+                "title": "Microsoft Patch Tuesday, December 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/"
+            },
+            {
+                "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+                "href": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/"
+            },
+            {
+                "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+                "href": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/"
+            },
+            {
+                "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
+                "href": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/"
+            },
+            {
+                "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+                "href": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/"
+            },
+            {
+                "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+                "href": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/"
+            },
+            {
+                "title": "The Cloudflare Outage May Be a Security Roadmap",
+                "href": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/"
+            },
+            {
+                "title": "Microsoft Patch Tuesday, November 2025 Edition",
+                "href": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/"
+            }
+        ]
+    },
+    {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Some of DOJ's Careful Redactions Can Be Defeated With Copy-Paste",
+                "href": "https://news.slashdot.org/story/25/12/24/1710233/some-of-dojs-careful-redactions-can-be-defeated-with-copy-paste?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "What Rules Govern Hallmark Christmas Movies?",
                 "href": "https://entertainment.slashdot.org/story/25/12/24/1632200/what-rules-govern-hallmark-christmas-movies?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -320,10 +369,6 @@
             {
                 "title": "Judge Blocks Texas App Store Age Verification Law",
                 "href": "https://yro.slashdot.org/story/25/12/23/2235204/judge-blocks-texas-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "LimeWire Re-Emerges In Online Rush To Share Pulled '60 Minutes' Segment",
-                "href": "https://yro.slashdot.org/story/25/12/23/222221/limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -730,12 +775,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "When Compilers Surprise You",
+                "href": "https://xania.org/202512/24-cunning-clang"
+            },
+            {
                 "title": "We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)",
                 "href": "https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224"
             },
             {
-                "title": "When Compilers Surprise You",
-                "href": "https://xania.org/202512/24-cunning-clang"
+                "title": "Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk",
+                "href": "https://games.jmir.org/2025/1/e84219/"
             },
             {
                 "title": "Fabrice Bellard Releases MicroQuickJS",
@@ -746,28 +795,28 @@
                 "href": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media"
             },
             {
-                "title": "The Port I couldn't Ship",
-                "href": "https://ammil.industries/the-port-i-couldnt-ship/"
+                "title": "My 2026 Open Social Web Predictions",
+                "href": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
+            },
+            {
+                "title": "A faster path to container images in Bazel",
+                "href": "https://www.tweag.io/blog/2025-12-18-rules_img/"
             },
             {
                 "title": "X-ray: a Python library for finding bad redactions in PDF documents",
                 "href": "https://github.com/freelawproject/x-ray"
             },
             {
-                "title": "Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk",
-                "href": "https://games.jmir.org/2025/1/e84219/"
+                "title": "The e-scooter isn't new \u2013 London was zooming around on Autopeds a century ago",
+                "href": "https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/"
             },
             {
                 "title": "AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago",
                 "href": "https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700"
             },
             {
-                "title": "The e-scooter isn't new \u2013 London was zooming around on Autopeds a century ago",
-                "href": "https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/"
-            },
-            {
-                "title": "Show HN: No more writing shitty regexes to police usernames",
-                "href": "https://www.username.dev"
+                "title": "The Port I couldn't Ship",
+                "href": "https://ammil.industries/the-port-i-couldnt-ship/"
             },
             {
                 "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
@@ -778,28 +827,24 @@
                 "href": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router"
             },
             {
-                "title": "My 2026 Open Social Web Predictions",
-                "href": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
-            },
-            {
-                "title": "Map: Operator[] Should Be Nodiscard",
-                "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/"
-            },
-            {
                 "title": "Nabokov's guide to foreigners learning Russian",
                 "href": "https://twitter.com/haravayin_hogh/status/2003299405907247502"
             },
             {
-                "title": "I'm returning my Framework 16",
-                "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/"
+                "title": "Permission Systems for Enterprise That Scale",
+                "href": "https://eliocapella.com/blog/permission-systems-for-enterprise/"
+            },
+            {
+                "title": "Microsoft Agent Framework",
+                "href": "https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview"
+            },
+            {
+                "title": "LVM Thin Provisioning (2016)",
+                "href": "https://storageapis.wordpress.com/2016/06/24/lvm-thin-provisioning/"
             },
             {
                 "title": "Show HN: LazyPromise = Observable \u2013 Signals",
                 "href": "https://github.com/lazy-promise/lazy-promise"
-            },
-            {
-                "title": "Permission Systems for Enterprise That Scale",
-                "href": "https://eliocapella.com/blog/permission-systems-for-enterprise/"
             },
             {
                 "title": "Mt. Gox CEO Karpel\u00e8s Reveals Details of 2014 Collapse and Japanese Detention",
@@ -818,16 +863,12 @@
                 "href": "https://lua.org/versions.html#5.5"
             },
             {
-                "title": "LVM Thin Provisioning (2016)",
-                "href": "https://storageapis.wordpress.com/2016/06/24/lvm-thin-provisioning/"
+                "title": "Texas app store age verification law blocked by federal judge",
+                "href": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/"
             },
             {
                 "title": "Show HN: Turn raw HTML into production-ready images for free",
                 "href": "https://html2png.dev"
-            },
-            {
-                "title": "Texas app store age verification law blocked by federal judge",
-                "href": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/"
             },
             {
                 "title": "I rebuilt FlashAttention in Triton to understand the performance archaeology",
@@ -838,16 +879,20 @@
                 "href": "https://outofdesk.netlify.app/blog/perfect-software"
             },
             {
-                "title": "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
-                "href": "https://abhamra.com/blog/randomized-maxcut/"
+                "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
+                "href": "https://github.com/xyphro/UsbGpib"
             },
             {
                 "title": "HTTP Caching, a Refresher",
                 "href": "https://danburzo.ro/http-caching-refresher/"
             },
             {
-                "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
-                "href": "https://github.com/xyphro/UsbGpib"
+                "title": "A Father, a Son and Their $108B Push for Media Moguldom (Larry Ellison)",
+                "href": "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html"
+            },
+            {
+                "title": "Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4",
+                "href": "https://abhamra.com/blog/randomized-maxcut/"
             }
         ]
     }
