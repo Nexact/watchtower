@@ -11,16 +11,16 @@
                 "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
             },
             {
+                "title": "Writing an NES emulator in Haskell",
+                "href": "https://arthi-chaud.github.io/posts/funes/"
+            },
+            {
                 "title": "Automating What Backblaze Lifecycle Rules Don't Do Instantly",
                 "href": "https://blog.tymscar.com/posts/backblazeb2cleanup/"
             },
             {
                 "title": "Gleam v1.14 - the happy holidays release 2025",
                 "href": "https://gleam.run/news/the-happy-holidays-2025-release/"
-            },
-            {
-                "title": "Writing an NES emulator in Haskell",
-                "href": "https://arthi-chaud.github.io/posts/funes/"
             },
             {
                 "title": "Are Two Heads Better Than One?",
@@ -31,8 +31,16 @@
                 "href": "https://eieio.games/blog/tiny-christmas/"
             },
             {
+                "title": "Sendspin: Music Experience Protocol",
+                "href": "https://www.sendspin-audio.com/"
+            },
+            {
                 "title": "Microsoft Is Finally Killing RC4",
                 "href": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html"
+            },
+            {
+                "title": "Ancient Greek geometry",
+                "href": "https://sciencevsmagic.net/geo/"
             },
             {
                 "title": "phoenix - A modern X server written from scratch in Zig",
@@ -41,10 +49,6 @@
             {
                 "title": "Ruby 4.0.0 Released",
                 "href": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/"
-            },
-            {
-                "title": "Ancient Greek geometry",
-                "href": "https://sciencevsmagic.net/geo/"
             },
             {
                 "title": "Released KC3 v0.1.16",
@@ -57,10 +61,6 @@
             {
                 "title": "doubly dual shuffles",
                 "href": "https://dotat.at/@/2025-12-25-shuffle.html"
-            },
-            {
-                "title": "Sendspin: Music Experience Protocol",
-                "href": "https://www.sendspin-audio.com/"
             },
             {
                 "title": "Python 3.15\u2019s interpreter for Windows x86-64 should hopefully be 15% faster",
@@ -114,6 +114,10 @@
             {
                 "title": "r/netsec monthly discussion & tool thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1pbe776/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "How do you handle daily news fatigue? Looking for feedback on a curation project.",
+                "href": "https://old.reddit.com/r/netsec/comments/1pw0wtw/how_do_you_handle_daily_news_fatigue_looking_for/"
             },
             {
                 "title": "CSRF Protection without Tokens or Hidden Form Fields",
@@ -202,16 +206,16 @@
             {
                 "title": "Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096)",
                 "href": "https://old.reddit.com/r/netsec/comments/1pp4sem/inside_posthog_how_ssrf_a_clickhouse_sql_escaping/"
-            },
-            {
-                "title": "I built a mitmproxy AI agent using 4000 paid security disclosures",
-                "href": "https://old.reddit.com/r/netsec/comments/1ppvr4m/i_built_a_mitmproxy_ai_agent_using_4000_paid/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Trust Wallet Chrome extension hack tied to millions in losses",
+                "href": "https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/"
+            },
             {
                 "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
                 "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/"
@@ -251,10 +255,6 @@
             {
                 "title": "Malicious extensions in Chrome Web store steal user credentials",
                 "href": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/"
-            },
-            {
-                "title": "Microsoft Teams strengthens messaging security by default in January",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/"
             }
         ]
     },
@@ -306,6 +306,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "'Memory is Running Out, and So Are Excuses For Software Bloat'",
+                "href": "https://developers.slashdot.org/story/25/12/26/0628235/memory-is-running-out-and-so-are-excuses-for-software-bloat?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Cursor CEO Warns Vibe Coding Builds 'Shaky Foundations' That Eventually Crumble",
                 "href": "https://developers.slashdot.org/story/25/12/26/0623233/cursor-ceo-warns-vibe-coding-builds-shaky-foundations-that-eventually-crumble?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -361,10 +365,6 @@
             {
                 "title": "NASA Will Soon Find Out If the Perseverance Rover Can Really Persevere On Mars",
                 "href": "https://science.slashdot.org/story/25/12/24/2116243/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Nuclear Developer Proposes Using Navy Reactors For Data Centers",
-                "href": "https://hardware.slashdot.org/story/25/12/24/1920243/nuclear-developer-proposes-using-navy-reactors-for-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -775,28 +775,36 @@
                 "href": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/"
             },
             {
-                "title": "Building an AI agent inside a 7-year-old Rails monolith",
-                "href": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/"
+                "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
+                "href": "https://douira.dev/assets/document/douira-master-thesis.pdf"
             },
             {
                 "title": "TurboDiffusion: 100\u2013200\u00d7 Acceleration for Video Diffusion Models",
                 "href": "https://github.com/thu-ml/TurboDiffusion"
             },
             {
+                "title": "Building an AI agent inside a 7-year-old Rails monolith",
+                "href": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/"
+            },
+            {
                 "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
                 "href": "https://www.minimaxi.com/news/minimax-m21"
             },
             {
-                "title": "Show HN: GeneGuessr \u2013 a daily biology web puzzle",
-                "href": "https://geneguessr.brinedew.bio/"
+                "title": "The Algebra of Loans in Rust",
+                "href": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html"
             },
             {
                 "title": "Show HN: Gaming Couch \u2013 a local multiplayer party game platform for 8 players",
                 "href": "https://gamingcouch.com"
             },
             {
-                "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
-                "href": "https://github.com/popovicu/ultimate-linux"
+                "title": "Show HN: GeneGuessr \u2013 a daily biology web puzzle",
+                "href": "https://geneguessr.brinedew.bio/"
+            },
+            {
+                "title": "Tiled Art",
+                "href": "https://tiled.art/en/home/?id=SilverAndGold"
             },
             {
                 "title": "Fahrplan \u2013 39C3",
@@ -811,16 +819,16 @@
                 "href": "https://destroytoday.com/blog/animating-quines-for-larva-labs"
             },
             {
-                "title": "Tiled Art",
-                "href": "https://tiled.art/en/home/?id=SilverAndGold"
-            },
-            {
                 "title": "The entire New Yorker archive is now digitized",
                 "href": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized"
             },
             {
                 "title": "Tachyon: High frequency statistical sampling profiler",
                 "href": "https://docs.python.org/3.15/library/profiling.sampling.html"
+            },
+            {
+                "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
+                "href": "https://github.com/popovicu/ultimate-linux"
             },
             {
                 "title": "How to Reproduce This Book with LaTeX",
@@ -831,12 +839,12 @@
                 "href": "https://clickhouse.com/blog/postgres-cdc-year-in-review-2025"
             },
             {
-                "title": "CUDA Tile Open Sourced",
-                "href": "https://github.com/NVIDIA/cuda-tile"
-            },
-            {
                 "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
                 "href": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/"
+            },
+            {
+                "title": "CUDA Tile Open Sourced",
+                "href": "https://github.com/NVIDIA/cuda-tile"
             },
             {
                 "title": "Paperbacks and TikTok",
@@ -851,16 +859,12 @@
                 "href": "item?id=46385197"
             },
             {
-                "title": "Show HN: Coderive \u2013 Iterating through 1 Quintillion Inside a Loop in just 50ms",
-                "href": "https://github.com/DanexCodr/Coderive"
+                "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
+                "href": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/"
             },
             {
                 "title": "Archiving Git branches as tags",
                 "href": "https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/"
-            },
-            {
-                "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
-                "href": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/"
             },
             {
                 "title": "The Program 2025 annual review: How much money does an audio drama podcast make?",
@@ -881,10 +885,6 @@
             {
                 "title": "Fabrice Bellard Releases MicroQuickJS",
                 "href": "https://github.com/bellard/mquickjs/blob/main/README.md"
-            },
-            {
-                "title": "Google is 'gradually rolling out' option to change your gmail.com address",
-                "href": "https://9to5google.com/2025/12/24/google-change-gmail-addresses/"
             },
             {
                 "title": "Critical vulnerability in LangChain \u2013 CVE-2025-68664",
