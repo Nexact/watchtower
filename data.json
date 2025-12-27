@@ -15,12 +15,12 @@
                 "href": "https://imgur.com/nUJCI3o"
             },
             {
-                "title": "Play the Monty Hall game",
-                "href": "https://monty.donk.systems"
-            },
-            {
                 "title": "Simplifying the build process for vst3-rs",
                 "href": "https://micahrj.github.io/posts/vst3/"
+            },
+            {
+                "title": "Play the Monty Hall game",
+                "href": "https://monty.donk.systems"
             },
             {
                 "title": "How I think about Kubernetes",
@@ -43,12 +43,12 @@
                 "href": "https://arthi-chaud.github.io/posts/funes/"
             },
             {
-                "title": "llm-grep: Match lines using both classic and semantic regular expressions",
-                "href": "https://github.com/vagos/llm-grep"
-            },
-            {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "llm-grep: Match lines using both classic and semantic regular expressions",
+                "href": "https://github.com/vagos/llm-grep"
             },
             {
                 "title": "I'm a laptop weirdo and that's why I like my new Framework 13",
@@ -61,6 +61,10 @@
             {
                 "title": "Automating What Backblaze Lifecycle Rules Don't Do Instantly",
                 "href": "https://blog.tymscar.com/posts/backblazeb2cleanup/"
+            },
+            {
+                "title": "\"Enabling\" C threads in a Python / Wasm environment",
+                "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html"
             },
             {
                 "title": "From Intent to Proof: Dafny Verification for Web Apps",
@@ -79,8 +83,16 @@
                 "href": "https://docs.python.org/3.15/library/profiling.sampling.html"
             },
             {
-                "title": "\"Enabling\" C threads in a Python / Wasm environment",
-                "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html"
+                "title": "Reimplementing FlashAttention for performance and giggles",
+                "href": "https://aminediro.com/posts/flash_attn/"
+            },
+            {
+                "title": "Ancient Greek geometry",
+                "href": "https://sciencevsmagic.net/geo/"
+            },
+            {
+                "title": "rapace - RPC over SHM / WS / TCP / MEM",
+                "href": "https://rapace.bearcove.eu/"
             },
             {
                 "title": "Are Two Heads Better Than One?",
@@ -89,18 +101,6 @@
             {
                 "title": "Maestro - Desktop AI Agent Command Center (Free/OSS)",
                 "href": "https://runmaestro.ai"
-            },
-            {
-                "title": "Ancient Greek geometry",
-                "href": "https://sciencevsmagic.net/geo/"
-            },
-            {
-                "title": "Reimplementing FlashAttention for performance and giggles",
-                "href": "https://aminediro.com/posts/flash_attn/"
-            },
-            {
-                "title": "Package managers keep using git as a database, it never works out",
-                "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
             }
         ]
     },
@@ -114,6 +114,10 @@
             {
                 "title": "r/netsec monthly discussion & tool thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1pbe776/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "First verified SHA-256 second-preimage collision: Structural analysis of the W-schedule vulnerability",
+                "href": "https://old.reddit.com/r/netsec/comments/1pwlp7g/first_verified_sha256_secondpreimage_collision/"
             },
             {
                 "title": "LangGrinch: A Bug in the Library, A Lesson for the Architecture",
@@ -202,10 +206,6 @@
             {
                 "title": "Local Privilege Escalation (CVE-2025-34352) in JumpCloud Agent",
                 "href": "https://old.reddit.com/r/netsec/comments/1ppndbf/local_privilege_escalation_cve202534352_in/"
-            },
-            {
-                "title": "Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain (ZDI-25-099, ZDI-25-097, ZDI-25-096)",
-                "href": "https://old.reddit.com/r/netsec/comments/1pp4sem/inside_posthog_how_ssrf_a_clickhouse_sql_escaping/"
             }
         ]
     },
@@ -775,44 +775,60 @@
                 "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
             },
             {
+                "title": "QNX Self-Hosted Developer Desktop",
+                "href": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/"
+            },
+            {
                 "title": "Always Bet on Text",
                 "href": "https://graydon2.dreamwidth.org/193447.html"
-            },
-            {
-                "title": "The Best Things and Stuff of 2025",
-                "href": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html"
-            },
-            {
-                "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
-                "href": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations"
-            },
-            {
-                "title": "How Lewis Carroll computed determinants (2023)",
-                "href": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/"
             },
             {
                 "title": "T-Ruby is Ruby with syntax for types",
                 "href": "https://type-ruby.github.io/"
             },
             {
-                "title": "Show HN: Witr \u2013 Explain why a process is running on your Linux system",
-                "href": "https://github.com/pranshuparmar/witr"
+                "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+                "href": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations"
             },
             {
-                "title": "Drawing with zero-width characters",
-                "href": "https://zw.swerdlow.dev"
+                "title": "The Best Things and Stuff of 2025",
+                "href": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html"
+            },
+            {
+                "title": "How Lewis Carroll computed determinants (2023)",
+                "href": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/"
+            },
+            {
+                "title": "One million (small web) screenshots",
+                "href": "https://nry.me/posts/2025-10-09/small-web-screenshots/"
             },
             {
                 "title": "Package managers keep using Git as a database, it never works out",
                 "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
             },
             {
-                "title": "LearnixOS",
-                "href": "https://www.learnix-os.com"
+                "title": "Show HN: Witr \u2013 Explain why a process is running on your Linux system",
+                "href": "https://github.com/pranshuparmar/witr"
+            },
+            {
+                "title": "Retreating from EVs could be hazardous for Western carmakers",
+                "href": "https://www.economist.com/business/2025/12/17/retreating-from-evs-could-be-hazardous-for-western-carmakers"
+            },
+            {
+                "title": "Drawing with zero-width characters",
+                "href": "https://zw.swerdlow.dev"
             },
             {
                 "title": "-tucky (2023)",
                 "href": "https://languagelog.ldc.upenn.edu/nll/?p=58650"
+            },
+            {
+                "title": "Publishing your work increases your luck",
+                "href": "https://github.com/readme/guides/publishing-your-work"
+            },
+            {
+                "title": "LearnixOS",
+                "href": "https://www.learnix-os.com"
             },
             {
                 "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
@@ -823,72 +839,56 @@
                 "href": "https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/"
             },
             {
-                "title": "Perfect Aircrete, Kitchen Ingredients [video]",
-                "href": "https://www.youtube.com/watch?v=z4_GxPHwqkA"
+                "title": "Moravec's Paradox and the Robot Olympics",
+                "href": "https://www.physicalintelligence.company/blog/olympics"
             },
             {
                 "title": "FFmpeg has issued a DMCA takedown on GitHub",
                 "href": "https://twitter.com/FFmpeg/status/2004599109559496984"
             },
             {
-                "title": "Gaussian Splatting 3 Ways",
-                "href": "https://github.com/NullandKale/NullSplats"
-            },
-            {
-                "title": "Moravec's Paradox and the Robot Olympics",
-                "href": "https://www.physicalintelligence.company/blog/olympics"
+                "title": "Perfect Aircrete, Kitchen Ingredients [video]",
+                "href": "https://www.youtube.com/watch?v=z4_GxPHwqkA"
             },
             {
                 "title": "Ask HN: What did you read in 2025?",
                 "href": "item?id=46391572"
             },
             {
-                "title": "One million (small web) screenshots",
-                "href": "https://nry.me/posts/2025-10-09/small-web-screenshots/"
-            },
-            {
                 "title": "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
                 "href": "https://github.com/valdanylchuk/xcc700"
+            },
+            {
+                "title": "Gaussian Splatting 3 Ways",
+                "href": "https://github.com/NullandKale/NullSplats"
             },
             {
                 "title": "MongoBleed",
                 "href": "https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py"
             },
             {
-                "title": "Migrating my web analytics from Matomo to Umami",
-                "href": "https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/"
-            },
-            {
-                "title": "Exe.dev/",
-                "href": "https://exe.dev/"
-            },
-            {
-                "title": "Unix \"find\" expressions compiled to bytecode",
-                "href": "https://nullprogram.com/blog/2025/12/23/"
+                "title": "The Algebra of Loans in Rust",
+                "href": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html"
             },
             {
                 "title": "Rob Pike goes nuclear over GenAI",
                 "href": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree"
             },
             {
-                "title": "The Algebra of Loans in Rust",
-                "href": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html"
+                "title": "Unix \"find\" expressions compiled to bytecode",
+                "href": "https://nullprogram.com/blog/2025/12/23/"
             },
             {
-                "title": "Sandbox: Run untrusted AI code safely, fast",
-                "href": "https://github.com/PwnFunction/sandbox"
+                "title": "A Knapsack Public Key Cryptosystem Based on Arithmetic in Finite Fields (1988) [pdf]",
+                "href": "https://people.csail.mit.edu/rivest/pubs/CR88.pdf"
+            },
+            {
+                "title": "Migrating my web analytics from Matomo to Umami",
+                "href": "https://stanislas.blog/2025/12/migrating-matomo-to-umami-web-analytics/"
             },
             {
                 "title": "What happened to all the gold Spain got from the New World? (1985)",
                 "href": "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world"
-            },
-            {
-                "title": "A Proclamation Regarding the Restoration of the\u00a0Dash",
-                "href": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/"
-            },
-            {
-                "title": "Show HN: AutoLISP interpreter in Rust/WASM \u2013 a CAD workflow invented 33 yrs ago",
-                "href": "https://acadlisp.de/noscript.html"
             }
         ]
     }
