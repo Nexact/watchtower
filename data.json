@@ -3,20 +3,24 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "MongoBleed explained simply",
-                "href": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply"
+                "title": "What an unprocessed photo looks like",
+                "href": "https://maurycyz.com/misc/raw_photo/"
             },
             {
                 "title": "Replacing JS with just HTML",
                 "href": "https://www.htmhell.dev/adventcalendar/2025/27/"
             },
             {
+                "title": "Parsing Advances",
+                "href": "https://matklad.github.io/2025/12/28/parsing-advances.html"
+            },
+            {
                 "title": "Tiny, types-first schema validation for TypeScript",
                 "href": "https://github.com/easrng/schema"
             },
             {
-                "title": "Parsing Advances",
-                "href": "https://matklad.github.io/2025/12/28/parsing-advances.html"
+                "title": "An experiment in vibe coding",
+                "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/"
             },
             {
                 "title": "Why is calling my asm function from Rust slower than calling it from C?",
@@ -27,12 +31,12 @@
                 "href": "https://blog.danieljanus.pl/2025/12/27/llms/"
             },
             {
-                "title": "Rust Errors Without Dependencies",
-                "href": "https://vincents.dev/blog/rust-errors-without-dependencies/"
-            },
-            {
                 "title": "The production bug that made me care about undefined behavior",
                 "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html"
+            },
+            {
+                "title": "Rust Errors Without Dependencies",
+                "href": "https://vincents.dev/blog/rust-errors-without-dependencies/"
             },
             {
                 "title": "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
@@ -63,20 +67,32 @@
                 "href": "https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/"
             },
             {
-                "title": "Release age v1.3.0: post-quantum (and more)",
-                "href": "https://github.com/FiloSottile/age/releases/tag/v1.3.0"
-            },
-            {
-                "title": "An experiment in vibe coding",
-                "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/"
-            },
-            {
                 "title": "Haskelling My Typst",
                 "href": "https://unnamed.website/posts/haskelling-my-typst/"
             },
             {
+                "title": "Fast CVVDP implementation in C",
+                "href": "https://github.com/halidecx/fcvvdp"
+            },
+            {
+                "title": "Slaughtering Competition Problems with Quantifier Elimination",
+                "href": "https://grossack.site/2021/12/22/qe-competition.html"
+            },
+            {
+                "title": "Release age v1.3.0: post-quantum (and more)",
+                "href": "https://github.com/FiloSottile/age/releases/tag/v1.3.0"
+            },
+            {
                 "title": "gpg.fail",
                 "href": "https://gpg.fail"
+            },
+            {
+                "title": "CVE-2025-14847: MongoBleed",
+                "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/"
+            },
+            {
+                "title": "How We Optimize RocksDB in TiKV \u2014 Write Batch Optimization",
+                "href": "https://medium.com/@siddontang/how-we-optimize-rocksdb-in-tikv-write-batch-optimization-28751a4bdd8b"
             },
             {
                 "title": "Arcan 0.7.1 \u2013 Minutes To Midnight",
@@ -85,22 +101,6 @@
             {
                 "title": "Poor code examples cause LLM misalignment in unrelated domains",
                 "href": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/"
-            },
-            {
-                "title": "Fast CVVDP implementation in C",
-                "href": "https://github.com/halidecx/fcvvdp"
-            },
-            {
-                "title": "Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks",
-                "href": "https://bobdahacker.com/blog/petlibro"
-            },
-            {
-                "title": "Slaughtering Competition Problems with Quantifier Elimination",
-                "href": "https://grossack.site/2021/12/22/qe-competition.html"
-            },
-            {
-                "title": "CVE-2025-14847: MongoBleed",
-                "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/"
             }
         ]
     },
@@ -303,6 +303,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "There Was Some Good News on Green Energy in 2025",
+                "href": "https://news.slashdot.org/story/25/12/28/2329200/there-was-some-good-news-on-green-energy-in-2025?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "'No Happy Ending for Movie Theatres', Argues WSJ - No Matter Who Wins Warner Bros.",
                 "href": "https://entertainment.slashdot.org/story/25/12/28/2238219/no-happy-ending-for-movie-theatres-argues-wsj---no-matter-who-wins-warner-bros?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -357,10 +361,6 @@
             {
                 "title": "Is Russia Developing an Anti-Satellite Weapon to Target Starlink?",
                 "href": "https://science.slashdot.org/story/25/12/27/2023253/is-russia-developing-an-anti-satellite-weapon-to-target-starlink?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux",
-                "href": "https://linux.slashdot.org/story/25/12/27/0744237/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -779,12 +779,16 @@
                 "href": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/"
             },
             {
-                "title": "PySDR: A Guide to SDR and DSP Using Python",
-                "href": "https://pysdr.org/content/intro.html"
-            },
-            {
                 "title": "62 years in the making: NYC's newest water tunnel nears the finish line",
                 "href": "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-"
+            },
+            {
+                "title": "Spherical Cow",
+                "href": "https://lib.rs/crates/spherical-cow"
+            },
+            {
+                "title": "PySDR: A Guide to SDR and DSP Using Python",
+                "href": "https://pysdr.org/content/intro.html"
             },
             {
                 "title": "MongoBleed Explained Simply",
@@ -795,96 +799,92 @@
                 "href": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/"
             },
             {
-                "title": "CEOs are hugely expensive. Why not automate them?",
-                "href": "https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots"
-            },
-            {
-                "title": "Spherical Cow",
-                "href": "https://lib.rs/crates/spherical-cow"
-            },
-            {
                 "title": "Growing up in \u201c404 Not Found\u201d: China's nuclear city in the Gobi Desert",
                 "href": "https://substack.com/inbox/post/182743659"
-            },
-            {
-                "title": "Calendar",
-                "href": "https://neatnik.net/calendar/?year=2026"
-            },
-            {
-                "title": "Time in C++: Inter-Clock Conversions, Epochs, and Durations",
-                "href": "https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions"
-            },
-            {
-                "title": "Remembering Lou Gerstner",
-                "href": "https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner"
             },
             {
                 "title": "Slaughtering Competition Problems with Quantifier Elimination",
                 "href": "https://grossack.site/2021/12/22/qe-competition.html"
             },
             {
+                "title": "Why I Disappeared \u2013 My week with minimal internet in a remote island chain",
+                "href": "https://www.kenklippenstein.com/p/why-i-disappeared"
+            },
+            {
+                "title": "Private equity is killing private ownership: first it was housing, now it's PCs",
+                "href": "https://old.reddit.com/r/pcmasterrace/comments/1px9xwx/private_equity_is_killing_private_ownership_first/"
+            },
+            {
+                "title": "Time in C++: Inter-Clock Conversions, Epochs, and Durations",
+                "href": "https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions"
+            },
+            {
+                "title": "Fast Cvvdp Implementation in C",
+                "href": "https://github.com/halidecx/fcvvdp"
+            },
+            {
+                "title": "Remembering Lou Gerstner",
+                "href": "https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner"
+            },
+            {
                 "title": "Building a macOS app to know when my Mac is thermal throttling",
                 "href": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/"
-            },
-            {
-                "title": "Show HN: Pion SCTP with RACK is 70% faster with 30% less latency",
-                "href": "https://pion.ly/blog/sctp-and-rack/"
-            },
-            {
-                "title": "Software engineers should be a little bit cynical",
-                "href": "https://www.seangoedecke.com/a-little-bit-cynical/"
             },
             {
                 "title": "Doublespeak: In-Context Representation Hijacking",
                 "href": "https://mentaleap.ai/doublespeak/"
             },
             {
-                "title": "John Malone and the Invention of Liquid-Based Engines",
-                "href": "https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-93-1350-25"
+                "title": "Learn computer graphics from scratch and for free",
+                "href": "https://www.scratchapixel.com"
             },
             {
-                "title": "Dolphin Progress Report: Release 2512",
-                "href": "https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/"
-            },
-            {
-                "title": "Show HN: Phantas \u2013 A browser-based binaural strobe engine (Web Audio API)",
-                "href": "https://phantas.io"
+                "title": "Writing non-English languages with a QWERTY keyboard",
+                "href": "https://altgr-weur.eu/altgr-intl.html"
             },
             {
                 "title": "As AI gobbles up chips, prices for devices may rise",
                 "href": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram"
             },
             {
-                "title": "Learn computer graphics from scratch and for free",
-                "href": "https://www.scratchapixel.com"
+                "title": "Show HN: Pion SCTP with RACK is 70% faster with 30% less latency",
+                "href": "https://pion.ly/blog/sctp-and-rack/"
             },
             {
-                "title": "Replacing JavaScript with Just HTML",
-                "href": "https://www.htmhell.dev/adventcalendar/2025/27/"
+                "title": "Dolphin Progress Report: Release 2512",
+                "href": "https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/"
+            },
+            {
+                "title": "How to Complain",
+                "href": "https://outerproduct.net/trivial/2024-03-25_complain.html"
             },
             {
                 "title": "One year of keeping a tada list",
                 "href": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list"
             },
             {
-                "title": "Langfuse (YC W23) Is Hiring in Berlin, Germany",
-                "href": "https://langfuse.com/careers"
+                "title": "Intermission: Battle Pulses",
+                "href": "https://acoup.blog/2025/12/18/intermission-battle-pulses/"
             },
             {
-                "title": "Show HN: LoongArch Userspace Emulator",
-                "href": "https://github.com/libriscv/libloong"
+                "title": "Oral History of Richard Greenblatt (2005) [pdf]",
+                "href": "https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf"
             },
             {
-                "title": "Loss of moist broadleaf forest in Africa has turned a carbon sink into source",
-                "href": "https://www.nature.com/articles/s41598-025-27462-3"
+                "title": "Software engineers should be a little bit cynical",
+                "href": "https://www.seangoedecke.com/a-little-bit-cynical/"
             },
             {
-                "title": "Why I Disappeared \u2013 My week with minimal internet in a remote island chain",
-                "href": "https://www.kenklippenstein.com/p/why-i-disappeared"
+                "title": "Show HN: Phantas \u2013 A browser-based binaural strobe engine (Web Audio API)",
+                "href": "https://phantas.io"
             },
             {
-                "title": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
-                "href": "https://arxiv.org/abs/2512.02080"
+                "title": "No, it's not a battleship",
+                "href": "https://www.navalgazing.net/No-its-not"
+            },
+            {
+                "title": "John Malone and the Invention of Liquid-Based Engines",
+                "href": "https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-93-1350-25"
             }
         ]
     }
