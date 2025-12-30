@@ -11,12 +11,12 @@
                 "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/"
             },
             {
-                "title": "Curl removes all calls to strcpy",
-                "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"
-            },
-            {
                 "title": "FediMeteo: How a Tiny \u20ac4 FreeBSD VPS Became a Global Weather Service for Thousands",
                 "href": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"
+            },
+            {
+                "title": "Curl removes all calls to strcpy",
+                "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"
             },
             {
                 "title": "loss32: let's build a Win32/Linux",
@@ -35,12 +35,20 @@
                 "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61"
             },
             {
+                "title": "Make-shift shebangs for Go",
+                "href": "https://lorentz.app/blog-item.html?id=go-shebang"
+            },
+            {
                 "title": "Can Bundler Be as Fast as uv?",
                 "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
             },
             {
                 "title": "The Second Great Error Model Convergence",
                 "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html"
+            },
+            {
+                "title": "Restarting systemd services on sustained CPU abuse",
+                "href": "https://taoofmac.com/space/til/2025/12/28/1400"
             },
             {
                 "title": "Static Allocation with Zig",
@@ -51,16 +59,16 @@
                 "href": "https://maurycyz.com/misc/raw_photo/"
             },
             {
-                "title": "Make-shift shebangs for Go",
-                "href": "https://lorentz.app/blog-item.html?id=go-shebang"
+                "title": "Memory Safety Is",
+                "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html"
             },
             {
                 "title": "Git's HTTP server side design does not scale",
                 "href": "https://xeiaso.net/notes/2025/distributed-git-ddos"
             },
             {
-                "title": "Restarting systemd services on sustained CPU abuse",
-                "href": "https://taoofmac.com/space/til/2025/12/28/1400"
+                "title": "Hacking washing machines",
+                "href": "https://media.ccc.de/v/39c3-hacking-washing-machines"
             },
             {
                 "title": "Garbage collection in Rust got a little better",
@@ -71,20 +79,12 @@
                 "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919"
             },
             {
-                "title": "Replacing python-dateutil to remove six",
-                "href": "https://hugovk.dev/blog/2025/minus-six/"
-            },
-            {
-                "title": "Hacking washing machines",
-                "href": "https://media.ccc.de/v/39c3-hacking-washing-machines"
-            },
-            {
                 "title": "How to Ruin All of Package Management",
                 "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html"
             },
             {
-                "title": "Memory Safety Is",
-                "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html"
+                "title": "Replacing python-dateutil to remove six",
+                "href": "https://hugovk.dev/blog/2025/minus-six/"
             },
             {
                 "title": "NES Game Genie Technical Notes (2001)",
@@ -99,8 +99,8 @@
                 "href": "https://github.com/velox-apps/velox"
             },
             {
-                "title": "Django On The Med: A Contributor Sprint Retrospective",
-                "href": "https://www.paulox.net/2025/12/30/django-on-the-med-a-contributor-sprint-retrospective/"
+                "title": "xzone malloc: memory allocator for Apple OS platforms",
+                "href": "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md"
             }
         ]
     },
@@ -319,6 +319,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "The Problem With Letting AI Do the Grunt Work",
+                "href": "https://slashdot.org/story/25/12/30/124254/the-problem-with-letting-ai-do-the-grunt-work?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Malaria Shows No Sign of Stopping",
                 "href": "https://science.slashdot.org/story/25/12/30/0841215/malaria-shows-no-sign-of-stopping?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -373,10 +377,6 @@
             {
                 "title": "Tough Job Market Has People Using Dating Apps To Get Interviews",
                 "href": "https://interviews.slashdot.org/story/25/12/29/2144201/tough-job-market-has-people-using-dating-apps-to-get-interviews?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Sam Altman Offers $555K Salary To Fill Most Daunting Role In AI",
-                "href": "https://news.slashdot.org/story/25/12/29/2136221/sam-altman-offers-555k-salary-to-fill-most-daunting-role-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -787,24 +787,32 @@
                 "href": "https://github.com/torokernel/torokernel"
             },
             {
+                "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+                "href": "https://www.gkbrk.com/hotel-music"
+            },
+            {
                 "title": "Non-Zero-Sum Games",
                 "href": "https://nonzerosum.games/"
+            },
+            {
+                "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
+                "href": "https://mwilczynski.dev/posts/riscv-gpu-zink/"
+            },
+            {
+                "title": "Loss32: Let's Build a Win32/Linux",
+                "href": "https://loss32.org/"
             },
             {
                 "title": "The British empire's resilient subsea telegraph network",
                 "href": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html"
             },
             {
-                "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
-                "href": "https://www.gkbrk.com/hotel-music"
-            },
-            {
-                "title": "The Legacy of Undersea Cables",
-                "href": "https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/"
-            },
-            {
-                "title": "Fucking Approachable Swift Concurrency",
+                "title": "Approachable Swift Concurrency",
                 "href": "https://fuckingapproachableswiftconcurrency.com/en/"
+            },
+            {
+                "title": "What Happened to Abit Motherboards",
+                "href": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/"
             },
             {
                 "title": "Times New American: A Tale of Two Fonts",
@@ -815,8 +823,8 @@
                 "href": "https://github.com/timescale/pgvectorscale"
             },
             {
-                "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
-                "href": "https://mwilczynski.dev/posts/riscv-gpu-zink/"
+                "title": "Show HN: Tidy Baby is a SET game but with words",
+                "href": "https://tidy.baby"
             },
             {
                 "title": "Netflix Open Content",
@@ -831,20 +839,16 @@
                 "href": "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497"
             },
             {
-                "title": "Show HN: Tidy Baby is a SET game but with words",
-                "href": "https://tidy.baby"
-            },
-            {
-                "title": "What Happened to Abit Motherboards",
-                "href": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/"
-            },
-            {
                 "title": "GOG is getting acquired by its original co-founder",
                 "href": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/"
             },
             {
                 "title": "Stranger Things creator says turn off \"garbage\" settings",
                 "href": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/"
+            },
+            {
+                "title": "Five Years of Tinygrad",
+                "href": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html"
             },
             {
                 "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
@@ -855,40 +859,40 @@
                 "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"
             },
             {
+                "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+                "href": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/"
+            },
+            {
                 "title": "Concurrent Hash Table Designs",
                 "href": "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/"
             },
             {
-                "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-                "href": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/"
+                "title": "Optimal Classification Cutoffs",
+                "href": "https://finite-sample.github.io/optimal-classification-cutoffs/"
             },
             {
                 "title": "Charm Ruby \u2013 Glamorous Terminal Libraries for Ruby",
                 "href": "https://charm-ruby.dev/"
             },
             {
-                "title": "Hacking Washing Machines [video]",
-                "href": "https://media.ccc.de/v/39c3-hacking-washing-machines"
-            },
-            {
-                "title": "Nicolas Guillou, French ICC judge sanctioned by the US and \u201cdebanked\u201d",
-                "href": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html"
-            },
-            {
                 "title": "The future of software development is software developers",
                 "href": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"
+            },
+            {
+                "title": "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
+                "href": "https://github.com/kenryu42/claude-code-safety-net"
+            },
+            {
+                "title": "Hacking Washing Machines [video]",
+                "href": "https://media.ccc.de/v/39c3-hacking-washing-machines"
             },
             {
                 "title": "ManusAI Joins Meta",
                 "href": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
             },
             {
-                "title": "Ask HN: Any example of successful vibe-coded product?",
-                "href": "item?id=46434821"
-            },
-            {
-                "title": "'Commuting Is Bad'\u2013Particularly for Women",
-                "href": "https://www.theatlantic.com/family/2025/12/commute-gender-wage-gap-mothers/685265/"
+                "title": "Nicolas Guillou, French ICC judge sanctioned by the US and \u201cdebanked\u201d",
+                "href": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html"
             },
             {
                 "title": "UNIX Fourth Edition",
@@ -897,10 +901,6 @@
             {
                 "title": "AI is forcing us to write good code",
                 "href": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"
-            },
-            {
-                "title": "Graph Algorithms in Rayon",
-                "href": "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html"
             }
         ]
     }
