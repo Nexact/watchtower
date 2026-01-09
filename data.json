@@ -15,24 +15,24 @@
                 "href": "https://lwn.net/Articles/1053107/"
             },
             {
-                "title": "What Happened To WebAssembly",
-                "href": "https://emnudge.dev/blog/what-happened-to-webassembly/"
-            },
-            {
                 "title": "Shell scripts",
                 "href": "https://f5n.org/blog/2026/shell-scripts/"
+            },
+            {
+                "title": "What Happened To WebAssembly",
+                "href": "https://emnudge.dev/blog/what-happened-to-webassembly/"
             },
             {
                 "title": "Celeste & TowerFall Physics",
                 "href": "https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html"
             },
             {
-                "title": "Magicall: end-to-end encrypted videoconferencing in the browser, now in alpha",
-                "href": "https://magicall.online"
-            },
-            {
                 "title": "jujutsu v0.37.0 released",
                 "href": "https://github.com/jj-vcs/jj/releases/tag/v0.37.0"
+            },
+            {
+                "title": "Magicall: end-to-end encrypted videoconferencing in the browser, now in alpha",
+                "href": "https://magicall.online"
             },
             {
                 "title": "Which programming languages are most token-efficient?",
@@ -63,28 +63,32 @@
                 "href": "https://github.com/chromium/chromium/commit/3badff27281339878293e935a5e0fbb41da553bf"
             },
             {
+                "title": "Answer Set Programming (2019)",
+                "href": "https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf"
+            },
+            {
                 "title": "Dell seems to be the first to realise we don't actually care about AI PCs",
                 "href": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/"
-            },
-            {
-                "title": "How Terminals Work",
-                "href": "https://how-terminals-work.vercel.app/"
-            },
-            {
-                "title": "Tailwind Labs loses 80% of revenue and 75% of engineering due to AI",
-                "href": "https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left"
-            },
-            {
-                "title": "HTML parsers in Portland",
-                "href": "https://felix.dognebula.com/art/html-parsers-in-portland.html"
             },
             {
                 "title": "Making Tools Developers Actually Use - Michiel Borkent",
                 "href": "https://www.youtube.com/watch?v=119qVkHxPkM"
             },
             {
-                "title": "Answer Set Programming (2019)",
-                "href": "https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf"
+                "title": "How Terminals Work",
+                "href": "https://how-terminals-work.vercel.app/"
+            },
+            {
+                "title": "HTML parsers in Portland",
+                "href": "https://felix.dognebula.com/art/html-parsers-in-portland.html"
+            },
+            {
+                "title": "Tailwind Labs loses 80% of revenue and 75% of engineering due to AI",
+                "href": "https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left"
+            },
+            {
+                "title": "How we made Python's packaging library 3x faster",
+                "href": "https://iscinumpy.dev/post/packaging-faster/"
             },
             {
                 "title": "Why SemVer fails when you patch old versions and what to do instead",
@@ -97,10 +101,6 @@
             {
                 "title": "Project Patchouli - Open-source electromagnetic drawing tablet hardware",
                 "href": "https://patchouli.readthedocs.io/en/latest/"
-            },
-            {
-                "title": "Clang Hardening Cheat Sheet - Ten Years Later",
-                "href": "https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html"
             }
         ]
     },
@@ -315,6 +315,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Amazon's New Manager Dashboard Flags 'Low-Time Badgers' and 'Zero Badgers'",
+                "href": "https://slashdot.org/story/26/01/09/1728223/amazons-new-manager-dashboard-flags-low-time-badgers-and-zero-badgers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Torvalds Tells Kernel Devs To Stop Debating AI Slop - Bad Actors Won't Follow the Rules Anyway",
                 "href": "https://linux.slashdot.org/story/26/01/09/1649237/torvalds-tells-kernel-devs-to-stop-debating-ai-slop---bad-actors-wont-follow-the-rules-anyway?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -369,10 +373,6 @@
             {
                 "title": "Google Is Adding an 'AI Inbox' To Gmail That Summarizes Emails",
                 "href": "https://tech.slashdot.org/story/26/01/08/2212216/google-is-adding-an-ai-inbox-to-gmail-that-summarizes-emails?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "French Court Orders Google DNS to Block Pirate Sites, Dismisses 'Cloudflare-First' Defense",
-                "href": "https://yro.slashdot.org/story/26/01/08/224243/french-court-orders-google-dns-to-block-pirate-sites-dismisses-cloudflare-first-defense?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -783,52 +783,80 @@
                 "href": "https://lend-me-your-ears.specr.net"
             },
             {
+                "title": "JavaScript Demos in 140 Characters",
+                "href": "https://www.dwitter.net/top"
+            },
+            {
                 "title": "The Vietnam government has banned rooted phones from using any banking app",
                 "href": "https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118"
             },
             {
-                "title": "Why is SendGrid emailing me about supporting ICE?",
-                "href": "https://fredbenenson.com/blog/2026/01/09/why-is-sendgrid-emailing-me-about-supporting-ice/"
+                "title": "How to store a chess position in 26 bytes (2022)",
+                "href": "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605"
             },
             {
-                "title": "London\u2013Calcutta Bus Service",
-                "href": "https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service"
+                "title": "Scientists discover oldest poison, on 60k-year-old arrows",
+                "href": "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html"
             },
             {
-                "title": "Cloudspecs: Cloud Hardware Evolution Through the Looking Glass",
-                "href": "http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html"
-            },
-            {
-                "title": "When Kitty Litter Caused a Nuclear Catastrophe",
-                "href": "https://practical.engineering/blog/2025/4/15/when-kitty-litter-caused-a-nuclear-catastrophe"
-            },
-            {
-                "title": "Replit (YC W18) Is Hiring",
-                "href": "https://jobs.ashbyhq.com/replit"
+                "title": "Agonist-Antagonist Myoneural Interface",
+                "href": "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/"
             },
             {
                 "title": "Mathematics for Computer Science (2018) [pdf]",
                 "href": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
             },
             {
+                "title": "London\u2013Calcutta Bus Service",
+                "href": "https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service"
+            },
+            {
+                "title": "Replit (YC W18) Is Hiring",
+                "href": "https://jobs.ashbyhq.com/replit"
+            },
+            {
+                "title": "Cloudflare CEO on the Italy fines",
+                "href": "https://twitter.com/eastdakota/status/2009654937303896492"
+            },
+            {
+                "title": "Cloudspecs: Cloud Hardware Evolution Through the Looking Glass",
+                "href": "http://muratbuffalo.blogspot.com/2026/01/cloudspecs-cloud-hardware-evolution.html"
+            },
+            {
                 "title": "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
                 "href": "https://puzer.github.io/github_recommender/"
+            },
+            {
+                "title": "U.S. mandates more foreign travelers to pay $15,000 visa bond deposits",
+                "href": "https://www.washingtonpost.com/immigration/2026/01/06/visa-bonds-state-overstay-rates/"
             },
             {
                 "title": "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
                 "href": "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c"
             },
             {
-                "title": "Kagi releases alpha version of Orion for Linux",
-                "href": "https://help.kagi.com/orion/misc/linux-status.html"
+                "title": "When Kitty Litter Caused a Nuclear Catastrophe",
+                "href": "https://practical.engineering/blog/2025/4/15/when-kitty-litter-caused-a-nuclear-catastrophe"
             },
             {
-                "title": "How Will the Miracle Happen Today?",
-                "href": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/"
+                "title": "Show HN: Various shape regularization algorithms",
+                "href": "https://github.com/nickponline/shreg"
+            },
+            {
+                "title": "Show HN: Scroll Wikipedia like TikTok",
+                "href": "https://quack.sdan.io"
+            },
+            {
+                "title": "Developers Are Solving the Wrong Problem",
+                "href": "https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem"
             },
             {
                 "title": "How to Code Claude Code in 200 Lines of Code",
                 "href": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"
+            },
+            {
+                "title": "How Will the Miracle Happen Today?",
+                "href": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/"
             },
             {
                 "title": "Sorted string tables (SST) from first principles",
@@ -839,24 +867,28 @@
                 "href": "https://www.phoronix.com/news/Steam-OS-Beta-NTSYNC"
             },
             {
-                "title": "Cloudflare CEO on the Italy Fines",
-                "href": "https://twitter.com/eastdakota/status/2009654937303896492"
+                "title": "Kagi releases alpha version of Orion for Linux",
+                "href": "https://help.kagi.com/orion/misc/linux-status.html"
             },
             {
-                "title": "Developers Are Solving the Wrong Problem",
-                "href": "https://caseysoftware.com/blog/developers-are-solving-the-wrong-problem"
+                "title": "CI-Hush",
+                "href": "https://gitlab.com/jjg/ci-hush"
             },
             {
                 "title": "Hacking a Casio F-91W digital watch (2023)",
                 "href": "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15"
             },
             {
+                "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+                "href": "https://github.com/samuel-vitorino/sopro"
+            },
+            {
                 "title": "Embassy: Modern embedded framework, using Rust and async",
                 "href": "https://github.com/embassy-rs/embassy"
             },
             {
-                "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
-                "href": "https://github.com/samuel-vitorino/sopro"
+                "title": "73% People Detained by ICE Have No Convictions",
+                "href": "https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions"
             },
             {
                 "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
@@ -865,38 +897,6 @@
             {
                 "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
                 "href": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/"
-            },
-            {
-                "title": "What happened to WebAssembly",
-                "href": "https://emnudge.dev/blog/what-happened-to-webassembly/"
-            },
-            {
-                "title": "How Samba Was Written (2003)",
-                "href": "https://download.samba.org/pub/tridge/misc/french_cafe.txt"
-            },
-            {
-                "title": "The Jeff Dean Facts",
-                "href": "https://github.com/LRitzdorf/TheJeffDeanFacts"
-            },
-            {
-                "title": "The unreasonable effectiveness of the Fourier transform",
-                "href": "https://joshuawise.com/resources/ofdm/"
-            },
-            {
-                "title": "AI coding assistants are getting worse?",
-                "href": "https://spectrum.ieee.org/ai-coding-degrades"
-            },
-            {
-                "title": "Show HN: Executable Markdown files with Unix pipes",
-                "href": "item?id=46549444"
-            },
-            {
-                "title": "Photographing the hidden world of slime mould",
-                "href": "https://www.bbc.com/news/articles/c9d9409p76qo"
-            },
-            {
-                "title": "Replit founder Amjad Masad isn\u2019t afraid of Silicon Valley",
-                "href": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/"
             }
         ]
     }
