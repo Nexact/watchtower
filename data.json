@@ -39,20 +39,32 @@
                 "href": "https://abhinavsarkar.net/posts/jj-usage/"
             },
             {
+                "title": "Asahi Linux - Porting Linux to Apple Silicon",
+                "href": "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon"
+            },
+            {
                 "title": "OpenChaos.dev",
                 "href": "https://www.openchaos.dev/"
+            },
+            {
+                "title": "Writing mutexes from scratch in Go",
+                "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html"
             },
             {
                 "title": "How Safe is the Rust Ecosystem? A Deep Dive into crates.io",
                 "href": "https://mr-leshiy-blog.web.app/blog/crates_io_analysis/"
             },
             {
+                "title": "PMU Counters on Apple Silicon",
+                "href": "https://blog.bugsiki.dev/posts/apple-pmu/"
+            },
+            {
                 "title": "Code And Let Live",
                 "href": "https://fly.io/blog/code-and-let-live/"
             },
             {
-                "title": "Writing mutexes from scratch in Go",
-                "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html"
+                "title": "Implementing a tiny CPU rasterizer",
+                "href": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html"
             },
             {
                 "title": "Pulling a New Proof from Knuth\u2019s Fixed-Point Printer",
@@ -63,10 +75,6 @@
                 "href": "https://github.com/dbreunig/whenwords"
             },
             {
-                "title": "PMU Counters on Apple Silicon",
-                "href": "https://blog.bugsiki.dev/posts/apple-pmu/"
-            },
-            {
                 "title": "Hongdown: An opinionated Markdown formatter in Rust",
                 "href": "https://github.com/dahlia/hongdown"
             },
@@ -75,12 +83,12 @@
                 "href": "https://www.karl-voit.at/2025/08/17/Markdown-disaster/"
             },
             {
-                "title": "std::move doesn't move anything: A deep dive into Value Categories",
-                "href": "https://0xghost.dev/blog/std-move-deep-dive/"
+                "title": "KIM1-Demo: for the KIM-1's 50th birthday",
+                "href": "https://github.com/netzherpes/KIM1-Demo"
             },
             {
-                "title": "Implementing a tiny CPU rasterizer",
-                "href": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html"
+                "title": "std::move doesn't move anything: A deep dive into Value Categories",
+                "href": "https://0xghost.dev/blog/std-move-deep-dive/"
             },
             {
                 "title": "Prompting 101: Show, don\u2019t tell",
@@ -93,14 +101,6 @@
             {
                 "title": "&&&&&&&&&&&&&&str",
                 "href": "https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/"
-            },
-            {
-                "title": "Continuous Snapshotting Filesystem",
-                "href": "https://nilfs.sourceforge.io/en/index.html"
-            },
-            {
-                "title": "Learn C++ Itanium Symbol Mangling",
-                "href": "https://noratrieb.github.io/womangling/"
             }
         ]
     },
@@ -791,32 +791,48 @@
                 "href": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders"
             },
             {
-                "title": "Think of Pavlov",
-                "href": "https://boz.com/articles/think-pavlov"
-            },
-            {
-                "title": "Show HN: Porting xv6 to HiFive Unmatched board",
-                "href": "https://github.com/eyengin/xv6-riscv-unmatched"
-            },
-            {
                 "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
                 "href": "https://0xghost.dev/blog/std-move-deep-dive/"
+            },
+            {
+                "title": "Think of Pavlov",
+                "href": "https://boz.com/articles/think-pavlov"
             },
             {
                 "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
                 "href": "https://github.com/amcchord/M5Tab-Macintosh"
             },
             {
+                "title": "I dumped Windows 11 for Linux, and you should too",
+                "href": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html"
+            },
+            {
                 "title": "The Concise TypeScript Book",
                 "href": "https://github.com/gibbok/typescript-book"
+            },
+            {
+                "title": "Show HN: Porting xv6 to HiFive Unmatched board",
+                "href": "https://github.com/eyengin/xv6-riscv-unmatched"
             },
             {
                 "title": "Vojtux \u2013 Unofficial Linux Distribution Aimed at Visually Impaired Users",
                 "href": "https://github.com/vojtapolasek/vojtux"
             },
             {
+                "title": "My Home Fibre Network Disintegrated",
+                "href": "https://alienchow.dev/post/fibre_disintegration/"
+            },
+            {
+                "title": "HTML-only conditional lazy loading (via preload and media)",
+                "href": "https://orga.cat/blog/html-conditional-lazy-loading/"
+            },
+            {
                 "title": "More than one hundred years of Film Sizes",
                 "href": "https://wichm.home.xs4all.nl/filmsize.html"
+            },
+            {
+                "title": "You are not required to close your <p>, <li>, <img>, or <br> tags in HTML",
+                "href": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/"
             },
             {
                 "title": "Finding and fixing Ghostty's largest memory leak",
@@ -827,76 +843,60 @@
                 "href": "https://trails.pieterma.es/"
             },
             {
-                "title": "Iran Shuts Down Starlink Internet for First Time",
-                "href": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/"
-            },
-            {
-                "title": "Google: Don't make \"bite-sized\" content for LLMs",
-                "href": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/"
-            },
-            {
-                "title": "CPU Counters on Apple Silicon: article + tool",
-                "href": "https://blog.bugsiki.dev/posts/apple-pmu/"
-            },
-            {
-                "title": "Code and Let Live",
-                "href": "https://fly.io/blog/code-and-let-live/"
-            },
-            {
-                "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
-                "href": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/"
-            },
-            {
-                "title": "Open Chaos: A self-evolving open-source project",
-                "href": "https://www.openchaos.dev/"
-            },
-            {
-                "title": "Max Payne \u2013 two decades later \u2013 Graphics Critique (2021)",
-                "href": "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html"
-            },
-            {
-                "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
-                "href": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/"
-            },
-            {
                 "title": "Show HN: Ferrite \u2013 Markdown editor in Rust with native Mermaid diagram rendering",
                 "href": "https://github.com/OlaProeis/Ferrite"
-            },
-            {
-                "title": "AI is a business model stress test",
-                "href": "https://dri.es/ai-is-a-business-model-stress-test"
             },
             {
                 "title": "Outward Signs of Inner Mysteries",
                 "href": "https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/"
             },
             {
+                "title": "Iran Shuts Down Starlink Internet for First Time",
+                "href": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/"
+            },
+            {
+                "title": "Code and Let Live",
+                "href": "https://fly.io/blog/code-and-let-live/"
+            },
+            {
+                "title": "CPU Counters on Apple Silicon: article + tool",
+                "href": "https://blog.bugsiki.dev/posts/apple-pmu/"
+            },
+            {
+                "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
+                "href": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/"
+            },
+            {
+                "title": "Google: Don't make \"bite-sized\" content for LLMs",
+                "href": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/"
+            },
+            {
+                "title": "Open Chaos: A self-evolving open-source project",
+                "href": "https://www.openchaos.dev/"
+            },
+            {
+                "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+                "href": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/"
+            },
+            {
+                "title": "Max Payne \u2013 two decades later \u2013 Graphics Critique (2021)",
+                "href": "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html"
+            },
+            {
+                "title": "AI is a business model stress test",
+                "href": "https://dri.es/ai-is-a-business-model-stress-test"
+            },
+            {
+                "title": "Don't fall into the anti-AI hype",
+                "href": "https://antirez.com/news/158"
+            },
+            {
                 "title": "Overdose deaths are falling in America because of a 'supply shock': study",
                 "href": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america"
             },
             {
-                "title": "HTML-only conditional lazy loading (via preload and media)",
-                "href": "https://orga.cat/blog/html-conditional-lazy-loading/"
-            },
-            {
                 "title": "Show HN: Play poker with LLMs, or watch them play against each other",
                 "href": "https://llmholdem.com/"
-            },
-            {
-                "title": "Show HN: I built an Open Source screen timer for the m5stickc (Arduino)",
-                "href": "https://partridge.works/screenie-christmas-project-2025-26/"
-            },
-            {
-                "title": "An Experimental Approach to Printf in HLSL",
-                "href": "https://www.abolishcrlf.org//2025/12/31/Printf.html"
-            },
-            {
-                "title": "A battle over Canada\u2019s mystery brain disease",
-                "href": "https://www.bbc.com/news/articles/c623r47d67lo"
-            },
-            {
-                "title": "LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor",
-                "href": "https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question"
             }
         ]
     }
