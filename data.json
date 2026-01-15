@@ -35,12 +35,12 @@
                 "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/"
             },
             {
-                "title": "Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks",
-                "href": "https://rahulpandita.me/blog/2026-01-14-Mobile-Development"
-            },
-            {
                 "title": "Chat is the least interesting interface to LLMs",
                 "href": "https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html"
+            },
+            {
+                "title": "Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks",
+                "href": "https://rahulpandita.me/blog/2026-01-14-Mobile-Development"
             },
             {
                 "title": "Scaling long-running autonomous coding",
@@ -63,6 +63,10 @@
                 "href": "https://yarnspinner.dev/blog/why-we-dont-use-ai/"
             },
             {
+                "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
+                "href": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
+            },
+            {
                 "title": "Rust at Volvo Cars",
                 "href": "https://www.youtube.com/watch?v=vBofCW8j70A"
             },
@@ -73,6 +77,10 @@
             {
                 "title": "Writing Anteforth, a Forth-like in SPARK",
                 "href": "https://pyjarrett.github.io/2026/01/13/anteforth.html"
+            },
+            {
+                "title": "Artificial StupidIntelligence and Airport Sinks",
+                "href": "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/"
             },
             {
                 "title": "My AI got a Github account",
@@ -87,20 +95,12 @@
                 "href": "https://truffleruby.dev/blog/truffleruby-33-is-released"
             },
             {
-                "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
-                "href": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
-            },
-            {
-                "title": "Artificial StupidIntelligence and Airport Sinks",
-                "href": "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/"
+                "title": "Rickroll in rustc",
+                "href": "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68"
             },
             {
                 "title": "Black-White Array: A New Data Structure for Dynamic Data Sets",
                 "href": "https://arxiv.org/abs/2004.09051"
-            },
-            {
-                "title": "How to Build Good Software",
-                "href": "https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/"
             }
         ]
     },
@@ -779,60 +779,80 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Claude Cowork Exfiltrates Files",
-                "href": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"
-            },
-            {
                 "title": "The URL shortener that makes your links look as suspicious as possible",
                 "href": "https://creepylink.com/"
+            },
+            {
+                "title": "Claude Cowork exfiltrates files",
+                "href": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"
             },
             {
                 "title": "Furiosa: 3.5x efficiency over H100s",
                 "href": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale"
             },
             {
+                "title": "Ask HN: What is the best way to provide continuous context to models?",
+                "href": "item?id=46626639"
+            },
+            {
                 "title": "Scaling long-running autonomous coding",
                 "href": "https://cursor.com/blog/scaling-agents"
+            },
+            {
+                "title": "You need a kitchen slide rule",
+                "href": "https://entropicthoughts.com/kitchen-slide-rule"
             },
             {
                 "title": "Ask HN: Share your personal website",
                 "href": "item?id=46618714"
             },
             {
-                "title": "Ask HN: What is the best way to provide continuous context to models?",
-                "href": "item?id=46626639"
+                "title": "Show HN: Sparrow-1 \u2013 Audio-native model for human-level turn-taking without ASR",
+                "href": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice"
             },
             {
-                "title": "You Need a Kitchen Slide Rule",
-                "href": "https://entropicthoughts.com/kitchen-slide-rule"
-            },
-            {
-                "title": "The State of OpenSSL for pyca/cryptography",
-                "href": "https://cryptography.io/en/latest/statements/state-of-openssl/"
+                "title": "Ask HN: Weird archive.today behavior?",
+                "href": "item?id=46624740"
             },
             {
                 "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
                 "href": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/"
             },
             {
-                "title": "Show HN: WebTiles \u2013 create a tiny 250x250 website with neighbors around you",
-                "href": "https://webtiles.kicya.net/"
+                "title": "Ask HN: What did you find out or explore today?",
+                "href": "item?id=46619464"
+            },
+            {
+                "title": "Project SkyWatch (a.k.a. Wescam at Home)",
+                "href": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/"
+            },
+            {
+                "title": "The State of OpenSSL for pyca/cryptography",
+                "href": "https://cryptography.io/en/latest/statements/state-of-openssl/"
+            },
+            {
+                "title": "Ask HN: How are you doing RAG locally?",
+                "href": "item?id=46616529"
+            },
+            {
+                "title": "New Safari developer tools provide insight into CSS Grid Lanes",
+                "href": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/"
             },
             {
                 "title": "Why some clothes shrink in the wash and how to unshrink them",
                 "href": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/"
             },
             {
-                "title": "ChromaDB Explorer",
-                "href": "https://www.chroma-explorer.com/"
+                "title": "Eigent: An open source Claude Cowork alternative",
+                "href": "https://github.com/eigent-ai/eigent"
             },
             {
-                "title": "MIT Whirlwind I: A High-Speed Electronic Digital Computer (1951)",
-                "href": "https://dome.mit.edu/bitstream/handle/1721.3/40245/MC665_r12_R-209.pdf?sequence=1&isAllowed=y"
+                "title": "Show HN: WebTiles \u2013 create a tiny 250x250 website with neighbors around you",
+                "href": "https://webtiles.kicya.net/"
             },
             {
-                "title": "Ask HN: How are you doing RAG locally?",
-                "href": "item?id=46616529"
+                "title": "Show HN: Webctl \u2013 Browser automation for agents based on CLI instead of MCP",
+                "href": "https://github.com/cosinusalpha/webctl"
             },
             {
                 "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
@@ -843,60 +863,40 @@
                 "href": "https://drajmarsh.bitbucket.io/earthsun.html"
             },
             {
-                "title": "Ask HN: Distributed SQL engine for ultra-wide tables",
-                "href": "item?id=46624190"
-            },
-            {
-                "title": "Generate QR Codes with Pure SQL in PostgreSQL",
-                "href": "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/"
+                "title": "ChromaDB Explorer",
+                "href": "https://www.chroma-explorer.com/"
             },
             {
                 "title": "Find a pub that needs you",
                 "href": "https://www.ismypubfucked.com/"
             },
             {
-                "title": "Ask HN: What did you find out or explore today?",
-                "href": "item?id=46619464"
+                "title": "First impressions of Claude Cowork",
+                "href": "https://simonw.substack.com/p/first-impressions-of-claude-cowork"
+            },
+            {
+                "title": "Generate QR Codes with Pure SQL in PostgreSQL",
+                "href": "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/"
             },
             {
                 "title": "How can I build a simple pulse generator to demonstrate transmission lines",
                 "href": "https://electronics.stackexchange.com/questions/764155/how-can-i-build-a-simple-pulse-generator-to-demonstrate-transmission-lines"
             },
             {
-                "title": "Crafting Interpreters",
-                "href": "https://craftinginterpreters.com/"
-            },
-            {
-                "title": "Ask HN: Weird archive.today behavior?",
-                "href": "item?id=46624740"
+                "title": "I Designed a Custom Protocol for My App",
+                "href": "https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app"
             },
             {
                 "title": "Roam 50GB is now Roam 100GB",
                 "href": "https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d"
             },
             {
-                "title": "Show HN: Webctl \u2013 Browser automation for agents based on CLI instead of MCP",
-                "href": "https://github.com/cosinusalpha/webctl"
+                "title": "Ask HN: Distributed SQL engine for ultra-wide tables",
+                "href": "item?id=46624190"
             },
             {
-                "title": "Rubik's Cube in Prolog \u2013 Order",
-                "href": "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7"
-            },
-            {
-                "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
-                "href": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/"
-            },
-            {
-                "title": "Is Rust faster than C?",
-                "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/"
-            },
-            {
-                "title": "Native ZFS VDEV for Object Storage (OpenZFS Summit)",
-                "href": "https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html"
-            },
-            {
-                "title": "GitHub should charge everyone $1 more per month to fund open source",
-                "href": "https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html"
+                "title": "Crafting Interpreters",
+                "href": "https://craftinginterpreters.com/"
             }
         ]
     }
