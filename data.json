@@ -3,10 +3,6 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Glasgow Interface Explorer Code of Conduct",
-                "href": "https://glasgow-embedded.org/latest/conduct.html"
-            },
-            {
                 "title": "Histomat of F/OSS: We should reclaim LLMs, not reject them",
                 "href": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/"
             },
@@ -35,8 +31,16 @@
                 "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html"
             },
             {
+                "title": "Glasgow Interface Explorer Code of Conduct",
+                "href": "https://glasgow-embedded.org/latest/conduct.html"
+            },
+            {
                 "title": "smalloc: a simple memory allocator",
                 "href": "https://github.com/zooko/smalloc"
+            },
+            {
+                "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
+                "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
             },
             {
                 "title": "What are you doing this weekend?",
@@ -47,16 +51,16 @@
                 "href": "https://nilostolte.github.io/tech/articles/ZigCool.html"
             },
             {
-                "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
-                "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
-            },
-            {
                 "title": "The Astro Technology Company joins Cloudflare",
                 "href": "https://astro.build/blog/joining-cloudflare/"
             },
             {
                 "title": "Forgejo v14.0 is available",
                 "href": "https://forgejo.org/2026-01-release-v14-0/"
+            },
+            {
+                "title": "What are your favorite drawing libraries?",
+                "href": "https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries"
             },
             {
                 "title": "Cutting LLM token Usage by ~80% using REPL driven document analysis",
@@ -71,36 +75,32 @@
                 "href": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/"
             },
             {
-                "title": "Ergonomic abstractions for numerical computing: My story so far",
-                "href": "http://ocramz.github.io/posts/2026-01-16-ergonomics-numerical.html"
-            },
-            {
                 "title": "Designated Initializers, the best feature of C++20",
                 "href": "https://mropert.github.io/2026/01/15/designed_initializers/"
+            },
+            {
+                "title": "Ergonomic abstractions for numerical computing: My story so far",
+                "href": "http://ocramz.github.io/posts/2026-01-16-ergonomics-numerical.html"
             },
             {
                 "title": "Lobsters Battlestations and Screenshots (2026)",
                 "href": "https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots"
             },
             {
-                "title": "A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby",
-                "href": "https://projectzero.google/2026/01/pixel-0-click-part-1.html"
-            },
-            {
                 "title": "Integration tests are best tests",
                 "href": "https://jayconrod.com/posts/133/integration-tests-are-best-tests"
             },
             {
-                "title": "What are your favorite drawing libraries?",
-                "href": "https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries"
+                "title": "A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby",
+                "href": "https://projectzero.google/2026/01/pixel-0-click-part-1.html"
+            },
+            {
+                "title": "Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs",
+                "href": "https://arxiv.org/abs/2512.09742"
             },
             {
                 "title": "Experimental High Dynamic Range video playback on Windows in Firefox Nightly 148",
                 "href": "https://mozillagfx.wordpress.com/2026/01/16/experimental-high-dynamic-range-video-playback-on-windows-in-firefox-nightly-148/"
-            },
-            {
-                "title": "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
-                "href": "https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU"
             }
         ]
     },
@@ -140,12 +140,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1qdghv9/reprompt_the_singleclick_microsoft_copilot_attack/"
             },
             {
-                "title": "CVE-2026-20965: Cymulate Research Labs Discovers Token Validation Flaw that Leads to Tenant-Wide RCE in Azure Windows Admin Center",
-                "href": "https://old.reddit.com/r/netsec/comments/1qdmwad/cve202620965_cymulate_research_labs_discovers/"
-            },
-            {
                 "title": "WinBoat: Drive by Client RCE + Sandbox escape.",
                 "href": "https://old.reddit.com/r/netsec/comments/1qe14cy/winboat_drive_by_client_rce_sandbox_escape/"
+            },
+            {
+                "title": "CVE-2026-20965: Cymulate Research Labs Discovers Token Validation Flaw that Leads to Tenant-Wide RCE in Azure Windows Admin Center",
+                "href": "https://old.reddit.com/r/netsec/comments/1qdmwad/cve202620965_cymulate_research_labs_discovers/"
             },
             {
                 "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
@@ -213,6 +213,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "StealC hackers hacked as researchers hijack malware control panels",
+                "href": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/"
+            },
+            {
                 "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
                 "href": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/"
             },
@@ -263,10 +267,6 @@
             {
                 "title": "Verizon blames nationwide outage on a \"software issue\"",
                 "href": "https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/"
-            },
-            {
-                "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/"
             }
         ]
     },
@@ -318,6 +318,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Microplastics From Washing Clothes Could Be Hurting Your Tomatoes",
+                "href": "https://science.slashdot.org/story/26/01/16/2014231/microplastics-from-washing-clothes-could-be-hurting-your-tomatoes?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "PhD Students' Taste For Risk Mirrors Their Supervisors'",
                 "href": "https://news.slashdot.org/story/26/01/16/1916257/phd-students-taste-for-risk-mirrors-their-supervisors?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -373,10 +377,6 @@
             {
                 "title": "Study Finds Weak Evidence Linking Social Media Use to Teen Mental Health Problems",
                 "href": "https://tech.slashdot.org/story/26/01/15/2248249/study-finds-weak-evidence-linking-social-media-use-to-teen-mental-health-problems?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon Is Making a Fallout Shelter Competition Reality TV Show",
-                "href": "https://entertainment.slashdot.org/story/26/01/15/2239246/amazon-is-making-a-fallout-shelter-competition-reality-tv-show?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -795,68 +795,76 @@
                 "href": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html"
             },
             {
-                "title": "Just the Browser",
-                "href": "https://justthebrowser.com/"
+                "title": "Cursor's latest \u201cbrowser experiment\u201d implied success without evidence",
+                "href": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/"
             },
             {
-                "title": "Cursor's latest \"browser experiment\" implied success without evidence",
-                "href": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/"
+                "title": "Just the Browser",
+                "href": "https://justthebrowser.com/"
             },
             {
                 "title": "Lock-Picking Robot",
                 "href": "https://github.com/etinaude/Lock-Picking-Robot"
             },
             {
-                "title": "STFU",
-                "href": "https://github.com/Pankajtanwarbanna/stfu"
+                "title": "Elasticsearch was never a database",
+                "href": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database"
             },
             {
                 "title": "Launch HN: Indy (YC S21) \u2013 A support app designed for ADHD brains",
                 "href": "https://www.shimmer.care/indy-redirect"
             },
             {
-                "title": "Read_once(), Write_once(), but Not for Rust",
-                "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
-            },
-            {
-                "title": "Reading across books with Claude Code",
-                "href": "https://pieterma.es/syntopic-reading-claude/"
-            },
-            {
-                "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
-                "href": "https://dl.acm.org/doi/10.1145/3780063.3780066"
-            },
-            {
-                "title": "Elasticsearch Was Never a Database",
-                "href": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database"
-            },
-            {
-                "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
-                "href": "https://www.ycombinator.com/companies/zep-ai/jobs/"
-            },
-            {
-                "title": "The Alignment Game",
-                "href": "https://dmvaldman.github.io/alignment-game/"
+                "title": "STFU",
+                "href": "https://github.com/Pankajtanwarbanna/stfu"
             },
             {
                 "title": "Slop Is Everywhere for Those with Eyes to See",
                 "href": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/"
             },
             {
+                "title": "Reading across books with Claude Code",
+                "href": "https://pieterma.es/syntopic-reading-claude/"
+            },
+            {
+                "title": "East Germany balloon escape",
+                "href": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape"
+            },
+            {
+                "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
+                "href": "https://dl.acm.org/doi/10.1145/3780063.3780066"
+            },
+            {
+                "title": "Read_once(), Write_once(), but Not for Rust",
+                "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
+            },
+            {
+                "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
+                "href": "https://www.ycombinator.com/companies/zep-ai/jobs/"
+            },
+            {
                 "title": "Why DuckDB is my first choice for data processing",
                 "href": "https://www.robinlinacre.com/recommend_duckdb/"
             },
             {
-                "title": "Feature Selection: A Primer",
-                "href": "https://ikromshi.com/2025/12/30/feature-selection-primer.html"
+                "title": "The Alignment Game (2023)",
+                "href": "https://dmvaldman.github.io/alignment-game/"
+            },
+            {
+                "title": "LWN is currently under the heaviest scraper attack seen yet",
+                "href": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO"
+            },
+            {
+                "title": "Our approach to advertising",
+                "href": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/"
+            },
+            {
+                "title": "Independent Guest Virtual Machine (IGVM) File Format",
+                "href": "https://github.com/microsoft/igvm"
             },
             {
                 "title": "Emoji Use in the Electronic Health Record is Increasing",
                 "href": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883"
-            },
-            {
-                "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-                "href": "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
             },
             {
                 "title": "Show HN: 1Code \u2013 Open-source Cursor-like UI for Claude Code",
@@ -867,16 +875,16 @@
                 "href": "https://en.wikipedia.org/wiki/List_of_individual_trees"
             },
             {
-                "title": "Independent Guest Virtual Machine (IGVM) File Format",
-                "href": "https://github.com/microsoft/igvm"
+                "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
+                "href": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/"
+            },
+            {
+                "title": "Feature Selection: A Primer",
+                "href": "https://ikromshi.com/2025/12/30/feature-selection-primer.html"
             },
             {
                 "title": "Training my smartwatch to track intelligence",
                 "href": "https://dmvaldman.github.io/rooklift/"
-            },
-            {
-                "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-                "href": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/"
             },
             {
                 "title": "psc: The ps utility, with an eBPF twist and container context",
@@ -887,20 +895,12 @@
                 "href": "https://ebpf.party/"
             },
             {
-                "title": "Our approach to advertising and expanding access to ChatGPT",
-                "href": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/"
-            },
-            {
-                "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
-                "href": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories"
+                "title": "Ask HN: Claude Opus performance affected by time of day?",
+                "href": "item?id=46648900"
             },
             {
                 "title": "Earth from Space: The Fate of a Giant",
                 "href": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant"
-            },
-            {
-                "title": "The spectrum of isolation: From bare metal to WebAssembly",
-                "href": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/"
             }
         ]
     }
