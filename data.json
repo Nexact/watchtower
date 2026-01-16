@@ -7,12 +7,16 @@
                 "href": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/"
             },
             {
+                "title": "Modern Java",
+                "href": "https://javabook.mccue.dev"
+            },
+            {
                 "title": "Why Senior Engineers Let Bad Projects Fail",
                 "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/"
             },
             {
-                "title": "Modern Java",
-                "href": "https://javabook.mccue.dev"
+                "title": "Glasgow Interface Explorer Code of Conduct",
+                "href": "https://glasgow-embedded.org/latest/conduct.html"
             },
             {
                 "title": "HTTP RateLimit headers",
@@ -25,10 +29,6 @@
             {
                 "title": "Patching the Wii News Channel to serve local news",
                 "href": "https://raulnegron.me/2025/wii-news-pr/"
-            },
-            {
-                "title": "Glasgow Interface Explorer Code of Conduct",
-                "href": "https://glasgow-embedded.org/latest/conduct.html"
             },
             {
                 "title": "Why is Zig so Cool?",
@@ -45,6 +45,10 @@
             {
                 "title": "What are you doing this weekend?",
                 "href": "https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend"
+            },
+            {
+                "title": "Integration tests are best tests",
+                "href": "https://jayconrod.com/posts/133/integration-tests-are-best-tests"
             },
             {
                 "title": "The Magic of the Better Software Conference",
@@ -87,10 +91,6 @@
                 "href": "https://stackwarpattack.com/"
             },
             {
-                "title": "Integration tests are best tests",
-                "href": "https://jayconrod.com/posts/133/integration-tests-are-best-tests"
-            },
-            {
                 "title": "Going immutable on macOS",
                 "href": "https://carette.xyz/posts/going_immutable_macos/"
             },
@@ -99,8 +99,8 @@
                 "href": "https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html"
             },
             {
-                "title": "The State of Rust Cryptography in 2026",
-                "href": "https://kerkour.com/rust-cryptography-ecosystem-2026"
+                "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
+                "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
             }
         ]
     },
@@ -122,6 +122,10 @@
             {
                 "title": "Closing the Door on Net-NTLMv1: Releasing Rainbow Tables to Accelerate Protocol Deprecation",
                 "href": "https://old.reddit.com/r/netsec/comments/1qdpnfz/closing_the_door_on_netntlmv1_releasing_rainbow/"
+            },
+            {
+                "title": "StackWarp: Exploiting Stack Layout Vulnerabilities in Modern Processors",
+                "href": "https://old.reddit.com/r/netsec/comments/1qehxzy/stackwarp_exploiting_stack_layout_vulnerabilities/"
             },
             {
                 "title": "Multiple cross-site leaks disclosing Facebook users in third-party websites",
@@ -202,10 +206,6 @@
             {
                 "title": "Two CVEs, Zero Ego: A Mailpit Story",
                 "href": "https://old.reddit.com/r/netsec/comments/1qa8e6i/two_cves_zero_ego_a_mailpit_story/"
-            },
-            {
-                "title": "EDRStartupHinder: EDR Startup Process Blocker",
-                "href": "https://old.reddit.com/r/netsec/comments/1q9vvbz/edrstartuphinder_edr_startup_process_blocker/"
             }
         ]
     },
@@ -779,56 +779,60 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Just the Browser",
-                "href": "https://justthebrowser.com/"
-            },
-            {
                 "title": "Astro Joining Cloudflare",
                 "href": "https://astro.build/blog/joining-cloudflare/"
+            },
+            {
+                "title": "Just the Browser",
+                "href": "https://justthebrowser.com/"
             },
             {
                 "title": "Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old",
                 "href": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html"
             },
             {
-                "title": "Show HN: I built a text-based business simulator to replace video courses",
-                "href": "https://www.core-mba.pro/"
-            },
-            {
-                "title": "Show HN: The Analog I \u2013 Inducing Recursive Self-Modeling in LLMs [pdf]",
-                "href": "https://github.com/philMarcus/Birth-of-a-Mind"
-            },
-            {
                 "title": "Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory",
                 "href": "https://dl.acm.org/doi/10.1145/3780063.3780066"
-            },
-            {
-                "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-                "href": "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
             },
             {
                 "title": "Lock-Picking Robot",
                 "href": "https://github.com/etinaude/Lock-Picking-Robot"
             },
             {
-                "title": "List of individual trees",
-                "href": "https://en.wikipedia.org/wiki/List_of_individual_trees"
+                "title": "America could have $4 lunch bowls like Japan but for zoning laws",
+                "href": "https://abio.substack.com/p/america-could-have-4-lunch-bowls"
             },
             {
-                "title": "Interactive eBPF",
-                "href": "https://ebpf.party/"
-            },
-            {
-                "title": "The spectrum of isolation: From bare metal to WebAssembly",
-                "href": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/"
+                "title": "Show HN: The Analog I \u2013 Inducing Recursive Self-Modeling in LLMs [pdf]",
+                "href": "https://github.com/philMarcus/Birth-of-a-Mind"
             },
             {
                 "title": "psc: The ps utility, with an eBPF twist and container context",
                 "href": "https://github.com/loresuso/psc"
             },
             {
+                "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+                "href": "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
+            },
+            {
+                "title": "List of individual trees",
+                "href": "https://en.wikipedia.org/wiki/List_of_individual_trees"
+            },
+            {
+                "title": "Show HN: I built a text-based business simulator to replace video courses",
+                "href": "https://www.core-mba.pro/"
+            },
+            {
+                "title": "Interactive eBPF",
+                "href": "https://ebpf.party/"
+            },
+            {
                 "title": "Training my smartwatch to track intelligence",
                 "href": "https://dmvaldman.github.io/rooklift/"
+            },
+            {
+                "title": "The spectrum of isolation: From bare metal to WebAssembly",
+                "href": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/"
             },
             {
                 "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
@@ -841,14 +845,6 @@
             {
                 "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
                 "href": "https://briarproject.org/manual/fa/"
-            },
-            {
-                "title": "Cue Does It All, but Can It Literate?",
-                "href": "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/"
-            },
-            {
-                "title": "Song banned from Swedish charts for being AI creation",
-                "href": "https://www.bbc.com/news/articles/cp829jey9z7o"
             },
             {
                 "title": "Inside The Internet Archive's Infrastructure",
@@ -875,10 +871,6 @@
                 "href": "item?id=46635345"
             },
             {
-                "title": "Altaid 8800 (2024)",
-                "href": "https://sunrise-ev.com/8080.htm"
-            },
-            {
                 "title": "Show HN: Hc: an agentless, multi-tenant shell history sink",
                 "href": "https://github.com/alessandrocarminati/hc"
             },
@@ -887,8 +879,12 @@
                 "href": "https://www.approachwithalacrity.com/claude-ne/"
             },
             {
-                "title": "My Gripes with Prolog",
-                "href": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
+                "title": "Altaid 8800 (2024)",
+                "href": "https://sunrise-ev.com/8080.htm"
+            },
+            {
+                "title": "Cue Does It All, but Can It Literate?",
+                "href": "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/"
             },
             {
                 "title": "Prime chains",
@@ -897,6 +893,10 @@
             {
                 "title": "Data is the only moat",
                 "href": "https://frontierai.substack.com/p/data-is-your-only-moat"
+            },
+            {
+                "title": "My Gripes with Prolog",
+                "href": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
             }
         ]
     }
