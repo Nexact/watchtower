@@ -35,6 +35,10 @@
                 "href": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
             },
             {
+                "title": "Are arrays functions?",
+                "href": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
+            },
+            {
                 "title": "Cardputer uLisp Machine",
                 "href": "http://www.ulisp.com/show?52G4"
             },
@@ -49,10 +53,6 @@
             {
                 "title": "AVX-512: First impressions on performance and programmability",
                 "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
-            },
-            {
-                "title": "Are arrays functions?",
-                "href": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
             },
             {
                 "title": "Simulating the ladybug clock puzzle",
@@ -71,12 +71,20 @@
                 "href": "https://susam.net/writing-first-tooling-second.html"
             },
             {
+                "title": "2025 Medley Interlisp Annual Report",
+                "href": "https://interlisp.org/project/status/2025medleyannualreport/"
+            },
+            {
                 "title": "Rust's Culture of Semantic Precision",
                 "href": "https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/"
             },
             {
                 "title": "Balanced allocation: considerations from large scale service environments",
                 "href": "https://arxiv.org/pdf/2601.10874"
+            },
+            {
+                "title": "On the Coming Industrialisation of Exploit Generation with LLMs",
+                "href": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/"
             },
             {
                 "title": "TPM on Embedded Systems: Pitfalls and Caveats",
@@ -91,16 +99,8 @@
                 "href": "https://clan.lol/blog/2025-wrap-up/"
             },
             {
-                "title": "On the Coming Industrialisation of Exploit Generation with LLMs",
-                "href": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/"
-            },
-            {
                 "title": "Installing Android on the Nintendo Switch",
                 "href": "https://blog.omgmog.net/post/android-on-the-nintendo-switch/"
-            },
-            {
-                "title": "How Many Pixels Do You Really Need?",
-                "href": "https://rldane.space/how-many-pixels-do-you-really-need.html"
             }
         ]
     },
@@ -114,6 +114,14 @@
             {
                 "title": "r/netsec monthly discussion & tool thread",
                 "href": "https://old.reddit.com/r/netsec/comments/1q15fud/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "Privilege Escalation via a service account impersonation chain",
+                "href": "https://old.reddit.com/r/netsec/comments/1qh1kxp/privilege_escalation_via_a_service_account/"
+            },
+            {
+                "title": "\"synthetic vulnerabilities\" \u2014 security flaws unique to AI-generated code",
+                "href": "https://old.reddit.com/r/netsec/comments/1qh1dsq/synthetic_vulnerabilities_security_flaws_unique/"
             },
             {
                 "title": "Account Takeover in Facebook mobile app due to usage of cryptographically unsecure random number generator and XSS in Facebook JS SDK",
@@ -198,14 +206,6 @@
             {
                 "title": "Game-theoretic feedback loops for LLM-based pentesting: doubling success rates in test ranges",
                 "href": "https://old.reddit.com/r/netsec/comments/1qb2ira/gametheoretic_feedback_loops_for_llmbased/"
-            },
-            {
-                "title": "EDR Silencing",
-                "href": "https://old.reddit.com/r/netsec/comments/1qazp2u/edr_silencing/"
-            },
-            {
-                "title": "Astaroth\u2019s Boto Cor-de-Rosa campaign targets Brazil with new WhatsApp malware technique",
-                "href": "https://old.reddit.com/r/netsec/comments/1qb3wwk/astaroths_boto_corderosa_campaign_targets_brazil/"
             }
         ]
     },
@@ -791,20 +791,20 @@
                 "href": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting"
             },
             {
-                "title": "Provide agents with automated feedback",
-                "href": "https://banay.me/dont-waste-your-backpressure/"
-            },
-            {
                 "title": "Wikipedia: WikiProject AI Cleanup",
                 "href": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup"
             },
             {
-                "title": "Dead Internet Theory",
-                "href": "https://kudmitry.com/articles/dead-internet-theory/"
+                "title": "Provide agents with automated feedback",
+                "href": "https://banay.me/dont-waste-your-backpressure/"
             },
             {
                 "title": "Flux 2 Klein pure C inference",
                 "href": "https://github.com/antirez/flux2.c"
+            },
+            {
+                "title": "Dead Internet Theory",
+                "href": "https://kudmitry.com/articles/dead-internet-theory/"
             },
             {
                 "title": "Show HN: I quit coding years ago. AI brought me back",
@@ -819,32 +819,40 @@
                 "href": "https://overreacted.io/a-social-filesystem/"
             },
             {
-                "title": "AVX-512: First Impressions on Performance and Programmability",
-                "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
-            },
-            {
-                "title": "The Code-Only Agent",
-                "href": "https://rijnard.com/blog/the-code-only-agent"
-            },
-            {
-                "title": "Self Sanitizing Door Handle",
-                "href": "https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/"
-            },
-            {
-                "title": "Gas Town Decoded",
-                "href": "https://www.alilleybrinker.com/mini/gas-town-decoded/"
-            },
-            {
-                "title": "Show HN: AWS-doctor \u2013 A terminal-based AWS health check and cost optimizer in Go",
-                "href": "https://github.com/elC0mpa/aws-doctor"
+                "title": "Nepal's Mountainside Teahouses Elevate the Experience for Trekkers",
+                "href": "https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/"
             },
             {
                 "title": "Fluid Gears Rotate Without Teeth",
                 "href": "https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html"
             },
             {
+                "title": "The Code-Only Agent",
+                "href": "https://rijnard.com/blog/the-code-only-agent"
+            },
+            {
+                "title": "AVX-512: First Impressions on Performance and Programmability",
+                "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
+            },
+            {
                 "title": "Gladys West's vital contributions to GPS technology",
                 "href": "https://en.wikipedia.org/wiki/Gladys_West"
+            },
+            {
+                "title": "Gas Town Decoded",
+                "href": "https://www.alilleybrinker.com/mini/gas-town-decoded/"
+            },
+            {
+                "title": "Self Sanitizing Door Handle",
+                "href": "https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/"
+            },
+            {
+                "title": "Show HN: AWS-doctor \u2013 A terminal-based AWS health check and cost optimizer in Go",
+                "href": "https://github.com/elC0mpa/aws-doctor"
+            },
+            {
+                "title": "RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board",
+                "href": "https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box"
             },
             {
                 "title": "Astrophotography visibility plotting and planning tool",
@@ -867,12 +875,12 @@
                 "href": "https://beats.lasagna.pizza"
             },
             {
-                "title": "RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board",
-                "href": "https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box"
-            },
-            {
                 "title": "Using proxies to hide secrets from Claude Code",
                 "href": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/"
+            },
+            {
+                "title": "Greenpeace pilot brings heat pumps and solar to Ukrainian community",
+                "href": "https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community"
             },
             {
                 "title": "Sins of the Children",
@@ -887,16 +895,8 @@
                 "href": "https://alexharri.com/blog/ascii-rendering"
             },
             {
-                "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-                "href": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/"
-            },
-            {
-                "title": "Show HN: Lume 0.2 \u2013 Build and Run macOS VMs with unattended setup",
-                "href": "https://cua.ai/docs/lume/guide/getting-started/introduction"
-            },
-            {
-                "title": "Poking holes into bytecode with peephole optimisations",
-                "href": "https://xnacly.me/posts/2026/purple-garden-first-optimisations/"
+                "title": "MTOTP: Wouldn't it be nice if you were the 2FA device?",
+                "href": "https://github.com/VBranimir/mTOTP/tree/develop"
             }
         ]
     }
