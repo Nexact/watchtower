@@ -35,20 +35,24 @@
                 "href": "https://lobste.rs/s/2u1av3/what_are_you_doing_this_week"
             },
             {
-                "title": "Understanding C++ Ownership System",
-                "href": "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html"
-            },
-            {
                 "title": "some C habits I employ for the modern day",
                 "href": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html"
             },
             {
-                "title": "AVX-512: First impressions on performance and programmability",
-                "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
-            },
-            {
                 "title": "The Incredible Overcomplexity of the Shadcn Radio Button",
                 "href": "https://paulmakeswebsites.com/writing/shadcn-radio-button/"
+            },
+            {
+                "title": "Understanding C++ Ownership System",
+                "href": "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html"
+            },
+            {
+                "title": "The Only Two Markup Languages",
+                "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/"
+            },
+            {
+                "title": "AVX-512: First impressions on performance and programmability",
+                "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
             },
             {
                 "title": "Follow-Up: New Sponsors Strengthen Alpine Linux\u2019s Infrastructure and CI Ecosystem",
@@ -75,8 +79,8 @@
                 "href": "http://www.ulisp.com/show?52G4"
             },
             {
-                "title": "The Only Two Markup Languages",
-                "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/"
+                "title": "Faster restart of Windows 95 when you hold the shift key",
+                "href": "https://devblogs.microsoft.com/oldnewthing/20260119-06/?p=111995"
             },
             {
                 "title": "A Social Filesystem",
@@ -95,12 +99,8 @@
                 "href": "https://interlisp.org/project/status/2025medleyannualreport/"
             },
             {
-                "title": "computing with projected light: the folk computer",
-                "href": "https://youtu.be/hrXEtG3JILo"
-            },
-            {
-                "title": "Writing First, Tooling Second",
-                "href": "https://susam.net/writing-first-tooling-second.html"
+                "title": "bc_crunch: tiny lossless compressor for BC/DXT texture streams",
+                "href": "https://github.com/Geolm/bc_crunch"
             }
         ]
     },
@@ -441,6 +441,14 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "GitLab security advisory (AV26-040)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-040"
+            },
+            {
+                "title": "[Control systems] ABB security advisory (AV26-039)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-039"
+            },
+            {
                 "title": "VMware security advisory (AV26-038)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-038"
             },
@@ -631,14 +639,6 @@
             {
                 "title": "VMware security advisory (AV25-860)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-860"
-            },
-            {
-                "title": "Ubuntu security advisory (AV25-859)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-859"
-            },
-            {
-                "title": "Red Hat security advisory (AV25-858)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-858"
             }
         ]
     },
@@ -791,48 +791,52 @@
                 "href": "https://jon.bo/posts/nano-texture/"
             },
             {
-                "title": "Conditions in the Intel 8087 floating-point chip's microcode",
-                "href": "https://www.righto.com/2025/12/8087-microcode-conditions.html"
-            },
-            {
-                "title": "Show HN: Pipenet \u2013 A Modern Alternative to Localtunnel",
-                "href": "https://pipenet.dev/"
-            },
-            {
-                "title": "Bypassing Gemma and Qwen safety with raw strings",
-                "href": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety"
-            },
-            {
-                "title": "CSS Web Components for marketing sites (2024)",
-                "href": "https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/"
+                "title": "Threads edges out X in daily mobile users, new data shows",
+                "href": "https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/"
             },
             {
                 "title": "Sending Data over Offline Finding Networks",
                 "href": "https://cc-sw.com/find-my-and-find-hub-network-research/"
             },
             {
-                "title": "Americans Are the Ones Paying for Tariffs, Study Finds",
-                "href": "https://www.wsj.com/economy/trade/americans-are-the-ones-paying-for-tariffs-study-finds-e254ed2e"
+                "title": "Conditions in the Intel 8087 floating-point chip's microcode",
+                "href": "https://www.righto.com/2025/12/8087-microcode-conditions.html"
             },
             {
-                "title": "GLM-4.7-Flash",
-                "href": "https://huggingface.co/zai-org/GLM-4.7-Flash"
+                "title": "CSS Web Components for marketing sites (2024)",
+                "href": "https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/"
             },
             {
-                "title": "San Francisco coyote swims to Alcatraz",
-                "href": "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php"
-            },
-            {
-                "title": "From Nevada to Kansas by Glider",
-                "href": "https://www.weglide.org/flight/978820"
+                "title": "Show HN: Pipenet \u2013 A Modern Alternative to Localtunnel",
+                "href": "https://pipenet.dev/"
             },
             {
                 "title": "Show HN: Subth.ink \u2013 write something and see how many others wrote the same",
                 "href": "https://subth.ink/"
             },
             {
-                "title": "Fix Your Robots.txt or Your Site Disappears from Google",
-                "href": "https://www.alanwsmith.com/en/37/wa/jz/s1/"
+                "title": "From Nevada to Kansas by Glider",
+                "href": "https://www.weglide.org/flight/978820"
+            },
+            {
+                "title": "Show HN: A creative coding library for making art with desktop windows",
+                "href": "https://github.com/willmeyers/window-art"
+            },
+            {
+                "title": "San Francisco coyote swims to Alcatraz",
+                "href": "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php"
+            },
+            {
+                "title": "Nearly a third of social media research has undisclosed ties to industry",
+                "href": "https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims"
+            },
+            {
+                "title": "Bypassing Gemma and Qwen safety with raw strings",
+                "href": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety"
+            },
+            {
+                "title": "GLM-4.7-Flash",
+                "href": "https://huggingface.co/zai-org/GLM-4.7-Flash"
             },
             {
                 "title": "Apple testing new App Store design that blurs the line between ads and results",
@@ -843,16 +847,24 @@
                 "href": "https://bitchat.free/"
             },
             {
+                "title": "Fix macOS 26 (Tahoe) exaggerated rounded corners",
+                "href": "https://github.com/makalin/CornerFix"
+            },
+            {
                 "title": "Iterative image reconstruction using random cubic b\u00e9zier strokes",
                 "href": "https://tangled.org/luthenwald.tngl.sh/splined"
+            },
+            {
+                "title": "There Is No Comfortable Reading Position",
+                "href": "https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html"
             },
             {
                 "title": "Folding NASA Experience into an Origamist's Toolkit",
                 "href": "https://spinoff.nasa.gov/Folding_NASA_Experience_into_an_Origamist%E2%80%99s_Toolkit"
             },
             {
-                "title": "There Is No Comfortable Reading Position",
-                "href": "https://slate.com/life/2026/01/body-books-reading-position-posture-pain.html"
+                "title": "Mammals have evolved into ant eaters 12 times since the dinosaur age,study finds",
+                "href": "https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html"
             },
             {
                 "title": "A Brief History of Ralph",
@@ -863,6 +875,10 @@
                 "href": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees"
             },
             {
+                "title": "There's a hidden Android setting that spots fake cell towers",
+                "href": "https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/"
+            },
+            {
                 "title": "Robust Conditional 3D Shape Generation from Casual Captures",
                 "href": "https://facebookresearch.github.io/ShapeR/"
             },
@@ -871,24 +887,8 @@
                 "href": "https://github.com/luxury-yacht/app"
             },
             {
-                "title": "The Microstructure of Wealth Transfer in Prediction Markets",
-                "href": "https://www.jbecker.dev/research/prediction-market-microstructure"
-            },
-            {
-                "title": "Cows can use sophisticated tools",
-                "href": "https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/"
-            },
-            {
-                "title": "Nearly a third of social media research has undisclosed ties to industry",
-                "href": "https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims"
-            },
-            {
-                "title": "Nepal's Mountainside Teahouses Elevate the Experience for Trekkers",
-                "href": "https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/"
-            },
-            {
-                "title": "Flux 2 Klein pure C inference",
-                "href": "https://github.com/antirez/flux2.c"
+                "title": "Fix Your Robots.txt or Your Site Disappears from Google",
+                "href": "https://www.alanwsmith.com/en/37/wa/jz/s1/"
             },
             {
                 "title": "MTOTP: Wouldn't it be nice if you were the 2FA device?",
