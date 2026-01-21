@@ -19,6 +19,10 @@
                 "href": "https://s.tail.so/js-in-one-month"
             },
             {
+                "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
+                "href": "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/"
+            },
+            {
                 "title": "Why ALTER TABLE is such a problem for SQLite",
                 "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite"
             },
@@ -31,12 +35,16 @@
                 "href": "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/"
             },
             {
-                "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
-                "href": "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/"
-            },
-            {
                 "title": "Where I'm at with AI",
                 "href": "https://paulosman.me/2026/01/18/where-im-at-with-ai/"
+            },
+            {
+                "title": "Why not tail recursion?",
+                "href": "https://futhark-lang.org/blog/2026-01-20-why-not-tail-recursion.html"
+            },
+            {
+                "title": "Rust's standard library on the GPU",
+                "href": "https://vectorware.com/blog/rust-std-on-gpu/"
             },
             {
                 "title": "Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution",
@@ -45,10 +53,6 @@
             {
                 "title": "A static site generator written in POSIX shell",
                 "href": "https://aashvik.com/posts/shell-ssg"
-            },
-            {
-                "title": "Rust's standard library on the GPU",
-                "href": "https://vectorware.com/blog/rust-std-on-gpu/"
             },
             {
                 "title": "Little Sound Dj",
@@ -71,10 +75,6 @@
                 "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/"
             },
             {
-                "title": "Why not tail recursion?",
-                "href": "https://futhark-lang.org/blog/2026-01-20-why-not-tail-recursion.html"
-            },
-            {
                 "title": "AI Is still making code worse: A new CMU study confirms (2025)",
                 "href": "https://blog.robbowley.net/2025/12/04/ai-is-still-making-code-worse-a-new-cmu-study-confirms/"
             },
@@ -91,16 +91,16 @@
                 "href": "https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/"
             },
             {
-                "title": "Venus v5 released: Modern OO standard library (and more) for Perl 5",
-                "href": "https://www.reddit.com/r/perl/comments/1qi4sf8/venus_v5_released_modern_oo_standard_library_and/"
-            },
-            {
                 "title": "Designing a service with IndieAuth and email-based login",
                 "href": "https://jamesg.blog/2026/01/20/indieauth-email-login-design/"
             },
             {
-                "title": "Visualizing Delaunay Triangulation (2022)",
-                "href": "https://ianthehenry.com/posts/delaunay/"
+                "title": "Venus v5 released: Modern OO standard library (and more) for Perl 5",
+                "href": "https://www.reddit.com/r/perl/comments/1qi4sf8/venus_v5_released_modern_oo_standard_library_and/"
+            },
+            {
+                "title": "On coding with LLMs",
+                "href": "https://www.abareplace.com/blog/ai/"
             }
         ]
     },
@@ -116,16 +116,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1q15fud/rnetsec_monthly_discussion_tool_thread/"
             },
             {
-                "title": "oss-sec: GNU InetUtils Security Advisory: remote authentication by-pass in telnetd",
-                "href": "https://old.reddit.com/r/netsec/comments/1qiqwv7/osssec_gnu_inetutils_security_advisory_remote/"
-            },
-            {
                 "title": "When The Gateway Becomes The Doorway: Pre-Auth RCE in API Management",
                 "href": "https://old.reddit.com/r/netsec/comments/1qiq357/when_the_gateway_becomes_the_doorway_preauth_rce/"
             },
             {
                 "title": "Billion-Dollar Bait & Switch: Exploiting a Race Condition in Blockchain Infrastructure",
                 "href": "https://old.reddit.com/r/netsec/comments/1qi9em3/billiondollar_bait_switch_exploiting_a_race/"
+            },
+            {
+                "title": "oss-sec: GNU InetUtils Security Advisory: remote authentication by-pass in telnetd",
+                "href": "https://old.reddit.com/r/netsec/comments/1qiqwv7/osssec_gnu_inetutils_security_advisory_remote/"
             },
             {
                 "title": "Cloudflare Zero-day: Accessing Any Host Globally",
@@ -791,7 +791,7 @@
                 "href": "https://github.com/anthropics/original_performance_takehome"
             },
             {
-                "title": "Curl removes bug bounties because of AI slop",
+                "title": "cURL removes bug bounties",
                 "href": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html"
             },
             {
@@ -803,16 +803,28 @@
                 "href": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/"
             },
             {
-                "title": "Are arrays functions?",
-                "href": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
-            },
-            {
                 "title": "Instabridge has acquired Nova Launcher",
                 "href": "https://novalauncher.com/nova-is-here-to-stay"
             },
             {
+                "title": "Are arrays functions?",
+                "href": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
+            },
+            {
+                "title": "The Agentic AI Handbook: Production-Ready Patterns",
+                "href": "https://www.nibzard.com/agentic-handbook"
+            },
+            {
                 "title": "Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left",
                 "href": "https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql"
+            },
+            {
+                "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+                "href": "https://so-long-sucker.vercel.app/"
+            },
+            {
+                "title": "200 MB RAM FreeBSD Desktop",
+                "href": "https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/"
             },
             {
                 "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
@@ -821,10 +833,6 @@
             {
                 "title": "California is free of drought for the first time in 25 years",
                 "href": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years"
-            },
-            {
-                "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-                "href": "https://so-long-sucker.vercel.app/"
             },
             {
                 "title": "The GDB JIT Interface",
@@ -839,44 +847,32 @@
                 "href": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/"
             },
             {
-                "title": "Disaster planning for regular folks (2015)",
-                "href": "https://lcamtuf.coredump.cx/prep/index-old.shtml"
+                "title": "Unconventional PostgreSQL Optimizations",
+                "href": "https://hakibenita.com/postgresql-unconventional-optimizations"
             },
             {
                 "title": "The challenges of soft delete",
                 "href": "https://atlas9.dev/blog/soft-delete.html"
             },
             {
-                "title": "Unconventional PostgreSQL Optimizations",
-                "href": "https://hakibenita.com/postgresql-unconventional-optimizations"
-            },
-            {
-                "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
-                "href": "https://spectrum.ieee.org/lunar-radio-telescope"
+                "title": "Our approach to age prediction",
+                "href": "https://openai.com/index/our-approach-to-age-prediction/"
             },
             {
                 "title": "Show HN: Agent Skills Leaderboard",
                 "href": "https://skills.sh"
             },
             {
+                "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
+                "href": "https://spectrum.ieee.org/lunar-radio-telescope"
+            },
+            {
                 "title": "Provably unmasking malicious behavior through execution traces",
                 "href": "https://arxiv.org/abs/2512.13821"
             },
             {
-                "title": "Our approach to age prediction",
-                "href": "https://openai.com/index/our-approach-to-age-prediction/"
-            },
-            {
                 "title": "Building Robust Helm Charts",
                 "href": "https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html"
-            },
-            {
-                "title": "Show HN: I built a tool to assist AI agents to know when a PR is good to go",
-                "href": "https://dsifry.github.io/goodtogo/"
-            },
-            {
-                "title": "Who owns Rudolph's nose?",
-                "href": "https://creativelawcenter.com/copyright-rudolph-reindeer/"
             },
             {
                 "title": "Maintenance: Of Everything, Part One",
@@ -887,24 +883,28 @@
                 "href": "item?id=46691243"
             },
             {
+                "title": "Disaster planning for regular folks (2015)",
+                "href": "https://lcamtuf.coredump.cx/prep/index-old.shtml"
+            },
+            {
                 "title": "Proof of Concept to Test Humanoid Robots",
                 "href": "https://thehumanoid.ai/humanoid-and-siemens-completed-a-proof-of-concept-to-test-humanoidrobots-in-industrial-logistics/"
             },
             {
-                "title": "IP Addresses Through 2025",
-                "href": "https://www.potaroo.net/ispcol/2026-01/addr2025.html"
+                "title": "Who owns Rudolph's nose?",
+                "href": "https://creativelawcenter.com/copyright-rudolph-reindeer/"
             },
             {
                 "title": "Apples, Trees, and Quasimodes",
                 "href": "https://systemstack.dev/2025/09/humane-computing/"
             },
             {
-                "title": "Fast Concordance: Instant concordance on a corpus of >1,200 books",
-                "href": "https://iafisher.com/concordance/"
+                "title": "IP Addresses Through 2025",
+                "href": "https://www.potaroo.net/ispcol/2026-01/addr2025.html"
             },
             {
-                "title": "Nvidia Stock Crash Prediction",
-                "href": "https://entropicthoughts.com/nvidia-stock-crash-prediction"
+                "title": "RSS.Social \u2013 the latest and best from small sites across the web",
+                "href": "https://rss.social/"
             }
         ]
     }
