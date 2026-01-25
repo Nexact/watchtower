@@ -19,10 +19,6 @@
                 "href": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/"
             },
             {
-                "title": "Obvious Things C Should Do",
-                "href": "https://www.digitalmars.com/articles/Cobvious.html"
-            },
-            {
                 "title": "The Value of Things",
                 "href": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/"
             },
@@ -31,8 +27,16 @@
                 "href": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html"
             },
             {
+                "title": "Obvious Things C Should Do",
+                "href": "https://www.digitalmars.com/articles/Cobvious.html"
+            },
+            {
                 "title": "e9p - pure Erlang 9p implementation",
                 "href": "https://tangled.org/hauleth.dev/e9p"
+            },
+            {
+                "title": "Software patches in NixOS for fun and productivity",
+                "href": "https://log.pfad.fr/2026/software-patching-in-nixos/"
             },
             {
                 "title": "Bouncy Ball will always bounce back",
@@ -51,8 +55,8 @@
                 "href": "https://griffin.com/blog/is-it-worth-it"
             },
             {
-                "title": "Software patches in NixOS for fun and productivity",
-                "href": "https://log.pfad.fr/2026/software-patching-in-nixos/"
+                "title": "cppstat - C and C++ Compiler Support Status",
+                "href": "https://cppstat.dev/"
             },
             {
                 "title": "Introducing Kitty Cards",
@@ -67,8 +71,8 @@
                 "href": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/"
             },
             {
-                "title": "cppstat - C and C++ Compiler Support Status",
-                "href": "https://cppstat.dev/"
+                "title": "Because coordination is expensive",
+                "href": "https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/"
             },
             {
                 "title": "MikroTik first look and getting started",
@@ -77,10 +81,6 @@
             {
                 "title": "Here's how to generate a truly random number with quantum physics",
                 "href": "https://www.popsci.com/technology/free-random-number-generator/"
-            },
-            {
-                "title": "Because coordination is expensive",
-                "href": "https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/"
             },
             {
                 "title": "modetc: Move your dotfiles from kernel space",
@@ -118,6 +118,10 @@
             {
                 "title": "BREAKMEIFYOUCAN! - Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies",
                 "href": "https://old.reddit.com/r/netsec/comments/1qm52ob/breakmeifyoucan_exploiting_keyspace_reduction_and/"
+            },
+            {
+                "title": "cvsweb.openbsd.org fights AI crawler bots by redirecting hotlinking requests to theannoyingsite.com (labelled \"Malware\" by eero), gets blacklisted by eero, too, for \"Phishing & Deception\"",
+                "href": "https://old.reddit.com/r/netsec/comments/1qmo7qr/cvswebopenbsdorg_fights_ai_crawler_bots_by/"
             },
             {
                 "title": "Husn Canaries - Defense-in-Depth for AI Coding Assistant Governance",
@@ -202,10 +206,6 @@
             {
                 "title": "After the Takedown: Excavating Abuse Infrastructure with DNS Sinkholes",
                 "href": "https://old.reddit.com/r/netsec/comments/1qgi29k/after_the_takedown_excavating_abuse/"
-            },
-            {
-                "title": "Successful Errors: New Code Injection and SSTI Techniques",
-                "href": "https://old.reddit.com/r/netsec/comments/1qgcgey/successful_errors_new_code_injection_and_ssti/"
             }
         ]
     },
@@ -323,6 +323,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "The Android 'NexPhone': Linux on Demand, Dual-Boots Into Windows 11 - and Transforms Into a Workstation",
+                "href": "https://mobile.slashdot.org/story/26/01/25/060240/the-android-nexphone-linux-on-demand-dual-boots-into-windows-11---and-transforms-into-a-workstation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "The Case Against Small Modular Nuclear Reactors",
                 "href": "https://hardware.slashdot.org/story/26/01/24/0452209/the-case-against-small-modular-nuclear-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -377,10 +381,6 @@
             {
                 "title": "Anthropic Updates Claude's 'Constitution,' Just In Case Chatbot Has a Consciousness",
                 "href": "https://slashdot.org/story/26/01/24/0334206/anthropic-updates-claudes-constitution-just-in-case-chatbot-has-a-consciousness?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Hollywood Tries To Take Pirate Sites Down Globally Through India Court",
-                "href": "https://yro.slashdot.org/story/26/01/24/0124246/hollywood-tries-to-take-pirate-sites-down-globally-through-india-court?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -799,24 +799,32 @@
                 "href": "https://doombuds.com"
             },
             {
-                "title": "Show HN: Bonsplit \u2013 Tabs and splits for native macOS apps",
-                "href": "https://bonsplit.alasdairmonk.com"
+                "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+                "href": "https://www.diljitpr.net/blog-post-postgresql-dlq"
             },
             {
                 "title": "ANN v3: 200ms p99 query latency over 100B vectors",
                 "href": "https://turbopuffer.com/blog/ann-v3"
             },
             {
-                "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
-                "href": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/"
+                "title": "Show HN: Bonsplit \u2013 Tabs and splits for native macOS apps",
+                "href": "https://bonsplit.alasdairmonk.com"
             },
             {
                 "title": "Web-based image editor modeled after Deluxe Paint",
                 "href": "https://github.com/steffest/DPaint-js"
             },
             {
+                "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+                "href": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/"
+            },
+            {
                 "title": "Introduction to PostgreSQL Indexes",
                 "href": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/"
+            },
+            {
+                "title": "Show HN: Netfence \u2013 Like Envoy for eBPF Filters",
+                "href": "https://github.com/danthegoodman1/netfence"
             },
             {
                 "title": "Show HN: TUI for managing XDG default applications",
@@ -827,6 +835,10 @@
                 "href": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp"
             },
             {
+                "title": "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
+                "href": "https://www.phoronix.com/news/Wine-Staging-11.1"
+            },
+            {
                 "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
                 "href": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/"
             },
@@ -835,12 +847,12 @@
                 "href": "https://erickschulz.dev/posts/plecs-spice/"
             },
             {
-                "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
-                "href": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth"
-            },
-            {
                 "title": "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
                 "href": "https://jobs.ashbyhq.com/Nango"
+            },
+            {
+                "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
+                "href": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth"
             },
             {
                 "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
@@ -855,16 +867,20 @@
                 "href": "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/"
             },
             {
-                "title": "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
-                "href": "https://www.phoronix.com/news/Wine-Staging-11.1"
-            },
-            {
                 "title": "Alarm overload is undermining safety at sea as crews face thousands of alerts",
                 "href": "https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/"
             },
             {
                 "title": "Deutsche Telekom is throttling the internet",
                 "href": "https://netzbremse.de/en/"
+            },
+            {
+                "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+                "href": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/"
+            },
+            {
+                "title": "Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)",
+                "href": "https://github.com/cleverhoods/sagecompass"
             },
             {
                 "title": "Sony Data Discman",
@@ -875,8 +891,12 @@
                 "href": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html"
             },
             {
-                "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-                "href": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/"
+                "title": "Back to Bellevue",
+                "href": "https://theamericanscholar.org/back-to-bellevue/"
+            },
+            {
+                "title": "150k lines of vibe coded Elixir: The Good, the Bad and the Ugly",
+                "href": "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly"
             },
             {
                 "title": "Challenges and Research Directions for Large Language Model Inference Hardware",
@@ -885,26 +905,6 @@
             {
                 "title": "Show HN: AutoShorts \u2013 Local, GPU-accelerated AI video pipeline for creators",
                 "href": "https://github.com/divyaprakash0426/autoshorts"
-            },
-            {
-                "title": "Two Weeks Until Tapeout",
-                "href": "https://essenceia.github.io/projects/two_weeks_until_tapeout/"
-            },
-            {
-                "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
-                "href": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next"
-            },
-            {
-                "title": "Show HN: LangGraph architecture that scales (hexagonal pattern, 110 tests)",
-                "href": "https://github.com/cleverhoods/sagecompass"
-            },
-            {
-                "title": "Back to Bellevue",
-                "href": "https://theamericanscholar.org/back-to-bellevue/"
-            },
-            {
-                "title": "Intrinsically stretchable 2D MoS2 transistors",
-                "href": "https://www.nature.com/articles/s41467-026-68504-2"
             }
         ]
     }
