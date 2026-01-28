@@ -35,6 +35,10 @@
                 "href": "https://alexxcons.github.io/blogpost_15.html"
             },
             {
+                "title": "A \"Pure Go\" Linux environment, written by Claude",
+                "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/"
+            },
+            {
                 "title": "t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq",
                 "href": "https://github.com/alecthomas/t"
             },
@@ -47,24 +51,24 @@
                 "href": "https://www.anup.io/why-ai-coding-advice-contradicts-itself/"
             },
             {
-                "title": "A \"Pure Go\" Linux environment, written by Claude",
-                "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/"
-            },
-            {
                 "title": "After two years of vibecoding, I'm back to writing by hand",
                 "href": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im"
-            },
-            {
-                "title": "Nixtamal: Fulfilling, Pure Input Pinning for Nix",
-                "href": "https://nixtamal.toast.al"
             },
             {
                 "title": "Barev - XMPP flavoured p2p protocol",
                 "href": "https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348"
             },
             {
+                "title": "Nixtamal: Fulfilling, Pure Input Pinning for Nix",
+                "href": "https://nixtamal.toast.al"
+            },
+            {
                 "title": "The Ruby Users Forum Is Now Live",
                 "href": "https://www.rubyforum.org/"
+            },
+            {
+                "title": "lichess.el",
+                "href": "https://github.com/tmythicator/lichess.el"
             },
             {
                 "title": "Gilfoyle. An SRE Agent that finds truth while you're still guessing",
@@ -87,8 +91,8 @@
                 "href": "https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/"
             },
             {
-                "title": "lichess.el",
-                "href": "https://github.com/tmythicator/lichess.el"
+                "title": "MonkeyBall Online",
+                "href": "https://monkeyball-online.pages.dev/"
             },
             {
                 "title": "zlib-rs: a stable API and 30M downloads",
@@ -97,10 +101,6 @@
             {
                 "title": "I made my own git",
                 "href": "https://tonystr.net/blog/git_immitation"
-            },
-            {
-                "title": "Places to Telnet",
-                "href": "https://telnet.org/htm/places.htm"
             }
         ]
     },
@@ -120,16 +120,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1qojiu7/audited_hypervisor_kernel_escapes_in_regulated/"
             },
             {
+                "title": "Corrupting the Hive Mind: Persistence Through Forgotten Windows Internals",
+                "href": "https://old.reddit.com/r/netsec/comments/1qp0n60/corrupting_the_hive_mind_persistence_through/"
+            },
+            {
                 "title": "Safeguarding sources and sensitive information in the event of a raid",
                 "href": "https://old.reddit.com/r/netsec/comments/1qoplqw/safeguarding_sources_and_sensitive_information_in/"
             },
             {
                 "title": "OpenSSL January 2026 Security Update: CMS and PKCS#12 Buffer Overflows",
                 "href": "https://old.reddit.com/r/netsec/comments/1qonkwp/openssl_january_2026_security_update_cms_and/"
-            },
-            {
-                "title": "Corrupting the Hive Mind: Persistence Through Forgotten Windows Internals",
-                "href": "https://old.reddit.com/r/netsec/comments/1qp0n60/corrupting_the_hive_mind_persistence_through/"
             },
             {
                 "title": "Why code indexing matters for AI security tools",
@@ -787,10 +787,6 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "AI found 12 vulnerabilities in OpenSSL",
-                "href": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities"
-            },
-            {
                 "title": "Prism",
                 "href": "https://openai.com/index/introducing-prism"
             },
@@ -815,20 +811,28 @@
                 "href": "https://github.com/kangtastic/timestation"
             },
             {
-                "title": "Doing the thing is doing the thing",
-                "href": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing"
+                "title": "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
+                "href": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities"
+            },
+            {
+                "title": "Parametric CAD in Rust",
+                "href": "https://campedersen.com/vcad"
             },
             {
                 "title": "Lennart Poettering, Christian Brauner founded a new company",
                 "href": "https://amutable.com/about"
             },
             {
-                "title": "Xfwl4 \u2013 The Roadmap for a Xfce Wayland Compositor",
-                "href": "https://alexxcons.github.io/blogpost_15.html"
+                "title": "Doing the thing is doing the thing",
+                "href": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing"
             },
             {
-                "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
-                "href": "https://haveibeenpwned.com/Breach/SoundCloud"
+                "title": "Ask HN: Why all the sudden people are writing browsers with AI?",
+                "href": "item?id=46790957"
+            },
+            {
+                "title": "Xfwl4 \u2013 The Roadmap for a Xfce Wayland Compositor",
+                "href": "https://alexxcons.github.io/blogpost_15.html"
             },
             {
                 "title": "Amazon closing its Fresh and Go stores",
@@ -839,40 +843,52 @@
                 "href": "https://allenai.org/blog/open-coding-agents"
             },
             {
-                "title": "Try text scaling support in Chrome Canary",
-                "href": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/"
+                "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+                "href": "https://haveibeenpwned.com/Breach/SoundCloud"
             },
             {
                 "title": "FBI is investigating Minnesota Signal chats tracking ICE",
                 "href": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041"
             },
             {
+                "title": "Try text scaling support in Chrome Canary",
+                "href": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/"
+            },
+            {
                 "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
                 "href": "https://emsh.cat/one-human-one-agent-one-browser/"
-            },
-            {
-                "title": "Super Monkey Ball ported to a website",
-                "href": "https://monkeyball-online.pages.dev/"
-            },
-            {
-                "title": "Ask HN: Why all the sudden people are writing browsers with AI?",
-                "href": "item?id=46790957"
-            },
-            {
-                "title": "The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)",
-                "href": "http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html"
             },
             {
                 "title": "I found the perfect yearly calendar (for me)",
                 "href": "https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me"
             },
             {
+                "title": "Super Monkey Ball ported to a website",
+                "href": "https://monkeyball-online.pages.dev/"
+            },
+            {
+                "title": "Show HN: I wrapped the Zorks with an LLM",
+                "href": "https://infocom.tambo.co/"
+            },
+            {
                 "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
                 "href": "https://www.web3isgoinggreat.com/single/lick-theft"
             },
             {
+                "title": "The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)",
+                "href": "http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html"
+            },
+            {
                 "title": "Extremophile molds are invading art museums",
                 "href": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/"
+            },
+            {
+                "title": "Notes on starting to use Django",
+                "href": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
+            },
+            {
+                "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
+                "href": "https://www.ycombinator.com/companies/hypercubic/jobs"
             },
             {
                 "title": "How many chess games are possible?",
@@ -887,24 +903,8 @@
                 "href": "https://fuzzy.ulyssepence.com/"
             },
             {
-                "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
-                "href": "https://www.ycombinator.com/companies/hypercubic/jobs"
-            },
-            {
-                "title": "Notes on starting to use Django",
-                "href": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
-            },
-            {
                 "title": "TikTok settles just before social media addiction trial to begin",
                 "href": "https://www.bbc.com/news/articles/c24g8v6qr1mo"
-            },
-            {
-                "title": "Clawdbot Renames to Moltbot",
-                "href": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6"
-            },
-            {
-                "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
-                "href": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467"
             }
         ]
     }
