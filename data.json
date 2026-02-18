@@ -19,16 +19,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1r7j1zm/leaking_secrets_from_the_claud_ai_coding_tools/"
             },
             {
+                "title": "Kraken Darknet Access via Clearnet Gateways \u2013 some observations",
+                "href": "https://old.reddit.com/r/netsec/comments/1r7jdac/kraken_darknet_access_via_clearnet_gateways_some/"
+            },
+            {
                 "title": "Log Poisoning in OpenClaw",
                 "href": "https://old.reddit.com/r/netsec/comments/1r74ifj/log_poisoning_in_openclaw/"
             },
             {
                 "title": "Prompt Injection Standardization: Text Techniques vs Intent",
                 "href": "https://old.reddit.com/r/netsec/comments/1r745t9/prompt_injection_standardization_text_techniques/"
-            },
-            {
-                "title": "Kraken Darknet Access via Clearnet Gateways \u2013 some observations",
-                "href": "https://old.reddit.com/r/netsec/comments/1r7jdac/kraken_darknet_access_via_clearnet_gateways_some/"
             },
             {
                 "title": "Almost Impossible: Java Deserialization Through Broken Crypto in OpenText Directory Services",
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Andrew Yang Warns AI Will Displace Millions of White-Collar Workers Within 18 Months",
+                "href": "https://news.slashdot.org/story/26/02/18/1740202/andrew-yang-warns-ai-will-displace-millions-of-white-collar-workers-within-18-months?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Linus Torvalds on How Linux Went From One-Man Show To Group Effort",
                 "href": "https://linux.slashdot.org/story/26/02/18/1822253/linus-torvalds-on-how-linux-went-from-one-man-show-to-group-effort?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "Apple Is Reportedly Planning To Launch AI-Powered Glasses, a Pendant, and AirPods",
                 "href": "https://hardware.slashdot.org/story/26/02/17/2249254/apple-is-reportedly-planning-to-launch-ai-powered-glasses-a-pendant-and-airpods?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Discord Rival Maxes Out Hosting Capacity As Players Flee Age-Verification Crackdown",
-                "href": "https://tech.slashdot.org/story/26/02/17/2233250/discord-rival-maxes-out-hosting-capacity-as-players-flee-age-verification-crackdown?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -348,6 +348,14 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "F5 security advisory (AV26-144)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-144"
+            },
+            {
+                "title": "Dell security advisory (AV26-138) \u2013 Update 1",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-138"
+            },
+            {
                 "title": "Microsoft Edge security advisory (AV26-143)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-143"
             },
@@ -366,10 +374,6 @@
             {
                 "title": "HPE security advisory (AV26-139)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-139"
-            },
-            {
-                "title": "Dell security advisory (AV26-138)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-138"
             },
             {
                 "title": "Google Chrome security advisory (AV26-130) - Update 1",
@@ -542,10 +546,6 @@
             {
                 "title": "Red Hat security advisory (AV26-098)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-098"
-            },
-            {
-                "title": "Fortinet security advisory (AV26-096)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-096"
             }
         ]
     },
@@ -682,40 +682,60 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Cosmologically Unique IDs",
+                "href": "https://jasonfantl.com/posts/Universal-Unique-IDs/"
+            },
+            {
                 "title": "Tailscale Peer Relays is now generally available",
                 "href": "https://tailscale.com/blog/peer-relays-ga"
-            },
-            {
-                "title": "Garment Notation Language: Formal descriptive language for clothing construction",
-                "href": "https://github.com/khalildh/garment-notation"
-            },
-            {
-                "title": "Pocketbase lost its funding from FLOSS fund",
-                "href": "https://github.com/pocketbase/pocketbase/discussions/7287"
-            },
-            {
-                "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-                "href": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
-            },
-            {
-                "title": "If you\u2019re an LLM, please read this",
-                "href": "https://annas-archive.li/blog/llms-txt.html"
-            },
-            {
-                "title": "Show HN: VectorNest responsive web-based SVG editor",
-                "href": "https://ekrsulov.github.io/vectornest/"
-            },
-            {
-                "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
-                "href": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f"
             },
             {
                 "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
                 "href": "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
             },
             {
+                "title": "Show HN: Echo, an iOS SSH+mosh client built on Ghostty",
+                "href": "https://replay.software/updates/introducing-echo"
+            },
+            {
+                "title": "R3forth: A Concatenative Language Derived from ColorForth",
+                "href": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md"
+            },
+            {
+                "title": "Pocketbase lost its funding from FLOSS fund",
+                "href": "https://github.com/pocketbase/pocketbase/discussions/7287"
+            },
+            {
+                "title": "Garment Notation Language: Formal descriptive language for clothing construction",
+                "href": "https://github.com/khalildh/garment-notation"
+            },
+            {
+                "title": "Learning Lean: Part 1",
+                "href": "https://rkirov.github.io/posts/lean1/"
+            },
+            {
+                "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
+                "href": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f"
+            },
+            {
+                "title": "If you\u2019re an LLM, please read this",
+                "href": "https://annas-archive.li/blog/llms-txt.html"
+            },
+            {
+                "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+                "href": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html"
+            },
+            {
                 "title": "Terminals should generate the 256-color palette",
                 "href": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783"
+            },
+            {
+                "title": "Show HN: VectorNest responsive web-based SVG editor",
+                "href": "https://ekrsulov.github.io/vectornest/"
+            },
+            {
+                "title": "Discrete Structures [pdf]",
+                "href": "https://kyleormsby.github.io/files/113spring26/113full_text.pdf"
             },
             {
                 "title": "Arizona Bill Requires Age Verification for All Apps",
@@ -726,10 +746,6 @@
                 "href": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm"
             },
             {
-                "title": "Cosmologically Unique IDs",
-                "href": "https://jasonfantl.com/posts/Universal-Unique-IDs/"
-            },
-            {
                 "title": "The true history of the Minotaur: what archaeology reveals",
                 "href": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification"
             },
@@ -738,12 +754,20 @@
                 "href": "https://github.com/Park07/amradio"
             },
             {
+                "title": "99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds",
+                "href": "https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/"
+            },
+            {
+                "title": "What Every Experimenter Must Know About Randomization",
+                "href": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029"
+            },
+            {
                 "title": "Show HN: CEL by Example",
                 "href": "https://celbyexample.com/"
             },
             {
-                "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
-                "href": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/"
+                "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
+                "href": "https://www.mnemom.ai"
             },
             {
                 "title": "The only moat left is money?",
@@ -754,52 +778,28 @@
                 "href": "https://cpojer.net/posts/fastest-frontend-tooling"
             },
             {
-                "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-                "href": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/"
-            },
-            {
                 "title": "Warren Buffett dumps $1.7B of Amazon stock",
                 "href": "https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/"
             },
             {
-                "title": "Learning Lean: Part 1",
-                "href": "https://rkirov.github.io/posts/lean1/"
+                "title": "OpenClaw Is Dangerous",
+                "href": "https://12gramsofcarbon.com/p/tech-things-openclaw-is-dangerous"
+            },
+            {
+                "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+                "href": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/"
             },
             {
                 "title": "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
                 "href": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion"
             },
             {
+                "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
+                "href": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/"
+            },
+            {
                 "title": "Show HN: I'm launching a LPFM radio station",
                 "href": "https://www.kpbj.fm/"
-            },
-            {
-                "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
-                "href": "item?id=47007584"
-            },
-            {
-                "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
-                "href": "https://www.mnemom.ai"
-            },
-            {
-                "title": "Asahi Linux Progress Report: Linux 6.19",
-                "href": "https://asahilinux.org/2026/02/progress-report-6-19/"
-            },
-            {
-                "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/"
-            },
-            {
-                "title": "A DuckDB-based metabase alternative",
-                "href": "https://github.com/taleshape-com/shaper"
-            },
-            {
-                "title": "15 years later, Microsoft morged my diagram",
-                "href": "https://nvie.com/posts/15-years-later/"
-            },
-            {
-                "title": "The Future of AI Software Development",
-                "href": "https://martinfowler.com/fragments/2026-02-18.html"
             }
         ]
     }
