@@ -15,12 +15,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1r9qkpl/your_ad_password_complexity_policies_are_security/"
             },
             {
-                "title": "Building CrowdStrike workflows with Claude Code skills",
-                "href": "https://old.reddit.com/r/netsec/comments/1r9s0ah/building_crowdstrike_workflows_with_claude_code/"
+                "title": "Discovery & Analysis of CVE-2025-29969",
+                "href": "https://old.reddit.com/r/netsec/comments/1r9th6w/discovery_analysis_of_cve202529969/"
             },
             {
                 "title": "[CVE-2026-0714] TPM-sniffing LUKS Keys on an Embedded Device",
                 "href": "https://old.reddit.com/r/netsec/comments/1r92evr/cve20260714_tpmsniffing_luks_keys_on_an_embedded/"
+            },
+            {
+                "title": "Building CrowdStrike workflows with Claude Code skills",
+                "href": "https://old.reddit.com/r/netsec/comments/1r9s0ah/building_crowdstrike_workflows_with_claude_code/"
             },
             {
                 "title": "Compromising Cline's Production Releases just by Prompting an Issue Triager",
@@ -97,16 +101,16 @@
             {
                 "title": "TURN Security Threats: A Hacker's View",
                 "href": "https://old.reddit.com/r/netsec/comments/1r2puq1/turn_security_threats_a_hackers_view/"
-            },
-            {
-                "title": "YAML Merge Tags and More Parser Differentials",
-                "href": "https://old.reddit.com/r/netsec/comments/1r2q683/yaml_merge_tags_and_more_parser_differentials/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Mississippi medical center closes all clinics after ransomware attack",
+                "href": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/"
+            },
             {
                 "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
                 "href": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/"
@@ -162,16 +166,28 @@
             {
                 "title": "AI platforms can be abused for stealthy malware communication",
                 "href": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/"
-            },
-            {
-                "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
-                "href": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/"
             }
         ]
     },
     {
         "feedname": "krebsonsecurity",
         "items": [
+            {
+                "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+                "href": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/"
+            },
+            {
+                "title": "Patch Tuesday, February 2026 Edition",
+                "href": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/"
+            },
+            {
+                "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+                "href": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"
+            },
+            {
+                "title": "Who Operates the Badbox 2.0 Botnet?",
+                "href": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/"
+            },
             {
                 "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
                 "href": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/"
@@ -195,22 +211,6 @@
             {
                 "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
                 "href": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/"
-            },
-            {
-                "title": "Most Parked Domains Now Serving Malicious Content",
-                "href": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/"
-            },
-            {
-                "title": "Microsoft Patch Tuesday, December 2025 Edition",
-                "href": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/"
-            },
-            {
-                "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
-                "href": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/"
-            },
-            {
-                "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-                "href": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/"
             }
         ]
     },
@@ -686,84 +686,104 @@
                 "href": "https://taalas.com/the-path-to-ubiquitous-ai/"
             },
             {
-                "title": "Gemini 3.1 Pro",
-                "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
-            },
-            {
-                "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-                "href": "https://www.together.ai/blog/consistency-diffusion-language-models"
-            },
-            {
-                "title": "Defer available in gcc and clang",
-                "href": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/"
-            },
-            {
                 "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
                 "href": "https://jimmyhmiller.com/learn-codebase-visualizer"
             },
             {
-                "title": "I tried building my startup entirely on European infrastructure",
-                "href": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/"
+                "title": "I used Claude Code and GSD to build the accessibility tool I've always wanted",
+                "href": "https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/"
             },
             {
-                "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
-                "href": "https://learn.pimoroni.com/article/overclocking-the-pico-2"
+                "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+                "href": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323"
             },
             {
-                "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-                "href": "https://github.com/olvvier/apple-silicon-accelerometer"
-            },
-            {
-                "title": "AI is not a coworker, it's an exoskeleton",
-                "href": "https://www.kasava.dev/blog/ai-as-exoskeleton"
-            },
-            {
-                "title": "FreeCAD",
-                "href": "https://www.freecad.org/index.php"
-            },
-            {
-                "title": "Show HN: Micasa \u2013 track your house from the terminal",
-                "href": "https://micasa.dev"
+                "title": "Gemini 3.1 Pro",
+                "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
             },
             {
                 "title": "Web Components: The Framework-Free Renaissance",
                 "href": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html"
             },
             {
+                "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+                "href": "https://www.together.ai/blog/consistency-diffusion-language-models"
+            },
+            {
+                "title": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove",
+                "href": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove"
+            },
+            {
+                "title": "Defer available in gcc and clang",
+                "href": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/"
+            },
+            {
+                "title": "Exercise has 'similar effect' to therapy, study on depression shows",
+                "href": "https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html"
+            },
+            {
+                "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+                "href": "https://learn.pimoroni.com/article/overclocking-the-pico-2"
+            },
+            {
+                "title": "I tried building my startup entirely on European infrastructure",
+                "href": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/"
+            },
+            {
+                "title": "AI is not a coworker, it's an exoskeleton",
+                "href": "https://www.kasava.dev/blog/ai-as-exoskeleton"
+            },
+            {
+                "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+                "href": "https://github.com/olvvier/apple-silicon-accelerometer"
+            },
+            {
                 "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
                 "href": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/"
-            },
-            {
-                "title": "Pi for Excel: AI sidebar add-in for Excel",
-                "href": "https://github.com/tmustier/pi-for-excel"
-            },
-            {
-                "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-                "href": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/"
-            },
-            {
-                "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
-                "href": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/"
-            },
-            {
-                "title": "A beginner's guide to split keyboards",
-                "href": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
-            },
-            {
-                "title": "Fast KV Compaction via Attention Matching",
-                "href": "https://arxiv.org/abs/2602.16284"
             },
             {
                 "title": "Notes on Clarifying Man Pages",
                 "href": "https://jvns.ca/blog/2026/02/18/man-pages/"
             },
             {
+                "title": "Show HN: Micasa \u2013 track your house from the terminal",
+                "href": "https://micasa.dev"
+            },
+            {
+                "title": "FreeCAD",
+                "href": "https://www.freecad.org/index.php"
+            },
+            {
+                "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+                "href": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/"
+            },
+            {
+                "title": "Minions \u2013 Stripe's Coding Agents Part 2",
+                "href": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2"
+            },
+            {
+                "title": "A beginner's guide to split keyboards",
+                "href": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
+            },
+            {
+                "title": "Pi for Excel: AI sidebar add-in for Excel",
+                "href": "https://github.com/tmustier/pi-for-excel"
+            },
+            {
+                "title": "Fast KV Compaction via Attention Matching",
+                "href": "https://arxiv.org/abs/2602.16284"
+            },
+            {
                 "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
                 "href": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/"
             },
             {
-                "title": "Spell Checking a Year's Worth of Hacker News",
-                "href": "https://fi-le.net/spell/"
+                "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+                "href": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/"
+            },
+            {
+                "title": "Fast Sorting, Branchless by Design",
+                "href": "https://00f.net/2026/02/17/sorting-without-leaking-secrets/"
             },
             {
                 "title": "America vs. Singapore: You can't save your way out of economic shocks",
@@ -780,26 +800,6 @@
             {
                 "title": "Paged Out Issue #8 [pdf]",
                 "href": "https://pagedout.institute/download/PagedOut_008.pdf"
-            },
-            {
-                "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-                "href": "https://github.com/manaflow-ai/cmux"
-            },
-            {
-                "title": "Show HN: Write native binary web apps with TypeScript and Express",
-                "href": "https://github.com/tsoniclang/express"
-            },
-            {
-                "title": "SwiftUI Agent Skill: Build Better Views with AI",
-                "href": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/"
-            },
-            {
-                "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
-                "href": "https://cormullion.github.io/Lindenmayer.jl/stable/"
-            },
-            {
-                "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
-                "href": "https://www.bbc.com/news/articles/c3ew5jlqz87o"
             }
         ]
     }
