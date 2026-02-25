@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "The US Had a Big Battery Boom Last Year",
+                "href": "https://hardware.slashdot.org/story/26/02/24/206224/the-us-had-a-big-battery-boom-last-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "First British Baby Born Using Transplanted Womb From Dead Donor",
                 "href": "https://science.slashdot.org/story/26/02/24/200231/first-british-baby-born-using-transplanted-womb-from-dead-donor?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "US Farmers Are Rejecting Multimillion-Dollar Datacenter Bids For Their Land",
                 "href": "https://news.slashdot.org/story/26/02/24/005258/us-farmers-are-rejecting-multimillion-dollar-datacenter-bids-for-their-land?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "New Microsoft Gaming CEO Has 'No Tolerance For Bad AI'",
-                "href": "https://games.slashdot.org/story/26/02/23/2356223/new-microsoft-gaming-ceo-has-no-tolerance-for-bad-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -690,75 +690,95 @@
                 "href": "https://github.com/moonshine-ai/moonshine"
             },
             {
-                "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
-                "href": "https://www.inceptionlabs.ai/blog/introducing-mercury-2"
-            },
-            {
-                "title": "Hacking an old Kindle to display bus arrival times",
-                "href": "https://www.mariannefeng.com/portfolio/kindle/"
-            },
-            {
                 "title": "Mac\u00a0mini will be made at a new facility in Houston",
                 "href": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/"
             },
             {
-                "title": "Nearby Glasses",
-                "href": "https://github.com/yjeanrenaud/yj_nearbyglasses"
+                "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+                "href": "https://www.inceptionlabs.ai/blog/introducing-mercury-2"
             },
             {
-                "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-                "href": "https://wordglyph.xyz/one-piece-at-a-time"
-            },
-            {
-                "title": "Corgi Labs (YC W23) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate"
-            },
-            {
-                "title": "Show HN: Emdash \u2013 Open-source agentic development environment",
-                "href": "https://github.com/generalaction/emdash"
-            },
-            {
-                "title": "Pi \u2013 a minimal terminal coding harness",
+                "title": "Pi \u2013 A minimal terminal coding harness",
                 "href": "https://pi.dev"
-            },
-            {
-                "title": "Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy",
-                "href": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price"
-            },
-            {
-                "title": "Optophone",
-                "href": "https://en.wikipedia.org/wiki/Optophone"
-            },
-            {
-                "title": "Hugging Face Skills",
-                "href": "https://github.com/huggingface/skills"
-            },
-            {
-                "title": "Aesthetics of single threading",
-                "href": "https://ta.fo/aesthetics-of-single-threading/"
-            },
-            {
-                "title": "How we rebuilt Next.js with AI in one week",
-                "href": "https://blog.cloudflare.com/vinext/"
             },
             {
                 "title": "Justifying Text-Wrap: Pretty",
                 "href": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html"
             },
             {
-                "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-                "href": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html"
+                "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+                "href": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price"
             },
             {
-                "title": "We installed a single turnstile to feel secure",
-                "href": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater"
+                "title": "Hacking an old Kindle to display bus arrival times",
+                "href": "https://www.mariannefeng.com/portfolio/kindle/"
+            },
+            {
+                "title": "Nearby Glasses",
+                "href": "https://github.com/yjeanrenaud/yj_nearbyglasses"
+            },
+            {
+                "title": "Steel Bank Common Lisp",
+                "href": "https://www.sbcl.org/"
+            },
+            {
+                "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+                "href": "https://wordglyph.xyz/one-piece-at-a-time"
+            },
+            {
+                "title": "What Happened to Fry's Electronics",
+                "href": "https://dfarq.homeip.net/what-happened-to-frys-electronics/"
+            },
+            {
+                "title": "Corgi Labs (YC W23) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate"
+            },
+            {
+                "title": "Code has always been the easy part",
+                "href": "https://laughingmeme.org/2026/02/09/code-has-always-been-the-easy-part.html"
+            },
+            {
+                "title": "Aesthetics of single threading",
+                "href": "https://ta.fo/aesthetics-of-single-threading/"
+            },
+            {
+                "title": "Hugging Face Skills",
+                "href": "https://github.com/huggingface/skills"
             },
             {
                 "title": "Anthropic Drops Flagship Safety Pledge",
                 "href": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/"
             },
             {
-                "title": "We Are Changing Our Developer Productivity Experiment Design",
+                "title": "Show HN: Emdash \u2013 Open-source agentic development environment",
+                "href": "https://github.com/generalaction/emdash"
+            },
+            {
+                "title": "Optophone",
+                "href": "https://en.wikipedia.org/wiki/Optophone"
+            },
+            {
+                "title": "Show HN: Recursively apply patterns for pathfinding",
+                "href": "https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D"
+            },
+            {
+                "title": "Looks like it is happening",
+                "href": "https://www.math.columbia.edu/~woit/wordpress/?p=15500"
+            },
+            {
+                "title": "Stripe valued at $159B, 2025 annual letter",
+                "href": "https://stripe.com/newsroom/news/stripe-2025-update"
+            },
+            {
+                "title": "We installed a single turnstile to feel secure",
+                "href": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater"
+            },
+            {
+                "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+                "href": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html"
+            },
+            {
+                "title": "We are changing our developer productivity experiment design",
                 "href": "https://metr.org/blog/2026-02-24-uplift-update/"
             },
             {
@@ -766,40 +786,20 @@
                 "href": "https://codingchallenges.fyi/challenges/challenge-forth/"
             },
             {
-                "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-                "href": "https://vmfunc.re/blog/persona/"
-            },
-            {
-                "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
-                "href": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai"
-            },
-            {
-                "title": "Steel Bank Common Lisp",
-                "href": "https://www.sbcl.org/"
-            },
-            {
                 "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
                 "href": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot"
             },
             {
-                "title": "The history of knocking on wood",
-                "href": "https://resobscura.substack.com/p/neolithic-habits-machine-age-tools"
+                "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+                "href": "https://vmfunc.re/blog/persona/"
             },
             {
-                "title": "Stripe reportedly makes offer to acquire PayPal",
-                "href": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html"
+                "title": "Why the KeePass format should be based on SQLite",
+                "href": "https://mketab.org/blog/sqlite_kdbx/"
             },
             {
-                "title": "Ask HN: Programmable Watches with WiFi?",
-                "href": "item?id=47105086"
-            },
-            {
-                "title": "The Missing Semester of Your CS Education \u2013 Revised for 2026",
-                "href": "https://missing.csail.mit.edu/"
-            },
-            {
-                "title": "Cell Service for the Fairly Paranoid",
-                "href": "https://www.cape.co/"
+                "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+                "href": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai"
             }
         ]
     }
