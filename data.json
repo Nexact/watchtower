@@ -19,6 +19,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1rg0ijo/we_scanned_6500_clawhub_skills_36_have_security/"
             },
             {
+                "title": "The Forgotten Bug: How a Node.js Core Design Flaw Enables HTTP Request Splitting",
+                "href": "https://old.reddit.com/r/netsec/comments/1rgdw7w/the_forgotten_bug_how_a_nodejs_core_design_flaw/"
+            },
+            {
                 "title": "Uncovering a Global macOS Malware Campaign",
                 "href": "https://old.reddit.com/r/netsec/comments/1rg3zmd/uncovering_a_global_macos_malware_campaign/"
             },
@@ -97,16 +101,16 @@
             {
                 "title": "Have you tried turning it off and on again? On bricking OT devices (part 2)",
                 "href": "https://old.reddit.com/r/netsec/comments/1rcexc6/have_you_tried_turning_it_off_and_on_again_on/"
-            },
-            {
-                "title": "How likely is a man-in-the-middle attack?",
-                "href": "https://old.reddit.com/r/netsec/comments/1rclqgl/how_likely_is_a_maninthemiddle_attack/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
+                "href": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/"
+            },
             {
                 "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/"
@@ -162,10 +166,6 @@
             {
                 "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
                 "href": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/"
-            },
-            {
-                "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
-                "href": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/"
             }
         ]
     },
@@ -218,6 +218,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "A Chinese Official's Use of ChatGPT Accidentally Revealed a Global Intimidation Operation",
+                "href": "https://slashdot.org/story/26/02/27/185250/a-chinese-officials-use-of-chatgpt-accidentally-revealed-a-global-intimidation-operation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Metacritic Will Kick Out Media Attempting To Submit AI Generated Reviews",
+                "href": "https://games.slashdot.org/story/26/02/27/1732218/metacritic-will-kick-out-media-attempting-to-submit-ai-generated-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Sam Altman Says OpenAI Shares Anthropic's Red Lines in Pentagon Fight",
                 "href": "https://slashdot.org/story/26/02/27/1530218/sam-altman-says-openai-shares-anthropics-red-lines-in-pentagon-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -268,14 +276,6 @@
             {
                 "title": "What's the Point of School When AI Can Do Your Homework?",
                 "href": "https://news.slashdot.org/story/26/02/26/2154237/whats-the-point-of-school-when-ai-can-do-your-homework?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google Launches Nano Banana 2 Model With Faster Image Generation",
-                "href": "https://tech.slashdot.org/story/26/02/26/2145253/google-launches-nano-banana-2-model-with-faster-image-generation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Chinese Official's Use of ChatGPT Revealed a Global Intimidation Opperation",
-                "href": "https://tech.slashdot.org/story/26/02/26/2045225/chinese-officials-use-of-chatgpt-revealed-a-global-intimidation-opperation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -347,6 +347,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "FreeBSD security advisory (AV26-179)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/freebsd-security-advisory-av26-179"
+            },
             {
                 "title": "VMware security advisory (AV26-178)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-178"
@@ -542,10 +546,6 @@
             {
                 "title": "Ubuntu security advisory (AV26-133)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-133"
-            },
-            {
-                "title": "Dell security advisory (AV26-132)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-132"
             }
         ]
     },
@@ -682,68 +682,84 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "We deserve a better streams API for JavaScript",
+                "title": "A better streams API is possible for JavaScript",
                 "href": "https://blog.cloudflare.com/a-better-web-streams-api/"
-            },
-            {
-                "title": "We gave terabytes of CI logs to an LLM",
-                "href": "https://www.mendral.com/blog/llms-are-good-at-sql"
             },
             {
                 "title": "Statement from Dario Amodei on our discussions with the Department of War",
                 "href": "https://www.anthropic.com/news/statement-department-of-war"
             },
             {
-                "title": "The Pentagon is making a mistake by threatening Anthropic",
-                "href": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake"
+                "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
+                "href": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/"
+            },
+            {
+                "title": "We gave terabytes of CI logs to an LLM",
+                "href": "https://www.mendral.com/blog/llms-are-good-at-sql"
             },
             {
                 "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
                 "href": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0"
             },
             {
+                "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
+                "href": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae"
+            },
+            {
+                "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
+                "href": "https://www.oranlooney.com/post/grifters-skeptics-marks/"
+            },
+            {
                 "title": "Show HN: RetroTick \u2013 Run classic Windows EXEs in the browser",
                 "href": "https://retrotick.com/"
             },
             {
-                "title": "Can you reverse engineer our neural network?",
-                "href": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/"
-            },
-            {
-                "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-                "href": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens"
+                "title": "Allocating on the Stack",
+                "href": "https://go.dev/blog/allocation-optimizations"
             },
             {
                 "title": "F-Droid Board of Directors nominations 2026",
                 "href": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html"
             },
             {
-                "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
-                "href": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/"
-            },
-            {
-                "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
-                "href": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies"
-            },
-            {
                 "title": "Sprites on the Web",
                 "href": "https://www.joshwcomeau.com/animation/sprites/"
-            },
-            {
-                "title": "An interactive intro to quadtrees",
-                "href": "https://growingswe.com/blog/quadtrees"
             },
             {
                 "title": "Get free Claude max 20x for open-source maintainers",
                 "href": "https://claude.com/contact-sales/claude-for-oss"
             },
             {
+                "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+                "href": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens"
+            },
+            {
+                "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+                "href": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies"
+            },
+            {
                 "title": "The Hunt for Dark\u00a0Breakfast",
                 "href": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/"
             },
             {
-                "title": "The normalization of corruption in organizations (2003) [pdf]",
-                "href": "https://gwern.net/doc/sociology/2003-ashforth.pdf"
+                "title": "Can you reverse engineer our neural network?",
+                "href": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/"
+            },
+            {
+                "title": "What was the first life restoration of a sauropod?",
+                "href": "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/"
+            },
+            {
+                "title": "Don't run OpenClaw on your main machine",
+                "href": "https://blog.skypilot.co/openclaw-on-skypilot/"
+            },
+            {
+                "title": "An interactive intro to quadtrees",
+                "href": "https://growingswe.com/blog/quadtrees"
+            },
+            {
+                "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+                "href": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286"
             },
             {
                 "title": "Breaking Free",
@@ -754,52 +770,36 @@
                 "href": "https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/"
             },
             {
-                "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
-                "href": "https://www.oranlooney.com/post/grifters-skeptics-marks/"
+                "title": "The normalization of corruption in organizations (2003) [pdf]",
+                "href": "https://gwern.net/doc/sociology/2003-ashforth.pdf"
+            },
+            {
+                "title": "Dan Simmons, author of Hyperion, Song of Kali, dead at 77",
+                "href": "https://en.wikipedia.org/wiki/Dan_Simmons"
+            },
+            {
+                "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
+                "href": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html"
             },
             {
                 "title": "The quixotic team trying to build a world in a 20-year-old game",
                 "href": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/"
             },
             {
-                "title": "Ubicloud (YC W24): Software Engineer \u2013 $95-$250K in Turkey, Netherlands, CA",
-                "href": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer"
-            },
-            {
                 "title": "How to Allocate Memory",
                 "href": "https://geocar.sdf1.org/alloc.html"
             },
             {
+                "title": "Show HN: Unfudged \u2013 version every change between commits - local-first",
+                "href": "https://www.unfudged.io/"
+            },
+            {
+                "title": "Block spent $68M on a single party in September 2025",
+                "href": "https://twitter.com/BullTheoryio/status/2027250361816486085"
+            },
+            {
                 "title": "Reading English from 1000 Ad",
                 "href": "https://lewiscampbell.tech/blog/260224.html"
-            },
-            {
-                "title": "What Claude Code chooses",
-                "href": "https://amplifying.ai/research/claude-code-picks"
-            },
-            {
-                "title": "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
-                "href": "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html"
-            },
-            {
-                "title": "80386 Protection",
-                "href": "https://nand2mario.github.io/posts/2026/80386_protection/"
-            },
-            {
-                "title": "What does \" 2>&1 \" mean?",
-                "href": "https://stackoverflow.com/questions/818255/what-does-21-mean"
-            },
-            {
-                "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-                "href": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf"
-            },
-            {
-                "title": "New California law requires age verification for all OS accounts",
-                "href": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/"
-            },
-            {
-                "title": "The complete Manic Miner disassembly",
-                "href": "https://skoolkit.ca/disassemblies/manic_miner/"
             }
         ]
     }
