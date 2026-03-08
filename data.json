@@ -11,6 +11,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1rhyn04/rnetsec_monthly_discussion_tool_thread/"
             },
             {
+                "title": "Tracking the Top 10 exploited CVEs of the week (updated daily)",
+                "href": "https://old.reddit.com/r/netsec/comments/1roa0gm/tracking_the_top_10_exploited_cves_of_the_week/"
+            },
+            {
                 "title": "38 researchers red-teamed AI agents for 2 weeks. Here's what broke. (Agents of Chaos, Feb 2026) AI Security",
                 "href": "https://old.reddit.com/r/netsec/comments/1rn4b6i/38_researchers_redteamed_ai_agents_for_2_weeks/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Reverse Engineering Garmin Watch Applications with Ghidra",
                 "href": "https://old.reddit.com/r/netsec/comments/1rfeee1/reverse_engineering_garmin_watch_applications/"
-            },
-            {
-                "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
-                "href": "https://old.reddit.com/r/netsec/comments/1rf61kl/google_api_keys_werent_secrets_but_then_gemini/"
             }
         ]
     },
@@ -682,40 +682,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "FrameBook",
-                "href": "https://fb.edoo.gg"
+                "title": "Based on its own charter, OpenAI should surrender the race",
+                "href": "https://mlumiste.com/general/openai-charter/"
             },
             {
-                "title": "Living Human Brain Cells Play Doom on a CL1",
-                "href": "https://corticallabs.com/doom.html"
+                "title": "FrameBook",
+                "href": "https://fb.edoo.gg"
             },
             {
                 "title": "What if the Apple ][ had run on Field-Sequential?",
                 "href": "https://nicole.express/2026/the-apple-that-wasnt.html"
             },
             {
-                "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
-                "href": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html"
-            },
-            {
                 "title": "Notes on Writing WASM",
                 "href": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm"
+            },
+            {
+                "title": "Log messages are mostly for the people operating your software",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation"
             },
             {
                 "title": "Beagle, a source code management system that stores AST trees",
                 "href": "https://github.com/gritzko/librdx/tree/master/be"
             },
             {
-                "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
-                "href": "https://github.com/kantord/blogtato"
-            },
-            {
                 "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
                 "href": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/"
             },
             {
-                "title": "Why can't you tune your guitar? (2019)",
-                "href": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/"
+                "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+                "href": "https://github.com/kantord/blogtato"
+            },
+            {
+                "title": "My Homelab Setup",
+                "href": "https://bryananthonio.com/blog/my-homelab-setup/"
+            },
+            {
+                "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+                "href": "https://xcancel.com/theflow0/status/2030011206040256841"
             },
             {
                 "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
@@ -726,10 +730,6 @@
                 "href": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/"
             },
             {
-                "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-                "href": "https://xcancel.com/theflow0/status/2030011206040256841"
-            },
-            {
                 "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
                 "href": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn"
             },
@@ -738,8 +738,8 @@
                 "href": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/"
             },
             {
-                "title": "Log messages are mostly for the people operating your software",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation"
+                "title": "Why can't you tune your guitar? (2019)",
+                "href": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/"
             },
             {
                 "title": "How to run Qwen 3.5 locally",
@@ -750,6 +750,18 @@
                 "href": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html"
             },
             {
+                "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+                "href": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html"
+            },
+            {
+                "title": "The Lobster Programming Language",
+                "href": "https://strlen.com/lobster/"
+            },
+            {
+                "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+                "href": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/"
+            },
+            {
                 "title": "Accessing inactive union members through char",
                 "href": "https://www.sandordargo.com/blog/2026/03/04/char-representation-and-UB"
             },
@@ -758,24 +770,12 @@
                 "href": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/"
             },
             {
-                "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
-                "href": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/"
-            },
-            {
-                "title": "The Lobster Programming Language",
-                "href": "https://strlen.com/lobster/"
-            },
-            {
-                "title": "CasNum",
-                "href": "https://github.com/0x0mer/CasNum"
-            },
-            {
                 "title": "Some Words on WigglyPaint",
                 "href": "https://beyondloom.com/blog/onwigglypaint.html"
             },
             {
-                "title": "Warn about PyPy being unmaintained",
-                "href": "https://github.com/astral-sh/uv/pull/17643"
+                "title": "CasNum",
+                "href": "https://github.com/0x0mer/CasNum"
             },
             {
                 "title": "Sem \u2013 Semantic version control. Entity-level diffs on top of Git",
@@ -786,20 +786,20 @@
                 "href": "https://curiosity-telescope.vercel.app/"
             },
             {
-                "title": "Yoghurt delivery women combatting loneliness in Japan",
-                "href": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan"
+                "title": "If It Quacks Like a Package Manager",
+                "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+            },
+            {
+                "title": "Warn about PyPy being unmaintained",
+                "href": "https://github.com/astral-sh/uv/pull/17643"
             },
             {
                 "title": "From RGB to L*a*b* color space (2024)",
                 "href": "https://kaizoudou.com/from-rgb-to-lab-color-space/"
             },
             {
-                "title": "A decade of Docker containers",
-                "href": "https://cacm.acm.org/research/a-decade-of-docker-containers/"
-            },
-            {
-                "title": "If It Quacks Like a Package Manager",
-                "href": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+                "title": "Yoghurt delivery women combatting loneliness in Japan",
+                "href": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan"
             }
         ]
     }
