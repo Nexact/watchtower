@@ -23,12 +23,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1rqa9sg/how_strengthening_crypto_broke_authentication/"
             },
             {
-                "title": "New UNISOC RCE!!",
-                "href": "https://old.reddit.com/r/netsec/comments/1rqo5vo/new_unisoc_rce/"
-            },
-            {
                 "title": "Throwing a spark into FuelCMS (0-click RCE)",
                 "href": "https://old.reddit.com/r/netsec/comments/1rqrwcb/throwing_a_spark_into_fuelcms_0click_rce/"
+            },
+            {
+                "title": "New UNISOC RCE!!",
+                "href": "https://old.reddit.com/r/netsec/comments/1rqo5vo/new_unisoc_rce/"
             },
             {
                 "title": "CVE-2026-26117: Hijacking Azure Arc on Windows for Local Privilege Escalation & Cloud Identity Takeover",
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Nvidia Is Planning to Launch Its Own Open-Source OpenClaw Competitor",
+                "href": "https://slashdot.org/story/26/03/11/177232/nvidia-is-planning-to-launch-its-own-open-source-openclaw-competitor?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "YouTube Expands AI Deepfake Detection To Politicians, Government Officials, and Journalists",
                 "href": "https://news.slashdot.org/story/26/03/11/1653217/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "Ig Nobels Ceremony Moves To Europe Indefinitely, Citing US Safety Concerns",
                 "href": "https://science.slashdot.org/story/26/03/10/1540242/ig-nobels-ceremony-moves-to-europe-indefinitely-citing-us-safety-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "OpenAI Is Walking Away From Expanding Its Stargate Data Center With Oracle",
-                "href": "https://developers.slashdot.org/story/26/03/10/0510223/openai-is-walking-away-from-expanding-its-stargate-data-center-with-oracle?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -347,6 +347,18 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "VMware security advisory (AV26-221)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-221"
+            },
+            {
+                "title": "Google Chrome security advisory (AV26-220)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-220"
+            },
+            {
+                "title": "Intel security advisory (AV26-219)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av26-219"
+            },
             {
                 "title": "[Control systems] Hitachi security advisory (AV26-218)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-218"
@@ -534,18 +546,131 @@
             {
                 "title": "Drupal security advisory (AV26-175)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-175"
+            }
+        ]
+    },
+    {
+        "feedname": "cisa",
+        "items": [
+            {
+                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog"
             },
             {
-                "title": "ServiceNow security advisory (AV26-174)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-174"
+                "title": "Honeywell IQ4x BMS Controller",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-03"
             },
             {
-                "title": "VMware security advisory (AV26-173)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-173"
+                "title": "Ceragon Siklu MultiHaul and EtherHaul Series",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-04"
             },
             {
-                "title": "Juniper Networks security advisory (AV26-172)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-172"
+                "title": "Apeman Cameras",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-01"
+            },
+            {
+                "title": "Lantronix EDS3000PS and EDS5000",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-02"
+            },
+            {
+                "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+            },
+            {
+                "title": "Delta Electronics CNCSoft-G2",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01"
+            },
+            {
+                "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog"
+            },
+            {
+                "title": "Labkotec LID-3300IP",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05"
+            },
+            {
+                "title": "Mobiliti e-mobi.hu",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06"
+            },
+            {
+                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            },
+            {
+                "title": "Hitachi Energy RTU500 Product",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03"
+            },
+            {
+                "title": "Everon OCPP Backends",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08"
+            },
+            {
+                "title": "ePower epower.ie",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07"
+            },
+            {
+                "title": "Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01"
+            },
+            {
+                "title": "Portwell Engineering Toolkits",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04"
+            },
+            {
+                "title": "Hitachi Energy Relion REB500 Product",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02"
+            },
+            {
+                "title": "Pelco, Inc. Sarix Pro 3 Series IP Cameras",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02"
+            },
+            {
+                "title": "Yokogawa CENTUM VP R6, R7",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09"
+            },
+            {
+                "title": "Copeland XWEB and XWEB Pro",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10"
+            },
+            {
+                "title": "EV Energy ev.energy",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07"
+            },
+            {
+                "title": "Mobility46 mobility46.se",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-08"
+            },
+            {
+                "title": "Chargemap chargemap.com",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05"
+            },
+            {
+                "title": "CloudCharge cloudcharge.se",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-03"
+            },
+            {
+                "title": "SWITCH EV swtchenergy.com",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-06"
+            },
+            {
+                "title": "EV2GO ev2go.io",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-04"
+            },
+            {
+                "title": "Johnson Controls, Inc. Frick Controls Quantum HD",
+                "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-01"
+            },
+            {
+                "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems"
+            },
+            {
+                "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+            },
+            {
+                "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+                "href": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog"
             }
         ]
     },
@@ -561,20 +686,20 @@
                 "href": "https://bloomberg.github.io/js-blog/post/temporal/"
             },
             {
-                "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
-                "href": "https://doi.org/10.1073/pnas.2420092122"
-            },
-            {
                 "title": "Making WebAssembly a first-class language on the Web",
                 "href": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
             },
             {
-                "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-                "href": "https://github.com/microsoft/BitNet"
+                "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
+                "href": "https://doi.org/10.1073/pnas.2420092122"
             },
             {
                 "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
                 "href": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/"
+            },
+            {
+                "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+                "href": "https://github.com/microsoft/BitNet"
             },
             {
                 "title": "Show HN: Klaus \u2013 OpenClaw on a VM, batteries included",
@@ -589,64 +714,80 @@
                 "href": "https://www.prismvideos.com"
             },
             {
+                "title": "Fungal Electronics",
+                "href": "https://arxiv.org/abs/2111.11231"
+            },
+            {
                 "title": "Wiz joins Google",
                 "href": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
-            },
-            {
-                "title": "Faster asin() was hiding in plain sight",
-                "href": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/"
-            },
-            {
-                "title": "Launch HN: Sentrial (YC W26) \u2013 Catch AI Agent Failures Before Your Users Do",
-                "href": "https://www.sentrial.com/"
-            },
-            {
-                "title": "Elevated errors on login with Claude Code",
-                "href": "https://status.claude.com/incidents/jm3b4jjy2jrt"
-            },
-            {
-                "title": "AI Agent Hacks McKinsey",
-                "href": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
-            },
-            {
-                "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
-                "href": "https://fuelingcuriosity.com/game.html"
-            },
-            {
-                "title": "Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG",
-                "href": "https://aether.saphal.me/dashboard/default"
             },
             {
                 "title": "Show HN: Open-source browser for AI agents",
                 "href": "https://github.com/theredsix/agent-browser-protocol"
             },
             {
+                "title": "AI Agent Hacks McKinsey",
+                "href": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"
+            },
+            {
+                "title": "Launch HN: Sentrial (YC W26) \u2013 Catch AI Agent Failures Before Your Users Do",
+                "href": "https://www.sentrial.com/"
+            },
+            {
+                "title": "Faster asin() was hiding in plain sight",
+                "href": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/"
+            },
+            {
+                "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
+                "href": "https://fuelingcuriosity.com/game.html"
+            },
+            {
                 "title": "The MacBook Neo",
                 "href": "https://daringfireball.net/2026/03/the_macbook_neo"
             },
             {
-                "title": "Building a TB-303 from Scratch",
-                "href": "https://loopmaster.xyz/tutorials/tb303-from-scratch"
+                "title": "Searching for the Agentic IDE",
+                "href": "https://twitter.com/karpathy/status/2031616709560610993"
             },
             {
-                "title": "Fungal Electronics",
-                "href": "https://arxiv.org/abs/2111.11231"
+                "title": "Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG",
+                "href": "https://aether.saphal.me/dashboard/default"
             },
             {
-                "title": "Why the global elite gave up on spelling and grammar",
-                "href": "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1"
-            },
-            {
-                "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
-                "href": "https://peppy.bot/"
+                "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+                "href": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/"
             },
             {
                 "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
                 "href": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/"
             },
             {
+                "title": "Building a TB-303 from Scratch",
+                "href": "https://loopmaster.xyz/tutorials/tb303-from-scratch"
+            },
+            {
+                "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+                "href": "https://sitespy.app"
+            },
+            {
+                "title": "Why Do They Want to Get Rid of Software Engineers?",
+                "href": "https://jrswab.com/blog/why-do-they-want-to-get-rid-of-software-engineers/"
+            },
+            {
+                "title": "Visualizing Ukkonen's Suffix Tree Algorithm",
+                "href": "https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/"
+            },
+            {
                 "title": "Zig \u2013 Type Resolution Redesign and Language Changes",
                 "href": "https://ziglang.org/devlog/2026/#2026-03-10"
+            },
+            {
+                "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
+                "href": "https://peppy.bot/"
+            },
+            {
+                "title": "Why the global elite gave up on spelling and grammar",
+                "href": "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1"
             },
             {
                 "title": "Writing my own text editor, and daily-driving it",
@@ -657,24 +798,8 @@
                 "href": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/"
             },
             {
-                "title": "Bypassing PatchGuard on Windows x64 (2005)",
-                "href": "http://uninformed.org/index.cgi?v=3&a=3&t=txt"
-            },
-            {
-                "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-                "href": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/"
-            },
-            {
                 "title": "Yann LeCun raises $1B to build AI that understands the physical world",
                 "href": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/"
-            },
-            {
-                "title": "Tony Hoare has died",
-                "href": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html"
-            },
-            {
-                "title": "Visualizing Ukkonen's Suffix Tree Algorithm",
-                "href": "https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/"
             }
         ]
     }
