@@ -27,12 +27,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1ruekc5/glassworm_v2_analysis_part_2_infrastructure/"
             },
             {
-                "title": "Quick question for people running CrowdStrike, Zscaler, Netskope or similar in production.",
-                "href": "https://old.reddit.com/r/netsec/comments/1ru4cwc/quick_question_for_people_running_crowdstrike/"
-            },
-            {
                 "title": "CVE-2024-45163: Remote DoS in Mirai C2 \u2013 research writeup + what it led me to build",
                 "href": "https://old.reddit.com/r/netsec/comments/1ru6xxl/cve202445163_remote_dos_in_mirai_c2_research/"
+            },
+            {
+                "title": "Quick question for people running CrowdStrike, Zscaler, Netskope or similar in production.",
+                "href": "https://old.reddit.com/r/netsec/comments/1ru4cwc/quick_question_for_people_running_crowdstrike/"
             },
             {
                 "title": "Phishing campaign abusing Google Cloud Storage redirectors to multiple scam pages",
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "FSF Threatens Anthropic Over Infringed Copyright:  Share Your LLMs Freely",
+                "href": "https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "The UK Will Invest Billions to Build a Nuclear Fusion Industry",
                 "href": "https://hardware.slashdot.org/story/26/03/16/0049245/the-uk-will-invest-billions-to-build-a-nuclear-fusion-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "How a Raspberry Pi Microcontroller Saved the Super Nintendo's Infamously Inferior Version Of 'Doom'",
                 "href": "https://games.slashdot.org/story/26/03/14/2326222/how-a-raspberry-pi-microcontroller-saved-the-super-nintendos-infamously-inferior-version-of-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Are U.S. Utilities Trying to Delay Easy-to-Use Solar 'Balcony' Panels?",
-                "href": "https://news.slashdot.org/story/26/03/14/0711230/are-us-utilities-trying-to-delay-easy-to-use-solar-balcony-panels?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,44 +557,44 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+                "title": "Canada's bill C-22 mandates mass metadata surveillance",
                 "href": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"
-            },
-            {
-                "title": "What is agentic engineering?",
-                "href": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/"
-            },
-            {
-                "title": "Chrome DevTools MCP (2025)",
-                "href": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
             },
             {
                 "title": "The 49MB web page",
                 "href": "https://thatshubham.com/blog/news-audit"
             },
             {
+                "title": "Chrome DevTools MCP (2025)",
+                "href": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session"
+            },
+            {
                 "title": "Electric motor scaling laws and inertia in robot actuators",
                 "href": "https://robot-daycare.com/posts/actuation_series_1/"
             },
             {
-                "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
-                "href": "https://github.com/jtsylve/spice-crypt"
+                "title": "How I write software with LLMs",
+                "href": "https://www.stavros.io/posts/how-i-write-software-with-llms/"
+            },
+            {
+                "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
+                "href": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf"
+            },
+            {
+                "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+                "href": "https://www.moment.dev/blog/lies-i-was-told-pt-2"
             },
             {
                 "title": "LLM Architecture Gallery",
                 "href": "https://sebastianraschka.com/llm-architecture-gallery/"
             },
             {
+                "title": "How far can you go with IX Route Servers only?",
+                "href": "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers"
+            },
+            {
                 "title": "LLMs can be exhausting",
                 "href": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/"
-            },
-            {
-                "title": "The Linux Programming Interface as a university course text",
-                "href": "https://man7.org/tlpi/academic/index.html"
-            },
-            {
-                "title": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
-                "href": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf"
             },
             {
                 "title": "Stop Sloppypasta",
@@ -605,8 +605,24 @@
                 "href": "https://isaacfreund.com/blog/river-window-management/"
             },
             {
+                "title": "The Linux Programming Interface as a university course text",
+                "href": "https://man7.org/tlpi/academic/index.html"
+            },
+            {
                 "title": "//go:fix inline and the source-level inliner",
                 "href": "https://go.dev/blog/inliner"
+            },
+            {
+                "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+                "href": "https://github.com/jtsylve/spice-crypt"
+            },
+            {
+                "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
+                "href": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"
+            },
+            {
+                "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+                "href": "https://github.com/QAInsights/AIx"
             },
             {
                 "title": "Federal Right to Privacy Act \u2013 Draft legislation",
@@ -617,28 +633,24 @@
                 "href": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/"
             },
             {
-                "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
-                "href": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"
-            },
-            {
-                "title": "How I write software with LLMs",
-                "href": "https://www.stavros.io/posts/how-i-write-software-with-llms/"
-            },
-            {
-                "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-                "href": "https://github.com/QAInsights/AIx"
-            },
-            {
-                "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
-                "href": "https://www.moment.dev/blog/lies-i-was-told-pt-2"
+                "title": "The emergence of print-on-demand Amazon paperback books",
+                "href": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/"
             },
             {
                 "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
                 "href": "https://www.youtube.com/watch?v=HK0uAKkt0AE"
             },
             {
-                "title": "The emergence of print-on-demand Amazon paperback books",
-                "href": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/"
+                "title": "ASCII and Unicode quotation marks (2007)",
+                "href": "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html"
+            },
+            {
+                "title": "A Visual Introduction to Machine Learning (2015)",
+                "href": "https://r2d3.us/visual-intro-to-machine-learning-part-1/"
+            },
+            {
+                "title": "Bus travel from Lima to Rio de Janeiro",
+                "href": "https://kenschutte.com/lima-to-rio-by-bus/"
             },
             {
                 "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
@@ -649,32 +661,20 @@
                 "href": "https://zzk273.github.io/LATENT/"
             },
             {
-                "title": "A Visual Introduction to Machine Learning (2015)",
-                "href": "https://r2d3.us/visual-intro-to-machine-learning-part-1/"
-            },
-            {
                 "title": "Nasdaq's Shame",
                 "href": "https://keubiko.substack.com/p/nasdaqs-shame"
             },
             {
-                "title": "Bus travel from Lima to Rio de Janeiro",
-                "href": "https://kenschutte.com/lima-to-rio-by-bus/"
-            },
-            {
-                "title": "An experiment to use GitHub Actions as a control plane for a PaaS",
-                "href": "https://towlion.github.io"
+                "title": "What is agentic engineering?",
+                "href": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/"
             },
             {
                 "title": "A Plain Anabaptist Story: The Hutterites",
                 "href": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites"
             },
             {
-                "title": "In Memoriam: John W. Addison, my PhD advisor",
-                "href": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/"
-            },
-            {
-                "title": "Type systems are leaky abstractions: the case of Map.take!/2",
-                "href": "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take"
+                "title": "An experiment to use GitHub Actions as a control plane for a PaaS",
+                "href": "https://towlion.github.io"
             }
         ]
     }
