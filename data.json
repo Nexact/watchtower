@@ -15,6 +15,18 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1rviijf/qihoo_360s_ai_product_leaked_the_platforms_ssl/"
             },
             {
+                "title": "Reversing the FT100 BLE fitness bracelet",
+                "href": "https://old.reddit.com/r/netsec/comments/1rw70f0/reversing_the_ft100_ble_fitness_bracelet/"
+            },
+            {
+                "title": "Offensive Cases about Credential Guard & Detection Strategies",
+                "href": "https://old.reddit.com/r/netsec/comments/1rw5o2s/offensive_cases_about_credential_guard_detection/"
+            },
+            {
+                "title": "Built a self-hosted email threat daemon: IMAP IDLE + multi-stage enrichment (SPF/DKIM/DMARC/DNSBL/WHOIS/URLhaus/VirusTotal) + provider-agnostic LLM verdict \u2014 write-up",
+                "href": "https://old.reddit.com/r/netsec/comments/1rw5j1d/built_a_selfhosted_email_threat_daemon_imap_idle/"
+            },
+            {
                 "title": "BIGO Ads Deploys C2-Style Infrastructure to Survive Domain Bans. Here's the Decrypted Config.",
                 "href": "https://old.reddit.com/r/netsec/comments/1rvr52e/bigo_ads_deploys_c2style_infrastructure_to/"
             },
@@ -89,24 +101,24 @@
             {
                 "title": "Co-Pilot, Disengage Autophish: The New Phishing Surface Hiding Inside AI Email Summaries",
                 "href": "https://old.reddit.com/r/netsec/comments/1rry2ft/copilot_disengage_autophish_the_new_phishing/"
-            },
-            {
-                "title": "Findings Gadgets Like it\u2019s 2026",
-                "href": "https://old.reddit.com/r/netsec/comments/1rrx0fu/findings_gadgets_like_its_2026/"
-            },
-            {
-                "title": "Forensic analysis of LummaC2 infection unmasks DPRK operative behind Polyfill.io supply chain attack and Gate.us infiltration",
-                "href": "https://old.reddit.com/r/netsec/comments/1rredk3/forensic_analysis_of_lummac2_infection_unmasks/"
-            },
-            {
-                "title": "CFP: NaClCON 2026 \u2013 Conference on the History of Hacking (May 31 \u2013 June 2, Carolina Beach, NC)",
-                "href": "https://old.reddit.com/r/netsec/comments/1rr3dlg/cfp_naclcon_2026_conference_on_the_history_of/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"
+            },
+            {
+                "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/"
+            },
+            {
+                "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/"
+            },
             {
                 "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/"
@@ -154,18 +166,6 @@
             {
                 "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
                 "href": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/"
-            },
-            {
-                "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
-            },
-            {
-                "title": "FBI seeks victims of Steam games used to spread malware",
-                "href": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/"
-            },
-            {
-                "title": "Poland's nuclear research centre targeted by cyberattack",
-                "href": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/"
             }
         ]
     },
@@ -565,16 +565,24 @@
                 "href": "https://translate.kagi.com/?from=en&to=LinkedIn+speak"
             },
             {
-                "title": "Building a Shell",
-                "href": "https://healeycodes.com/building-a-shell"
-            },
-            {
                 "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
                 "href": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech"
             },
             {
-                "title": "Grace Hopper's Revenge",
-                "href": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge"
+                "title": "Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back",
+                "href": "https://www.governance.fyi/p/silicon-valleys-pronatalists-killed"
+            },
+            {
+                "title": "Building a Shell",
+                "href": "https://healeycodes.com/building-a-shell"
+            },
+            {
+                "title": "Font Smuggler \u2013 copy hidden brand fonts into Google Docs",
+                "href": "https://brianmoore.com/fontsmuggler/"
+            },
+            {
+                "title": "Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers",
+                "href": "https://www.osti.gov/biblio/3013883"
             },
             {
                 "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
@@ -589,60 +597,68 @@
                 "href": "https://matijacniacki.com/blog/openviktor"
             },
             {
-                "title": "What CI looks like at a 100-person team (PostHog)",
-                "href": "https://www.mendral.com/blog/ci-at-scale"
+                "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+                "href": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html"
             },
             {
                 "title": "Meta\u2019s renewed commitment to jemalloc",
                 "href": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"
             },
             {
-                "title": "The \u201csmall web\u201d is bigger than you might think",
-                "href": "https://kevinboone.me/small_web_is_big.html"
-            },
-            {
                 "title": "The American Healthcare Conundrum",
                 "href": "https://github.com/rexrodeo/american-healthcare-conundrum"
-            },
-            {
-                "title": "Gummy Geometry",
-                "href": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0"
             },
             {
                 "title": "Sci-Fi Short Film \u201cThere Is No Antimemetics Division\u201d [video]",
                 "href": "https://www.youtube.com/watch?v=3v8AsTHfAG0"
             },
             {
+                "title": "Gummy Geometry",
+                "href": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0"
+            },
+            {
+                "title": "The \u201csmall web\u201d is bigger than you might think",
+                "href": "https://kevinboone.me/small_web_is_big.html"
+            },
+            {
                 "title": "Every layer of review makes you 10x slower",
                 "href": "https://apenwarr.ca/log/20260316"
-            },
-            {
-                "title": "US SEC preparing to scrap quarterly reporting requirement",
-                "href": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
-            },
-            {
-                "title": "Gitana 18: the new flying Ultim trimaran",
-                "href": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran"
             },
             {
                 "title": "Pyodide: a Python distribution based on WebAssembly",
                 "href": "https://github.com/pyodide/pyodide"
             },
             {
-                "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-                "href": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"
+                "title": "US SEC preparing to scrap quarterly reporting requirement",
+                "href": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
             },
             {
-                "title": "Fatal Core Dump Game",
-                "href": "https://www.robopenguins.com/core-dump-game/"
+                "title": "What CI looks like at a 100-person team (PostHog)",
+                "href": "https://www.mendral.com/blog/ci-at-scale"
+            },
+            {
+                "title": "Beyond has dropped \u201cmeat\u201d from its name and expanded its high-protein drink line",
+                "href": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/"
             },
             {
                 "title": "Why I love FreeBSD",
                 "href": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/"
             },
             {
-                "title": "Beyond has dropped \u201cmeat\u201d from its name and expanded its high-protein drink line",
-                "href": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/"
+                "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+                "href": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860"
+            },
+            {
+                "title": "Gitana 18: the new flying Ultim trimaran",
+                "href": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran"
+            },
+            {
+                "title": "A proposal to classify happiness as a psychiatric disorder",
+                "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/"
+            },
+            {
+                "title": "Fatal Core Dump Game",
+                "href": "https://www.robopenguins.com/core-dump-game/"
             },
             {
                 "title": "Show HN: Oxyde \u2013 Pydantic-native async ORM with a Rust core",
@@ -655,22 +671,6 @@
             {
                 "title": "Starlink Mini as a failover",
                 "href": "https://www.jackpearce.co.uk/posts/starlink-failover/"
-            },
-            {
-                "title": "AnswerThis (YC F25) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead"
-            },
-            {
-                "title": "Monkey Island for Commodore 64 Ground Up",
-                "href": "https://pixeldust.se/monkey-island-project"
-            },
-            {
-                "title": "Show HN: Thermal Receipt Printers \u2013 Markdown and Web UI",
-                "href": "https://github.com/sadreck/ThermalMarky"
-            },
-            {
-                "title": "In space, no one can hear you kernel panic (2020)",
-                "href": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/"
             },
             {
                 "title": "AirPods Max 2",
