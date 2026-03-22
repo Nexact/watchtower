@@ -19,12 +19,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1s02jrq/onnx_hub_silenttrue_suppresses_all_trust/"
             },
             {
-                "title": "LLVM Adventures: Fuzzing Apache Modules",
-                "href": "https://old.reddit.com/r/netsec/comments/1s03z8j/llvm_adventures_fuzzing_apache_modules/"
-            },
-            {
                 "title": "Trivy Under Attack Again: Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets Attackers",
                 "href": "https://old.reddit.com/r/netsec/comments/1rziu2w/trivy_under_attack_again_widespread_github/"
+            },
+            {
+                "title": "LLVM Adventures: Fuzzing Apache Modules",
+                "href": "https://old.reddit.com/r/netsec/comments/1s03z8j/llvm_adventures_fuzzing_apache_modules/"
             },
             {
                 "title": "Attack surface analysis of 5,121 MCP servers: 555 have toxic data flows where safe tools combine into dangerous paths",
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Meteor Rumbles Over Houston, as Six-Pound Fragment Crashes Into a Texas Home",
+                "href": "https://science.slashdot.org/story/26/03/22/0542203/meteor-rumbles-over-houston-as-six-pound-fragment-crashes-into-a-texas-home?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Tesla's Upcoming Electric Big Rig Is Already a Hit with Truckers",
                 "href": "https://tech.slashdot.org/story/26/03/22/0317216/teslas-upcoming-electric-big-rig-is-already-a-hit-with-truckers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "White House Unveils National AI Policy Framework To Limit State Power",
                 "href": "https://yro.slashdot.org/story/26/03/20/2111225/white-house-unveils-national-ai-policy-framework-to-limit-state-power?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "CBS News Shutters Radio Service After Nearly a Century",
-                "href": "https://news.slashdot.org/story/26/03/20/2052214/cbs-news-shutters-radio-service-after-nearly-a-century?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,12 +557,16 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The Three Pillars of JavaScript Bloat",
+                "title": "The three pillars of JavaScript bloat",
                 "href": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat"
             },
             {
-                "title": "Tinybox \u2013 Offline AI device 120B parameters",
+                "title": "Tinybox \u2013 A powerful computer for deep learning",
                 "href": "https://tinygrad.org/#tinybox"
+            },
+            {
+                "title": "Chest Fridge (2009)",
+                "href": "https://mtbest.net/chest-fridge/"
             },
             {
                 "title": "Some things just take time",
@@ -571,10 +575,6 @@
             {
                 "title": "Professional video editing, right in the browser with WebGPU and WASM",
                 "href": "https://tooscut.app/"
-            },
-            {
-                "title": "Chest Fridge (2009)",
-                "href": "https://mtbest.net/chest-fridge/"
             },
             {
                 "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
@@ -589,36 +589,44 @@
                 "href": "https://www.theboomloom.com"
             },
             {
-                "title": "Electronics for Kids, 2nd Edition",
-                "href": "https://nostarch.com/electronics-for-kids-2e"
+                "title": "My first patch to the Linux kernel",
+                "href": "https://pooladkhay.com/posts/first-kernel-patch/"
             },
             {
-                "title": "Do Not Turn Child Protection into Internet Access Control",
-                "href": "https://news.dyne.org/child-protection-is-not-access-control/"
+                "title": "Electronics for Kids, 2nd Edition",
+                "href": "https://nostarch.com/electronics-for-kids-2e"
             },
             {
                 "title": "Bayesian statistics for confused data scientists",
                 "href": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/"
             },
             {
+                "title": "Do Not Turn Child Protection into Internet Access Control",
+                "href": "https://news.dyne.org/child-protection-is-not-access-control/"
+            },
+            {
                 "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
                 "href": "https://grafeo.dev/"
+            },
+            {
+                "title": "It's Their Mona Lisa",
+                "href": "https://ironicsans.ghost.io/its-t-mona-lisa/"
             },
             {
                 "title": "Alpha Micro AM-1000E and AM-1200",
                 "href": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html"
             },
             {
-                "title": "Trivy ecosystem supply chain briefly compromised",
-                "href": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23"
-            },
-            {
                 "title": "Hide macOS Tahoe's Menu Icons",
                 "href": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/"
             },
             {
-                "title": "It's Their Mona Lisa",
-                "href": "https://ironicsans.ghost.io/its-t-mona-lisa/"
+                "title": "Sashiko: An agentic Linux kernel code review system",
+                "href": "https://sashiko.dev/"
+            },
+            {
+                "title": "Trivy ecosystem supply chain briefly compromised",
+                "href": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23"
             },
             {
                 "title": "Show HN: Termcraft \u2013 terminal-first 2D sandbox survival in Rust",
@@ -629,36 +637,32 @@
                 "href": "https://www.creativetension.co/posts/common-lisp-development-tooling"
             },
             {
-                "title": "Sashiko: An agentic Linux kernel code review system",
-                "href": "https://sashiko.dev/"
-            },
-            {
-                "title": "How Invisalign became the biggest user of 3D printers",
-                "href": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
-            },
-            {
-                "title": "The paddle wheel aircraft carriers of Lake Michigan",
-                "href": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/"
+                "title": "Training Center for Maneuvering on Manned Model Ships",
+                "href": "https://www.portrevel.com/"
             },
             {
                 "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
                 "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646"
             },
             {
+                "title": "How Invisalign became the biggest user of 3D printers",
+                "href": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"
+            },
+            {
                 "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
                 "href": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/"
             },
             {
-                "title": "Training Center for Maneuvering on Manned Model Ships",
-                "href": "https://www.portrevel.com/"
-            },
-            {
-                "title": "Show HN: Atomic \u2013 Self-hosted, semantically-connected personal knowledge base",
-                "href": "https://github.com/kenforthewin/atomic"
+                "title": "The paddle wheel aircraft carriers of Lake Michigan",
+                "href": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/"
             },
             {
                 "title": "How Ford burned $12B in Brazil (2021)",
                 "href": "https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/"
+            },
+            {
+                "title": "Show HN: Atomic \u2013 Self-hosted, semantically-connected personal knowledge base",
+                "href": "https://github.com/kenforthewin/atomic"
             },
             {
                 "title": "A digital resource for studying the graffiti of Herculaneum and Pompeii",
@@ -671,10 +675,6 @@
             {
                 "title": "ZJIT removes redundant object loads and stores",
                 "href": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/"
-            },
-            {
-                "title": "Meta's Omnilingual MT for 1,600 Languages",
-                "href": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1"
             }
         ]
     }
