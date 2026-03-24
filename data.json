@@ -15,6 +15,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1s2awo7/alleged_ovhcloud_data_of_16m_customers_and_59m/"
             },
             {
+                "title": "We rewrote SoftHSMv2 (the default PKCS#11 software HSM) in Rust \u2014 617+ tests, PQC support, memory-safe key handling",
+                "href": "https://old.reddit.com/r/netsec/comments/1s2f3le/we_rewrote_softhsmv2_the_default_pkcs11_software/"
+            },
+            {
                 "title": "Forensic Readiness Is Becoming a Strategic Security Discipline",
                 "href": "https://old.reddit.com/r/netsec/comments/1s2alc9/forensic_readiness_is_becoming_a_strategic/"
             },
@@ -97,16 +101,20 @@
             {
                 "title": "we found a memory exhaustion CVE in a library downloaded 29 million times a month. AWS, DataHub, and Lightning AI are in the blast radius.",
                 "href": "https://old.reddit.com/r/netsec/comments/1ry79kw/we_found_a_memory_exhaustion_cve_in_a_library/"
-            },
-            {
-                "title": "CVE-2026-22729: JSONPath Injection in Spring AI\u2019s PgVectorStore",
-                "href": "https://old.reddit.com/r/netsec/comments/1rxz7tl/cve202622729_jsonpath_injection_in_spring_ais/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
+                "href": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/"
+            },
+            {
+                "title": "HackerOne discloses employee data breach after Navia hack",
+                "href": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/"
+            },
             {
                 "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
                 "href": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/"
@@ -158,14 +166,6 @@
             {
                 "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/"
-            },
-            {
-                "title": "New KB5085516 emergency update fixes Microsoft account sign-in",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/"
-            },
-            {
-                "title": "VoidStealer malware steals Chrome master key via debugger trick",
-                "href": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/"
             }
         ]
     },
@@ -561,12 +561,16 @@
                 "href": "https://github.com/BerriAI/litellm/issues/24512"
             },
             {
-                "title": "Missile Defense Is NP-Complete",
-                "href": "https://smu160.github.io/posts/missile-defense-is-np-complete/"
-            },
-            {
                 "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
                 "href": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/"
+            },
+            {
+                "title": "So where are all the AI apps?",
+                "href": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html"
+            },
+            {
+                "title": "I Quit Editing Photos",
+                "href": "https://jamesbaker.uk/i-quit-editing-photos/"
             },
             {
                 "title": "Debunking Zswap and Zram Myths",
@@ -577,36 +581,32 @@
                 "href": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/"
             },
             {
-                "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-                "href": "https://www.web-rewind.com"
-            },
-            {
-                "title": "Your bridge to wealth is being pulled up",
-                "href": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/"
-            },
-            {
                 "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
                 "href": "https://burntsushi.net/ripgrep/"
             },
             {
-                "title": "Overcoming the Friendship Recession",
-                "href": "https://joeprevite.com/friendship-recession/"
+                "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+                "href": "https://www.web-rewind.com"
+            },
+            {
+                "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+                "href": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf"
+            },
+            {
+                "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+                "href": "https://nanobrew.trilok.ai/"
             },
             {
                 "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
                 "href": "https://www.jackhogan.me/blog/box-of-secrets/"
             },
             {
+                "title": "Missile Defense Is NP-Complete",
+                "href": "https://smu160.github.io/posts/missile-defense-is-np-complete/"
+            },
+            {
                 "title": "Log File Viewer for the Terminal",
                 "href": "https://lnav.org/"
-            },
-            {
-                "title": "I Quit Editing Photos",
-                "href": "https://jamesbaker.uk/i-quit-editing-photos/"
-            },
-            {
-                "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
-                "href": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf"
             },
             {
                 "title": "NanoClaw Adopts OneCLI Agent Vault",
@@ -621,52 +621,48 @@
                 "href": "https://twitter.com/anemll/status/2035901335984611412"
             },
             {
+                "title": "Autoresearch on an old research idea",
+                "href": "https://ykumar.me/blog/eclip-autoresearch/"
+            },
+            {
                 "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
                 "href": "https://qitejs.qount25.dev"
             },
             {
-                "title": "Nanobrew: The fastest macOS package manager compatible with brew",
-                "href": "https://nanobrew.trilok.ai/"
-            },
-            {
-                "title": "Autoresearch on an old research idea",
-                "href": "https://ykumar.me/blog/eclip-autoresearch/"
+                "title": "The Jellies That Evolved a Different Way to Keep Time",
+                "href": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/"
             },
             {
                 "title": "BIO \u2013 The Bao I/O Co-Processor",
                 "href": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor"
             },
             {
-                "title": "FCC updates covered list to include foreign-made consumer routers",
-                "href": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers"
+                "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+                "href": "https://dnhkng.github.io/posts/rys-ii/"
             },
             {
                 "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
                 "href": "https://github.com/ricardoquesada/regenerator2000"
             },
             {
-                "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
-                "href": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/"
+                "title": "FCC updates covered list to include foreign-made consumer routers",
+                "href": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers"
             },
             {
-                "title": "Claude Code Cheat Sheet",
-                "href": "https://cc.storyfox.cz"
+                "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
+                "href": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/"
             },
             {
                 "title": "Dune3d: A parametric 3D CAD application",
                 "href": "https://github.com/dune3d/dune3d"
             },
             {
+                "title": "Claude Code Cheat Sheet",
+                "href": "https://cc.storyfox.cz"
+            },
+            {
                 "title": "Microservices and the First Law of Distributed Objects (2014)",
                 "href": "https://martinfowler.com/articles/distributed-objects-microservices.html"
-            },
-            {
-                "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-                "href": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html"
-            },
-            {
-                "title": "The Resolv hack: How one compromised key printed $23M",
-                "href": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/"
             },
             {
                 "title": "Finding all regex matches has always been O(n\u00b2)",
@@ -675,6 +671,10 @@
             {
                 "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
                 "href": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/"
+            },
+            {
+                "title": "The Resolv hack: How one compromised key printed $23M",
+                "href": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/"
             }
         ]
     }
