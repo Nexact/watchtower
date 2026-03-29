@@ -31,10 +31,6 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1s5zzw1/chaining_file_upload_bypass_and_stored_xss_to/"
             },
             {
-                "title": "pentest-ai - 6 Claude Code subagents for offensive security research (engagement planning, recon analysis, exploit methodology, detection engineering, STIG compliance, report writing)",
-                "href": "https://old.reddit.com/r/netsec/comments/1s677pu/pentestai_6_claude_code_subagents_for_offensive/"
-            },
-            {
                 "title": "TeamPCP strikes again - telnyx popular PyPI library compromised",
                 "href": "https://old.reddit.com/r/netsec/comments/1s52kq7/teampcp_strikes_again_telnyx_popular_pypi_library/"
             },
@@ -101,12 +97,20 @@
             {
                 "title": "LiteLLM malware supply chain attack analysis (pt-BR only, sorry)",
                 "href": "https://old.reddit.com/r/netsec/comments/1s3s59k/litellm_malware_supply_chain_attack_analysis_ptbr/"
+            },
+            {
+                "title": "CVE-2026-33656: EspoCRM \u2264 9.3.3 \u2014 Formula engine ACL gap + path traversal \u2192 authenticated RCE (full write-up + PoC)",
+                "href": "https://old.reddit.com/r/netsec/comments/1s39ujn/cve202633656_espocrm_933_formula_engine_acl_gap/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "FBI confirms hack of Director Patel's personal email inbox",
+                "href": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/"
+            },
             {
                 "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
                 "href": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/"
@@ -162,10 +166,6 @@
             {
                 "title": "WhatsApp rolls out more AI features, iOS multi-account support",
                 "href": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/"
-            },
-            {
-                "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
-                "href": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "World's Smallest QR Code - Smaller Than Bacteria - Could Store Data for Centuries",
+                "href": "https://hardware.slashdot.org/story/26/03/29/2112231/worlds-smallest-qr-code---smaller-than-bacteria---could-store-data-for-centuries?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "This Friendly Robot Just Installed 100 MW of Solar Power",
                 "href": "https://hardware.slashdot.org/story/26/03/29/1947202/this-friendly-robot-just-installed-100-mw-of-solar-power?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",
                 "href": "https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "NASA's First Nuclear-Powered Interplanetary Spacecraft Will Send Helicopters to Mars in 2028",
-                "href": "https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,72 +557,76 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
+                "href": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"
+            },
+            {
                 "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
                 "href": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/"
-            },
-            {
-                "title": "C++26 is done ISO C++ standards meeting, Trip Report",
-                "href": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/"
-            },
-            {
-                "title": "The \"Vibe Coding\" Wall of Shame",
-                "href": "https://crackr.dev/vibe-coding-failures"
-            },
-            {
-                "title": "The Cognitive Dark Forest",
-                "href": "https://ryelang.org/blog/posts/cognitive-dark-forest/"
-            },
-            {
-                "title": "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
-                "href": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/"
-            },
-            {
-                "title": "More on Version Control",
-                "href": "https://bramcohen.com/p/more-on-version-control"
             },
             {
                 "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
                 "href": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a"
             },
             {
+                "title": "The Cognitive Dark Forest",
+                "href": "https://ryelang.org/blog/posts/cognitive-dark-forest/"
+            },
+            {
+                "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+                "href": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/"
+            },
+            {
                 "title": "Pretext: TypeScript library for multiline text measurement and layout",
                 "href": "https://github.com/chenglou/pretext"
-            },
-            {
-                "title": "Typing and Keyboards",
-                "href": "https://lzon.ca/posts/series/grateful/typing-and-keyboards/"
-            },
-            {
-                "title": "Neovim 0.12.0",
-                "href": "https://github.com/neovim/neovim/releases/tag/v0.12.0"
             },
             {
                 "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
                 "href": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
             },
             {
-                "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-                "href": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
+                "title": "Neovim 0.12.0",
+                "href": "https://github.com/neovim/neovim/releases/tag/v0.12.0"
             },
             {
-                "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-                "href": "https://github.com/DavidHavoc/ayaFlow"
+                "title": "More on Version Control",
+                "href": "https://bramcohen.com/p/more-on-version-control"
             },
             {
-                "title": "Creating West Coast Buddhism (2024)",
-                "href": "https://letter.palladiummag.com/p/creating-west-coast-buddhism"
-            },
-            {
-                "title": "Show HN: QuickBEAM \u2013 run JavaScript as supervised Erlang/OTP processes",
-                "href": "https://github.com/elixir-volt/quickbeam"
+                "title": "Ohm's Peg-to-WASM Compiler",
+                "href": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm"
             },
             {
                 "title": "Kyushu Railway Company Train Varieties",
                 "href": "https://www.jrkyushu.co.jp/english/train/index.html"
             },
             {
-                "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-                "href": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"
+                "title": "Creating West Coast Buddhism (2024)",
+                "href": "https://letter.palladiummag.com/p/creating-west-coast-buddhism"
+            },
+            {
+                "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+                "href": "https://github.com/DavidHavoc/ayaFlow"
+            },
+            {
+                "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+                "href": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
+            },
+            {
+                "title": "Show HN: I made a \"programming language\" looking for feedback",
+                "href": "https://github.com/alonsovm44/glupe"
+            },
+            {
+                "title": "The Epistemology of Microphysics",
+                "href": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html"
+            },
+            {
+                "title": "Show HN: Crazierl \u2013 An Erlang Operating System",
+                "href": "https://crazierl.org/demo/"
+            },
+            {
+                "title": "Show HN: QuickBEAM \u2013 run JavaScript as supervised Erlang/OTP processes",
+                "href": "https://github.com/elixir-volt/quickbeam"
             },
             {
                 "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
@@ -633,8 +637,16 @@
                 "href": "item?id=47561489"
             },
             {
-                "title": "The Epistemology of Microphysics",
-                "href": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html"
+                "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+                "href": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/"
+            },
+            {
+                "title": "Observations from carbon dioxide monitoring",
+                "href": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/"
+            },
+            {
+                "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+                "href": "https://github.com/austin-weeks/miasma"
             },
             {
                 "title": "A nearly perfect USB cable tester",
@@ -645,36 +657,24 @@
                 "href": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery"
             },
             {
-                "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-                "href": "https://github.com/austin-weeks/miasma"
-            },
-            {
-                "title": "Show HN: I made a \"programming language\" looking for feedback",
-                "href": "https://github.com/alonsovm44/glupe"
-            },
-            {
-                "title": "Netscape News Feed Straight Out of the Late 00s",
-                "href": "https://isp.netscape.com/"
+                "title": "Sky Wins Irish Court Order to Unmask 300 Pirate IPTV Users via Revolut Bank",
+                "href": "https://torrentfreak.com/sky-wins-irish-court-order-to-unmask-300-pirate-iptv-users-via-revolut-bank/"
             },
             {
                 "title": "I turned my Kindle into my own personal newspaper",
                 "href": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/"
             },
             {
-                "title": "Observations from carbon dioxide monitoring",
-                "href": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/"
+                "title": "Netscape News Feed Straight Out of the Late 00s",
+                "href": "https://isp.netscape.com/"
             },
             {
                 "title": "Show HN: BreezePDF \u2013 Free, in-browser PDF editor",
                 "href": "https://breezepdf.com/?v=3"
             },
             {
-                "title": "Show HN: Create a full language server in Go with 3.17 spec support",
-                "href": "https://github.com/owenrumney/go-lsp"
-            },
-            {
-                "title": "Show HN: Sheet Ninja \u2013 Google Sheets as a CRUD Back End for Vibe Coders",
-                "href": "https://sheetninja.io"
+                "title": "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
+                "href": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/"
             }
         ]
     }
