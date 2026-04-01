@@ -19,6 +19,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1s8y8pp/mad_bugs_claude_wrote_a_full_freebsd_remote/"
             },
             {
+                "title": "Lesser-Known Military College Triumphs in Pentagon Student Hacking Contest",
+                "href": "https://old.reddit.com/r/netsec/comments/1s8tmmf/lesserknown_military_college_triumphs_in_pentagon/"
+            },
+            {
                 "title": "Axios npm package compromised in supply chain attack. Downloads malware dropper package",
                 "href": "https://old.reddit.com/r/netsec/comments/1s8e9yk/axios_npm_package_compromised_in_supply_chain/"
             },
@@ -27,20 +31,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1s8ojqr/common_entra_id_security_assessment_findings_part/"
             },
             {
-                "title": "Lesser-Known Military College Triumphs in Pentagon Student Hacking Contest",
-                "href": "https://old.reddit.com/r/netsec/comments/1s8tmmf/lesserknown_military_college_triumphs_in_pentagon/"
-            },
-            {
                 "title": "ImageMagick: From Arbitrary File Read to File Write In Every Policy (ZeroDay)",
                 "href": "https://old.reddit.com/r/netsec/comments/1s8t5mq/imagemagick_from_arbitrary_file_read_to_file/"
             },
             {
-                "title": "Market Bifurcation in Pentesting by 2026 (37%) \u2013 AI May Split the Field in Two Rather Than Flatten It, and That Changes Everything About Who Survives the Disruption",
-                "href": "https://old.reddit.com/r/netsec/comments/1s98vjh/market_bifurcation_in_pentesting_by_2026_37_ai/"
-            },
-            {
                 "title": "Introducing the Rootkit Techniques Matrix and updates to the Guide",
                 "href": "https://old.reddit.com/r/netsec/comments/1s8hbq7/introducing_the_rootkit_techniques_matrix_and/"
+            },
+            {
+                "title": "Market Bifurcation in Pentesting by 2026 (37%) \u2013 AI May Split the Field in Two Rather Than Flatten It, and That Changes Everything About Who Survives the Disruption",
+                "href": "https://old.reddit.com/r/netsec/comments/1s98vjh/market_bifurcation_in_pentesting_by_2026_37_ai/"
             },
             {
                 "title": "Vulnerability Research Is Cooked",
@@ -108,6 +108,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Google Drive ransomware detection now on by default for paying users",
+                "href": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/"
+            },
+            {
+                "title": "New Windows 11 emergency update fixes preview update install issues",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"
+            },
+            {
                 "title": "Claude Code source code accidentally leaked in NPM package",
                 "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
             },
@@ -158,14 +166,6 @@
             {
                 "title": "Healthcare tech firm CareCloud says hackers stole patient data",
                 "href": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/"
-            },
-            {
-                "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-                "href": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/"
-            },
-            {
-                "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"
             }
         ]
     },
@@ -557,40 +557,52 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-                "href": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
+                "title": "Claude Code Unpacked : A visual guide",
+                "href": "https://ccunpacked.dev/"
+            },
+            {
+                "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+                "href": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude"
             },
             {
                 "title": "Neanderthals survived on a knife's edge for 350k years",
                 "href": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
             },
             {
+                "title": "Chess in SQL",
+                "href": "https://www.dbpro.app/blog/chess-in-pure-sql"
+            },
+            {
                 "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
                 "href": "https://arxiv.org/abs/2602.04118"
-            },
-            {
-                "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-                "href": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
-            },
-            {
-                "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-                "href": "https://prismml.com/"
             },
             {
                 "title": "TruffleRuby",
                 "href": "https://chrisseaton.com/truffleruby/"
             },
             {
+                "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+                "href": "https://prismml.com/"
+            },
+            {
+                "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+                "href": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
+            },
+            {
                 "title": "A dot a day keeps the clutter away",
                 "href": "https://scottlawsonbc.com/post/dot-system"
             },
             {
-                "title": "Ministack (Replacement for LocalStack)",
+                "title": "MiniStack (replacement for LocalStack)",
                 "href": "https://ministack.org/"
             },
             {
-                "title": "Chess in SQL",
-                "href": "https://www.dbpro.app/blog/chess-in-pure-sql"
+                "title": "Butterfly-collecting: The history of an insult (2017)",
+                "href": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html"
+            },
+            {
+                "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+                "href": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
             },
             {
                 "title": "OpenAI closes funding round at an $852B valuation",
@@ -601,80 +613,68 @@
                 "href": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
             },
             {
-                "title": "Use string views instead of passing std:wstring by const&",
-                "href": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/"
-            },
-            {
                 "title": "4D Doom",
                 "href": "https://github.com/danieldugas/HYPERHELL"
-            },
-            {
-                "title": "We intercepted the White House app's network traffic",
-                "href": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
             },
             {
                 "title": "Slop is not necessarily the future",
                 "href": "https://www.greptile.com/blog/ai-slopware-future"
             },
             {
-                "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
-                "href": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+                "title": "Digitizing photos from the 1998 Game Boy Camera",
+                "href": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
+            },
+            {
+                "title": "Use string views instead of passing std:wstring by const&",
+                "href": "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/"
             },
             {
                 "title": "Open source CAD in the browser (Solvespace)",
                 "href": "https://solvespace.com/webver.pl"
             },
             {
-                "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
-                "href": "https://hypha.pub/back-to-freebsd-part-2"
+                "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+                "href": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
             },
             {
                 "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
                 "href": "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
             },
             {
-                "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-                "href": "https://github.com/ericlewis/libpo32"
+                "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+                "href": "https://hypha.pub/back-to-freebsd-part-2"
             },
             {
-                "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
-                "href": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
+                "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+                "href": "https://github.com/ericlewis/libpo32"
             },
             {
                 "title": "Cohere Transcribe: Speech Recognition",
                 "href": "https://cohere.com/blog/transcribe"
             },
             {
-                "title": "Inside the 'self-driving' lab revolution",
-                "href": "https://www.nature.com/articles/d41586-026-00974-2"
-            },
-            {
-                "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
-                "href": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
-            },
-            {
                 "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
                 "href": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+            },
+            {
+                "title": "We intercepted the White House app's network traffic",
+                "href": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
             },
             {
                 "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
                 "href": "https://github.com/timescale/pg_textsearch"
             },
             {
+                "title": "I traced my traffic through a home Tailscale exit node",
+                "href": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
+            },
+            {
                 "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
                 "href": "https://news.future-shock.ai/the-weight-of-remembering/"
             },
             {
-                "title": "Show HN: Forkrun \u2013 NUMA-aware shell parallelizer (50\u00d7\u2013400\u00d7 faster than parallel)",
-                "href": "https://github.com/jkool702/forkrun"
-            },
-            {
-                "title": "GitHub's Historic Uptime",
-                "href": "https://damrnelson.github.io/github-historical-uptime/"
-            },
-            {
-                "title": "A Primer on Long-Duration Life Support",
-                "href": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support"
+                "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+                "href": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
             }
         ]
     }
