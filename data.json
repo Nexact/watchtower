@@ -108,6 +108,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
+                "href": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/"
+            },
+            {
                 "title": "Google Drive ransomware detection now on by default for paying users",
                 "href": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/"
             },
@@ -162,10 +166,6 @@
             {
                 "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/"
-            },
-            {
-                "title": "Healthcare tech firm CareCloud says hackers stole patient data",
-                "href": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/"
             }
         ]
     },
@@ -557,24 +557,36 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "CERN levels up with new superconducting karts",
-                "href": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
-            },
-            {
                 "title": "Claude Code Unpacked : A visual guide",
                 "href": "https://ccunpacked.dev/"
+            },
+            {
+                "title": "CERN levels up with new superconducting karts",
+                "href": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts"
             },
             {
                 "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
                 "href": "https://github.com/yannick-cw/korb"
             },
             {
-                "title": "Neanderthals survived on a knife's edge for 350k years",
-                "href": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
+                "title": "Intuiting Pratt Parsing",
+                "href": "https://louis.co.nz/2026/03/26/pratt-parsing.html"
+            },
+            {
+                "title": "What the Claude Code Leak Means for Regulated Industries",
+                "href": "https://systima.ai/blog/claude-code-leak-compliance-implications"
+            },
+            {
+                "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+                "href": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md"
             },
             {
                 "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
                 "href": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/"
+            },
+            {
+                "title": "A dot a day keeps the clutter away",
+                "href": "https://scottlawsonbc.com/post/dot-system"
             },
             {
                 "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
@@ -585,72 +597,56 @@
                 "href": "https://prismml.com/"
             },
             {
-                "title": "A dot a day keeps the clutter away",
-                "href": "https://scottlawsonbc.com/post/dot-system"
+                "title": "Chess in SQL",
+                "href": "https://www.dbpro.app/blog/chess-in-pure-sql"
             },
             {
                 "title": "TruffleRuby",
                 "href": "https://chrisseaton.com/truffleruby/"
             },
             {
-                "title": "Chess in SQL",
-                "href": "https://www.dbpro.app/blog/chess-in-pure-sql"
-            },
-            {
                 "title": "MiniStack (replacement for LocalStack)",
                 "href": "https://ministack.org/"
-            },
-            {
-                "title": "In Case of Emergency, Make Burrito Bison 3",
-                "href": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/"
             },
             {
                 "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
                 "href": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
             },
             {
+                "title": "In Case of Emergency, Make Burrito Bison 3",
+                "href": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/"
+            },
+            {
                 "title": "OpenAI closes funding round at an $852B valuation",
                 "href": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
-            },
-            {
-                "title": "Digitizing photos from the 1998 Game Boy Camera",
-                "href": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
-            },
-            {
-                "title": "4D Doom",
-                "href": "https://github.com/danieldugas/HYPERHELL"
-            },
-            {
-                "title": "Slop is not necessarily the future",
-                "href": "https://www.greptile.com/blog/ai-slopware-future"
             },
             {
                 "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
                 "href": "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
             },
             {
+                "title": "Slop is not necessarily the future",
+                "href": "https://www.greptile.com/blog/ai-slopware-future"
+            },
+            {
+                "title": "Neanderthals survived on a knife's edge for 350k years",
+                "href": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
+            },
+            {
+                "title": "4D Doom",
+                "href": "https://github.com/danieldugas/HYPERHELL"
+            },
+            {
                 "title": "Open source CAD in the browser (Solvespace)",
                 "href": "https://solvespace.com/webver.pl"
             },
             {
-                "title": "Remembering Magnetic Memories and the Apollo AGC",
-                "href": "https://2earth.github.io/website/20260304.html"
+                "title": "Digitizing photos from the 1998 Game Boy Camera",
+                "href": "https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera"
             },
             {
                 "title": "Analyzing Geekbench 6 under Intel's BOT",
                 "href": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/"
-            },
-            {
-                "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-                "href": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md"
-            },
-            {
-                "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
-                "href": "https://hypha.pub/back-to-freebsd-part-2"
-            },
-            {
-                "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
-                "href": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
             },
             {
                 "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
@@ -661,6 +657,10 @@
                 "href": "https://github.com/ericlewis/libpo32"
             },
             {
+                "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+                "href": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+            },
+            {
                 "title": "Cohere Transcribe: Speech Recognition",
                 "href": "https://cohere.com/blog/transcribe"
             },
@@ -669,8 +669,8 @@
                 "href": "https://github.com/timescale/pg_textsearch"
             },
             {
-                "title": "Butterfly-collecting: The history of an insult (2017)",
-                "href": "http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html"
+                "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+                "href": "https://hypha.pub/back-to-freebsd-part-2"
             },
             {
                 "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
