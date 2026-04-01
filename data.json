@@ -108,6 +108,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Claude Code source code accidentally leaked in NPM package",
+                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
+            },
+            {
                 "title": "Google now allows you to change your @gmail.com address",
                 "href": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/"
             },
@@ -162,10 +166,6 @@
             {
                 "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"
-            },
-            {
-                "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/"
             }
         ]
     },
@@ -561,64 +561,88 @@
                 "href": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"
             },
             {
-                "title": "Ministack (Replacement for LocalStack)",
-                "href": "https://ministack.org/"
+                "title": "TinyLoRA \u2013 Learning to Reason in 13 Parameters",
+                "href": "https://arxiv.org/abs/2602.04118"
+            },
+            {
+                "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+                "href": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/"
+            },
+            {
+                "title": "TruffleRuby",
+                "href": "https://chrisseaton.com/truffleruby/"
             },
             {
                 "title": "A dot a day keeps the clutter away",
                 "href": "https://scottlawsonbc.com/post/dot-system"
             },
             {
-                "title": "OpenAI closes funding round at an $852B valuation",
-                "href": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
-            },
-            {
-                "title": "4D Doom",
-                "href": "https://github.com/danieldugas/HYPERHELL"
-            },
-            {
-                "title": "Slop is not necessarily the future",
-                "href": "https://www.greptile.com/blog/ai-slopware-future"
+                "title": "Ministack (Replacement for LocalStack)",
+                "href": "https://ministack.org/"
             },
             {
                 "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
                 "href": "https://prismml.com/"
             },
             {
+                "title": "OpenAI closes funding round at an $852B valuation",
+                "href": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+            },
+            {
+                "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+                "href": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security"
+            },
+            {
+                "title": "4D Doom",
+                "href": "https://github.com/danieldugas/HYPERHELL"
+            },
+            {
                 "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
                 "href": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
             },
             {
-                "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
-                "href": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
-            },
-            {
-                "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
-                "href": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
-            },
-            {
-                "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-                "href": "https://github.com/ericlewis/libpo32"
-            },
-            {
-                "title": "Cohere Transcribe: Speech Recognition",
-                "href": "https://cohere.com/blog/transcribe"
+                "title": "Slop is not necessarily the future",
+                "href": "https://www.greptile.com/blog/ai-slopware-future"
             },
             {
                 "title": "Open source CAD in the browser (Solvespace)",
                 "href": "https://solvespace.com/webver.pl"
             },
             {
+                "title": "Inside the 'self-driving' lab revolution",
+                "href": "https://www.nature.com/articles/d41586-026-00974-2"
+            },
+            {
+                "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+                "href": "https://github.com/ericlewis/libpo32"
+            },
+            {
                 "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
                 "href": "https://hypha.pub/back-to-freebsd-part-2"
+            },
+            {
+                "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+                "href": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/"
+            },
+            {
+                "title": "Cohere Transcribe: Speech Recognition",
+                "href": "https://cohere.com/blog/transcribe"
+            },
+            {
+                "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+                "href": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
+            },
+            {
+                "title": "Neanderthals survived on a knife's edge for 350k years",
+                "href": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years"
             },
             {
                 "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
                 "href": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/"
             },
             {
-                "title": "GitHub's Historic Uptime",
-                "href": "https://damrnelson.github.io/github-historical-uptime/"
+                "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+                "href": "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
             },
             {
                 "title": "Show HN: Forkrun \u2013 NUMA-aware shell parallelizer (50\u00d7\u2013400\u00d7 faster than parallel)",
@@ -629,52 +653,28 @@
                 "href": "https://github.com/timescale/pg_textsearch"
             },
             {
-                "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-                "href": "https://twitter.com/Fried_rice/status/2038894956459290963"
-            },
-            {
-                "title": "Nematophagous Fungus",
-                "href": "https://en.wikipedia.org/wiki/Nematophagous_fungus"
+                "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+                "href": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
             },
             {
                 "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
                 "href": "https://news.future-shock.ai/the-weight-of-remembering/"
             },
             {
-                "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-                "href": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
-            },
-            {
-                "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-                "href": "https://responsiblestatecraft.org/iran-strait-of-hormuz/"
-            },
-            {
-                "title": "A Primer on Long-Duration Life Support",
-                "href": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support"
-            },
-            {
-                "title": "Super Micro Computer Investors Look for Exits",
-                "href": "https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/"
+                "title": "GitHub's Historic Uptime",
+                "href": "https://damrnelson.github.io/github-historical-uptime/"
             },
             {
                 "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
                 "href": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/"
             },
             {
-                "title": "Accidentally created my first fork bomb with Claude Code",
-                "href": "https://www.droppedasbaby.com/posts/2602-01/"
+                "title": "Nematophagous Fungus",
+                "href": "https://en.wikipedia.org/wiki/Nematophagous_fungus"
             },
             {
-                "title": "GitHub Monaspace Case Study",
-                "href": "https://lettermatic.com/custom/monaspace-case-study"
-            },
-            {
-                "title": "Combinators",
-                "href": "https://tinyapl.rubenverg.com/docs/info/combinators"
-            },
-            {
-                "title": "Microsoft: Copilot is for entertainment purposes only",
-                "href": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse"
+                "title": "A Primer on Long-Duration Life Support",
+                "href": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support"
             }
         ]
     }
