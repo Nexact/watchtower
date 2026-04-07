@@ -27,12 +27,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1sdv8dm/cracking_a_malvertising_dga_from_the_device_side/"
             },
             {
-                "title": "Closing the Kernel Backport Gap: Automated CVE Detection",
-                "href": "https://old.reddit.com/r/netsec/comments/1sdxbxj/closing_the_kernel_backport_gap_automated_cve/"
-            },
-            {
                 "title": "Using Cloudflare\u2019s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS",
                 "href": "https://old.reddit.com/r/netsec/comments/1se1qs6/using_cloudflares_postquantum_tunnel_to_protect/"
+            },
+            {
+                "title": "Closing the Kernel Backport Gap: Automated CVE Detection",
+                "href": "https://old.reddit.com/r/netsec/comments/1sdxbxj/closing_the_kernel_backport_gap_automated_cve/"
             },
             {
                 "title": "GDDRHammer and GeForge: GDDR6 GPU Rowhammer to root shell (IEEE S&P 2026, exploit code available)",
@@ -108,6 +108,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+                "href": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/"
+            },
+            {
                 "title": "German authorities identify REvil and GandCrab ransomware bosses",
                 "href": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/"
             },
@@ -162,10 +166,6 @@
             {
                 "title": "Device code phishing attacks surge 37x as new kits spread online",
                 "href": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/"
-            },
-            {
-                "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-                "href": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/"
             }
         ]
     },
@@ -557,52 +557,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-                "href": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/"
-            },
-            {
                 "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
                 "href": "https://sam-burns.com/posts/concrete-laptop-stand/"
+            },
+            {
+                "title": "Has electricity decoupled from gas prices in Germany?",
+                "href": "https://has-electricity-decoupled-yet.strommarktberatung.de"
+            },
+            {
+                "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+                "href": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/"
             },
             {
                 "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
                 "href": "https://www.intofarlands.com/atlasofarda"
             },
             {
-                "title": "AI may be making us think and write more alike",
-                "href": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
+                "title": "Every GPU That Mattered",
+                "href": "https://sheets.works/data-viz/every-gpu"
             },
             {
-                "title": "Show HN: Pion/handoff \u2013 Move WebRTC out of browser and into Go",
-                "href": "https://github.com/pion/handoff"
+                "title": "Dropping Cloudflare for Bunny.net",
+                "href": "https://jola.dev/posts/dropping-cloudflare"
             },
             {
                 "title": "Identify a London Underground Line just by listening to it",
                 "href": "https://tubesoundquiz.com/"
             },
             {
-                "title": "Blackholing My Email",
-                "href": "https://www.johnsto.co.uk/blog/blackholing-my-email/"
-            },
-            {
-                "title": "Breaking the console: a brief history of video game security",
-                "href": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/"
-            },
-            {
-                "title": "Every GPU That Mattered",
-                "href": "https://sheets.works/data-viz/every-gpu"
+                "title": "9 Mothers (YC P26) Is Hiring \u2013 Lead Robotics and More",
+                "href": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q"
             },
             {
                 "title": "Running Out of Disk Space in Production",
                 "href": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html"
-            },
-            {
-                "title": "Floating point from scratch: Hard Mode",
-                "href": "https://essenceia.github.io/projects/floating_dragon/"
-            },
-            {
-                "title": "DeiMOS \u2013 A Superoptimizer for the MOS 6502",
-                "href": "https://aransentin.github.io/deimos/"
             },
             {
                 "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
@@ -613,24 +601,64 @@
                 "href": "https://spectrum.ieee.org/robotics-in-nuclear-industry"
             },
             {
+                "title": "Blackholing My Email",
+                "href": "https://www.johnsto.co.uk/blog/blackholing-my-email/"
+            },
+            {
                 "title": "My Experience as a Rice Farmer",
                 "href": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html"
             },
             {
-                "title": "\"The new Copilot app for Windows 11 is really just Microsoft Edge\"",
-                "href": "https://twitter.com/i/status/2041112541909205001"
+                "title": "DeiMOS \u2013 A Superoptimizer for the MOS 6502",
+                "href": "https://aransentin.github.io/deimos/"
             },
             {
-                "title": "Three hundred synths, 3 hardware projects, and one app",
-                "href": "https://midi.guide/blog/three-hunded-synths-one-app/"
+                "title": "AI may be making us think and write more alike",
+                "href": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
+            },
+            {
+                "title": "Show HN: Pion/handoff \u2013 Move WebRTC out of browser and into Go",
+                "href": "https://github.com/pion/handoff"
+            },
+            {
+                "title": "SQLite in Production: Lessons from Running a Store on a Single File",
+                "href": "https://ultrathink.art/blog/sqlite-in-production-lessons"
+            },
+            {
+                "title": "Floating point from scratch: Hard Mode",
+                "href": "https://essenceia.github.io/projects/floating_dragon/"
+            },
+            {
+                "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
+                "href": "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/"
+            },
+            {
+                "title": "Breaking the console: a brief history of video game security",
+                "href": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/"
+            },
+            {
+                "title": "You can't cancel a JavaScript promise (except sometimes you can)",
+                "href": "https://www.inngest.com/blog/hanging-promises-for-control-flow"
+            },
+            {
+                "title": "Sam Altman may control our future \u2013 can he be trusted?",
+                "href": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted"
+            },
+            {
+                "title": "Record wind and solar saved UK from gas imports worth \u00a31B in March 2026",
+                "href": "https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/"
+            },
+            {
+                "title": "Hybrid Attention",
+                "href": "item?id=47674749"
             },
             {
                 "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
                 "href": "https://github.com/matthartman/ghost-pepper"
             },
             {
-                "title": "Sam Altman may control our future \u2013 can he be trusted?",
-                "href": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted"
+                "title": "Three hundred synths, 3 hardware projects, and one app",
+                "href": "https://midi.guide/blog/three-hunded-synths-one-app/"
             },
             {
                 "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
@@ -641,40 +669,12 @@
                 "href": "https://codeberg.org/TechPaula/LT6502b"
             },
             {
-                "title": "AI agents can communicate with each other, and can't be caught",
-                "href": "https://arxiv.org/abs/2604.04757"
-            },
-            {
                 "title": "Solod \u2013 A subset of Go that translates to C",
                 "href": "https://github.com/solod-dev/solod"
             },
             {
                 "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
                 "href": "https://www.freestyle.sh/"
-            },
-            {
-                "title": "A cryptography engineer's perspective on quantum computing timelines",
-                "href": "https://words.filippo.io/crqc-timeline/"
-            },
-            {
-                "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
-                "href": "https://adashape.com"
-            },
-            {
-                "title": "Peptides: where to begin?",
-                "href": "https://www.science.org/content/blog-post/ah-peptides-where-begin"
-            },
-            {
-                "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-                "href": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
-            },
-            {
-                "title": "Apollo Guidance Computer restoration videos",
-                "href": "https://www.curiousmarc.com/space/apollo-guidance-computer"
-            },
-            {
-                "title": "Show HN: GovAuctions lets you browse government auctions at once",
-                "href": "https://www.govauctions.app/"
             }
         ]
     }
