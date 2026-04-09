@@ -108,6 +108,14 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities",
+                "href": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/"
+            },
+            {
+                "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
+                "href": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/"
+            },
+            {
                 "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
                 "href": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
             },
@@ -158,14 +166,6 @@
             {
                 "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/"
-            },
-            {
-                "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
-                "href": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/"
-            },
-            {
-                "title": "Is a $30,000 GPU Good at Password Cracking?",
-                "href": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Mozilla Accuses Microsoft of Sabotaging Firefox With Windows and Copilot Tactics",
+                "href": "https://tech.slashdot.org/story/26/04/09/2043257/mozilla-accuses-microsoft-of-sabotaging-firefox-with-windows-and-copilot-tactics?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Amazon May Sell Trainium AI Chips To Third Parties In Shot At Nvidia",
                 "href": "https://hardware.slashdot.org/story/26/04/09/1916209/amazon-may-sell-trainium-ai-chips-to-third-parties-in-shot-at-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "Amazon Is Ending Support For Older Kindles",
                 "href": "https://news.slashdot.org/story/26/04/08/1751257/amazon-is-ending-support-for-older-kindles?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Iran Demands Bitcoin For Ships Passing Hormuz During Ceasefire",
-                "href": "https://slashdot.org/story/26/04/08/1746237/iran-demands-bitcoin-for-ships-passing-hormuz-during-ceasefire?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -561,92 +561,100 @@
                 "href": "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
             },
             {
-                "title": "Maine Is About to Become the First State to Ban Major New Data Centers",
-                "href": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers"
+                "title": "How Microsoft Abuses Its Users",
+                "href": "https://lzon.ca/posts/other/microsoft-user-abuse/"
             },
             {
-                "title": "Discovering, detecting, and surgically removing Google's AI watermark",
+                "title": "Reverse engineering Gemini's SynthID detection",
                 "href": "https://github.com/aloshdenny/reverse-SynthID"
-            },
-            {
-                "title": "Netflix Prices Went Up Again \u2013 I Bought a DVD Player Instead",
-                "href": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/"
-            },
-            {
-                "title": "PicoZ80 \u2013 Drop-In Z80 Replacement",
-                "href": "https://eaw.app/picoz80/"
-            },
-            {
-                "title": "Old laptops in a colo as low cost servers",
-                "href": "https://colaptop.pages.dev/"
-            },
-            {
-                "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
-                "href": "https://hegel.dev"
-            },
-            {
-                "title": "The Future of Everything Is Lies, I Guess: Part 3 \u2013 Culture",
-                "href": "https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture"
-            },
-            {
-                "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
-                "href": "https://blog.skypilot.co/research-driven-agents/"
             },
             {
                 "title": "Charcuterie \u2013 Visual similarity Unicode explorer",
                 "href": "https://charcuterie.elastiq.ch/"
             },
             {
+                "title": "PicoZ80 \u2013 Drop-In Z80 Replacement",
+                "href": "https://eaw.app/picoz80/"
+            },
+            {
+                "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+                "href": "https://hegel.dev"
+            },
+            {
+                "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+                "href": "https://blog.skypilot.co/research-driven-agents/"
+            },
+            {
                 "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
                 "href": "https://www.unfolder.app/"
             },
             {
-                "title": "Show HN: I built a Cargo-like build tool for C/C++",
-                "href": "https://github.com/randerson112/craft"
+                "title": "Old laptops in a colo as low cost servers",
+                "href": "https://colaptop.pages.dev/"
             },
             {
-                "title": "Little Snitch comes to Linux, but the core logic is closed source",
-                "href": "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/"
-            },
-            {
-                "title": "Top laptops to use with FreeBSD",
-                "href": "https://freebsdfoundation.github.io/freebsd-laptop-testing/"
-            },
-            {
-                "title": "EFF is leaving X",
-                "href": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x"
-            },
-            {
-                "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
-                "href": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/"
-            },
-            {
-                "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-                "href": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/"
-            },
-            {
-                "title": "Introduction to Nintendo DS Programming",
-                "href": "https://www.patater.com/files/projects/manual/manual.html"
-            },
-            {
-                "title": "A WebGPU implementation of Augmented Vertex Block Descent",
-                "href": "https://github.com/jure/webphysics"
-            },
-            {
-                "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
-                "href": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us"
+                "title": "How Do You Find an Illegal Image Without Looking at It?",
+                "href": "https://mahmoud-salem.net/the-invisible-shield"
             },
             {
                 "title": "Bitmap fonts make computers feel like computers again",
                 "href": "https://korigamik.dev/blog/bitmap_fonts/"
             },
             {
-                "title": "Meta removes ads for social media addiction litigation",
-                "href": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads"
+                "title": "Top laptops to use with FreeBSD",
+                "href": "https://freebsdfoundation.github.io/freebsd-laptop-testing/"
             },
             {
-                "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
-                "href": "https://publicdomainreview.org/collection/claude-monet-caricatures/"
+                "title": "Show HN: I built a Cargo-like build tool for C/C++",
+                "href": "https://github.com/randerson112/craft"
+            },
+            {
+                "title": "Moving from WordPress to Jekyll (and static site generators in general)",
+                "href": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/"
+            },
+            {
+                "title": "Maine is about to become the first state to ban major new data centers",
+                "href": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers"
+            },
+            {
+                "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+                "href": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/"
+            },
+            {
+                "title": "EFF is leaving X",
+                "href": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x"
+            },
+            {
+                "title": "Progressive encoding and decoding of 'repeated' protobuffer fields",
+                "href": "https://schilk.co/blog/protobuffer-repeat-append/"
+            },
+            {
+                "title": "Instant 1.0, a backend for AI-coded apps",
+                "href": "https://www.instantdb.com/essays/architecture"
+            },
+            {
+                "title": "Introduction to Nintendo DS Programming",
+                "href": "https://www.patater.com/files/projects/manual/manual.html"
+            },
+            {
+                "title": "Show HN: Druids \u2013 Build your own software factory",
+                "href": "https://github.com/fulcrumresearch/druids"
+            },
+            {
+                "title": "A WebGPU implementation of Augmented Vertex Block Descent",
+                "href": "https://github.com/jure/webphysics"
+            },
+            {
+                "title": "The Future of Everything Is Lies, I Guess: Part 3 \u2013 Culture",
+                "href": "https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture"
+            },
+            {
+                "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
+                "href": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us"
+            },
+            {
+                "title": "Meta removes ads for social media addiction litigation",
+                "href": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads"
             },
             {
                 "title": "Show HN: CSS Studio. Design by hand, code by agent",
@@ -657,24 +665,16 @@
                 "href": "https://astral.sh/blog/open-source-security-at-astral"
             },
             {
-                "title": "Building a framework-agnostic Ruby gem (and making sure it doesn't break)",
-                "href": "https://newsletter.masilotti.com/p/on-building-a-framework-agnostic"
+                "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
+                "href": "https://publicdomainreview.org/collection/claude-monet-caricatures/"
+            },
+            {
+                "title": "Netflix Prices Went Up Again \u2013 I Bought a DVD Player Instead",
+                "href": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/"
             },
             {
                 "title": "Help Keep Thunderbird Alive",
                 "href": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/"
-            },
-            {
-                "title": "Launch HN: Relvy (YC F24) \u2013 On-call runbooks, automated",
-                "href": "https://www.relvy.ai"
-            },
-            {
-                "title": "LittleSnitch for Linux",
-                "href": "https://obdev.at/products/littlesnitch-linux/index.html"
-            },
-            {
-                "title": "Aggro Is the Foundation (2022)",
-                "href": "https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/"
             }
         ]
     }
