@@ -15,10 +15,6 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1shijta/static_analysis_of_ios_app_store_binaries_common/"
             },
             {
-                "title": "Taiwanese Prosecutors Seize $6.6M in Assets from Incognito Market Admin \"Pharoah\" (Lin Rui-siang)",
-                "href": "https://old.reddit.com/r/netsec/comments/1shj1uj/taiwanese_prosecutors_seize_66m_in_assets_from/"
-            },
-            {
                 "title": "Threat Model Discrepancy: Google Password Manager leaks cleartext passwords via Task Switcher (Won't Fix) - Violates German BSI Standards",
                 "href": "https://old.reddit.com/r/netsec/comments/1sgu2dn/threat_model_discrepancy_google_password_manager/"
             },
@@ -101,6 +97,10 @@
             {
                 "title": "New RCE in Control Web Panel (CVE-2025-70951)",
                 "href": "https://old.reddit.com/r/netsec/comments/1sb7pr4/new_rce_in_control_web_panel_cve202570951/"
+            },
+            {
+                "title": "Cisco source code stolen by ShinyHunters via Trivy supply-chain attack. AWS keys breached, 300+ repos cloned and more",
+                "href": "https://old.reddit.com/r/netsec/comments/1sa8nld/cisco_source_code_stolen_by_shinyhunters_via/"
             }
         ]
     },
@@ -116,7 +116,7 @@
                 "href": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
             },
             {
-                "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+                "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
                 "href": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/"
             },
             {
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "France's Government Is Ditching Windows For Linux",
+                "href": "https://linux.slashdot.org/story/26/04/10/1545234/frances-government-is-ditching-windows-for-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "AI Is Coming for Car Salesmen",
                 "href": "https://tech.slashdot.org/story/26/04/10/0123204/ai-is-coming-for-car-salesmen?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "Anthropic Loses Appeals Court Bid To Temporarily Block Pentagon Blacklisting",
                 "href": "https://yro.slashdot.org/story/26/04/09/0010207/anthropic-loses-appeals-court-bid-to-temporarily-block-pentagon-blacklisting?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Apple's Foldable iPhone Is 'On Track' To Launch In September",
-                "href": "https://apple.slashdot.org/story/26/04/09/0017250/apples-foldable-iphone-is-on-track-to-launch-in-september?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,44 +557,64 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Code is run more than read (2023)",
-                "href": "https://olano.dev/blog/code-is-run-more-than-read/"
+                "title": "You can't trust macOS Privacy and Security settings",
+                "href": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
             },
             {
-                "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-                "href": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf"
+                "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+                "href": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html"
             },
             {
-                "title": "CPU-Z and HWMonitor Compromised",
-                "href": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/"
-            },
-            {
-                "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-                "href": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"
+                "title": "1D Chess",
+                "href": "https://rowan441.github.io/1dchess/chess.html"
             },
             {
                 "title": "Helium Is Hard to Replace",
                 "href": "https://www.construction-physics.com/p/helium-is-hard-to-replace"
             },
             {
-                "title": "You can't trust macOS Privacy and Security settings",
-                "href": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
+                "title": "Bluesky April 2026 Outage Post-Mortem",
+                "href": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2"
+            },
+            {
+                "title": "Industrial design files for Keychron keyboards and mice",
+                "href": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design"
+            },
+            {
+                "title": "CPU-Z and HWMonitor compromised",
+                "href": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"
+            },
+            {
+                "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
+                "href": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf"
+            },
+            {
+                "title": "Code is run more than read (2023)",
+                "href": "https://olano.dev/blog/code-is-run-more-than-read/"
+            },
+            {
+                "title": "Clojure on Fennel Part One: Persistent Data Structures",
+                "href": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/"
+            },
+            {
+                "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+                "href": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"
             },
             {
                 "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
                 "href": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
             },
             {
-                "title": "A new trick brings stability to quantum operations",
-                "href": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html"
-            },
-            {
-                "title": "Deterministic Primality Testing for Limited Bit Width",
-                "href": "https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/"
+                "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+                "href": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
             },
             {
                 "title": "I still prefer MCP over skills",
                 "href": "https://david.coffee/i-still-prefer-mcp-over-skills/"
+            },
+            {
+                "title": "A new trick brings stability to quantum operations",
+                "href": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html"
             },
             {
                 "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
@@ -605,36 +625,28 @@
                 "href": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding"
             },
             {
-                "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-                "href": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
+                "title": "Peers vote to ban pornography depicting sex acts between stepfamily members",
+                "href": "https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk"
+            },
+            {
+                "title": "Deterministic Primality Testing for Limited Bit Width",
+                "href": "https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/"
             },
             {
                 "title": "Native Instant Space Switching on macOS",
                 "href": "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
             },
             {
-                "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
-                "href": "https://github.com/marimo-team/marimo-pair"
-            },
-            {
-                "title": "Model-Based Testing for Dungeons & Dragons",
-                "href": "https://www.loskutoff.com/blog/model-based-testing-dnd/"
+                "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+                "href": "https://kerkour.com/rust-supply-chain-nightmare"
             },
             {
                 "title": "We've raised $17M to build what comes after Git",
                 "href": "https://blog.gitbutler.com/series-a"
             },
             {
-                "title": "Intel 486 CPU announced April 10, 1989",
-                "href": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/"
-            },
-            {
                 "title": "DRAM has a design flaw from 1966. I bypassed it [video]",
                 "href": "https://www.youtube.com/watch?v=KKbgulTp3FE"
-            },
-            {
-                "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-                "href": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
             },
             {
                 "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
@@ -645,36 +657,24 @@
                 "href": "https://blog.veitheller.de/Generative_art_over_the_years.html"
             },
             {
-                "title": "\"Negative\" views of Broadcom driving VMware migrations, rival says",
-                "href": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/"
-            },
-            {
                 "title": "Show HN: Keeper \u2013 embedded secret store for Go (help me break it)",
                 "href": "https://github.com/agberohq/keeper"
-            },
-            {
-                "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
-                "href": "https://kerkour.com/rust-supply-chain-nightmare"
             },
             {
                 "title": "CollectWise (YC F24) Is Hiring",
                 "href": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer"
             },
             {
-                "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
-                "href": "item?id=47708697"
-            },
-            {
                 "title": "Charcuterie \u2013 Visual similarity Unicode explorer",
                 "href": "https://charcuterie.elastiq.ch/"
             },
             {
-                "title": "The Art of Risk Management (2017)",
-                "href": "https://www.bcg.com/publications/2017/finance-function-excellence-corporate-development-art-risk-management"
+                "title": "\"Negative\" views of Broadcom driving VMware migrations, rival says",
+                "href": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/"
             },
             {
-                "title": "Artemis II and the invisible hazard on the way to the Moon",
-                "href": "https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1"
+                "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+                "href": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/"
             }
         ]
     }
