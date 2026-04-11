@@ -19,6 +19,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1shtwdg/nmap_triage_without_a_backend_xslt_html_report/"
             },
             {
+                "title": "Claude + Humans vs nginx: CVE-2026-27654",
+                "href": "https://old.reddit.com/r/netsec/comments/1si3xvv/claude_humans_vs_nginx_cve202627654/"
+            },
+            {
                 "title": "Threat Model Discrepancy: Google Password Manager leaks cleartext passwords via Task Switcher (Won't Fix) - Violates German BSI Standards",
                 "href": "https://old.reddit.com/r/netsec/comments/1sgu2dn/threat_model_discrepancy_google_password_manager/"
             },
@@ -97,16 +101,16 @@
             {
                 "title": "A threat actor who goes by the name \"Mr. Raccoon\" has claimed to hack Adobe support via 3rd party Indian BPO firm",
                 "href": "https://old.reddit.com/r/netsec/comments/1sb7man/a_threat_actor_who_goes_by_the_name_mr_raccoon/"
-            },
-            {
-                "title": "New RCE in Control Web Panel (CVE-2025-70951)",
-                "href": "https://old.reddit.com/r/netsec/comments/1sb7pr4/new_rce_in_control_web_panel_cve202570951/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
+                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/"
+            },
             {
                 "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
                 "href": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/"
@@ -162,10 +166,6 @@
             {
                 "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
                 "href": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/"
-            },
-            {
-                "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
-                "href": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Artemis II Astronauts Splash Down Off California's Coast",
+                "href": "https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Chimpanzees In Uganda Locked In Vicious 'Civil War', Say Researchers",
                 "href": "https://science.slashdot.org/story/26/04/10/2116254/chimpanzees-in-uganda-locked-in-vicious-civil-war-say-researchers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "Mozilla Accuses Microsoft of Sabotaging Firefox With Windows and Copilot Tactics",
                 "href": "https://tech.slashdot.org/story/26/04/09/2043257/mozilla-accuses-microsoft-of-sabotaging-firefox-with-windows-and-copilot-tactics?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Amazon May Sell Trainium AI Chips To Third Parties In Shot At Nvidia",
-                "href": "https://hardware.slashdot.org/story/26/04/09/1916209/amazon-may-sell-trainium-ai-chips-to-third-parties-in-shot-at-nvidia?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,8 +557,12 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Filing the Corners Off MacBooks",
+                "title": "Filing the corners off my MacBooks",
                 "href": "https://kentwalters.com/posts/corners/"
+            },
+            {
+                "title": "Artemis II safely splashes down",
+                "href": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
             },
             {
                 "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
@@ -569,8 +573,8 @@
                 "href": "https://rowan441.github.io/1dchess/chess.html"
             },
             {
-                "title": "Has Mythos just broken the deal that kept the internet safe?",
-                "href": "https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/"
+                "title": "Installing Every* Firefox Extension",
+                "href": "https://jack.cab/blog/every-firefox-extension"
             },
             {
                 "title": "WireGuard makes new Windows release following Microsoft signing resolution",
@@ -581,100 +585,96 @@
                 "href": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design"
             },
             {
-                "title": "Installing Every* Firefox Extension",
-                "href": "https://jack.cab/blog/every-firefox-extension"
-            },
-            {
-                "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
-                "href": "https://github.com/callumlocke/json-formatter"
-            },
-            {
-                "title": "Nowhere Is Safe",
-                "href": "https://steveblank.com/2026/04/09/nowhere-is-safe/"
-            },
-            {
-                "title": "Watgo \u2013 A WebAssembly Toolkit for Go",
-                "href": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
-            },
-            {
-                "title": "Show HN: FluidCAD \u2013 Parametric CAD with JavaScript",
-                "href": "https://fluidcad.io/"
-            },
-            {
-                "title": "What is RISC-V and why it matters to Canonical",
-                "href": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical"
-            },
-            {
-                "title": "CPU-Z and HWMonitor compromised",
-                "href": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"
-            },
-            {
-                "title": "Helium Is Hard to Replace",
-                "href": "https://www.construction-physics.com/p/helium-is-hard-to-replace"
-            },
-            {
-                "title": "Vinyl Cache and Varnish Cache",
-                "href": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html"
-            },
-            {
-                "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
-                "href": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/"
-            },
-            {
-                "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
-                "href": "https://twill.ai"
-            },
-            {
-                "title": "Bluesky April 2026 Outage Post-Mortem",
-                "href": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2"
-            },
-            {
-                "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-                "href": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer"
-            },
-            {
-                "title": "A security scanner as fast as a linter \u2013 written in Rust",
-                "href": "https://github.com/peaktwilight/foxguard"
-            },
-            {
-                "title": "You can't trust macOS Privacy and Security settings",
-                "href": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
-            },
-            {
-                "title": "Clojure on Fennel Part One: Persistent Data Structures",
-                "href": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/"
-            },
-            {
-                "title": "Show HN: Eve \u2013 Managed OpenClaw for work",
-                "href": "https://eve.new/login"
+                "title": "Investigating Split Locks on x86-64",
+                "href": "https://chipsandcheese.com/p/investigating-split-locks-on-x86"
             },
             {
                 "title": "AI assistance when contributing to the Linux kernel",
                 "href": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
             },
             {
-                "title": "Show HN: A WYSIWYG word processor in Python",
-                "href": "https://codeberg.org/chrisecker/miniword"
+                "title": "JSON formatter Chrome plugin now closed and injecting adware",
+                "href": "https://github.com/callumlocke/json-formatter"
             },
             {
-                "title": "Simulating a 2D Quadcopter from Scratch",
-                "href": "https://mrandri19.github.io/2026/04/03/2d-quadcopter-simulation.html"
+                "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+                "href": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty"
             },
             {
-                "title": "Molotov cocktail is hurled at home of Sam Altman",
-                "href": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html"
-            },
-            {
-                "title": "The best seat in town",
-                "href": "https://www.torched.la/the-best-seat-in-town/"
+                "title": "Helium is hard to replace",
+                "href": "https://www.construction-physics.com/p/helium-is-hard-to-replace"
             },
             {
                 "title": "Sam Altman's response to Molotov cocktail incident",
                 "href": "https://blog.samaltman.com/2279512"
             },
             {
-                "title": "The difficulty of making sure your website is broken",
-                "href": "https://letsencrypt.org/2026/04/10/test-sites.html"
+                "title": "CPU-Z and HWMonitor compromised",
+                "href": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/"
+            },
+            {
+                "title": "Watgo \u2013 A WebAssembly Toolkit for Go",
+                "href": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
+            },
+            {
+                "title": "What is RISC-V and why it matters to Canonical",
+                "href": "https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical"
+            },
+            {
+                "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
+                "href": "https://twill.ai"
+            },
+            {
+                "title": "PGLite Evangelism",
+                "href": "https://substack.com/home/post/p-193415720"
+            },
+            {
+                "title": "Nowhere is safe",
+                "href": "https://steveblank.com/2026/04/09/nowhere-is-safe/"
+            },
+            {
+                "title": "Show HN: FluidCAD \u2013 Parametric CAD with JavaScript",
+                "href": "https://fluidcad.io/"
+            },
+            {
+                "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
+                "href": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/"
+            },
+            {
+                "title": "Vinyl Cache and Varnish Cache",
+                "href": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html"
+            },
+            {
+                "title": "A compelling title that is cryptic enough to get you to take action on it",
+                "href": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/"
+            },
+            {
+                "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+                "href": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer"
+            },
+            {
+                "title": "Intel 486 CPU announced April 10, 1989",
+                "href": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/"
+            },
+            {
+                "title": "Clojure on Fennel Part One: Persistent Data Structures",
+                "href": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/"
+            },
+            {
+                "title": "OpenClaw\u2019s memory is unreliable, and you don\u2019t know when it will break",
+                "href": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys"
+            },
+            {
+                "title": "You can't trust macOS Privacy and Security settings",
+                "href": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"
+            },
+            {
+                "title": "Show HN: Eve \u2013 Managed OpenClaw for work",
+                "href": "https://eve.new/login"
+            },
+            {
+                "title": "Show HN: A WYSIWYG word processor in Python",
+                "href": "https://codeberg.org/chrisecker/miniword"
             }
         ]
     }
