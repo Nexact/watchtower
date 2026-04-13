@@ -19,12 +19,24 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1sk4j5o/cve20258061_from_userland_to_ring_0/"
             },
             {
+                "title": "YARA-X now runs in the browser - official Playground",
+                "href": "https://old.reddit.com/r/netsec/comments/1sk96tq/yarax_now_runs_in_the_browser_official_playground/"
+            },
+            {
                 "title": "One Uppercase Letter Breaks Every Nuxt App",
                 "href": "https://old.reddit.com/r/netsec/comments/1sk6xc3/one_uppercase_letter_breaks_every_nuxt_app/"
             },
             {
-                "title": "YARA-X now runs in the browser - official Playground",
-                "href": "https://old.reddit.com/r/netsec/comments/1sk96tq/yarax_now_runs_in_the_browser_official_playground/"
+                "title": "Stealthy RCE on Hardened Linux: noexec + Userland Execution PoC",
+                "href": "https://old.reddit.com/r/netsec/comments/1skelmn/stealthy_rce_on_hardened_linux_noexec_userland/"
+            },
+            {
+                "title": "Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE (validated by Coinbase, on-chain PoC)",
+                "href": "https://old.reddit.com/r/netsec/comments/1skfumg/coinbase_agentkit_prompt_injection_wallet_drain/"
+            },
+            {
+                "title": "ClearFrame \u2013 an open-source AI agent protocol with auditability and goal monitoring",
+                "href": "https://old.reddit.com/r/netsec/comments/1skeoem/clearframe_an_opensource_ai_agent_protocol_with/"
             },
             {
                 "title": "The persistence of analog RF links in drone video feeds",
@@ -89,24 +101,16 @@
             {
                 "title": "Assessing Claude Mythos Preview\u2019s capabilities",
                 "href": "https://old.reddit.com/r/netsec/comments/1sf7q11/assessing_claude_mythos_previews_capabilities/"
-            },
-            {
-                "title": "Detecting CI/CD Supply Chain Attacks with Canary Credentials",
-                "href": "https://old.reddit.com/r/netsec/comments/1sep4hy/detecting_cicd_supply_chain_attacks_with_canary/"
-            },
-            {
-                "title": "Microsoft Speech - Lateral Movement",
-                "href": "https://old.reddit.com/r/netsec/comments/1sett79/microsoft_speech_lateral_movement/"
-            },
-            {
-                "title": "Cracking a Malvertising DGA From the Device Side",
-                "href": "https://old.reddit.com/r/netsec/comments/1sdv8dm/cracking_a_malvertising_dga_from_the_device_side/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+                "href": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/"
+            },
             {
                 "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side",
                 "href": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/"
@@ -162,10 +166,6 @@
             {
                 "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
                 "href": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/"
-            },
-            {
-                "title": "When attackers already have the keys, MFA is just another door to open",
-                "href": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/"
             }
         ]
     },
@@ -218,6 +218,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Maine Set To Become First State With Data Center Ban",
+                "href": "https://yro.slashdot.org/story/26/04/13/0335254/maine-set-to-become-first-state-with-data-center-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Californians Sue Over AI Tool That Records Doctor Visits",
+                "href": "https://slashdot.org/story/26/04/13/0330204/californians-sue-over-ai-tool-that-records-doctor-visits?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Will Some Programmers Become 'AI Babysitters'?",
                 "href": "https://developers.slashdot.org/story/26/04/12/2225245/will-some-programmers-become-ai-babysitters?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -268,14 +276,6 @@
             {
                 "title": "Crypto Billionaire Pardoned In Prison By Trump Just Wrote a Memoir",
                 "href": "https://news.slashdot.org/story/26/04/11/2331242/crypto-billionaire-pardoned-in-prison-by-trump-just-wrote-a-memoir?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "AI That Bankrupted a Vending Machine is Now Running a Store in San Francisco",
-                "href": "https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Latin America's Central Banks Establish Digital Payments Used By Hundreds of Millions",
-                "href": "https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,44 +557,64 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+                "href": "https://github.com/sterlingcrispin/nothing-ever-happens"
+            },
+            {
+                "title": "Building a CLI for All of Cloudflare",
+                "href": "https://blog.cloudflare.com/cf-cli-local-explorer/"
+            },
+            {
                 "title": "Servo is now available on crates.io",
                 "href": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/"
             },
             {
-                "title": "Android now stops you sharing your location in photos",
-                "href": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"
-            },
-            {
-                "title": "All elementary functions from a single binary operator",
-                "href": "https://arxiv.org/abs/2603.21852"
+                "title": "The Future of Everything Is Lies, I Guess: Safety",
+                "href": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety"
             },
             {
                 "title": "Make Tmux Pretty and Usable",
                 "href": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
             },
             {
-                "title": "The economics of software teams: Why most engineering orgs are flying blind",
-                "href": "https://www.viktorcessan.com/the-economics-of-software-teams/"
+                "title": "All elementary functions from a single binary operator",
+                "href": "https://arxiv.org/abs/2603.21852"
             },
             {
-                "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-                "href": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html"
-            },
-            {
-                "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-                "href": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/"
-            },
-            {
-                "title": "I went to America's worst national parks so you don't have to",
-                "href": "https://substack.com/home/post/p-193626949"
+                "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+                "href": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html"
             },
             {
                 "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
                 "href": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/"
             },
             {
+                "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+                "href": "https://spectrum.ieee.org/mems-photonics"
+            },
+            {
+                "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+                "href": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/"
+            },
+            {
+                "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+                "href": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html"
+            },
+            {
+                "title": "The economics of software teams: Why most engineering orgs are flying blind",
+                "href": "https://www.viktorcessan.com/the-economics-of-software-teams/"
+            },
+            {
+                "title": "Android now stops you sharing your location in photos",
+                "href": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"
+            },
+            {
                 "title": "Taking on CUDA with ROCm: 'One Step After Another'",
                 "href": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/"
+            },
+            {
+                "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+                "href": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most"
             },
             {
                 "title": "DIY Soft Drinks",
@@ -605,10 +625,6 @@
                 "href": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"
             },
             {
-                "title": "AI could be the end of the digital wave, not the next big thing",
-                "href": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/"
-            },
-            {
                 "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
                 "href": "https://boringbar.app/"
             },
@@ -617,60 +633,44 @@
                 "href": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball"
             },
             {
-                "title": "A perfectable programming language",
-                "href": "https://alok.github.io/lean-pages/perfectable-lean/"
-            },
-            {
                 "title": "Ask HN: What Are You Working On? (April 2026)",
                 "href": "item?id=47741527"
             },
             {
-                "title": "The hottest college major [Computer Science] hit a wall. What happened?",
-                "href": "https://www.washingtonpost.com/technology/2026/04/13/computer-science-major-ai/"
+                "title": "A perfectable programming language",
+                "href": "https://alok.github.io/lean-pages/perfectable-lean/"
             },
             {
-                "title": "They See Your Photos",
-                "href": "https://theyseeyourphotos.com/"
-            },
-            {
-                "title": "Point Cloud Allemansr\u00e4tten",
-                "href": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/"
-            },
-            {
-                "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
-                "href": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most"
+                "title": "Claude.ai down",
+                "href": "https://status.claude.com/incidents/6jd2m42f8mld"
             },
             {
                 "title": "I gave every train in New York an instrument",
                 "href": "https://www.trainjazz.com/"
             },
             {
-                "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-                "href": "https://github.com/brightbeanxyz/brightbean-studio"
+                "title": "I ran Gemma 4 as a local model in Codex CLI",
+                "href": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4"
             },
             {
-                "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-                "href": "item?id=47738883"
+                "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+                "href": "https://github.com/brightbeanxyz/brightbean-studio"
             },
             {
                 "title": "We have a 99% email reputation, but Gmail disagrees",
                 "href": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/"
             },
             {
-                "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-                "href": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end"
+                "title": "Claude Mythos: The System Card",
+                "href": "https://thezvi.substack.com/p/claude-mythos-the-system-card"
             },
             {
-                "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-                "href": "https://github.com/rochus-keller/OberonSystem3Native/releases"
+                "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+                "href": "item?id=47738883"
             },
             {
-                "title": "I ran Gemma 4 as a local model in Codex CLI",
-                "href": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4"
-            },
-            {
-                "title": "Is math big or small?",
-                "href": "https://chessapig.github.io/talks/Big-Small"
+                "title": "Point Cloud Allemansr\u00e4tten",
+                "href": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/"
             },
             {
                 "title": "Exploiting the most prominent AI agent benchmarks",
