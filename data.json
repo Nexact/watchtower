@@ -11,6 +11,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1s9kmf4/rnetsec_monthly_discussion_tool_thread/"
             },
             {
+                "title": "Open dataset: 100k+ multimodal prompt injection samples with per-category academic sourcing",
+                "href": "https://old.reddit.com/r/netsec/comments/1sn2o3v/open_dataset_100k_multimodal_prompt_injection/"
+            },
+            {
                 "title": "[ Removed by Reddit ]",
                 "href": "https://old.reddit.com/r/netsec/comments/1slqr27/removed_by_reddit/"
             },
@@ -97,16 +101,20 @@
             {
                 "title": "Assessing Claude Mythos Preview\u2019s capabilities",
                 "href": "https://old.reddit.com/r/netsec/comments/1sf7q11/assessing_claude_mythos_previews_capabilities/"
-            },
-            {
-                "title": "Detecting CI/CD Supply Chain Attacks with Canary Credentials",
-                "href": "https://old.reddit.com/r/netsec/comments/1sep4hy/detecting_cicd_supply_chain_attacks_with_canary/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/"
+            },
+            {
+                "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
+                "href": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/"
+            },
             {
                 "title": "Cisco says critical Webex Services flaw requires customer action",
                 "href": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/"
@@ -158,14 +166,6 @@
             {
                 "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/"
-            },
-            {
-                "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/"
-            },
-            {
-                "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-                "href": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/"
             }
         ]
     },
@@ -347,6 +347,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Drupal security advisory (AV26-359)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-359"
+            },
             {
                 "title": "Google Chrome security advisory (AV26-358)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-358"
@@ -542,10 +546,6 @@
             {
                 "title": "Fortinet security advisory (AV26-313)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-313"
-            },
-            {
-                "title": "OpenSSH security advisory (AV26-312)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av26-312"
             }
         ]
     },
@@ -557,24 +557,44 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+                "href": "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
+            },
+            {
+                "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+                "href": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
+            },
+            {
+                "title": "Claude Opus 4.7",
+                "href": "https://www.anthropic.com/claude/opus"
+            },
+            {
                 "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
                 "href": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262"
+            },
+            {
+                "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
+                "href": "https://blog.cloudflare.com/email-for-agents/"
             },
             {
                 "title": "IPv6 traffic crosses the 50% mark",
                 "href": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197"
             },
             {
-                "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-                "href": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf"
+                "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+                "href": "https://blog.cloudflare.com/ai-platform/"
             },
             {
-                "title": "Codex Hacked a Samsung TV",
-                "href": "https://blog.calif.io/p/codex-hacked-a-samsung-tv"
+                "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
+                "href": "https://github.com/SeanFDZ/macmind"
             },
             {
                 "title": "Darkbloom \u2013 Private inference on idle Macs",
                 "href": "https://darkbloom.dev"
+            },
+            {
+                "title": "AI cybersecurity is not proof of work",
+                "href": "https://antirez.com/news/163"
             },
             {
                 "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
@@ -585,96 +605,76 @@
                 "href": "https://www.lighterra.com/articles/"
             },
             {
-                "title": "Cybersecurity looks like proof of work now",
-                "href": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html"
+                "title": "Claude Opus 4.7 Model Card",
+                "href": "https://anthropic.com/claude-opus-4-7-system-card"
             },
             {
-                "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-                "href": "https://github.com/Nightmare-Eclipse/RedSun"
+                "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+                "href": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf"
             },
             {
-                "title": "Too much discussion of the XOR swap trick",
-                "href": "https://heather.cafe/posts/too_much_xor_swap_trick/"
+                "title": "Codex Hacked a Samsung TV",
+                "href": "https://blog.calif.io/p/codex-hacked-a-samsung-tv"
             },
             {
-                "title": "The paper computer",
-                "href": "https://jsomers.net/blog/the-paper-computer"
-            },
-            {
-                "title": "The Death of Character in Game Console Interfaces",
-                "href": "https://vale.rocks/posts/game-console-interfaces"
-            },
-            {
-                "title": "ChatGPT for Excel",
-                "href": "https://chatgpt.com/apps/spreadsheets/"
-            },
-            {
-                "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-                "href": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45"
-            },
-            {
-                "title": "RamAIn (YC W26) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead"
-            },
-            {
-                "title": "North American English Dialects",
-                "href": "https://aschmann.net/AmEng/"
+                "title": "Show HN: Agent-cache \u2013 Multi-tier LLM/tool/session caching for Valkey and Redis",
+                "href": "item?id=47792122"
             },
             {
                 "title": "PHP 8.6 Closure Optimizations",
                 "href": "https://wiki.php.net/rfc/closure-optimizations"
             },
             {
-                "title": "FIXAPL",
-                "href": "https://fixapl.netlify.app/"
+                "title": "Cybersecurity looks like proof of work now",
+                "href": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html"
             },
             {
-                "title": "Fast and Easy Levenshtein distance using a Trie (2011)",
-                "href": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie"
+                "title": "Fly Drones from the Browser",
+                "href": "https://fpvsim.com/sim"
+            },
+            {
+                "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+                "href": "https://github.com/Nightmare-Eclipse/RedSun"
+            },
+            {
+                "title": "RamAIn (YC W26) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead"
+            },
+            {
+                "title": "There's yet another study about how bad AI is for our brains",
+                "href": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html"
+            },
+            {
+                "title": "Long Instruction Word architectures and the ELI-512",
+                "href": "https://dl.acm.org/doi/10.1145/800046.801649"
+            },
+            {
+                "title": "Mozilla Thunderbolt",
+                "href": "https://www.thunderbolt.io/"
+            },
+            {
+                "title": "Apple accelerates eco progress with highest-ever recycled materials",
+                "href": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/"
+            },
+            {
+                "title": "ChatGPT for Excel",
+                "href": "https://chatgpt.com/apps/spreadsheets/"
+            },
+            {
+                "title": "North American English Dialects",
+                "href": "https://aschmann.net/AmEng/"
+            },
+            {
+                "title": "The paper computer",
+                "href": "https://jsomers.net/blog/the-paper-computer"
+            },
+            {
+                "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+                "href": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45"
             },
             {
                 "title": "Cal.com is going closed source",
                 "href": "https://cal.com/blog/cal-com-goes-closed-source-why"
-            },
-            {
-                "title": "Google broke its promise to me \u2013 now ICE has my data",
-                "href": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"
-            },
-            {
-                "title": "Introduction to spherical harmonics for graphics programmers",
-                "href": "https://gpfault.net/posts/sph.html"
-            },
-            {
-                "title": "The Accurs\u00e8d Alphabetical Clock",
-                "href": "https://boat.horse/clock/index.html"
-            },
-            {
-                "title": "I made a terminal pager",
-                "href": "https://theleo.zone/posts/pager/"
-            },
-            {
-                "title": "The noise we make is hurting animals. Can we learn to shut up?",
-                "href": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/"
-            },
-            {
-                "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-                "href": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service"
-            },
-            {
-                "title": "Retrofitting JIT Compilers into C Interpreters",
-                "href": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html"
-            },
-            {
-                "title": "CRISPR takes important step toward silencing Down syndrome\u2019s extra chromosome",
-                "href": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"
-            },
-            {
-                "title": "Study: EVs with V2H cut household electricity costs and need for home batteries",
-                "href": "https://adelaide.edu.au/about/news/2026/electric-vehicles-the-key-to-more-efficient-home-energy-use/"
-            },
-            {
-                "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-                "href": "https://github.com/saffron-health/libretto"
             }
         ]
     }
