@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Fewer US College Students Major in CS. More Choose Data Science, Engineering",
+                "href": "https://developers.slashdot.org/story/26/04/18/0332245/fewer-us-college-students-major-in-cs-more-choose-data-science-engineering?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "US Congress Fails to Pass Long-Term FISA Extension, Authorizes It Through April 30",
                 "href": "https://yro.slashdot.org/story/26/04/18/1834202/us-congress-fails-to-pass-long-term-fisa-extension-authorizes-it-through-april-30?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "Amazon's New Fire TV Sticks No Longer Support Sideloading",
                 "href": "https://entertainment.slashdot.org/story/26/04/17/180203/amazons-new-fire-tv-sticks-no-longer-support-sideloading?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "OpenAI Starts Offering a Biology-Tuned LLM",
-                "href": "https://science.slashdot.org/story/26/04/17/1721205/openai-starts-offering-a-biology-tuned-llm?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,8 +557,16 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Thoughts and feelings around Claude Design",
+                "href": "https://samhenri.gold/blog/20260418-claude-design/"
+            },
+            {
                 "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
                 "href": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html"
+            },
+            {
+                "title": "College instructor turns to typewriters to curb AI-written work",
+                "href": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
             },
             {
                 "title": "Migrating from DigitalOcean to Hetzner",
@@ -569,32 +577,20 @@
                 "href": "https://kdenlive.org/news/2026/state-2026/"
             },
             {
-                "title": "Thoughts and feelings around Claude Design",
-                "href": "https://samhenri.gold/blog/20260418-claude-design/"
-            },
-            {
-                "title": "College instructor turns to typewriters to curb AI-written work",
-                "href": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
+                "title": "Floating Point Fun on Cortex-M Processors",
+                "href": "https://danielmangum.com/posts/floating-point-cortex-m/"
             },
             {
                 "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
                 "href": "https://github.com/drasimwagan/mdv"
             },
             {
-                "title": "Graphs That Explain the State of AI in 2026",
-                "href": "https://spectrum.ieee.org/state-of-ai-index-2026"
-            },
-            {
-                "title": "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
-                "href": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm"
-            },
-            {
                 "title": "Michael Rabin has died",
                 "href": "https://en.wikipedia.org/wiki/Michael_O._Rabin"
             },
             {
-                "title": "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
-                "href": "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/"
+                "title": "Scientists discover \"cleaner ants\" that groom giant ants in Arizona desert",
+                "href": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm"
             },
             {
                 "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
@@ -605,40 +601,60 @@
                 "href": "https://tokens.billchambers.me/leaderboard"
             },
             {
-                "title": "UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive",
-                "href": "https://up.codes/careers?utm_source=HN"
+                "title": "Optimizing Ruby Path Methods",
+                "href": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html"
             },
             {
-                "title": "Fuzix OS",
-                "href": "https://www.fuzix.org/"
+                "title": "Graphs that explain the state of AI in 2026",
+                "href": "https://spectrum.ieee.org/state-of-ai-index-2026"
             },
             {
                 "title": "80386 Memory Pipeline",
                 "href": "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/"
             },
             {
-                "title": "Amiga Graphics Archive",
-                "href": "https://amiga.lychesis.net/"
-            },
-            {
-                "title": "Show HN: AI Subroutines \u2013 Run automation scripts inside your browser tab",
-                "href": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation"
-            },
-            {
-                "title": "Understanding the FFT Algorithm (2013)",
-                "href": "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/"
+                "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
+                "href": "https://up.codes/careers?utm_source=HN"
             },
             {
                 "title": "Show HN: Remoroo. trying to fix memory in long-running coding agents",
                 "href": "https://www.remoroo.com"
             },
             {
-                "title": "Floating Point Fun on Cortex-M Processors",
-                "href": "https://danielmangum.com/posts/floating-point-cortex-m/"
+                "title": "PostgreSQL production incident caused by transaction ID wraparound",
+                "href": "https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem"
+            },
+            {
+                "title": "Fuzix OS",
+                "href": "https://www.fuzix.org/"
+            },
+            {
+                "title": "Show HN: AI Subroutines \u2013 Run automation scripts inside your browser tab",
+                "href": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation"
+            },
+            {
+                "title": "Modern Common Lisp with FSET",
+                "href": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html"
+            },
+            {
+                "title": "Understanding the FFT Algorithm (2013)",
+                "href": "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/"
+            },
+            {
+                "title": "Amiga Graphics Archive",
+                "href": "https://amiga.lychesis.net/"
+            },
+            {
+                "title": "4-bit floating point FP4",
+                "href": "https://www.johndcook.com/blog/2026/04/17/fp4/"
             },
             {
                 "title": "Category Theory Illustrated \u2013 Orders",
                 "href": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/"
+            },
+            {
+                "title": "PgQue: Zero-Bloat Postgres Queue",
+                "href": "https://github.com/NikolayS/pgque"
             },
             {
                 "title": "It's OK to compare floating-points for equality",
@@ -649,32 +665,16 @@
                 "href": "https://victorpoughon.github.io/interval-calculator/"
             },
             {
-                "title": "4-bit floating point FP4",
-                "href": "https://www.johndcook.com/blog/2026/04/17/fp4/"
-            },
-            {
                 "title": "Why Japan has such good railways",
                 "href": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/"
             },
             {
-                "title": "The USDA's gardening zones have shifted. (Interactive app and map) (2024)",
-                "href": "https://apps.npr.org/plant-hardiness-garden-map/"
+                "title": "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
+                "href": "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/"
             },
             {
-                "title": "The quiet disappearance of the free-range childhood",
-                "href": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/"
-            },
-            {
-                "title": "Towards trust in Emacs",
-                "href": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html"
-            },
-            {
-                "title": "A Dumb Introduction to Z3 (2025)",
-                "href": "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/"
-            },
-            {
-                "title": "The simple geometry behind any road",
-                "href": "https://sandboxspirit.com/blog/simple-geometry-of-roads/"
+                "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
+                "href": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns"
             }
         ]
     }
