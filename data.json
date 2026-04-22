@@ -23,10 +23,6 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1srvol6/two_new_critical_spinnaker_vulns_allow_rce_and/"
             },
             {
-                "title": "Vercel OAuth breach analysis: Context.ai compromise, MITRE T1199 trust-chain attack, IOC for Google Workspace admins",
-                "href": "https://old.reddit.com/r/netsec/comments/1ss3e38/vercel_oauth_breach_analysis_contextai_compromise/"
-            },
-            {
                 "title": "Command Execution via Drag-and-Drop in Terminal Emulators",
                 "href": "https://old.reddit.com/r/netsec/comments/1sreolc/command_execution_via_draganddrop_in_terminal/"
             },
@@ -101,12 +97,20 @@
             {
                 "title": "One Uppercase Letter Breaks Every Nuxt App",
                 "href": "https://old.reddit.com/r/netsec/comments/1sk6xc3/one_uppercase_letter_breaks_every_nuxt_app/"
+            },
+            {
+                "title": "Claude + Humans vs nginx: CVE-2026-27654",
+                "href": "https://old.reddit.com/r/netsec/comments/1si3xvv/claude_humans_vs_nginx_cve202627654/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/"
+            },
             {
                 "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/"
@@ -162,10 +166,6 @@
             {
                 "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/"
-            },
-            {
-                "title": "The backup myth that is putting businesses at risk",
-                "href": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/"
             }
         ]
     },
@@ -557,8 +557,8 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247"
+                "title": "Windows 9x Subsystem for Linux",
+                "href": "https://social.hails.org/@hailey/116446826733136456"
             },
             {
                 "title": "Making RAM at Home [video]",
@@ -569,6 +569,22 @@
                 "href": "https://openai.com/index/introducing-chatgpt-images-2-0/"
             },
             {
+                "title": "All your agents are going async",
+                "href": "https://zknill.io/posts/all-your-agents-are-going-async/"
+            },
+            {
+                "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+                "href": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics"
+            },
+            {
+                "title": "Garbage Collection Without Unsafe Code",
+                "href": "https://fitzgen.com/2024/02/06/safe-gc.html"
+            },
+            {
+                "title": "Laws of Software Engineering",
+                "href": "https://lawsofsoftwareengineering.com"
+            },
+            {
                 "title": "Acetaminophen vs. ibuprofen",
                 "href": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet"
             },
@@ -577,32 +593,24 @@
                 "href": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/"
             },
             {
-                "title": "Laws of Software Engineering",
-                "href": "https://lawsofsoftwareengineering.com"
-            },
-            {
-                "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-                "href": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics"
+                "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+                "href": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html"
             },
             {
                 "title": "SpaceX says it has agreement to acquire Cursor for $60B",
                 "href": "https://twitter.com/spacex/status/2046713419978453374"
             },
             {
-                "title": "Garbage Collection Without Unsafe Code",
-                "href": "https://fitzgen.com/2024/02/06/safe-gc.html"
-            },
-            {
-                "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-                "href": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html"
-            },
-            {
-                "title": "Windows Server 2025 Runs Better on ARM",
-                "href": "https://jasoneckert.github.io/myblog/server-2025-arm64/"
+                "title": "MuJoCo \u2013 Advanced Physics Simulation",
+                "href": "https://github.com/google-deepmind/mujoco"
             },
             {
                 "title": "Britannica11.org \u2013 a structured edition of the 1911 Encyclop\u00e6dia Britannica",
                 "href": "https://britannica11.org/"
+            },
+            {
+                "title": "Changes to GitHub Copilot individual plans",
+                "href": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/"
             },
             {
                 "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
@@ -613,68 +621,60 @@
                 "href": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/"
             },
             {
-                "title": "Changes to GitHub Copilot individual plans",
-                "href": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/"
-            },
-            {
                 "title": "Fusion Power Plant Simulator",
                 "href": "https://www.fusionenergybase.com/fusion-power-plant-simulator"
+            },
+            {
+                "title": "Windows Server 2025 Runs Better on ARM",
+                "href": "https://jasoneckert.github.io/myblog/server-2025-arm64/"
             },
             {
                 "title": "Framework Laptop 13 Pro",
                 "href": "https://frame.work/laptop13pro"
             },
             {
-                "title": "Drunk post: Things I've learned as a senior engineer (2021)",
-                "href": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as"
-            },
-            {
                 "title": "Cal.diy: open-source community edition of cal.com",
                 "href": "https://github.com/calcom/cal.diy"
             },
             {
-                "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-                "href": "https://www.brex.com/crabtrap"
+                "title": "Rock carving facts \u2013 Tanum Sweden",
+                "href": "https://www.tanumworldheritage.se/rock-carving-facts/?lang=en"
             },
             {
                 "title": "Edit store price tags using Flipper Zero",
                 "href": "https://github.com/i12bp8/TagTinker"
             },
             {
+                "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+                "href": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as"
+            },
+            {
+                "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+                "href": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4"
+            },
+            {
+                "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+                "href": "https://www.brex.com/crabtrap"
+            },
+            {
                 "title": "A printing press for biological data",
                 "href": "https://www.owlposting.com/p/the-printing-press-for-biological"
             },
             {
-                "title": "Some secret management belongs in your HTTP proxy",
-                "href": "https://blog.exe.dev/http-proxy-secrets"
-            },
-            {
-                "title": "Kuri \u2013 Zig based agent-browser alternative",
-                "href": "https://github.com/justrach/kuri"
-            },
-            {
-                "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-                "href": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/"
-            },
-            {
-                "title": "Hunting a 34 year old pointer bug in EtherSlip",
-                "href": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html"
+                "title": "What Async Promised and What It Delivered",
+                "href": "https://causality.blog/essays/what-async-promised/"
             },
             {
                 "title": "Claude Code to be removed from Anthropic's Pro plan?",
                 "href": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a"
             },
             {
-                "title": "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
-                "href": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer"
+                "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+                "href": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/"
             },
             {
-                "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-                "href": "https://vidstudio.app/video-editor"
-            },
-            {
-                "title": "20000 Gates and 20 MIPS [pdf]",
-                "href": "https://bitsavers.org/pdf/amdahl/history/20000_Gates_and_20_MIPS_199011.pdf"
+                "title": "Kuri \u2013 Zig based agent-browser alternative",
+                "href": "https://github.com/justrach/kuri"
             }
         ]
     }
