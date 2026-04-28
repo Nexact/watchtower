@@ -15,14 +15,6 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1sx8wsj/why_a_decade_of_writing_detection_logic_makes_the/"
             },
             {
-                "title": "Field Note: claude.ai/share/* and a documented robots.txt + noindex anti-pattern",
-                "href": "https://old.reddit.com/r/netsec/comments/1sxnaeb/field_note_claudeaishare_and_a_documented/"
-            },
-            {
-                "title": "DeepZero - Automated Vulnerability Research",
-                "href": "https://old.reddit.com/r/netsec/comments/1sxrs75/deepzero_automated_vulnerability_research/"
-            },
-            {
                 "title": "[ Removed by Reddit ]",
                 "href": "https://old.reddit.com/r/netsec/comments/1sxk737/removed_by_reddit/"
             },
@@ -101,12 +93,24 @@
             {
                 "title": "Nasa CFITSIO Fuzzing: Memory Corruptions and a Codex-Assisted Pipeline",
                 "href": "https://old.reddit.com/r/netsec/comments/1sql8z2/nasa_cfitsio_fuzzing_memory_corruptions_and_a/"
+            },
+            {
+                "title": "MAD Bugs: Even \"cat readme.txt\" is not safe",
+                "href": "https://old.reddit.com/r/netsec/comments/1sou4zz/mad_bugs_even_cat_readmetxt_is_not_safe/"
+            },
+            {
+                "title": "TPM 2.0 is cool, actually: hardware attestation for bare-metal fleets",
+                "href": "https://old.reddit.com/r/netsec/comments/1sozi1e/tpm_20_is_cool_actually_hardware_attestation_for/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/"
+            },
             {
                 "title": "Robinhood account creation flaw abused to send phishing emails",
                 "href": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/"
@@ -162,10 +166,6 @@
             {
                 "title": "Microsoft rolls out revamped Windows Insider Program",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/"
-            },
-            {
-                "title": "Threat actor uses Microsoft Teams to deploy new \u201cSnow\u201d malware",
-                "href": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Trump Administration Will Pay More Energy Firms to Cancel Wind Farms",
+                "href": "https://hardware.slashdot.org/story/26/04/28/041256/trump-administration-will-pay-more-energy-firms-to-cancel-wind-farms?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Elon Musk and OpenAI CEO Sam Altman Head To Court",
                 "href": "https://yro.slashdot.org/story/26/04/28/0326240/elon-musk-and-openai-ceo-sam-altman-head-to-court?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "Bank Robber Challenges Conviction Based on His Cellphone's Location Data",
                 "href": "https://yro.slashdot.org/story/26/04/27/0113209/bank-robber-challenges-conviction-based-on-his-cellphones-location-data?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google Studies Prompt Injection Attacks Against AI Agents Browsing the Web",
-                "href": "https://it.slashdot.org/story/26/04/26/2345211/google-studies-prompt-injection-attacks-against-ai-agents-browsing-the-web?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,60 +557,68 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Talkie: a 13B vintage language model from 1930",
-                "href": "https://talkie-lm.com/introducing-talkie"
+                "title": "GTFOBins",
+                "href": "https://gtfobins.org/"
             },
             {
-                "title": "San Francisco, AI capital of the world, is an economic laggard",
-                "href": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard"
+                "title": "Talkie: a 13B vintage language model from 1930",
+                "href": "https://talkie-lm.com/introducing-talkie"
             },
             {
                 "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
                 "href": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"
             },
             {
+                "title": "Is my blue your blue?",
+                "href": "https://ismy.blue/"
+            },
+            {
+                "title": "Can You Find the Comet?",
+                "href": "https://apod.nasa.gov/apod/ap260427.html"
+            },
+            {
                 "title": "Pgrx: Build Postgres Extensions with Rust",
                 "href": "https://github.com/pgcentralfoundation/pgrx"
+            },
+            {
+                "title": "High Performance Git",
+                "href": "https://gitperf.com/"
+            },
+            {
+                "title": "WASM is not quite a stack machine",
+                "href": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/"
             },
             {
                 "title": "Mo RAM, Mo Problems (2025)",
                 "href": "https://fabiensanglard.net/curse/"
             },
             {
-                "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-                "href": "https://technology.robbyant.com/lingbot-map"
-            },
-            {
-                "title": "Ted Nyman \u2013 High Performance Git",
-                "href": "https://gitperf.com/"
+                "title": "First G-SHOCK with a heart rate monitor, also featuring Smartphone Link",
+                "href": "https://gshock.casio.com/intl/products/g-lide/gbx-h5600/"
             },
             {
                 "title": "Three men are facing charges in Toronto SMS Blaster arrests",
                 "href": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/"
             },
             {
-                "title": "Integrated by Design",
-                "href": "https://vivianvoss.net/blog/integrated-by-design-launch"
-            },
-            {
-                "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-                "href": "https://app.oravys.com/blog/mercor-breach-2026"
+                "title": "How I leared what a decoupling capacitor is for, the hard way",
+                "href": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor"
             },
             {
                 "title": "Men who stare at walls",
                 "href": "https://www.alexselimov.com/posts/men_who_stare_at_walls/"
             },
             {
+                "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+                "href": "https://app.oravys.com/blog/mercor-breach-2026"
+            },
+            {
                 "title": "The quiet resurgence of RF engineering",
                 "href": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/"
             },
             {
-                "title": "How I leared what a decoupling capacitor is for, the hard way",
-                "href": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor"
-            },
-            {
-                "title": "Is my blue your blue?",
-                "href": "https://ismy.blue/"
+                "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+                "href": "https://technology.robbyant.com/lingbot-map"
             },
             {
                 "title": "Easyduino: Open Source PCB Devboards for KiCad",
@@ -621,60 +629,52 @@
                 "href": "https://www.mooreds.com/wordpress/archives/3734"
             },
             {
-                "title": "Show HN: AgentSwift \u2013 Open-source iOS builder agent",
-                "href": "https://github.com/hpennington/agentswift"
-            },
-            {
-                "title": "Vibe Coding Will Break Your Company",
-                "href": "https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/"
+                "title": "BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp",
+                "href": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/"
             },
             {
                 "title": "Networking changes coming in macOS\u00a027",
                 "href": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/"
             },
             {
-                "title": "Lessons from building multiplayer browsers",
-                "href": "https://www.alejandro.pe/writing/sail-muddy-lessons"
-            },
-            {
-                "title": "London Reverse Marathon FAQ",
-                "href": "https://london.apped.uk/faq"
-            },
-            {
                 "title": "The woes of sanitizing SVGs",
                 "href": "https://muffin.ink/blog/scratch-svg-sanitization/"
-            },
-            {
-                "title": "Radar Laboratory \u2013 Interactive Radar Phenomenology",
-                "href": "https://radarlaboratory.com/"
             },
             {
                 "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
                 "href": "https://github.com/WeebLabs/DSPi"
             },
             {
-                "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-                "href": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar"
-            },
-            {
-                "title": "China blocks Meta's acquisition of AI startup Manus",
-                "href": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
-            },
-            {
                 "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
                 "href": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher"
+            },
+            {
+                "title": "Integrated by Design",
+                "href": "https://vivianvoss.net/blog/integrated-by-design-launch"
+            },
+            {
+                "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+                "href": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar"
             },
             {
                 "title": "Pgbackrest is no longer being maintained",
                 "href": "https://github.com/pgbackrest/pgbackrest"
             },
             {
+                "title": "Radar Laboratory \u2013 Interactive Radar Phenomenology",
+                "href": "https://radarlaboratory.com/"
+            },
+            {
+                "title": "Lessons from building multiplayer browsers",
+                "href": "https://www.alejandro.pe/writing/sail-muddy-lessons"
+            },
+            {
                 "title": "GitHub Copilot is moving to usage-based billing",
                 "href": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/"
             },
             {
-                "title": "\u201cWhy not just use Lean?\u201d",
-                "href": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html"
+                "title": "Quarkdown \u2013 Markdown with Superpowers",
+                "href": "https://quarkdown.com/"
             }
         ]
     }
