@@ -19,6 +19,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1t495rf/proton_pass_secondpassword_bypass_through/"
             },
             {
+                "title": "The Danger of Multi-SSO AWS Cognito User Pools",
+                "href": "https://old.reddit.com/r/netsec/comments/1t4bnja/the_danger_of_multisso_aws_cognito_user_pools/"
+            },
+            {
                 "title": "\"AccountDumpling\": Hunting Down the Google-Sent Phishing Wave Compromising 30,000+ Facebook Accounts",
                 "href": "https://old.reddit.com/r/netsec/comments/1t37cmq/accountdumpling_hunting_down_the_googlesent/"
             },
@@ -97,16 +101,20 @@
             {
                 "title": "MCPwned: a Burp Suite extension for auditing MCP servers",
                 "href": "https://old.reddit.com/r/netsec/comments/1swxhu6/mcpwned_a_burp_suite_extension_for_auditing_mcp/"
-            },
-            {
-                "title": "[ Removed by Reddit ]",
-                "href": "https://old.reddit.com/r/netsec/comments/1sxk737/removed_by_reddit/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
+                "href": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/"
+            },
+            {
+                "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+                "href": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/"
+            },
             {
                 "title": "ScarCruft hackers push BirdCall Android malware via game platform",
                 "href": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/"
@@ -158,14 +166,6 @@
             {
                 "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
                 "href": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/"
-            },
-            {
-                "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
-            },
-            {
-                "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-                "href": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/"
             }
         ]
     },
@@ -283,6 +283,14 @@
         "feedname": "ciscotalos",
         "items": [
             {
+                "title": "UAT-8302 and its box full of malware",
+                "href": "https://blog.talosintelligence.com/uat-8302/"
+            },
+            {
+                "title": "CloudZ RAT potentially steals OTP messages using Pheno plugin",
+                "href": "https://blog.talosintelligence.com/cloudz-pheno-infostealer/"
+            },
+            {
                 "title": "Great responsibility, without great power",
                 "href": "https://blog.talosintelligence.com/great-responsibility-without-great-power/"
             },
@@ -333,14 +341,6 @@
             {
                 "title": "More than pretty pictures: Wendy Bishop on visual storytelling in tech",
                 "href": "https://blog.talosintelligence.com/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech/"
-            },
-            {
-                "title": "The n8n n8mare: How threat actors are misusing AI workflow automation",
-                "href": "https://blog.talosintelligence.com/the-n8n-n8mare/"
-            },
-            {
-                "title": "Microsoft Patch Tuesday for April 2026 - Snort Rule and Prominent Vulnerabilities",
-                "href": "https://blog.talosintelligence.com/microsoft-patch-tuesday-april-2026/"
             }
         ]
     },
@@ -561,8 +561,16 @@
                 "href": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
             },
             {
-                "title": "Train Your Own LLM from Scratch",
-                "href": "https://github.com/angelos-p/llm-from-scratch"
+                "title": "Should I Run Plain Docker Compose in Production in 2026?",
+                "href": "https://distr.sh/blog/running-docker-in-production/"
+            },
+            {
+                "title": "Bun is being ported from Zig to Rust",
+                "href": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
+            },
+            {
+                "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+                "href": "https://walzr.com/empty-screenings"
             },
             {
                 "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
@@ -573,75 +581,63 @@
                 "href": "https://sethmlarson.dev/hand-drawn-qr-codes"
             },
             {
-                "title": "Bun is being ported from Zig to Rust",
-                "href": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
-            },
-            {
-                "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-                "href": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
-            },
-            {
-                "title": "How OpenAI delivers low-latency voice AI at scale",
-                "href": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+                "title": "When everyone has AI and the company still learns nothing",
+                "href": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
             },
             {
                 "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
                 "href": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
             },
             {
-                "title": "Agent Skills",
-                "href": "https://addyosmani.com/blog/agent-skills/"
+                "title": "How OpenAI delivers low-latency voice AI at scale",
+                "href": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+            },
+            {
+                "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+                "href": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
+            },
+            {
+                "title": "Train Your Own LLM from Scratch",
+                "href": "https://github.com/angelos-p/llm-from-scratch"
             },
             {
                 "title": "Farewell to a Giant of Botany",
                 "href": "https://nautil.us/farewell-to-a-giant-of-botany-1280409"
             },
             {
-                "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-                "href": "https://walzr.com/empty-screenings"
-            },
-            {
-                "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-                "href": "https://nobodyaskedforthis.lol/posts/connected-car/"
+                "title": "Agent Skills",
+                "href": "https://addyosmani.com/blog/agent-skills/"
             },
             {
                 "title": "Why I Created phpc.tv",
                 "href": "https://afilina.com/why-phpc-tv"
             },
             {
+                "title": "Mouse Pointer as a Mere Mortal",
+                "href": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/"
+            },
+            {
                 "title": "The Frog for Whom the Bell Tolls",
                 "href": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls"
-            },
-            {
-                "title": "Gaps in national food production, worldwide",
-                "href": "https://www.nature.com/articles/s43016-025-01173-4"
-            },
-            {
-                "title": "pgxbackup: Continuity Support for pgBackRest",
-                "href": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
-            },
-            {
-                "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-                "href": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
-            },
-            {
-                "title": "LinkedIn locks your GDPR rights behind a paywall",
-                "href": "https://noyb.eu/en/linkedin-locks-your-gdpr-rights-behind-paywall"
             },
             {
                 "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
                 "href": "https://www.nber.org/papers/w35117"
             },
             {
-                "title": "2-D Mathematical Curves",
-                "href": "https://www.2dcurves.com/"
+                "title": "Gap between national food production and food-based dietary guidance (2025)",
+                "href": "https://www.nature.com/articles/s43016-025-01173-4"
             },
             {
-                "title": "Mouse Pointer as a Mere Mortal",
-                "href": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/"
+                "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+                "href": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
             },
             {
-                "title": "When Networking Doesn't Work",
+                "title": "pgxbackup: Continuity Support for pgBackRest",
+                "href": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
+            },
+            {
+                "title": "When networking doesn't work",
                 "href": "https://www.os2museum.com/wp/when-networking-doesnt-work/"
             },
             {
@@ -649,32 +645,36 @@
                 "href": "https://antirez.com/news/164"
             },
             {
-                "title": "Kids bypass age verification with fake moustaches",
-                "href": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
-            },
-            {
                 "title": "Talking to strangers at the gym",
                 "href": "https://thienantran.com/talking-to-35-strangers-at-the-gym/"
             },
             {
-                "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-                "href": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
+                "title": "Formatting a 25M-line codebase overnight",
+                "href": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+            },
+            {
+                "title": "Kids bypass age verification with fake moustaches",
+                "href": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
+            },
+            {
+                "title": "Biscuit",
+                "href": "https://github.com/yattsu/biscuit"
+            },
+            {
+                "title": "2-D Mathematical Curves",
+                "href": "https://www.2dcurves.com/"
+            },
+            {
+                "title": "Setting up server monitoring for a Rails app on Hatchbox",
+                "href": "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html"
             },
             {
                 "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
                 "href": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/"
             },
             {
-                "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-                "href": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"
-            },
-            {
-                "title": "PyInfra 3.8.0",
-                "href": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0"
-            },
-            {
-                "title": "Biscuit",
-                "href": "https://github.com/yattsu/biscuit"
+                "title": "Testing Mac OS on the Apple Network Server 2.0 ROMs",
+                "href": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
             }
         ]
     }
