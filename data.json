@@ -15,6 +15,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1t45sa6/we_probed_6000_web_apps_for_stripe_webhook/"
             },
             {
+                "title": "Proton Pass: Second-Password Bypass Through Emergency Access",
+                "href": "https://old.reddit.com/r/netsec/comments/1t495rf/proton_pass_secondpassword_bypass_through/"
+            },
+            {
                 "title": "\"AccountDumpling\": Hunting Down the Google-Sent Phishing Wave Compromising 30,000+ Facebook Accounts",
                 "href": "https://old.reddit.com/r/netsec/comments/1t37cmq/accountdumpling_hunting_down_the_googlesent/"
             },
@@ -97,16 +101,16 @@
             {
                 "title": "[ Removed by Reddit ]",
                 "href": "https://old.reddit.com/r/netsec/comments/1sxk737/removed_by_reddit/"
-            },
-            {
-                "title": "Large-scale security audit of 1,764 \"vibe-coded\" apps: 7% have wide-open Supabase DBs, 15% of Bolt apps ship hardcoded API keys, plus IDOR and zero-auth APIs",
-                "href": "https://old.reddit.com/r/netsec/comments/1sv6gty/largescale_security_audit_of_1764_vibecoded_apps/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+                "href": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/"
+            },
             {
                 "title": "Weaver E-cology critical bug exploited in attacks since March",
                 "href": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/"
@@ -162,10 +166,6 @@
             {
                 "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
                 "href": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/"
-            },
-            {
-                "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/"
             }
         ]
     },
@@ -557,48 +557,60 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Async Rust never left the MVP state",
+                "href": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
+            },
+            {
                 "title": "Train Your Own LLM from Scratch",
                 "href": "https://github.com/angelos-p/llm-from-scratch"
             },
             {
-                "title": "Bun is being ported from Zig to Rust",
-                "href": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
-            },
-            {
-                "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-                "href": "https://walzr.com/empty-screenings"
+                "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+                "href": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html"
             },
             {
                 "title": "Hand Drawn QR Codes",
                 "href": "https://sethmlarson.dev/hand-drawn-qr-codes"
             },
             {
-                "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-                "href": "https://nobodyaskedforthis.lol/posts/connected-car/"
-            },
-            {
-                "title": "How OpenAI delivers low-latency voice AI at scale",
-                "href": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+                "title": "Bun is being ported from Zig to Rust",
+                "href": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
             },
             {
                 "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
                 "href": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
             },
             {
+                "title": "How OpenAI delivers low-latency voice AI at scale",
+                "href": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+            },
+            {
+                "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+                "href": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
+            },
+            {
                 "title": "Agent Skills",
                 "href": "https://addyosmani.com/blog/agent-skills/"
             },
             {
-                "title": "When Networking Doesn't Work",
-                "href": "https://www.os2museum.com/wp/when-networking-doesnt-work/"
+                "title": "Farewell to a Giant of Botany",
+                "href": "https://nautil.us/farewell-to-a-giant-of-botany-1280409"
             },
             {
-                "title": "Nocturnal migratory birds follow rhythm of the moon",
-                "href": "https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon"
+                "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+                "href": "https://walzr.com/empty-screenings"
             },
             {
-                "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-                "href": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
+                "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+                "href": "https://nobodyaskedforthis.lol/posts/connected-car/"
+            },
+            {
+                "title": "Why I Created phpc.tv",
+                "href": "https://afilina.com/why-phpc-tv"
+            },
+            {
+                "title": "The Frog for Whom the Bell Tolls",
+                "href": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls"
             },
             {
                 "title": "Gaps in national food production, worldwide",
@@ -609,12 +621,28 @@
                 "href": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
             },
             {
+                "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+                "href": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
+            },
+            {
+                "title": "LinkedIn locks your GDPR rights behind a paywall",
+                "href": "https://noyb.eu/en/linkedin-locks-your-gdpr-rights-behind-paywall"
+            },
+            {
                 "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
                 "href": "https://www.nber.org/papers/w35117"
             },
             {
                 "title": "2-D Mathematical Curves",
                 "href": "https://www.2dcurves.com/"
+            },
+            {
+                "title": "Mouse Pointer as a Mere Mortal",
+                "href": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/"
+            },
+            {
+                "title": "When Networking Doesn't Work",
+                "href": "https://www.os2museum.com/wp/when-networking-doesnt-work/"
             },
             {
                 "title": "Redis array: short story of a long development process",
@@ -625,12 +653,12 @@
                 "href": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
             },
             {
-                "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-                "href": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
-            },
-            {
                 "title": "Talking to strangers at the gym",
                 "href": "https://thienantran.com/talking-to-35-strangers-at-the-gym/"
+            },
+            {
+                "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+                "href": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
             },
             {
                 "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
@@ -641,40 +669,12 @@
                 "href": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"
             },
             {
-                "title": "Y Combinator's Stake in OpenAI (0.6%?)",
-                "href": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
-            },
-            {
-                "title": "What I'm Hearing About Cognitive Debt (So Far)",
-                "href": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"
-            },
-            {
-                "title": "Formatting a 25M-line codebase overnight",
-                "href": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
-            },
-            {
-                "title": "I am worried about Bun",
-                "href": "https://wwj.dev/posts/i-am-worried-about-bun/"
-            },
-            {
-                "title": "Biscuit",
-                "href": "https://github.com/yattsu/biscuit"
-            },
-            {
-                "title": "How Monero\u2019s proof of work works",
-                "href": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works"
-            },
-            {
                 "title": "PyInfra 3.8.0",
                 "href": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0"
             },
             {
-                "title": "Pomiferous: The most extensive apples (pommes) database",
-                "href": "https://pomiferous.com/"
-            },
-            {
-                "title": "GameStop makes $55.5B takeover offer for eBay",
-                "href": "https://www.bbc.co.uk/news/articles/cn0p8yled1do"
+                "title": "Biscuit",
+                "href": "https://github.com/yattsu/biscuit"
             }
         ]
     }
