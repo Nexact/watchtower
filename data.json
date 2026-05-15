@@ -27,12 +27,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1td5c5a/hypervenom_using_hyperv_for_ring_1_control_from/"
             },
             {
-                "title": "Detecting Exploitation of CrushFTP Vulnerability (CVE-2025-31161) With PacketSmith Yara Detection Module - Using track_state and flow_state",
-                "href": "https://old.reddit.com/r/netsec/comments/1td2igk/detecting_exploitation_of_crushftp_vulnerability/"
-            },
-            {
                 "title": "Apple Maildrop lets you rewrite the filename, size, and icon on any icloud.com attachment link \u2014 no signature, no validation \u2014 reported July 2023, still live",
                 "href": "https://old.reddit.com/r/netsec/comments/1tcdag7/apple_maildrop_lets_you_rewrite_the_filename_size/"
+            },
+            {
+                "title": "Detecting Exploitation of CrushFTP Vulnerability (CVE-2025-31161) With PacketSmith Yara Detection Module - Using track_state and flow_state",
+                "href": "https://old.reddit.com/r/netsec/comments/1td2igk/detecting_exploitation_of_crushftp_vulnerability/"
             },
             {
                 "title": "WaSteal: 126 Chrome extensions, 148K installs, one Brazilian operator silently sending WhatsApp user data and ad cookies to its servers",
@@ -108,6 +108,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/"
+            },
+            {
                 "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
                 "href": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/"
             },
@@ -162,10 +166,6 @@
             {
                 "title": "New critical Exim mailer flaw allows remote code execution",
                 "href": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/"
-            },
-            {
-                "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-                "href": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/"
             }
         ]
     },
@@ -557,32 +557,44 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Explore Wikipedia Like a Windows XP Desktop",
+                "href": "https://explorer.samismith.com/"
+            },
+            {
+                "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+                "href": "https://github.com/Andyyyy64/whichllm"
+            },
+            {
                 "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
                 "href": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/"
             },
             {
-                "title": "Access to frontier AI will soon be limited by economic and security constraints",
-                "href": "https://writing.antonleicht.me/p/cut-off"
+                "title": "UK sovereign LLM inference",
+                "href": "https://relax.ai/docs"
             },
             {
-                "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-                "href": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php"
+                "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+                "href": "https://github.com/GlycemicGPT/GlycemicGPT"
             },
             {
-                "title": "Solar-based sleep patterns compared to modern norms",
-                "href": "https://dylan.gr/1775146616"
+                "title": "Building ML framework with Rust and Category Theory",
+                "href": "https://hghalebi.github.io/category_theory_transformer_rs/"
+            },
+            {
+                "title": "UK government replaces Palantir software with internally-built refugee system",
+                "href": "https://www.bbc.com/news/articles/c2l2j1lxdk5o"
             },
             {
                 "title": "A few words on DS4",
                 "href": "https://antirez.com/news/165"
             },
             {
-                "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-                "href": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
+                "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+                "href": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php"
             },
             {
-                "title": "UK government replaces Palantir software with internally-built refugee system",
-                "href": "https://www.bbc.com/news/articles/c2l2j1lxdk5o"
+                "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+                "href": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
             },
             {
                 "title": "First public macOS kernel memory corruption exploit on Apple M5",
@@ -593,10 +605,6 @@
                 "href": "https://github.com/gyroflow/gyroflow"
             },
             {
-                "title": "Mullvad exit IPs are surprisingly identifying",
-                "href": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
-            },
-            {
                 "title": "New Nginx Exploit",
                 "href": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
             },
@@ -605,32 +613,24 @@
                 "href": "https://openai.com/index/work-with-codex-from-anywhere/"
             },
             {
-                "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
-                "href": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops"
+                "title": "Solar-based sleep patterns compared to modern norms",
+                "href": "https://dylan.gr/1775146616"
             },
             {
-                "title": "Coldkey \u2013 Post-quantum age key generation and paper backup tool",
-                "href": "https://github.com/pike00/coldkey"
+                "title": "Mullvad exit IPs are surprisingly identifying",
+                "href": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
             },
             {
                 "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
                 "href": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing"
             },
             {
-                "title": "Rewrite Bun in Rust has been merged",
-                "href": "https://github.com/oven-sh/bun/pull/30412"
+                "title": "Access to frontier AI will soon be limited by economic and security constraints",
+                "href": "https://writing.antonleicht.me/p/cut-off"
             },
             {
-                "title": "How Claude Code works in large codebases",
-                "href": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"
-            },
-            {
-                "title": "Porting 3D Movie Maker to Linux",
-                "href": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
-            },
-            {
-                "title": "LLM Policy for Rust Compiler",
-                "href": "https://github.com/rust-lang/rust-forge/pull/1040"
+                "title": "Claude for Legal",
+                "href": "https://github.com/anthropics/claude-for-legal"
             },
             {
                 "title": "HDD Firmware Hacking",
@@ -641,36 +641,36 @@
                 "href": "https://router.start9.com/"
             },
             {
-                "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-                "href": "https://www.openvehicles.com/home"
-            },
-            {
-                "title": "Claude for Legal",
-                "href": "https://github.com/anthropics/claude-for-legal"
+                "title": "Geography is four-dimensional",
+                "href": "https://sive.rs/4d"
             },
             {
                 "title": "What's in a GGUF, besides the weights \u2013 and what's still missing?",
                 "href": "https://nobodywho.ooo/posts/whats-in-a-gguf/"
             },
             {
+                "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+                "href": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
+            },
+            {
+                "title": "Porting 3D Movie Maker to Linux",
+                "href": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
+            },
+            {
                 "title": "New arXiv policy: 1-year ban for hallucinated references",
                 "href": "https://twitter.com/tdietterich/status/2055000956144935055"
             },
             {
+                "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+                "href": "https://www.openvehicles.com/home"
+            },
+            {
+                "title": "How Claude Code works in large codebases",
+                "href": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"
+            },
+            {
                 "title": "More than sixty percent of the United States is experiencing drought conditions",
                 "href": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html"
-            },
-            {
-                "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
-                "href": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate"
-            },
-            {
-                "title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
-                "href": "item?id=48145524"
-            },
-            {
-                "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-                "href": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
             },
             {
                 "title": "WinUI 3 Performance: A Leap Forward",
