@@ -108,6 +108,10 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
+                "title": "Microsoft to automatically roll back faulty Windows drivers",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/"
+            },
+            {
                 "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/"
             },
@@ -162,10 +166,6 @@
             {
                 "title": "Iranian hackers targeted major South Korean electronics maker",
                 "href": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/"
-            },
-            {
-                "title": "New critical Exim mailer flaw allows remote code execution",
-                "href": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Americans Would Rather Have a Nuclear Plant In Their Backyard Than a Datacenter",
+                "href": "https://news.slashdot.org/story/26/05/15/0217208/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "SpaceX Unveils Sweeping Starship V3 Upgrades",
                 "href": "https://science.slashdot.org/story/26/05/15/0225226/spacex-unveils-sweeping-starship-v3-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "OpenAI Trial Wraps Up With 'Jackass' Trophy For Challenging Musk",
                 "href": "https://yro.slashdot.org/story/26/05/14/0420215/openai-trial-wraps-up-with-jackass-trophy-for-challenging-musk?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Man Who Stole Beyonce's Hard Drives Gets Five-Year Sentence",
-                "href": "https://yro.slashdot.org/story/26/05/13/2041241/man-who-stole-beyonces-hard-drives-gets-five-year-sentence?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,40 +557,60 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Explore Wikipedia Like a Windows XP Desktop",
-                "href": "https://explorer.samismith.com/"
+                "title": "O(x)Caml in Space",
+                "href": "https://gazagnaire.org/blog/2026-05-14-borealis.html"
             },
             {
                 "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
                 "href": "https://github.com/Andyyyy64/whichllm"
             },
             {
+                "title": "Explore Wikipedia Like a Windows XP Desktop",
+                "href": "https://explorer.samismith.com/"
+            },
+            {
+                "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
+                "href": "https://spectrum.ieee.org/steve-jobs-next-computer"
+            },
+            {
+                "title": "Welcome to the Strip Mining Era of OSS Security",
+                "href": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security"
+            },
+            {
                 "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
                 "href": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/"
-            },
-            {
-                "title": "UK sovereign LLM inference",
-                "href": "https://relax.ai/docs"
-            },
-            {
-                "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
-                "href": "https://github.com/GlycemicGPT/GlycemicGPT"
-            },
-            {
-                "title": "Building ML framework with Rust and Category Theory",
-                "href": "https://hghalebi.github.io/category_theory_transformer_rs/"
             },
             {
                 "title": "UK government replaces Palantir software with internally-built refugee system",
                 "href": "https://www.bbc.com/news/articles/c2l2j1lxdk5o"
             },
             {
+                "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+                "href": "https://signoz.io/careers"
+            },
+            {
+                "title": "Radicle: Sovereign {code forge} built on Git",
+                "href": "https://radicle.dev/"
+            },
+            {
+                "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+                "href": "https://github.com/GlycemicGPT/GlycemicGPT"
+            },
+            {
                 "title": "A few words on DS4",
                 "href": "https://antirez.com/news/165"
             },
             {
+                "title": "Building ML framework with Rust and Category Theory",
+                "href": "https://hghalebi.github.io/category_theory_transformer_rs/"
+            },
+            {
                 "title": "Details of the Daring Airdrop at Tristan Da Cunha",
                 "href": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php"
+            },
+            {
+                "title": "Where's Ed: Anthropic Told Court $5B but Public $19B",
+                "href": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/"
             },
             {
                 "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
@@ -605,28 +625,32 @@
                 "href": "https://github.com/gyroflow/gyroflow"
             },
             {
-                "title": "New Nginx Exploit",
-                "href": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
+                "title": "NanoTDB \u2013 Golang Append-Only Time Series DB",
+                "href": "https://github.com/aymanhs/nanotdb"
             },
             {
                 "title": "Codex is now in the ChatGPT mobile app",
                 "href": "https://openai.com/index/work-with-codex-from-anywhere/"
             },
             {
-                "title": "Solar-based sleep patterns compared to modern norms",
-                "href": "https://dylan.gr/1775146616"
+                "title": "New Nginx Exploit",
+                "href": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
             },
             {
                 "title": "Mullvad exit IPs are surprisingly identifying",
                 "href": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
             },
             {
-                "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-                "href": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing"
+                "title": "UK sovereign LLM inference",
+                "href": "https://relax.ai/docs"
             },
             {
-                "title": "Access to frontier AI will soon be limited by economic and security constraints",
-                "href": "https://writing.antonleicht.me/p/cut-off"
+                "title": "Solar-based sleep patterns compared to modern norms",
+                "href": "https://dylan.gr/1775146616"
+            },
+            {
+                "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+                "href": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing"
             },
             {
                 "title": "Claude for Legal",
@@ -641,40 +665,16 @@
                 "href": "https://router.start9.com/"
             },
             {
-                "title": "Geography is four-dimensional",
-                "href": "https://sive.rs/4d"
-            },
-            {
                 "title": "What's in a GGUF, besides the weights \u2013 and what's still missing?",
                 "href": "https://nobodywho.ooo/posts/whats-in-a-gguf/"
-            },
-            {
-                "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
-                "href": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o"
             },
             {
                 "title": "Porting 3D Movie Maker to Linux",
                 "href": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
             },
             {
-                "title": "New arXiv policy: 1-year ban for hallucinated references",
-                "href": "https://twitter.com/tdietterich/status/2055000956144935055"
-            },
-            {
-                "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-                "href": "https://www.openvehicles.com/home"
-            },
-            {
-                "title": "How Claude Code works in large codebases",
-                "href": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"
-            },
-            {
-                "title": "More than sixty percent of the United States is experiencing drought conditions",
-                "href": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html"
-            },
-            {
-                "title": "WinUI 3 Performance: A Leap Forward",
-                "href": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096"
+                "title": "Access to frontier AI will soon be limited by economic and security constraints",
+                "href": "https://writing.antonleicht.me/p/cut-off"
             }
         ]
     }
