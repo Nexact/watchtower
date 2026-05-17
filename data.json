@@ -11,6 +11,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1t0thd8/rnetsec_monthly_discussion_tool_thread/"
             },
             {
+                "title": "Ansible security and compliance guide",
+                "href": "https://old.reddit.com/r/netsec/comments/1tfupd0/ansible_security_and_compliance_guide/"
+            },
+            {
                 "title": "Instrumenting QT6 desktop apps with Frida - Part 1",
                 "href": "https://old.reddit.com/r/netsec/comments/1tdnsgp/instrumenting_qt6_desktop_apps_with_frida_part_1/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Securing CI/CD for an open source project: lessons from Cilium",
                 "href": "https://old.reddit.com/r/netsec/comments/1t7k5gb/securing_cicd_for_an_open_source_project_lessons/"
-            },
-            {
-                "title": "Needle crypto-stealer C2 analysis: API key embedded in plain text inside the Rust malware unlocked 1,932 victims and the operator's withdrawal config",
-                "href": "https://old.reddit.com/r/netsec/comments/1t73zot/needle_cryptostealer_c2_analysis_api_key_embedded/"
             }
         ]
     },
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "How Owners of EVs from Bankrupt Fisker Saved Their Cars With an Open Source Nonprofit",
+                "href": "https://tech.slashdot.org/story/26/05/16/2318249/how-owners-of-evs-from-bankrupt-fisker-saved-their-cars-with-an-open-source-nonprofit?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Sysadmin Creates 'ModuleJail' To Automatically Blacklist Unused Kernel Modules",
                 "href": "https://news.slashdot.org/story/26/05/16/2110220/sysadmin-creates-modulejail-to-automatically-blacklist-unused-kernel-modules?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "Trump Phones Start Shipping - But Were There Really 600,000 Preorders?",
                 "href": "https://mobile.slashdot.org/story/26/05/16/0258209/trump-phones-start-shipping---but-were-there-really-600000-preorders?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Why Is the US Job Market So Tough, Especially for Recent College Grads?",
-                "href": "https://it.slashdot.org/story/26/05/16/0451234/why-is-the-us-job-market-so-tough-especially-for-recent-college-grads?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -561,10 +561,6 @@
                 "href": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
             },
             {
-                "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-                "href": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
-            },
-            {
                 "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
                 "href": "https://github.com/tech4bot/rk3562deb"
             },
@@ -577,8 +573,8 @@
                 "href": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/"
             },
             {
-                "title": "Apple Silicon costs more than OpenRouter",
-                "href": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html"
+                "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+                "href": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
             },
             {
                 "title": "Hindenburg's Smoking Room",
@@ -589,10 +585,6 @@
                 "href": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/"
             },
             {
-                "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-                "href": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
-            },
-            {
                 "title": "Scientists believe ibogaine can help veterans overcome PTSD",
                 "href": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
             },
@@ -601,20 +593,28 @@
                 "href": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
             },
             {
-                "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-                "href": "https://crates.io/crates/zerostack/1.0.0"
-            },
-            {
                 "title": "High-Entropy Alloy",
                 "href": "https://en.wikipedia.org/wiki/High-entropy_alloy"
             },
             {
-                "title": "Agentic Trading with Safe Guardrails",
-                "href": "https://github.com/ShurikenTrade/shuriken-skills"
+                "title": "Apple Silicon costs more than OpenRouter",
+                "href": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html"
+            },
+            {
+                "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+                "href": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
+            },
+            {
+                "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+                "href": "https://crates.io/crates/zerostack/1.0.0"
             },
             {
                 "title": "CUDA Books",
                 "href": "https://github.com/alternbits/awesome-cuda-books"
+            },
+            {
+                "title": "Agentic Trading with Safe Guardrails",
+                "href": "https://github.com/ShurikenTrade/shuriken-skills"
             },
             {
                 "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
@@ -633,12 +633,12 @@
                 "href": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
             },
             {
-                "title": "Hosting a website on an 8-bit microcontroller",
-                "href": "https://maurycyz.com/projects/mcusite/"
+                "title": "Legacy Update for Windows 8.1 for x64-based Systems",
+                "href": "https://legacyupdate.net/download-center/download/51025/update-for-windows-8.1-x64-kb3132080"
             },
             {
-                "title": "Sam Sianis, Chicago's most famous saloonkeeper, has died",
-                "href": "https://www.chicagotribune.com/2026/05/15/sam-sianis-billy-goat-chicago-dies/"
+                "title": "Hosting a website on an 8-bit microcontroller",
+                "href": "https://maurycyz.com/projects/mcusite/"
             },
             {
                 "title": "Moving away from Tailwind, and learning to structure my CSS",
@@ -653,28 +653,28 @@
                 "href": "https://github.com/akiomik/mado"
             },
             {
-                "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-                "href": "https://nvlabs.github.io/Sana/WM/"
+                "title": "XS: A programming language. Anywhere, anytime, by anyone",
+                "href": "https://xslang.org"
             },
             {
-                "title": "Roman Letters",
-                "href": "https://romanletters.org/"
+                "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+                "href": "https://nvlabs.github.io/Sana/WM/"
             },
             {
                 "title": "We've made the world too complicated",
                 "href": "https://user8.bearblog.dev/the-world-is-too-complicated/"
             },
             {
-                "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-                "href": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/"
-            },
-            {
-                "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-                "href": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/"
+                "title": "Roman Letters",
+                "href": "https://romanletters.org/"
             },
             {
                 "title": "Illusions of understanding in the sciences",
                 "href": "https://link.springer.com/article/10.1007/s42113-026-00271-1"
+            },
+            {
+                "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+                "href": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/"
             }
         ]
     }
