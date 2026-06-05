@@ -11,6 +11,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
             },
             {
+                "title": "Unauthenticated RCE as QSECOFR via IBM i Management Central \u2014 port 5555, client-controlled verify flag, no credentials required (V7R4 and earlier)",
+                "href": "https://old.reddit.com/r/netsec/comments/1txidow/unauthenticated_rce_as_qsecofr_via_ibm_i/"
+            },
+            {
                 "title": "System Over Model, Tested: Reproducing Mythos\u2019s FreeBSD Find on Local Open-Weight Models",
                 "href": "https://old.reddit.com/r/netsec/comments/1twvplu/system_over_model_tested_reproducing_mythoss/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Threat Intel: Lithuania Investigates B2B Credential Misuse Exposing 600,000 National Registry Records",
                 "href": "https://old.reddit.com/r/netsec/comments/1tp1gws/threat_intel_lithuania_investigates_b2b/"
-            },
-            {
-                "title": "MalShark: MCP-Powered Malware Traffic Analysis \u2014 Benchmarked Against Real Malware",
-                "href": "https://old.reddit.com/r/netsec/comments/1tp7cg2/malshark_mcppowered_malware_traffic_analysis/"
             }
         ]
     },
@@ -348,6 +348,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "Cisco security advisory (AV26-551)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-551"
+            },
+            {
                 "title": "Docker security advisory (AV26-550)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-550"
             },
@@ -542,10 +546,6 @@
             {
                 "title": "[Control systems] CISA ICS security advisories (AV26\u2013506)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-506"
-            },
-            {
-                "title": "Ubuntu security advisory (AV26-505)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-505"
             }
         ]
     },
@@ -557,84 +557,104 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Changing How We Develop Ladybird",
-                "href": "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
-            },
-            {
-                "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-                "href": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
+                "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+                "href": "https://mouseless.click"
             },
             {
                 "title": "Tracing a powerful GNSS interference source over Europe",
                 "href": "https://arxiv.org/abs/2606.03673"
             },
             {
-                "title": "C++: The Documentary",
-                "href": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/"
+                "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+                "href": "https://redis.io/blog/announcing-redis-8-8/"
             },
             {
-                "title": "Meta enables ADB on deprecated Portal devices [video]",
-                "href": "https://fb.watch/HxPu0fSyeH/"
+                "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+                "href": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
+            },
+            {
+                "title": "Changing How We Develop Ladybird",
+                "href": "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
             },
             {
                 "title": "databow: a Rust CLI to query any database with an ADBC driver",
                 "href": "https://columnar.tech/blog/introducing-databow//"
             },
             {
-                "title": "Fine-tuning an LLM to write docs like it's 1995",
-                "href": "https://passo.uno/fine-tuning-docs-llm/"
-            },
-            {
-                "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-                "href": "https://github.com/anthropics/defending-code-reference-harness"
-            },
-            {
-                "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-                "href": "https://isupmap.com/"
-            },
-            {
-                "title": "Do transformers need three projections? Systematic study of QKV variants",
-                "href": "https://arxiv.org/abs/2606.04032"
-            },
-            {
                 "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
                 "href": "https://github.com/geo-tp/ESP32-Bit-Pirate"
             },
             {
-                "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
-                "href": "https://github.com/alibaba/open-code-review"
+                "title": "Fine-tuning an LLM to write docs like it's 1995",
+                "href": "https://passo.uno/fine-tuning-docs-llm/"
+            },
+            {
+                "title": "Meta enables ADB on deprecated Portal devices [video]",
+                "href": "https://fb.watch/HxPu0fSyeH/"
+            },
+            {
+                "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+                "href": "https://nango.dev/careers"
             },
             {
                 "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
                 "href": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder"
             },
             {
-                "title": "Watching a Z80 from an RP2350",
-                "href": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/"
+                "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+                "href": "https://github.com/anthropics/defending-code-reference-harness"
+            },
+            {
+                "title": "Programmers will document for Claude, but not for each other",
+                "href": "https://blog.plover.com/2026/03/09/#documentation-wins-2"
+            },
+            {
+                "title": "C++: The Documentary",
+                "href": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/"
+            },
+            {
+                "title": "Ultra-processed foods in the global food system: The role of tobacco companies",
+                "href": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501"
+            },
+            {
+                "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+                "href": "https://isupmap.com/"
+            },
+            {
+                "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+                "href": "https://github.com/zdk/lowfat"
+            },
+            {
+                "title": "At the Autograph Show",
+                "href": "https://oldster.substack.com/p/at-the-autograph-show"
             },
             {
                 "title": "I'm skeptical about efforts to revolutionize schooling",
                 "href": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/"
             },
             {
-                "title": "Lee Kuan Yew's Singapore Story",
-                "href": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story"
+                "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+                "href": "https://github.com/alibaba/open-code-review"
             },
             {
-                "title": "WiFi Time",
-                "href": "https://mitxela.com/projects/wifi_time"
+                "title": "Do transformers need three projections? Systematic study of QKV variants",
+                "href": "https://arxiv.org/abs/2606.04032"
+            },
+            {
+                "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+                "href": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy"
+            },
+            {
+                "title": "Ohbin \u2013 uv wrapper for installing tools from GitHub",
+                "href": "https://github.com/prostomarkeloff/ohbin"
+            },
+            {
+                "title": "Watching a Z80 from an RP2350",
+                "href": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/"
             },
             {
                 "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
                 "href": "https://tiki.li/blog/blqsort"
-            },
-            {
-                "title": "Linear Cosine Palettes(2025)",
-                "href": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/"
-            },
-            {
-                "title": "There's no escaping it: an exploration of ANSI codes",
-                "href": "https://blog.safia.rocks/2025/12/22/ansi-codes/"
             },
             {
                 "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
@@ -649,32 +669,12 @@
                 "href": "https://www.alexedwards.net/blog/go-experiments-explained"
             },
             {
-                "title": "Magenta RealTime 2: Open and Local Live Music Models",
-                "href": "https://magenta.withgoogle.com/magenta-realtime-2"
+                "title": "Linear Cosine Palettes(2025)",
+                "href": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/"
             },
             {
-                "title": "Ohbin \u2013 uv wrapper for installing tools from GitHub",
-                "href": "https://github.com/prostomarkeloff/ohbin"
-            },
-            {
-                "title": "Samurai City",
-                "href": "https://worksinprogress.co/issue/samurai-city/"
-            },
-            {
-                "title": "Retro-Tech Parenting",
-                "href": "https://havenweb.org/2026/05/28/retro-tech.html"
-            },
-            {
-                "title": "Queen bees emerge from special wax chambers",
-                "href": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06"
-            },
-            {
-                "title": "VoidZero Is Joining Cloudflare",
-                "href": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
-            },
-            {
-                "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-                "href": "https://github.com/huawei-csl/KVarN"
+                "title": "Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures",
+                "href": "https://freenet.monster/china-unicom.html?lang=en"
             }
         ]
     }
