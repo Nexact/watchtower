@@ -19,8 +19,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1u0wykc/ai_agents_may_always_fall_for_prompt_injections/"
             },
             {
-                "title": "I just completed Search Skills room on TryHackMe! Learn to efficiently search the Internet and use specialised services and technical docs for information",
-                "href": "https://old.reddit.com/r/netsec/comments/1u0y34b/i_just_completed_search_skills_room_on_tryhackme/"
+                "title": "X.com silently injects session-bound tracking tokens into your clipboard on every copy \u2014 security tools correctly flag this as malicious injection",
+                "href": "https://old.reddit.com/r/netsec/comments/1u14sga/xcom_silently_injects_sessionbound_tracking/"
+            },
+            {
+                "title": "WinGet - Code Execution, Persistence and Detection Strategies",
+                "href": "https://old.reddit.com/r/netsec/comments/1u13ff7/winget_code_execution_persistence_and_detection/"
             },
             {
                 "title": "EDRChoker: Choking The Telemetry Stream to Bypass Defenses",
@@ -97,16 +101,16 @@
             {
                 "title": "The Word 'Toad' Gave Any Website Full Control of Chrome's Most Popular VPN",
                 "href": "https://old.reddit.com/r/netsec/comments/1tqdrly/the_word_toad_gave_any_website_full_control_of/"
-            },
-            {
-                "title": "Visual Studio Extensions Revisited",
-                "href": "https://old.reddit.com/r/netsec/comments/1tqd1qs/visual_studio_extensions_revisited/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "French govt messaging service breached in account hijacking attack",
+                "href": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/"
+            },
             {
                 "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/"
@@ -162,10 +166,6 @@
             {
                 "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/"
-            },
-            {
-                "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-                "href": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Tests Suggest Russian Satellites Can Jam GPS On a Continental Scale",
+                "href": "https://science.slashdot.org/story/26/06/08/2317255/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Donut Lab's 'Solid-State' Battery Exposed As Regular Li-Ion",
                 "href": "https://hardware.slashdot.org/story/26/06/08/235214/donut-labs-solid-state-battery-exposed-as-regular-li-ion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "Texas Grid Flags Risks As Data Centers, Crypto Sites Fail Voltage Tests",
                 "href": "https://hardware.slashdot.org/story/26/06/08/0416216/texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Police Sued After Imprisoning Innocent Man Placed Near Violent Crime By Flock License Plate Reader",
-                "href": "https://yro.slashdot.org/story/26/06/07/2357243/police-sued-after-imprisoning-innocent-man-placed-near-violent-crime-by-flock-license-plate-reader?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -348,12 +348,32 @@
         "feedname": "cybercentre",
         "items": [
             {
-                "title": "Broadcom VMware security advisory (AV26-560)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-560"
+                "title": "MISP security advisory (AV26-565)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-565"
             },
             {
-                "title": "Check Point security advisory (AV26-559)",
+                "title": "Veeam security advisory (AV26-564)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-564"
+            },
+            {
+                "title": "Apache security advisory (AV26-563)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-563"
+            },
+            {
+                "title": "SAP security advisory \u2013 June 2026 monthly rollup (AV26-562)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2026-monthly-rollup-av26-562"
+            },
+            {
+                "title": "Google Chrome security advisory (AV26-561)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-561"
+            },
+            {
+                "title": "Check Point security advisory (AV26-559) - Update 1",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-559"
+            },
+            {
+                "title": "Broadcom VMware security advisory (AV26-560)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-560"
             },
             {
                 "title": "Spring security advisory (AV26-558)",
@@ -526,26 +546,6 @@
             {
                 "title": "Zimbra security advisory (AV26-520)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-520"
-            },
-            {
-                "title": "Veeam security advisory (AV26-519)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-519"
-            },
-            {
-                "title": "Drupal security advisory (AV26-518)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-518"
-            },
-            {
-                "title": "Google Chrome security advisory (AV26-517)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-517"
-            },
-            {
-                "title": "GitLab security advisory (AV26-516)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-516"
-            },
-            {
-                "title": "Jenkins security advisory (AV26-515)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-515"
             }
         ]
     },
@@ -557,20 +557,40 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-                "href": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
-            },
-            {
                 "title": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
                 "href": "https://github.com/luke8086/gentleos32"
             },
             {
-                "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-                "href": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age"
+                "title": "Making Graphics Like it's 1993",
+                "href": "https://staniks.github.io/articles/catlantean-3d-blog-1/"
+            },
+            {
+                "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+                "href": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
+            },
+            {
+                "title": "The better the autopilot the worse the pilot",
+                "href": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/"
+            },
+            {
+                "title": "Cleaning up after AI rockstar developers",
+                "href": "https://www.codingwithjesse.com/blog/rockstar-developers/"
             },
             {
                 "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
                 "href": "https://opencv.org/opencv-5/"
+            },
+            {
+                "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+                "href": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age"
+            },
+            {
+                "title": "An introduction to functional analysis for science and engineering",
+                "href": "https://arxiv.org/abs/1904.02539"
+            },
+            {
+                "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+                "href": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer"
             },
             {
                 "title": "Apple reveals new AI architecture built around Google Gemini models",
@@ -581,48 +601,64 @@
                 "href": "https://thi.ng"
             },
             {
-                "title": "Eagle Computer: The rise and fall of an early PC clone",
-                "href": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/"
+                "title": "Job: Head of Stonehenge",
+                "href": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449"
+            },
+            {
+                "title": "The iPhone's Last Stand",
+                "href": "https://stratechery.com/2026/the-iphones-last-stand/"
             },
             {
                 "title": "Siri AI",
                 "href": "https://www.apple.com/apple-intelligence/"
             },
             {
+                "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+                "href": "https://vorpus.github.io/performativeUI/"
+            },
+            {
                 "title": "xAI is looking more like a datacentre REIT than a frontier lab",
                 "href": "https://martinalderson.com/posts/xais-new-rental-business/"
+            },
+            {
+                "title": "Eagle Computer: The rise and fall of an early PC clone",
+                "href": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/"
+            },
+            {
+                "title": "Show HN: Gravity \u2013 interactive solar-system simulator, from Newton to Einstein",
+                "href": "https://qunabu.github.io/Gravity/"
             },
             {
                 "title": "Porting the ThinkPad X61 to Coreboot",
                 "href": "https://blog.aheymans.xyz/post/thinkpad_x61/"
             },
             {
-                "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
-                "href": "https://vorpus.github.io/performativeUI/"
+                "title": "EU-banned pesticides found in rice, tea and spices",
+                "href": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices"
+            },
+            {
+                "title": "H2JVM \u2013 A Haskell Library for Writing JVM Bytecode",
+                "href": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182"
             },
             {
                 "title": "Old'aVista \u2013 The most powerful guide to the old Internet",
                 "href": "https://oldavista.com/"
             },
             {
-                "title": "EU-banned pesticides found in rice, tea and spices",
-                "href": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices"
-            },
-            {
                 "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
                 "href": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps"
-            },
-            {
-                "title": "Apple Core AI Framework",
-                "href": "https://developer.apple.com/documentation/coreai/"
             },
             {
                 "title": "The beauty and simplicity of the good old C-style void* in C++",
                 "href": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/"
             },
             {
-                "title": "Facebook is paying people overseas promoting Alberta separatism",
-                "href": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966"
+                "title": "Apple Core AI Framework",
+                "href": "https://developer.apple.com/documentation/coreai/"
+            },
+            {
+                "title": "Adopting the Parallel DWARF linker in dsymutil",
+                "href": "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/"
             },
             {
                 "title": "Looking Forward to Postgres 19: Query Hints",
@@ -633,48 +669,12 @@
                 "href": "https://gitdot.io/"
             },
             {
-                "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-                "href": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer"
-            },
-            {
                 "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
                 "href": "item?id=48449187"
             },
             {
-                "title": "Passing DBs through continuations",
-                "href": "https://remy.wang/blog/cps.html"
-            },
-            {
                 "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
                 "href": "item?id=48448313"
-            },
-            {
-                "title": "FrontierCode",
-                "href": "https://cognition.ai/blog/frontier-code"
-            },
-            {
-                "title": "Why are cells small?",
-                "href": "https://burrito.bio/essays/what-limits-a-cells-size"
-            },
-            {
-                "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-                "href": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf"
-            },
-            {
-                "title": "H2JVM \u2013 A Haskell Library for Writing JVM Bytecode",
-                "href": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182"
-            },
-            {
-                "title": "How much do amd64 microarchitecture levels help in Go?",
-                "href": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/"
-            },
-            {
-                "title": "I'm building a parallel internet, and it's called The Thinnernet",
-                "href": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html"
-            },
-            {
-                "title": "AI is slowing down",
-                "href": "https://www.wheresyoured.at/ai-is-slowing-down/"
             }
         ]
     }
