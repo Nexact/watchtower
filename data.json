@@ -11,6 +11,14 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
             },
             {
+                "title": "CVE-2026-20971: Samsung Android kernel UAF affecting Galaxy S9-S25",
+                "href": "https://old.reddit.com/r/netsec/comments/1uea8bx/cve202620971_samsung_android_kernel_uaf_affecting/"
+            },
+            {
+                "title": "No Side to Take: Political Indifference Inside the 4vps.su Leak",
+                "href": "https://old.reddit.com/r/netsec/comments/1uea2jn/no_side_to_take_political_indifference_inside_the/"
+            },
+            {
                 "title": "Cloudflare patches Copy-Fail across every server in two days",
                 "href": "https://old.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/"
             },
@@ -93,20 +101,16 @@
             {
                 "title": "Getting the PID from random numbers in PHP",
                 "href": "https://old.reddit.com/r/netsec/comments/1u4lqa8/getting_the_pid_from_random_numbers_in_php/"
-            },
-            {
-                "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE) - watchTowr Labs",
-                "href": "https://old.reddit.com/r/netsec/comments/1u46wbb/why_use_applevel_auth_when_every_database_has/"
-            },
-            {
-                "title": "Old Passwords Die Hard: Abusing CREDHIST for offline credential recovery",
-                "href": "https://old.reddit.com/r/netsec/comments/1u3wjtg/old_passwords_die_hard_abusing_credhist_for/"
             }
         ]
     },
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+                "href": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/"
+            },
             {
                 "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/"
@@ -162,10 +166,6 @@
             {
                 "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/"
-            },
-            {
-                "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-                "href": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/"
             }
         ]
     },
@@ -217,6 +217,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Mushroom Behind 'Tiny Human' Visions Lacks Genes For Known Psychedelics",
+                "href": "https://science.slashdot.org/story/26/06/24/0624256/mushroom-behind-tiny-human-visions-lacks-genes-for-known-psychedelics?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Europe: The World's Fastest-Warming Continent",
                 "href": "https://news.slashdot.org/story/26/06/24/066249/europe-the-worlds-fastest-warming-continent?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -272,10 +276,6 @@
             {
                 "title": "GM Installs Robots At Flagship EV Factory After Laying Off 1,300 Workers",
                 "href": "https://hardware.slashdot.org/story/26/06/23/0059203/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Microsoft Accidentally Breaks Replying To an Email On Outlook",
-                "href": "https://it.slashdot.org/story/26/06/22/2048235/microsoft-accidentally-breaks-replying-to-an-email-on-outlook?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,68 +557,84 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Vulnerability reports are not special anymore",
-                "href": "https://words.filippo.io/vuln-reports/"
+                "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+                "href": "https://bunny.net/blog/were-making-bunny-dns-free/"
             },
             {
-                "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-                "href": "https://gitlab.com/baiyibai/pico-usb-wifi"
+                "title": "Statistics that live in your SQL",
+                "href": "https://kolistat.com/blog/the-stats-duck-v0-6-0/"
+            },
+            {
+                "title": "Vulnerability reports are not special anymore",
+                "href": "https://words.filippo.io/vuln-reports/"
             },
             {
                 "title": "Jerry's Map",
                 "href": "http://www.jerrysmap.com/the-map"
             },
             {
-                "title": "Why eval startups fail (2025)",
-                "href": "https://thomasliao.com/eval-startups"
-            },
-            {
-                "title": "Show HN: An ASCII 3D Rendering Engine",
-                "href": "https://glyphcss.com"
-            },
-            {
-                "title": "FUTO Swipe \u2013 A new swipe typing model",
-                "href": "https://swipe.futo.tech/"
+                "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+                "href": "https://gitlab.com/baiyibai/pico-usb-wifi"
             },
             {
                 "title": "In memory of the man who put red and green squiggles under words",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
             },
             {
+                "title": "A deadly fungus that can infect cats and people is spreading",
+                "href": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading"
+            },
+            {
+                "title": "FUTO Swipe \u2013 A new swipe typing model",
+                "href": "https://swipe.futo.tech/"
+            },
+            {
+                "title": "Why eval startups fail (2025)",
+                "href": "https://thomasliao.com/eval-startups"
+            },
+            {
                 "title": "Qwen-AgentWorld: Language World Models for General Agents",
                 "href": "https://arxiv.org/abs/2606.24597"
+            },
+            {
+                "title": "Show HN: An ASCII 3D Rendering Engine",
+                "href": "https://glyphcss.com"
             },
             {
                 "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
                 "href": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf"
             },
             {
-                "title": "Printing Gaussian Splats",
-                "href": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
+                "title": "Too many R packages: CRAN is inundated with submissions",
+                "href": "https://rworks.dev/posts/too-many-R-packages/"
             },
             {
                 "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
                 "href": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn"
             },
             {
-                "title": "Remaking BBC test cards to teach you video processing",
-                "href": "https://www.youtube.com/watch?v=U_6HxPkrgcg"
+                "title": "Vector Graphics in Lil",
+                "href": "http://beyondloom.com/blog/vectorgraphics.html"
+            },
+            {
+                "title": "Printing Gaussian Splats",
+                "href": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
             },
             {
                 "title": "Rhombus Language 1.0",
                 "href": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html"
             },
             {
+                "title": "Fran\u00e7ois Englert (1932 \u2013 2026)",
+                "href": "https://home.cern/francois-englert-1932-2026/"
+            },
+            {
+                "title": "Remaking BBC test cards to teach you video processing",
+                "href": "https://www.youtube.com/watch?v=U_6HxPkrgcg"
+            },
+            {
                 "title": "Swift Package Index joins Apple",
                 "href": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
-            },
-            {
-                "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-                "href": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison"
-            },
-            {
-                "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-                "href": "https://ps.tc/pages/blog-usbliter8.html"
             },
             {
                 "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
@@ -629,52 +645,36 @@
                 "href": "https://dynomight.net/vitamin-d/"
             },
             {
+                "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+                "href": "https://ps.tc/pages/blog-usbliter8.html"
+            },
+            {
+                "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+                "href": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison"
+            },
+            {
                 "title": "Dirty Little Zine \u2013 a tool for making an 8 page printable Zine",
                 "href": "https://dirtylittlezine.com/"
-            },
-            {
-                "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-                "href": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
-            },
-            {
-                "title": "Show HN: Graphical SQL Builder and Debugger",
-                "href": "https://github.com/webofmarius/SQLJoiner"
             },
             {
                 "title": "Millimeter wave technology drills 100 meters into granite",
                 "href": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/"
             },
             {
-                "title": "Lithp.py (~2008)",
-                "href": "https://fogus.me/fun/lithp/"
-            },
-            {
                 "title": "The Teensy Executable Revisited",
                 "href": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html"
-            },
-            {
-                "title": "Inventing the Future, One Lisp Machine at a Time",
-                "href": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/"
             },
             {
                 "title": "F* file system \u2013 file search that reads SSD directly bypassing OS kernel",
                 "href": "https://github.com/dmtrKovalenko/ffs"
             },
             {
-                "title": "Fired by Google for creating the Google workspace CLI",
-                "href": "https://twitter.com/JPoehnelt/status/2069482265953087602"
-            },
-            {
-                "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-                "href": "https://github.com/End2End-Diffusion/diffusion-bench"
-            },
-            {
                 "title": "The Low-Tech AI of Elden Ring",
                 "href": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
             },
             {
-                "title": "Five monitors on a Commodore 128 [video]",
-                "href": "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
+                "title": "Fired by Google for creating the Google workspace CLI",
+                "href": "https://twitter.com/JPoehnelt/status/2069482265953087602"
             }
         ]
     }
