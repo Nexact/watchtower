@@ -15,6 +15,10 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1upy3gm/gitlost_a_public_github_issue_can_steer_an_orgs/"
             },
             {
+                "title": "Bad Epoll: The bug missed by Mythos",
+                "href": "https://old.reddit.com/r/netsec/comments/1uqe6g8/bad_epoll_the_bug_missed_by_mythos/"
+            },
+            {
                 "title": "New OST2 class: \"Architecture 1901: From zero to QEMU - A Gentle introduction to emulators from the ground up!\"",
                 "href": "https://old.reddit.com/r/netsec/comments/1uoz05q/new_ost2_class_architecture_1901_from_zero_to/"
             },
@@ -97,10 +101,6 @@
             {
                 "title": "Use-after-free in the QPACK encoder of nginx HTTP/3 - CVE-2026-42530",
                 "href": "https://old.reddit.com/r/netsec/comments/1uab0j6/useafterfree_in_the_qpack_encoder_of_nginx_http3/"
-            },
-            {
-                "title": "Squidbleed (CVE-2026-47729) - Heartbleed-style vulnerability that leaks internal memory from every version of Squid Proxy, in its default configuration",
-                "href": "https://old.reddit.com/r/netsec/comments/1u9y7yw/squidbleed_cve202647729_heartbleedstyle/"
             }
         ]
     },
@@ -557,48 +557,80 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+                "href": "https://www.gao.gov/products/gao-26-108193"
+            },
+            {
+                "title": "Is The Economist Always Wrong?",
+                "href": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong"
+            },
+            {
+                "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+                "href": "https://kb.cert.org/vuls/id/213560"
+            },
+            {
                 "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
                 "href": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
+            },
+            {
+                "title": "Canada's only watchmaking school still ticking after 80 years",
+                "href": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211"
             },
             {
                 "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
                 "href": "https://streetcomplete.app/"
             },
             {
-                "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-                "href": "https://www.gao.gov/products/gao-26-108193"
+                "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+                "href": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
             },
             {
                 "title": "Chat Control 1.0 and 2.0 Explained",
                 "href": "https://fightchatcontrol.eu/chat-control-overview"
             },
             {
+                "title": "Show HN: Chiptune Radio",
+                "href": "https://chiptune-radio.alephvoid.com/"
+            },
+            {
                 "title": "Show HN: Davit, a Apple Containers UI",
                 "href": "https://davit.app"
             },
             {
-                "title": "Every new car sold in the European Union must include a driver monitoring camera",
-                "href": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
+                "title": "An interactive explorer for Benford's Law across real datasets",
+                "href": "https://vatsalbakshi.com/blog/benfords-law/"
             },
             {
-                "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
-                "href": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php"
-            },
-            {
-                "title": "Herdr: One terminal to rule them all",
-                "href": "https://herdr.dev/"
-            },
-            {
-                "title": "A better way to tie gym shorts (or any drawstring) [video]",
-                "href": "https://www.youtube.com/watch?v=3R0Lp86GEBk"
+                "title": "We're extending access to Fable 5 on all paid plans through July 12",
+                "href": "https://twitter.com/claudeai/status/2074548242386178258"
             },
             {
                 "title": "30papers.com \u2013 Ilya's 30 essential ML papers, in a beginner friendly format",
                 "href": "https://30papers.com/"
             },
             {
+                "title": "A better way to tie gym shorts (or any drawstring) [video]",
+                "href": "https://www.youtube.com/watch?v=3R0Lp86GEBk"
+            },
+            {
+                "title": "Herdr: One terminal to rule them all",
+                "href": "https://herdr.dev/"
+            },
+            {
+                "title": "Scheme Is a Hoot",
+                "href": "https://gracefulliberty.com/notes/scheme-is-a-hoot/"
+            },
+            {
+                "title": "Every new car sold in the European Union must include a driver monitoring camera",
+                "href": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
+            },
+            {
                 "title": "l: A new runtime for k and q",
                 "href": "https://lv1.sh/"
+            },
+            {
+                "title": "First Principles of Model Routing",
+                "href": "https://try.works/first-principles-of-model-routing"
             },
             {
                 "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
@@ -611,6 +643,10 @@
             {
                 "title": "Jim's TrueType QR Code Font",
                 "href": "https://github.com/jimparis/qr-font"
+            },
+            {
+                "title": "Show HN: Fortress \u2013 a stealth Chromium so your agents stop getting blocked",
+                "href": "https://github.com/tiliondev/fortress"
             },
             {
                 "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
@@ -629,52 +665,16 @@
                 "href": "https://pgdog.dev/blog/why-yet-another-connection-pooler"
             },
             {
-                "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-                "href": "https://github.com/kklimuk/docx-cli"
-            },
-            {
-                "title": "Camera with transparent display launches for the equivalent of $29",
-                "href": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html"
-            },
-            {
                 "title": "Why skilled workers come to Germany and then leave again",
                 "href": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162"
             },
             {
-                "title": "Microsoft fire idTech team at Id software",
-                "href": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/"
+                "title": "Show HN: Free Mermaid Diagram Editor",
+                "href": "https://moxiedocs.com/mermaid-diagram-editor"
             },
             {
-                "title": "Automating AI Away",
-                "href": "https://replicated.live/blog/away"
-            },
-            {
-                "title": "Chat Control passed first round in EU Parliament",
-                "href": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html"
-            },
-            {
-                "title": "MacSurf 1.68 \u2013 NetSurf on OS 9 Released",
-                "href": "https://github.com/mplsllc/macsurf/releases/tag/v1.86"
-            },
-            {
-                "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
-                "href": "https://cccg.ca/proceedings/2008/paper34full.pdf"
-            },
-            {
-                "title": "China sentences official to death for taking $325M in bribes",
-                "href": "https://www.bbc.com/news/articles/c33y0n1v1xjo"
-            },
-            {
-                "title": "98% isn't much",
-                "href": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/"
-            },
-            {
-                "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-                "href": "https://9mothers.com/careers"
-            },
-            {
-                "title": "Astro 7.0",
-                "href": "https://astro.build/blog/astro-7/"
+                "title": "Git Hash Chain Malleability",
+                "href": "https://arxiv.org/abs/2607.02820"
             }
         ]
     }
