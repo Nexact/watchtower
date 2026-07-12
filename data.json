@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Linus Torvalds on AI, Junk Patches, Humans, and Godzilla",
+                "href": "https://linux.slashdot.org/story/26/07/12/2053201/linus-torvalds-on-ai-junk-patches-humans-and-godzilla?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Elon Musk And Sam Altman Spar On X After Apple Files OpenAI Lawsuit",
                 "href": "https://tech.slashdot.org/story/26/07/12/1842219/elon-musk-and-sam-altman-spar-on-x-after-apple-files-openai-lawsuit?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "This Factory Was Severely Short On Workers. Then It Offered Flexible Work.",
                 "href": "https://it.slashdot.org/story/26/07/11/0639259/this-factory-was-severely-short-on-workers-then-it-offered-flexible-work?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "China's AI Companies May Be 'Distilling' America's AI Models",
-                "href": "https://slashdot.org/story/26/07/11/040239/chinas-ai-companies-may-be-distilling-americas-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -557,6 +557,18 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+                "href": "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+            },
+            {
+                "title": "Tiny Emulators",
+                "href": "https://floooh.github.io/tiny8bit-preview/index.html"
+            },
+            {
+                "title": "Storm clouds gather over America's financial supremacy",
+                "href": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy"
+            },
+            {
                 "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
                 "href": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
             },
@@ -565,56 +577,72 @@
                 "href": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"
             },
             {
-                "title": "I love LLMs, I hate hype",
-                "href": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"
-            },
-            {
-                "title": "Tiny Emulators",
-                "href": "https://floooh.github.io/tiny8bit-preview/index.html"
-            },
-            {
                 "title": "I Learned to Read Again",
                 "href": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again"
-            },
-            {
-                "title": "The One-Step Trap (In AI Research)",
-                "href": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
-            },
-            {
-                "title": "Against Usefulness",
-                "href": "https://www.motivenotes.ai/p/against-usefulness"
-            },
-            {
-                "title": "LARP \u2013 Revenue infrastructure for serious founders",
-                "href": "https://www.larp.website/"
-            },
-            {
-                "title": "Automation Without Understanding",
-                "href": "https://arxiv.org/abs/2607.06377"
-            },
-            {
-                "title": "Why write code in 2026",
-                "href": "https://softwaredoug.com/blog/2026/07/09/write-code"
-            },
-            {
-                "title": "Don't you mean extinct?",
-                "href": "https://fabiensanglard.net/extinct/index.html"
             },
             {
                 "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
                 "href": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
             },
             {
-                "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
-                "href": "https://buildnectar.com"
+                "title": "Irish datacenters now guzzle 23% of the country's electricity",
+                "href": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
             },
             {
-                "title": "Neocities: Create your own free website",
-                "href": "https://neocities.org/"
+                "title": "I love LLMs, I hate hype",
+                "href": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"
+            },
+            {
+                "title": "Why write code in 2026",
+                "href": "https://softwaredoug.com/blog/2026/07/09/write-code"
+            },
+            {
+                "title": "The One-Step Trap (In AI Research)",
+                "href": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
+            },
+            {
+                "title": "Automation Without Understanding",
+                "href": "https://arxiv.org/abs/2607.06377"
+            },
+            {
+                "title": "LARP \u2013 Revenue infrastructure for serious founders",
+                "href": "https://www.larp.website/"
+            },
+            {
+                "title": "Against Usefulness",
+                "href": "https://www.motivenotes.ai/p/against-usefulness"
+            },
+            {
+                "title": "Don't you mean extinct?",
+                "href": "https://fabiensanglard.net/extinct/index.html"
+            },
+            {
+                "title": "Deir El-Medina Strikes",
+                "href": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes"
             },
             {
                 "title": "How to read more books",
                 "href": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
+            },
+            {
+                "title": "The State of MCP Security [pdf]",
+                "href": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf"
+            },
+            {
+                "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+                "href": "https://nanduruganesh.github.io/flash-msa/"
+            },
+            {
+                "title": "So you want to learn physics (second edition, 2021)",
+                "href": "https://www.susanrigetti.com/physics"
+            },
+            {
+                "title": "Defining new Jax types with hijax",
+                "href": "https://docs.jax.dev/en/latest/hijax_types.html"
+            },
+            {
+                "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+                "href": "https://www.adaptiverecall.com/"
             },
             {
                 "title": "The shingles vaccine may reduce the risk of dementia",
@@ -625,36 +653,20 @@
                 "href": "https://hidden-phenomena.com/articles/modular"
             },
             {
-                "title": "Deir El-Medina Strikes",
-                "href": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes"
-            },
-            {
-                "title": "Can We Understand How Large Language Models Reason?",
-                "href": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/"
-            },
-            {
-                "title": "Irish datacenters now guzzle 23% of the country's electricity",
-                "href": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
-            },
-            {
-                "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-                "href": "https://marc.info/?l=openbsd-misc&m=119318909016582"
-            },
-            {
-                "title": "The power of collaboration: How we can reduce traffic congestion",
-                "href": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/"
-            },
-            {
-                "title": "The Seed Beneath the Snow",
-                "href": "https://eli.li/the-seed-beneath-the-snow"
+                "title": "Neocities: Create your own free website",
+                "href": "https://neocities.org/"
             },
             {
                 "title": "Understanding the Odin programming language",
                 "href": "https://odinbook.com/"
             },
             {
-                "title": "Defining new Jax types with hijax",
-                "href": "https://docs.jax.dev/en/latest/hijax_types.html"
+                "title": "Show HN: Zen Mode \u2013 a global focus mode for macOS",
+                "href": "https://github.com/cabeen/zen-mode"
+            },
+            {
+                "title": "The power of collaboration: How we can reduce traffic congestion",
+                "href": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/"
             },
             {
                 "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
@@ -663,18 +675,6 @@
             {
                 "title": "Ghostel.el: Terminal emulator powered by libghostty",
                 "href": "https://dakra.github.io/ghostel/"
-            },
-            {
-                "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
-                "href": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
-            },
-            {
-                "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-                "href": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
-            },
-            {
-                "title": "Croc: Securely transfer files and folders between two computers",
-                "href": "https://github.com/schollz/croc/"
             }
         ]
     }
