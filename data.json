@@ -15,8 +15,16 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/"
             },
             {
+                "title": "Context Bombs: Using AI Guardrails as a defensive mechanism",
+                "href": "https://old.reddit.com/r/netsec/comments/1uvqpri/context_bombs_using_ai_guardrails_as_a_defensive/"
+            },
+            {
                 "title": "CET-Compliant Callstack Spoofing via Thread Pool & Enum Callback Trampolining (Rust PoC)",
                 "href": "https://old.reddit.com/r/netsec/comments/1uvnbim/cetcompliant_callstack_spoofing_via_thread_pool/"
+            },
+            {
+                "title": "ExporTheft: 11 \"AI Chat Exporter\" Chrome extensions upload full chat content on PDF export, while the store listing says \"No uploads to external servers\"",
+                "href": "https://old.reddit.com/r/netsec/comments/1uvrnbg/exportheft_11_ai_chat_exporter_chrome_extensions/"
             },
             {
                 "title": "Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver",
@@ -93,14 +101,6 @@
             {
                 "title": "I tried a Local AI model (Qwen 3.6 27b) for security research and it works surprisingly well.",
                 "href": "https://old.reddit.com/r/netsec/comments/1uhveou/i_tried_a_local_ai_model_qwen_36_27b_for_security/"
-            },
-            {
-                "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-                "href": "https://old.reddit.com/r/netsec/comments/1uhue36/dissecting_apples_sparse_image_format_asif/"
-            },
-            {
-                "title": "A peek into Reddit's anti-spam internals",
-                "href": "https://old.reddit.com/r/netsec/comments/1uh7zpx/a_peek_into_reddits_antispam_internals/"
             }
         ]
     },
@@ -218,6 +218,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Microsoft Promises To Fix Search With Major Windows 11 Overhaul",
+                "href": "https://tech.slashdot.org/story/26/07/13/2149251/microsoft-promises-to-fix-search-with-major-windows-11-overhaul?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "US Government Warns That Russia State Hackers Are Coming After Your Router",
                 "href": "https://it.slashdot.org/story/26/07/13/2139254/us-government-warns-that-russia-state-hackers-are-coming-after-your-router?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,10 +276,6 @@
             {
                 "title": "'Forget Coders. The Real AI Threat Is In the Back Office'",
                 "href": "https://it.slashdot.org/story/26/07/12/2224249/forget-coders-the-real-ai-threat-is-in-the-back-office?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Linus Torvalds on AI, Junk Patches, Humans, and Godzilla",
-                "href": "https://linux.slashdot.org/story/26/07/12/2053201/linus-torvalds-on-ai-junk-patches-humans-and-godzilla?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -346,7 +346,208 @@
     },
     {
         "feedname": "cybercentre",
-        "items": []
+        "items": [
+            {
+                "title": "Red Hat security advisory (AV26-688)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-688"
+            },
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV26\u2013687)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-687"
+            },
+            {
+                "title": "Ubuntu security advisory (AV26-686)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-686"
+            },
+            {
+                "title": "Dell security advisory (AV26-685)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-685"
+            },
+            {
+                "title": "IBM security advisory (AV26-684)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-684"
+            },
+            {
+                "title": "BitWarden security advisory (AV26-683)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/bitwarden-security-advisory-av26-683"
+            },
+            {
+                "title": "AL25-007 - Vulnerability impacting Roundcube Webmail \u2013 CVE-2025-49113 \u2013 Update 1",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/vulnerability-impacting-roundcube-webmail-cve-2025-49113"
+            },
+            {
+                "title": "Microsoft Edge security advisory (AV26-682)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-682"
+            },
+            {
+                "title": "Broadcom VMware security advisory (AV26-681)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-681"
+            },
+            {
+                "title": "Django security advisory (AV26-084) \u2013 Update 1",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-084"
+            },
+            {
+                "title": "FreePBX security advisory (AV26-680)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-680"
+            },
+            {
+                "title": "Google Chrome security advisory (AV26-679)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-679"
+            },
+            {
+                "title": "Progress security advisory (AV26-678)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-678"
+            },
+            {
+                "title": "GitLab security advisory (AV26-677)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-677"
+            },
+            {
+                "title": "Drupal security advisory (AV26-676)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-676"
+            },
+            {
+                "title": "Juniper Networks security advisory (AV26-675)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-675"
+            },
+            {
+                "title": "Palo Alto Networks security advisory (AV26-674)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-674"
+            },
+            {
+                "title": "Tanium security advisory (AV26-673)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-673"
+            },
+            {
+                "title": "n8n security advisory (AV26-672)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-672"
+            },
+            {
+                "title": "Ubiquiti security advisory (AV26-671)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/cyber-n8n-security-advisory-av26-672"
+            },
+            {
+                "title": "Langflow security advisory (AV26-670)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/langflow-security-advisory-av26-670"
+            },
+            {
+                "title": "Adobe security advisory (AV26-647) \u2013 Update 2",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-647"
+            },
+            {
+                "title": "Google Chrome security advisory (AV26-669)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-669"
+            },
+            {
+                "title": "HPE security advisory (AV26-668)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-668"
+            },
+            {
+                "title": "Zimbra security advisory (AV26-667)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-667"
+            },
+            {
+                "title": "Django security advisory (AV26-666)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-666"
+            },
+            {
+                "title": "Samsung mobile security advisory (AV26-665)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/samsung-mobile-security-advisory-av26-665"
+            },
+            {
+                "title": "[Control systems] ABB security advisory (AV26-664)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-664"
+            },
+            {
+                "title": "Broadcom VMware security advisory (AV26-663)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-663"
+            },
+            {
+                "title": "Android security advisory \u2013 July 2026 monthly rollup (AV26-662)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2026-monthly-rollup-av26-662"
+            },
+            {
+                "title": "Qualcomm security advisory \u2013 July 2026 monthly rollup (AV26-661)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-july-2026-monthly-rollup-av26-661"
+            },
+            {
+                "title": "BeyondTrust security advisory (AV26-660)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-660"
+            },
+            {
+                "title": "Microsoft Edge security advisory (AV26-659)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-659"
+            },
+            {
+                "title": "OpenSSH security advisory (AV26-658)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av26-658"
+            },
+            {
+                "title": "Roundcube security advisory (AV26-657)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av26-657"
+            },
+            {
+                "title": "IBM security advisory (AV26-656)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-656"
+            },
+            {
+                "title": "[Control systems] CISA ICS security advisories (AV26\u2013655)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-655"
+            },
+            {
+                "title": "Dell security advisory (AV26-654)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-654"
+            },
+            {
+                "title": "Ubuntu security advisory (AV26-653)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-653"
+            },
+            {
+                "title": "Red Hat security advisory (AV26-652)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-652"
+            },
+            {
+                "title": "Erlang security advisory (AV26-651)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-651"
+            },
+            {
+                "title": "GitHub security advisory (AV26-650)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-650"
+            },
+            {
+                "title": "WatchGuard security advisory (AV26-649)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-649"
+            },
+            {
+                "title": "AL26-016 - Vulnerability impacting Citrix NetScaler CVE-2026-8451",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/al26-016-vulnerability-impacting-citrix-netscaler-cve-2026-8451"
+            },
+            {
+                "title": "Progress security advisory (AV26-552) \u2013 Update 1",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-552"
+            },
+            {
+                "title": "Google Chrome security advisory (AV26-648)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-648"
+            },
+            {
+                "title": "Cisco security advisory (AV26-646)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-646"
+            },
+            {
+                "title": "AL26-015 - Critical vulnerability impacting Microsoft SharePoint Server \u2013 CVE-2026-45659",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/al26-015-critical-vulnerability-impacting-microsoft-sharepoint-server-cve-2026-45659"
+            },
+            {
+                "title": "Citrix security advisory (AV26-645) \u2013 Update 1",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-645"
+            },
+            {
+                "title": "Mozilla security advisory (AV26-644)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-644"
+            }
+        ]
     },
     {
         "feedname": "packetstorm",
@@ -356,7 +557,11 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+                "title": "\u2018Asia's cleanest village\u2019 bans tourists on Sundays",
+                "href": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays"
+            },
+            {
+                "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
                 "href": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
             },
             {
@@ -364,20 +569,12 @@
                 "href": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
             },
             {
-                "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-                "href": "https://github.com/Poseidon-fan/linux-0.11-rs"
-            },
-            {
-                "title": "Climate.gov was destroyed. Open data saved it",
-                "href": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/"
+                "title": "Claude is just Mr. Meeseeks",
+                "href": "https://github.com/thephw/claude-meseeks"
             },
             {
                 "title": "Show HN: YouTube Guitar Tab Parser",
                 "href": "https://github.com/marcelpanse/youtube-guitar-tab-parser"
-            },
-            {
-                "title": "The real prices of frontier models. Tokens * Price, right?",
-                "href": "https://playcode.io/blog/real-price-of-frontier-models"
             },
             {
                 "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
@@ -388,16 +585,32 @@
                 "href": "https://fabiensanglard.net/silpheed/index.html"
             },
             {
-                "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-                "href": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7"
+                "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+                "href": "https://github.com/Poseidon-fan/linux-0.11-rs"
+            },
+            {
+                "title": "The real prices of frontier models",
+                "href": "https://playcode.io/blog/real-price-of-frontier-models"
             },
             {
                 "title": "Telegram's t.me domain has been suspended",
                 "href": "https://www.whois.com/whois/t.me"
             },
             {
+                "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+                "href": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7"
+            },
+            {
                 "title": "Samsung Health app threatens data deletion if users opt out AI training",
                 "href": "https://neow.in/cWsyMTV3"
+            },
+            {
+                "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+                "href": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php"
+            },
+            {
+                "title": "Climate.gov was destroyed. Open data saved it",
+                "href": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/"
             },
             {
                 "title": "TFTP Honey Pot Results",
@@ -412,12 +625,12 @@
                 "href": "https://github.com/jbwinters/jacquard-lang"
             },
             {
-                "title": "Ancient Roman Board Game",
-                "href": "https://ludus-coriovalli.web.app/"
+                "title": "Collaboration Networks in Brazilian Computer Science",
+                "href": "https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/"
             },
             {
-                "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
-                "href": "https://humansand.ai/blog/nvfp4-rl"
+                "title": "Ancient Roman Board Game",
+                "href": "https://ludus-coriovalli.web.app/"
             },
             {
                 "title": "The Origins of Heikki's Garden of Flowers",
@@ -428,6 +641,14 @@
                 "href": "https://nobie.com"
             },
             {
+                "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
+                "href": "https://humansand.ai/blog/nvfp4-rl"
+            },
+            {
+                "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
+                "href": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/"
+            },
+            {
                 "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
                 "href": "https://jivx.com/densha"
             },
@@ -436,44 +657,24 @@
                 "href": "https://github.com/morganwilliscloud/billai-bass"
             },
             {
-                "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
-                "href": "https://esologic.com/benchmarking-tesla-gpus/"
-            },
-            {
-                "title": "Robust Secret Storage in Networks",
-                "href": "https://arxiv.org/abs/2606.30261"
-            },
-            {
-                "title": "LAPD lets contract with surveillance giant Flock expire",
-                "href": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"
-            },
-            {
-                "title": "Show HN: OpenClawMachines \u2013 Extending OpenClaw to the Enterprise",
-                "href": "https://github.com/mathaix/OpenClawMachines"
-            },
-            {
-                "title": "Show HN: DOM-docx \u2013 HTML to native, editable Word docs (MIT)",
-                "href": "https://github.com/floodtide/dom-docx"
+                "title": "Manifest Man",
+                "href": "https://www.thenewcritic.com/p/manifest-man"
             },
             {
                 "title": "Show HN: Sigwire \u2013 a live TUI switchboard for every signal on your Linux box",
                 "href": "https://github.com/yeet-src/sigwire"
             },
             {
-                "title": "Tune Code Before Your Garbage Collector",
-                "href": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html"
+                "title": "Robust Secret Storage in Networks",
+                "href": "https://arxiv.org/abs/2606.30261"
             },
             {
-                "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-                "href": "https://nebusec.ai/research/ionstack-part-2/"
+                "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+                "href": "https://esologic.com/benchmarking-tesla-gpus/"
             },
             {
-                "title": "Ask HN: What Are You Working On? (July 2026)",
-                "href": "item?id=48884984"
-            },
-            {
-                "title": "The 'absolute magic' of Morse code that still connects people globally",
-                "href": "https://www.bbc.com/news/articles/cwye0dlzgejo"
+                "title": "Show HN: OpenClawMachines \u2013 Extending OpenClaw to the Enterprise",
+                "href": "https://github.com/mathaix/OpenClawMachines"
             }
         ]
     }
