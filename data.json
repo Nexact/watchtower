@@ -39,12 +39,12 @@
                 "href": "https://old.reddit.com/r/netsec/comments/1uvnbim/cetcompliant_callstack_spoofing_via_thread_pool/"
             },
             {
-                "title": "Persistence via Fake AMSI Provider | Playbook & Detection Strategies",
-                "href": "https://old.reddit.com/r/netsec/comments/1uv54e4/persistence_via_fake_amsi_provider_playbook/"
-            },
-            {
                 "title": "Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver",
                 "href": "https://old.reddit.com/r/netsec/comments/1uuquzx/vulnerability_in_realtek_driver_allows_dma/"
+            },
+            {
+                "title": "Persistence via Fake AMSI Provider | Playbook & Detection Strategies",
+                "href": "https://old.reddit.com/r/netsec/comments/1uv54e4/persistence_via_fake_amsi_provider_playbook/"
             },
             {
                 "title": "Scanning malicious websites with arbitrary number of VPN tunnels (Part 2)",
@@ -108,7 +108,11 @@
         "feedname": "bleepingcomputer",
         "items": [
             {
-                "title": "\u200b    \u200bAsyncAPI npm packages infected with credential-stealing malware",
+                "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+                "href": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/"
+            },
+            {
+                "title": "AsyncAPI npm packages infected with credential-stealing malware",
                 "href": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/"
             },
             {
@@ -162,10 +166,6 @@
             {
                 "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
                 "href": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/"
-            },
-            {
-                "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/"
             }
         ]
     },
@@ -218,6 +218,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Google and Epic Cancel Settlement; Third-Party App Stores Coming To Google Play",
+                "href": "https://yro.slashdot.org/story/26/07/15/1738217/google-and-epic-cancel-settlement-third-party-app-stores-coming-to-google-play?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "FreeBSD 16 Retires the Last of Its GPL Code",
+                "href": "https://bsd.slashdot.org/story/26/07/15/1727252/freebsd-16-retires-the-last-of-its-gpl-code?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "OpenAI Launches a Keypad for AI Agents",
                 "href": "https://hardware.slashdot.org/story/26/07/15/1659217/openai-launches-a-keypad-for-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -268,14 +276,6 @@
             {
                 "title": "IBM Stock Collapses After a Grave Warning About AI",
                 "href": "https://hardware.slashdot.org/story/26/07/14/1634227/ibm-stock-collapses-after-a-grave-warning-about-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "New York Becomes First State To Impose Data Center Moratorium",
-                "href": "https://news.slashdot.org/story/26/07/14/1520222/new-york-becomes-first-state-to-impose-data-center-moratorium?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "StubHub, CEO Hit With 'Deceptive Practices' Class Action Over Mass Scalping",
-                "href": "https://yro.slashdot.org/story/26/07/14/0735222/stubhub-ceo-hit-with-deceptive-practices-class-action-over-mass-scalping?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -347,6 +347,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "AL26-017 - Critical vulnerabilities impacting Microsoft SharePoint Server \u2013 CVE-2026-56164, CVE-2026-55040 and CVE-2026-58644",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/al26-017-critical-vulnerabilities-impacting-microsoft-sharepoint-server-cve-2026-56164-cve-2026-55040-cve-2026-58644"
+            },
             {
                 "title": "Tenable security advisory (AV26-705)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-705"
@@ -542,10 +546,6 @@
             {
                 "title": "BeyondTrust security advisory (AV26-660)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-660"
-            },
-            {
-                "title": "Microsoft Edge security advisory (AV26-659)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-659"
             }
         ]
     },
@@ -557,20 +557,44 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+                "href": "https://thinkingmachines.ai/inkling/"
+            },
+            {
+                "title": "I Left Google DeepMind",
+                "href": "https://turntrout.com/why-i-left-google-deepmind"
+            },
+            {
+                "title": "Inkling: Our Open-Weights Model",
+                "href": "https://thinkingmachines.ai/news/introducing-inkling/"
+            },
+            {
+                "title": "Codex Micro",
+                "href": "https://openai.com/supply/co-lab/work-louder/"
+            },
+            {
                 "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
                 "href": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
+            },
+            {
+                "title": "Stripe, Advent offer to buy PayPal for more than $53B",
+                "href": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/"
             },
             {
                 "title": "Mysteries of Telegram Data Centers",
                 "href": "https://dev.moe/en/3025"
             },
             {
-                "title": "Open-source memory for coding agents, synced over SSH",
-                "href": "https://github.com/vshulcz/deja-vu/"
+                "title": "Collection of Digital Clock Designs",
+                "href": "https://clocks.dev"
             },
             {
                 "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
                 "href": "https://github.com/welcome-to-the-sunny-side/misa77"
+            },
+            {
+                "title": "Artie (YC S23) Is Hiring Software Engineers",
+                "href": "https://jobs.ashbyhq.com/artie"
             },
             {
                 "title": "Prioritize mental health, and why communication is so important",
@@ -581,52 +605,40 @@
                 "href": "https://coasty.ai/docs"
             },
             {
-                "title": "Artie (YC S23) Is Hiring Software Engineers",
-                "href": "https://jobs.ashbyhq.com/artie"
-            },
-            {
-                "title": "Jurassic Park computers in excruciating detail",
-                "href": "https://fabiensanglard.net/jurrasic_park_computers/index.html"
+                "title": "Towards a Harness That Can Do Anything",
+                "href": "https://eardatasci.github.io/c/ambiance/index.html"
             },
             {
                 "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
                 "href": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269"
             },
             {
-                "title": "Collection of Digital Clock Designs",
-                "href": "https://clocks.dev"
-            },
-            {
                 "title": "My midlife crisis Corolla is fast, furious, and modded",
                 "href": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/"
             },
             {
-                "title": "Towards a Harness That Can Do Anything",
-                "href": "https://eardatasci.github.io/c/ambiance/index.html"
+                "title": "What designing 54 computer science cards taught me about graphic design",
+                "href": "https://fhoehl.com/designing-algodeck"
             },
             {
-                "title": "The Memory Heist",
-                "href": "https://www.ayush.digital/blog/the-memory-heist"
+                "title": "Open-source memory for coding agents, synced over SSH",
+                "href": "https://github.com/vshulcz/deja-vu/"
+            },
+            {
+                "title": "Editing React components that never rendered",
+                "href": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered"
             },
             {
                 "title": "When A.I. Is a Member of the Family",
                 "href": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family"
             },
             {
-                "title": "The well-calibrated Bayesian [pdf] (1982)",
-                "href": "https://fitelson.org/seminar/dawid.pdf"
+                "title": "The Memory Heist",
+                "href": "https://www.ayush.digital/blog/the-memory-heist"
             },
             {
-                "title": "A General Goal-Conditioned Minecraft Model",
-                "href": "https://pantograph.com/journal/pan-1"
-            },
-            {
-                "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-                "href": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
-            },
-            {
-                "title": "Today I Rescued 7,234 Old GIFs",
-                "href": "https://danq.me/2026/07/10/rescuing-7234-gifs/"
+                "title": "Briar is in maintenance mode",
+                "href": "https://briarproject.org/news/2026-maintenance-mode/"
             },
             {
                 "title": "Unsolved Problems in MLOps",
@@ -637,6 +649,22 @@
                 "href": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/"
             },
             {
+                "title": "A General Goal-Conditioned Minecraft Model",
+                "href": "https://pantograph.com/journal/pan-1"
+            },
+            {
+                "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+                "href": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
+            },
+            {
+                "title": "The well-calibrated Bayesian [pdf] (1982)",
+                "href": "https://fitelson.org/seminar/dawid.pdf"
+            },
+            {
+                "title": "Today I Rescued 7,234 Old GIFs",
+                "href": "https://danq.me/2026/07/10/rescuing-7234-gifs/"
+            },
+            {
                 "title": "Weathergotchi \u2013 an open-source climate Tamagotchi",
                 "href": "https://github.com/Michael-Manning/E-Paper-Climate-Logger"
             },
@@ -645,36 +673,8 @@
                 "href": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game"
             },
             {
-                "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-                "href": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public"
-            },
-            {
-                "title": "What designing 54 computer science cards taught me about graphic design",
-                "href": "https://fhoehl.com/designing-algodeck"
-            },
-            {
-                "title": "SpaceX bond worth 10% less than issue price \u2013 heading for junk bond status",
-                "href": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541"
-            },
-            {
-                "title": "What Every Python Developer Should Know About the CPython ABI",
-                "href": "https://labs.quansight.org/blog/python-abi-abi3t"
-            },
-            {
-                "title": "Show HN: 18KB ls alternative in no_std rust and Libc",
-                "href": "https://crates.io/crates/fli-tool"
-            },
-            {
-                "title": "Briar Is in Maintenance Mode",
-                "href": "https://briarproject.org/news/2026-maintenance-mode/"
-            },
-            {
-                "title": "What's the most popular number in Hacker News titles?",
-                "href": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/"
-            },
-            {
-                "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
-                "href": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free"
+                "title": "Telegram Serverless",
+                "href": "https://core.telegram.org/bots/serverless"
             }
         ]
     }
