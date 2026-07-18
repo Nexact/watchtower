@@ -7,12 +7,12 @@
                 "href": "https://softwaremaxims.com/blog/reviewing-ai-code"
             },
             {
-                "title": "GitRoot",
-                "href": "https://gitroot.dev/"
-            },
-            {
                 "title": "Regressive JPEGs",
                 "href": "https://maurycyz.com/projects/bad_jpeg/"
+            },
+            {
+                "title": "GitRoot",
+                "href": "https://gitroot.dev/"
             },
             {
                 "title": "Lobsters Interview with matheusmoreira about Lone Lisp",
@@ -23,32 +23,36 @@
                 "href": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
             },
             {
-                "title": "Goodbye, and thanks for all the Bikesheds",
-                "href": "https://queue.acm.org/detail.cfm?id=3818307"
-            },
-            {
                 "title": "Enterprise Haskell at H-E-B",
                 "href": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/"
+            },
+            {
+                "title": "Goodbye, and thanks for all the Bikesheds",
+                "href": "https://queue.acm.org/detail.cfm?id=3818307"
             },
             {
                 "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel",
                 "href": "https://nextbsd.org/"
             },
             {
-                "title": "A Road to Lisp: Which Lisp",
-                "href": "https://scotto.me/blog/2026-07-17-which-lisp/"
-            },
-            {
                 "title": "neither gcc nor clang are compliant with standard c++",
                 "href": "https://sebsite.pw/w/20260708-badstdcxx.html"
             },
             {
-                "title": "How does Pangram work?",
-                "href": "https://pangram.substack.com/p/how-does-pangram-work"
+                "title": "\"Half a Second\" - a book on the XZ backdoor",
+                "href": "https://www.half-second.com/"
             },
             {
-                "title": "APL Case Studies",
-                "href": "https://www.dyalog.com/case-studies/index.htm"
+                "title": "A Road to Lisp: Which Lisp",
+                "href": "https://scotto.me/blog/2026-07-17-which-lisp/"
+            },
+            {
+                "title": "wp2shell: Pre Authentication RCE in WordPress Core",
+                "href": "https://wp2shell.com/"
+            },
+            {
+                "title": "How does Pangram work?",
+                "href": "https://pangram.substack.com/p/how-does-pangram-work"
             },
             {
                 "title": "Haunt 0.4.0 released",
@@ -59,12 +63,16 @@
                 "href": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/"
             },
             {
-                "title": "wp2shell: Pre Authentication RCE in WordPress Core",
-                "href": "https://wp2shell.com/"
+                "title": "APL Case Studies",
+                "href": "https://www.dyalog.com/case-studies/index.htm"
             },
             {
-                "title": "\"Half a Second\" - a book on the XZ backdoor",
-                "href": "https://www.half-second.com/"
+                "title": "Cache Directory Tagging Specification",
+                "href": "https://bford.info/cachedir/"
+            },
+            {
+                "title": "OpenSSL HollowByte: A DoS Hiding in 11 Bytes",
+                "href": "https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/"
             },
             {
                 "title": "Another Taste of Verse",
@@ -73,10 +81,6 @@
             {
                 "title": "topcoat: A batteries-included framework for building web apps",
                 "href": "https://github.com/tokio-rs/topcoat"
-            },
-            {
-                "title": "Cache Directory Tagging Specification",
-                "href": "https://bford.info/cachedir/"
             },
             {
                 "title": "A better bitset for enum flags",
@@ -95,12 +99,8 @@
                 "href": "https://lobste.rs/s/1vplvg/what_are_you_doing_this_weekend"
             },
             {
-                "title": "The Java Story | The Official Documentary",
-                "href": "https://www.youtube.com/watch?v=ZqGSg4b_cZA"
-            },
-            {
-                "title": "How Our Rust-to-Zig Rewrite is Going",
-                "href": "https://rtfeldman.com/rust-to-zig"
+                "title": "DOSBox on OpenVMS (Alpha CPU)",
+                "href": "https://astr0baby.online/AXP/OpenVMS/DOSBOX/"
             }
         ]
     },
@@ -118,6 +118,10 @@
             {
                 "title": "Pixels to Payload: Dissecting a Four-Stage Bitmap-Steganography Dropper Delivering AsyncRAT :: Rhys Downing",
                 "href": "https://old.reddit.com/r/netsec/comments/1v01uhq/pixels_to_payload_dissecting_a_fourstage/"
+            },
+            {
+                "title": "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
+                "href": "https://old.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/"
             },
             {
                 "title": "wp2shell: Pre Authentication RCE in WordPress Core",
@@ -202,10 +206,6 @@
             {
                 "title": "Drift Corpus: binary diffs of 240+ 2026 Windows kernel patches",
                 "href": "https://old.reddit.com/r/netsec/comments/1uqxlxq/drift_corpus_binary_diffs_of_240_2026_windows/"
-            },
-            {
-                "title": "Inside an AI coal mine security camera network powered by plaintext passwords",
-                "href": "https://old.reddit.com/r/netsec/comments/1uqz7se/inside_an_ai_coal_mine_security_camera_network/"
             }
         ]
     },
@@ -662,84 +662,80 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Speech Recognition and TTS in less than 500kb",
+                "href": "https://github.com/moonshine-ai/moonshine/tree/main/micro"
+            },
+            {
                 "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
                 "href": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
-            },
-            {
-                "title": "The Kimi K3 Moment",
-                "href": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
-            },
-            {
-                "title": "Gleam Is Now on Tangled",
-                "href": "https://tangled.org/gleam.run/gleam"
-            },
-            {
-                "title": "Goodbye, and Thanks for All the Bikesheds",
-                "href": "https://queue.acm.org/detail.cfm?id=3818307"
-            },
-            {
-                "title": "If You Build It, They Will Come",
-                "href": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come"
-            },
-            {
-                "title": "Is this the end of the once-mighty GoPro?",
-                "href": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/"
-            },
-            {
-                "title": "Elixir-lang.org has a new design",
-                "href": "https://elixir-lang.org/"
-            },
-            {
-                "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-                "href": "https://ykdojo.github.io/claude-controls-mac/"
-            },
-            {
-                "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-                "href": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
-            },
-            {
-                "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-                "href": "https://deepmind.google/blog/our-approach-to-bioresilience/"
-            },
-            {
-                "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-                "href": "https://imaxxing.io/"
-            },
-            {
-                "title": "Regressive JPEGs",
-                "href": "https://maurycyz.com/projects/bad_jpeg/"
             },
             {
                 "title": "Typing Speed Test, but for Developers",
                 "href": "https://haxxorwpm.0s.is/"
             },
             {
-                "title": "LG monitors silently install software through Windows Update without consent",
-                "href": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
+                "title": "If You Build It, They Will Come",
+                "href": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come"
             },
             {
-                "title": "A Second-Grade Teacher Revived a Beloved Video Game",
-                "href": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html"
+                "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+                "href": "https://ykdojo.github.io/claude-controls-mac/"
             },
             {
                 "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
                 "href": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/"
             },
             {
-                "title": "Tech note: making your own V-I plots at home",
-                "href": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots"
+                "title": "Gleam Is Now on Tangled",
+                "href": "https://tangled.org/gleam.run/gleam"
+            },
+            {
+                "title": "Is this the end of the once-mighty GoPro?",
+                "href": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/"
+            },
+            {
+                "title": "The Kimi K3 Moment",
+                "href": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
+            },
+            {
+                "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+                "href": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
+            },
+            {
+                "title": "Elixir-lang.org has a new design",
+                "href": "https://elixir-lang.org/"
+            },
+            {
+                "title": "Regressive JPEGs",
+                "href": "https://maurycyz.com/projects/bad_jpeg/"
+            },
+            {
+                "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+                "href": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+            },
+            {
+                "title": "LG monitors silently install software through Windows Update without consent",
+                "href": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
+            },
+            {
+                "title": "Goodbye, and Thanks for All the Bikesheds",
+                "href": "https://queue.acm.org/detail.cfm?id=3818307"
+            },
+            {
+                "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+                "href": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html"
             },
             {
                 "title": "Show HN: Q3Edit \u2013 Edit and play Quake 3 maps in the browser",
                 "href": "https://q3edit.com"
             },
             {
-                "title": "How GitHub gave every repository a durable owner",
-                "href": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
+                "title": "Tech note: making your own V-I plots at home",
+                "href": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots"
             },
             {
-                "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-                "href": "https://reotrucks.com"
+                "title": "How GitHub gave every repository a durable owner",
+                "href": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
             },
             {
                 "title": "What AI did to stackoverflow in a graph",
@@ -750,10 +746,6 @@
                 "href": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/"
             },
             {
-                "title": "Thanks HN for 15 years of support and helping me find my life's work",
-                "href": "item?id=48949551"
-            },
-            {
                 "title": "GTX 1080s: Testing a Legend",
                 "href": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends"
             },
@@ -762,24 +754,32 @@
                 "href": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/"
             },
             {
-                "title": "Reviving a 15-year-old netbook with Arch Linux",
-                "href": "https://parksb.github.io/en/article/41.html"
-            },
-            {
                 "title": "Fake food delivery site for the dopamine",
                 "href": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/"
             },
             {
-                "title": "Qubes OS Security in the Public Record",
-                "href": "https://arxiv.org/abs/2607.14587"
+                "title": "Reviving a 15-year-old netbook with Arch Linux",
+                "href": "https://parksb.github.io/en/article/41.html"
             },
             {
                 "title": "The Zilog Z80 has turned 50",
                 "href": "https://goliath32.com/blog/z80.html"
             },
             {
+                "title": "Qubes OS Security in the Public Record",
+                "href": "https://arxiv.org/abs/2607.14587"
+            },
+            {
+                "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+                "href": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
+            },
+            {
                 "title": "EU ban on destruction of unsold clothes and shoes enters into application",
                 "href": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en"
+            },
+            {
+                "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+                "href": "https://reotrucks.com"
             }
         ]
     }
