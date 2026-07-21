@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Human mathematicians are being outcounterexampled",
+                "href": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/"
+            },
+            {
                 "title": "Gitolite",
                 "href": "https://gitolite.com/gitolite/index.html"
             },
@@ -11,24 +15,36 @@
                 "href": "https://tinkering.xyz/bedctl/"
             },
             {
+                "title": "InvisiCaps: The Fil-C Capability Model",
+                "href": "https://fil-c.org/invisicaps"
+            },
+            {
                 "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
                 "href": "https://soteria-tools.com/blog/meta-garbage-collection"
             },
             {
-                "title": "InvisiCaps: The Fil-C Capability Model",
-                "href": "https://fil-c.org/invisicaps"
+                "title": "95 reasons for having your own website",
+                "href": "https://bellkiosk.website/blog/reasons-to-website.html"
             },
             {
                 "title": "A deep dive into my Forgejo setup",
                 "href": "https://a.l3x.in/blog/welcome-to-my-forge/"
             },
             {
+                "title": "How Gnutella Scaled to Handle Query Traffic",
+                "href": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html"
+            },
+            {
+                "title": "432 Linux kernel CVEs published in the last 24 hours",
+                "href": "https://lore.kernel.org/linux-cve-announce/"
+            },
+            {
                 "title": "Minimal Git CI using hooks",
                 "href": "https://mccd.space/posts/26-06-29/simple-git-ci"
             },
             {
-                "title": "How Gnutella Scaled to Handle Query Traffic",
-                "href": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html"
+                "title": "An informal tutorial on Joy",
+                "href": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html"
             },
             {
                 "title": "Building an AmigaOS Development Environment in 2026",
@@ -39,16 +55,24 @@
                 "href": "https://words.filippo.io/passkey-record/"
             },
             {
-                "title": "JSON5E - JSON5 for Humans",
-                "href": "https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md"
-            },
-            {
                 "title": "Secrets Don\u2019t Belong in Config",
                 "href": "https://secretspec.dev/blog/secrets-dont-belong-in-config/"
             },
             {
-                "title": "An informal tutorial on Joy",
-                "href": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html"
+                "title": "JSON5E - JSON5 for Humans",
+                "href": "https://github.com/boris-kolpackov/libpdjson5/blob/master/JSON5E.md"
+            },
+            {
+                "title": "Type Safe Servant Auth Roles",
+                "href": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/"
+            },
+            {
+                "title": "Using a SSH bastion, but only when I'm touching grass",
+                "href": "https://evertpot.com/ssh-tunnel-if-unresolvable/"
+            },
+            {
+                "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+                "href": "https://www.pillar.security/blog/the-week-of-sandbox-escapes"
             },
             {
                 "title": "What is your favorite blog to read recently?",
@@ -63,20 +87,12 @@
                 "href": "https://lobste.rs/s/hq0he3/what_are_you_doing_this_week"
             },
             {
-                "title": "95 reasons for having your own website",
-                "href": "https://bellkiosk.website/blog/reasons-to-website.html"
-            },
-            {
-                "title": "Type Safe Servant Auth Roles",
-                "href": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/"
-            },
-            {
-                "title": "Using a SSH bastion, but only when I'm touching grass",
-                "href": "https://evertpot.com/ssh-tunnel-if-unresolvable/"
-            },
-            {
                 "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code",
                 "href": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf"
+            },
+            {
+                "title": "Security incident disclosure \u2014 July 2026",
+                "href": "https://huggingface.co/blog/security-incident-july-2026"
             },
             {
                 "title": "Personal Anthology of Goal Code",
@@ -85,22 +101,6 @@
             {
                 "title": "Postgres 19 Compression: from pglz to LZ4",
                 "href": "https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4"
-            },
-            {
-                "title": "432 Linux kernel CVEs published in the last 24 hours",
-                "href": "https://lore.kernel.org/linux-cve-announce/"
-            },
-            {
-                "title": "Cagire - Forth-based live coding sequencer",
-                "href": "https://cagire.raphaelforment.fr"
-            },
-            {
-                "title": "A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W",
-                "href": "https://1day.dev/posts/linux-kernel-0day.html"
-            },
-            {
-                "title": "Who needs a real-time database?",
-                "href": "https://dataintellect.com/blog/who-needs-an-rdb/"
             }
         ]
     },
@@ -561,12 +561,28 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Incremental \u2013 A library for incremental computations",
+                "href": "https://github.com/janestreet/incremental"
+            },
+            {
                 "title": "Who's afraid of Chinese models?",
                 "href": "https://stratechery.com/2026/whos-afraid-of-chinese-models/"
             },
             {
-                "title": "Jellyfin founder Andrew leaves team",
-                "href": "https://forum.jellyfin.org/t-project-leadership-changes"
+                "title": "Running Doom on Our Custom CPU and Going Viral",
+                "href": "https://www.armaangomes.com/blogs/doom/"
+            },
+            {
+                "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+                "href": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/"
+            },
+            {
+                "title": "Show HN: Ex Situ \u2013 Open-source spatial index of displaced cultural artifacts",
+                "href": "https://exsitu.app/map"
+            },
+            {
+                "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+                "href": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
             },
             {
                 "title": "Kimi Work",
@@ -581,10 +597,6 @@
                 "href": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/"
             },
             {
-                "title": "Hacker wipes Romania's land registry database",
-                "href": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/"
-            },
-            {
                 "title": "Nativ: Run frontier open models locally on your Mac",
                 "href": "https://blaizzy.github.io/nativ/"
             },
@@ -593,92 +605,80 @@
                 "href": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country"
             },
             {
-                "title": "Is surveillance risk chilling your online speech?",
-                "href": "item?id=48987634"
+                "title": "Jellyfin founder Andrew leaves team",
+                "href": "https://forum.jellyfin.org/t-project-leadership-changes"
             },
             {
-                "title": "I wrote an bash enumerator because I was sick of xargs",
-                "href": "https://numerlab.org/2025/07/20/bashumerate-enumerator/"
+                "title": "The Rise of Grocery Tourism",
+                "href": "https://thefreemanmag.substack.com/p/the-rise-of-grocery-tourism"
             },
             {
                 "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
                 "href": "https://vincentwoo.com/3d/grace_cathedral/"
             },
             {
+                "title": "I wrote an bash enumerator because I was sick of xargs",
+                "href": "https://numerlab.org/2025/07/20/bashumerate-enumerator/"
+            },
+            {
                 "title": "Agent swarms and the new model economics",
                 "href": "https://cursor.com/blog/agent-swarm-model-economics"
-            },
-            {
-                "title": "What most histories get wrong about MUMPS's first standard",
-                "href": "https://github.com/rochus-keller/MUMPS/blob/main/docs/First_MUMPS_Standard_Article.md"
-            },
-            {
-                "title": "China\u2019s open-weights AI strategy is winning",
-                "href": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
-            },
-            {
-                "title": "The Psychology of Software Teams",
-                "href": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389"
-            },
-            {
-                "title": "My two year old taught me constraint solving",
-                "href": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/"
-            },
-            {
-                "title": "LEDs\u2019 potential to save our night skies",
-                "href": "https://spectrum.ieee.org/led-light-pollution"
             },
             {
                 "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
                 "href": "item?id=48981136"
             },
             {
+                "title": "Flight Planning with Little Navmap",
+                "href": "https://tech.marksblogg.com/little-navmap-flight-planning.html"
+            },
+            {
+                "title": "Reverse-engineering is cheap now",
+                "href": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/"
+            },
+            {
+                "title": "China\u2019s open-weights AI strategy is winning",
+                "href": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
+            },
+            {
+                "title": "Zoom is now Chrome only",
+                "href": "https://zoom.us/test"
+            },
+            {
                 "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
                 "href": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/"
-            },
-            {
-                "title": "Perfection is not over-engineering",
-                "href": "https://var0.xyz/posts/perfection-is-not-over-engineering.html"
-            },
-            {
-                "title": "Atomic Physics in Pure Anglo-Saxon",
-                "href": "https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish-beholding.html"
-            },
-            {
-                "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-                "href": "https://nothings.org/gamedev/ssao/"
-            },
-            {
-                "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-                "href": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
-            },
-            {
-                "title": "Shinjuku Station in 3D",
-                "href": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/"
             },
             {
                 "title": "You only need the frontier model for one single edit",
                 "href": "https://stencil.so/blog/prewalk"
             },
             {
-                "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
-                "href": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3"
+                "title": "My two year old taught me constraint solving",
+                "href": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/"
             },
             {
-                "title": "Opaque, Interoperable Passkey Records (and a Go API)",
-                "href": "https://words.filippo.io/passkey-record/"
+                "title": "The Psychology of Software Teams",
+                "href": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389"
             },
             {
-                "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-                "href": "https://xcancel.com/__alpoge__/status/2079028340955197566"
+                "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+                "href": "https://nothings.org/gamedev/ssao/"
             },
             {
-                "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-                "href": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/"
+                "title": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
+                "href": "https://github.com/Qbix/webserver/blob/main/README.md"
             },
             {
-                "title": "The drivers behind software delivery inefficiency",
-                "href": "https://dl.acm.org/doi/10.1145/3800646.3800650"
+                "title": "Perfection is not over-engineering",
+                "href": "https://var0.xyz/posts/perfection-is-not-over-engineering.html"
+            },
+            {
+                "title": "Hacker wipes Romania's land registry database",
+                "href": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/"
+            },
+            {
+                "title": "Shinjuku Station in 3D",
+                "href": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/"
             }
         ]
     }
