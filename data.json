@@ -23,12 +23,20 @@
                 "href": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/"
             },
             {
+                "title": "Four levels of in-place initialization",
+                "href": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/"
+            },
+            {
                 "title": "Vetted AI code is hard to justify",
                 "href": "https://amoffat.github.io/blog/vetting-burnout.html"
             },
             {
                 "title": "Writing a Fast Compiler",
                 "href": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html"
+            },
+            {
+                "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
+                "href": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/"
             },
             {
                 "title": "Thinking about tests: assertions and matchers",
@@ -39,16 +47,8 @@
                 "href": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week"
             },
             {
-                "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)",
-                "href": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/"
-            },
-            {
                 "title": "Protecting the Rust standard library from accidental breakage",
                 "href": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/"
-            },
-            {
-                "title": "Four levels of in-place initialization",
-                "href": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/"
             },
             {
                 "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
@@ -83,30 +83,131 @@
                 "href": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose"
             },
             {
-                "title": "People of ACM - Russ Cox",
-                "href": "https://www.acm.org/articles/people-of-acm/2026/russ-cox"
+                "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+                "href": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
             },
             {
-                "title": "Build-time systemd schedule",
-                "href": "https://gvolpe.com/blog/systemd-schedule/"
+                "title": "People of ACM - Russ Cox",
+                "href": "https://www.acm.org/articles/people-of-acm/2026/russ-cox"
             },
             {
                 "title": "Pony's Arena Allocator",
                 "href": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/"
             },
             {
-                "title": "Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)",
-                "href": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
+                "title": "Build-time systemd schedule",
+                "href": "https://gvolpe.com/blog/systemd-schedule/"
             },
             {
-                "title": "Human Interface Guidelines from various platforms",
-                "href": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/"
+                "title": "Stratum 1 PTP Grandmaster: CM4 + SR1723U10 (Part 1)",
+                "href": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
             }
         ]
     },
     {
         "feedname": "netsec",
-        "items": []
+        "items": [
+            {
+                "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+                "href": "https://old.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
+            },
+            {
+                "title": "r/netsec monthly discussion & tool thread",
+                "href": "https://old.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
+            },
+            {
+                "title": "They patched their SaaS and left the self-hosted OSS version vulnerable - AppFlowy Authenticated SQL Injection",
+                "href": "https://old.reddit.com/r/netsec/comments/1vqojw3/they_patched_their_saas_and_left_the_selfhosted/"
+            },
+            {
+                "title": "Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)",
+                "href": "https://old.reddit.com/r/netsec/comments/1vqtjpi/unauthenticated_rce_in_circlecis_mcp_server/"
+            },
+            {
+                "title": "From AKS node root vulnerability to Microsoft Copilot hijack (CVE-2026-32193)",
+                "href": "https://old.reddit.com/r/netsec/comments/1vqqpwn/from_aks_node_root_vulnerability_to_microsoft/"
+            },
+            {
+                "title": "CVE-2026-33696: From a Schema Name to RCE in n8n",
+                "href": "https://old.reddit.com/r/netsec/comments/1vpx6ku/cve202633696_from_a_schema_name_to_rce_in_n8n/"
+            },
+            {
+                "title": "CVE-2026-6837: Command Injection in Zyxel export-cgi PKCS#12 Export Handling",
+                "href": "https://old.reddit.com/r/netsec/comments/1vq55y4/cve20266837_command_injection_in_zyxel_exportcgi/"
+            },
+            {
+                "title": "AMA with Black Hat Speakers Lidor B. & Elad Meged (Pre-Auth RCE in Enterprise Java, Hijacking AI Coding Agents)",
+                "href": "https://old.reddit.com/r/netsec/comments/1vq6fef/ama_with_black_hat_speakers_lidor_b_elad_meged/"
+            },
+            {
+                "title": "Finding Hidden Internal Apps Through Public Certificate Logs",
+                "href": "https://old.reddit.com/r/netsec/comments/1vp35wv/finding_hidden_internal_apps_through_public/"
+            },
+            {
+                "title": "You\u2019re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?)) - watchTowr Labs",
+                "href": "https://old.reddit.com/r/netsec/comments/1vo06aj/youre_back_in_the_room_citrix_netscaler_preauth/"
+            },
+            {
+                "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain - elttam",
+                "href": "https://old.reddit.com/r/netsec/comments/1vnxkvm/ruby_40_universal_rce_deserialization_gadget/"
+            },
+            {
+                "title": "When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg",
+                "href": "https://old.reddit.com/r/netsec/comments/1vnmye4/when_you_pay_the_ransom_taking_apart_an_interlock/"
+            },
+            {
+                "title": "CSS:the bomb inside your inbox",
+                "href": "https://old.reddit.com/r/netsec/comments/1vnm0b2/cssthe_bomb_inside_your_inbox/"
+            },
+            {
+                "title": "From Unauthenticated API to Grid Risk: A Hybrid Inverter Vulnerability Explained",
+                "href": "https://old.reddit.com/r/netsec/comments/1vndp8e/from_unauthenticated_api_to_grid_risk_a_hybrid/"
+            },
+            {
+                "title": "Can AI do novel security research? Meet the HTTP Terminator",
+                "href": "https://old.reddit.com/r/netsec/comments/1vn94sg/can_ai_do_novel_security_research_meet_the_http/"
+            },
+            {
+                "title": "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
+                "href": "https://old.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/"
+            },
+            {
+                "title": "Expired DMARC reporting endpoint exposed a NYSE Fortune 1000's infrastructure for $10",
+                "href": "https://old.reddit.com/r/netsec/comments/1vlsvsn/expired_dmarc_reporting_endpoint_exposed_a_nyse/"
+            },
+            {
+                "title": "ERPNext's Document Follow feature exposed unauthorized data",
+                "href": "https://old.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/"
+            },
+            {
+                "title": "CopyEscape: Container-to-host arbitrary file write via docker cp (CVE-2026-17106)",
+                "href": "https://old.reddit.com/r/netsec/comments/1vlkth5/copyescape_containertohost_arbitrary_file_write/"
+            },
+            {
+                "title": "Mandatory User Profile for Persistence & EDR Evasion",
+                "href": "https://old.reddit.com/r/netsec/comments/1vlbhe1/mandatory_user_profile_for_persistence_edr_evasion/"
+            },
+            {
+                "title": "Inside a Russian-speaking operator's toolkit for compromising Ukrainian IP cameras",
+                "href": "https://old.reddit.com/r/netsec/comments/1vktfi3/inside_a_russianspeaking_operators_toolkit_for/"
+            },
+            {
+                "title": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
+                "href": "https://old.reddit.com/r/netsec/comments/1vjxr66/when_terrible_disclosure_from_the_vendor_results/"
+            },
+            {
+                "title": "Beyond Prompt Injection: Hacking Apple's Private Cloud Compute",
+                "href": "https://old.reddit.com/r/netsec/comments/1vk1ybs/beyond_prompt_injection_hacking_apples_private/"
+            },
+            {
+                "title": "DEFCON: New Red Team Tactic",
+                "href": "https://old.reddit.com/r/netsec/comments/1vjfos6/defcon_new_red_team_tactic/"
+            },
+            {
+                "title": "DEF CON talk: 8 in 10 Banks in Belgium HATE This One Weird eID RCE",
+                "href": "https://old.reddit.com/r/netsec/comments/1viux00/def_con_talk_8_in_10_banks_in_belgium_hate_this/"
+            }
+        ]
     },
     {
         "feedname": "bleepingcomputer",
@@ -352,6 +453,10 @@
         "feedname": "cybercentre",
         "items": [
             {
+                "title": "Apple security advisory (AV26-823)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-823"
+            },
+            {
                 "title": "Citrix security advisory (AV26-645) \u2013 Update 2",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-645"
             },
@@ -546,10 +651,6 @@
             {
                 "title": "Zbtlink security advisory (AV26-779)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/zbtlink-security-advisory-av26-779"
-            },
-            {
-                "title": "Hewlett Packard Enterprise (HPE) security advisory (AV26-778)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/hewlett-packard-enterprise-hpe-security-advisory-av26-778"
             }
         ]
     },
@@ -581,6 +682,10 @@
                 "href": "https://www.librarian.net/notoai/"
             },
             {
+                "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+                "href": "item?id=49332751"
+            },
+            {
                 "title": "Incident with Github.com",
                 "href": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
             },
@@ -593,40 +698,40 @@
                 "href": "item?id=49330632"
             },
             {
-                "title": "Show HN: Sokoban AI Solver",
-                "href": "https://mkornreich.me/projects/sokoban/"
-            },
-            {
-                "title": "File Recovery in Process",
-                "href": "https://gwolf.org/2026/08/file-recovery-in-process.html"
+                "title": "Ask HN: GitHub employees what's going on? Why?",
+                "href": "item?id=49332495"
             },
             {
                 "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
                 "href": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
             },
             {
-                "title": "How to ship a database every day",
-                "href": "https://turbopuffer.com/blog/control-plane"
-            },
-            {
-                "title": "Mexico Crackdown on Coastal Development Underway",
-                "href": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/"
-            },
-            {
-                "title": "How Go detects struct copies with sync.noCopy",
-                "href": "https://func25.dev/posts/go-sync-nocopy/"
-            },
-            {
-                "title": "Ask HN: Alternatives to GitHub",
-                "href": "item?id=49331033"
+                "title": "Show HN: Sokoban AI Solver",
+                "href": "https://mkornreich.me/projects/sokoban/"
             },
             {
                 "title": "How I developed an Am29000 C compiler and web browser",
                 "href": "https://nanochess.org/am29000_c_compiler_web_browser.html"
             },
             {
+                "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+                "href": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu"
+            },
+            {
+                "title": "How Go detects struct copies with sync.noCopy",
+                "href": "https://func25.dev/posts/go-sync-nocopy/"
+            },
+            {
+                "title": "How to ship a database every day",
+                "href": "https://turbopuffer.com/blog/control-plane"
+            },
+            {
                 "title": "Show HN: Eve Software Factory",
                 "href": "https://github.com/vercel-labs/eve-software-factory-template/tree/main"
+            },
+            {
+                "title": "Mexico Crackdown on Coastal Development Underway",
+                "href": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/"
             },
             {
                 "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
@@ -637,6 +742,10 @@
                 "href": "https://twitter.com/DarioAmodei/status/2088758816376807762"
             },
             {
+                "title": "Show HN: Learn Flags Quiz",
+                "href": "https://flagquizzes.com/"
+            },
+            {
                 "title": "Show HN: Desktopcolors.com \u2013 A museum for solid background colors of classic OS",
                 "href": "https://desktopcolors.com"
             },
@@ -645,24 +754,20 @@
                 "href": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health"
             },
             {
-                "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-                "href": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu"
+                "title": "Ask HN: Alternatives to GitHub",
+                "href": "item?id=49331033"
             },
             {
                 "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
                 "href": "https://rvembedded.com/blog_post/12/"
             },
             {
-                "title": "Show HN: Learn Flags Quiz",
-                "href": "https://flagquizzes.com/"
-            },
-            {
                 "title": "Linear algebra done right",
                 "href": "https://linear.axler.net/"
             },
             {
-                "title": "My Ten Years in No Man's Sky",
-                "href": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/"
+                "title": "The only known trebuchet casualty in history",
+                "href": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/"
             },
             {
                 "title": "Claude: System Prompts",
@@ -673,12 +778,8 @@
                 "href": "https://reticulum.network/"
             },
             {
-                "title": "Speeding Up the Plush Garbage Collector",
-                "href": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/"
-            },
-            {
-                "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-                "href": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64"
+                "title": "My Ten Years in No Man's Sky",
+                "href": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/"
             }
         ]
     }
