@@ -11,32 +11,32 @@
                 "href": "https://sumnerevans.com/posts/money/plain-text-accounting/"
             },
             {
-                "title": "Reclaim the terminal",
-                "href": "https://nishantjosh.dev/blogs/reclaim-the-terminal/"
+                "title": "What Zig felt like, coming from Rust",
+                "href": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
             },
             {
-                "title": "Why I still hand write my commit messages",
-                "href": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/"
+                "title": "Reclaim the terminal",
+                "href": "https://nishantjosh.dev/blogs/reclaim-the-terminal/"
             },
             {
                 "title": "Go 1.27 is released",
                 "href": "https://go.dev/blog/go1.27"
             },
             {
-                "title": "Sing-song: a speakable encoding for long numbers and keys",
-                "href": "https://blog.vrypan.net/2026/08/19/260819-sing-song/"
+                "title": "Why I still hand write my commit messages",
+                "href": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/"
             },
             {
-                "title": "What Zig felt like, coming from Rust",
-                "href": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
+                "title": "Sing-song: a speakable encoding for long numbers and keys",
+                "href": "https://blog.vrypan.net/2026/08/19/260819-sing-song/"
             },
             {
                 "title": "Bun 1.4 Rust rewrite is not looking good",
                 "href": "https://tipiirai.com/writing/bun-rust-rewrite-worries"
             },
             {
-                "title": "SQLite for Everything",
-                "href": "https://joecode.com/2026-08-19-sqlite3/"
+                "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
+                "href": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack"
             },
             {
                 "title": "Ploopy A+ (external trackball)",
@@ -47,16 +47,20 @@
                 "href": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397"
             },
             {
+                "title": "SQLite for Everything",
+                "href": "https://joecode.com/2026-08-19-sqlite3/"
+            },
+            {
                 "title": "Reverse-engineering Find My People to stalk \u0336m\u0336y\u0336 \u0336e\u0336x\u0336 a friend, cause I can",
                 "href": "https://zerotistic.blog/posts/find-my-people-linux/"
             },
             {
-                "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
-                "href": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack"
-            },
-            {
                 "title": "Introducing Microlighter",
                 "href": "https://daverupert.com/2026/08/microlighter/"
+            },
+            {
+                "title": "If this is true, the hyperscalers are toast",
+                "href": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers"
             },
             {
                 "title": "Mastodon 5.0: Laying the foundation",
@@ -83,24 +87,20 @@
                 "href": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/"
             },
             {
+                "title": "AI didn't erase the junior's value. It increased it",
+                "href": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
+            },
+            {
+                "title": "Why compiling Rust to WebAssembly is slow",
+                "href": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/"
+            },
+            {
                 "title": "Things I want in a modern relational query language",
                 "href": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/"
             },
             {
-                "title": "Go 1.27 Release Notes",
-                "href": "https://go.dev/doc/go1.27"
-            },
-            {
-                "title": "Pitfalls of Benchmarking on Modern Systems",
-                "href": "https://stefan-marr.de/2026/08/pitfalls-of-benchmarking-on-modern-systems/"
-            },
-            {
-                "title": "Extreme Programming: A Gentle Introduction",
-                "href": "http://www.extremeprogramming.org/"
-            },
-            {
-                "title": "Goroutines 101: A basic walkthrough",
-                "href": "https://func25.dev/posts/go-goroutines-basics/"
+                "title": "raylib examples in Jolt",
+                "href": "https://raylib-jlt.b12n.app/"
             }
         ]
     },
@@ -111,6 +111,10 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+                "href": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/"
+            },
             {
                 "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/"
@@ -166,10 +170,6 @@
             {
                 "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
                 "href": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/"
-            },
-            {
-                "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/"
             }
         ]
     },
@@ -569,7 +569,11 @@
                 "href": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html"
             },
             {
-                "title": "Windows brings out the Rorschach test in everyone",
+                "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+                "href": "https://simedw.com/2026/08/20/midi-autocomplete/"
+            },
+            {
+                "title": "Windows brings out the Rorschach test in everyone (2003)",
                 "href": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
             },
             {
@@ -581,12 +585,16 @@
                 "href": "https://www.computerenhance.com/p/turns-are-better-than-radians"
             },
             {
+                "title": "Google has stopped pushing Git tags for some Android source code",
+                "href": "https://grapheneos.social/@GrapheneOS/117057099753905023"
+            },
+            {
                 "title": "Go 1.27",
                 "href": "https://go.dev/blog/go1.27"
             },
             {
-                "title": "Google has stopped pushing Git tags for some Android source code",
-                "href": "https://grapheneos.social/@GrapheneOS/117057099753905023"
+                "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+                "href": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff"
             },
             {
                 "title": "A faster way to calculate the day of the week",
@@ -597,16 +605,20 @@
                 "href": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
             },
             {
+                "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+                "href": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/"
+            },
+            {
                 "title": "Manabu Kosaka's Handmade Paper Sculptures",
                 "href": "https://coca11272000.wixsite.com/manabukosaka"
             },
             {
-                "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-                "href": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/"
-            },
-            {
                 "title": "Unsloth Dynamic 3.0 GGUFs",
                 "href": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs"
+            },
+            {
+                "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+                "href": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/"
             },
             {
                 "title": "Casio F-B100W-1A",
@@ -615,6 +627,10 @@
             {
                 "title": "Sol loves to cheat",
                 "href": "https://jumploops.com/blog/sol-loves-to-cheat/"
+            },
+            {
+                "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+                "href": "https://qdrant.tech/articles/filtered-vector-search-acorn/"
             },
             {
                 "title": "Geolocating a random island using geometry and CUDA programming",
@@ -629,20 +645,20 @@
                 "href": "https://fx.sh"
             },
             {
-                "title": "If this is true, the hyperscalers are toast",
-                "href": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers"
-            },
-            {
                 "title": "PostgreSQL for Everything",
                 "href": "https://www.raphaelbauer.com:443/posts/postgresql-everything/"
+            },
+            {
+                "title": "Australia passes law to levy tech giants that fail to pay for local news",
+                "href": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/"
             },
             {
                 "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
                 "href": "https://os8088.com/spotlight/"
             },
             {
-                "title": "YACS 2.0 \u2013 Yet Another Curta Simulator",
-                "href": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html"
+                "title": "Feature Request: Support AGENTS.md",
+                "href": "https://github.com/anthropics/claude-code/issues/6235"
             },
             {
                 "title": "Mathematics in the age of AI",
@@ -653,32 +669,16 @@
                 "href": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review"
             },
             {
-                "title": "Feature Request: Support AGENTS.md",
-                "href": "https://github.com/anthropics/claude-code/issues/6235"
-            },
-            {
-                "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
-                "href": "https://github.com/onecli/onecli"
+                "title": "Risk Engineering",
+                "href": "https://risk-engineering.org/"
             },
             {
                 "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
                 "href": "https://github.com/cesarblum/sectorforth"
             },
             {
-                "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
-                "href": "https://theremin.bizibah.com/"
-            },
-            {
-                "title": "The little-known winstart.bat batch file",
-                "href": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605"
-            },
-            {
-                "title": "Xorshift Generators",
-                "href": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
-            },
-            {
-                "title": "Pacing model development in an era of cyber-critical capabilities",
-                "href": "https://openai.com/index/pacing-model-development-cyber-capabilities/"
+                "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+                "href": "https://github.com/onecli/onecli"
             }
         ]
     }
