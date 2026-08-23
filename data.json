@@ -19,12 +19,12 @@
                 "href": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html"
             },
             {
-                "title": "You should never be angry at work",
-                "href": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/"
-            },
-            {
                 "title": "My favorite Computer Science books, and why",
                 "href": "https://backtracking.github.io/en/2020/02/20/cs-books.html"
+            },
+            {
+                "title": "You should never be angry at work",
+                "href": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/"
             },
             {
                 "title": "NetBSD and my life (2005)",
@@ -51,6 +51,14 @@
                 "href": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c"
             },
             {
+                "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+                "href": "https://ericpardee.github.io/fire-hd-ownership/"
+            },
+            {
+                "title": "How To Report A Bug So It Actually Gets Fixed",
+                "href": "https://blog.tymscar.com/posts/howtoreportabug/"
+            },
+            {
                 "title": "The immortal 1984 Macintosh (restoration diary)",
                 "href": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html"
             },
@@ -61,6 +69,10 @@
             {
                 "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
                 "href": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/"
+            },
+            {
+                "title": "A Friendly Introduction to Racket",
+                "href": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
             },
             {
                 "title": "Optimizing memory usage in a markdown parser",
@@ -75,20 +87,12 @@
                 "href": "https://a.baez.link/3mtdbbp2dmc27"
             },
             {
-                "title": "nss-userhosts - hosts files for unprivileged users",
-                "href": "https://codeberg.org/felixs/nss-userhosts"
-            },
-            {
-                "title": "A Friendly Introduction to Racket",
-                "href": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
-            },
-            {
-                "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-                "href": "https://ericpardee.github.io/fire-hd-ownership/"
-            },
-            {
                 "title": "Foundational Verification of Running-Time Bounds for Interactive Programs",
                 "href": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf"
+            },
+            {
+                "title": "nss-userhosts - hosts files for unprivileged users",
+                "href": "https://codeberg.org/felixs/nss-userhosts"
             },
             {
                 "title": "KDE Linux experiences",
@@ -97,10 +101,6 @@
             {
                 "title": "Compile-Time Improvements in LLVM 23",
                 "href": "https://aengelke.net/llvm23-ct.html"
-            },
-            {
-                "title": "Integrating Discord SDK into EVE Frontier",
-                "href": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf"
             }
         ]
     },
@@ -220,7 +220,68 @@
     },
     {
         "feedname": "slashdot",
-        "items": []
+        "items": [
+            {
+                "title": "23 Years After SimCity 4's Release, 'Eternal Commuter' Bug Finally Fixed",
+                "href": "https://games.slashdot.org/story/26/08/23/0417243/23-years-after-simcity-4s-release-eternal-commuter-bug-finally-fixed?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
+                "href": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
+                "href": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
+                "href": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Defamation Suit Demanding Elsevier Retract Paper Heads Closer To Trial",
+                "href": "https://science.slashdot.org/story/26/08/23/0113210/defamation-suit-demanding-elsevier-retract-paper-heads-closer-to-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
+                "href": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Battery Fires At Recycling Centres Are Costing the UK &pound;1bn a Year",
+                "href": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "How Will AI Change the Field of Mathematics?",
+                "href": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
+                "href": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police",
+                "href": "https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Low Emission Zone Led To Better Lung Size, Function Among London Children",
+                "href": "https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope",
+                "href": "https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Is AI Really to Blame for High Unemployment Among Recent Graduates?  What Economists Say",
+                "href": "https://it.slashdot.org/story/26/08/22/0418223/is-ai-really-to-blame-for-high-unemployment-among-recent-graduates-what-economists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Firefox Announces Free VPN and 'Startpage' Search Engine Rolling Out to Android, iOS - Plus GeForce NOW Support",
+                "href": "https://news.slashdot.org/story/26/08/22/0220219/firefox-announces-free-vpn-and-startpage-search-engine-rolling-out-to-android-ios---plus-geforce-now-support?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "New York Dethrones San Francisco Bay Area As Largest Tech Talent Market",
+                "href": "https://news.slashdot.org/story/26/08/21/228222/new-york-dethrones-san-francisco-bay-area-as-largest-tech-talent-market?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            }
+        ]
     },
     {
         "feedname": "ciscotalos",
@@ -504,20 +565,28 @@
                 "href": "https://securelist.com/android-head-unit-malware/121106/"
             },
             {
-                "title": "What Is a Harness?",
-                "href": "https://earendil.com/posts/what-is-a-harness/"
+                "title": "How Complex Systems Fail",
+                "href": "https://how.complexsystems.fail/"
             },
             {
                 "title": "My favorite nonfiction books about cults, scams, and schemes",
                 "href": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"
             },
             {
-                "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-                "href": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/"
+                "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+                "href": "https://ericpardee.github.io/fire-hd-ownership/"
             },
             {
                 "title": "Things I want in a modern relational query language",
                 "href": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/"
+            },
+            {
+                "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+                "href": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/"
+            },
+            {
+                "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+                "href": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/"
             },
             {
                 "title": "To become a better writer, read as much as you can",
@@ -528,12 +597,12 @@
                 "href": "http://www.os2museum.com/wp/the-end-of-an-athlon/"
             },
             {
-                "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-                "href": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
+                "title": "What Is a Harness?",
+                "href": "https://earendil.com/posts/what-is-a-harness/"
             },
             {
-                "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-                "href": "https://skylens.yantraai.app/"
+                "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+                "href": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
             },
             {
                 "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
@@ -544,16 +613,12 @@
                 "href": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
             },
             {
+                "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+                "href": "https://skylens.yantraai.app/"
+            },
+            {
                 "title": "Death to px, long live ch",
                 "href": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/"
-            },
-            {
-                "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-                "href": "https://www.bbc.com/news/articles/cvg92y1wzn8o"
-            },
-            {
-                "title": "Fast and Hard Code",
-                "href": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/"
             },
             {
                 "title": "JIT Compiling Code in 5\u03bcs",
@@ -576,12 +641,16 @@
                 "href": "https://quantumi.sh/public/labs.html"
             },
             {
-                "title": "Authoritarianism of Code",
-                "href": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/"
-            },
-            {
                 "title": "typ.ing",
                 "href": "https://typ.ing/"
+            },
+            {
+                "title": "Fast and Hard Code",
+                "href": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/"
+            },
+            {
+                "title": "Universal Housing",
+                "href": "https://twitter.com/christianreber/status/2091532545577849008"
             },
             {
                 "title": "Scrap (2006)",
@@ -608,16 +677,8 @@
                 "href": "https://www.primeintellect.ai/research/nanogpt-speedrun"
             },
             {
-                "title": "Universal Housing",
-                "href": "https://twitter.com/christianreber/status/2091532545577849008"
-            },
-            {
-                "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-                "href": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
-            },
-            {
-                "title": "Rust 1.98 got a P-critical miscompilation",
-                "href": "https://github.com/rust-lang/rust/issues/161441"
+                "title": "So, You Found a Foden Steam Lorry in a Field. What Next?",
+                "href": "https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/"
             }
         ]
     }
