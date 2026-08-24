@@ -7,12 +7,12 @@
                 "href": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
             },
             {
-                "title": "Everything I own, owned",
-                "href": "https://schlarp.com/posts/everything-i-own-owned/"
-            },
-            {
                 "title": "Emacs 31.1 released",
                 "href": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html"
+            },
+            {
+                "title": "Everything I own, owned",
+                "href": "https://schlarp.com/posts/everything-i-own-owned/"
             },
             {
                 "title": "And then the men with guns tell you to do it anyway",
@@ -31,6 +31,10 @@
                 "href": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html"
             },
             {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week"
+            },
+            {
                 "title": "offgrid electric car (2025)",
                 "href": "https://joeyh.name/blog/entry/offgrid_electric_car/"
             },
@@ -43,8 +47,8 @@
                 "href": "https://hister.org/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week"
+                "title": "3 constraints before I build anything",
+                "href": "https://jordanlord.co.uk/blog/3-constraints/"
             },
             {
                 "title": "My favorite Computer Science books, and why",
@@ -53,10 +57,6 @@
             {
                 "title": "Building certgrep.sh: a free certificate transparency search engine",
                 "href": "https://haveibeensquatted.com/blog/building-certgrep"
-            },
-            {
-                "title": "3 constraints before I build anything",
-                "href": "https://jordanlord.co.uk/blog/3-constraints/"
             },
             {
                 "title": "My DIY DEF CON Choker Has a Screen On It",
@@ -71,6 +71,10 @@
                 "href": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf"
             },
             {
+                "title": "Control and complexity: tension in systems design",
+                "href": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html"
+            },
+            {
                 "title": "tmp.0ut volume 5",
                 "href": "https://tmpout.sh/5/"
             },
@@ -79,28 +83,24 @@
                 "href": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/"
             },
             {
-                "title": "Adding JIT-compilation to a toy interpreter with libgccjit",
-                "href": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html"
+                "title": "Micro language implementation: Calcium",
+                "href": "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium"
+            },
+            {
+                "title": "Dynamically Naming Servers",
+                "href": "https://arch.dog/bark/dynamically-naming-servers"
             },
             {
                 "title": "eh: a minimalist vi-like editor",
                 "href": "https://codeberg.org/SirWumpus/eh"
             },
             {
-                "title": "Control and complexity: tension in systems design",
-                "href": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html"
-            },
-            {
                 "title": "Declarative WebGPU with S-expressions",
                 "href": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/"
             },
             {
-                "title": "Tiny, Untyped Monads (2024)",
-                "href": "https://text.marvinborner.de/2024-11-18-00.html"
-            },
-            {
-                "title": "How To Report A Bug So It Actually Gets Fixed",
-                "href": "https://blog.tymscar.com/posts/howtoreportabug/"
+                "title": "Adding JIT-compilation to a toy interpreter with libgccjit",
+                "href": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html"
             }
         ]
     },
@@ -111,6 +111,14 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Microsoft Teams now lets admins block external bots from meetings",
+                "href": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/"
+            },
+            {
+                "title": "South Korean startup platform breach exposes key management failures",
+                "href": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/"
+            },
             {
                 "title": "Microsoft: August updates break printing, PDF export in WPF apps",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/"
@@ -162,14 +170,6 @@
             {
                 "title": "Microsoft patches max severity code execution, privilege escalation flaws",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
-            },
-            {
-                "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-                "href": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/"
-            },
-            {
-                "title": "SickKids data breach exposes employee and job applicant info",
-                "href": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/"
             }
         ]
     },
@@ -364,7 +364,7 @@
                 "href": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-842"
             },
             {
-                "title": "[Control Systems] CISA security advisory (AV26-841)",
+                "title": "[Control Systems] CISA ICS security advisory (AV26-841)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-security-advisory-av26-841"
             },
             {
@@ -581,28 +581,36 @@
                 "href": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
             },
             {
-                "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-                "href": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
+                "title": "Why older tech is sometimes safer from hackers",
+                "href": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers"
             },
             {
-                "title": "The Future Belongs to the Weird",
-                "href": "https://essays.georgestrakhov.com/weird/"
+                "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+                "href": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
             },
             {
                 "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
                 "href": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
             },
             {
-                "title": "Why older tech is sometimes safer from hackers",
-                "href": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers"
-            },
-            {
                 "title": "Fast drilldown dashboards from a single Parquet file",
                 "href": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
             },
             {
+                "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+                "href": "https://ssx360.github.io/rack-02/?src=hn"
+            },
+            {
+                "title": "The Future Belongs to the Weird",
+                "href": "https://essays.georgestrakhov.com/weird/"
+            },
+            {
                 "title": "How I find problems to solve as a staff engineer",
                 "href": "https://lalitm.com/post/find-problems-staff-engineer/"
+            },
+            {
+                "title": "Agent Is Not the Model",
+                "href": "https://code.joejag.com/2026/your-agent-is-not-the-model.html"
             },
             {
                 "title": "Andreessen Horowitz is investing billions into a bleak future",
@@ -617,28 +625,24 @@
                 "href": "https://github.com/thiagotigaz/ocr-it"
             },
             {
-                "title": "Agent Is Not the Model",
-                "href": "https://code.joejag.com/2026/your-agent-is-not-the-model.html"
-            },
-            {
                 "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
                 "href": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
-            },
-            {
-                "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-                "href": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt"
-            },
-            {
-                "title": "Google Workspace thinks my domain is an email provider (2025)",
-                "href": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/"
             },
             {
                 "title": "What Is a Harness?",
                 "href": "https://earendil.com/posts/what-is-a-harness/"
             },
             {
+                "title": "Google Workspace thinks my domain is an email provider (2025)",
+                "href": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/"
+            },
+            {
                 "title": "My agent.md to improve LLM-assisted code quality",
                 "href": "https://fabiensanglard.net/agent.md/index.html"
+            },
+            {
+                "title": "Mourning Steve French",
+                "href": "https://lwn.net/Articles/1090098/"
             },
             {
                 "title": "New EU-wide product repair rules come into force",
@@ -649,20 +653,20 @@
                 "href": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release"
             },
             {
-                "title": "Mourning Steve French",
-                "href": "https://lwn.net/Articles/1090098/"
-            },
-            {
                 "title": "How Complex Systems Fail (1998)",
                 "href": "https://how.complexsystems.fail/"
+            },
+            {
+                "title": "AI Chip Architectures",
+                "href": "https://www.jepeake.com/ai-chip-architectures"
             },
             {
                 "title": "Malware infects Android-based automotive head unit firmware",
                 "href": "https://securelist.com/android-head-unit-malware/121106/"
             },
             {
-                "title": "AI Chip Architectures",
-                "href": "https://www.jepeake.com/ai-chip-architectures"
+                "title": "My favorite nonfiction books about cults, scams, and schemes",
+                "href": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"
             },
             {
                 "title": "Fable and the end of the free lunch",
@@ -673,12 +677,8 @@
                 "href": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration"
             },
             {
-                "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
-                "href": "item?id=49418675"
-            },
-            {
-                "title": "My favorite nonfiction books about cults, scams, and schemes",
-                "href": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"
+                "title": "Explain it to me like I'm ten",
+                "href": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/"
             }
         ]
     }
