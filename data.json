@@ -15,16 +15,28 @@
                 "href": "https://schlarp.com/posts/everything-i-own-owned/"
             },
             {
+                "title": "Can a blog post be handwritten?",
+                "href": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/"
+            },
+            {
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week"
+            },
+            {
                 "title": "And then the men with guns tell you to do it anyway",
                 "href": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/"
+            },
+            {
+                "title": "I cannot survive from burnout",
+                "href": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout"
             },
             {
                 "title": "Replicating Reddit's best feature on other forums",
                 "href": "https://xavd.id/blog/post/highlighting-users/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/lo28ad/what_are_you_doing_this_week"
+                "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
+                "href": "https://adriansieber.com/announcing-perspec-1-0/"
             },
             {
                 "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
@@ -47,12 +59,20 @@
                 "href": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/"
             },
             {
-                "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
-                "href": "https://adriansieber.com/announcing-perspec-1-0/"
+                "title": "Dynamically Naming Servers",
+                "href": "https://arch.dog/bark/dynamically-naming-servers"
             },
             {
                 "title": "Control and complexity: tension in systems design",
                 "href": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html"
+            },
+            {
+                "title": "IPython is All You Need",
+                "href": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need"
+            },
+            {
+                "title": "Micro language implementation: Calcium",
+                "href": "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium"
             },
             {
                 "title": "Hister - A private, full content search index that you control",
@@ -63,32 +83,16 @@
                 "href": "https://haveibeensquatted.com/blog/building-certgrep"
             },
             {
-                "title": "Dynamically Naming Servers",
-                "href": "https://arch.dog/bark/dynamically-naming-servers"
-            },
-            {
                 "title": "My favorite Computer Science books, and why",
                 "href": "https://backtracking.github.io/en/2020/02/20/cs-books.html"
-            },
-            {
-                "title": "Micro language implementation: Calcium",
-                "href": "https://nedbatchelder.com/blog/202608/micro_language_implementation_calcium"
             },
             {
                 "title": "My DIY DEF CON Choker Has a Screen On It",
                 "href": "https://www.scd31.com/posts/defcon-choker"
             },
             {
-                "title": "IPython is All You Need",
-                "href": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need"
-            },
-            {
-                "title": "Can a blog post be handwritten?",
-                "href": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/"
-            },
-            {
-                "title": "I cannot survive from burnout",
-                "href": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout"
+                "title": "Intent to Ship: JPEG XL",
+                "href": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/"
             },
             {
                 "title": "It's OK. Do Your Thing",
@@ -97,10 +101,6 @@
             {
                 "title": "tmp.0ut volume 5",
                 "href": "https://tmpout.sh/5/"
-            },
-            {
-                "title": "Wild AI-related reliability incidents are coming",
-                "href": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/"
             }
         ]
     },
@@ -222,6 +222,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "FDA Approves First Alzheimer's Blood Test For Americans As Young As 40",
+                "href": "https://science.slashdot.org/story/26/08/24/1637252/fda-approves-first-alzheimers-blood-test-for-americans-as-young-as-40?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Humanoid Robots Run 100 Meters Faster Than Usain Bolt's Record Pace",
                 "href": "https://hardware.slashdot.org/story/26/08/24/089213/humanoid-robots-run-100-meters-faster-than-usain-bolts-record-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -276,10 +280,6 @@
             {
                 "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
                 "href": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-                "href": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -573,48 +573,84 @@
                 "href": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/"
             },
             {
-                "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-                "href": "https://developers.openai.com/api/docs/pricing"
+                "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+                "href": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure"
             },
             {
-                "title": "Coding expertise is going to collapse from AI reliance",
-                "href": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+                "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+                "href": "https://arxiv.org/abs/2608.16603"
             },
             {
                 "title": "How Europe is killing makers and micro-entrepreneurs",
                 "href": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"
             },
             {
-                "title": "SeL4 security proofs now complete on AArch64",
-                "href": "https://proofcraft.systems/news-2026/#2026-08-21"
+                "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+                "href": "https://developers.openai.com/api/docs/pricing"
             },
             {
-                "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-                "href": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth"
-            },
-            {
-                "title": "I were 17, I'd learn how to build LLMs from scratch",
-                "href": "https://twitter.com/paulg/status/2091544343589060625"
-            },
-            {
-                "title": "Everything I own, owned",
-                "href": "https://schlarp.com/posts/everything-i-own-owned/"
-            },
-            {
-                "title": "Adafruit USB Type C CC Resistor Fixer",
-                "href": "https://www.adafruit.com/product/6323"
-            },
-            {
-                "title": "Executable Is a SQLite Database",
-                "href": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
+                "title": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+                "href": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc"
             },
             {
                 "title": "Jabber/XMPP: 25 Years of Digital Independence",
                 "href": "https://gultsch.de/posts/25-years-of-digital-independence/"
             },
             {
-                "title": "NetBSD GSoC 2026 Improving RAIDframe",
-                "href": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe"
+                "title": "SeL4 security proofs now complete on AArch64",
+                "href": "https://proofcraft.systems/news-2026/#2026-08-21"
+            },
+            {
+                "title": "The entire city of San Francisco as a video game",
+                "href": "https://sf.thijs.gg/"
+            },
+            {
+                "title": "Coding expertise is going to collapse from AI reliance",
+                "href": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+            },
+            {
+                "title": "I were 17, I'd learn how to build LLMs from scratch",
+                "href": "https://twitter.com/paulg/status/2091544343589060625"
+            },
+            {
+                "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+                "href": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth"
+            },
+            {
+                "title": "Where Did All the Public Bathrooms Go?",
+                "href": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/"
+            },
+            {
+                "title": "Show HN: GlassBox \u2013 what the browser reveals, and how identifiable you are",
+                "href": "https://glassbox.codecanary.org"
+            },
+            {
+                "title": "EuroHPC Launches 6 Quantum Calls with \u20ac119M in Funding",
+                "href": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/"
+            },
+            {
+                "title": "Curvature Beziers \u2013 Improving on a timeless recipe",
+                "href": "https://acko.net/blog/curvature-beziers/"
+            },
+            {
+                "title": "Show HN: PicoMQ \u2013 Durable Streams over HTTP, on object storage",
+                "href": "https://picomq.com/"
+            },
+            {
+                "title": "Adafruit USB Type C CC Resistor Fixer",
+                "href": "https://www.adafruit.com/product/6323"
+            },
+            {
+                "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+                "href": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels"
+            },
+            {
+                "title": "Executable Is a SQLite Database",
+                "href": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
+            },
+            {
+                "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+                "href": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base"
             },
             {
                 "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
@@ -625,60 +661,24 @@
                 "href": "https://ssx360.github.io/rack-02/?src=hn"
             },
             {
-                "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
-                "href": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base"
-            },
-            {
-                "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-                "href": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
-            },
-            {
-                "title": "Why older tech is sometimes safer from hackers",
-                "href": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers"
-            },
-            {
                 "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
                 "href": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/"
+            },
+            {
+                "title": "NetBSD GSoC 2026 Improving RAIDframe",
+                "href": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe"
             },
             {
                 "title": "Three Generations in E7",
                 "href": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/"
             },
             {
+                "title": "Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
+                "href": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/"
+            },
+            {
                 "title": "Fast drilldown dashboards from a single Parquet file",
                 "href": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
-            },
-            {
-                "title": "How I find problems to solve as a staff engineer",
-                "href": "https://lalitm.com/post/find-problems-staff-engineer/"
-            },
-            {
-                "title": "Andreessen Horowitz is investing billions into a bleak future",
-                "href": "https://www.modelrepublic.org/articles/a16z-portfolio"
-            },
-            {
-                "title": "I built a low-latency AI companion that plays Skyrim with me",
-                "href": "https://pantel.is/projects/ai-gaming-companion/"
-            },
-            {
-                "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
-                "href": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels"
-            },
-            {
-                "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
-                "href": "https://inferquest.org"
-            },
-            {
-                "title": "Agent Is Not the Model",
-                "href": "https://code.joejag.com/2026/your-agent-is-not-the-model.html"
-            },
-            {
-                "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-                "href": "https://github.com/thiagotigaz/ocr-it"
-            },
-            {
-                "title": "What Is a Harness?",
-                "href": "https://earendil.com/posts/what-is-a-harness/"
             }
         ]
     }
