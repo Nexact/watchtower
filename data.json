@@ -23,16 +23,16 @@
                 "href": "https://arxiv.org/abs/2608.23228"
             },
             {
+                "title": "Why Google stores billions of lines of code in a single repository (2016)",
+                "href": "https://dl.acm.org/doi/fullHtml/10.1145/2854146"
+            },
+            {
                 "title": "MNT Station - A modular, open hardware desktop computer and server",
                 "href": "https://www.crowdsupply.com/mnt-research/mnt-station"
             },
             {
                 "title": "What's in a tag name? JavaScript, apparently",
                 "href": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently"
-            },
-            {
-                "title": "Why Google stores billions of lines of code in a single repository (2016)",
-                "href": "https://dl.acm.org/doi/fullHtml/10.1145/2854146"
             },
             {
                 "title": "Understanding Go's sync.Map from API to Hash Trie",
@@ -43,16 +43,16 @@
                 "href": "https://www.jack.bio/blog/licenseplate"
             },
             {
-                "title": "Problem with concurrent linter fixes",
-                "href": "https://jfmengels.net/concurrent-linter-fixes/"
-            },
-            {
                 "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
                 "href": "https://infosec.exchange/@david_chisnall/117156204452541109"
             },
             {
                 "title": "Run OpenBSD on DigitalOcean for $4/month",
                 "href": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/"
+            },
+            {
+                "title": "Problem with concurrent linter fixes",
+                "href": "https://jfmengels.net/concurrent-linter-fixes/"
             },
             {
                 "title": "Beyond recall and the illusion of competence",
@@ -67,12 +67,28 @@
                 "href": "https://vincent.bernat.ch/en/blog/2026-spanning-tree"
             },
             {
+                "title": "Merchants of Insecurity",
+                "href": "https://blog.happyfellow.dev/merchants-of-insecurity/"
+            },
+            {
                 "title": "I cannot survive from burnout",
                 "href": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout"
             },
             {
+                "title": "Catching NaN at the MLIR Pass Boundary",
+                "href": "https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/"
+            },
+            {
+                "title": "Memory ordering in CPUs",
+                "href": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/"
+            },
+            {
                 "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
                 "href": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/"
+            },
+            {
+                "title": "AI Review Loops Don't Always Stabilise",
+                "href": "https://kevinmahoney.co.uk/articles/ai-review-loops/"
             },
             {
                 "title": "The ReaderT Design Pattern (2017)",
@@ -83,24 +99,8 @@
                 "href": "https://w.on-t.work/dslable"
             },
             {
-                "title": "AI Review Loops Don't Always Stabilise",
-                "href": "https://kevinmahoney.co.uk/articles/ai-review-loops/"
-            },
-            {
-                "title": "Fuzzing The Gleam Compiler",
-                "href": "https://www.kurz.net/posts/fuzzing-gleam-compiler"
-            },
-            {
-                "title": "Solving the 1+N query problem",
-                "href": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem"
-            },
-            {
-                "title": "Memory ordering in CPUs",
-                "href": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/"
-            },
-            {
-                "title": "AI At Home Part 2: Multi GPU Drifting",
-                "href": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html"
+                "title": "Fixing my Kinesis Advantage",
+                "href": "https://lukaswerner.com/post/2026-08-25@kinesis-advantage-build"
             }
         ]
     },
@@ -111,6 +111,18 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+                "href": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/"
+            },
+            {
+                "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+                "href": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/"
+            },
+            {
+                "title": "Snowflake ends service-account passwords. Now comes the hard part",
+                "href": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/"
+            },
             {
                 "title": "Ubiquiti patches three max severity security vulnerabilities",
                 "href": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/"
@@ -158,18 +170,6 @@
             {
                 "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
                 "href": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/"
-            },
-            {
-                "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-                "href": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/"
-            },
-            {
-                "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-                "href": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/"
-            },
-            {
-                "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/"
             }
         ]
     },
@@ -351,6 +351,14 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "NVIDIA security advisory (AV26-849)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-849"
+            },
+            {
+                "title": "Adobe security advisory (AV26-848)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-848"
+            },
             {
                 "title": "WatchGuard security advisory (AV26-847)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-847"
@@ -542,14 +550,6 @@
             {
                 "title": "Google security advisory (AV26-806)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-806"
-            },
-            {
-                "title": "Ivanti security advisory (AV26-805)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-805"
-            },
-            {
-                "title": "Red Hat security advisory (AV26-803)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/security-bulletin-red-hat-av26-803"
             }
         ]
     },
@@ -565,6 +565,10 @@
                 "href": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
             },
             {
+                "title": "GLM-5.3-Flash",
+                "href": "https://z.ai/blog/glm-5.3-flash"
+            },
+            {
                 "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
                 "href": "https://qwen.ai/blog?id=qwen3.8-flash-next"
             },
@@ -573,60 +577,64 @@
                 "href": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think"
             },
             {
-                "title": "Oldinsurancemaps.net is now a Charter Project",
-                "href": "https://openstreetmap.us/news/2026/08/oim-charter-project/"
-            },
-            {
                 "title": "A curmudgeon tries a language server",
                 "href": "https://entropicthoughts.com/curmudgeon-tries-language-server"
+            },
+            {
+                "title": "Oldinsurancemaps.net is now a Charter Project",
+                "href": "https://openstreetmap.us/news/2026/08/oim-charter-project/"
             },
             {
                 "title": "Meta reaches $16.68B settlement over social media harms to children",
                 "href": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/"
             },
             {
-                "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-                "href": "item?id=49446210"
-            },
-            {
-                "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-                "href": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
+                "title": "AI Is a Harsh Mistress",
+                "href": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/"
             },
             {
                 "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
                 "href": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
             },
             {
-                "title": "Proliferate (YC S25) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer"
+                "title": "Twitter Viewer \u2013 View Twitter Without Account",
+                "href": "https://twitterwebviewer.com/"
             },
             {
                 "title": "Apple introduces M6 and M5 Ultra",
                 "href": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
             },
             {
-                "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
-                "href": "https://www.youtube.com/watch?v=656058JxTM0"
+                "title": "Proliferate (YC S25) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer"
             },
             {
                 "title": "Beyond Recall and the Illusion of Competence",
                 "href": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html"
             },
             {
-                "title": "Value Classes Still Need Compiler Sympathy",
-                "href": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/"
+                "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
+                "href": "https://www.youtube.com/watch?v=656058JxTM0"
+            },
+            {
+                "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+                "href": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
             },
             {
                 "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
                 "href": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
             },
             {
-                "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-                "href": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+                "title": "Value Classes Still Need Compiler Sympathy",
+                "href": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/"
             },
             {
                 "title": "Queryable Executables",
                 "href": "https://fzakaria.com/2026/08/24/actually-queryable-executables"
+            },
+            {
+                "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+                "href": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
             },
             {
                 "title": "New Mac Studio with M5 Max and M5 Ultra",
@@ -637,14 +645,6 @@
                 "href": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
             },
             {
-                "title": "Omarchy development practices lead to predictable security issues",
-                "href": "https://blog.happyfellow.dev/merchants-of-insecurity/"
-            },
-            {
-                "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
-                "href": "https://rupertlinacre.com/buslens/"
-            },
-            {
                 "title": "Black hole singularity is a surface not a point",
                 "href": "https://arxiv.org/abs/2608.21590"
             },
@@ -653,8 +653,16 @@
                 "href": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
             },
             {
+                "title": "LibreOffice 26.8 Released with Many Nice Improvements",
+                "href": "https://wiki.documentfoundation.org/ReleaseNotes/26.8"
+            },
+            {
                 "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
                 "href": "https://github.com/runetes/maiao"
+            },
+            {
+                "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
+                "href": "https://rupertlinacre.com/buslens/"
             },
             {
                 "title": "When str.lower() is a security vulnerability in Python",
@@ -669,16 +677,8 @@
                 "href": "https://github.com/zedeus/nitter/issues/1442"
             },
             {
-                "title": "Bill Gates: The turbulent AI era is here",
-                "href": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
-            },
-            {
-                "title": "Tooltips need a delay, and then they need to skip it",
-                "href": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"
-            },
-            {
-                "title": "Run OpenBSD on DigitalOcean for $4/month",
-                "href": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/"
+                "title": "Who Makes Your Supplements?",
+                "href": "https://www.worseonpurpose.com/p/who-actually-makes-your-supplements"
             }
         ]
     }
