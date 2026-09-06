@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "It took a year to ship WebAssembly in Anubis",
+                "href": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+            },
+            {
                 "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
                 "href": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/"
             },
@@ -15,28 +19,32 @@
                 "href": "https://aleyan.com/projects/python-iceberg/"
             },
             {
-                "title": "Terence Tao on \u201cprematurely solving [a maths] problem by purely AI-powered methods\u201d",
-                "href": "https://mathstodon.xyz/@tao/117207856734787448"
-            },
-            {
                 "title": "NetBSD 11 from scratch",
                 "href": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/"
+            },
+            {
+                "title": "Terence Tao on \u201cprematurely solving [a maths] problem by purely AI-powered methods\u201d",
+                "href": "https://mathstodon.xyz/@tao/117207856734787448"
             },
             {
                 "title": "Any Nix package, live in your browser",
                 "href": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser"
             },
             {
-                "title": "There's No Limit to How Bad Code Can Get",
-                "href": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/"
+                "title": "Following legal advice, the Nitter project will continue",
+                "href": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
             },
             {
                 "title": "QBittorrent breaks out of sandbox to commit crimes",
                 "href": "https://beige.party/@intransitivelie/117057396732763183"
             },
             {
-                "title": "Following legal advice, the Nitter project will continue",
-                "href": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+                "title": "\"Simple Made Easy\" (2011)",
+                "href": "https://www.youtube.com/watch?v=SxdOUGdseq4"
+            },
+            {
+                "title": "There's No Limit to How Bad Code Can Get",
+                "href": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/"
             },
             {
                 "title": "M2: Episode 1 (or, Asahi Linux on M3)",
@@ -47,8 +55,12 @@
                 "href": "https://a.l3x.in/blog/my-travel-setup"
             },
             {
-                "title": "\"Simple Made Easy\" (2011)",
-                "href": "https://www.youtube.com/watch?v=SxdOUGdseq4"
+                "title": "The Ironies of Automation (1983)",
+                "href": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf"
+            },
+            {
+                "title": "Radix_FW60: handheld CP/M 2.2 computer",
+                "href": "https://github.com/BrettHallen/Radix_FW60"
             },
             {
                 "title": "zopt: low-ceremony command line parsing for Zig",
@@ -59,8 +71,8 @@
                 "href": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/"
             },
             {
-                "title": "The Ironies of Automation (1983)",
-                "href": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf"
+                "title": "Data races and the limits of ThreadSanitizer in C and Go",
+                "href": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
             },
             {
                 "title": "How To: Federated Stars (2024)",
@@ -71,16 +83,16 @@
                 "href": "https://martinalderson.com/posts/ai-safety-vs-security/"
             },
             {
-                "title": "It took a year to ship WebAssembly in Anubis",
-                "href": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+                "title": "NetBSD 9.5 released and EOL for netbsd-9",
+                "href": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and"
+            },
+            {
+                "title": "See Windows CE Running On The N64",
+                "href": "https://retrododo.com/see-windows-ce-running-on-the-n64/"
             },
             {
                 "title": "Beyond ORMs",
                 "href": "https://noteflakes.com/articles/2026-09-05-beyond-orms"
-            },
-            {
-                "title": "NetBSD 9.5 released and EOL for netbsd-9",
-                "href": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and"
             },
             {
                 "title": "What filesystem are you running on your NAS/Backups, and why?",
@@ -89,18 +101,6 @@
             {
                 "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
                 "href": "https://arxiv.org/abs/2607.24888"
-            },
-            {
-                "title": "See Windows CE Running On The N64",
-                "href": "https://retrododo.com/see-windows-ce-running-on-the-n64/"
-            },
-            {
-                "title": "Maybe We Shouldn't Be Reviewing All This Code",
-                "href": "https://martinfowler.com/rachels-ramblings/code-review.html"
-            },
-            {
-                "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-                "href": "https://uutils.org/blog/2026-08-error-diagnostics/"
             }
         ]
     },
@@ -561,124 +561,124 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Nitter and XCancel restored",
-                "href": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
-            },
-            {
-                "title": "Your intellectual fly is open (2025)",
-                "href": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
-            },
-            {
-                "title": "It took a year to ship WebAssembly in Anubis",
-                "href": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+                "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+                "href": "https://grapheneos.social/@GrapheneOS/117225539756835649"
             },
             {
                 "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
                 "href": "https://github.com/marsbos/mador"
             },
             {
-                "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-                "href": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and"
-            },
-            {
-                "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-                "href": "https://grapheneos.social/@GrapheneOS/117225539756835649"
+                "title": "Your intellectual fly is open (2025)",
+                "href": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
             },
             {
                 "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
                 "href": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
             },
             {
-                "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials",
-                "href": "https://www.atlasobscura.com/places/black-hole-of-los-alamos"
+                "title": "It took a year to ship WebAssembly in Anubis",
+                "href": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
             },
             {
-                "title": "Research carried out using NetBSD",
-                "href": "https://www.netbsd.org/gallery/research.html"
+                "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+                "href": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and"
+            },
+            {
+                "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
+                "href": "https://www.atlasobscura.com/places/black-hole-of-los-alamos"
             },
             {
                 "title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
                 "href": "https://babylonian-collection.yale.edu/about/babylonian-cooking"
             },
             {
-                "title": "An Alien Mind",
-                "href": "https://openai.com/index/an-alien-mind/"
+                "title": "Harnessing the Universal Geometry of Embeddings",
+                "href": "https://arxiv.org/abs/2505.12540"
             },
             {
-                "title": "Show HN: VODForge \u2013 a free local desktop UI for YouTube video/playlist downloads",
-                "href": "https://getvodforge.com/"
+                "title": "Research carried out using NetBSD",
+                "href": "https://www.netbsd.org/gallery/research.html"
             },
             {
-                "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-                "href": "https://github.com/mmeyerlein/meclaw"
-            },
-            {
-                "title": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
-                "href": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm"
-            },
-            {
-                "title": "Doomscrolling Ourselves to Death",
-                "href": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death"
+                "title": "Asahi Linux on M3",
+                "href": "https://asahilinux.org/2026/09/m2-episode-1/"
             },
             {
                 "title": "A/I shuts down \u2013 Stay human",
                 "href": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
             },
             {
-                "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
-                "href": "https://www.vidact.dev/"
-            },
-            {
-                "title": "The car industry A/B tested selling a car with and without CarPlay",
-                "href": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/"
-            },
-            {
                 "title": "Electronic skin for prosthetics to sense temperature and pressure",
                 "href": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/"
             },
             {
-                "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-                "href": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub"
+                "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
+                "href": "https://www.vidact.dev/"
+            },
+            {
+                "title": "Reverse engineering the storage format for an undocumented database",
+                "href": "https://blog.glazer.ee/posts/converting-cronos/"
+            },
+            {
+                "title": "Doomscrolling Ourselves to Death",
+                "href": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death"
+            },
+            {
+                "title": "Show HN: VODForge \u2013 a free local desktop UI for YouTube video/playlist downloads",
+                "href": "https://getvodforge.com/"
+            },
+            {
+                "title": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
+                "href": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm"
+            },
+            {
+                "title": "A Week of Bug Reporting",
+                "href": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html"
             },
             {
                 "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
                 "href": "https://en.wikipedia.org/wiki/M-DISC"
             },
             {
-                "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-                "href": "https://cloudinabottle.org/blog/launch-post"
+                "title": "An Alien Mind",
+                "href": "https://openai.com/index/an-alien-mind/"
             },
             {
-                "title": "The revolt of the reader",
-                "href": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
+                "title": "D2 Is Non-Profit",
+                "href": "https://d2lang.com/blog/d2-non-profit/"
             },
             {
-                "title": "Asahi Linux Now Officially Supports Apple M3 Macs \u2013 With Caveats",
-                "href": "https://www.phoronix.com/news/Asahi-Linux-Official-M3"
+                "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+                "href": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/"
             },
             {
-                "title": "Research acceleration: The view inside OpenAI",
-                "href": "https://openai.com/index/research-acceleration-view-inside-openai"
-            },
-            {
-                "title": "There Gonna Be a Shortage of Everything",
-                "href": "https://out-of-hell.xylon.me.uk/shortage.html"
-            },
-            {
-                "title": "The many mysteries and lessons of the Bayeux tapestry",
-                "href": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry"
-            },
-            {
-                "title": "IBM Quantum Nighthawk R2",
-                "href": "https://www.ibm.com/quantum/blog/nighthawk-r2"
+                "title": "Nitter and XCancel resume service after legal advice",
+                "href": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
             },
             {
                 "title": "Music Theory for Programmers",
                 "href": "https://runjs.app/blog/music-theory-for-programmers"
             },
             {
-                "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
-                "href": "item?id=49589730"
+                "title": "Research acceleration: The view inside OpenAI",
+                "href": "https://openai.com/index/research-acceleration-view-inside-openai"
+            },
+            {
+                "title": "IBM Quantum Nighthawk R2",
+                "href": "https://www.ibm.com/quantum/blog/nighthawk-r2"
+            },
+            {
+                "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+                "href": "https://github.com/FulltimeFeline/Sol"
+            },
+            {
+                "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+                "href": "https://shukla.io/quantum-oracle-engineering/"
+            },
+            {
+                "title": "The car industry A/B tested selling a car with and without CarPlay",
+                "href": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/"
             }
         ]
     }
