@@ -15,20 +15,48 @@
                 "href": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
             },
             {
-                "title": "Python Iceberg",
-                "href": "https://aleyan.com/projects/python-iceberg/"
+                "title": "bzip3: A better and stronger spiritual successor to BZip2",
+                "href": "https://github.com/iczelia/bzip3"
+            },
+            {
+                "title": "Rust debugging survey 2026 results",
+                "href": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/"
             },
             {
                 "title": "Two Tiny Utils for the Result Pattern",
                 "href": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern"
             },
             {
+                "title": "How well do agents use test/verification techniques?",
+                "href": "https://danluu.com/agentic-testing/"
+            },
+            {
                 "title": "Internationalization and Localization",
                 "href": "https://www.kashyapsuhas.com/blog/i18n-l10n"
             },
             {
+                "title": "Python Iceberg",
+                "href": "https://aleyan.com/projects/python-iceberg/"
+            },
+            {
+                "title": "The Dataflow Model Revisited",
+                "href": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf"
+            },
+            {
+                "title": "\"Hammock Driven Development\" (2010)",
+                "href": "https://youtu.be/f84n5oFoZBc"
+            },
+            {
+                "title": "Demystifying complex configurations",
+                "href": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//"
+            },
+            {
                 "title": "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",
                 "href": "https://github.com/triglav-os/gem"
+            },
+            {
+                "title": "Making a Python interpreter in 1024 bytes",
+                "href": "https://austinhenley.com/blog/python1024.html"
             },
             {
                 "title": "QBittorrent breaks out of sandbox to commit crimes",
@@ -39,68 +67,40 @@
                 "href": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
             },
             {
-                "title": "Making a Python interpreter in 1024 bytes",
-                "href": "https://austinhenley.com/blog/python1024.html"
+                "title": "What are you doing this week?",
+                "href": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week"
+            },
+            {
+                "title": "What every kernel programmer should know about Jump Labels",
+                "href": "https://walac.github.io/jumplabels/"
             },
             {
                 "title": "NetBSD 11 from scratch",
                 "href": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/"
             },
             {
-                "title": "How well do agents use test/verification techniques?",
-                "href": "https://danluu.com/agentic-testing/"
+                "title": "Signing TLS handshakes inside a TPM",
+                "href": "https://bschaatsbergen.com/posts/go-tpm-tls/"
             },
             {
-                "title": "What are you doing this week?",
-                "href": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week"
-            },
-            {
-                "title": "Demystifying complex configurations",
-                "href": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//"
-            },
-            {
-                "title": "\"Hammock Driven Development\" (2010)",
-                "href": "https://youtu.be/f84n5oFoZBc"
+                "title": "Conquering Entropy: Cultivating Trust",
+                "href": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/"
             },
             {
                 "title": "Have the frontier labs mixed up AI safety and security?",
                 "href": "https://martinalderson.com/posts/ai-safety-vs-security/"
             },
             {
-                "title": "\"Simple Made Easy\" (2011)",
-                "href": "https://www.youtube.com/watch?v=SxdOUGdseq4"
-            },
-            {
                 "title": "Terence Tao on \u201cprematurely solving [a maths] problem by purely AI-powered methods\u201d",
                 "href": "https://mathstodon.xyz/@tao/117207856734787448"
             },
             {
+                "title": "\"Simple Made Easy\" (2011)",
+                "href": "https://www.youtube.com/watch?v=SxdOUGdseq4"
+            },
+            {
                 "title": "Data races and the limits of ThreadSanitizer in C and Go",
                 "href": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
-            },
-            {
-                "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
-                "href": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/"
-            },
-            {
-                "title": "The revolt of the reader",
-                "href": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
-            },
-            {
-                "title": "Rust debugging survey 2026 results",
-                "href": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/"
-            },
-            {
-                "title": "Signing TLS handshakes inside a TPM",
-                "href": "https://bschaatsbergen.com/posts/go-tpm-tls/"
-            },
-            {
-                "title": "Any Nix package, live in your browser",
-                "href": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser"
-            },
-            {
-                "title": "Radix_FW60: handheld CP/M 2.2 computer",
-                "href": "https://github.com/BrettHallen/Radix_FW60"
             }
         ]
     },
@@ -222,6 +222,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Instead of Fighting AI, Some Teachers Work It Into Their Lessons",
+                "href": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "A Man Charged His EV at a Dealership - and Was Billed $418",
+                "href": "https://hardware.slashdot.org/story/26/09/07/012247/a-man-charged-his-ev-at-a-dealership---and-was-billed-418?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
                 "href": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,14 +280,6 @@
             {
                 "title": "How US Campaigns Are Already Using AI to Try to Sway Voters",
                 "href": "https://politics.slashdot.org/story/26/09/05/223250/how-us-campaigns-are-already-using-ai-to-try-to-sway-voters?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "FSF is Now on Bluesky - But Won't Advocate Signing Up Due to Nonfree JavaScript",
-                "href": "https://news.slashdot.org/story/26/09/05/0452205/fsf-is-now-on-bluesky---but-wont-advocate-signing-up-due-to-nonfree-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "The World Now Has More Seniors Than Young People - for the First Time In History",
-                "href": "https://slashdot.org/story/26/09/05/0548237/the-world-now-has-more-seniors-than-young-people---for-the-first-time-in-history?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -561,124 +561,124 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "De-Brainrot Vacations",
-                "href": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"
+                "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+                "href": "https://lax-skyline.parcelscope.net/"
             },
             {
-                "title": "bzip3",
-                "href": "https://github.com/iczelia/bzip3"
+                "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+                "href": "https://kallus.org/blog/dummit_and_foote.html"
             },
             {
-                "title": "Keep Our Servers Running",
-                "href": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+                "title": "WeatherNext 3",
+                "href": "https://deepmind.google/science/weathernext/"
             },
             {
-                "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-                "href": "https://mathathonchallenge.com/index.html"
+                "title": "Macbeth and His Problems",
+                "href": "https://porticoquarterly.com/essay/macbeth-and-his-problems/"
+            },
+            {
+                "title": "Methods for Random Gradients (2024)",
+                "href": "https://justinjay.wang/methods-for-random-gradients/"
             },
             {
                 "title": "Simple Is Not Small",
                 "href": "https://jyn.dev/simple-is-not-the-same-as-small/"
             },
             {
-                "title": "Live map of public transport in Belgium",
-                "href": "https://openbaarvervoerbelgie.be/"
+                "title": "Decoding the NEC V20 Microcode",
+                "href": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
             },
             {
-                "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-                "href": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"
-            },
-            {
-                "title": "Splash-free urinals (2025)",
-                "href": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false"
-            },
-            {
-                "title": "Speculative Decoding in vLLM on AMD GPUs",
-                "href": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"
+                "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+                "href": "https://mathathonchallenge.com/index.html"
             },
             {
                 "title": "The Dataflow Model Revisited",
                 "href": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited"
             },
             {
-                "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-                "href": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532"
+                "title": "bzip3",
+                "href": "https://github.com/iczelia/bzip3"
             },
             {
-                "title": "Bill Gates tries to install MovieMaker",
-                "href": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"
+                "title": "Icy Moons Are Ocean Worlds",
+                "href": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds"
             },
             {
-                "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
-                "href": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set"
+                "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+                "href": "https://www.youtube.com/watch?v=6IFVTcM28KA"
             },
             {
-                "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-                "href": "item?id=49600233"
+                "title": "Decapitating a MacBook (2025)",
+                "href": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/"
             },
             {
-                "title": "Whistle Synth",
+                "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+                "href": "https://arxiv.org/abs/2607.24888"
+            },
+            {
+                "title": "Academia as a d-index measuring contest",
+                "href": "https://kevinmunger.substack.com/p/introducing-the-k-index"
+            },
+            {
+                "title": "Scientists observe Einstein's gravity in the quantum world",
+                "href": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world"
+            },
+            {
+                "title": "Keep Our Servers Running",
+                "href": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+            },
+            {
+                "title": "Replaceable but Employed: Automation and the Meaning of Work",
+                "href": "https://www.nber.org/papers/w35559"
+            },
+            {
+                "title": "My practical approach to surfing the web safely",
+                "href": "https://molily.de/safe-websurfing/"
+            },
+            {
+                "title": "Whistle Synth Mac App",
                 "href": "https://www.jefftk.com/p/whistle-synth-mac-app"
             },
             {
-                "title": "Impedance Matching (2017)",
-                "href": "https://www.edge.org/response-detail/27238"
+                "title": "This Month in Ladybird \u2013 August 2026",
+                "href": "https://ladybird.org/newsletter/2026-08-31/"
             },
             {
-                "title": "Decoding the NEC V20 Microcode",
-                "href": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
+                "title": "How to bring up the Linux Kernel on a new platform",
+                "href": "https://werwolv.net/posts/linux_bringup/"
             },
             {
-                "title": "Making a Python interpreter in 1024 bytes",
-                "href": "https://austinhenley.com/blog/python1024.html"
+                "title": "Catching Crumbs from the Table (2000)",
+                "href": "https://www.nature.com/articles/35014679"
             },
             {
-                "title": "Ask HN: Fable hacked my piano, can I release the results?",
-                "href": "item?id=49577129"
+                "title": "Live map of public transport in Belgium",
+                "href": "https://openbaarvervoerbelgie.be/"
             },
             {
-                "title": "Unified Arabic",
-                "href": "https://worksthatwork.com/6/unified-arabic"
+                "title": "Schemy Lisp En DOS",
+                "href": "https://sled.neocities.org/"
             },
             {
-                "title": "It took a year to ship WebAssembly in Anubis",
-                "href": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+                "title": "Show HN: HomeCat \u2013 Design your backyard office",
+                "href": "https://myhomecat.com"
             },
             {
-                "title": "Tiny $70 Xteink X3 e-reader",
-                "href": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/"
+                "title": "Show HN: Wg-admin \u2013 web UI for an existing WireGuard host",
+                "href": "https://github.com/logimaxx/wg-admin"
             },
             {
-                "title": "Ask HN: How do you manage skills files?",
-                "href": "item?id=49589914"
+                "title": "Bill Gates tries to install MovieMaker (2003)",
+                "href": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker"
             },
             {
-                "title": "If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one",
-                "href": "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/"
+                "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+                "href": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/"
             },
             {
-                "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-                "href": "https://grapheneos.social/@GrapheneOS/117225539756835649"
-            },
-            {
-                "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
-                "href": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud"
-            },
-            {
-                "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-                "href": "item?id=49596976"
-            },
-            {
-                "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-                "href": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/"
-            },
-            {
-                "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-                "href": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/"
-            },
-            {
-                "title": "N\u00f6rdlinger Ries Impact Crater",
-                "href": "https://en.wikipedia.org/wiki/N\u00f6rdlinger_Ries"
+                "title": "Speculative Decoding in vLLM on AMD GPUs",
+                "href": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"
             }
         ]
     }
