@@ -3,16 +3,16 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "I made a build visualizer to understand Bun\u2019s compile times",
+                "href": "https://lalitm.com/post/buildprof/"
+            },
+            {
                 "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
                 "href": "https://hachyderm.io/@simontatham/117201594980991062"
             },
             {
                 "title": "Feeling sad about AI",
                 "href": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
-            },
-            {
-                "title": "I made a build visualizer to understand Bun\u2019s compile times",
-                "href": "https://lalitm.com/post/buildprof/"
             },
             {
                 "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -39,12 +39,20 @@
                 "href": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/"
             },
             {
-                "title": "Logo Programming Language",
-                "href": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html"
+                "title": "We Must Pace the Frontier",
+                "href": "https://darioamodei.com/post/we-must-pace-the-frontier"
             },
             {
-                "title": "Dario Amodei \u2014We Must Pace the Frontier",
-                "href": "https://darioamodei.com/post/we-must-pace-the-frontier"
+                "title": "A Few Good Ideas in Programming Languages",
+                "href": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/"
+            },
+            {
+                "title": "Make it anyway",
+                "href": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+            },
+            {
+                "title": "Logo Programming Language",
+                "href": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html"
             },
             {
                 "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
@@ -63,44 +71,36 @@
                 "href": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html"
             },
             {
-                "title": "A Few Good Ideas in Programming Languages",
-                "href": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/"
-            },
-            {
-                "title": "Make it anyway",
-                "href": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+                "title": "ChiPass Release 2026.09.0",
+                "href": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0"
             },
             {
                 "title": "Why do companies stop using Haskell?",
                 "href": "https://www.youtube.com/watch?v=2PebXEak24M"
             },
             {
-                "title": "ChiPass Release 2026.09.0",
-                "href": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0"
+                "title": "Optimizing a single Rust Clippy lint by 3133X",
+                "href": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/"
             },
             {
                 "title": "fresh: Terminal based IDE & text editor: easy, powerful and fast",
                 "href": "https://github.com/sinelaw/fresh"
             },
             {
-                "title": "evergarden",
-                "href": "https://evergarden.moe/"
-            },
-            {
                 "title": "A list of macOS defaults commands with demos",
                 "href": "https://macos-defaults.com/"
             },
             {
-                "title": "A Severe Misalignment of AI in Mathematics",
-                "href": "https://mathandai.org/"
+                "title": "evergarden",
+                "href": "https://evergarden.moe/"
+            },
+            {
+                "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+                "href": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html"
             },
             {
                 "title": "Solod 0.4: Better C interop",
                 "href": "https://antonz.org/solod-0.4/"
-            },
-            {
-                "title": "js65 - Advanced 6502 assembler with patching support based on ca65 syntax",
-                "href": "https://jsnesx.github.io/js65/"
             }
         ]
     },
@@ -222,6 +222,10 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Automattic's Matt Mullenweg Claims He's Back 'In Control'",
+                "href": "https://slashdot.org/story/26/09/12/1751208/automattics-matt-mullenweg-claims-hes-back-in-control?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "LG Responds to TV Spying Allegations",
                 "href": "https://yro.slashdot.org/story/26/09/12/1652215/lg-responds-to-tv-spying-allegations?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -276,10 +280,6 @@
             {
                 "title": "Climate 'Feedback Loops' Could Worsen Global Warming By 30%, Study Finds",
                 "href": "https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent",
-                "href": "https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -569,64 +569,84 @@
                 "href": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
             },
             {
+                "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+                "href": "https://withspecific.com/benchmarks/real-swe"
+            },
+            {
+                "title": "Apple iPod Engraver (2019)",
+                "href": "https://dunstanorchard.com/apple-ipod-engraver/"
+            },
+            {
                 "title": "Stabilizing Rust's Never Type",
                 "href": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/"
-            },
-            {
-                "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-                "href": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio"
-            },
-            {
-                "title": "Will There Be a 7G?",
-                "href": "https://arxiv.org/abs/2609.01877"
-            },
-            {
-                "title": "We must pace the frontier",
-                "href": "https://darioamodei.com/post/we-must-pace-the-frontier"
-            },
-            {
-                "title": "IKEA made a mod for Skyrim [video]",
-                "href": "https://www.youtube.com/watch?v=iZODN0QUgjI"
             },
             {
                 "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
                 "href": "https://modelrift.com/blog/cadquery-vs-openscad/"
             },
             {
+                "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+                "href": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio"
+            },
+            {
                 "title": "I made a build visualizer to understand Bun's compile times",
                 "href": "https://lalitm.com/post/buildprof/"
+            },
+            {
+                "title": "Will There Be a 7G?",
+                "href": "https://arxiv.org/abs/2609.01877"
+            },
+            {
+                "title": "IKEA made a mod for Skyrim [video]",
+                "href": "https://www.youtube.com/watch?v=iZODN0QUgjI"
+            },
+            {
+                "title": "We must pace the frontier",
+                "href": "https://darioamodei.com/post/we-must-pace-the-frontier"
             },
             {
                 "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
                 "href": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html"
             },
             {
-                "title": "A Mathematical Framework for Transformer Circuits (2021)",
-                "href": "https://transformer-circuits.pub/2021/framework/index.html"
-            },
-            {
-                "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-                "href": "https://eiln.github.io/posts/ane.html"
-            },
-            {
-                "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-                "href": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/"
-            },
-            {
-                "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-                "href": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass"
+                "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+                "href": "https://hachyderm.io/@simontatham/117201594980991062"
             },
             {
                 "title": "How Trail of Bits helps verify the integrity of Signal chats",
                 "href": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/"
             },
             {
+                "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+                "href": "https://eiln.github.io/posts/ane-dma.html"
+            },
+            {
+                "title": "LG Says We're Fake News [video]",
+                "href": "https://www.youtube.com/watch?v=ToP9xfLDSME"
+            },
+            {
+                "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+                "href": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/"
+            },
+            {
+                "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+                "href": "https://eiln.github.io/posts/ane.html"
+            },
+            {
                 "title": "The Magic Behind Cubacadabra",
                 "href": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/"
             },
             {
-                "title": "Navier-Stokes Announcement",
-                "href": "https://www.claymath.org/news/navier-stokes-announcement/"
+                "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+                "href": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+            },
+            {
+                "title": "A Mathematical Framework for Transformer Circuits (2021)",
+                "href": "https://transformer-circuits.pub/2021/framework/index.html"
+            },
+            {
+                "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+                "href": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass"
             },
             {
                 "title": "Performance of WebAssembly Runtimes in 2026",
@@ -637,48 +657,28 @@
                 "href": "https://pgadey.ca/blog/eating-fruit-skins/"
             },
             {
-                "title": "A few good ideas in programming languages",
-                "href": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/"
+                "title": "Navier-Stokes Announcement",
+                "href": "https://www.claymath.org/news/navier-stokes-announcement/"
+            },
+            {
+                "title": "Financial Times' 404 Page not Found",
+                "href": "https://www.ft.com/article/404"
             },
             {
                 "title": "LRU is harder to beat than the KV-cache papers suggest",
                 "href": "https://github.com/gauravapiscean/agentic-kv-cache"
             },
             {
-                "title": "\u03bb Snap \u2013 An inviting programming language for kids and adults for CS study",
-                "href": "https://snap.berkeley.edu/"
-            },
-            {
-                "title": "How we manage and engage with our horses shapes their personality",
-                "href": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality"
-            },
-            {
                 "title": "The worst spam emails: iLands AI agent hustle",
                 "href": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
             },
             {
+                "title": "\u03bb Snap \u2013 An inviting programming language for kids and adults for CS study",
+                "href": "https://snap.berkeley.edu/"
+            },
+            {
                 "title": "A Design Space Exploration of Async/Await",
                 "href": "https://cel.cs.brown.edu/blog/design-space-async-await/"
-            },
-            {
-                "title": "google.com/goto: Google's anti-scraping update",
-                "href": "https://www.autom.dev/blog/google-search-goto-links"
-            },
-            {
-                "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
-                "href": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic"
-            },
-            {
-                "title": "A misalignment of AI in mathematics",
-                "href": "https://mathandai.org/"
-            },
-            {
-                "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-                "href": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun"
-            },
-            {
-                "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-                "href": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250"
             }
         ]
     }
