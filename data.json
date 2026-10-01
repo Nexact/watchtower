@@ -3,8 +3,8 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "The Cuckoo's Egg",
-                "href": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)"
+                "title": "Hanami, Why?: Introductions",
+                "href": "https://aaronmallen.me/writing/hanami-why-introductions"
             },
             {
                 "title": "What TLA+ can and can't check",
@@ -15,24 +15,40 @@
                 "href": "https://www.tcl-lang.org/software/tcltk/9.1.html"
             },
             {
-                "title": "Hanami, Why?: Introductions",
-                "href": "https://aaronmallen.me/writing/hanami-why-introductions"
+                "title": "The Cuckoo's Egg",
+                "href": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)"
+            },
+            {
+                "title": "EDG C/C++ Compiler Project",
+                "href": "https://github.com/edgcpp/compiler"
             },
             {
                 "title": "Differences between `foldl` and `foldr`",
                 "href": "https://blog.haskell.org/foldl-and-foldr/"
             },
             {
-                "title": "How to speed up the Rust compiler in September 2026",
-                "href": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
-            },
-            {
                 "title": "Finding Bugs",
                 "href": "https://matklad.github.io/2026/09/19/finding-bugs.html"
             },
             {
-                "title": "EDG C/C++ Compiler Project",
-                "href": "https://github.com/edgcpp/compiler"
+                "title": "Rust to WGSL transpiler `wgsl-rs` released",
+                "href": "https://renderling.xyz/articles/wgsl-rs-beta-release.html"
+            },
+            {
+                "title": "ASM Bots: Core War in real 8086 machine code",
+                "href": "https://asmbots.io"
+            },
+            {
+                "title": "Major rsync upgrade in Debian because of 33 CVEs",
+                "href": "https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33"
+            },
+            {
+                "title": "We used a database as a message queue. Now we use Kafka",
+                "href": "https://www.tigrisdata.com/blog/quick-fdb-kafka/"
+            },
+            {
+                "title": "How to speed up the Rust compiler in September 2026",
+                "href": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
             },
             {
                 "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
@@ -43,16 +59,24 @@
                 "href": "https://comonad.com/reader/2026/turbo-haskell/"
             },
             {
-                "title": "We used a database as a message queue. Now we use Kafka",
-                "href": "https://www.tigrisdata.com/blog/quick-fdb-kafka/"
-            },
-            {
                 "title": "Coding is not solved",
                 "href": "https://blog.alexewerlof.com/p/coding-is-not-solved"
             },
             {
                 "title": "Pining for Arc Downcasting in Rust",
                 "href": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/"
+            },
+            {
+                "title": "Reviving Valve's 15-year-old e-book",
+                "href": "https://nikolan.net/posts/portal2/"
+            },
+            {
+                "title": "ESXi Exploitation in the Wild",
+                "href": "https://www.huntress.com/blog/esxi-vm-escape-exploit"
+            },
+            {
+                "title": "Typeclasses vs Modules",
+                "href": "https://sm2n.ca/articles/typeclasses-vs-modules/"
             },
             {
                 "title": "Deser: Rethinking Rust Serialization",
@@ -67,40 +91,16 @@
                 "href": "https://cow-wm.codeberg.page/cow/"
             },
             {
-                "title": "Two Kinds of SQL Query Builders",
-                "href": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders"
-            },
-            {
-                "title": "attezt: device attestation, PKCS11 and ACME",
-                "href": "https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30"
-            },
-            {
-                "title": "Rust to WGSL transpiler `wgsl-rs` released",
-                "href": "https://renderling.xyz/articles/wgsl-rs-beta-release.html"
-            },
-            {
-                "title": "Dirty Optimization Secrets (C for Playdate)",
-                "href": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011"
-            },
-            {
-                "title": "Qt 6.12 LTS Released",
-                "href": "https://www.qt.io/blog/qt-6.12-released"
-            },
-            {
-                "title": "Back to Backups: A Year in Review",
-                "href": "https://signal.org/blog/backup-improvements/"
-            },
-            {
                 "title": "A no-cost audio upgrade for my workstation",
                 "href": "https://mit.teil.space/rane-sl3.html"
             },
             {
-                "title": "Hardly Promethean",
-                "href": "https://jardo.dev/hardly-promethean"
+                "title": "Two Kinds of SQL Query Builders",
+                "href": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders"
             },
             {
-                "title": "The Only Intuitive Interface Is The Nipple",
-                "href": "https://www.greenend.org.uk/rjk/misc/nipple.html"
+                "title": "Dirty Optimization Secrets (C for Playdate)",
+                "href": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011"
             }
         ]
     },
@@ -565,120 +565,120 @@
                 "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
             },
             {
-                "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+                "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
                 "href": "https://www.thespacereview.com/article/4951/1"
-            },
-            {
-                "title": "Surprisingly complex waves reveal the brain's inner workings",
-                "href": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/"
-            },
-            {
-                "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-                "href": "https://twitter.com/tuakdotsol/status/2105105417760391258"
-            },
-            {
-                "title": "EDG C++ Compiler is open source",
-                "href": "https://github.com/edgcpp/compiler"
-            },
-            {
-                "title": "EDG C++ front-end goes public",
-                "href": "https://edgcpp.org/#transition"
-            },
-            {
-                "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-                "href": "https://github.com/magnitudedev/magnitude"
-            },
-            {
-                "title": "56k.rip \u2013 the 1996 dial-up internet experience",
-                "href": "https://56k.rip/"
-            },
-            {
-                "title": "You said no MCP",
-                "href": "https://earendil.com/posts/you-said-no-mcp/"
-            },
-            {
-                "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-                "href": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/"
-            },
-            {
-                "title": "A brief history of the Bloomberg terminal",
-                "href": "https://spectrum.ieee.org/bloomberg-terminal"
-            },
-            {
-                "title": "Halfspace experimental IDE for solid modeling with distance fields",
-                "href": "https://www.mattkeeter.com/projects/halfspace/"
-            },
-            {
-                "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-                "href": "https://www.chompiclub.com/opensource"
-            },
-            {
-                "title": "Doing a Machine Learning PhD While Working in Japan",
-                "href": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
-            },
-            {
-                "title": "Before pixels: Modular industrial dashboards",
-                "href": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/"
-            },
-            {
-                "title": "A Closer Look at Australopithecus Africanus",
-                "href": "https://lflank.wordpress.com/2026/09/29/a-closer-look-at-australopithecus-africanus/"
-            },
-            {
-                "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-                "href": "https://www.software3d.com/MillersMonster.php"
-            },
-            {
-                "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-                "href": "https://lathoa.ai/en"
-            },
-            {
-                "title": "Coltrane's Tone Circle",
-                "href": "https://jtomschroeder.com/blog/tone-circle/"
-            },
-            {
-                "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-                "href": "https://www.neuroai.science/p/functional-ultrasound-imaging-from"
-            },
-            {
-                "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-                "href": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer"
             },
             {
                 "title": "Why the Bronze Age Collapsed",
                 "href": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age"
             },
             {
-                "title": "I could've accessed 17T Microsoft records",
-                "href": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records"
+                "title": "Fuck Android Developer Verification Program",
+                "href": "https://twitter.com/0xcrypto/status/2105515822643114182"
             },
             {
-                "title": "Automating Wi-Fi setup testing on the ESP32",
-                "href": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/"
+                "title": "Is sandboxing sufficient to contain rogue agents?",
+                "href": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/"
+            },
+            {
+                "title": "Surprisingly complex waves reveal the brain's inner workings",
+                "href": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/"
+            },
+            {
+                "title": "Suits Are Better Tech Than Modern Clothes",
+                "href": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/"
+            },
+            {
+                "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+                "href": "https://github.com/magnitudedev/magnitude"
+            },
+            {
+                "title": "EDG C++ front-end goes public",
+                "href": "https://edgcpp.org/#transition"
+            },
+            {
+                "title": "Halfspace experimental IDE for solid modeling with distance fields",
+                "href": "https://www.mattkeeter.com/projects/halfspace/"
+            },
+            {
+                "title": "A brief history of the Bloomberg terminal",
+                "href": "https://spectrum.ieee.org/bloomberg-terminal"
+            },
+            {
+                "title": "Before pixels: Modular industrial dashboards",
+                "href": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/"
+            },
+            {
+                "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+                "href": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/"
+            },
+            {
+                "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+                "href": "https://twitter.com/tuakdotsol/status/2105105417760391258"
+            },
+            {
+                "title": "Clipboard Normalizer",
+                "href": "https://www.jefftk.com/p/clipboard-normalizer-in-mac-app-store"
+            },
+            {
+                "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+                "href": "https://www.chompiclub.com/opensource"
+            },
+            {
+                "title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
+                "href": "https://ledge.sh"
             },
             {
                 "title": "What TLA+ can and can't check",
                 "href": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
             },
             {
+                "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+                "href": "https://56k.rip/"
+            },
+            {
                 "title": "The last time my family was replaced by technology",
                 "href": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/"
             },
             {
-                "title": "Mechanochemistry of Molecular Motors [video]",
-                "href": "https://www.youtube.com/watch?v=hpxbMVbL3Ms"
+                "title": "Show HN: Yantra \u2013 an LALR(1) parser generator for C++",
+                "href": "https://github.com/TantrixAuto/yantra"
+            },
+            {
+                "title": "Doing a Machine Learning PhD While Working in Japan",
+                "href": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
             },
             {
                 "title": "Burning Man death rates \u2013 A short lesson in statistics",
                 "href": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson"
             },
             {
-                "title": "pldb: programming languages papers",
-                "href": "https://pldb.kirancodes.me/"
-            },
-            {
                 "title": "Responsible Release of AI-Generated Mathematics",
                 "href": "https://agmai.org/general-sep29/"
+            },
+            {
+                "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+                "href": "https://www.software3d.com/MillersMonster.php"
+            },
+            {
+                "title": "Coltrane's Tone Circle",
+                "href": "https://jtomschroeder.com/blog/tone-circle/"
+            },
+            {
+                "title": "PlayBook: A Programmable Paper Notebook [video]",
+                "href": "https://www.youtube.com/watch?v=GurWDZ8ENpA"
+            },
+            {
+                "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+                "href": "https://www.neuroai.science/p/functional-ultrasound-imaging-from"
+            },
+            {
+                "title": "LinkedIn Larpmaxxing",
+                "href": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
+            },
+            {
+                "title": "SDF Public Access Unix System ... est. 1987",
+                "href": "https://sdf.org/"
             }
         ]
     }
