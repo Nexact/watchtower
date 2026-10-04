@@ -27,16 +27,28 @@
                 "href": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
             },
             {
+                "title": "ncdu: NCurses Disk Usage (an updated fork)",
+                "href": "https://github.com/rcalixte/ncdu"
+            },
+            {
+                "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+                "href": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6"
+            },
+            {
+                "title": "Flatpak from the CLI sucks",
+                "href": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/"
+            },
+            {
+                "title": "Self-hosted HTTP tunnels with SSH and nginx",
+                "href": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh"
+            },
+            {
                 "title": "System-level ad-blocking in Android",
                 "href": "https://kevinboone.me/adblock.html"
             },
             {
                 "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
                 "href": "https://frankwiles.com/posts/i-got-targeted/"
-            },
-            {
-                "title": "Flatpak from the CLI sucks",
-                "href": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/"
             },
             {
                 "title": "Our RISC-V emulator PasRISCV",
@@ -47,20 +59,24 @@
                 "href": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/"
             },
             {
-                "title": "An animated, customizable Git cheat sheet drawn by git-sim",
-                "href": "https://initialcommit.com/learn/git/animated-cheat-sheet"
+                "title": "Iroh global content discovery",
+                "href": "https://www.iroh.computer/blog/iroh-global-content-discovery"
             },
             {
                 "title": "An Update on Orion for Linux and Windows",
                 "href": "https://blog.kagi.com/update-orion-linux-windows"
             },
             {
+                "title": "Improving and Stabilizing the racoon2 IKE Daemon in NetBSD",
+                "href": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2"
+            },
+            {
                 "title": "Thoreau BASIC",
                 "href": "https://thoreaubasic.com/"
             },
             {
-                "title": "Improving and Stabilizing the racoon2 IKE Daemon in NetBSD",
-                "href": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2"
+                "title": "Protocol-aware recovery for consensus-based storage (2018)",
+                "href": "https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf"
             },
             {
                 "title": "Rust, In Sickness & In Health",
@@ -85,22 +101,6 @@
             {
                 "title": "gVisor is being donated to CNCF",
                 "href": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/"
-            },
-            {
-                "title": "Lobsters Interview with Sjamaan",
-                "href": "https://alexalejandre.com/interviews/peter-bex/"
-            },
-            {
-                "title": "Rust for CPython (Python Language Summit 2026)",
-                "href": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/"
-            },
-            {
-                "title": "A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines",
-                "href": "https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines"
-            },
-            {
-                "title": "Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)",
-                "href": "https://dl.acm.org/doi/epdf/10.1145/74818.74831"
             }
         ]
     },
@@ -222,6 +222,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Disney/Marvel's 'Avengers: Endgame' Beats 'Avatar' as Top-Grossing Film, 'Coyote vs Acme' #1 on Apple TV",
+                "href": "https://entertainment.slashdot.org/story/26/10/04/1934230/disneymarvels-avengers-endgame-beats-avatar-as-top-grossing-film-coyote-vs-acme-1-on-apple-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Particle Collider Experiment Recreates the Big Bang's Primordial Soup - and Finds Unexpected Pattern",
+                "href": "https://science.slashdot.org/story/26/10/04/1812250/particle-collider-experiment-recreates-the-big-bangs-primordial-soup---and-finds-unexpected-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "San Francisco's Car Crime Has Plunged. How Much Credit Does Flock Deserve?",
                 "href": "https://yro.slashdot.org/story/26/10/03/0553234/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,14 +280,6 @@
             {
                 "title": "California's Governor Wants Worker Protections from AI. But FSF Thinks Kill Switches are 'Dangerous Precedent'",
                 "href": "https://news.slashdot.org/story/26/10/03/077236/californias-governor-wants-worker-protections-from-ai-but-fsf-thinks-kill-switches-are-dangerous-precedent?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Someone Got Doom In an SQL Database",
-                "href": "https://developers.slashdot.org/story/26/10/03/0125235/someone-got-doom-in-an-sql-database?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "US Judge Rules Flock Search Was Mass Surveillance.  Bernie Sanders Proposes 'Ban Flock Act'",
-                "href": "https://yro.slashdot.org/story/26/10/03/0532218/us-judge-rules-flock-search-was-mass-surveillance-bernie-sanders-proposes-ban-flock-act?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -565,120 +565,120 @@
                 "href": "https://github.com/Niko1221/Strata"
             },
             {
-                "title": "Car is a smartphone on wheels. Here's who's listening",
-                "href": "https://automatictransmission.khoury.northeastern.edu/"
+                "title": "Remove and Disable Apple Macos27 AI Models Tool",
+                "href": "https://github.com/omlahore/RemoveMacAI"
             },
             {
-                "title": "A Map of Every Lighthouse on the Planet",
+                "title": "Improper redaction reveals Google Data Center water and electricity usage",
+                "href": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
+            },
+            {
+                "title": "A map of every lighthouse",
                 "href": "https://mapped.earth/lighthouses/world"
             },
             {
-                "title": "Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
+                "title": "'Neanderthals Among Us' review",
+                "href": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review"
+            },
+            {
+                "title": "Homa: The End of TCP for AI Clusters [video]",
+                "href": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
+            },
+            {
+                "title": "How effective altruism conquered the world (and might yet end it)",
+                "href": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world"
+            },
+            {
+                "title": "Results from the ASIC puzzle",
+                "href": "https://blog.janestreet.com/asic-puzzle-results/"
+            },
+            {
+                "title": "Show HN: Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
                 "href": "https://niklasroy.com/gtc/"
+            },
+            {
+                "title": "How to scale intent, quality, and artistry with AI [video]",
+                "href": "https://www.youtube.com/watch?v=GLvFTMtw4Jk"
+            },
+            {
+                "title": "Show HN: Build with Python \u2013 a beginner course where your code draws",
+                "href": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python"
             },
             {
                 "title": "Tell HN: Bob Cringely has died",
                 "href": "item?id=49949438"
             },
             {
+                "title": "A Minsky machine in ncurses terminfo",
+                "href": "https://seriot.ch/computation/terminfo/"
+            },
+            {
                 "title": "Show HN: AI search for every photo and every frame of video on macOS",
                 "href": "https://github.com/allenv0/SCM"
+            },
+            {
+                "title": "Incentives in Academic Research",
+                "href": "https://www.msoos.org/2026/10/incentives-in-academic-research/"
             },
             {
                 "title": "Why don't more developers \u201cuse the platform\u201d?",
                 "href": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
             },
             {
-                "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-                "href": "https://gamehistory.org/5k-magazines/"
+                "title": "Page Table Memory Consumption",
+                "href": "https://frn.sh/pagetables/"
             },
             {
-                "title": "The Heilbronn Problem",
-                "href": "https://math.tejstead.com/heilbronn/"
+                "title": "Automating my 35mm film scanning pipeline",
+                "href": "https://shannadige.com/blog/darkroom/"
+            },
+            {
+                "title": "Fog-Bank: Archiving the oldest webcam feed",
+                "href": "https://fog-bank.org/net"
             },
             {
                 "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
                 "href": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
             },
             {
+                "title": "Second Chances",
+                "href": "https://www.nybooks.com/articles/2026/10/22/second-chances-office-politics-wilfrid-sheed/"
+            },
+            {
+                "title": "cp: -r or -R?",
+                "href": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html"
+            },
+            {
+                "title": "Bill Draper has died",
+                "href": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html"
+            },
+            {
                 "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
                 "href": "https://github.com/PowderworksCode/headstart"
+            },
+            {
+                "title": "The Heilbronn Problem",
+                "href": "https://math.tejstead.com/heilbronn/"
+            },
+            {
+                "title": "Surely you have ultra-wideband radios on your bins too?",
+                "href": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/"
             },
             {
                 "title": "Agents don't need memory, they need documentation",
                 "href": "https://liao.gg/blog/agents-dont-need-memory"
             },
             {
-                "title": "Treachery in the Rodin Museum 3D scan verdict",
-                "href": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict"
+                "title": "What is going on with ceiling fans",
+                "href": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans"
             },
             {
                 "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
                 "href": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
             },
             {
-                "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-                "href": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos"
-            },
-            {
-                "title": "What's the Future for Pure Math Research in the Age of AI?",
-                "href": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
-            },
-            {
-                "title": "Hole Punch: Sling your spaceship around gravitational fields",
-                "href": "https://notoriousbfg.com/hole-punch/"
-            },
-            {
-                "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-                "href": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/"
-            },
-            {
-                "title": "L-systems generate weevils, pizza toppings, and matriarchal lineages",
-                "href": "https://blog.plover.com/2026/09/25/"
-            },
-            {
-                "title": "We're going to need default hard budget caps on pretty much everything",
-                "href": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
-            },
-            {
-                "title": "Reasons I didn't become an EMT, ranked",
-                "href": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/"
-            },
-            {
-                "title": "So you think you could be an electrician?",
-                "href": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"
-            },
-            {
-                "title": "I quit OpenAI because its culture is broken",
-                "href": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA"
-            },
-            {
-                "title": "We want you to build the next Git platform on Cloudflare",
-                "href": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/"
-            },
-            {
-                "title": "RuneScape's Position on Gen AI",
-                "href": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/"
-            },
-            {
-                "title": "We're working on a new RuneScape MMO",
-                "href": "https://play.runescape.com/4"
-            },
-            {
-                "title": "Blindsight (Watts Novel)",
-                "href": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)"
-            },
-            {
-                "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-                "href": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and"
-            },
-            {
-                "title": "gpuvis: GPU Trace Visualizer",
-                "href": "https://github.com/mikesart/gpuvis"
-            },
-            {
-                "title": "What Meta got right with Muse",
-                "href": "https://metedata.substack.com/p/what-meta-got-right-with-muse"
+                "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+                "href": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/"
             }
         ]
     }
