@@ -3,8 +3,36 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Programming Isn\u2019t Special",
+                "href": "https://blog.glyph.im/2026/10/programming-isnt-special.html"
+            },
+            {
+                "title": "Deno is joining Cloudflare",
+                "href": "https://deno.com/blog/cloudflare"
+            },
+            {
+                "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+                "href": "https://blueberrywren.dev/blog/primes/"
+            },
+            {
+                "title": "There are many themes, but this one is yours",
+                "href": "https://earendil.com/posts/system-theme/"
+            },
+            {
+                "title": "Why Are Coding Agents So Dumb?",
+                "href": "https://mtlynch.io/why-are-coding-agents-so-dumb/"
+            },
+            {
                 "title": "Bevy 0.20",
                 "href": "https://bevy.org/news/bevy-0-20/"
+            },
+            {
+                "title": "The Missing Piece in Rust Error Handling",
+                "href": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/"
+            },
+            {
+                "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+                "href": "https://letsencrypt.org/2026/10/07/64-day-certs.html"
             },
             {
                 "title": "The people holding up the internet",
@@ -15,92 +43,64 @@
                 "href": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/"
             },
             {
-                "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-                "href": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend"
             },
             {
-                "title": "The Missing Piece in Rust Error Handling",
-                "href": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/"
-            },
-            {
-                "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
-                "href": "https://arxiv.org/abs/2610.08144"
-            },
-            {
-                "title": "I've Been Deindexed by Google",
-                "href": "https://kennyqin.com/deindexed-by-google/"
-            },
-            {
-                "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-                "href": "https://letsencrypt.org/2026/10/07/64-day-certs.html"
-            },
-            {
-                "title": "Beauty in DVD Menus",
-                "href": "https://vale.rocks/posts/dvd-menus"
-            },
-            {
-                "title": "Anti-Patterns in Software Blogging",
-                "href": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/"
-            },
-            {
-                "title": "jujutsu (jj) 0.46.0",
-                "href": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0"
-            },
-            {
-                "title": "Software developers are not okay",
-                "href": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/"
-            },
-            {
-                "title": "Calling a function in C without naming it",
-                "href": "https://wiro.world/posts/calling-c-func-without-naming-it/"
-            },
-            {
-                "title": "B-Trees Are Back: Engineering Fast and Pageable Node Layouts",
-                "href": "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf"
-            },
-            {
-                "title": "Gentoo infrastructure sponsors wanted",
-                "href": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html"
+                "title": "HIP and ROCm as first-class citizens in Guix",
+                "href": "https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/"
             },
             {
                 "title": "Reducing undefined behavior in the C language",
                 "href": "https://lwn.net/Articles/1095811/"
             },
             {
-                "title": "Extending Guix",
-                "href": "https://guix.gnu.org/en/blog/2026/extending-guix/"
+                "title": "Deepthi Sigireddi from Supabase",
+                "href": "https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html"
+            },
+            {
+                "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+                "href": "https://arxiv.org/abs/2610.08144"
+            },
+            {
+                "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+                "href": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+            },
+            {
+                "title": "I've Been Deindexed by Google",
+                "href": "https://kennyqin.com/deindexed-by-google/"
+            },
+            {
+                "title": "Deeper dive: Keyboard differences between Windows and Macs",
+                "href": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
+            },
+            {
+                "title": "A minimal kernel in Swift, running in QEMU",
+                "href": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/"
+            },
+            {
+                "title": "Beauty in DVD Menus",
+                "href": "https://vale.rocks/posts/dvd-menus"
+            },
+            {
+                "title": "Spinlocks Considered Harmful (2020)",
+                "href": "https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html"
+            },
+            {
+                "title": "Unison Cloud is now open source",
+                "href": "https://www.unison-lang.org/blog/unison-cloud-open-source/"
             },
             {
                 "title": "Demoting i686 Windows targets to std-only",
                 "href": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/"
             },
             {
-                "title": "The Performance Cost of RwLock in Our Read-Heavy Workload",
-                "href": "https://pranitha.dev/posts/rwlock-vs-lockfree/"
+                "title": "jujutsu (jj) 0.46.0",
+                "href": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0"
             },
             {
-                "title": "en-html.org is a Scam Site",
-                "href": "https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/"
-            },
-            {
-                "title": "Beyond the &",
-                "href": "https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/"
-            },
-            {
-                "title": "The history of the Hetzner Cloud network stack",
-                "href": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/"
-            },
-            {
-                "title": "`specialArgs` considered harmful",
-                "href": "https://ysun.co/special/"
-            },
-            {
-                "title": "C for Rust Programmers",
-                "href": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/"
-            },
-            {
-                "title": "Migrating Git repos to SHA-256",
-                "href": "https://exa.y2k.diy/garden/git-sha256/"
+                "title": "\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot",
+                "href": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/"
             }
         ]
     },
@@ -111,6 +111,26 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+                "href": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/"
+            },
+            {
+                "title": "How to keep AI agents within their permissions",
+                "href": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
+            },
+            {
+                "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+            },
+            {
+                "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+                "href": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/"
+            },
+            {
+                "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
+            },
             {
                 "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
                 "href": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
@@ -150,26 +170,6 @@
             {
                 "title": "Microsoft Teams to get support for third-party deepfake detection tools",
                 "href": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/"
-            },
-            {
-                "title": "ASOS links data breach to social engineering attack, credential theft",
-                "href": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/"
-            },
-            {
-                "title": "Owner of Empire cybercrime market gets 40 years in prison",
-                "href": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/"
-            },
-            {
-                "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-                "href": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/"
-            },
-            {
-                "title": "Ransomware recovery CEO charged over secret ransom payments",
-                "href": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
-            },
-            {
-                "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-                "href": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/"
             }
         ]
     },
@@ -222,6 +222,14 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties In France",
+                "href": "https://yro.slashdot.org/story/26/10/08/1948246/cloudflare-keeps-1111-out-of-piracy-blocking-escapes-penalties-in-france?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "A 1960 Paper Published In Science Predicts World Will End Next Month",
+                "href": "https://science.slashdot.org/story/26/10/08/1937203/a-1960-paper-published-in-science-predicts-world-will-end-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Apollo Software Pioneer Margaret Hamilton Dies at 90",
                 "href": "https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -272,14 +280,6 @@
             {
                 "title": "Google Enters Massive 3.6-GW Power Deal With Constellation Energy",
                 "href": "https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
-                "href": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Canadian Analysis: Permanent Daylight Saving Harms Sleep and Mental Health",
-                "href": "https://science.slashdot.org/story/26/10/06/2120211/canadian-analysis-permanent-daylight-saving-harms-sleep-and-mental-health?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -351,6 +351,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Citrix security advisory (AV26-1023)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1023"
+            },
             {
                 "title": "IBM security advisory (AV26-1022)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1022"
@@ -546,10 +550,6 @@
             {
                 "title": "Mozilla security advisory (AV26-976)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-976"
-            },
-            {
-                "title": "SUSE Linux security advisory (AV26-974)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-974"
             }
         ]
     },
@@ -561,6 +561,38 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "Deno Is Joining Cloudflare",
+                "href": "https://deno.com/blog/cloudflare"
+            },
+            {
+                "title": "Our $445M Series D",
+                "href": "https://oxide.computer/blog/our-445m-series-d"
+            },
+            {
+                "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+                "href": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
+            },
+            {
+                "title": "I'm in a Meeting",
+                "href": "https://iminafleeting.com/"
+            },
+            {
+                "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+                "href": "https://www.nobelprize.org/prizes/peace/2026/press-release/"
+            },
+            {
+                "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+                "href": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms"
+            },
+            {
+                "title": "Python 3.15.0",
+                "href": "https://www.python.org/downloads/release/python-3150/"
+            },
+            {
+                "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+                "href": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/"
+            },
+            {
                 "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
                 "href": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
             },
@@ -569,116 +601,84 @@
                 "href": "https://cactuscompute.com/blog/whistle"
             },
             {
-                "title": "Keyboard differences between Windows and Macs",
-                "href": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
-            },
-            {
                 "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
                 "href": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
+            },
+            {
+                "title": "Once: Cache CLI Commands",
+                "href": "https://github.com/alex0ptr/once"
+            },
+            {
+                "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+                "href": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z"
             },
             {
                 "title": "MXC - a sandboxed code execution system",
                 "href": "https://github.com/microsoft/mxc"
             },
             {
-                "title": "Theranos.world",
-                "href": "https://www.theranos.world/"
-            },
-            {
-                "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-                "href": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my"
+                "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+                "href": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277"
             },
             {
                 "title": "Yes, and",
                 "href": "https://htmx.org/essays/yes-and/"
             },
             {
-                "title": "OTel-Native by Design \u2013 Building Products That Export to Any Observability Stack",
-                "href": "https://opentelemetry.io/blog/2026/otel-native-by-design/"
+                "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+                "href": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my"
             },
             {
-                "title": "Show HN: Quake ported to safe Rust, playable in browser",
-                "href": "https://quake-srp.pages.dev/"
+                "title": "Keyboard differences between Windows and Macs",
+                "href": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
             },
             {
-                "title": "The value of not getting to the point (2015)",
-                "href": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/"
+                "title": "Theranos.world",
+                "href": "https://www.theranos.world/"
             },
             {
-                "title": "OpenAI, the Partition Principle, and Mathematics",
-                "href": "https://karagila.org/2026/openai-pp/"
+                "title": "Imposing Sanctions on the International Criminal Court",
+                "href": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
             },
             {
-                "title": "AI-ready biological data: $1.8B global commitment",
-                "href": "https://biohub.org/news/virtual-biology-initiative-expansion/"
+                "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+                "href": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
             },
             {
-                "title": "ETH-68: Ethernet Audio Interface for Linux",
-                "href": "https://naturalsystems.io/eth68"
+                "title": "Study: Exercise increases cancer survival rates",
+                "href": "https://www.nejm.org/doi/10.1056/NEJMoa2502760"
+            },
+            {
+                "title": "Reactions to 100 Solutions",
+                "href": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/"
+            },
+            {
+                "title": "The Hetzner Cloud network stack \u2013 history and technical overview",
+                "href": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/"
+            },
+            {
+                "title": "A statement on the Tor Project's relationship with Mullvad",
+                "href": "https://blog.torproject.org/on-tor-relationship-with-mullvad/"
             },
             {
                 "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
                 "href": "item?id=49985548"
             },
             {
-                "title": "Beauty in DVD Menus",
-                "href": "https://vale.rocks/posts/dvd-menus"
+                "title": "The value of not getting to the point (2015)",
+                "href": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/"
             },
             {
-                "title": "Reducing undefined behavior in the C language",
-                "href": "https://lwn.net/Articles/1095811/"
+                "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+                "href": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/"
             },
             {
-                "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
-                "href": "https://www.oldroll.io/"
+                "title": "OpenAI, the Partition Principle, and Mathematics",
+                "href": "https://karagila.org/2026/openai-pp/"
             },
             {
-                "title": "DuckDB Ducklake",
-                "href": "https://github.com/duckdb/ducklake"
-            },
-            {
-                "title": "A Terminal Protocol for Program Status (OSC 7501)",
-                "href": "https://mitchellh.com/writing/program-status-osc7501"
-            },
-            {
-                "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-                "href": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html"
-            },
-            {
-                "title": "What should we tell our students?",
-                "href": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/"
-            },
-            {
-                "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-                "href": "https://www.nature.com/articles/s41586-026-10546-z"
-            },
-            {
-                "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-                "href": "https://openrouter.ai/stepfun/step-5-preview"
-            },
-            {
-                "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-                "href": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full"
-            },
-            {
-                "title": "OpenAI withdraws three mathematical results",
-                "href": "https://twitter.com/danintheory/status/2108065033070789090"
-            },
-            {
-                "title": "Bevy 0.20",
-                "href": "https://bevy.org/news/bevy-0-20/"
-            },
-            {
-                "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-                "href": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/"
-            },
-            {
-                "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-                "href": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9"
-            },
-            {
-                "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-                "href": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/"
+                "title": "ETH-68: Ethernet Audio Interface for Linux",
+                "href": "https://naturalsystems.io/eth68"
             }
         ]
     }
