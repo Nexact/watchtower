@@ -7,6 +7,10 @@
                 "href": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/"
             },
             {
+                "title": "Anthropic's Scion is heavily inspired by Mononoke",
+                "href": "https://sunshowers.io/posts/anthropic-mononoke/"
+            },
+            {
                 "title": "What I Self-Host | Aspirational Self Hosting Guide",
                 "href": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
             },
@@ -19,20 +23,28 @@
                 "href": "https://nytpu.com/gemlog/2026-03-18"
             },
             {
+                "title": "Factor 0.102 now available",
+                "href": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html"
+            },
+            {
+                "title": "Fixing C Strings With String Views",
+                "href": "https://eliasebner.com/blog/guides/fixing-strings-in-c/"
+            },
+            {
                 "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
                 "href": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
             },
             {
-                "title": "Factor 0.102 now available",
-                "href": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html"
+                "title": "Awesome Gaming on Linux Without Cheating",
+                "href": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
             },
             {
                 "title": "yet another place where a linux man page is inaccurate",
                 "href": "https://sebsite.pw/w/20261014-initstate.html"
             },
             {
-                "title": "Awesome Gaming on Linux Without Cheating",
-                "href": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
+                "title": "GitLab warns of max severity code execution vulnerability",
+                "href": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
             },
             {
                 "title": "Apple: Switch to Safari (from Chrome)",
@@ -43,64 +55,52 @@
                 "href": "https://libzxc.org/"
             },
             {
-                "title": "GitLab warns of max severity code execution vulnerability",
-                "href": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+                "title": "Better HTTP/1 connection reuse",
+                "href": "https://go.dev/blog/http-connection-reuse"
             },
             {
                 "title": "A plea not to use uv-build",
                 "href": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
             },
             {
-                "title": "Did Ente Locker copy my code without attribution?",
-                "href": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/"
-            },
-            {
                 "title": "My Game's Procedural Dialogue System",
                 "href": "https://www.youtube.com/watch?v=NaW0d7Tghw0"
             },
             {
-                "title": "Compiler bootstrapping depends on more than you might think",
-                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges"
+                "title": "The DelightQL Query Language",
+                "href": "https://delightql.org"
+            },
+            {
+                "title": "Did Ente Locker copy my code without attribution?",
+                "href": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/"
             },
             {
                 "title": "A UAF turned RCE",
                 "href": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
             },
             {
-                "title": "Better HTTP/1 connection reuse",
-                "href": "https://go.dev/blog/http-connection-reuse"
+                "title": "Compiler bootstrapping depends on more than you might think",
+                "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges"
             },
             {
                 "title": "Redesigning source control at Anthropic",
                 "href": "https://www.anthropic.com/engineering/redesigning-source-control"
             },
             {
-                "title": "Package managers have an integrity problem",
-                "href": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/"
-            },
-            {
                 "title": "Announcing Lix 2.96 \u201cBingsu\u201d",
                 "href": "https://lix.systems/blog/2026-10-13-lix-2.96-release/"
-            },
-            {
-                "title": "The reverts will continue until morale improves",
-                "href": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"
             },
             {
                 "title": "OpenFatigue\u2122 \u2014 Open is the new closed",
                 "href": "https://openfatigue.ai/"
             },
             {
-                "title": "How the L0pht (probably) optimized attack against the LanMan hash",
-                "href": "https://modexp.wordpress.com/2019/02/02/3883/"
+                "title": "Package managers have an integrity problem",
+                "href": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/"
             },
             {
-                "title": "Linux Lockdown and Hibernation (again)",
-                "href": "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/"
-            },
-            {
-                "title": "Building a Linearizable Log on READ COMMITTED Isolation",
-                "href": "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/"
+                "title": "The reverts will continue until morale improves",
+                "href": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"
             }
         ]
     },
@@ -111,6 +111,10 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+                "href": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+            },
             {
                 "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
                 "href": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/"
@@ -166,10 +170,6 @@
             {
                 "title": "Microsoft releases Windows 10 KB5126657 extended security update",
                 "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/"
-            },
-            {
-                "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/"
             }
         ]
     },
@@ -222,6 +222,22 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Eight US States Sue OpenAI, Claiming ChatGPT Harms Young Users",
+                "href": "https://yro.slashdot.org/story/26/10/14/2127240/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Microsoft Defender Now Supports Linux Desktops",
+                "href": "https://linux.slashdot.org/story/26/10/14/2121212/microsoft-defender-now-supports-linux-desktops?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Epic Games' New Vibe-Coded Launcher Is 46% Faster Than Steam",
+                "href": "https://games.slashdot.org/story/26/10/14/1928203/epic-games-new-vibe-coded-launcher-is-46-faster-than-steam?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion",
+                "href": "https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Google Is Silently Linking Your Phone Number Across All Signed-In Accounts",
                 "href": "https://tech.slashdot.org/story/26/10/14/1832230/google-is-silently-linking-your-phone-number-across-all-signed-in-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -264,22 +280,6 @@
             {
                 "title": "Kroger to Lay Off 3,000 Corporate Employees In AI Restructuring",
                 "href": "https://slashdot.org/story/26/10/13/1945200/kroger-to-lay-off-3000-corporate-employees-in-ai-restructuring?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Ledger Confirms Spy Chip Implant Behind Wallet Crypto Thefts",
-                "href": "https://yro.slashdot.org/story/26/10/13/192236/ledger-confirms-spy-chip-implant-behind-wallet-crypto-thefts?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Anthropic Bans Cruelty Toward Claude",
-                "href": "https://slashdot.org/story/26/10/13/1857238/anthropic-bans-cruelty-toward-claude?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Google Launches Flagship AI Model Gemini 4 Argon",
-                "href": "https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "FBI Arrests Canadian Cybersecurity Expert In ShinyHunters Hacking Case",
-                "href": "https://yro.slashdot.org/story/26/10/13/0456223/fbi-arrests-canadian-cybersecurity-expert-in-shinyhunters-hacking-case?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -352,7 +352,7 @@
         "feedname": "cybercentre",
         "items": [
             {
-                "title": "Cisco security advisory (AV26-1042)",
+                "title": "Cisco security advisory (AV26-1042) \u2013 Update 1",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1042"
             },
             {
@@ -561,7 +561,31 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+                "title": "Things to know when you get cancer \u2013 2026 Edition",
+                "href": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+            },
+            {
+                "title": "OpenCode 2.0",
+                "href": "https://anoma.ly/notes/opencode-2-0/"
+            },
+            {
+                "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+                "href": "https://typesafe.ai/blog/jev-1-14"
+            },
+            {
+                "title": "Tiny Little Office",
+                "href": "https://tinylittleoffice.com/"
+            },
+            {
+                "title": "Passkeys are not a trap",
+                "href": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+            },
+            {
+                "title": "Do dentists know what they're doing?",
+                "href": "https://mapwriting.substack.com/p/dentists"
+            },
+            {
+                "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
                 "href": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
             },
             {
@@ -569,116 +593,92 @@
                 "href": "https://go.dev/blog/http-connection-reuse"
             },
             {
-                "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-                "href": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/"
+                "title": "Fancy Curl Sites",
+                "href": "https://nytpu.com/gemlog/2026-03-18"
             },
             {
-                "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-                "href": "https://typeof.net/Iosevka/"
-            },
-            {
-                "title": "Phloem: Git history grown like a slime mold",
-                "href": "https://phloem.stemdeck.app/"
-            },
-            {
-                "title": "Neckbeard \u2013 a DevOps/platform/SRE plugin for your agent",
-                "href": "https://github.com/bealesh/neckbeard"
-            },
-            {
-                "title": "Submarine cable resilience",
-                "href": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/"
-            },
-            {
-                "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-                "href": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+                "title": "Anthropic's Scion is heavily inspired by Mononoke",
+                "href": "https://sunshowers.io/posts/anthropic-mononoke/"
             },
             {
                 "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
                 "href": "https://petal.live/"
             },
             {
-                "title": "LittleJS is 2D and 3D now",
-                "href": "https://frankforce.com/littlejs-is-2d-and-3d-now/"
+                "title": "Americans' social activity has steeply declined in the past 30 years",
+                "href": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
             },
             {
-                "title": "Google is silently linking your phone number across all signed-in accounts",
-                "href": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
+                "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+                "href": "https://typeof.net/Iosevka/"
             },
             {
-                "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-                "href": "https://github.com/timescale/pg_vectorsearch"
+                "title": "Problems with the Rust Language",
+                "href": "https://oxetene.net/problems-with-the-rust-language/"
             },
             {
-                "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-                "href": "https://clova.email/"
+                "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+                "href": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/"
             },
             {
-                "title": "Amazon pushes up prices across the Internet",
-                "href": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+                "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+                "href": "https://blog.cloudflare.com/yandex-outage/"
             },
             {
-                "title": "Fancy Curl Sites",
-                "href": "https://nytpu.com/gemlog/2026-03-18"
+                "title": "Phloem: Git history grown like a slime mold",
+                "href": "https://phloem.stemdeck.app/"
             },
             {
-                "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-                "href": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/"
+                "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+                "href": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
             },
             {
-                "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
-                "href": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it"
+                "title": "Submarine cable resilience",
+                "href": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/"
             },
             {
-                "title": "How the Military Will Hack the Election",
-                "href": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election"
+                "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+                "href": "https://oxide.computer/blog/voxel-labs"
+            },
+            {
+                "title": "How I manage persistent Claude Code loops: Spool",
+                "href": "https://github.com/enes-alatas/spool"
+            },
+            {
+                "title": "Has AI tells",
+                "href": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
             },
             {
                 "title": "Suicide rates highest ever among middle-aged men",
                 "href": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
             },
             {
-                "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-                "href": "https://github.com/graphicle-ai/graphicle"
+                "title": "Webster\u2019s Dictionary: The pleasure of finding things out (2014)",
+                "href": "https://jsomers.net/blog/dictionary"
             },
             {
-                "title": "Running Windows desktop tests from Linux with disposable VMs",
-                "href": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
+                "title": "Google is silently linking your phone number across all signed-in accounts",
+                "href": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
             },
             {
-                "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-                "href": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html"
+                "title": "LittleJS is 2D and 3D now",
+                "href": "https://frankforce.com/littlejs-is-2d-and-3d-now/"
             },
             {
-                "title": "Strands Decider: Why Not an Encoder?",
-                "href": "https://brooker.co.za:443/blog/2026/10/04/encoders.html"
+                "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+                "href": "https://github.com/timescale/pg_vectorsearch"
             },
             {
-                "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
-                "href": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges"
+                "title": "How Amazon pushes up prices all across the Internet",
+                "href": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
             },
             {
-                "title": "Nvidia's first GPU: GeForce 256",
-                "href": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/"
+                "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+                "href": "https://clova.email/"
             },
             {
-                "title": "The Origin Story of Kid Pix",
-                "href": "http://red-green-blue.com/kid-pix-the-early-years"
-            },
-            {
-                "title": "Sound (2022)",
-                "href": "https://ciechanow.ski/sound/"
-            },
-            {
-                "title": "TV4 postpones show after AI agent erases edited material",
-                "href": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
-            },
-            {
-                "title": "Scientists Are Teaching Birds to Sing Lost Songs",
-                "href": "https://e360.yale.edu/digest/teaching-birds-lost-songs"
-            },
-            {
-                "title": "Do dentists know what they're doing?",
-                "href": "https://mapwriting.substack.com/p/dentists"
+                "title": "America didn't lose its rare earth industry, it sold it",
+                "href": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it"
             }
         ]
     }
