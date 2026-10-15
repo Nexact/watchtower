@@ -3,15 +3,15 @@
         "feedname": "lobster",
         "items": [
             {
-                "title": "Introducing Firefox Enterprise",
-                "href": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/"
-            },
-            {
                 "title": "Anthropic's Scion is heavily inspired by Mononoke",
                 "href": "https://sunshowers.io/posts/anthropic-mononoke/"
             },
             {
-                "title": "What I Self-Host | Aspirational Self Hosting Guide",
+                "title": "Introducing Firefox Enterprise",
+                "href": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/"
+            },
+            {
+                "title": "What I Self-Host",
                 "href": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
             },
             {
@@ -23,48 +23,52 @@
                 "href": "https://nytpu.com/gemlog/2026-03-18"
             },
             {
-                "title": "Factor 0.102 now available",
-                "href": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html"
+                "title": "Awesome Gaming on Linux Without Cheating",
+                "href": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
             },
             {
                 "title": "Fixing C Strings With String Views",
                 "href": "https://eliasebner.com/blog/guides/fixing-strings-in-c/"
             },
             {
-                "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-                "href": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
-            },
-            {
-                "title": "Awesome Gaming on Linux Without Cheating",
-                "href": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2"
-            },
-            {
-                "title": "yet another place where a linux man page is inaccurate",
-                "href": "https://sebsite.pw/w/20261014-initstate.html"
+                "title": "Factor 0.102 now available",
+                "href": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html"
             },
             {
                 "title": "GitLab warns of max severity code execution vulnerability",
                 "href": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
             },
             {
-                "title": "Apple: Switch to Safari (from Chrome)",
-                "href": "https://www.apple.com/safari/switch/"
+                "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+                "href": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
             },
             {
-                "title": "ZXC: Lossless compression built for ultra-fast decode",
-                "href": "https://libzxc.org/"
+                "title": "yet another place where a linux man page is inaccurate",
+                "href": "https://sebsite.pw/w/20261014-initstate.html"
+            },
+            {
+                "title": "Apple: Switch to Safari (from Chrome)",
+                "href": "https://www.apple.com/safari/switch/"
             },
             {
                 "title": "Better HTTP/1 connection reuse",
                 "href": "https://go.dev/blog/http-connection-reuse"
             },
             {
-                "title": "A plea not to use uv-build",
-                "href": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
+                "title": "ZXC: Lossless compression built for ultra-fast decode",
+                "href": "https://libzxc.org/"
             },
             {
                 "title": "My Game's Procedural Dialogue System",
                 "href": "https://www.youtube.com/watch?v=NaW0d7Tghw0"
+            },
+            {
+                "title": "A plea not to use uv-build",
+                "href": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
+            },
+            {
+                "title": "A UAF turned RCE",
+                "href": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
             },
             {
                 "title": "The DelightQL Query Language",
@@ -75,32 +79,28 @@
                 "href": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/"
             },
             {
-                "title": "A UAF turned RCE",
-                "href": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
-            },
-            {
                 "title": "Compiler bootstrapping depends on more than you might think",
                 "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges"
             },
             {
-                "title": "Redesigning source control at Anthropic",
-                "href": "https://www.anthropic.com/engineering/redesigning-source-control"
+                "title": "ito - build terminal ui in lua",
+                "href": "https://uji.sh/ito"
             },
             {
                 "title": "Announcing Lix 2.96 \u201cBingsu\u201d",
                 "href": "https://lix.systems/blog/2026-10-13-lix-2.96-release/"
             },
             {
-                "title": "OpenFatigue\u2122 \u2014 Open is the new closed",
-                "href": "https://openfatigue.ai/"
+                "title": "Redesigning source control at Anthropic",
+                "href": "https://www.anthropic.com/engineering/redesigning-source-control"
             },
             {
                 "title": "Package managers have an integrity problem",
                 "href": "https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/"
             },
             {
-                "title": "The reverts will continue until morale improves",
-                "href": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves"
+                "title": "How the L0pht (probably) optimized attack against the LanMan hash",
+                "href": "https://modexp.wordpress.com/2019/02/02/3883/"
             }
         ]
     },
@@ -569,12 +569,16 @@
                 "href": "https://anoma.ly/notes/opencode-2-0/"
             },
             {
-                "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
-                "href": "https://typesafe.ai/blog/jev-1-14"
+                "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+                "href": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
             },
             {
                 "title": "Tiny Little Office",
                 "href": "https://tinylittleoffice.com/"
+            },
+            {
+                "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+                "href": "https://typesafe.ai/blog/jev-1-14"
             },
             {
                 "title": "Passkeys are not a trap",
@@ -585,8 +589,8 @@
                 "href": "https://mapwriting.substack.com/p/dentists"
             },
             {
-                "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
-                "href": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+                "title": "Americans' social activity has steeply declined in the past 30 years",
+                "href": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
             },
             {
                 "title": "Better HTTP/1 connection reuse in Go 1.27",
@@ -597,36 +601,32 @@
                 "href": "https://nytpu.com/gemlog/2026-03-18"
             },
             {
-                "title": "Anthropic's Scion is heavily inspired by Mononoke",
-                "href": "https://sunshowers.io/posts/anthropic-mononoke/"
+                "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+                "href": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+            },
+            {
+                "title": "your C is not standard C",
+                "href": "https://sebsite.pw/w/20261012-notstdc.html"
+            },
+            {
+                "title": "Ask HN: CAD for wood working with LLM support?",
+                "href": "item?id=50067325"
             },
             {
                 "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
                 "href": "https://petal.live/"
             },
             {
-                "title": "Americans' social activity has steeply declined in the past 30 years",
-                "href": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
-            },
-            {
-                "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-                "href": "https://typeof.net/Iosevka/"
-            },
-            {
-                "title": "Problems with the Rust Language",
-                "href": "https://oxetene.net/problems-with-the-rust-language/"
+                "title": "Phloem: Git history grown like a slime mold",
+                "href": "https://phloem.stemdeck.app/"
             },
             {
                 "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
                 "href": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/"
             },
             {
-                "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-                "href": "https://blog.cloudflare.com/yandex-outage/"
-            },
-            {
-                "title": "Phloem: Git history grown like a slime mold",
-                "href": "https://phloem.stemdeck.app/"
+                "title": "Anthropic's Scion is heavily inspired by Mononoke",
+                "href": "https://sunshowers.io/posts/anthropic-mononoke/"
             },
             {
                 "title": "Banks are now trying to offload the AI data center debt they just underwrote",
@@ -641,10 +641,6 @@
                 "href": "https://oxide.computer/blog/voxel-labs"
             },
             {
-                "title": "How I manage persistent Claude Code loops: Spool",
-                "href": "https://github.com/enes-alatas/spool"
-            },
-            {
                 "title": "Has AI tells",
                 "href": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
             },
@@ -653,32 +649,36 @@
                 "href": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
             },
             {
-                "title": "Webster\u2019s Dictionary: The pleasure of finding things out (2014)",
-                "href": "https://jsomers.net/blog/dictionary"
-            },
-            {
-                "title": "Google is silently linking your phone number across all signed-in accounts",
-                "href": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
-            },
-            {
-                "title": "LittleJS is 2D and 3D now",
-                "href": "https://frankforce.com/littlejs-is-2d-and-3d-now/"
-            },
-            {
-                "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-                "href": "https://github.com/timescale/pg_vectorsearch"
-            },
-            {
-                "title": "How Amazon pushes up prices all across the Internet",
-                "href": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+                "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+                "href": "https://blog.cloudflare.com/yandex-outage/"
             },
             {
                 "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
                 "href": "https://clova.email/"
             },
             {
-                "title": "America didn't lose its rare earth industry, it sold it",
-                "href": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it"
+                "title": "How Amazon pushes up prices all across the Internet",
+                "href": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"
+            },
+            {
+                "title": "A new model for open source: closed to pull requests, open to remix",
+                "href": "https://ghuntley.com/remix/"
+            },
+            {
+                "title": "Why is every rationalist blog post way too long?",
+                "href": "https://alexwennerberg.com/blog/2026-10-13-long.html"
+            },
+            {
+                "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+                "href": "https://github.com/timescale/pg_vectorsearch"
+            },
+            {
+                "title": "Google is silently linking your phone number across all signed-in accounts",
+                "href": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"
+            },
+            {
+                "title": "Webster\u2019s Dictionary: The pleasure of finding things out (2014)",
+                "href": "https://jsomers.net/blog/dictionary"
             }
         ]
     }
