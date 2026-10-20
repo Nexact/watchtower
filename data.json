@@ -3,6 +3,10 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+                "href": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
+            },
+            {
                 "title": "Updates to site guidelines and AI/LLM tags",
                 "href": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
             },
@@ -15,36 +19,44 @@
                 "href": "https://www.openbsd.org/80.html"
             },
             {
-                "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-                "href": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
+                "title": "NixOS is making me less afraid",
+                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
             },
             {
                 "title": "Jepsen: Orkes Conductor 5.3.2",
                 "href": "https://jepsen.io/analyses/orkes-conductor-5.3.2"
             },
             {
-                "title": "Wine ported to OpenBSD",
-                "href": "https://marc.info/?l=openbsd-ports&m=179236125692175"
+                "title": "Making a VGA Driver in SystemVerilog",
+                "href": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga"
             },
             {
-                "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-                "href": "https://futhark-lang.org/blog/2026-10-14-defining-division.html"
+                "title": "Wine ported to OpenBSD",
+                "href": "https://marc.info/?l=openbsd-ports&m=179236125692175"
             },
             {
                 "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
                 "href": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html"
             },
             {
+                "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+                "href": "https://futhark-lang.org/blog/2026-10-14-defining-division.html"
+            },
+            {
                 "title": "One Hash Bloom Filters",
                 "href": "https://www.calabro.io/ohbf"
             },
             {
-                "title": "NixOS is making me less afraid",
-                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
-            },
-            {
                 "title": "2026 is an exciting year for the Rust compiler (and me)",
                 "href": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
+            },
+            {
+                "title": "The Annotated VT100 Firmware (2022)",
+                "href": "https://vt100.net/dec/vt100/rom/"
+            },
+            {
+                "title": "A Very Fast IPv4 Parser, in Swift",
+                "href": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/"
             },
             {
                 "title": "A5 v1.0",
@@ -55,8 +67,12 @@
                 "href": "https://www.youtube.com/watch?v=P5eO7BNyJao"
             },
             {
-                "title": "A Very Fast IPv4 Parser, in Swift",
-                "href": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/"
+                "title": "Mastodon 5.0: A closer look",
+                "href": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/"
+            },
+            {
+                "title": "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
+                "href": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
             },
             {
                 "title": "What are you doing this week?",
@@ -67,12 +83,16 @@
                 "href": "https://blog.webb.page/WM-105"
             },
             {
-                "title": "Rendering untrusted HTML email, safely(2021)",
+                "title": "Rendering untrusted HTML email, safely (2021)",
                 "href": "https://making.close.com/posts/rendering-untrusted-html-email-safely/"
             },
             {
-                "title": "The Annotated VT100 Firmware (2022)",
-                "href": "https://vt100.net/dec/vt100/rom/"
+                "title": "Declarative WASM GC Types",
+                "href": "https://blog.veritates.love/decl-wasm-types"
+            },
+            {
+                "title": "Genera for the Initiated: Inside Symbolics Lisp Machines",
+                "href": "https://www.youtube.com/watch?v=W2fGKjFoaOg"
             },
             {
                 "title": "Hanami, Why?: Model Citizens",
@@ -81,26 +101,6 @@
             {
                 "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
                 "href": "https://blog.torproject.org/tor-vpn-beta/"
-            },
-            {
-                "title": "Making dns_erlang Fast: Binary Tricks for the BEAM",
-                "href": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
-            },
-            {
-                "title": "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
-                "href": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
-            },
-            {
-                "title": "Intermediary between public and private members",
-                "href": "https://lobste.rs/s/fonp7g/intermediary_between_public_private"
-            },
-            {
-                "title": "The 7.3 kernel has been released",
-                "href": "https://lwn.net/Articles/1101143/"
-            },
-            {
-                "title": "What the heck is /pkg?",
-                "href": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
             }
         ]
     },
@@ -111,6 +111,10 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+                "href": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/"
+            },
             {
                 "title": "DHS bans DeepSeek products across US federal civilian agencies",
                 "href": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
@@ -166,10 +170,6 @@
             {
                 "title": "Inside the Underground Market for Know Your Client Services",
                 "href": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/"
-            },
-            {
-                "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-                "href": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
             }
         ]
     },
@@ -222,6 +222,22 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "OpenBSD 8.0 Released",
+                "href": "https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations",
+                "href": "https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "US Bans DeepSeek From Government Use",
+                "href": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal",
+                "href": "https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
                 "href": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -264,28 +280,16 @@
             {
                 "title": "Wine Ported to OpenBSD",
                 "href": "https://tech.slashdot.org/story/26/10/19/176251/wine-ported-to-openbsd?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Elizabeth Holmes Doc 'You Can See Everything' Shocks With Massive Opening",
-                "href": "https://entertainment.slashdot.org/story/26/10/19/1451201/elizabeth-holmes-doc-you-can-see-everything-shocks-with-massive-opening?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "America Tries Reviving Shuttered Nuclear Plants - Partly to Help Power Data Centers",
-                "href": "https://hardware.slashdot.org/story/26/10/19/0448253/america-tries-reviving-shuttered-nuclear-plants---partly-to-help-power-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Mozilla is Calling Out Microsoft for Forcing Edge on Users",
-                "href": "https://tech.slashdot.org/story/26/10/19/0655217/mozilla-is-calling-out-microsoft-for-forcing-edge-on-users?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares",
-                "href": "https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
     {
         "feedname": "ciscotalos",
         "items": [
+            {
+                "title": "There's only so much code: the rise in vulnerability numbers",
+                "href": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/"
+            },
             {
                 "title": "The Q3 Vulnerability Pulse: Discovery \u2260 Exploitation",
                 "href": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/"
@@ -341,16 +345,16 @@
             {
                 "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
                 "href": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/"
-            },
-            {
-                "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware",
-                "href": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/"
             }
         ]
     },
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Gitea security advisory (AV26-845) - Update 1",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/gitea-security-advisory-av26-845"
+            },
             {
                 "title": "[Control systems] GeoVision security advisory (AV26-1066)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av26-1066"
@@ -546,10 +550,6 @@
             {
                 "title": "Citrix security advisory (AV26-1023)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1023"
-            },
-            {
-                "title": "IBM security advisory (AV26-1022)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1022"
             }
         ]
     },
@@ -561,124 +561,124 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "DeepSeek just open-sourced its inference engine",
+                "title": "Voxtral 3",
+                "href": "https://mistral.ai/news/voxtral-3/"
+            },
+            {
+                "title": "DeepInfer: High-performance inference framework for DeepSeek models",
                 "href": "https://github.com/deepseek-ai/DeepInfer"
+            },
+            {
+                "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+                "href": "https://github.com/google-pytorch/torch_tpu"
+            },
+            {
+                "title": "EMudhra Intermediate CA Compromise",
+                "href": "https://emudhra.we-have-a-problem.com/"
             },
             {
                 "title": "Apple broke an essential presentation feature of iPads",
                 "href": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"
             },
             {
-                "title": "NixOS is making me less afraid",
-                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
+                "title": "Ofcom concedes defeat in 4chan case",
+                "href": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/"
+            },
+            {
+                "title": "Advanced coding in low-resource programming languages",
+                "href": "https://openai.com/index/low-resource-programming-languages/"
             },
             {
                 "title": "Publish fake stats, get cited in LLMs",
                 "href": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
             },
             {
-                "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-                "href": "https://github.com/microg/GmsCore/wiki"
-            },
-            {
-                "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-                "href": "https://github.com/tywr/Nordwand-Mono"
-            },
-            {
-                "title": "OpenBSD 8.0",
-                "href": "https://www.openbsd.org/80.html"
-            },
-            {
-                "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-                "href": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
-            },
-            {
-                "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-                "href": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
-            },
-            {
-                "title": "Making a 88x31 button book using ImageMagick",
-                "href": "https://k.sosnierz.me/08-11-24/"
-            },
-            {
-                "title": "Hazel (YC W24) Is Hiring",
-                "href": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci"
-            },
-            {
-                "title": "Google cloud outage takes down banks",
-                "href": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
-            },
-            {
-                "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-                "href": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/"
-            },
-            {
-                "title": "Restoration of Retinal Regenerative Potential (2025)",
-                "href": "https://www.nature.com/articles/s41467-025-58290-8"
-            },
-            {
-                "title": "How I got over 300 Tor exit nodes removed",
-                "href": "https://kaba.cx/posts/20261020_Tor/"
-            },
-            {
-                "title": "Capturing 400 American Girls and Their Most Meaningful Objects",
-                "href": "https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/"
-            },
-            {
-                "title": "MiniMax M3.1 Flash",
-                "href": "https://www.minimax.io/blog/minimax-m31f"
-            },
-            {
-                "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
-                "href": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html"
-            },
-            {
-                "title": "An ad-free Android TV",
-                "href": "https://cretezy.com/2026/ad-free-android-tv"
+                "title": "Facebook Pages require paid subscription to post more than two links per month",
+                "href": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919"
             },
             {
                 "title": "Tsrs: A Port of TypeScript to Rust",
                 "href": "https://blog.cloudflare.com/typescript-rust-port/"
             },
             {
-                "title": "Weball: Play Katamari on Websites",
-                "href": "https://www.funwithcomputervision.com/weball/"
+                "title": "How I got over 300 Tor exit nodes removed",
+                "href": "https://kaba.cx/posts/20261020_Tor/"
             },
             {
-                "title": "Wine ported to OpenBSD",
-                "href": "https://marc.info/?l=openbsd-ports&m=179236125692175"
+                "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+                "href": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/"
             },
             {
-                "title": "Spending 10 months building the most human-like chess bot",
-                "href": "https://mbuffett.com/posts/most-human-chess-bot"
+                "title": "JAXA is about to perform a Phobos sample return mission",
+                "href": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon"
             },
             {
-                "title": "Ukraine claims first drone evacuation of wounded soldier",
-                "href": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310"
+                "title": "IKEA \u2013 3D Guide",
+                "href": "https://sael.net/flatpack/"
             },
             {
-                "title": "It's still ok to enjoy programming",
-                "href": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
+                "title": "2026 is an exciting year for the Rust compiler (and me)",
+                "href": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
             },
             {
-                "title": "I built a drone with only one motor [video]",
-                "href": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+                "title": "My Friend Bob Cringely",
+                "href": "https://tyma.com/my-cringe-story/"
             },
             {
-                "title": "France's supermarket fridges were vulnerable online for months",
-                "href": "https://ipinfo.io/blog/france-fridges-hack"
+                "title": "Demographic \"doomsday\" misses the mark",
+                "href": "https://www.science.org/doi/10.1126/science.ael8752"
             },
             {
-                "title": "How abliterated models can get you pwned",
-                "href": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
+                "title": "Archive of Our Own",
+                "href": "https://archiveofourown.org/"
             },
             {
-                "title": "Maxwell: A new kind of model that sits between code and hardware",
-                "href": "https://heymaxwell.ai/"
+                "title": "Hazel (YC W24) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci"
             },
             {
-                "title": "Starcraft: Ashfall",
-                "href": "https://starcraft-shooter-2026.pages.dev/"
+                "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+                "href": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
+            },
+            {
+                "title": "Why do we have so many meetings?",
+                "href": "https://www.nber.org/papers/w35706"
+            },
+            {
+                "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+                "href": "https://github.com/microg/GmsCore/wiki"
+            },
+            {
+                "title": "NixOS is making me less afraid",
+                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
+            },
+            {
+                "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+                "href": "item?id=50167583"
+            },
+            {
+                "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+                "href": "https://github.com/tywr/Nordwand-Mono"
+            },
+            {
+                "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+                "href": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery"
+            },
+            {
+                "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+                "href": "https://github.com/AbdullahAlhariri/penmentor"
+            },
+            {
+                "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+                "href": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+            },
+            {
+                "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+                "href": "https://jevcards.com"
+            },
+            {
+                "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+                "href": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
             }
         ]
     }
