@@ -7,44 +7,56 @@
                 "href": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags"
             },
             {
+                "title": "Setting up SSH keys on macOS with Touch ID",
+                "href": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
+            },
+            {
                 "title": "OpenBSD 8.0",
                 "href": "https://www.openbsd.org/80.html"
+            },
+            {
+                "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+                "href": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
+            },
+            {
+                "title": "Jepsen: Orkes Conductor 5.3.2",
+                "href": "https://jepsen.io/analyses/orkes-conductor-5.3.2"
             },
             {
                 "title": "Wine ported to OpenBSD",
                 "href": "https://marc.info/?l=openbsd-ports&m=179236125692175"
             },
             {
-                "title": "Do web components have a future if nobody is writing them?",
-                "href": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/"
-            },
-            {
                 "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
                 "href": "https://futhark-lang.org/blog/2026-10-14-defining-division.html"
-            },
-            {
-                "title": "One Hash Bloom Filters",
-                "href": "https://www.calabro.io/ohbf"
-            },
-            {
-                "title": "A5 v1.0",
-                "href": "https://a5geo.org/blog/2026/10/14/a5-v1"
-            },
-            {
-                "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-                "href": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de"
-            },
-            {
-                "title": "2026 is an exciting year for the Rust compiler (and me)",
-                "href": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
             },
             {
                 "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
                 "href": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html"
             },
             {
+                "title": "One Hash Bloom Filters",
+                "href": "https://www.calabro.io/ohbf"
+            },
+            {
+                "title": "NixOS is making me less afraid",
+                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
+            },
+            {
+                "title": "2026 is an exciting year for the Rust compiler (and me)",
+                "href": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"
+            },
+            {
+                "title": "A5 v1.0",
+                "href": "https://a5geo.org/blog/2026/10/14/a5-v1"
+            },
+            {
                 "title": "In Context",
                 "href": "https://www.youtube.com/watch?v=P5eO7BNyJao"
+            },
+            {
+                "title": "A Very Fast IPv4 Parser, in Swift",
+                "href": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/"
             },
             {
                 "title": "What are you doing this week?",
@@ -55,8 +67,12 @@
                 "href": "https://blog.webb.page/WM-105"
             },
             {
-                "title": "A Very Fast IPv4 Parser, in Swift",
-                "href": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/"
+                "title": "Rendering untrusted HTML email, safely(2021)",
+                "href": "https://making.close.com/posts/rendering-untrusted-html-email-safely/"
+            },
+            {
+                "title": "The Annotated VT100 Firmware (2022)",
+                "href": "https://vt100.net/dec/vt100/rom/"
             },
             {
                 "title": "Hanami, Why?: Model Citizens",
@@ -67,20 +83,12 @@
                 "href": "https://blog.torproject.org/tor-vpn-beta/"
             },
             {
-                "title": "Finding a home amidst the wreckage",
-                "href": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/"
-            },
-            {
                 "title": "Making dns_erlang Fast: Binary Tricks for the BEAM",
                 "href": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
             },
             {
-                "title": "OpenBSD 8.0: released",
-                "href": "https://marc.info/?l=openbsd-announce&m=179245843570316&w=2"
-            },
-            {
-                "title": "Rendering untrusted HTML email, safely(2021)",
-                "href": "https://making.close.com/posts/rendering-untrusted-html-email-safely/"
+                "title": "CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE",
+                "href": "https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/"
             },
             {
                 "title": "Intermediary between public and private members",
@@ -93,14 +101,6 @@
             {
                 "title": "What the heck is /pkg?",
                 "href": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
-            },
-            {
-                "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-                "href": "https://antelang.org/blog/safe_cyclic_mutability/"
-            },
-            {
-                "title": "Men in tech #YesAllMen",
-                "href": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen"
             }
         ]
     },
@@ -111,6 +111,34 @@
     {
         "feedname": "bleepingcomputer",
         "items": [
+            {
+                "title": "DHS bans DeepSeek products across US federal civilian agencies",
+                "href": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
+            },
+            {
+                "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+                "href": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/"
+            },
+            {
+                "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+                "href": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/"
+            },
+            {
+                "title": "Windows Server 2025 gets support for quick machine recovery",
+                "href": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/"
+            },
+            {
+                "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+                "href": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/"
+            },
+            {
+                "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+                "href": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/"
+            },
+            {
+                "title": "Revolut outage disrupts online banking operations worldwide",
+                "href": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/"
+            },
             {
                 "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
                 "href": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
@@ -142,34 +170,6 @@
             {
                 "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
                 "href": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
-            },
-            {
-                "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/"
-            },
-            {
-                "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-                "href": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/"
-            },
-            {
-                "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-                "href": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
-            },
-            {
-                "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-                "href": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
-            },
-            {
-                "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-                "href": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
-            },
-            {
-                "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-                "href": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
-            },
-            {
-                "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-                "href": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
             }
         ]
     },
@@ -221,6 +221,10 @@
     {
         "feedname": "slashdot",
         "items": [
+            {
+                "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
+                "href": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
             {
                 "title": "Japan Launches Historic MMX Sample-Return Mission to Mars' Moon Phobos",
                 "href": "https://science.slashdot.org/story/26/10/20/0522251/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos?utm_source=rss1.0mainlinkanon&utm_medium=feed"
@@ -276,10 +280,6 @@
             {
                 "title": "Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares",
                 "href": "https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "'Human Vs. Robot' Cage Match Was Illegal, Says California",
-                "href": "https://hardware.slashdot.org/story/26/10/19/0055210/human-vs-robot-cage-match-was-illegal-says-california?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -351,6 +351,18 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "[Control systems] GeoVision security advisory (AV26-1066)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av26-1066"
+            },
+            {
+                "title": "[Control systems] Advantech security advisory (AV26-1065)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av26-1065"
+            },
+            {
+                "title": "IBM security advisory (AV26-1064)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1064"
+            },
             {
                 "title": "Siemens security advisory (AV26-1063)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/siemens-security-advisory-av26-1063"
@@ -538,18 +550,6 @@
             {
                 "title": "IBM security advisory (AV26-1022)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1022"
-            },
-            {
-                "title": "Elastic security advisory (AV26-1021)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/elastic-security-advisory-av26-1021"
-            },
-            {
-                "title": "Cisco security advisory (AV26-1020)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1020"
-            },
-            {
-                "title": "HashiCorp security advisory (AV26-1019)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1019"
             }
         ]
     },
@@ -561,6 +561,26 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "DeepSeek just open-sourced its inference engine",
+                "href": "https://github.com/deepseek-ai/DeepInfer"
+            },
+            {
+                "title": "Apple broke an essential presentation feature of iPads",
+                "href": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"
+            },
+            {
+                "title": "NixOS is making me less afraid",
+                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
+            },
+            {
+                "title": "Publish fake stats, get cited in LLMs",
+                "href": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+            },
+            {
+                "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+                "href": "https://github.com/microg/GmsCore/wiki"
+            },
+            {
                 "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
                 "href": "https://github.com/tywr/Nordwand-Mono"
             },
@@ -569,116 +589,96 @@
                 "href": "https://www.openbsd.org/80.html"
             },
             {
-                "title": "Restoration of Retinal Regenerative Potential",
-                "href": "https://www.nature.com/articles/s41467-025-58290-8"
-            },
-            {
                 "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
                 "href": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
-            },
-            {
-                "title": "Everything is going wrong for Muhammad bin Salman",
-                "href": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman"
             },
             {
                 "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
                 "href": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
             },
             {
-                "title": "MiniMax M3.1 Flash",
-                "href": "https://www.minimax.io/blog/minimax-m31f"
-            },
-            {
-                "title": "France's supermarket fridges were vulnerable online for months",
-                "href": "https://ipinfo.io/blog/france-fridges-hack"
-            },
-            {
                 "title": "Making a 88x31 button book using ImageMagick",
                 "href": "https://k.sosnierz.me/08-11-24/"
             },
             {
-                "title": "Weball: Play Katamari on Websites",
-                "href": "https://www.funwithcomputervision.com/weball/"
+                "title": "Hazel (YC W24) Is Hiring",
+                "href": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci"
+            },
+            {
+                "title": "Google cloud outage takes down banks",
+                "href": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
+            },
+            {
+                "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+                "href": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/"
+            },
+            {
+                "title": "Restoration of Retinal Regenerative Potential (2025)",
+                "href": "https://www.nature.com/articles/s41467-025-58290-8"
+            },
+            {
+                "title": "How I got over 300 Tor exit nodes removed",
+                "href": "https://kaba.cx/posts/20261020_Tor/"
+            },
+            {
+                "title": "Capturing 400 American Girls and Their Most Meaningful Objects",
+                "href": "https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/"
+            },
+            {
+                "title": "MiniMax M3.1 Flash",
+                "href": "https://www.minimax.io/blog/minimax-m31f"
+            },
+            {
+                "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
+                "href": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html"
             },
             {
                 "title": "An ad-free Android TV",
                 "href": "https://cretezy.com/2026/ad-free-android-tv"
             },
             {
-                "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-                "href": "https://github.com/golang/go/issues/82345"
+                "title": "Tsrs: A Port of TypeScript to Rust",
+                "href": "https://blog.cloudflare.com/typescript-rust-port/"
             },
             {
-                "title": "I built a drone with only one motor [video]",
-                "href": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+                "title": "Weball: Play Katamari on Websites",
+                "href": "https://www.funwithcomputervision.com/weball/"
             },
             {
                 "title": "Wine ported to OpenBSD",
                 "href": "https://marc.info/?l=openbsd-ports&m=179236125692175"
             },
             {
-                "title": "It's still ok to enjoy programming",
-                "href": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
+                "title": "Spending 10 months building the most human-like chess bot",
+                "href": "https://mbuffett.com/posts/most-human-chess-bot"
             },
             {
                 "title": "Ukraine claims first drone evacuation of wounded soldier",
                 "href": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310"
             },
             {
-                "title": "How abliterated models can get you pwned",
-                "href": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
+                "title": "It's still ok to enjoy programming",
+                "href": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
             },
             {
-                "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-                "href": "https://bsd.network/@brynet/117407035545900963"
+                "title": "I built a drone with only one motor [video]",
+                "href": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+            },
+            {
+                "title": "France's supermarket fridges were vulnerable online for months",
+                "href": "https://ipinfo.io/blog/france-fridges-hack"
+            },
+            {
+                "title": "How abliterated models can get you pwned",
+                "href": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
             },
             {
                 "title": "Maxwell: A new kind of model that sits between code and hardware",
                 "href": "https://heymaxwell.ai/"
             },
             {
-                "title": "RuneScape Bench: MMOs for Agents [video]",
-                "href": "https://www.youtube.com/watch?v=cNm4zyUtWj0"
-            },
-            {
-                "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-                "href": "https://github.com/microg/GmsCore/wiki"
-            },
-            {
                 "title": "Starcraft: Ashfall",
                 "href": "https://starcraft-shooter-2026.pages.dev/"
-            },
-            {
-                "title": "How Do Fungi Keep the Planet Healthy?",
-                "href": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/"
-            },
-            {
-                "title": "One Hash Bloom Filters",
-                "href": "https://calabro.io/ohbf"
-            },
-            {
-                "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-                "href": "item?id=50151036"
-            },
-            {
-                "title": "Evidence (YC S21) Is Hiring Software Engineers",
-                "href": "https://evidence.dev/jobs"
-            },
-            {
-                "title": "Porting video games to VHS",
-                "href": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/"
-            },
-            {
-                "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-                "href": "https://josie.lol/blog/linux-rtx-spark"
-            },
-            {
-                "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-                "href": "https://deathplanswitch.com/"
-            },
-            {
-                "title": "Agentic Monitoring",
-                "href": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/"
             }
         ]
     }
