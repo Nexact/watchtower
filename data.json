@@ -19,8 +19,8 @@
                 "href": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
             },
             {
-                "title": "Unikernels in OCaml",
-                "href": "https://uniker.nl/"
+                "title": "Google's Rust Style Guide",
+                "href": "https://google.github.io/styleguide/rustguide.html"
             },
             {
                 "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
@@ -31,44 +31,60 @@
                 "href": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/"
             },
             {
+                "title": "Unikernels in OCaml",
+                "href": "https://uniker.nl/"
+            },
+            {
                 "title": "The Future of CSS",
                 "href": "https://www.joshwcomeau.com/css/interop-2027/"
-            },
-            {
-                "title": "Google's Rust Style Guide",
-                "href": "https://google.github.io/styleguide/rustguide.html"
-            },
-            {
-                "title": "Flow Typing, A New Lens on Linearity",
-                "href": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/"
-            },
-            {
-                "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-                "href": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
-            },
-            {
-                "title": "Don't throw it all away: Caching an immediate-mode UI",
-                "href": "https://blickeditor.com/blog/caching-an-immediate-mode-ui"
-            },
-            {
-                "title": "Vector Graphics in Lil",
-                "href": "https://beyondloom.com/blog/vectorgraphics.html"
-            },
-            {
-                "title": "GitLab Critical Patch Release",
-                "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
-            },
-            {
-                "title": "Node.js \u2014 Wednesday, October 21, 2026 Security Releases",
-                "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
             },
             {
                 "title": "Railway Security Disclosure: Wednesday October 21st",
                 "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
             },
             {
+                "title": "Flow Typing, A New Lens on Linearity",
+                "href": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/"
+            },
+            {
+                "title": "Don't throw it all away: Caching an immediate-mode UI",
+                "href": "https://blickeditor.com/blog/caching-an-immediate-mode-ui"
+            },
+            {
+                "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+                "href": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/"
+            },
+            {
+                "title": "GitLab Critical Patch Release",
+                "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+            },
+            {
+                "title": "Vector Graphics in Lil",
+                "href": "https://beyondloom.com/blog/vectorgraphics.html"
+            },
+            {
+                "title": "Understanding Nix flakes",
+                "href": "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/"
+            },
+            {
+                "title": "Embedding EYG in Erlang programs",
+                "href": "https://eyg.run/guides/embedding-eyg-in-erlang-programs"
+            },
+            {
+                "title": "Node.js \u2014 Wednesday, October 21, 2026 Security Releases",
+                "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+            },
+            {
                 "title": "Lobsters NYC Meetup on the 28th of October",
                 "href": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october"
+            },
+            {
+                "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+                "href": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor"
+            },
+            {
+                "title": "Firefox security patch tests are now private for at least a week",
+                "href": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ"
             },
             {
                 "title": "Mastodon 5.0: A closer look",
@@ -79,28 +95,12 @@
                 "href": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
             },
             {
-                "title": "Firefox security patch tests are now private for at least a week",
-                "href": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ"
-            },
-            {
-                "title": "NixOS is making me less afraid",
-                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
-            },
-            {
                 "title": "How I got over 300 Tor exit nodes removed",
                 "href": "https://kaba.cx/posts/20261020_Tor/"
             },
             {
-                "title": "Do minor curl vulnerabilities in the open",
-                "href": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/"
-            },
-            {
-                "title": "Improving accessibility with CSS media queries (2025)",
-                "href": "https://fleeb.ee/blog/improving-accessibility-with-css-media-queries/"
-            },
-            {
-                "title": "Embedding EYG in Erlang programs",
-                "href": "https://eyg.run/guides/embedding-eyg-in-erlang-programs"
+                "title": "NixOS is making me less afraid",
+                "href": "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
             }
         ]
     },
@@ -557,44 +557,100 @@
         "feedname": "hackernews",
         "items": [
             {
-                "title": "Railway Security Disclosure",
+                "title": "mitmproxy adds --emudhra option",
+                "href": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
+            },
+            {
+                "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+                "href": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf"
+            },
+            {
+                "title": "There isn't an easy exploit for this PHP vulnerability",
+                "href": "https://eliastaylor.com/noexploit/"
+            },
+            {
+                "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+                "href": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552"
+            },
+            {
+                "title": "Security Disclosure",
                 "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
             },
             {
-                "title": "Today's PHP security release, and how we're strengthening security",
-                "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+                "title": "Rust Style Guide",
+                "href": "https://google.github.io/styleguide/rustguide.html"
             },
             {
                 "title": "GitLab Critical Patch Release",
                 "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
             },
             {
-                "title": "No More Icons in Every Menu by Default",
-                "href": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/"
-            },
-            {
                 "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
                 "href": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
             },
             {
-                "title": "Google's Rust Style Guide",
-                "href": "https://google.github.io/styleguide/rustguide.html"
+                "title": "LLM Agents Play Pokemon Showdown",
+                "href": "https://olivergrabner.com/research/pokemon/"
             },
             {
-                "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-                "href": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
+                "title": "Using LLM for confidence scoring is a bad idea",
+                "href": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
+            },
+            {
+                "title": "Beyond the &",
+                "href": "https://lwn.net/Articles/1096028/"
+            },
+            {
+                "title": "Chain of Thought for Humans",
+                "href": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/"
+            },
+            {
+                "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+                "href": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
+            },
+            {
+                "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+                "href": "https://github.com/omnara-ai/omnara"
+            },
+            {
+                "title": "Today's PHP security release, and how we're strengthening security",
+                "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+            },
+            {
+                "title": "No more icons in every menu by default",
+                "href": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/"
+            },
+            {
+                "title": "PingCap TiDB Leaks",
+                "href": "https://fulcrumsec.vg/pingcap/"
+            },
+            {
+                "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+                "href": "https://www.bbc.com/news/articles/cp814l80pw2o"
+            },
+            {
+                "title": "Code is clay now",
+                "href": "https://www.albertodenia.com/writing/code-is-clay-now"
+            },
+            {
+                "title": "OpenAI models are coming to Google Cloud",
+                "href": "https://openai.com/index/openai-models-google-cloud/"
+            },
+            {
+                "title": "Postgres recovery_prefetch can cause outages",
+                "href": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/"
+            },
+            {
+                "title": "I reverse engineered a board game",
+                "href": "https://wuemeli.com/blog/reversing-hitster-game/"
             },
             {
                 "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
                 "href": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/"
             },
             {
-                "title": "Claude Duet",
-                "href": "https://claude.com/product/claude-duet"
-            },
-            {
-                "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-                "href": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
+                "title": "Show HN: AI-built browser games, collected in one place",
+                "href": "https://playgroundarcade.com/"
             },
             {
                 "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
@@ -605,76 +661,20 @@
                 "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
             },
             {
-                "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-                "href": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/"
-            },
-            {
-                "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-                "href": "https://www.bbc.com/news/articles/cp814l80pw2o"
-            },
-            {
-                "title": "The Rise and Fall of the Plasma Screen",
-                "href": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen"
-            },
-            {
-                "title": "Code is clay now",
-                "href": "https://www.albertodenia.com/writing/code-is-clay-now"
-            },
-            {
-                "title": "EA is shutting down BioWare",
-                "href": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
-            },
-            {
-                "title": "OpenAI models are coming to Google Cloud",
-                "href": "https://openai.com/index/openai-models-google-cloud/"
+                "title": "Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
+                "href": "https://kairos-experiment.com/distinguish.html"
             },
             {
                 "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
                 "href": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488"
             },
             {
-                "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-                "href": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs"
-            },
-            {
-                "title": "PHP 8.2.35",
-                "href": "https://github.com/php/php-src/releases/tag/php-8.2.35"
-            },
-            {
-                "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-                "href": "https://github.com/nthnclrk/CleanFrame"
+                "title": "EA is shutting down BioWare",
+                "href": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
             },
             {
                 "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
                 "href": "https://alterauth.com/"
-            },
-            {
-                "title": "Using thousands of AI agents to uncover new leads in biological data",
-                "href": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
-            },
-            {
-                "title": "Claude Duet",
-                "href": "https://claude.com/resources/articles/claude-duet"
-            },
-            {
-                "title": "Canary Tokens",
-                "href": "https://canarytokens.org/"
-            },
-            {
-                "title": "Drupal is now light-years ahead of its reputation",
-                "href": "https://dri.es/state-of-drupal-presentation-september-2026"
-            },
-            {
-                "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-                "href": "https://9mothers.com/careers"
-            },
-            {
-                "title": "The bridge to agent-scale Git infrastructure",
-                "href": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-            },
-            {
-                "title": "Show HN: Omnara \u2013 Open-Source Alternative to Claude Managed Agents",
-                "href": "https://github.com/omnara-ai/omnara"
             }
         ]
     }
