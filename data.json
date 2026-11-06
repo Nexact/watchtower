@@ -3,6 +3,18 @@
         "feedname": "lobster",
         "items": [
             {
+                "title": "Making musl and proprietary NVIDIA drivers work together",
+                "href": "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
+            },
+            {
+                "title": "The MustCreate Pattern for Go Tests",
+                "href": "https://mtlynch.io/notes/go-must-create-pattern/"
+            },
+            {
+                "title": "What are you doing this weekend?",
+                "href": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
+            },
+            {
                 "title": "sshhole",
                 "href": "https://sshhole.com/"
             },
@@ -11,12 +23,16 @@
                 "href": "https://lovro-bikic.github.io/software-line-specialist/"
             },
             {
-                "title": "September in Servo: progress, rounded rectangles, and more",
-                "href": "https://servo.org/blog/2026/11/05/september-in-servo/"
+                "title": "Upgrading NetBSD from 11.0 to 11.1",
+                "href": "https://www.dwarmstrong.org/netbsd-upgrade/"
             },
             {
-                "title": "What are you doing this weekend?",
-                "href": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend"
+                "title": "Clojure Distilled",
+                "href": "https://yogthos.net/ClojureDistilled.html"
+            },
+            {
+                "title": "September in Servo: progress, rounded rectangles, and more",
+                "href": "https://servo.org/blog/2026/11/05/september-in-servo/"
             },
             {
                 "title": "X-87 - DOS 256 bytes",
@@ -27,80 +43,64 @@
                 "href": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/"
             },
             {
-                "title": "Clojure Distilled",
-                "href": "https://yogthos.net/ClojureDistilled.html"
-            },
-            {
-                "title": "A Look at Datastar",
-                "href": "https://noteflakes.com/articles/2026-11-04-datastar"
+                "title": "Pushing the Limits with getaddrinfo",
+                "href": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/"
             },
             {
                 "title": "I Go to Olympics of 4KB Coding",
                 "href": "https://inv.nadeko.net/watch?v=PeZNLvD4mds"
             },
             {
-                "title": "Declarative Dragging",
-                "href": "https://declarative-dragging.github.io/"
-            },
-            {
-                "title": "GNU Mes and the 0.28 release",
-                "href": "https://ekaitz.elenq.tech/fasterMes10.html"
-            },
-            {
-                "title": "Reflections on Rust in the LLM Age \u2014 Bryan Cantrill | Rust NYC",
-                "href": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
-            },
-            {
-                "title": "So my ISP was hijacking my DNS",
-                "href": "https://karthihegde.dev/posts/dns_tampering"
-            },
-            {
-                "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
-                "href": "https://wiredream.com/anagram-fun/"
-            },
-            {
-                "title": "Shlemiel the Painter Is Back: How Zig\u2019s libc Rewrite Made SQLite Slower",
-                "href": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/"
-            },
-            {
-                "title": "A Quick Guide to Go's Assembler",
-                "href": "https://go.dev/doc/asm"
-            },
-            {
-                "title": "How Windows Bootloader Starts the Kernel",
-                "href": "https://www.youtube.com/watch?v=mxj7z6WqK14"
-            },
-            {
-                "title": "Your Cryptography Conspiracy Theory Is Wrong",
-                "href": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/"
+                "title": "A Look at Datastar",
+                "href": "https://noteflakes.com/articles/2026-11-04-datastar"
             },
             {
                 "title": "Practical guide on out of tree mitigations on Linux",
                 "href": "https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi"
             },
             {
-                "title": "Can 23,000 quantum qubits break RSA-2048?",
-                "href": "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa"
+                "title": "Declarative Dragging",
+                "href": "https://declarative-dragging.github.io/"
             },
             {
-                "title": "Why is there an Anubis gate in front of Search for logged-in users?",
-                "href": "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for"
+                "title": "How we continuously validate formal specifications in production",
+                "href": "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/"
             },
             {
-                "title": "A new Go API for JSON",
-                "href": "https://go.dev/blog/jsonv2"
+                "title": "Inside GitHub's new Git storage architecture",
+                "href": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
             },
             {
-                "title": "Residential Proxies Detected on White House Network",
-                "href": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+                "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+                "href": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
             },
             {
-                "title": "Man-in-the-middle arbitrary code execution in Debian\u2019s apt",
-                "href": "https://lists.debian.org/debian-security-announce/2026/msg00526.html"
+                "title": "Reflections on Rust in the LLM Age",
+                "href": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
             },
             {
-                "title": "Introducing Adaptive Dark Mode",
-                "href": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"
+                "title": "Bug Finding Considered Harmful?",
+                "href": "https://alperenkeles.com/posts/bug-finding-considered-harmful/"
+            },
+            {
+                "title": "GNU Mes and the 0.28 release",
+                "href": "https://ekaitz.elenq.tech/fasterMes10.html"
+            },
+            {
+                "title": "How Windows Bootloader Starts the Kernel",
+                "href": "https://www.youtube.com/watch?v=mxj7z6WqK14"
+            },
+            {
+                "title": "A Quick Guide to Go's Assembler",
+                "href": "https://go.dev/doc/asm"
+            },
+            {
+                "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
+                "href": "https://wiredream.com/anagram-fun/"
+            },
+            {
+                "title": "So my ISP was hijacking my DNS",
+                "href": "https://karthihegde.dev/posts/dns_tampering"
             }
         ]
     },
@@ -153,6 +153,18 @@
         "feedname": "slashdot",
         "items": [
             {
+                "title": "Tesla to Wind Down Cybertruck Production",
+                "href": "https://tech.slashdot.org/story/26/11/06/1736259/tesla-to-wind-down-cybertruck-production?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Britain to Make Salary Disclosure In Job Ads Mandatory",
+                "href": "https://news.slashdot.org/story/26/11/06/1640241/britain-to-make-salary-disclosure-in-job-ads-mandatory?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
+                "title": "Sony Revives the Original Walkman Headphones, Adds USB-C",
+                "href": "https://entertainment.slashdot.org/story/26/11/06/0711224/sony-revives-the-original-walkman-headphones-adds-usb-c?utm_source=rss1.0mainlinkanon&utm_medium=feed"
+            },
+            {
                 "title": "Blue Origin Announces New Glenn Third Stage, New Booster Engine",
                 "href": "https://science.slashdot.org/story/26/11/06/0648255/blue-origin-announces-new-glenn-third-stage-new-booster-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             },
@@ -199,18 +211,6 @@
             {
                 "title": "Microsoft's Imagine Cup 'Evolves' From Student Competition To AI Startup Contest",
                 "href": "https://news.slashdot.org/story/26/11/05/057254/microsofts-imagine-cup-evolves-from-student-competition-to-ai-startup-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-                "href": "https://science.slashdot.org/story/26/11/05/0527244/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "3M To Pay Over $7 Billion To Settle 'Forever Chemical' Groundwater Claims",
-                "href": "https://yro.slashdot.org/story/26/11/05/052220/3m-to-pay-over-7-billion-to-settle-forever-chemical-groundwater-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed"
-            },
-            {
-                "title": "Vietnam Jails Pirate Football Streamers For Up To a Year",
-                "href": "https://yro.slashdot.org/story/26/11/05/0322258/vietnam-jails-pirate-football-streamers-for-up-to-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed"
             }
         ]
     },
@@ -282,6 +282,10 @@
     {
         "feedname": "cybercentre",
         "items": [
+            {
+                "title": "Mozilla security advisory (AV26-1131)",
+                "href": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1131"
+            },
             {
                 "title": "OpenBSD security advisory (AV26-1130)",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130"
@@ -477,10 +481,6 @@
             {
                 "title": "AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619 - Update 2",
                 "href": "https://cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619"
-            },
-            {
-                "title": "[Control systems] Hitachi security advisory (AV26-1091)",
-                "href": "https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-1091"
             }
         ]
     },
@@ -492,124 +492,124 @@
         "feedname": "hackernews",
         "items": [
             {
+                "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+                "href": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+            },
+            {
+                "title": "Tesla to wind down Cybertruck production",
+                "href": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
+            },
+            {
+                "title": "First steps in bare-metal programming using UEFI",
+                "href": "https://kevinboone.me/efitest_index.html"
+            },
+            {
+                "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+                "href": "https://github.com/anomalyco/rune"
+            },
+            {
+                "title": "Gemini Omni 1.2 Flash",
+                "href": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+            },
+            {
                 "title": "Blender's UI and Runtime: Much Faster Than GPUI",
                 "href": "https://github.com/ppmpreetham/BUI"
             },
             {
-                "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-                "href": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
+                "title": "Deus Ex",
+                "href": "https://www.filfre.net/2026/11/deus-ex/"
             },
             {
-                "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-                "href": "https://jhr.pensoft.net/articles.php?id=9096"
+                "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+                "href": "https://up.codes/careers?utm_source=HN"
             },
             {
                 "title": "Claude Code sends your email address to websites",
                 "href": "https://github.com/anthropics/claude-code/issues/107757"
             },
             {
-                "title": "sshole",
-                "href": "https://sshhole.com"
+                "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+                "href": "https://www.laphamsquarterly.org/roundtable/zero-hour"
+            },
+            {
+                "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+                "href": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns"
+            },
+            {
+                "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+                "href": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/"
+            },
+            {
+                "title": "Anthropic IPO valuation talks drop to $1.3T",
+                "href": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors"
+            },
+            {
+                "title": "Size-It-Up (Game)",
+                "href": "https://magnitudle.com/size-it-up"
+            },
+            {
+                "title": "MTG-I2 First Images",
+                "href": "https://www.eumetsat.int/mtg-i2-first-images"
+            },
+            {
+                "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+                "href": "https://jhr.pensoft.net/articles.php?id=9096"
+            },
+            {
+                "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+                "href": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
             },
             {
                 "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
                 "href": "https://apps.metaebene.me/en/kugelblitz"
             },
             {
-                "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-                "href": "https://worldstrike.fun/"
-            },
-            {
-                "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-                "href": "https://obelisk.club/research/app-store-2026"
+                "title": "We've built an open-source feature flag server for 11 years",
+                "href": "https://github.com/Unleash/unleash"
             },
             {
                 "title": "MS Paint Remote Code Execution Vulnerability",
                 "href": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
             },
             {
-                "title": "Pwn.college",
-                "href": "https://pwn.college/"
+                "title": "Devvm.dev: One VM for every project",
+                "href": "https://devvm.dev/"
             },
             {
                 "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
                 "href": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
             },
             {
-                "title": "Nvidia Kubernetes Engine (NVKE)",
-                "href": "https://github.com/dsx-ai-factory/nvke"
+                "title": "AI for scientific discovery: How researchers use Claude",
+                "href": "https://www.anthropic.com/research/how-researchers-use-claude"
             },
             {
-                "title": "Hardcoded credentials and other issues in Tata Motors App",
-                "href": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537"
+                "title": "Show HN: AegisKernel \u2013 Zero-trust POSIX runtime for AI agents in <0.016ms",
+                "href": "https://adikshatriyag-crypto.github.io/aegis-kernel/"
             },
             {
-                "title": "Inkling 2 Small",
-                "href": "https://thinkingmachines.ai/news/inkling-2-small/"
+                "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+                "href": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
             },
             {
-                "title": "The Hackintosh Reborn",
-                "href": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/"
+                "title": "PyLings: Solve Exercises and Learn Python",
+                "href": "https://github.com/thesayfulla/pylings"
             },
             {
-                "title": "Window Sweaters",
-                "href": "https://github.com/saragordic/window-sweaters"
+                "title": "Pwn.college",
+                "href": "https://pwn.college/"
             },
             {
-                "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
-                "href": "https://firenook.dev/"
+                "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+                "href": "https://github.com/zalando-incubator/agentic-identity-broker"
             },
             {
-                "title": "Britain to make salary disclosure in job ads mandatory",
-                "href": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+                "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+                "href": "https://worldstrike.fun/"
             },
             {
-                "title": "Motorola Signature 27 with GrapheneOS support",
-                "href": "https://motorolanews.com/motorola-signature-27-2/"
-            },
-            {
-                "title": "I struggle to believe that AI R&D is ingenious",
-                "href": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
-            },
-            {
-                "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
-                "href": "https://github.com/rivet-dev/rivet"
-            },
-            {
-                "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-                "href": "https://www.linum.ai/field-notes/pjit-21k"
-            },
-            {
-                "title": "September in Servo: <progress>, rounded rectangles, and more",
-                "href": "https://servo.org/blog/2026/11/05/september-in-servo/"
-            },
-            {
-                "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-                "href": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
-            },
-            {
-                "title": "I wish tech companies knew more about me",
-                "href": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
-            },
-            {
-                "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
-                "href": "https://github.com/matthewmrichter/mooftcp"
-            },
-            {
-                "title": "Download your favourite YouTube videos",
-                "href": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
-            },
-            {
-                "title": "Pangram Image 1.0",
-                "href": "https://www.pangram.com/blog/introducing-pangram-image-1-0"
-            },
-            {
-                "title": "MCP Explained",
-                "href": "https://mcp-explained.com/"
-            },
-            {
-                "title": "Obscure audio codec is a perfect fit for the N64",
-                "href": "https://phoboslab.org/log/2026/11/n64-ulc-codec"
+                "title": "sshole",
+                "href": "https://sshhole.com"
             }
         ]
     }
